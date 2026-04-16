@@ -1,7 +1,7 @@
 portfolio.db
-data/portfolio.db
-data/run1_plan.json
+.claude/
 output/
+logs/
 __pycache__/
 *.pyc
 .env
