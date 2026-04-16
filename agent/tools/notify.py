@@ -8,8 +8,15 @@ from __future__ import annotations
 
 import json
 import os
+import ssl
 import urllib.request
 import urllib.error
+
+try:
+    import certifi
+    _SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
+except ImportError:
+    _SSL_CONTEXT = None
 
 
 def send_telegram(message: str) -> bool:
@@ -38,7 +45,7 @@ def send_telegram(message: str) -> bool:
             headers={"Content-Type": "application/json"},
             method="POST",
         )
-        with urllib.request.urlopen(req, timeout=10) as resp:
+        with urllib.request.urlopen(req, timeout=10, context=_SSL_CONTEXT) as resp:
             return resp.status == 200
     except Exception as exc:
         print(f"[notify] Failed to send Telegram message: {exc}")
