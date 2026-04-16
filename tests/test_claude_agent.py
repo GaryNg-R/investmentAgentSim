@@ -242,3 +242,40 @@ def test_run_analysis_saves_plan(monkeypatch, tmp_path):
     assert saved["decisions"]["briefing"] == "Market is risk-on. Buying NVDA."
 
 
+# ---------------------------------------------------------------------------
+# Test FEAT-001: parse_decisions extracts market_education and daily_lesson
+# ---------------------------------------------------------------------------
+
+
+def test_parse_decisions_extracts_market_education_and_daily_lesson():
+    """parse_decisions returns market_education and daily_lesson when present."""
+    payload = {
+        "trades": [],
+        "skip_new_buys": False,
+        "briefing": "ok",
+        "market_education": {
+            "summary_en": "Markets fell on recession fears [Reuters].",
+            "summary_zh": "市場因衰退憂慮下跌。",
+            "sources": [{"headline": "Recession fears mount", "publisher": "Reuters"}],
+        },
+        "daily_lesson": {
+            "term": "Risk-Off",
+            "explanation_en": "Risk-off means investors flee to safer assets.",
+            "explanation_zh": "避險模式指投資者轉向安全資產。",
+        },
+    }
+    result = parse_decisions(f"<decisions>{json.dumps(payload)}</decisions>")
+    assert result["market_education"]["summary_en"] == "Markets fell on recession fears [Reuters]."
+    assert result["market_education"]["sources"][0]["publisher"] == "Reuters"
+    assert result["daily_lesson"]["term"] == "Risk-Off"
+    assert result["daily_lesson"]["explanation_zh"] == "避險模式指投資者轉向安全資產。"
+
+
+def test_parse_decisions_missing_feat001_fields_returns_empty_dicts():
+    """parse_decisions returns empty dicts when FEAT-001 fields are absent."""
+    raw = '<decisions>{"trades": [], "skip_new_buys": false, "briefing": "ok"}</decisions>'
+    result = parse_decisions(raw)
+    assert result["market_education"] == {}
+    assert result["daily_lesson"] == {}
+
+

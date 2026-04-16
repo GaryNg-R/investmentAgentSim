@@ -144,7 +144,8 @@ Rules:
 def parse_decisions(raw_output: str) -> dict:
     """
     Extract <decisions>...</decisions> block from raw_output, parse JSON inside.
-    Returns dict with keys: trades (list), skip_new_buys (bool), briefing (str).
+    Returns dict with keys: trades (list), skip_new_buys (bool), briefing (str),
+    market_education (dict), daily_lesson (dict).
     Raises ValueError if block not found or JSON is invalid.
     """
     match = re.search(r"<decisions>(.*?)</decisions>", raw_output, re.DOTALL)
@@ -180,6 +181,8 @@ def parse_decisions(raw_output: str) -> dict:
         "trades": trades,
         "skip_new_buys": skip_new_buys,
         "briefing": briefing,
+        "market_education": data.get("market_education", {}),  # FEAT-001
+        "daily_lesson": data.get("daily_lesson", {}),           # FEAT-001
     }
 
 
