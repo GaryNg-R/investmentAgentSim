@@ -36,6 +36,7 @@ from agent.tools.risk_rules import (
 from agent.tools.screener import screen_stocks
 from agent.tools.stock_data import get_price
 from agent.claude_agent import run_analysis
+from agent.tools.notify import notify_error, notify_run1, notify_run2
 
 import os as _os
 
@@ -85,7 +86,9 @@ def cmd_run1(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
             print(f"PLAN: {action} {shares} {ticker} — {reasoning}")
 
         print(f"Plan saved to {plan_path}")
+        notify_run1(decisions["briefing"], decisions.get("trades", []), market_direction["direction"])
     except Exception as exc:
+        notify_error("run1", str(exc))
         print(f"Error: {exc}")
         sys.exit(1)
 
@@ -109,6 +112,8 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
             print("Skipping new buys (risk-off day)")
 
         portfolio = get_portfolio_status(db_path)
+        executed: list[str] = []
+        rejected: list[str] = []
 
         for trade in decisions.get("trades", []):
             action = trade.get("action", "")
@@ -128,17 +133,25 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
                 valid, reason = validate_buy(ticker, shares, current_price, portfolio)
                 if valid:
                     execute_buy(ticker, shares, current_price, reasoning, db_path)
-                    print(f"EXECUTED: BUY {shares} {ticker} @ ${current_price:.2f} — {reasoning}")
+                    msg = f"BUY {shares} {ticker} @ ${current_price:.2f}"
+                    print(f"EXECUTED: {msg}")
+                    executed.append(msg)
                 else:
-                    print(f"REJECTED: BUY {ticker} — {reason}")
+                    msg = f"BUY {ticker} — {reason}"
+                    print(f"REJECTED: {msg}")
+                    rejected.append(msg)
 
             elif action == "SELL":
                 valid, reason = validate_sell(ticker, shares, portfolio)
                 if valid:
                     execute_sell(ticker, shares, current_price, reasoning, db_path)
-                    print(f"EXECUTED: SELL {shares} {ticker} @ ${current_price:.2f} — {reasoning}")
+                    msg = f"SELL {shares} {ticker} @ ${current_price:.2f}"
+                    print(f"EXECUTED: {msg}")
+                    executed.append(msg)
                 else:
-                    print(f"REJECTED: SELL {ticker} — {reason}")
+                    msg = f"SELL {ticker} — {reason}"
+                    print(f"REJECTED: {msg}")
+                    rejected.append(msg)
 
             # Refresh portfolio after each trade
             portfolio = get_portfolio_status(db_path)
@@ -157,9 +170,11 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
             f"Total Value: ${portfolio['total_value']:,.2f} | "
             f"P&L: {portfolio['pnl_pct']:+.2f}%"
         )
+        notify_run2(executed, rejected, portfolio)
     except SystemExit:
         raise
     except Exception as exc:
+        notify_error("run2", str(exc))
         print(f"Error: {exc}")
         sys.exit(1)
 

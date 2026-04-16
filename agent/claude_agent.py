@@ -11,6 +11,8 @@ import re
 import subprocess
 from datetime import datetime, timezone
 
+from agent.tools.news import get_news_headlines
+
 DATA_DIR = "data"
 
 
@@ -89,6 +91,18 @@ RISK RULES (enforced in code — your trades must respect these):
 - Profit target: auto-sell at +12% from avg cost
 - Only trade tickers from the screened list above"""
 
+    # Section 5b — News headlines for top candidates
+    top_tickers = [s["ticker"] for s in screened_stocks[:5]]
+    news = get_news_headlines(top_tickers)
+    if news:
+        news_lines = []
+        for ticker, headlines in news.items():
+            for headline in headlines:
+                news_lines.append(f"  {ticker}: {headline}")
+        section5b = "RECENT NEWS (top candidates):\n" + "\n".join(news_lines)
+    else:
+        section5b = ""
+
     # Section 6 — Output instructions
     section6 = """\
 REQUIRED OUTPUT FORMAT:
@@ -111,7 +125,7 @@ Rules:
 - Only recommend tickers from the screened list
 - Sell decisions: ticker must be in current portfolio"""
 
-    parts = [section1, section2, section3, section4, section5, section6]
+    parts = [p for p in [section1, section2, section3, section4, section5, section5b, section6] if p]
     return "\n\n".join(parts)
 
 
