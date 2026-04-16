@@ -1,12 +1,13 @@
 """HTML dashboard generator for the investment agent portfolio."""
 
+import html as _html
 import json
 import os
 from datetime import datetime, timezone
 
 from agent.portfolio.database import DB_PATH, get_connection, init_db
+from agent.portfolio.engine import STARTING_CASH
 
-STARTING_CASH = 10_000.0
 TARGET_VALUE = 11_500.0
 
 
@@ -130,7 +131,7 @@ def _build_html(db_path: str) -> str:
             pct_of_port = (pos_val / total_value * 100.0) if total_value > 0 else 0.0
             pos_rows_html += f"""
             <tr>
-                <td><strong>{p['ticker']}</strong></td>
+                <td><strong>{_html.escape(p['ticker'])}</strong></td>
                 <td>{p['shares']:.4f}</td>
                 <td>{fmt_dollar(p['avg_cost'])}</td>
                 <td>{fmt_dollar(pos_val)}</td>
@@ -150,12 +151,12 @@ def _build_html(db_path: str) -> str:
             trade_rows_html += f"""
             <tr>
                 <td>{date_str}</td>
-                <td><span class="action-badge {action_class}">{t['action']}</span></td>
-                <td><strong>{t['ticker']}</strong></td>
+                <td><span class="action-badge {action_class}">{_html.escape(t['action'])}</span></td>
+                <td><strong>{_html.escape(t['ticker'])}</strong></td>
                 <td>{t['shares']:.4f}</td>
                 <td>{fmt_dollar(t['price'])}</td>
                 <td>{fmt_dollar(t['total'])}</td>
-                <td class="reasoning">{reasoning_short}</td>
+                <td class="reasoning">{_html.escape(reasoning_short)}</td>
             </tr>"""
         trades_body = trade_rows_html
     else:
@@ -192,7 +193,7 @@ def _build_html(db_path: str) -> str:
                         }},
                         {{
                             label: 'Starting Capital ($10,000)',
-                            data: new Array(labels.length).fill(10000),
+                            data: new Array(labels.length).fill({STARTING_CASH}),
                             borderColor: '#95a5a6',
                             borderDash: [6, 4],
                             borderWidth: 1.5,

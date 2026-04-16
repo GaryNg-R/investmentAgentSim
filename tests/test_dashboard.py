@@ -97,3 +97,15 @@ def test_dashboard_includes_chartjs(tmp_path):
     generate_dashboard(db_path=db, output_path=out)
     html = open(out, encoding="utf-8").read().lower()
     assert "chart.js" in html or "cdn.jsdelivr.net" in html
+
+
+def test_generate_dashboard_never_raises_on_bad_db(tmp_path):
+    """generate_dashboard must not raise even if the database path is invalid."""
+    output_path = str(tmp_path / "dashboard.html")
+    result = generate_dashboard(db_path="/nonexistent/path/db.sqlite", output_path=output_path)
+    assert result == output_path
+    assert os.path.exists(output_path)
+    # Should write some HTML (even if it's the error page)
+    with open(output_path) as f:
+        content = f.read()
+    assert "<html" in content.lower()
