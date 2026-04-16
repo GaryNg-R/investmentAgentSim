@@ -1,6 +1,5 @@
 """Tests for agent/tools/notify.py — FEAT-001 bilingual blocks."""
 
-import pytest
 from agent.tools.notify import notify_run1
 
 
@@ -25,6 +24,7 @@ def test_notify_run1_includes_bilingual_blocks(monkeypatch):
         },
     )
 
+    assert len(sent) == 1
     msg = sent[0]
     assert "📊 Market Summary" in msg
     assert "Markets rose on strong jobs data" in msg
@@ -44,6 +44,7 @@ def test_notify_run1_skips_blocks_when_no_education_data(monkeypatch):
 
     notify_run1(briefing="All good.", trades=[], market_direction="neutral")
 
+    assert len(sent) == 1
     msg = sent[0]
     assert "Investment Agent" in msg
     assert "📊 Market Summary" not in msg
@@ -63,6 +64,28 @@ def test_notify_run1_skips_blocks_when_empty_dicts(monkeypatch):
         daily_lesson={},
     )
 
+    assert len(sent) == 1
     msg = sent[0]
     assert "📊 Market Summary" not in msg
     assert "📚 Today's Lesson" not in msg
+
+
+def test_notify_run1_handles_malformed_sources(monkeypatch):
+    """notify_run1 does not crash when sources contains non-dict elements."""
+    sent = []
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: sent.append(msg) or True)
+
+    notify_run1(
+        briefing="ok",
+        trades=[],
+        market_direction="neutral",
+        market_education={
+            "summary_en": "Market update.",
+            "summary_zh": "市場更新。",
+            "sources": [None, "Reuters", {"headline": "x", "publisher": "BBC"}],
+        },
+    )
+
+    assert len(sent) == 1
+    msg = sent[0]
+    assert "🔗 Sources: BBC" in msg

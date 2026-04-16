@@ -52,6 +52,11 @@ def send_telegram(message: str) -> bool:
         return False
 
 
+def _esc(text: str) -> str:
+    """Escape Telegram HTML special characters in LLM-controlled content."""
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
 def notify_run1(  # FEAT-001: added market_education and daily_lesson params
     briefing: str,
     trades: list[dict],
@@ -76,14 +81,15 @@ def notify_run1(  # FEAT-001: added market_education and daily_lesson params
             lines.append("")
             lines.append("<b>📊 Market Summary</b>")
             if summary_en:
-                lines.append(summary_en)
+                lines.append(_esc(summary_en))
             if summary_zh:
                 lines.append("")
                 lines.append("<b>市場摘要</b>")
-                lines.append(summary_zh)
-            if sources:
+                lines.append(_esc(summary_zh))
+            if sources and isinstance(sources, list):
                 publishers = list(dict.fromkeys(
-                    s.get("publisher", "") for s in sources if s.get("publisher")
+                    s.get("publisher", "") for s in sources
+                    if isinstance(s, dict) and s.get("publisher")
                 ))
                 if publishers:
                     lines.append("")
@@ -96,13 +102,13 @@ def notify_run1(  # FEAT-001: added market_education and daily_lesson params
         explanation_zh = daily_lesson.get("explanation_zh", "")
         if term and (explanation_en or explanation_zh):
             lines.append("")
-            lines.append(f"<b>📚 Today's Lesson: {term}</b>")
+            lines.append(f"<b>📚 Today's Lesson: {_esc(term)}</b>")
             if explanation_en:
-                lines.append(explanation_en)
+                lines.append(_esc(explanation_en))
             if explanation_zh:
                 lines.append("")
-                lines.append(f"<b>今日課題：{term}</b>")
-                lines.append(explanation_zh)
+                lines.append(f"<b>今日課題：{_esc(term)}</b>")
+                lines.append(_esc(explanation_zh))
 
     if trades:
         lines.append("")
