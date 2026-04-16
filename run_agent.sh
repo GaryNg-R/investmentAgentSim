@@ -27,6 +27,11 @@ log() {
 
 cd "$SCRIPT_DIR"
 
+# Activate virtualenv if present
+if [[ -f "$SCRIPT_DIR/.venv/bin/activate" ]]; then
+  source "$SCRIPT_DIR/.venv/bin/activate"
+fi
+
 log "========================================"
 log "Investment Agent — daily run starting"
 log "========================================"
@@ -46,7 +51,7 @@ fi
 # Run 1 — market scan + Claude analysis
 # ---------------------------------------------------------------------------
 log "--- RUN1: market scan + Claude analysis ---"
-if python -m agent.main run1 2>&1 | tee -a "$LOG_FILE"; then
+if python3 -m agent.main run1 2>&1 | tee -a "$LOG_FILE"; then
   log "RUN1 complete"
 else
   log "ERROR: run1 failed — aborting"
@@ -57,7 +62,7 @@ fi
 # Run 2 — execute the trade plan
 # ---------------------------------------------------------------------------
 log "--- RUN2: executing trade plan ---"
-if python -m agent.main run2 2>&1 | tee -a "$LOG_FILE"; then
+if python3 -m agent.main run2 2>&1 | tee -a "$LOG_FILE"; then
   log "RUN2 complete"
 else
   log "ERROR: run2 failed"

@@ -1,6 +1,6 @@
 # Project Context — AI Investment Agent
 
-**Last updated:** 2026-04-15
+**Last updated:** 2026-04-16
 **Tests:** 69 passing, 0 failing
 
 ---
@@ -93,6 +93,42 @@ Wrapped in `<decisions>...</decisions>` tags. Parsed with regex + json.loads.
 
 ## Watchlist (18 stocks)
 NVDA, AMD, TSLA, META, AMZN, GOOGL, MSFT, AAPL, COIN, PLTR, CRWD, SNOW, NET, QQQ, SOXL, SOXS, MSTR, IONQ
+
+---
+
+## Features
+
+### [FEAT-001] Bilingual Market Education (Telegram)
+
+Extends the Run 1 Telegram notification with two new bilingual blocks.
+**To remove:** revert changes to `agent/claude_agent.py` (prompt + parser) and `agent/tools/notify.py` (message format). Search `# FEAT-001` to find all touch points.
+
+**What it adds to the Telegram message:**
+
+1. **Market Summary** — 3-sentence macro explanation of why the market moved today, citing specific news headlines (source: yfinance). Delivered in English + natural financial Chinese (繁體中文).
+
+2. **Daily Lesson** — one finance term contextually chosen from the day's events (e.g. if `skip_new_buys` is true → explains "risk-off"). Delivered in English + natural financial Chinese.
+
+**How it works:**
+- Two new fields added to the `<decisions>` JSON Claude returns: `market_education` and `daily_lesson`
+- Both are optional/graceful — if Claude omits them, the notification still sends normally
+- No new tools, no new API keys, no extra Claude calls
+
+**New `<decisions>` fields:**
+```json
+{
+  "market_education": {
+    "summary_en": "3-sentence macro explanation with inline source citations",
+    "summary_zh": "Same in natural financial Chinese",
+    "sources": [{"headline": "...", "publisher": "..."}]
+  },
+  "daily_lesson": {
+    "term": "e.g. Risk-Off",
+    "explanation_en": "2-3 sentence plain English explanation",
+    "explanation_zh": "Same in natural financial Chinese"
+  }
+}
+```
 
 ---
 
