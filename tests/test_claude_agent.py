@@ -60,6 +60,20 @@ VALID_DECISIONS_BLOCK = f"<decisions>{VALID_DECISIONS_JSON}</decisions>"
 
 
 # ---------------------------------------------------------------------------
+# Test FEAT-001: build_prompt requests bilingual fields
+# ---------------------------------------------------------------------------
+
+
+def test_build_prompt_requests_feat001_fields():
+    """FEAT-001: build_prompt should request market_education and daily_lesson fields."""
+    prompt = build_prompt(SAMPLE_MARKET, SAMPLE_PORTFOLIO, SAMPLE_STOCKS)
+    assert "market_education" in prompt
+    assert "daily_lesson" in prompt
+    assert "summary_zh" in prompt
+    assert "explanation_zh" in prompt
+
+
+# ---------------------------------------------------------------------------
 # Test 1: build_prompt contains required sections
 # ---------------------------------------------------------------------------
 

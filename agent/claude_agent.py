@@ -103,7 +103,7 @@ RISK RULES (enforced in code — your trades must respect these):
     else:
         section5b = ""
 
-    # Section 6 — Output instructions
+    # Section 6 — Output instructions  # FEAT-001: added market_education and daily_lesson
     section6 = """\
 REQUIRED OUTPUT FORMAT:
 Respond with ONLY a JSON block inside <decisions> tags. No explanation before or after.
@@ -114,7 +114,17 @@ Respond with ONLY a JSON block inside <decisions> tags. No explanation before or
     {"action": "BUY or SELL", "ticker": "TICKER", "shares": N, "reasoning": "one sentence"}
   ],
   "skip_new_buys": false,
-  "briefing": "2-3 sentence market summary and what you decided"
+  "briefing": "2-3 sentence market summary and what you decided",
+  "market_education": {
+    "summary_en": "3-sentence explanation of WHY the market moved today, citing specific headlines inline e.g. '...following Fed rate comments [Reuters]...'",
+    "summary_zh": "Same content written in natural financial Traditional Chinese (繁體中文), as a HK/TW finance article would read — not a literal translation",
+    "sources": [{"headline": "exact headline text", "publisher": "publisher name"}]
+  },
+  "daily_lesson": {
+    "term": "The single most relevant finance concept from today — pick from what actually happened (e.g. if skip_new_buys is true pick 'Risk-Off', if NASDAQ dropped sharply pick 'Market Correction', if a stop-loss would fire pick 'Stop-Loss')",
+    "explanation_en": "2-3 sentence plain English explanation a beginner can understand",
+    "explanation_zh": "Same explanation in natural financial Traditional Chinese (繁體中文)"
+  }
 }
 </decisions>
 
@@ -123,7 +133,9 @@ Rules:
 - skip_new_buys: set true if you think market conditions are too risky for new positions
 - briefing: plain English summary, no jargon
 - Only recommend tickers from the screened list
-- Sell decisions: ticker must be in current portfolio"""
+- Sell decisions: ticker must be in current portfolio
+- market_education.sources: only cite headlines from the RECENT NEWS section above
+- daily_lesson.term: must be derived from what actually happened today, not a random concept"""
 
     parts = [p for p in [section1, section2, section3, section4, section5, section5b, section6] if p]
     return "\n\n".join(parts)
