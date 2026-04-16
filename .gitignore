@@ -1,0 +1,9 @@
+portfolio.db
+data/portfolio.db
+data/run1_plan.json
+output/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.DS_Store
