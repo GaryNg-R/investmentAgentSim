@@ -93,7 +93,7 @@ def notify_run1(  # FEAT-001: added market_education and daily_lesson params
                 ))
                 if publishers:
                     lines.append("")
-                    lines.append(f"🔗 Sources: {' · '.join(publishers)}")
+                    lines.append(f"🔗 Sources: {' · '.join(_esc(p) for p in publishers)}")
 
     # FEAT-001: contextual bilingual daily lesson
     if daily_lesson:
