@@ -183,4 +183,24 @@ def test_run2_executes_buy(tmp_path, monkeypatch, capsys):
 
     captured = capsys.readouterr()
     # Price is $100, 5 shares = $500, well within $10,000 cash — should be EXECUTED
-    assert "EXECUTED" in captured.out or "REJECTED" in captured.out
+    assert "EXECUTED: BUY 5 NVDA" in captured.out
+
+
+def test_monitor_triggers_stop_loss(tmp_path, monkeypatch, capsys):
+    """monitor should auto-sell a position that is down 10% (past -7% stop-loss threshold)."""
+    from agent.portfolio.database import init_db
+    from agent.portfolio.engine import execute_buy
+    from agent.main import cmd_monitor
+
+    db_file = str(tmp_path / "portfolio.db")
+    init_db(db_file)
+    # Buy 10 shares at $100 avg cost
+    execute_buy("NVDA", 10, 100.0, "test buy", db_path=db_file)
+
+    # Mock get_price to return $88 (12% below cost — past -7% stop-loss)
+    monkeypatch.setattr("agent.main.get_price", lambda ticker: 88.0)
+
+    cmd_monitor(db_path=db_file)
+    captured = capsys.readouterr()
+    assert "STOP-LOSS" in captured.out
+    assert "NVDA" in captured.out

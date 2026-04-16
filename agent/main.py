@@ -37,8 +37,11 @@ from agent.tools.screener import screen_stocks
 from agent.tools.stock_data import get_price
 from agent.claude_agent import run_analysis
 
-PLAN_PATH = "data/run1_plan.json"
-OUTPUT_PATH = "output/dashboard.html"
+import os as _os
+
+_PROJECT_ROOT = _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))
+PLAN_PATH = _os.path.join(_PROJECT_ROOT, "data", "run1_plan.json")
+OUTPUT_PATH = _os.path.join(_PROJECT_ROOT, "output", "dashboard.html")
 
 USAGE = """\
 AI Investment Agent — Paper Trading
@@ -72,6 +75,8 @@ def cmd_run1(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
         decisions = run_analysis(market_direction, portfolio, screened_stocks, plan_path)
 
         print(decisions["briefing"])
+        if decisions["briefing"].startswith("Analysis failed:"):
+            sys.exit(1)
         for trade in decisions.get("trades", []):
             action = trade.get("action", "")
             ticker = trade.get("ticker", "")
@@ -171,27 +176,28 @@ def cmd_monitor(db_path: str = DB_PATH, output_path: str = OUTPUT_PATH) -> None:
 
         any_sells = False
 
-        for position in portfolio["positions"]:
-            ticker = position["ticker"]
-            shares = position["shares"]
-            avg_cost = position["avg_cost"]
-
-            current_price = get_price(ticker)
-            if current_price is None:
-                print(f"Could not fetch price for {ticker}, skipping")
-                continue
-
-            if check_stop_loss(ticker, current_price, avg_cost):
-                execute_sell(ticker, int(shares), current_price, "Stop-loss triggered", db_path)
-                print(f"STOP-LOSS: sold {ticker}")
-                any_sells = True
-            elif check_profit_target(ticker, current_price, avg_cost):
-                execute_sell(ticker, int(shares), current_price, "Profit target reached", db_path)
-                print(f"PROFIT TARGET: sold {ticker}")
-                any_sells = True
-            else:
-                pct = (current_price / avg_cost - 1) * 100
-                print(f"{ticker}: ${current_price:.2f} (cost ${avg_cost:.2f}, {pct:+.1f}%)")
+        for pos in portfolio["positions"]:
+            try:
+                ticker = pos["ticker"]
+                shares = int(pos["shares"])
+                avg_cost = pos["avg_cost"]
+                current_price = get_price(ticker)
+                if current_price is None:
+                    print(f"  {ticker}: could not fetch price, skipping")
+                    continue
+                if check_stop_loss(ticker, current_price, avg_cost):
+                    execute_sell(ticker, shares, current_price, "stop-loss triggered", db_path=db_path)
+                    print(f"  STOP-LOSS: sold {shares} {ticker} @ ${current_price:.2f}")
+                    any_sells = True
+                elif check_profit_target(ticker, current_price, avg_cost):
+                    execute_sell(ticker, shares, current_price, "profit target hit", db_path=db_path)
+                    print(f"  PROFIT TARGET: sold {shares} {ticker} @ ${current_price:.2f}")
+                    any_sells = True
+                else:
+                    pct = (current_price / avg_cost - 1) * 100
+                    print(f"  {ticker}: ${current_price:.2f} (cost ${avg_cost:.2f}, {pct:+.1f}%)")
+            except Exception as exc:
+                print(f"  Warning: could not process {pos.get('ticker', '?')}: {exc}")
 
         if any_sells:
             portfolio = get_portfolio_status(db_path)
@@ -210,6 +216,8 @@ def cmd_history(db_path: str = DB_PATH) -> None:
     try:
         init_db(db_path)
         trades = get_trade_history(limit=100, db_path=db_path)
+        if len(trades) == 100:
+            print("(Showing most recent 100 trades)")
         portfolio = get_portfolio_status(db_path)
 
         try:
