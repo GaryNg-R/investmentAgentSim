@@ -11,8 +11,6 @@ import re
 import subprocess
 from datetime import datetime, timezone
 
-from agent.portfolio.database import DB_PATH
-
 DATA_DIR = "data"
 
 
@@ -166,16 +164,20 @@ def call_claude(prompt: str) -> str:
     Raises RuntimeError on non-zero exit or timeout.
     Timeout: 120 seconds.
     """
-    result = subprocess.run(
-        ["claude", "--print", prompt],
-        capture_output=True,
-        text=True,
-        timeout=120,
-    )
-    if result.returncode != 0:
-        raise RuntimeError(
-            f"claude CLI failed (exit {result.returncode}): {result.stderr[:200]}"
+    try:
+        result = subprocess.run(
+            ["claude", "--print", prompt],
+            capture_output=True,
+            text=True,
+            timeout=120,
         )
+    except subprocess.TimeoutExpired as exc:
+        proc = getattr(exc, "process", None)
+        if proc is not None:
+            proc.kill()
+        raise RuntimeError("claude CLI timed out after 120s") from exc
+    if result.returncode != 0:
+        raise RuntimeError(f"claude CLI failed (exit {result.returncode}): {result.stderr[:200]}")
     return result.stdout
 
 
@@ -183,7 +185,6 @@ def run_analysis(
     market_direction: dict,
     portfolio: dict,
     screened_stocks: list[dict],
-    db_path: str = DB_PATH,
     plan_path: str = "data/run1_plan.json",
 ) -> dict:
     """

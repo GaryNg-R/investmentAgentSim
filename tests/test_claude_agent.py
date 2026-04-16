@@ -1,6 +1,7 @@
 """Tests for agent/claude_agent.py — no real Claude CLI calls."""
 
 import json
+import os
 import subprocess
 from unittest.mock import MagicMock
 
@@ -155,6 +156,21 @@ def test_call_claude_failure(monkeypatch):
 
 
 # ---------------------------------------------------------------------------
+# Test 7b: call_claude raises RuntimeError on timeout
+# ---------------------------------------------------------------------------
+
+
+def test_call_claude_timeout(monkeypatch):
+    """call_claude should raise RuntimeError when subprocess times out."""
+    import subprocess as sp
+    def mock_run(*args, **kwargs):
+        raise sp.TimeoutExpired(cmd=["claude"], timeout=120)
+    monkeypatch.setattr(sp, "run", mock_run)
+    with pytest.raises(RuntimeError, match="timed out"):
+        call_claude("test prompt")
+
+
+# ---------------------------------------------------------------------------
 # Test 8: run_analysis returns fallback on Claude failure
 # ---------------------------------------------------------------------------
 
@@ -169,7 +185,6 @@ def test_run_analysis_fallback_on_error(monkeypatch, tmp_path):
         SAMPLE_MARKET,
         SAMPLE_PORTFOLIO,
         SAMPLE_STOCKS,
-        db_path=str(tmp_path / "test.db"),
         plan_path=str(tmp_path / "run1_plan.json"),
     )
 
@@ -194,7 +209,6 @@ def test_run_analysis_saves_plan(monkeypatch, tmp_path):
         SAMPLE_MARKET,
         SAMPLE_PORTFOLIO,
         SAMPLE_STOCKS,
-        db_path=str(tmp_path / "test.db"),
         plan_path=plan_path,
     )
 
@@ -214,5 +228,3 @@ def test_run_analysis_saves_plan(monkeypatch, tmp_path):
     assert saved["decisions"]["briefing"] == "Market is risk-on. Buying NVDA."
 
 
-# Need os for path check
-import os
