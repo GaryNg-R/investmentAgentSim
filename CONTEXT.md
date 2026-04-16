@@ -1,7 +1,7 @@
 # Project Context — AI Investment Agent
 
 **Last updated:** 2026-04-15
-**Tests:** 41 passing, 0 failing
+**Tests:** 69 passing, 0 failing
 
 ---
 
@@ -21,9 +21,9 @@ Fully autonomous paper trading agent. Runs on cron. Uses Claude Code CLI (`claud
 | ✅ 4 | `agent/tools/stock_data.py`, `agent/tools/market_index.py` | Done |
 | ✅ 5 | `agent/tools/technical.py`, `agent/tools/screener.py` | Done |
 | ✅ 6 | `agent/tools/risk_rules.py` | Done |
-| ⏳ 7 | `agent/claude_agent.py` | Next |
-| ⏳ 8 | `agent/tools/dashboard.py` | Pending |
-| ⏳ 9 | `agent/main.py` (CLI + cron) | Pending |
+| ✅ 7 | `agent/claude_agent.py` | Done |
+| ✅ 8 | `agent/tools/dashboard.py` | Done |
+| ✅ 9 | `agent/main.py` (CLI + cron) | Done |
 
 ---
 
