@@ -249,4 +249,6 @@ def run_analysis(
             "trades": [],
             "skip_new_buys": False,
             "briefing": f"Analysis failed: {exc}",
+            "market_education": {},  # FEAT-001
+            "daily_lesson": {},      # FEAT-001
         }

@@ -207,6 +207,8 @@ def test_run_analysis_fallback_on_error(monkeypatch, tmp_path):
     assert result["trades"] == []
     assert result["skip_new_buys"] is False
     assert result["briefing"].startswith("Analysis failed")
+    assert result["market_education"] == {}  # FEAT-001
+    assert result["daily_lesson"] == {}       # FEAT-001
 
 
 # ---------------------------------------------------------------------------
