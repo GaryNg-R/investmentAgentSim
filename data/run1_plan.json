@@ -1,28 +1,16 @@
 {
-  "saved_at": "2026-04-16T15:17:45.323617+00:00",
+  "saved_at": "2026-04-16T18:27:18.731110+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "TSLA",
-        "shares": 6,
-        "reasoning": "Score 95, RSI 55.5 in bullish zone, MACD crossover confirmed, price above SMA-20 \u2014 clean momentum setup."
-      },
-      {
-        "action": "BUY",
-        "ticker": "MSFT",
-        "shares": 6,
-        "reasoning": "Score 95, RSI 69.7 near top of bullish zone with MACD rising histogram, strong trend with room before overbought."
-      },
-      {
-        "action": "BUY",
-        "ticker": "META",
-        "shares": 3,
-        "reasoning": "Score 95, RSI 67.4 bullish zone, MACD rising, price well above SMA-20 indicating strong trend continuation."
+        "ticker": "COIN",
+        "shares": 12,
+        "reasoning": "Score 95 with RSI 59.5 in bullish momentum zone, MACD bullish crossover, and price well above SMA-20 \u2014 strong setup using available cash to fill the third position slot"
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are mildly positive today with both NASDAQ and S&P 500 up 0.3%, a neutral but non-threatening backdrop. I opened three positions in the highest-scored stocks (all 95) with RSI readings in the ideal 55-70 bullish momentum zone \u2014 avoiding overbought names like NVDA, AMD, and GOOGL. Each position is sized at or below 25% of the portfolio, with stop-losses at -7% and profit targets at +12% protecting downside while targeting the 15% overall goal."
+    "briefing": "Markets are essentially flat today with a neutral bias, but our top-scored stocks remain in strong technical shape. META and TSLA positions are holding near cost with bullish signals intact. Adding COIN to deploy idle cash into a high-conviction momentum name while staying within risk limits."
   }
 }

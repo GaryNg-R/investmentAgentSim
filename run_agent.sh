@@ -35,7 +35,7 @@ log "========================================"
 # Sync — pull latest portfolio data from main
 # ---------------------------------------------------------------------------
 log "--- SYNC: pulling latest data from main ---"
-if git pull origin main 2>&1 | tee -a "$LOG_FILE"; then
+if git pull origin master 2>&1 | tee -a "$LOG_FILE"; then
   log "Pull complete"
 else
   log "ERROR: git pull failed — aborting to avoid data conflict"
@@ -75,7 +75,7 @@ if git diff --cached --quiet; then
 else
   TODAY="$(date '+%Y-%m-%d')"
   git commit -m "data: daily run $TODAY" 2>&1 | tee -a "$LOG_FILE"
-  if git push origin main 2>&1 | tee -a "$LOG_FILE"; then
+  if git push origin master 2>&1 | tee -a "$LOG_FILE"; then
     log "Push complete"
   else
     log "WARNING: git push failed — run data saved locally but not synced"
