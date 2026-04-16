@@ -99,6 +99,8 @@ def test_parse_decisions_valid():
     assert result["trades"] == []
     assert result["skip_new_buys"] is False
     assert result["briefing"] == "all good"
+    assert result["market_education"] == {}  # FEAT-001
+    assert result["daily_lesson"] == {}       # FEAT-001
 
 
 # ---------------------------------------------------------------------------
