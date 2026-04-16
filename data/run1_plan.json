@@ -1,16 +1,22 @@
 {
-  "saved_at": "2026-04-16T18:27:18.731110+00:00",
+  "saved_at": "2026-04-16T18:28:22.590885+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
+        "action": "SELL",
+        "ticker": "TSLA",
+        "shares": 6,
+        "reasoning": "TSLA is the weakest position (score 80, RSI below bullish zone at 54.7) and slightly underwater \u2014 rotating into higher-momentum MSTR"
+      },
+      {
         "action": "BUY",
-        "ticker": "COIN",
-        "shares": 12,
-        "reasoning": "Score 95 with RSI 59.5 in bullish momentum zone, MACD bullish crossover, and price well above SMA-20 \u2014 strong setup using available cash to fill the third position slot"
+        "ticker": "MSTR",
+        "shares": 17,
+        "reasoning": "Score 95 with RSI 59.9 in bullish momentum zone, MACD bullish crossover, price well above SMA-20 \u2014 strong momentum at a reasonable price (~$2,444 within 25% limit)"
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are essentially flat today with a neutral bias, but our top-scored stocks remain in strong technical shape. META and TSLA positions are holding near cost with bullish signals intact. Adding COIN to deploy idle cash into a high-conviction momentum name while staying within risk limits."
+    "briefing": "Markets are flat today (neutral), so no macro tailwind or headwind. All three current positions are near breakeven with no stop-loss risks, but TSLA has the weakest technicals of the group. Rotating TSLA into MSTR upgrades the portfolio's average momentum score while staying within position limits."
   }
 }
