@@ -52,14 +52,57 @@ def send_telegram(message: str) -> bool:
         return False
 
 
-def notify_run1(briefing: str, trades: list[dict], market_direction: str) -> None:
+def notify_run1(  # FEAT-001: added market_education and daily_lesson params
+    briefing: str,
+    trades: list[dict],
+    market_direction: str,
+    market_education: dict | None = None,
+    daily_lesson: dict | None = None,
+) -> None:
     """Send run1 plan summary to Telegram."""
     lines = [
-        f"<b>Investment Agent — Daily Plan</b>",
+        "<b>Investment Agent — Daily Plan</b>",
         f"Market: {market_direction}",
         "",
-        f"{briefing}",
+        briefing,
     ]
+
+    # FEAT-001: bilingual macro market summary
+    if market_education:
+        summary_en = market_education.get("summary_en", "")
+        summary_zh = market_education.get("summary_zh", "")
+        sources = market_education.get("sources", [])
+        if summary_en or summary_zh:
+            lines.append("")
+            lines.append("<b>📊 Market Summary</b>")
+            if summary_en:
+                lines.append(summary_en)
+            if summary_zh:
+                lines.append("")
+                lines.append("<b>市場摘要</b>")
+                lines.append(summary_zh)
+            if sources:
+                publishers = list(dict.fromkeys(
+                    s.get("publisher", "") for s in sources if s.get("publisher")
+                ))
+                if publishers:
+                    lines.append("")
+                    lines.append(f"🔗 Sources: {' · '.join(publishers)}")
+
+    # FEAT-001: contextual bilingual daily lesson
+    if daily_lesson:
+        term = daily_lesson.get("term", "")
+        explanation_en = daily_lesson.get("explanation_en", "")
+        explanation_zh = daily_lesson.get("explanation_zh", "")
+        if term and (explanation_en or explanation_zh):
+            lines.append("")
+            lines.append(f"<b>📚 Today's Lesson: {term}</b>")
+            if explanation_en:
+                lines.append(explanation_en)
+            if explanation_zh:
+                lines.append("")
+                lines.append(f"<b>今日課題：{term}</b>")
+                lines.append(explanation_zh)
 
     if trades:
         lines.append("")

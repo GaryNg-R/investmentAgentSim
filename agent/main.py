@@ -86,7 +86,13 @@ def cmd_run1(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
             print(f"PLAN: {action} {shares} {ticker} — {reasoning}")
 
         print(f"Plan saved to {plan_path}")
-        notify_run1(decisions["briefing"], decisions.get("trades", []), market_direction["direction"])
+        notify_run1(  # FEAT-001: pass bilingual education fields
+            decisions["briefing"],
+            decisions.get("trades", []),
+            market_direction["direction"],
+            market_education=decisions.get("market_education", {}),
+            daily_lesson=decisions.get("daily_lesson", {}),
+        )
     except Exception as exc:
         notify_error("run1", str(exc))
         print(f"Error: {exc}")
