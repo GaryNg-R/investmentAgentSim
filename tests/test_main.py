@@ -191,7 +191,7 @@ def test_run2_executes_buy(tmp_path, monkeypatch, capsys):
 
     captured = capsys.readouterr()
     # Low conviction allocates 4% of $10,000 = $400; at $100/share = 4 shares — should be EXECUTED
-    assert "EXECUTED: BUY 4.0 NVDA" in captured.out or "BUY 4" in captured.out
+    assert "EXECUTED: BUY 4 NVDA" in captured.out
 
 
 # FEAT-002
@@ -292,9 +292,9 @@ def test_run2_high_conviction_buy_allocates_15pct_of_cash(tmp_path, monkeypatch,
         patch("agent.main.datetime") as mock_dt,
     ):
         mock_dt.now.return_value = _market_open_et
-        mock_dt.side_effect = lambda *a, **kw: __import__("datetime").datetime(*a, **kw)
+        mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
         cmd_run2(db_path=db_file, plan_path=plan_file, output_path=output_file)
 
     captured = capsys.readouterr()
     # 15% of $10,000 = $1,500; at $100/share = 15 shares
-    assert "EXECUTED: BUY 15.0 NVDA" in captured.out or "BUY 15" in captured.out
+    assert "EXECUTED: BUY 15 NVDA" in captured.out
