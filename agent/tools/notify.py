@@ -131,6 +131,7 @@ def notify_run2(  # FEAT-002: added benchmark param
     rejected: list[str],
     portfolio: dict,
     benchmark: dict | None = None,
+    dividends: list[dict] | None = None,
 ) -> None:
     """Send run2 execution results to Telegram."""
     lines = ["<b>Investment Agent — Trades Executed</b>", ""]

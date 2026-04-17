@@ -42,6 +42,7 @@ from agent.claude_agent import run_analysis
 from agent.tools.notify import notify_error, notify_run1, notify_run2, notify_weekly
 from agent.tools.weekly_report import build_weekly_report  # FEAT-004
 from agent.tools.benchmark import update_benchmark  # FEAT-002
+from agent.tools.dividends import process_dividends  # FEAT-005
 
 import os as _os
 
@@ -207,6 +208,7 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
         save_daily_snapshot(today, portfolio["total_value"], portfolio["cash"], portfolio["pnl_pct"], db_path)
 
         benchmark = update_benchmark(db_path)  # FEAT-002: must run before dashboard
+        dividends = process_dividends(db_path)  # FEAT-005
 
         # Regenerate dashboard
         generate_dashboard(db_path, output_path)
@@ -217,7 +219,7 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
             f"Total Value: ${portfolio['total_value']:,.2f} | "
             f"P&L: {portfolio['pnl_pct']:+.2f}%"
         )
-        notify_run2(executed, rejected, portfolio, benchmark=benchmark)  # FEAT-002
+        notify_run2(executed, rejected, portfolio, benchmark=benchmark, dividends=dividends)  # FEAT-002, FEAT-005
     except SystemExit:
         raise
     except Exception as exc:

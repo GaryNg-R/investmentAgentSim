@@ -314,3 +314,43 @@ def test_run2_high_conviction_buy_allocates_15pct_of_cash(tmp_path, monkeypatch,
     captured = capsys.readouterr()
     # 15% of $10,000 = $1,500; at $100/share = 15 shares
     assert "EXECUTED: BUY 15 NVDA" in captured.out
+
+
+# FEAT-005
+def test_cmd_run2_calls_process_dividends(tmp_path, monkeypatch, capsys):
+    """cmd_run2 calls process_dividends and does not crash when no dividends."""
+    from datetime import datetime as _dt
+    from zoneinfo import ZoneInfo
+    db_file = str(tmp_path / "portfolio.db")
+    plan_file = str(tmp_path / "run1_plan.json")
+    out_file = str(tmp_path / "output" / "dashboard.html")
+
+    init_db(db_file)
+
+    plan = {
+        "decisions": {
+            "trades": [],
+            "skip_new_buys": False,
+            "briefing": "ok",
+        }
+    }
+    with open(plan_file, "w") as f:
+        json.dump(plan, f)
+
+    _market_open_et = _dt(2026, 4, 17, 10, 0, tzinfo=ZoneInfo("America/New_York"))
+    dividend_calls = []
+
+    def _fake_dividends(db_path, _today=None):
+        dividend_calls.append(db_path)
+        return []
+
+    monkeypatch.setattr("agent.main.process_dividends", _fake_dividends)
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: True)
+    monkeypatch.setattr("agent.tools.benchmark._get_voo_price", lambda: 450.0)
+
+    with patch("agent.main.datetime") as mock_dt:
+        mock_dt.now.return_value = _market_open_et
+        mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
+        cmd_run2(db_path=db_file, plan_path=plan_file, output_path=out_file)
+
+    assert len(dividend_calls) == 1
