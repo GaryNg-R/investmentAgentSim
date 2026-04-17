@@ -1,9 +1,19 @@
 {
-  "saved_at": "2026-04-16T22:35:40.004744+00:00",
+  "saved_at": "2026-04-17T00:34:49.765416+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets are mildly positive today with all three holdings showing strong bullish momentum scores of 95. MSTR is up 3.7%, COIN up 2.0%, and META up 0.4% from average cost \u2014 all well within profit targets and stop-loss thresholds. With all 3 position slots filled and no holdings triggering sell signals, the best move is to hold and let the momentum play out."
+    "briefing": "Markets edged higher in a neutral session with NASDAQ up 0.4% and S&P 500 up 0.3%. All three holdings \u2014 META, COIN, and MSTR \u2014 maintain top-tier momentum scores of 95 with RSI in the bullish zone and MACD bullish crossovers intact. Already at the 3-position limit with no compelling reason to rotate, holding all positions to let momentum run toward profit targets.",
+    "market_education": {
+      "summary_en": "U.S. equities posted modest gains in a directionless session, with the NASDAQ rising 0.4% and the S&P 500 adding 0.3%, reflecting cautious optimism amid steady macro conditions. Technology and crypto-adjacent names continued to attract buyers as momentum indicators remained constructive across growth sectors. With no major catalysts to disrupt the trend, markets drifted higher on light conviction.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5c0f\u5e45\u6536\u9ad8\uff0c\u8d70\u52e2\u504f\u4e2d\u6027\uff0c\u7d0d\u6307\u6f320.4%\uff0c\u6a19\u666e500\u6307\u6578\u6f320.3%\uff0c\u53cd\u6620\u5e02\u5834\u5728\u5b8f\u89c0\u74b0\u5883\u76f8\u5c0d\u7a69\u5b9a\u4e0b\u4fdd\u6301\u8b39\u614e\u6a02\u89c0\u60c5\u7dd2\u3002\u79d1\u6280\u80a1\u53ca\u52a0\u5bc6\u8ca8\u5e63\u76f8\u95dc\u500b\u80a1\u6301\u7e8c\u7372\u8cc7\u91d1\u9752\u775e\uff0c\u5404\u6210\u9577\u677f\u584a\u52d5\u80fd\u6307\u6a19\u7dad\u6301\u5f37\u52e2\u3002\u5e02\u5834\u7f3a\u4e4f\u91cd\u5927\u50ac\u5316\u5291\uff0c\u6210\u4ea4\u91cf\u6e05\u6de1\uff0c\u80a1\u50f9\u65bc\u9ad8\u4f4d\u7de9\u6b65\u4e0a\u63da\u3002",
+      "sources": []
+    },
+    "daily_lesson": {
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy that bets on stocks already moving higher to keep rising. The idea is that assets showing strong recent performance \u2014 measured by indicators like RSI and MACD \u2014 tend to continue in the same direction in the short term. Today all three holdings score 95 on momentum, which is why we're holding rather than selling into strength.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8ffd\u8cb7\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u5176\u6f32\u52e2\u5f97\u4ee5\u5ef6\u7e8c\u3002\u5176\u80cc\u5f8c\u908f\u8f2f\u5728\u65bc\uff1a\u900f\u904eRSI\u3001MACD\u7b49\u6280\u8853\u6307\u6a19\u986f\u793a\u5f37\u52c1\u52d5\u80fd\u7684\u8cc7\u7522\uff0c\u77ed\u671f\u5167\u5f80\u5f80\u50be\u5411\u7dad\u6301\u540c\u4e00\u65b9\u5411\u904b\u884c\u3002\u4eca\u65e5\u7d44\u5408\u4e2d\u4e09\u6a94\u6301\u5009\u7684\u52d5\u80fd\u8a55\u5206\u5747\u905495\u5206\uff0c\u6b63\u662f\u6211\u5011\u9078\u64c7\u6301\u5009\u4e0d\u52d5\u3001\u8b93\u8da8\u52e2\u7e7c\u7e8c\u767c\u5c55\u7684\u539f\u56e0\u3002"
+    }
   }
 }
