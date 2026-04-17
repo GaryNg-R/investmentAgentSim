@@ -15,7 +15,8 @@ from __future__ import annotations
 
 import json
 import sys
-from datetime import date
+from datetime import date, datetime, time as dtime
+from zoneinfo import ZoneInfo
 
 from agent.portfolio.database import DB_PATH, get_connection, init_db  # FEAT-002: added get_connection
 from agent.portfolio.engine import (
@@ -129,6 +130,19 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
             sys.exit(1)
 
         decisions = payload.get("decisions", payload)
+
+        # Guard: skip all trades outside NYSE market hours (9:30am–4:00pm ET, Mon–Fri)
+        _et = ZoneInfo("America/New_York")
+        _now_et = datetime.now(_et)
+        _market_open = dtime(9, 30)
+        _market_close = dtime(16, 0)
+        _is_market_hours = (
+            _now_et.weekday() < 5
+            and _market_open <= _now_et.time() < _market_close
+        )
+        if not _is_market_hours:
+            print(f"Market closed ({_now_et.strftime('%H:%M ET %a')}) — skipping all trades")
+            decisions = {**decisions, "trades": []}
 
         if decisions.get("skip_new_buys", False):
             print("Skipping new buys (risk-off day)")

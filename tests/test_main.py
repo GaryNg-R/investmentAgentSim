@@ -178,7 +178,15 @@ def test_run2_executes_buy(tmp_path, monkeypatch, capsys):
     with open(plan_file, "w") as fh:
         json.dump(plan_payload, fh)
 
-    with patch("agent.main.get_price", return_value=100.0):
+    from datetime import datetime as _dt
+    from zoneinfo import ZoneInfo
+    _market_open_et = _dt(2026, 4, 15, 10, 0, tzinfo=ZoneInfo("America/New_York"))  # Tuesday 10am ET
+    with (
+        patch("agent.main.get_price", return_value=100.0),
+        patch("agent.main.datetime") as mock_dt,
+    ):
+        mock_dt.now.return_value = _market_open_et
+        mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
         cmd_run2(db_path=db_file, plan_path=plan_file, output_path=output_file)
 
     captured = capsys.readouterr()
