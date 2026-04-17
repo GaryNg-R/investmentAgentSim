@@ -177,3 +177,50 @@ def notify_error(step: str, error: str) -> None:
     """Send an error alert to Telegram."""
     message = f"<b>Investment Agent — ERROR in {step}</b>\n\n{error}"
     send_telegram(message)
+
+
+def notify_weekly(report: dict) -> None:  # FEAT-004
+    """Send Sunday weekly digest to Telegram."""
+    week_start = report.get("week_start", "")
+    week_end = report.get("week_end", "")
+    trades = report.get("trades", [])
+    agent_end = report.get("agent_end_value", 0.0)
+    agent_pnl_dollar = report.get("agent_pnl_dollar", 0.0)
+    agent_pnl_pct = report.get("agent_pnl_pct", 0.0)
+    voo_end = report.get("voo_end_value", 0.0)
+    voo_pnl_dollar = report.get("voo_pnl_dollar", 0.0)
+    voo_pnl_pct = report.get("voo_pnl_pct", 0.0)
+    best_ticker = report.get("best_ticker")
+    worst_ticker = report.get("worst_ticker")
+
+    agent_sign = "+" if agent_pnl_dollar >= 0 else ""
+    voo_sign = "+" if voo_pnl_dollar >= 0 else ""
+
+    lines = [
+        f"<b>📅 Weekly Digest — {week_start} to {week_end}</b>",
+        "",
+        "<b>Performance</b>",
+        f"  Agent: ${agent_end:,.0f} ({agent_sign}${agent_pnl_dollar:,.0f}, {agent_sign}{agent_pnl_pct:.1f}%)",
+        f"  VOO:   ${voo_end:,.0f} ({voo_sign}${voo_pnl_dollar:,.0f}, {voo_sign}{voo_pnl_pct:.1f}%)",
+    ]
+
+    if best_ticker or worst_ticker:
+        lines.append("")
+        lines.append("<b>Positions</b>")
+        if best_ticker:
+            lines.append(f"  Best:  {best_ticker}")
+        if worst_ticker:
+            lines.append(f"  Worst: {worst_ticker}")
+
+    lines.append("")
+    if trades:
+        lines.append(f"<b>Trades this week ({len(trades)})</b>")
+        for t in trades:
+            date_str = t.get("timestamp", "")[:10]
+            lines.append(
+                f"  {date_str} {t['action']} {t['shares']} {t['ticker']} @ ${t['price']:,.2f}"
+            )
+    else:
+        lines.append("No trades this week.")
+
+    send_telegram("\n".join(lines))

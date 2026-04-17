@@ -134,3 +134,66 @@ def test_notify_run1_handles_malformed_sources(monkeypatch):
     assert len(sent) == 1
     msg = sent[0]
     assert "🔗 Sources: BBC" in msg
+
+
+# FEAT-004
+def test_notify_weekly_sends_telegram(monkeypatch):
+    """notify_weekly sends a Telegram message with key weekly metrics."""
+    sent = []
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: sent.append(msg) or True)
+
+    from agent.tools.notify import notify_weekly
+    notify_weekly({
+        "week_start": "2026-04-13",
+        "week_end": "2026-04-19",
+        "trades": [
+            {"action": "BUY", "ticker": "NVDA", "shares": 10, "price": 100.0,
+             "total": 1000.0, "timestamp": "2026-04-15 10:00:00"},
+        ],
+        "agent_start_value": 10000.0,
+        "agent_end_value": 10500.0,
+        "agent_pnl_dollar": 500.0,
+        "agent_pnl_pct": 5.0,
+        "voo_start_value": 10000.0,
+        "voo_end_value": 10200.0,
+        "voo_pnl_dollar": 200.0,
+        "voo_pnl_pct": 2.0,
+        "best_ticker": "NVDA",
+        "worst_ticker": None,
+    })
+
+    assert len(sent) == 1
+    msg = sent[0]
+    assert "Weekly" in msg
+    assert "2026-04-13" in msg
+    assert "2026-04-19" in msg
+    assert "+$500" in msg or "+500" in msg
+    assert "NVDA" in msg
+    assert "VOO" in msg
+
+
+# FEAT-004
+def test_notify_weekly_handles_empty_report(monkeypatch):
+    """notify_weekly sends without crashing when report has no trades or positions."""
+    sent = []
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: sent.append(msg) or True)
+
+    from agent.tools.notify import notify_weekly
+    notify_weekly({
+        "week_start": "2026-04-13",
+        "week_end": "2026-04-19",
+        "trades": [],
+        "agent_start_value": 0.0,
+        "agent_end_value": 0.0,
+        "agent_pnl_dollar": 0.0,
+        "agent_pnl_pct": 0.0,
+        "voo_start_value": 0.0,
+        "voo_end_value": 0.0,
+        "voo_pnl_dollar": 0.0,
+        "voo_pnl_pct": 0.0,
+        "best_ticker": None,
+        "worst_ticker": None,
+    })
+
+    assert len(sent) == 1
+    assert "Weekly" in sent[0]
