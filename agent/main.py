@@ -31,6 +31,7 @@ from agent.tools.market_index import get_market_direction
 from agent.tools.risk_rules import (
     check_profit_target,
     check_stop_loss,
+    position_size_from_conviction,
     validate_buy,
     validate_sell,
 )
@@ -166,6 +167,10 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
                 if decisions.get("skip_new_buys", False):
                     print(f"Skipped BUY {ticker} (risk-off)")
                     continue
+                # FEAT-003: derive shares from conviction + current price
+                conviction = trade.get("conviction", "medium")
+                dollar_amount = position_size_from_conviction(conviction, portfolio["cash"])
+                shares = dollar_amount / current_price
                 valid, reason = validate_buy(ticker, shares, current_price, portfolio)
                 if valid:
                     execute_buy(ticker, shares, current_price, reasoning, db_path)
