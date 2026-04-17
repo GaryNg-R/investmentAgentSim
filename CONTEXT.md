@@ -98,6 +98,36 @@ NVDA, AMD, TSLA, META, AMZN, GOOGL, MSFT, AAPL, COIN, PLTR, CRWD, SNOW, NET, QQQ
 
 ## Features
 
+### [FEAT-002] VOO Benchmark Comparison
+
+Tracks a parallel paper account that invests everything into VOO (buy & hold). Both accounts start with $10,000 on the same date. Every Monday, $100 is added to each — the agent account receives cash (deployed by Run 1), the VOO account immediately buys fractional shares at market price.
+**To remove:** delete `agent/tools/benchmark.py`, revert `agent/portfolio/database.py` (tables), `agent/main.py` (call), `agent/tools/notify.py` (run2 block), `agent/tools/dashboard.py` (chart + summary bar). Search `# FEAT-002`.
+
+**What it adds:**
+
+- **DB**: two new tables in `portfolio.db` — `benchmark_account` (current VOO state) and `benchmark_snapshots` (daily history for charting)
+- **`agent/tools/benchmark.py`**: `update_benchmark(db_path)` — seeds $10k on first run, adds $100 every Monday, snapshots daily value, returns status dict. Never raises.
+- **Telegram (run2)**: one new block — agent value vs VOO value, % return comparison, deposit note on Mondays
+- **Dashboard**: comparison summary bar + dual-line Chart.js chart (agent vs VOO over time)
+
+**Weekly deposit rules:**
+- Monday only, detected via `datetime.today().weekday() == 0`
+- Agent: $100 added to cash balance
+- VOO: $100 / current_VOO_price fractional shares purchased immediately
+
+**`update_benchmark()` return dict:**
+```python
+{
+    "voo_shares": 42.3,
+    "voo_price": 245.10,
+    "total_value": 10367.73,
+    "total_deposited": 10300.00,
+    "deposit_made": True
+}
+```
+
+---
+
 ### [FEAT-001] Bilingual Market Education (Telegram)
 
 Extends the Run 1 Telegram notification with two new bilingual blocks.
