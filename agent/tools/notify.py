@@ -126,7 +126,12 @@ def notify_run1(  # FEAT-001: added market_education and daily_lesson params
     send_telegram("\n".join(lines))
 
 
-def notify_run2(executed: list[str], rejected: list[str], portfolio: dict, benchmark: dict | None = None) -> None:
+def notify_run2(  # FEAT-002: added benchmark param
+    executed: list[str],
+    rejected: list[str],
+    portfolio: dict,
+    benchmark: dict | None = None,
+) -> None:
     """Send run2 execution results to Telegram."""
     lines = ["<b>Investment Agent — Trades Executed</b>", ""]
 
@@ -148,6 +153,22 @@ def notify_run2(executed: list[str], rejected: list[str], portfolio: dict, bench
     pnl = portfolio.get("pnl_pct", 0.0)
     lines.append("")
     lines.append(f"Cash: ${cash:,.2f} | Total: ${total:,.2f} | P&amp;L: {pnl:+.2f}%")
+
+    # FEAT-002: benchmark comparison block
+    if benchmark:
+        voo_total = benchmark.get("total_value", 0.0)
+        deposited = benchmark.get("total_deposited", 10_000.0)
+        agent_pnl = (total - deposited) / deposited * 100 if deposited else 0.0
+        voo_pnl = (voo_total - deposited) / deposited * 100 if deposited else 0.0
+        agent_sign = "+" if agent_pnl >= 0 else ""
+        voo_sign = "+" if voo_pnl >= 0 else ""
+        lines.append("")
+        lines.append("<b>📊 Benchmark (VOO buy &amp; hold):</b>")
+        lines.append(f"  Agent: ${total:,.0f} ({agent_sign}{agent_pnl:.1f}%)")
+        lines.append(f"  VOO:   ${voo_total:,.0f} ({voo_sign}{voo_pnl:.1f}%)")
+        lines.append(f"  Deposited: ${deposited:,.0f} each")
+        if benchmark.get("deposit_made"):
+            lines.append("  +$100 deposited to both today")
 
     send_telegram("\n".join(lines))
 

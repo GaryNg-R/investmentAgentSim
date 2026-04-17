@@ -70,6 +70,51 @@ def test_notify_run1_skips_blocks_when_empty_dicts(monkeypatch):
     assert "📚 Today's Lesson" not in msg
 
 
+# FEAT-002
+def test_notify_run2_includes_benchmark_block(monkeypatch):
+    """notify_run2 appends benchmark comparison when data is present."""
+    sent = []
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: sent.append(msg) or True)
+
+    from agent.tools.notify import notify_run2
+    notify_run2(
+        executed=[],
+        rejected=[],
+        portfolio={"cash": 5000.0, "total_value": 10200.0, "pnl_pct": 2.0},
+        benchmark={
+            "voo_shares": 22.5,
+            "voo_price": 450.0,
+            "total_value": 10350.0,
+            "total_deposited": 10100.0,
+            "deposit_made": True,
+        },
+    )
+
+    assert len(sent) == 1
+    msg = sent[0]
+    assert "📊 Benchmark" in msg
+    assert "VOO" in msg
+    assert "10,350" in msg
+    assert "+$100 deposited" in msg
+
+
+# FEAT-002
+def test_notify_run2_skips_benchmark_when_absent(monkeypatch):
+    """notify_run2 sends normally when benchmark is not provided."""
+    sent = []
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: sent.append(msg) or True)
+
+    from agent.tools.notify import notify_run2
+    notify_run2(
+        executed=[],
+        rejected=[],
+        portfolio={"cash": 5000.0, "total_value": 10200.0, "pnl_pct": 2.0},
+    )
+
+    assert len(sent) == 1
+    assert "📊 Benchmark" not in sent[0]
+
+
 def test_notify_run1_handles_malformed_sources(monkeypatch):
     """notify_run1 does not crash when sources contains non-dict elements."""
     sent = []
