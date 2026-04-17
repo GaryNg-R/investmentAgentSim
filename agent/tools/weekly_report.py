@@ -8,6 +8,7 @@ from __future__ import annotations
 from datetime import date, timedelta
 
 from agent.portfolio.database import DB_PATH, get_connection, init_db
+from agent.tools.stock_data import get_price
 
 
 def build_weekly_report(db_path: str = DB_PATH, today: date | None = None) -> dict:  # FEAT-004
@@ -48,7 +49,7 @@ def build_weekly_report(db_path: str = DB_PATH, today: date | None = None) -> di
             # Agent P&L: earliest and latest snapshot in window
             snap_start = conn.execute(
                 "SELECT total_value FROM daily_snapshots "
-                "WHERE date >= ? ORDER BY date ASC LIMIT 1",
+                "WHERE date < ? ORDER BY date DESC LIMIT 1",
                 (week_start.isoformat(),),
             ).fetchone()
             snap_end = conn.execute(
@@ -64,7 +65,7 @@ def build_weekly_report(db_path: str = DB_PATH, today: date | None = None) -> di
             # VOO P&L: same approach from benchmark_snapshots
             voo_start_row = conn.execute(
                 "SELECT total_value FROM benchmark_snapshots "
-                "WHERE date >= ? ORDER BY date ASC LIMIT 1",
+                "WHERE date < ? ORDER BY date DESC LIMIT 1",
                 (week_start.isoformat(),),
             ).fetchone()
             voo_end_row = conn.execute(
@@ -87,7 +88,6 @@ def build_weekly_report(db_path: str = DB_PATH, today: date | None = None) -> di
                 best_pnl = None
                 worst_pnl = None
                 for p in pos_rows:
-                    from agent.tools.stock_data import get_price
                     price = get_price(p["ticker"])
                     if price is None:
                         continue

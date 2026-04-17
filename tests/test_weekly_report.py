@@ -71,7 +71,7 @@ def test_build_weekly_report_pnl_from_snapshots(tmp_path):
     conn = get_connection(db)
     conn.execute(
         "INSERT INTO daily_snapshots (date, total_value, cash, pnl_pct) "
-        "VALUES ('2026-04-13', 10000.0, 9000.0, 0.0)"
+        "VALUES ('2026-04-12', 10000.0, 9000.0, 0.0)"  # Sunday before week
     )
     conn.execute(
         "INSERT INTO daily_snapshots (date, total_value, cash, pnl_pct) "
