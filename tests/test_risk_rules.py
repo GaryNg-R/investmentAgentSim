@@ -11,6 +11,7 @@ from agent.tools.risk_rules import (
     STOP_LOSS_PCT,
     check_profit_target,
     check_stop_loss,
+    position_size_from_conviction,
     validate_buy,
     validate_sell,
 )
@@ -202,3 +203,17 @@ class TestProfitTarget:
         """Zero or negative avg_cost → False."""
         assert check_profit_target("AAPL", 150.0, 0.0) is False
         assert check_profit_target("AAPL", 150.0, -100.0) is False
+
+
+class TestConvictionSizing:
+    def test_high_conviction_is_15_pct_of_cash(self):
+        assert abs(position_size_from_conviction("high", 10_000.0) - 1_500.0) < 0.01
+
+    def test_medium_conviction_is_8_pct_of_cash(self):
+        assert abs(position_size_from_conviction("medium", 10_000.0) - 800.0) < 0.01
+
+    def test_low_conviction_is_4_pct_of_cash(self):
+        assert abs(position_size_from_conviction("low", 10_000.0) - 400.0) < 0.01
+
+    def test_unknown_conviction_defaults_to_medium(self):
+        assert abs(position_size_from_conviction("unknown", 10_000.0) - 800.0) < 0.01
