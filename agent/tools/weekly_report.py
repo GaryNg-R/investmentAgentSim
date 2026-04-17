@@ -78,7 +78,7 @@ def build_weekly_report(db_path: str = DB_PATH, today: date | None = None) -> di
             voo_pnl_dollar = voo_end - voo_start
             voo_pnl_pct = (voo_pnl_dollar / voo_start * 100) if voo_start else 0.0
 
-            # Best/worst ticker by P&L this week (from positions + trades)
+            # Best/worst ticker by unrealised P&L (all-time from avg cost)
             pos_rows = conn.execute(
                 "SELECT ticker, shares, avg_cost FROM positions"
             ).fetchall()
@@ -90,6 +90,8 @@ def build_weekly_report(db_path: str = DB_PATH, today: date | None = None) -> di
                 for p in pos_rows:
                     price = get_price(p["ticker"])
                     if price is None:
+                        continue
+                    if not p["avg_cost"]:
                         continue
                     pnl = (price - p["avg_cost"]) / p["avg_cost"] * 100
                     if best_pnl is None or pnl > best_pnl:

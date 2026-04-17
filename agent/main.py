@@ -9,6 +9,7 @@ Commands:
   monitor    Check stop-loss/profit targets on open positions (every 30 min)
   history    Print trade history and portfolio summary
   dashboard  Regenerate the HTML dashboard
+  weekly     Build and send the weekly performance digest (Sunday 1pm PT)
 """
 
 from __future__ import annotations

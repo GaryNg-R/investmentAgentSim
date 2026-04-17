@@ -95,3 +95,20 @@ def test_build_weekly_report_empty_db_returns_zeros(tmp_path):
     assert result["trades"] == []
     assert result["best_ticker"] is None
     assert result["worst_ticker"] is None
+
+
+def test_build_weekly_report_best_ticker_from_positions(tmp_path, monkeypatch):
+    """best_ticker is set when a position exists and get_price returns a value."""
+    db = _db(tmp_path)
+    conn = get_connection(db)
+    conn.execute(
+        "INSERT INTO positions (ticker, shares, avg_cost) VALUES (?, ?, ?)",
+        ("AAPL", 5, 100.0),
+    )
+    conn.commit()
+    conn.close()
+
+    monkeypatch.setattr("agent.tools.weekly_report.get_price", lambda ticker: 120.0)
+
+    report = build_weekly_report(db, today=date(2026, 4, 17))
+    assert report["best_ticker"] == "AAPL"
