@@ -183,6 +183,8 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
         portfolio = get_portfolio_status(db_path)
         save_daily_snapshot(today, portfolio["total_value"], portfolio["cash"], portfolio["pnl_pct"], db_path)
 
+        benchmark = update_benchmark(db_path)  # FEAT-002: must run before dashboard
+
         # Regenerate dashboard
         generate_dashboard(db_path, output_path)
 
@@ -192,7 +194,6 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
             f"Total Value: ${portfolio['total_value']:,.2f} | "
             f"P&L: {portfolio['pnl_pct']:+.2f}%"
         )
-        benchmark = update_benchmark(db_path)  # FEAT-002
         notify_run2(executed, rejected, portfolio, benchmark=benchmark)  # FEAT-002
     except SystemExit:
         raise
