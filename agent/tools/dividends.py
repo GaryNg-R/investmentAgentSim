@@ -43,7 +43,7 @@ def process_dividends(db_path: str = DB_PATH, _today: date | None = None) -> lis
                     continue
 
                 div_per_share = _get_dividend_today(ticker, today)
-                if not div_per_share:
+                if div_per_share is None or div_per_share == 0.0:
                     continue
 
                 current_price = _get_current_price(ticker)
@@ -88,7 +88,7 @@ def process_dividends(db_path: str = DB_PATH, _today: date | None = None) -> lis
 
                 if not already:
                     div_per_share = _get_dividend_today("VOO", today)
-                    if div_per_share:
+                    if div_per_share is not None and div_per_share != 0.0:
                         current_price = _get_current_price("VOO")
                         if current_price:
                             dividend_cash = div_per_share * voo_shares

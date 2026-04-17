@@ -127,3 +127,21 @@ def test_process_dividends_skips_ticker_when_price_unavailable(tmp_path, monkeyp
 
     result = process_dividends(db, _today=date(2026, 4, 17))
     assert result == []
+
+
+def test_process_dividends_skips_zero_dividend(tmp_path, monkeypatch):
+    """Skips silently when div_per_share is 0.0 (suspended/corrected dividend)."""
+    db = _db(tmp_path)
+    execute_buy("NVDA", 10, 100.0, "test", db_path=db)
+
+    monkeypatch.setattr("agent.tools.dividends._get_dividend_today", lambda ticker, today: 0.0)
+    monkeypatch.setattr("agent.tools.dividends._get_current_price", lambda ticker: 100.0)
+
+    result = process_dividends(db, _today=date(2026, 4, 17))
+    assert result == []
+
+    # Shares unchanged
+    conn = get_connection(db)
+    row = conn.execute("SELECT shares FROM positions WHERE ticker='NVDA'").fetchone()
+    conn.close()
+    assert abs(row["shares"] - 10.0) < 1e-6
