@@ -256,6 +256,22 @@ def test_monitor_triggers_stop_loss(tmp_path, monkeypatch, capsys):
 
 
 # FEAT-003
+# FEAT-004
+def test_cmd_weekly_sends_digest(tmp_path, monkeypatch, capsys):
+    """cmd_weekly builds report and sends Telegram without raising."""
+    db_file = str(tmp_path / "portfolio.db")
+    init_db(db_file)
+
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: True)
+    monkeypatch.setattr("agent.tools.stock_data.get_price", lambda ticker: 100.0)
+
+    from agent.main import cmd_weekly
+    cmd_weekly(db_path=db_file)
+
+    captured = capsys.readouterr()
+    assert "Weekly digest sent" in captured.out
+
+
 def test_run2_high_conviction_buy_allocates_15pct_of_cash(tmp_path, monkeypatch, capsys):
     """High-conviction BUY allocates ~15% of available cash."""
     from datetime import datetime as _dt

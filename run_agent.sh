@@ -19,6 +19,11 @@ LOG_FILE="$SCRIPT_DIR/logs/agent.log"
 # ---------------------------------------------------------------------------
 # Setup
 # ---------------------------------------------------------------------------
+# Load TELEGRAM_* vars from ~/.bashrc (bypasses the interactive-only guard)
+if [[ -f "$HOME/.bashrc" ]]; then
+  eval "$(grep -E '^(export\s+)?TELEGRAM_' "$HOME/.bashrc")"
+fi
+
 mkdir -p "$SCRIPT_DIR/logs"
 
 log() {
@@ -90,3 +95,9 @@ fi
 log "========================================"
 log "Daily run finished"
 log "========================================"
+
+# ---------------------------------------------------------------------------
+# Cron reference — weekly digest
+# ---------------------------------------------------------------------------
+# Weekly digest (Sunday 1pm PT = 20:00 UTC during PDT)
+# 0 20 * * 0  cd /path/to/investmentAgent && python -m agent.main weekly >> logs/agent.log 2>&1

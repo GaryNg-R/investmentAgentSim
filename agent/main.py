@@ -38,7 +38,8 @@ from agent.tools.risk_rules import (
 from agent.tools.screener import screen_stocks
 from agent.tools.stock_data import get_price
 from agent.claude_agent import run_analysis
-from agent.tools.notify import notify_error, notify_run1, notify_run2
+from agent.tools.notify import notify_error, notify_run1, notify_run2, notify_weekly
+from agent.tools.weekly_report import build_weekly_report  # FEAT-004
 from agent.tools.benchmark import update_benchmark  # FEAT-002
 
 import os as _os
@@ -57,11 +58,13 @@ Commands:
   monitor    Check stop-loss/profit targets on open positions (every 30 min)
   history    Print trade history and portfolio summary
   dashboard  Regenerate the HTML dashboard
+  weekly     Build and send the weekly performance digest to Telegram (Sunday 1pm PT)
 
 Cron setup (edit with `crontab -e`):
   0 14 * * 1-5  cd /path/to/investmentAgent && python -m agent.main run1 >> logs/agent.log 2>&1
   30 14 * * 1-5 cd /path/to/investmentAgent && python -m agent.main run2 >> logs/agent.log 2>&1
   */30 15-21 * * 1-5 cd /path/to/investmentAgent && python -m agent.main monitor >> logs/agent.log 2>&1
+  0 20 * * 0  cd /path/to/investmentAgent && python -m agent.main weekly >> logs/agent.log 2>&1
 """
 
 
@@ -331,6 +334,19 @@ def cmd_dashboard(db_path: str = DB_PATH, output_path: str = OUTPUT_PATH) -> Non
         sys.exit(1)
 
 
+def cmd_weekly(db_path: str = DB_PATH) -> None:  # FEAT-004
+    """Build and send the weekly performance digest to Telegram."""
+    try:
+        init_db(db_path)
+        report = build_weekly_report(db_path)
+        notify_weekly(report)
+        print("Weekly digest sent")
+    except Exception as exc:
+        notify_error("weekly", str(exc))
+        print(f"Error: {exc}")
+        sys.exit(1)
+
+
 # ---------------------------------------------------------------------------
 # Router
 # ---------------------------------------------------------------------------
@@ -353,6 +369,8 @@ def main(args: list[str]) -> None:
         cmd_history()
     elif command == "dashboard":
         cmd_dashboard()
+    elif command == "weekly":
+        cmd_weekly()
     else:
         print(USAGE)
         sys.exit(1)
