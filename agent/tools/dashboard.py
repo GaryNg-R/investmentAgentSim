@@ -161,7 +161,7 @@ def _build_html(db_path: str) -> str:
         trade_rows_html = ""
         for t in trades:
             action_class = "buy" if t["action"] == "BUY" else "sell"
-            date_str = t["timestamp"][:10] if t["timestamp"] else ""
+            date_str = t["timestamp"][:19] if t["timestamp"] else ""
             reasoning_short = (t["reasoning"][:80] + "…") if len(t["reasoning"]) > 80 else t["reasoning"]
             trade_rows_html += f"""
             <tr>
