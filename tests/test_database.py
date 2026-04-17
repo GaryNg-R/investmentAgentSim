@@ -48,3 +48,19 @@ def test_init_idempotent(tmp_path):
 
     assert len(rows) == 1
     assert rows[0]["cash"] == 10000.0
+
+
+# FEAT-002
+def test_benchmark_tables_exist_after_init_db(tmp_path):
+    """init_db creates benchmark_account and benchmark_snapshots tables."""
+    db = str(tmp_path / "portfolio.db")
+    init_db(db)
+    conn = get_connection(db)
+    try:
+        tables = {r[0] for r in conn.execute(
+            "SELECT name FROM sqlite_master WHERE type='table'"
+        ).fetchall()}
+    finally:
+        conn.close()
+    assert "benchmark_account" in tables
+    assert "benchmark_snapshots" in tables

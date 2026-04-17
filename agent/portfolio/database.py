@@ -33,6 +33,20 @@ CREATE TABLE IF NOT EXISTS daily_snapshots (
     cash         REAL NOT NULL,
     pnl_pct      REAL NOT NULL
 );
+
+CREATE TABLE IF NOT EXISTS benchmark_account (
+    id              INTEGER PRIMARY KEY,
+    voo_shares      REAL NOT NULL,
+    total_deposited REAL NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS benchmark_snapshots (
+    date            TEXT PRIMARY KEY,
+    voo_shares      REAL NOT NULL,
+    voo_price       REAL NOT NULL,
+    total_value     REAL NOT NULL,
+    total_deposited REAL NOT NULL
+);
 """
 
 
