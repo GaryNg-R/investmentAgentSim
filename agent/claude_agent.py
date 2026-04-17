@@ -103,7 +103,7 @@ RISK RULES (enforced in code — your trades must respect these):
     else:
         section5b = ""
 
-    # Section 6 — Output instructions  # FEAT-001: added market_education and daily_lesson
+    # Section 6 — Output instructions  # FEAT-001: added market_education and daily_lesson; FEAT-003: conviction field
     section6 = """\
 REQUIRED OUTPUT FORMAT:
 Respond with ONLY a JSON block inside <decisions> tags. No explanation before or after.
@@ -111,7 +111,8 @@ Respond with ONLY a JSON block inside <decisions> tags. No explanation before or
 <decisions>
 {
   "trades": [
-    {"action": "BUY or SELL", "ticker": "TICKER", "shares": N, "reasoning": "one sentence"}
+    {"action": "BUY", "ticker": "TICKER", "conviction": "high or medium or low", "reasoning": "one sentence"},
+    {"action": "SELL", "ticker": "TICKER", "shares": N, "reasoning": "one sentence"}
   ],
   "skip_new_buys": false,
   "briefing": "2-3 sentence market summary and what you decided",
@@ -130,6 +131,8 @@ Respond with ONLY a JSON block inside <decisions> tags. No explanation before or
 
 Rules:
 - trades can be empty [] if no action is warranted
+- BUY trades: include "conviction" (high/medium/low), do NOT include "shares" — the agent sizes the position
+- SELL trades: include "shares" to sell (integer), do NOT include "conviction"
 - skip_new_buys: set true if you think market conditions are too risky for new positions
 - briefing: plain English summary, no jargon
 - Only recommend tickers from the screened list

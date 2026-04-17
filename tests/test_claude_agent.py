@@ -283,3 +283,42 @@ def test_parse_decisions_missing_feat001_fields_returns_empty_dicts():
     assert result["daily_lesson"] == {}
 
 
+# ---------------------------------------------------------------------------
+# Test FEAT-003: parse_decisions handles conviction field on BUY trades
+# ---------------------------------------------------------------------------
+
+
+def test_parse_decisions_passes_conviction_through():
+    """FEAT-003: conviction field on BUY trades is preserved in parsed output."""
+    raw = """<decisions>
+{
+  "trades": [
+    {"action": "BUY", "ticker": "NVDA", "conviction": "high", "reasoning": "strong momentum"}
+  ],
+  "skip_new_buys": false,
+  "briefing": "Buy NVDA.",
+  "market_education": {},
+  "daily_lesson": {}
+}
+</decisions>"""
+    decisions = parse_decisions(raw)
+    assert decisions["trades"][0]["conviction"] == "high"
+
+
+def test_parse_decisions_buy_without_conviction_still_parses():
+    """FEAT-003: BUY trade without conviction field parses fine — conviction defaults handled in cmd_run2."""
+    raw = """<decisions>
+{
+  "trades": [
+    {"action": "BUY", "ticker": "AAPL", "reasoning": "solid pick"}
+  ],
+  "skip_new_buys": false,
+  "briefing": "Buy AAPL.",
+  "market_education": {},
+  "daily_lesson": {}
+}
+</decisions>"""
+    decisions = parse_decisions(raw)
+    assert decisions["trades"][0].get("conviction") is None
+
+
