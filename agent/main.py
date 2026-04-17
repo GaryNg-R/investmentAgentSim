@@ -17,7 +17,7 @@ import json
 import sys
 from datetime import date
 
-from agent.portfolio.database import DB_PATH, init_db
+from agent.portfolio.database import DB_PATH, get_connection, init_db  # FEAT-002: added get_connection
 from agent.portfolio.engine import (
     execute_buy,
     execute_sell,
@@ -37,6 +37,7 @@ from agent.tools.screener import screen_stocks
 from agent.tools.stock_data import get_price
 from agent.claude_agent import run_analysis
 from agent.tools.notify import notify_error, notify_run1, notify_run2
+from agent.tools.benchmark import update_benchmark  # FEAT-002
 
 import os as _os
 
@@ -103,6 +104,21 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
     """Execute the trade plan from run1."""
     try:
         init_db(db_path)
+
+        # FEAT-002: Monday $100 deposit into agent cash — idempotent via benchmark_snapshots
+        if date.today().weekday() == 0:
+            _today_str = date.today().isoformat()
+            _dep_conn = get_connection(db_path)
+            try:
+                _already = _dep_conn.execute(
+                    "SELECT 1 FROM benchmark_snapshots WHERE date=?", (_today_str,)
+                ).fetchone()
+                if not _already:
+                    _dep_conn.execute("UPDATE account SET cash = cash + 100.0 WHERE id = 1")
+                    _dep_conn.commit()
+                    print("Monday deposit: +$100 added to agent cash")
+            finally:
+                _dep_conn.close()
 
         # Load the plan
         try:
@@ -176,7 +192,8 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
             f"Total Value: ${portfolio['total_value']:,.2f} | "
             f"P&L: {portfolio['pnl_pct']:+.2f}%"
         )
-        notify_run2(executed, rejected, portfolio)
+        benchmark = update_benchmark(db_path)  # FEAT-002
+        notify_run2(executed, rejected, portfolio, benchmark=benchmark)  # FEAT-002
     except SystemExit:
         raise
     except Exception as exc:

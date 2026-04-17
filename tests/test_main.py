@@ -186,6 +186,47 @@ def test_run2_executes_buy(tmp_path, monkeypatch, capsys):
     assert "EXECUTED: BUY 5 NVDA" in captured.out
 
 
+# FEAT-002
+def test_cmd_run2_monday_deposit_adds_100_to_agent_cash(tmp_path, monkeypatch, capsys):
+    """On Monday, cmd_run2 adds $100 to agent cash (idempotent — only once per day)."""
+    db_file = str(tmp_path / "portfolio.db")
+    plan_file = str(tmp_path / "run1_plan.json")
+    out_file = str(tmp_path / "output" / "dashboard.html")
+
+    init_db(db_file)
+
+    plan = {
+        "decisions": {
+            "trades": [],
+            "skip_new_buys": False,
+            "briefing": "ok",
+            "market_education": {},
+            "daily_lesson": {},
+        }
+    }
+    with open(plan_file, "w") as f:
+        json.dump(plan, f)
+
+    from datetime import date as _date_cls
+
+    class _FakeDate(_date_cls):
+        @classmethod
+        def today(cls):
+            return cls(2026, 4, 20)  # Monday
+
+    monkeypatch.setattr("agent.main.date", _FakeDate)
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: True)
+    monkeypatch.setattr("agent.tools.benchmark._get_voo_price", lambda: 450.0)
+
+    from agent.portfolio.engine import get_portfolio_status
+    initial_cash = get_portfolio_status(db_file)["cash"]
+
+    cmd_run2(db_path=db_file, plan_path=plan_file, output_path=out_file)
+
+    final_cash = get_portfolio_status(db_file)["cash"]
+    assert abs(final_cash - (initial_cash + 100.0)) < 0.01
+
+
 def test_monitor_triggers_stop_loss(tmp_path, monkeypatch, capsys):
     """monitor should auto-sell a position that is down 10% (past -7% stop-loss threshold)."""
     from agent.portfolio.database import init_db

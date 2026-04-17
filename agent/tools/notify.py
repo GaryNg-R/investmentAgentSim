@@ -126,7 +126,7 @@ def notify_run1(  # FEAT-001: added market_education and daily_lesson params
     send_telegram("\n".join(lines))
 
 
-def notify_run2(executed: list[str], rejected: list[str], portfolio: dict) -> None:
+def notify_run2(executed: list[str], rejected: list[str], portfolio: dict, benchmark: dict | None = None) -> None:
     """Send run2 execution results to Telegram."""
     lines = ["<b>Investment Agent — Trades Executed</b>", ""]
 
