@@ -232,7 +232,7 @@ def test_notify_run2_includes_dividends_block(monkeypatch):
     msg = sent[0]
     assert "📈 Dividends" in msg
     assert "NVDA" in msg
-    assert "0.0100" in msg or "+0.01" in msg
+    assert "+0.0100 shares" in msg
     assert "VOO" in msg
     assert "benchmark" in msg
 

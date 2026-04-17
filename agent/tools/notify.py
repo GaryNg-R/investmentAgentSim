@@ -180,7 +180,12 @@ def notify_run2(  # FEAT-002: added benchmark param
             account = ev.get("account", "agent")
             shares_added = ev.get("shares_added", 0.0)
             total_div = ev.get("total_dividend", 0.0)
-            label = ticker if account == "agent" else f"{ticker} (benchmark)"
+            if account == "agent":
+                label = ticker
+            elif account == "benchmark":
+                label = f"{ticker} (benchmark)"
+            else:
+                label = f"{ticker} ({_esc(account)})"
             lines.append(f"  {label}: +{shares_added:.4f} shares (${total_div:.2f})")
 
     send_telegram("\n".join(lines))
