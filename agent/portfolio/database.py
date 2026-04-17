@@ -47,6 +47,17 @@ CREATE TABLE IF NOT EXISTS benchmark_snapshots (
     total_value     REAL NOT NULL,
     total_deposited REAL NOT NULL
 );
+
+CREATE TABLE IF NOT EXISTS dividend_events (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    date          TEXT NOT NULL,
+    ticker        TEXT NOT NULL,
+    account       TEXT NOT NULL CHECK(account IN ('agent','benchmark')),
+    shares_held   REAL NOT NULL,
+    div_per_share REAL NOT NULL,
+    shares_added  REAL NOT NULL,
+    UNIQUE(date, ticker, account)
+);
 """
 
 
