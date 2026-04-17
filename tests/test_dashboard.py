@@ -99,6 +99,40 @@ def test_dashboard_includes_chartjs(tmp_path):
     assert "chart.js" in html or "cdn.jsdelivr.net" in html
 
 
+# FEAT-002
+def test_dashboard_includes_benchmark_section_when_data_present(tmp_path):
+    """Dashboard shows 'vs VOO' section when benchmark_snapshots has data."""
+    from agent.portfolio.database import get_connection
+    db = _db(tmp_path)
+    conn = get_connection(db)
+    conn.execute(
+        "INSERT INTO benchmark_account (id, voo_shares, total_deposited) VALUES (1, 22.5, 10000.0)"
+    )
+    conn.execute(
+        "INSERT INTO benchmark_snapshots (date, voo_shares, voo_price, total_value, total_deposited) "
+        "VALUES ('2026-04-16', 22.5, 450.0, 10125.0, 10000.0)"
+    )
+    conn.commit()
+    conn.close()
+
+    out = _out(tmp_path)
+    generate_dashboard(db_path=db, output_path=out)
+    html = open(out, encoding="utf-8").read()
+    assert "vs VOO" in html
+    assert "10,125" in html
+
+
+# FEAT-002
+def test_dashboard_no_benchmark_section_when_no_data(tmp_path):
+    """Dashboard renders normally with no benchmark data — no crash, no VOO section."""
+    db = _db(tmp_path)
+    out = _out(tmp_path)
+    generate_dashboard(db_path=db, output_path=out)
+    html = open(out, encoding="utf-8").read()
+    assert "Investment Portfolio Dashboard" in html
+    assert "vs VOO" not in html
+
+
 def test_generate_dashboard_never_raises_on_bad_db(tmp_path):
     """generate_dashboard must not raise even if the database path is invalid."""
     output_path = str(tmp_path / "dashboard.html")

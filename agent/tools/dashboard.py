@@ -100,6 +100,21 @@ def _build_html(db_path: str) -> str:
              "cash": r["cash"], "pnl_pct": r["pnl_pct"]}
             for r in snap_rows
         ]))
+
+        # FEAT-002: benchmark snapshots for comparison chart
+        bench_rows = conn.execute(
+            "SELECT date, total_value, total_deposited FROM benchmark_snapshots "
+            "ORDER BY date DESC LIMIT 30"
+        ).fetchall()
+        bench_snapshots = list(reversed([
+            {"date": r["date"], "total_value": r["total_value"],
+             "total_deposited": r["total_deposited"]}
+            for r in bench_rows
+        ]))
+        bench_latest = conn.execute(
+            "SELECT total_value, total_deposited FROM benchmark_snapshots "
+            "ORDER BY date DESC LIMIT 1"
+        ).fetchone()
     finally:
         conn.close()
 
@@ -170,7 +185,6 @@ def _build_html(db_path: str) -> str:
         <div class="chart-container">
             <canvas id="portfolioChart"></canvas>
         </div>
-        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
         <script>
         (function() {{
             const ctx = document.getElementById('portfolioChart').getContext('2d');
@@ -223,6 +237,99 @@ def _build_html(db_path: str) -> str:
         </script>"""
     else:
         chart_html = '<p class="empty-msg">No performance data yet</p>'
+
+    # FEAT-002: benchmark comparison section
+    if bench_latest:
+        voo_total = bench_latest["total_value"]
+        voo_deposited = bench_latest["total_deposited"]
+        voo_pnl_dollar = voo_total - voo_deposited
+        voo_pnl_pct = (voo_pnl_dollar / voo_deposited * 100) if voo_deposited else 0.0
+        voo_color = "#2ecc71" if voo_pnl_dollar >= 0 else "#e74c3c"
+        delta = total_value - voo_total
+        delta_color = "#2ecc71" if delta >= 0 else "#e74c3c"
+        delta_sign = "+" if delta >= 0 else ""
+
+        if bench_snapshots and snapshots:
+            all_dates = sorted(
+                set(s["date"] for s in snapshots) | set(s["date"] for s in bench_snapshots)
+            )
+            agent_by_date = {s["date"]: s["total_value"] for s in snapshots}
+            voo_by_date = {s["date"]: s["total_value"] for s in bench_snapshots}
+            cmp_labels = json.dumps(all_dates)
+            cmp_agent = json.dumps([agent_by_date.get(d) for d in all_dates])
+            cmp_voo = json.dumps([voo_by_date.get(d) for d in all_dates])
+            comparison_chart_html = f"""
+        <div class="chart-container">
+            <canvas id="comparisonChart"></canvas>
+        </div>
+        <script>
+        (function() {{
+            const ctx = document.getElementById('comparisonChart').getContext('2d');
+            new Chart(ctx, {{
+                type: 'line',
+                data: {{
+                    labels: {cmp_labels},
+                    datasets: [
+                        {{
+                            label: 'Agent',
+                            data: {cmp_agent},
+                            borderColor: '#3498db',
+                            backgroundColor: 'rgba(52,152,219,0.1)',
+                            borderWidth: 2, pointRadius: 3, fill: true, tension: 0.3, spanGaps: true,
+                        }},
+                        {{
+                            label: 'VOO (buy & hold)',
+                            data: {cmp_voo},
+                            borderColor: '#f39c12',
+                            backgroundColor: 'rgba(243,156,18,0.1)',
+                            borderWidth: 2, pointRadius: 3, fill: true, tension: 0.3, spanGaps: true,
+                        }}
+                    ]
+                }},
+                options: {{
+                    responsive: true,
+                    plugins: {{
+                        title: {{ display: true, text: 'Agent vs VOO Performance',
+                                   color: '#ecf0f1', font: {{ size: 16 }} }},
+                        legend: {{ labels: {{ color: '#bdc3c7' }} }}
+                    }},
+                    scales: {{
+                        x: {{ ticks: {{ color: '#bdc3c7' }}, grid: {{ color: '#2c3e50' }} }},
+                        y: {{ ticks: {{ color: '#bdc3c7',
+                                        callback: v => '$' + v.toLocaleString() }},
+                              grid: {{ color: '#2c3e50' }} }}
+                    }}
+                }}
+            }});
+        }})();
+        </script>"""
+        else:
+            comparison_chart_html = '<p class="empty-msg">Run for a few days to see the comparison chart</p>'
+
+        benchmark_section_html = f"""
+<section>
+    <h2>vs VOO Benchmark</h2>
+    <div class="summary-grid">
+        <div class="stat-card">
+            <div class="stat-label">Agent Value</div>
+            <div class="stat-value" style="color:{pnl_color};">{fmt_dollar(total_value)}</div>
+            <div style="font-size:0.85rem;color:{pnl_color};">{fmt_pnl(pnl_dollar, pnl_pct)}</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">VOO Value</div>
+            <div class="stat-value" style="color:{voo_color};">{fmt_dollar(voo_total)}</div>
+            <div style="font-size:0.85rem;color:{voo_color};">{fmt_pnl(voo_pnl_dollar, voo_pnl_pct)}</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-label">Agent vs VOO</div>
+            <div class="stat-value" style="color:{delta_color};">{delta_sign}{fmt_dollar(delta)}</div>
+            <div style="font-size:0.85rem;color:#95a5a6;">Deposited: {fmt_dollar(voo_deposited)} each</div>
+        </div>
+    </div>
+    {comparison_chart_html}
+</section>"""
+    else:
+        benchmark_section_html = ""
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -304,6 +411,7 @@ def _build_html(db_path: str) -> str:
         footer {{ text-align: center; color: #7f8c8d; font-size: 0.78rem; margin-top: 1rem; }}
         .reasoning {{ color: #95a5a6; font-size: 0.82rem; max-width: 260px; }}
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
 
@@ -332,6 +440,8 @@ def _build_html(db_path: str) -> str:
         </div>
     </div>
 </section>
+
+{benchmark_section_html}
 
 <section>
     <h2>Open Positions</h2>
