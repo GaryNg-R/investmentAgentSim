@@ -1,6 +1,6 @@
 """Tests for agent/tools/notify.py — FEAT-001 bilingual blocks."""
 
-from agent.tools.notify import notify_run1
+from agent.tools.notify import notify_run1, notify_weekly
 
 
 def test_notify_run1_includes_bilingual_blocks(monkeypatch):
@@ -142,7 +142,6 @@ def test_notify_weekly_sends_telegram(monkeypatch):
     sent = []
     monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: sent.append(msg) or True)
 
-    from agent.tools.notify import notify_weekly
     notify_weekly({
         "week_start": "2026-04-13",
         "week_end": "2026-04-19",
@@ -178,7 +177,6 @@ def test_notify_weekly_handles_empty_report(monkeypatch):
     sent = []
     monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: sent.append(msg) or True)
 
-    from agent.tools.notify import notify_weekly
     notify_weekly({
         "week_start": "2026-04-13",
         "week_end": "2026-04-19",

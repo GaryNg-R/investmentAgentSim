@@ -193,15 +193,12 @@ def notify_weekly(report: dict) -> None:  # FEAT-004
     best_ticker = report.get("best_ticker")
     worst_ticker = report.get("worst_ticker")
 
-    agent_sign = "+" if agent_pnl_dollar >= 0 else ""
-    voo_sign = "+" if voo_pnl_dollar >= 0 else ""
-
     lines = [
         f"<b>📅 Weekly Digest — {week_start} to {week_end}</b>",
         "",
         "<b>Performance</b>",
-        f"  Agent: ${agent_end:,.0f} ({agent_sign}${agent_pnl_dollar:,.0f}, {agent_sign}{agent_pnl_pct:.1f}%)",
-        f"  VOO:   ${voo_end:,.0f} ({voo_sign}${voo_pnl_dollar:,.0f}, {voo_sign}{voo_pnl_pct:.1f}%)",
+        f"  Agent: ${agent_end:,.0f} ({agent_pnl_dollar:+,.0f}, {agent_pnl_pct:+.1f}%)",
+        f"  VOO:   ${voo_end:,.0f} ({voo_pnl_dollar:+,.0f}, {voo_pnl_pct:+.1f}%)",
     ]
 
     if best_ticker or worst_ticker:
@@ -218,7 +215,8 @@ def notify_weekly(report: dict) -> None:  # FEAT-004
         for t in trades:
             date_str = t.get("timestamp", "")[:10]
             lines.append(
-                f"  {date_str} {t['action']} {t['shares']} {t['ticker']} @ ${t['price']:,.2f}"
+                f"  {date_str} {t.get('action', '?')} {t.get('shares', 0)} "
+                f"{t.get('ticker', '?')} @ ${t.get('price', 0.0):,.2f}"
             )
     else:
         lines.append("No trades this week.")
