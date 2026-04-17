@@ -195,3 +195,59 @@ def test_notify_weekly_handles_empty_report(monkeypatch):
 
     assert len(sent) == 1
     assert "Weekly" in sent[0]
+
+
+# FEAT-005
+def test_notify_run2_includes_dividends_block(monkeypatch):
+    """notify_run2 shows DRIP block when dividends are present."""
+    sent = []
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: sent.append(msg) or True)
+
+    from agent.tools.notify import notify_run2
+    notify_run2(
+        executed=[],
+        rejected=[],
+        portfolio={"cash": 5000.0, "total_value": 10200.0, "pnl_pct": 2.0},
+        dividends=[
+            {
+                "ticker": "NVDA",
+                "account": "agent",
+                "shares_held": 10.0,
+                "div_per_share": 0.10,
+                "shares_added": 0.01,
+                "total_dividend": 1.0,
+            },
+            {
+                "ticker": "VOO",
+                "account": "benchmark",
+                "shares_held": 22.5,
+                "div_per_share": 1.50,
+                "shares_added": 0.075,
+                "total_dividend": 33.75,
+            },
+        ],
+    )
+
+    assert len(sent) == 1
+    msg = sent[0]
+    assert "📈 Dividends" in msg
+    assert "NVDA" in msg
+    assert "0.0100" in msg or "+0.01" in msg
+    assert "VOO" in msg
+    assert "benchmark" in msg
+
+
+def test_notify_run2_no_dividends_block_when_empty(monkeypatch):
+    """notify_run2 omits DRIP block when dividends list is empty."""
+    sent = []
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: sent.append(msg) or True)
+
+    from agent.tools.notify import notify_run2
+    notify_run2(
+        executed=[],
+        rejected=[],
+        portfolio={"cash": 5000.0, "total_value": 10200.0, "pnl_pct": 2.0},
+        dividends=[],
+    )
+
+    assert "📈 Dividends" not in sent[0]
