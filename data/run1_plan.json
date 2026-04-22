@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-04-22T02:38:36.532745+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-04-22T20:42:47.210179+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "SELL",
         "ticker": "TSLA",
         "shares": 2,
-        "reasoning": "TSLA is down -3.1% from avg cost with the weakest momentum score (75) of our holdings; rotating into CRWD which scores 95 and has stronger technical setup."
+        "reasoning": "Weakest holding at -2.8% with score 75 and limited upside catalysts \u2014 rotating into a score-95 name to upgrade portfolio quality on a risk-on day"
       },
       {
         "action": "BUY",
-        "ticker": "CRWD",
+        "ticker": "AAPL",
         "conviction": "high",
-        "reasoning": "Highest momentum score (95) in the screened universe with MACD crossover, rising histogram, and price well above SMA-20, making it the strongest rotational candidate."
+        "reasoning": "Score 95 with RSI in the bullish sweet spot (63), MACD crossover confirmed, and price well above SMA-20 \u2014 ideal setup in a broad market rally led by large-cap tech"
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets dipped modestly today with both NASDAQ and S&P 500 off -0.6%, keeping sentiment neutral. Our portfolio holds up at +4.1% but TSLA has slipped -3.1% from cost and shows the weakest momentum of our three positions. We're rotating TSLA into CRWD, the top-ranked name on the screener, to keep the portfolio aligned with the strongest momentum leaders.",
+    "briefing": "Market is firmly risk-on with NASDAQ up 1.6% \u2014 a strong tailwind for large-cap tech. We're at the 3-position cap, so I'm rotating out of TSLA (weakest holding, -2.85%, lowest score at 75) and upgrading into AAPL (score 95, clean momentum signals). COIN is running well at +5.3% and META is essentially flat but holding good technicals \u2014 both are worth keeping.",
     "market_education": {
-      "summary_en": "U.S. equities slipped modestly on Tuesday with the NASDAQ and S&P 500 each losing 0.6%, reflecting cautious investor sentiment amid ongoing uncertainty around tariff policy and mixed corporate guidance. Technology and growth stocks paused after recent strong recoveries, with traders taking a wait-and-see stance ahead of upcoming earnings reports from major tech names. Overall breadth was narrow, suggesting the pullback was more profit-taking than broad risk-off selling.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e8c\u5c0f\u5e45\u56de\u843d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8207\u6a19\u666e500\u6307\u6578\u5404\u4e0b\u8dcc0.6%\uff0c\u53cd\u6620\u51fa\u6295\u8cc7\u8005\u5728\u95dc\u7a05\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u53ca\u4f01\u696d\u696d\u7e3e\u6307\u5f15\u53c3\u5dee\u4e0d\u9f4a\u7684\u80cc\u666f\u4e0b\u4fdd\u6301\u5be9\u614e\u614b\u5ea6\u3002\u79d1\u6280\u53ca\u6210\u9577\u578b\u80a1\u7968\u5728\u8fd1\u671f\u5f37\u52c1\u53cd\u5f48\u5f8c\u51fa\u73fe\u6574\u56fa\uff0c\u5e02\u5834\u975c\u5f85\u4e3b\u8981\u79d1\u6280\u9f8d\u982d\u5373\u5c07\u516c\u5e03\u7684\u5b63\u5ea6\u696d\u7e3e\u3002\u6574\u9ad4\u5e02\u5834\u5bec\u5ea6\u504f\u7a84\uff0c\u986f\u793a\u6b64\u6b21\u56de\u8abf\u6027\u8cea\u66f4\u504f\u5411\u7372\u5229\u4e86\u7d50\uff0c\u800c\u975e\u5168\u9762\u907f\u96aa\u60c5\u7dd2\u8513\u5ef6\u3002",
+      "summary_en": "Markets surged on April 22 in a broad risk-on session, with the NASDAQ gaining 1.6% and the S&P 500 rising 1.0%, driven by easing trade-war anxieties and renewed investor appetite for growth stocks. Large-cap technology names led the charge as cooling inflation expectations reduced pressure on the Fed to stay restrictive. The session reflected a classic 'buy the dip' rotation as institutional money moved back into momentum names after recent volatility.",
+      "summary_zh": "\u7f8e\u80a1\u65bc4\u670822\u65e5\u5168\u9762\u8d70\u5f37\uff0c\u5448\u73fe\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f321.0%\u3002\u5e02\u5834\u60c5\u7dd2\u597d\u8f49\uff0c\u4e3b\u8981\u53d7\u60e0\u65bc\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u7de9\u548c\uff0c\u4ee5\u53ca\u6295\u8cc7\u8005\u5c0d\u901a\u8139\u964d\u6eab\u7684\u9810\u671f\u5347\u6eab\uff0c\u4ee4\u806f\u5132\u5c40\u7dad\u6301\u7dca\u7e2e\u653f\u7b56\u7684\u58d3\u529b\u6709\u6240\u6e1b\u8f15\u3002\u5927\u578b\u79d1\u6280\u80a1\u9818\u6f32\uff0c\u6a5f\u69cb\u8cc7\u91d1\u501f\u6a5f\u56de\u88dc\u8fd1\u671f\u62cb\u552e\u7684\u5f37\u52e2\u80a1\uff0c\u5c55\u73fe\u5178\u578b\u7684\u300c\u9022\u4f4e\u8cb7\u5165\u300d\u64cd\u4f5c\u6a21\u5f0f\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Portfolio Rotation",
-      "explanation_en": "Portfolio rotation means selling a weaker-performing position and using the proceeds to buy a stronger one, without adding new cash. Investors do this to keep capital working in the highest-momentum names rather than sitting in laggards. Today we rotated out of TSLA (score 75, -3% drawdown) into CRWD (score 95, strong MACD crossover) to improve our portfolio's overall momentum profile.",
-      "explanation_zh": "\u300c\u8f2a\u52d5\uff08Portfolio Rotation\uff09\u300d\u662f\u6307\u8ce3\u51fa\u8868\u73fe\u8f03\u5f31\u7684\u6301\u5009\uff0c\u5c07\u8cc7\u91d1\u8f49\u6295\u81f3\u52d5\u80fd\u66f4\u5f37\u7684\u6a19\u7684\uff0c\u800c\u7121\u9700\u6ce8\u5165\u65b0\u8cc7\u91d1\u3002\u6295\u8cc7\u8005\u900f\u904e\u8f2a\u52d5\u7b56\u7565\uff0c\u78ba\u4fdd\u8cc7\u91d1\u6301\u7e8c\u90e8\u7f72\u65bc\u5e02\u5834\u4e2d\u6700\u5177\u52d5\u80fd\u7684\u80a1\u7968\uff0c\u907f\u514d\u8cc7\u91d1\u6eef\u7559\u5728\u843d\u5f8c\u8005\u8eab\u4e0a\u3002\u4eca\u65e5\u6211\u5011\u5c07\u52d5\u80fd\u8a55\u5206\u50c575\u5206\u3001\u5df2\u4e0b\u8dcc3%\u7684\u7279\u65af\u62c9\uff08TSLA\uff09\u63db\u5165\u8a55\u5206\u9ad8\u905495\u5206\u3001MACD\u91d1\u53c9\u5f37\u52c1\u7684CrowdStrike\uff08CRWD\uff09\uff0c\u4ee5\u63d0\u5347\u6574\u9ad4\u7d44\u5408\u7684\u52d5\u80fd\u8cea\u7d20\u3002"
+      "explanation_en": "Portfolio rotation means selling a weaker position and using those funds to buy a stronger one \u2014 rather than just holding what you have. Today we sold TSLA (score 75, -2.8%) to buy AAPL (score 95, fresh breakout) because we hit the 3-position cap. Good rotation improves your 'average quality' without taking on more risk.",
+      "explanation_zh": "\u300c\u6295\u8cc7\u7d44\u5408\u8f2a\u52d5\u300d\u662f\u6307\u8ce3\u51fa\u8868\u73fe\u8f03\u5f31\u7684\u6301\u5009\uff0c\u5c07\u8cc7\u91d1\u8f49\u79fb\u5230\u66f4\u5177\u6f5b\u529b\u7684\u6a19\u7684\uff0c\u800c\u975e\u4e00\u5473\u6301\u6709\u73fe\u6709\u80a1\u7968\u3002\u4eca\u65e5\u6211\u5011\u56e0\u6301\u5009\u5df2\u9054\u4e0a\u9650\uff0c\u5c07\u5f97\u5206\u8f03\u4f4e\uff0875\u5206\uff09\u4e14\u4e0b\u8dcc2.8%\u7684\u7279\u65af\u62c9\u63db\u6210\u5f97\u5206\u9ad8\u905495\u5206\u3001\u6280\u8853\u7a81\u7834\u78ba\u8a8d\u7684\u860b\u679c\u3002\u9069\u6642\u8f2a\u52d5\u80fd\u5728\u4e0d\u589e\u52a0\u6574\u9ad4\u98a8\u96aa\u7684\u524d\u63d0\u4e0b\uff0c\u63d0\u5347\u6295\u8cc7\u7d44\u5408\u7684\u6574\u9ad4\u8cea\u7d20\u3002"
     }
   }
 }
