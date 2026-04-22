@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-04-18T21:26:09.818038+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-04-22T02:38:36.532745+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "SELL",
-        "ticker": "META",
-        "shares": 3,
-        "reasoning": "RSI at 70.1 signals overbought territory and momentum score lags peers at 70 \u2014 rotating the +2.1% gain into a higher-conviction name while the market is risk-on."
+        "ticker": "TSLA",
+        "shares": 2,
+        "reasoning": "TSLA is down -3.1% from avg cost with the weakest momentum score (75) of our holdings; rotating into CRWD which scores 95 and has stronger technical setup."
       },
       {
         "action": "BUY",
-        "ticker": "AAPL",
+        "ticker": "CRWD",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 64.5 sitting in the ideal bullish momentum zone (55\u201370), MACD crossover confirmed, and price well above SMA-20 \u2014 best risk/reward on the board today."
+        "reasoning": "Highest momentum score (95) in the screened universe with MACD crossover, rising histogram, and price well above SMA-20, making it the strongest rotational candidate."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on today with NASDAQ up 1.5% and the S&P up 1.2%, lifting all three existing positions. META has crossed into overbought RSI territory and carries the weakest momentum score of our holdings, so we're locking in the 2.1% gain and rotating into AAPL, which offers a score-95 setup with RSI still in the sweet spot. COIN and TSLA remain strong holds with excellent momentum and room to run toward their 12% profit targets.",
+    "briefing": "Markets dipped modestly today with both NASDAQ and S&P 500 off -0.6%, keeping sentiment neutral. Our portfolio holds up at +4.1% but TSLA has slipped -3.1% from cost and shows the weakest momentum of our three positions. We're rotating TSLA into CRWD, the top-ranked name on the screener, to keep the portfolio aligned with the strongest momentum leaders.",
     "market_education": {
-      "summary_en": "Equity markets rallied broadly on April 18 as investor sentiment shifted decidedly risk-on, with technology and growth names leading the charge. The NASDAQ outperformed the broader S&P 500, reflecting renewed appetite for higher-beta growth stocks after recent volatility subsided. Momentum indicators across top-tier tech \u2014 AAPL, TSLA, COIN \u2014 all confirmed bullish crossovers, suggesting institutional money is rotating back into equities.",
-      "summary_zh": "4\u670818\u65e5\u7f8e\u80a1\u5168\u9762\u4e0a\u6f32\uff0c\u5e02\u5834\u60c5\u7dd2\u660e\u986f\u8f49\u5411\u98a8\u96aa\u504f\u597d\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u9818\u6f32\u3002\u7d0d\u65af\u9054\u514b\u6307\u6578\u8868\u73fe\u512a\u65bc\u6a19\u666e500\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u8fd1\u671f\u6ce2\u52d5\u5e73\u606f\u5f8c\u91cd\u65b0\u589e\u6301\u9ad8Beta\u6210\u9577\u80a1\u3002\u860b\u679c\u3001\u7279\u65af\u62c9\u3001Coinbase\u7b49\u79d1\u6280\u9f8d\u982d\u7684\u52d5\u80fd\u6307\u6a19\u5747\u78ba\u8a8d\u591a\u982d\u4ea4\u53c9\u8a0a\u865f\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u7a4d\u6975\u56de\u6d41\u80a1\u5e02\u3002",
+      "summary_en": "U.S. equities slipped modestly on Tuesday with the NASDAQ and S&P 500 each losing 0.6%, reflecting cautious investor sentiment amid ongoing uncertainty around tariff policy and mixed corporate guidance. Technology and growth stocks paused after recent strong recoveries, with traders taking a wait-and-see stance ahead of upcoming earnings reports from major tech names. Overall breadth was narrow, suggesting the pullback was more profit-taking than broad risk-off selling.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e8c\u5c0f\u5e45\u56de\u843d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8207\u6a19\u666e500\u6307\u6578\u5404\u4e0b\u8dcc0.6%\uff0c\u53cd\u6620\u51fa\u6295\u8cc7\u8005\u5728\u95dc\u7a05\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u53ca\u4f01\u696d\u696d\u7e3e\u6307\u5f15\u53c3\u5dee\u4e0d\u9f4a\u7684\u80cc\u666f\u4e0b\u4fdd\u6301\u5be9\u614e\u614b\u5ea6\u3002\u79d1\u6280\u53ca\u6210\u9577\u578b\u80a1\u7968\u5728\u8fd1\u671f\u5f37\u52c1\u53cd\u5f48\u5f8c\u51fa\u73fe\u6574\u56fa\uff0c\u5e02\u5834\u975c\u5f85\u4e3b\u8981\u79d1\u6280\u9f8d\u982d\u5373\u5c07\u516c\u5e03\u7684\u5b63\u5ea6\u696d\u7e3e\u3002\u6574\u9ad4\u5e02\u5834\u5bec\u5ea6\u504f\u7a84\uff0c\u986f\u793a\u6b64\u6b21\u56de\u8abf\u6027\u8cea\u66f4\u504f\u5411\u7372\u5229\u4e86\u7d50\uff0c\u800c\u975e\u5168\u9762\u907f\u96aa\u60c5\u7dd2\u8513\u5ef6\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Overbought Rotation",
-      "explanation_en": "RSI (Relative Strength Index) measures how fast a stock has moved up. When RSI crosses above 70, a stock is considered 'overbought' \u2014 it has risen quickly and may be due for a pause or pullback. Smart traders often take profits from overbought positions and rotate that capital into stocks with RSI still in the 55\u201370 'bullish momentum zone,' where there is more room to run before the next resistance.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u7684\u901f\u5ea6\u3002\u7576RSI\u5347\u783470\uff0c\u4ee3\u8868\u80a1\u7968\u300c\u8d85\u8cb7\u300d\u2014\u2014\u77ed\u671f\u6f32\u5e45\u904e\u5feb\uff0c\u53ef\u80fd\u9762\u81e8\u6574\u7406\u6216\u56de\u8abf\u58d3\u529b\u3002\u6709\u7d93\u9a57\u7684\u4ea4\u6613\u8005\u5f80\u5f80\u6703\u5728\u6b64\u6642\u7372\u5229\u4e86\u7d50\uff0c\u5c07\u8cc7\u91d1\u8f49\u5165RSI\u4ecd\u8655\u65bc55\u81f370\u300c\u591a\u982d\u52d5\u80fd\u5340\u9593\u300d\u7684\u6a19\u7684\uff0c\u56e0\u70ba\u9019\u985e\u80a1\u7968\u5c1a\u6709\u8f03\u5927\u7684\u4e0a\u884c\u7a7a\u9593\uff0c\u5c1a\u672a\u89f8\u53ca\u8d85\u8cb7\u8b66\u6212\u7dda\u3002"
+      "term": "Portfolio Rotation",
+      "explanation_en": "Portfolio rotation means selling a weaker-performing position and using the proceeds to buy a stronger one, without adding new cash. Investors do this to keep capital working in the highest-momentum names rather than sitting in laggards. Today we rotated out of TSLA (score 75, -3% drawdown) into CRWD (score 95, strong MACD crossover) to improve our portfolio's overall momentum profile.",
+      "explanation_zh": "\u300c\u8f2a\u52d5\uff08Portfolio Rotation\uff09\u300d\u662f\u6307\u8ce3\u51fa\u8868\u73fe\u8f03\u5f31\u7684\u6301\u5009\uff0c\u5c07\u8cc7\u91d1\u8f49\u6295\u81f3\u52d5\u80fd\u66f4\u5f37\u7684\u6a19\u7684\uff0c\u800c\u7121\u9700\u6ce8\u5165\u65b0\u8cc7\u91d1\u3002\u6295\u8cc7\u8005\u900f\u904e\u8f2a\u52d5\u7b56\u7565\uff0c\u78ba\u4fdd\u8cc7\u91d1\u6301\u7e8c\u90e8\u7f72\u65bc\u5e02\u5834\u4e2d\u6700\u5177\u52d5\u80fd\u7684\u80a1\u7968\uff0c\u907f\u514d\u8cc7\u91d1\u6eef\u7559\u5728\u843d\u5f8c\u8005\u8eab\u4e0a\u3002\u4eca\u65e5\u6211\u5011\u5c07\u52d5\u80fd\u8a55\u5206\u50c575\u5206\u3001\u5df2\u4e0b\u8dcc3%\u7684\u7279\u65af\u62c9\uff08TSLA\uff09\u63db\u5165\u8a55\u5206\u9ad8\u905495\u5206\u3001MACD\u91d1\u53c9\u5f37\u52c1\u7684CrowdStrike\uff08CRWD\uff09\uff0c\u4ee5\u63d0\u5347\u6574\u9ad4\u7d44\u5408\u7684\u52d5\u80fd\u8cea\u7d20\u3002"
     }
   }
 }
