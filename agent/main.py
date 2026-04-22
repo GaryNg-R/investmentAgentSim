@@ -17,7 +17,10 @@ from __future__ import annotations
 import json
 import sys
 from datetime import date, datetime, time as dtime
-from zoneinfo import ZoneInfo
+try:
+    from zoneinfo import ZoneInfo
+except ImportError:
+    from backports.zoneinfo import ZoneInfo
 
 from agent.portfolio.database import DB_PATH, get_connection, init_db  # FEAT-002: added get_connection
 from agent.portfolio.engine import (

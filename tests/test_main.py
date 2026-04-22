@@ -179,7 +179,10 @@ def test_run2_executes_buy(tmp_path, monkeypatch, capsys):
         json.dump(plan_payload, fh)
 
     from datetime import datetime as _dt
-    from zoneinfo import ZoneInfo
+    try:
+        from zoneinfo import ZoneInfo
+    except ImportError:
+        from backports.zoneinfo import ZoneInfo
     _market_open_et = _dt(2026, 4, 15, 10, 0, tzinfo=ZoneInfo("America/New_York"))  # Tuesday 10am ET
     with (
         patch("agent.main.get_price", return_value=100.0),
@@ -275,7 +278,10 @@ def test_cmd_weekly_sends_digest(tmp_path, monkeypatch, capsys):
 def test_run2_high_conviction_buy_allocates_15pct_of_cash(tmp_path, monkeypatch, capsys):
     """High-conviction BUY allocates ~15% of available cash."""
     from datetime import datetime as _dt
-    from zoneinfo import ZoneInfo
+    try:
+        from zoneinfo import ZoneInfo
+    except ImportError:
+        from backports.zoneinfo import ZoneInfo
     db_file = str(tmp_path / "portfolio.db")
     plan_file = str(tmp_path / "run1_plan.json")
     output_file = str(tmp_path / "output" / "dashboard.html")
@@ -320,7 +326,10 @@ def test_run2_high_conviction_buy_allocates_15pct_of_cash(tmp_path, monkeypatch,
 def test_cmd_run2_calls_process_dividends(tmp_path, monkeypatch, capsys):
     """cmd_run2 calls process_dividends and does not crash when no dividends."""
     from datetime import datetime as _dt
-    from zoneinfo import ZoneInfo
+    try:
+        from zoneinfo import ZoneInfo
+    except ImportError:
+        from backports.zoneinfo import ZoneInfo
     db_file = str(tmp_path / "portfolio.db")
     plan_file = str(tmp_path / "run1_plan.json")
     out_file = str(tmp_path / "output" / "dashboard.html")
