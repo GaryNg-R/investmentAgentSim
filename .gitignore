@@ -3,6 +3,7 @@ data/portfolio.db-shm
 data/portfolio.db-wal
 .venv/
 .claude/
+.superpowers/
 output/
 logs/
 __pycache__/
