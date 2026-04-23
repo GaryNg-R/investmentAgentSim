@@ -83,10 +83,10 @@ TOP STOCK CANDIDATES (sorted by momentum score):
 {candidates_body}"""
 
     # Section 5 — Risk rules
-    open_slots = max(0, 5 - position_count)
+    open_slots = max(0, 10 - position_count)
     section5 = f"""\
 RISK RULES (enforced in code — your trades must respect these):
-- Max 5 open positions at once (currently {position_count} held, {open_slots} slot(s) open)
+- Max 10 open positions at once (currently {position_count} held, {open_slots} slot(s) open)
 - Max 25% of portfolio in any single position
 - Stop-loss: auto-sell at -7% from avg cost
 - Profit target: auto-sell at +12% from avg cost

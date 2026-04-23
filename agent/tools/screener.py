@@ -46,7 +46,7 @@ def screen_stocks(market_direction: str = "neutral") -> list[dict]:
     results: list[dict] = []
 
     for ticker in WATCHLIST:
-        df = get_history(ticker, period="3mo")
+        df = get_history(ticker, period="60d", interval="1h")
         if df.empty:
             continue
 

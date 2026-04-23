@@ -29,15 +29,15 @@ def get_price(ticker: str) -> float | None:
         return None
 
 
-def get_history(ticker: str, period: str = "3mo") -> pd.DataFrame:
+def get_history(ticker: str, period: str = "3mo", interval: str = "1d") -> pd.DataFrame:
     """
-    Returns an OHLCV DataFrame for the given period.
-    Valid periods: 1d, 5d, 1mo, 3mo, 6mo, 1y
+    Returns an OHLCV DataFrame for the given period and interval.
+    Valid periods: 1d, 5d, 1mo, 3mo, 6mo, 1y (daily); 60d max for 1h interval.
     Returns an empty DataFrame on error.
     """
     try:
         t = yf.Ticker(ticker)
-        hist = t.history(period=period)
+        hist = t.history(period=period, interval=interval)
         return hist
     except Exception:
         return pd.DataFrame()

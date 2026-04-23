@@ -9,7 +9,7 @@ from __future__ import annotations
 MAX_POSITION_PCT = 0.25    # max 25% of portfolio in one stock
 STOP_LOSS_PCT = -0.07      # -7% stop-loss triggers auto-sell
 PROFIT_TARGET_PCT = 0.12   # +12% profit target triggers auto-sell
-MAX_POSITIONS = 5          # max 5 open positions at once
+MAX_POSITIONS = 10         # max 10 open positions at once
 CONVICTION_PCT = {"high": 0.20, "medium": 0.12, "low": 0.07}
 
 
