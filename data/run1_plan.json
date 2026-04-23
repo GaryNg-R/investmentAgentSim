@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-04-23T14:54:10.051479+00:00",
+  "saved_at": "2026-04-23T15:13:11.167919+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "TSLA",
-        "shares": 2,
-        "reasoning": "Down -6.1% against a -7% stop-loss, RSI at 48 (neutral) and lowest score of our holdings at 75 \u2014 proactively exiting before auto-stop fires to redeploy into stronger momentum."
+        "action": "BUY",
+        "ticker": "GOOGL",
+        "conviction": "high",
+        "reasoning": "Score 90 with RSI 67.7 in bullish momentum zone, MACD crossover confirmed, and price well above SMA-20 \u2014 fills an open slot with strong technical setup and diversifies away from current holdings."
       },
       {
         "action": "BUY",
-        "ticker": "AAPL",
+        "ticker": "MSFT",
         "conviction": "high",
-        "reasoning": "Highest momentum score in the screened list (95), MACD bullish with rising histogram confirming building momentum, RSI 63.8 in the sweet spot bullish zone, and price 5.3% above SMA-20."
+        "reasoning": "Score 90 with RSI 63.9 cleanly in bullish zone (not overbought), MACD bullish, price 8% above SMA-20 \u2014 fills the second open slot with a large-cap anchor that complements the higher-beta positions already held."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today \u2014 NASDAQ dipped 0.2% and S&P500 held steady, a neutral backdrop that favors stock-picking over macro bets. TSLA is sitting at -6.1% against our -7% stop-loss, so selling it proactively rather than waiting for the auto-trigger frees up ~$749 in capital with control intact. We're swapping our weakest position for AAPL, which carries the top momentum score in today's screened universe and has the rare combination of MACD histogram rising plus RSI in the bullish (not yet overbought) zone.",
+    "briefing": "Markets were essentially flat today \u2014 a coin-flip session with NASDAQ barely red and S&P500 barely green, reflecting a pause after recent momentum. Our existing positions (META, COIN, AAPL) are all holding above stop-loss levels with COIN the standout at +3.4% from cost. With two open slots and over $5,000 in idle cash, the rules strongly favor deployment \u2014 I'm adding GOOGL and MSFT, both scoring 90 with RSIs in the healthy 60\u201368 range, avoiding the overbought names like AMD and SOXL whose RSIs are above 84.",
     "market_education": {
-      "summary_en": "U.S. equity markets traded sideways on April 23, with the S&P 500 essentially flat and the NASDAQ slipping 0.2% as investors digested a mix of ongoing earnings reports and continued uncertainty around Federal Reserve rate policy. Technology stocks showed resilience in leaders like Apple and NVIDIA, which benefit from strong AI-driven demand narratives, while more speculative names like Tesla faced continued pressure from softening EV delivery expectations. With no major macro catalyst to break the stalemate, markets are in a consolidation phase where individual stock momentum is more decisive than index direction.",
-      "summary_zh": "\u7f8e\u80a14\u670823\u65e5\u6574\u9ad4\u6a6b\u884c\u6574\u7406\uff0c\u6a19\u666e500\u6307\u6578\u6536\u5e73\uff0c\u90a3\u65af\u9054\u514b\u5fae\u8dcc0.2%\uff0c\u5e02\u5834\u5728\u7b49\u5f85\u806f\u6e96\u6703\u5229\u7387\u653f\u7b56\u65b9\u5411\u660e\u6717\u53ca\u4f01\u696d\u8ca1\u5831\u6f6e\u6d88\u5316\u4e4b\u9593\u7dad\u6301\u89c0\u671b\u3002\u860b\u679c\u3001\u8f1d\u9054\u7b49AI\u76f8\u95dc\u9f8d\u982d\u80a1\u6191\u85c9\u5f37\u52c1\u7684\u9700\u6c42\u6558\u4e8b\u76f8\u5c0d\u6297\u8dcc\uff0c\u800c\u7279\u65af\u62c9\u5247\u56e0\u96fb\u52d5\u8eca\u4ea4\u4ed8\u524d\u666f\u8da8\u5f31\u6301\u7e8c\u627f\u58d3\u3002\u6574\u9ad4\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\uff0c\u500b\u80a1\u52d5\u80fd\u7684\u512a\u52a3\u5728\u6b64\u76e4\u6574\u671f\u9593\u6bd4\u6307\u6578\u8d70\u5411\u66f4\u80fd\u6c7a\u5b9a\u7372\u5229\u7a7a\u9593\u3002",
+      "summary_en": "U.S. equities traded in a tight range today, with the S&P 500 edging up 0.1% while the NASDAQ dipped 0.1%, reflecting a market in consolidation mode after a strong multi-week rebound. Investors appear to be in a wait-and-see posture ahead of a busy stretch of mega-cap earnings reports, with traders reluctant to add aggressive risk without fresh catalysts. The relative strength of large-cap tech names like GOOGL, MSFT, and META \u2014 all holding above their 20-day moving averages \u2014 suggests institutional money is rotating into quality rather than exiting the market entirely.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u6574\u7406\uff0c\u6a19\u666e500\u5fae\u53470.1%\uff0c\u7d0d\u6307\u5fae\u8dcc0.1%\uff0c\u6574\u9ad4\u5448\u73fe\u76e4\u6574\u683c\u5c40\uff0c\u5ef6\u7e8c\u8fd1\u671f\u5f37\u52e2\u53cd\u5f48\u5f8c\u7684\u7372\u5229\u56de\u5410\u58d3\u529b\u3002\u5e02\u5834\u9032\u5165\u89c0\u671b\u6a21\u5f0f\uff0c\u6295\u8cc7\u8005\u975c\u5019\u5927\u578b\u79d1\u6280\u80a1\u8ca1\u5831\u9678\u7e8c\u51fa\u7210\uff0c\u77ed\u671f\u98a8\u96aa\u504f\u597d\u8da8\u65bc\u5be9\u614e\u3002\u503c\u5f97\u6ce8\u610f\u7684\u662f\uff0cGOOGL\u3001MSFT\u3001META\u7b49\u5927\u578b\u79d1\u6280\u80a1\u80a1\u50f9\u5747\u7dad\u6301\u65bc20\u65e5\u5747\u7dda\u4e4b\u4e0a\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u50be\u5411\u8f49\u5165\u512a\u8cea\u85cd\u7c4c\uff0c\u800c\u975e\u5168\u9762\u64a4\u96e2\u5e02\u5834\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Proactive Stop-Loss Management",
-      "explanation_en": "A stop-loss is a pre-set price level where you exit a losing position to cap your downside \u2014 ours is set at -7% from average cost. Rather than waiting for the automatic trigger to fire, exiting a position that is close to the stop-loss (TSLA at -6.1%) is called proactive management: you reclaim control of the exit price, avoid the emotional stress of watching it hit the limit, and immediately free capital to deploy into stronger opportunities.",
-      "explanation_zh": "\u6b62\u640d\uff08Stop-Loss\uff09\u662f\u6295\u8cc7\u4eba\u9810\u5148\u8a2d\u5b9a\u7684\u51fa\u5834\u50f9\u4f4d\uff0c\u7576\u8667\u640d\u9054\u5230\u4e00\u5b9a\u6bd4\u4f8b\u6642\u81ea\u52d5\u5e73\u5009\uff0c\u6211\u5011\u7684\u898f\u5247\u662f\u8667\u640d\u8d85\u904e7%\u5373\u51fa\u5834\u3002\u300c\u4e3b\u52d5\u5f0f\u6b62\u640d\u7ba1\u7406\u300d\u662f\u6307\u5728\u50f9\u683c\u9084\u672a\u5230\u9054\u6b62\u640d\u7dda\u6642\u4fbf\u4e3b\u52d5\u96e2\u5834\u2014\u2014\u5c31\u50cf\u4eca\u5929\u7684\u7279\u65af\u62c9\u5df2\u8dcc\u81f3-6.1%\uff0c\u8207\u6b62\u640d\u7dda\u50c5\u5dee\u4e00\u6b65\u4e4b\u9059\uff0c\u6b64\u6642\u4e3b\u52d5\u8ce3\u51fa\u53ef\u4ee5\u638c\u63e1\u66f4\u597d\u7684\u51fa\u5834\u50f9\u683c\uff0c\u907f\u514d\u88ab\u52d5\u89f8\u767c\uff0c\u4e26\u7acb\u5373\u91cb\u653e\u8cc7\u91d1\u6295\u5165\u66f4\u5177\u52d5\u80fd\u7684\u6a19\u7684\u3002"
+      "term": "Idle Cash Opportunity Cost",
+      "explanation_en": "Opportunity cost is what you give up by not acting \u2014 in investing, cash sitting idle earns nothing while the market moves. With two open position slots and $5,000+ in cash on a day when multiple stocks show strong momentum signals, leaving that cash undeployed means missing potential gains. This is why the portfolio rules explicitly flag open slots + ample cash as a signal to act rather than wait.",
+      "explanation_zh": "\u6a5f\u6703\u6210\u672c\u662f\u6307\u56e0\u70ba\u300c\u4e0d\u884c\u52d5\u300d\u800c\u653e\u68c4\u7684\u6f5b\u5728\u6536\u76ca\u3002\u5728\u6295\u8cc7\u4e0a\uff0c\u9592\u7f6e\u73fe\u91d1\u4e0d\u7522\u751f\u56de\u5831\uff0c\u800c\u5e02\u5834\u537b\u6301\u7e8c\u6ce2\u52d5\u3002\u4eca\u65e5\u7d44\u5408\u6709\u5169\u500b\u7a7a\u4f4d\u52a0\u4e0a\u903e5,000\u7f8e\u5143\u73fe\u91d1\uff0c\u5728\u591a\u6a94\u80a1\u7968\u5448\u73fe\u5f37\u52e2\u52d5\u80fd\u8a0a\u865f\u7684\u80cc\u666f\u4e0b\uff0c\u82e5\u4e0d\u9032\u884c\u90e8\u7f72\uff0c\u4fbf\u662f\u767d\u767d\u653e\u68c4\u6f5b\u5728\u7372\u5229\u7a7a\u9593\u3002\u9019\u6b63\u662f\u6295\u8cc7\u7d00\u5f8b\u4e2d\u300c\u6709\u7a7a\u4f4d\uff0b\u6709\u8db3\u5920\u73fe\u91d1\u5c31\u61c9\u7a4d\u6975\u5efa\u5009\u300d\u539f\u5247\u7684\u6838\u5fc3\u908f\u8f2f\u3002"
     }
   }
 }
