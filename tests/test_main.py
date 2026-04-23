@@ -5,14 +5,13 @@ from __future__ import annotations
 import json
 import subprocess
 import sys
-from pathlib import Path
 from unittest.mock import patch
 
 import pytest
 
 from agent.portfolio.database import init_db
 from agent.portfolio.engine import execute_buy
-from agent.main import cmd_dashboard, cmd_history, cmd_monitor, cmd_run1, cmd_run2
+from agent.main import cmd_history, cmd_monitor, cmd_run1, cmd_run2
 
 
 # ---------------------------------------------------------------------------
@@ -81,26 +80,10 @@ def test_monitor_no_positions(tmp_path, monkeypatch, capsys):
     db_file = str(tmp_path / "portfolio.db")
     init_db(db_file)
 
-    cmd_monitor(db_path=db_file, output_path=str(tmp_path / "dashboard.html"))
+    cmd_monitor(db_path=db_file)
 
     captured = capsys.readouterr()
     assert "No open positions" in captured.out
-
-
-# ---------------------------------------------------------------------------
-# Test 6: dashboard command generates file and prints path
-# ---------------------------------------------------------------------------
-
-def test_dashboard_command(tmp_path, monkeypatch, capsys):
-    db_file = str(tmp_path / "portfolio.db")
-    output_file = str(tmp_path / "dashboard.html")
-    init_db(db_file)
-
-    cmd_dashboard(db_path=db_file, output_path=output_file)
-
-    captured = capsys.readouterr()
-    assert "Dashboard regenerated" in captured.out
-    assert Path(output_file).exists()
 
 
 # ---------------------------------------------------------------------------
@@ -153,7 +136,6 @@ def test_run1_saves_plan(tmp_path, monkeypatch, capsys):
 def test_run2_executes_buy(tmp_path, monkeypatch, capsys):
     db_file = str(tmp_path / "portfolio.db")
     plan_file = str(tmp_path / "run1_plan.json")
-    output_file = str(tmp_path / "dashboard.html")
 
     # Initialise DB
     init_db(db_file)
@@ -190,7 +172,7 @@ def test_run2_executes_buy(tmp_path, monkeypatch, capsys):
     ):
         mock_dt.now.return_value = _market_open_et
         mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
-        cmd_run2(db_path=db_file, plan_path=plan_file, output_path=output_file)
+        cmd_run2(db_path=db_file, plan_path=plan_file)
 
     captured = capsys.readouterr()
     # Low conviction allocates 4% of $10,000 = $400; at $100/share = 4 shares — should be EXECUTED
@@ -202,7 +184,6 @@ def test_cmd_run2_monday_deposit_adds_100_to_agent_cash(tmp_path, monkeypatch, c
     """On Monday, cmd_run2 adds $100 to agent cash (idempotent — only once per day)."""
     db_file = str(tmp_path / "portfolio.db")
     plan_file = str(tmp_path / "run1_plan.json")
-    out_file = str(tmp_path / "output" / "dashboard.html")
 
     init_db(db_file)
 
@@ -232,7 +213,7 @@ def test_cmd_run2_monday_deposit_adds_100_to_agent_cash(tmp_path, monkeypatch, c
     from agent.portfolio.engine import get_portfolio_status
     initial_cash = get_portfolio_status(db_file)["cash"]
 
-    cmd_run2(db_path=db_file, plan_path=plan_file, output_path=out_file)
+    cmd_run2(db_path=db_file, plan_path=plan_file)
 
     final_cash = get_portfolio_status(db_file)["cash"]
     assert abs(final_cash - (initial_cash + 100.0)) < 0.01
@@ -284,7 +265,6 @@ def test_run2_high_conviction_buy_allocates_15pct_of_cash(tmp_path, monkeypatch,
         from backports.zoneinfo import ZoneInfo
     db_file = str(tmp_path / "portfolio.db")
     plan_file = str(tmp_path / "run1_plan.json")
-    output_file = str(tmp_path / "output" / "dashboard.html")
 
     init_db(db_file)
 
@@ -315,7 +295,7 @@ def test_run2_high_conviction_buy_allocates_15pct_of_cash(tmp_path, monkeypatch,
     ):
         mock_dt.now.return_value = _market_open_et
         mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
-        cmd_run2(db_path=db_file, plan_path=plan_file, output_path=output_file)
+        cmd_run2(db_path=db_file, plan_path=plan_file)
 
     captured = capsys.readouterr()
     # 15% of $10,000 = $1,500; at $100/share = 15 shares
@@ -332,7 +312,6 @@ def test_cmd_run2_calls_process_dividends(tmp_path, monkeypatch, capsys):
         from backports.zoneinfo import ZoneInfo
     db_file = str(tmp_path / "portfolio.db")
     plan_file = str(tmp_path / "run1_plan.json")
-    out_file = str(tmp_path / "output" / "dashboard.html")
 
     init_db(db_file)
 
@@ -360,6 +339,6 @@ def test_cmd_run2_calls_process_dividends(tmp_path, monkeypatch, capsys):
     with patch("agent.main.datetime") as mock_dt:
         mock_dt.now.return_value = _market_open_et
         mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
-        cmd_run2(db_path=db_file, plan_path=plan_file, output_path=out_file)
+        cmd_run2(db_path=db_file, plan_path=plan_file)
 
     assert len(dividend_calls) == 1

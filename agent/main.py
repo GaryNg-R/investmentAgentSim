@@ -8,7 +8,6 @@ Commands:
   run2       Execute the trade plan from run1 (6:30 AM PT)
   monitor    Check stop-loss/profit targets on open positions (every 30 min)
   history    Print trade history and portfolio summary
-  dashboard  Regenerate the HTML dashboard
   weekly     Build and send the weekly performance digest (Sunday 1pm PT)
 """
 
@@ -30,7 +29,6 @@ from agent.portfolio.engine import (
     get_trade_history,
     save_daily_snapshot,
 )
-from agent.tools.dashboard import generate_dashboard
 from agent.tools.market_index import get_market_direction
 from agent.tools.risk_rules import (
     check_profit_target,
@@ -51,7 +49,6 @@ import os as _os
 
 _PROJECT_ROOT = _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))
 PLAN_PATH = _os.path.join(_PROJECT_ROOT, "data", "run1_plan.json")
-OUTPUT_PATH = _os.path.join(_PROJECT_ROOT, "output", "dashboard.html")
 
 USAGE = """\
 AI Investment Agent — Paper Trading
@@ -62,7 +59,6 @@ Commands:
   run2       Execute the trade plan from run1 (6:30 AM PT)
   monitor    Check stop-loss/profit targets on open positions (every 30 min)
   history    Print trade history and portfolio summary
-  dashboard  Regenerate the HTML dashboard
   weekly     Build and send the weekly performance digest to Telegram (Sunday 1pm PT)
 
 Cron setup (edit with `crontab -e`):
@@ -110,7 +106,7 @@ def cmd_run1(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
         sys.exit(1)
 
 
-def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: str = OUTPUT_PATH) -> None:
+def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
     """Execute the trade plan from run1."""
     try:
         init_db(db_path)
@@ -210,11 +206,8 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
         portfolio = get_portfolio_status(db_path)
         save_daily_snapshot(today, portfolio["total_value"], portfolio["cash"], portfolio["pnl_pct"], db_path)
 
-        benchmark = update_benchmark(db_path)  # FEAT-002: must run before dashboard
+        benchmark = update_benchmark(db_path)  # FEAT-002
         dividends = process_dividends(db_path)  # FEAT-005
-
-        # Regenerate dashboard
-        generate_dashboard(db_path, output_path)
 
         # Print final portfolio status
         print(
@@ -231,7 +224,7 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH, output_path: st
         sys.exit(1)
 
 
-def cmd_monitor(db_path: str = DB_PATH, output_path: str = OUTPUT_PATH) -> None:
+def cmd_monitor(db_path: str = DB_PATH) -> None:
     """Intraday stop-loss and profit-target checker."""
     try:
         init_db(db_path)
@@ -270,7 +263,6 @@ def cmd_monitor(db_path: str = DB_PATH, output_path: str = OUTPUT_PATH) -> None:
             portfolio = get_portfolio_status(db_path)
             today = date.today().isoformat()
             save_daily_snapshot(today, portfolio["total_value"], portfolio["cash"], portfolio["pnl_pct"], db_path)
-            generate_dashboard(db_path, output_path)
 
         print("Monitor complete")
     except Exception as exc:
@@ -329,17 +321,6 @@ def cmd_history(db_path: str = DB_PATH) -> None:
         sys.exit(1)
 
 
-def cmd_dashboard(db_path: str = DB_PATH, output_path: str = OUTPUT_PATH) -> None:
-    """Regenerate the HTML dashboard."""
-    try:
-        init_db(db_path)
-        path = generate_dashboard(db_path, output_path)
-        print(f"Dashboard regenerated: {path}")
-    except Exception as exc:
-        print(f"Error: {exc}")
-        sys.exit(1)
-
-
 def cmd_weekly(db_path: str = DB_PATH) -> None:  # FEAT-004
     """Build and send the weekly performance digest to Telegram."""
     try:
@@ -373,8 +354,6 @@ def main(args: list[str]) -> None:
         cmd_monitor()
     elif command == "history":
         cmd_history()
-    elif command == "dashboard":
-        cmd_dashboard()
     elif command == "weekly":
         cmd_weekly()
     else:
