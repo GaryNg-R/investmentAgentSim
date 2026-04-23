@@ -10,13 +10,13 @@ MAX_POSITION_PCT = 0.25    # max 25% of portfolio in one stock
 STOP_LOSS_PCT = -0.07      # -7% stop-loss triggers auto-sell
 PROFIT_TARGET_PCT = 0.12   # +12% profit target triggers auto-sell
 MAX_POSITIONS = 5          # max 5 open positions at once
-CONVICTION_PCT = {"high": 0.15, "medium": 0.08, "low": 0.04}
+CONVICTION_PCT = {"high": 0.20, "medium": 0.12, "low": 0.07}
 
 
-def position_size_from_conviction(conviction: str, cash: float) -> float:
-    """Return dollar amount to invest based on conviction level and available cash."""
+def position_size_from_conviction(conviction: str, total_value: float) -> float:
+    """Return dollar amount to invest based on conviction level and total portfolio value."""
     pct = CONVICTION_PCT.get(conviction, CONVICTION_PCT["medium"])
-    return cash * pct
+    return total_value * pct
 
 
 def validate_buy(ticker: str, shares: int, price: float, portfolio: dict) -> tuple[bool, str]:

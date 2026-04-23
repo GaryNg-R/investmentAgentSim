@@ -175,7 +175,7 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
                     continue
                 # FEAT-003: derive shares from conviction + current price
                 conviction = trade.get("conviction", "medium")
-                dollar_amount = position_size_from_conviction(conviction, portfolio["cash"])
+                dollar_amount = position_size_from_conviction(conviction, portfolio["total_value"])
                 shares = int(dollar_amount / current_price)
                 valid, reason = validate_buy(ticker, shares, current_price, portfolio)
                 if valid:
