@@ -4,6 +4,7 @@ data/portfolio.db-wal
 .venv/
 .claude/
 .superpowers/
+.worktrees/
 output/
 logs/
 __pycache__/
