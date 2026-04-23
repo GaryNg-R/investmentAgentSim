@@ -55,18 +55,20 @@ class TestValidateBuy:
         assert "exceeds" in result[1] and "25%" in result[1]
 
     def test_max_positions_new_ticker(self):
-        """Already 3 positions, buying a 4th → (False, reason)."""
+        """Already at MAX_POSITIONS (5), buying a 6th ticker → (False, reason)."""
         portfolio = {
-            "cash": 5_000.0,
+            "cash": 3_000.0,
             "positions": [
                 {"ticker": "AAPL", "shares": 10, "avg_cost": 100.0},
                 {"ticker": "MSFT", "shares": 10, "avg_cost": 200.0},
                 {"ticker": "NVDA", "shares": 5, "avg_cost": 300.0},
+                {"ticker": "GOOG", "shares": 5, "avg_cost": 150.0},
+                {"ticker": "AMZN", "shares": 5, "avg_cost": 180.0},
             ],
             "total_value": 10_000.0,
-            "position_count": 3,
+            "position_count": 5,
         }
-        result = validate_buy("TSLA", 10, 200.0, portfolio)
+        result = validate_buy("TSLA", 2, 200.0, portfolio)
         assert result[0] is False
         assert "max positions" in result[1]
 
