@@ -19,10 +19,12 @@ LOG_FILE="$SCRIPT_DIR/logs/agent.log"
 # ---------------------------------------------------------------------------
 # Setup
 # ---------------------------------------------------------------------------
-# Load TELEGRAM_* vars from ~/.bashrc (bypasses the interactive-only guard)
-if [[ -f "$HOME/.bashrc" ]]; then
-  eval "$(grep -E '^(export\s+)?TELEGRAM_' "$HOME/.bashrc")"
-fi
+# Load TELEGRAM_* vars from shell rc file (bypasses the interactive-only guard)
+for _rc in "$HOME/.bashrc" "$HOME/.zshrc"; do
+  if [[ -f "$_rc" ]]; then
+    eval "$(grep -E '^(export\s+)?TELEGRAM_' "$_rc")" 2>/dev/null || true
+  fi
+done
 
 mkdir -p "$SCRIPT_DIR/logs"
 
@@ -32,10 +34,13 @@ log() {
 
 cd "$SCRIPT_DIR"
 
-PYTHON="$SCRIPT_DIR/.venv/bin/python3"
-if [[ ! -x "$PYTHON" ]]; then
-  PYTHON="$(which python3)"
+if [[ ! -x "$SCRIPT_DIR/.venv/bin/python3" ]]; then
+  log "No .venv found — creating and installing dependencies"
+  python3 -m venv "$SCRIPT_DIR/.venv"
+  "$SCRIPT_DIR/.venv/bin/pip" install -r "$SCRIPT_DIR/requirements.txt" -q
+  log ".venv ready"
 fi
+PYTHON="$SCRIPT_DIR/.venv/bin/python3"
 
 log "========================================"
 log "Investment Agent — daily run starting"
