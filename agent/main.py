@@ -44,6 +44,8 @@ from agent.tools.notify import notify_error, notify_run1, notify_run2, notify_we
 from agent.tools.weekly_report import build_weekly_report  # FEAT-004
 from agent.tools.benchmark import update_benchmark  # FEAT-002
 from agent.tools.dividends import process_dividends  # FEAT-005
+from agent.tools.dashboard_export import export_dashboard_data
+from agent.tools.git_sync import sync_dashboard_repo
 
 import os as _os
 
@@ -216,6 +218,22 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
             f"P&L: {portfolio['pnl_pct']:+.2f}%"
         )
         notify_run2(executed, rejected, portfolio, benchmark=benchmark, dividends=dividends)  # FEAT-002, FEAT-005
+
+        # Dashboard export — runs last, failure never propagates
+        try:
+            _dash_repo = _os.environ.get(
+                "DASHBOARD_REPO_PATH",
+                _os.path.join(_PROJECT_ROOT, "..", "investmentAgentDashboard"),
+            )
+            _dash_repo = _os.path.abspath(_dash_repo)
+            _dash_output = _os.path.join(_dash_repo, "public", "data.json")
+            export_dashboard_data(db_path, plan_path, _dash_output)
+            _sync_result = sync_dashboard_repo(_dash_repo, files=["public/data.json"])
+            if not _sync_result["ok"]:
+                print(f"[dashboard sync] {_sync_result['reason']}")
+        except Exception as _exc:
+            print(f"[dashboard export] warning: {_exc}")
+
     except SystemExit:
         raise
     except Exception as exc:

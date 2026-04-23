@@ -342,3 +342,84 @@ def test_cmd_run2_calls_process_dividends(tmp_path, monkeypatch, capsys):
         cmd_run2(db_path=db_file, plan_path=plan_file)
 
     assert len(dividend_calls) == 1
+
+
+# ---------------------------------------------------------------------------
+# Task 14: Dashboard export hook
+# ---------------------------------------------------------------------------
+
+def test_run2_calls_export_and_sync(tmp_path, monkeypatch, capsys):
+    """cmd_run2 calls export_dashboard_data and sync_dashboard_repo once each."""
+    from datetime import datetime as _dt
+    try:
+        from zoneinfo import ZoneInfo
+    except ImportError:
+        from backports.zoneinfo import ZoneInfo
+
+    db_file = str(tmp_path / "portfolio.db")
+    plan_file = str(tmp_path / "run1_plan.json")
+    init_db(db_file)
+
+    plan = {"decisions": {"trades": [], "skip_new_buys": False, "briefing": "ok"}}
+    with open(plan_file, "w") as f:
+        json.dump(plan, f)
+
+    _market_open_et = _dt(2026, 4, 17, 10, 0, tzinfo=ZoneInfo("America/New_York"))
+    export_calls = []
+    sync_calls = []
+
+    monkeypatch.setattr("agent.main.export_dashboard_data", lambda *a, **kw: export_calls.append(a) or {})
+    monkeypatch.setattr("agent.main.sync_dashboard_repo", lambda *a, **kw: sync_calls.append(a) or {"ok": True, "reason": "ok"})
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: True)
+    monkeypatch.setattr("agent.tools.benchmark._get_voo_price", lambda: 450.0)
+
+    with patch("agent.main.datetime") as mock_dt:
+        mock_dt.now.return_value = _market_open_et
+        mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
+        cmd_run2(db_path=db_file, plan_path=plan_file)
+
+    assert len(export_calls) == 1
+    assert len(sync_calls) == 1
+    # export called before sync
+    assert export_calls[0][0] == db_file
+    assert export_calls[0][1] == plan_file
+
+
+def test_run2_export_failure_does_not_block_completion(tmp_path, monkeypatch, capsys):
+    """If export_dashboard_data raises, cmd_run2 still completes without re-raising."""
+    from datetime import datetime as _dt
+    try:
+        from zoneinfo import ZoneInfo
+    except ImportError:
+        from backports.zoneinfo import ZoneInfo
+
+    db_file = str(tmp_path / "portfolio.db")
+    plan_file = str(tmp_path / "run1_plan.json")
+    init_db(db_file)
+
+    plan = {
+        "decisions": {
+            "trades": [{"action": "BUY", "ticker": "AAPL", "conviction": "low", "reasoning": "test"}],
+            "skip_new_buys": False,
+            "briefing": "ok",
+        }
+    }
+    with open(plan_file, "w") as f:
+        json.dump(plan, f)
+
+    _market_open_et = _dt(2026, 4, 17, 10, 0, tzinfo=ZoneInfo("America/New_York"))
+
+    def _crash(*a, **kw):
+        raise RuntimeError("simulated export crash")
+
+    monkeypatch.setattr("agent.main.export_dashboard_data", _crash)
+    monkeypatch.setattr("agent.main.sync_dashboard_repo", lambda *a, **kw: {"ok": True, "reason": "ok"})
+    monkeypatch.setattr("agent.main.get_price", lambda t: 100.0)
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: True)
+    monkeypatch.setattr("agent.tools.benchmark._get_voo_price", lambda: 450.0)
+
+    with patch("agent.main.datetime") as mock_dt:
+        mock_dt.now.return_value = _market_open_et
+        mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
+        # Must not raise
+        cmd_run2(db_path=db_file, plan_path=plan_file)
