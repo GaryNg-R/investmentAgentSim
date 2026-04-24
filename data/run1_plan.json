@@ -1,44 +1,19 @@
 {
-  "saved_at": "2026-04-24T19:01:45.561042+00:00",
+  "saved_at": "2026-04-24T20:01:16.893078+00:00",
   "market_direction": "risk_on",
   "decisions": {
-    "trades": [
-      {
-        "action": "SELL",
-        "ticker": "NVO",
-        "shares": 50,
-        "reasoning": "Not in screener, pharma sector lagging in today's risk-on tech rally; freeing capital for higher-momentum opportunities"
-      },
-      {
-        "action": "BUY",
-        "ticker": "AAOI",
-        "conviction": "high",
-        "reasoning": "Top score 95 with RSI 65.3 in the ideal bullish momentum zone, MACD bullish crossover, and price well above SMA-20 \u2014 clean entry setup in a strong NASDAQ tape"
-      },
-      {
-        "action": "BUY",
-        "ticker": "IREN",
-        "conviction": "high",
-        "reasoning": "Top score 95 with RSI 64 in bullish momentum zone and rising MACD histogram; crypto/AI infrastructure directly benefits from today's NASDAQ risk-on surge"
-      },
-      {
-        "action": "BUY",
-        "ticker": "HIMX",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 65.7 in bullish zone and MACD bullish crossover; semiconductor display driver IC plays into the broader chip upcycle driving today's tech rally"
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "NASDAQ surged 1.5% in a clear risk-on session, with tech and semis leading the market. I rotated out of NVO (Novo Nordisk) \u2014 absent from the screener and lacking momentum signals in a tech-dominated tape \u2014 to free up capital. Proceeds fund three new high-scoring (95) momentum positions: AAOI (optical networking), IREN (crypto/AI infrastructure), and HIMX (semiconductors), all with RSI in the ideal 55\u201370 bullish zone and MACD crossovers confirming entry.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Risk-on session with NASDAQ surging +1.6% and S&P 500 up +0.8%, a favorable backdrop for our tech-heavy portfolio. However, cash sits at just $269.62 \u2014 well below the $500 threshold \u2014 so no new positions can be sized meaningfully even with 4 open slots available. Existing holdings look healthy: AAOI remains in the bullish momentum zone (RSI 64, score 90), and AMZN continues grinding higher above our cost basis, though its RSI of 77.9 warrants watching for a fade.",
     "market_education": {
-      "summary_en": "U.S. equities posted a strong risk-on session on April 24, with the NASDAQ outperforming the broader S&P 500 by nearly 2x, suggesting institutional rotation back into growth and technology. Semiconductor and AI-infrastructure names led gains as investors grew more confident in the near-term earnings outlook heading into peak reporting season. The relative strength of NASDAQ versus S&P 500 signals that risk appetite is focused specifically on high-beta tech rather than a broad market move.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e024\u670824\u65e5\u5448\u73fe\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u8d70\u52e2\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u5e7e\u4e4e\u662f\u6a19\u666e500\u7684\u5169\u500d\uff0c\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u6210\u9577\u578b\u53ca\u79d1\u6280\u80a1\u3002\u534a\u5c0e\u9ad4\u8207AI\u57fa\u790e\u8a2d\u65bd\u985e\u80a1\u9818\u6f32\uff0c\u6295\u8cc7\u4eba\u5c0d\u5373\u5c07\u9032\u5165\u9ad8\u5cf0\u671f\u7684\u8ca1\u5831\u5b63\u62b1\u6301\u6a02\u89c0\u614b\u5ea6\u3002\u7d0d\u65af\u9054\u514b\u76f8\u5c0d\u5f37\u65bc\u5927\u76e4\u7684\u683c\u5c40\uff0c\u986f\u793a\u6b64\u8f2a\u4e0a\u6f32\u5c6c\u65bc\u9ad8\u8c9d\u4ed6\u79d1\u6280\u80a1\u7684\u7cbe\u6e96\u5e03\u5c40\uff0c\u800c\u975e\u5168\u9762\u6027\u7684\u5e02\u5834\u53cd\u5f48\u3002",
+      "summary_en": "Equities rallied broadly on Thursday as technology and growth stocks led the charge, with the NASDAQ outperforming the broader S&P 500 by nearly 2-to-1. The risk-on tone was driven by easing trade-war concerns and better-than-expected earnings guidance from several large-cap tech names, which boosted investor confidence in forward growth. Semiconductor and AI-related names were among the biggest beneficiaries, consistent with a market rotating back into high-beta growth.",
+      "summary_zh": "\u9031\u56db\u7f8e\u80a1\u5168\u9762\u8d70\u9ad8\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u9818\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u8868\u73fe\u9060\u512a\u65bc\u6a19\u666e500\u3002\u5e02\u5834\u98a8\u96aa\u504f\u597d\u56de\u5347\uff0c\u4e3b\u56e0\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u7de9\u548c\uff0c\u52a0\u4e0a\u591a\u5bb6\u5927\u578b\u79d1\u6280\u4f01\u696d\u767c\u5e03\u512a\u65bc\u9810\u671f\u7684\u76c8\u5229\u5c55\u671b\uff0c\u63d0\u632f\u6295\u8cc7\u8005\u5c0d\u672a\u4f86\u589e\u9577\u7684\u4fe1\u5fc3\u3002\u534a\u5c0e\u9ad4\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u6982\u5ff5\u80a1\u6210\u70ba\u6700\u5927\u53d7\u76ca\u8005\uff0c\u5e02\u5834\u8cc7\u91d1\u660e\u986f\u91cd\u65b0\u6d41\u5165\u9ad8\u8c9d\u5854\u6210\u9577\u80a1\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock is moving up or down on a scale of 0\u2013100. An RSI between 55 and 70 is considered the 'bullish momentum zone' \u2014 strong enough to show real buying interest, but not yet overbought (above 70) where a pullback becomes more likely. Today's buys (AAOI, IREN, HIMX) all sit in this sweet spot, which is why they scored 95 while stocks with RSI above 70 scored lower despite also being technically bullish.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u7968\u4e0a\u6f32\u6216\u4e0b\u8dcc\u7684\u901f\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002RSI\u572855\u81f370\u4e4b\u9593\u88ab\u8996\u70ba\u300c\u725b\u5e02\u52d5\u80fd\u5340\u9593\u300d\u2014\u2014\u5f37\u52c1\u5230\u8db3\u4ee5\u986f\u793a\u771f\u5be6\u7684\u8cb7\u76e4\u8208\u8da3\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\uff0870\u4ee5\u4e0a\uff09\uff0c\u8d85\u8cb7\u5340\u5f80\u5f80\u9810\u793a\u56de\u8abf\u98a8\u96aa\u589e\u52a0\u3002\u4eca\u65e5\u8cb7\u5165\u7684AAOI\u3001IREN\u3001HIMX\u5747\u843d\u5728\u9019\u500b\u300c\u751c\u871c\u9ede\u300d\uff0c\u9019\u4e5f\u662f\u70ba\u4f55\u5b83\u5011\u80fd\u62ff\u523095\u5206\u9ad8\u8a55\u5206\uff0c\u800cRSI\u8d85\u904e70\u7684\u80a1\u7968\u5373\u4fbf\u6280\u8853\u9762\u540c\u6a23\u504f\u591a\uff0c\u8a55\u5206\u537b\u76f8\u5c0d\u8f03\u4f4e\u3002"
+      "term": "Cash Drag",
+      "explanation_en": "Cash drag is the performance penalty a portfolio suffers when uninvested cash sits idle while the market rises. Today's risk-on rally is a textbook example: our $269.62 in cash earned nothing while NASDAQ climbed 1.6%. Keeping cash below the minimum buyable threshold ($500) means we miss out on capturing momentum \u2014 which is why the system enforces a 'deploy idle cash' rule when slots are open.",
+      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\u662f\u6307\u6295\u8cc7\u7d44\u5408\u4e2d\u9592\u7f6e\u73fe\u91d1\u672a\u80fd\u6295\u5165\u5e02\u5834\uff0c\u5728\u80a1\u5e02\u4e0a\u6f32\u6642\u6240\u627f\u53d7\u7684\u6a5f\u6703\u6210\u672c\u640d\u5931\u3002\u4eca\u65e5\u98a8\u96aa\u504f\u597d\u56de\u5347\u6b63\u662f\u5178\u578b\u6848\u4f8b\uff1a\u6211\u5011\u6301\u6709\u7684$269.62\u73fe\u91d1\u6beb\u7121\u6536\u76ca\uff0c\u800c\u90a3\u65af\u9054\u514b\u537b\u4e0a\u6f32\u4e861.6%\u3002\u7576\u73fe\u91d1\u4f4e\u65bc\u6700\u4f4e\u53ef\u8cfc\u91d1\u984d\u9580\u6abb\uff08$500\uff09\u6642\uff0c\u4fbf\u932f\u5931\u4e86\u8ffd\u8e64\u5e02\u5834\u52d5\u80fd\u7684\u6a5f\u6703\uff0c\u9019\u4e5f\u6b63\u662f\u7cfb\u7d71\u8a2d\u7acb\u300c\u6709\u7a7a\u4f4d\u4e14\u6709\u9592\u7f6e\u73fe\u91d1\u5247\u7a4d\u6975\u90e8\u7f72\u300d\u898f\u5247\u7684\u539f\u56e0\u3002"
     }
   }
 }
