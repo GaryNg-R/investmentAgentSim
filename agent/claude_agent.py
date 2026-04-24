@@ -23,7 +23,8 @@ def build_prompt(market_direction: dict, portfolio: dict, screened_stocks: list[
     # Section 1 — Goal and context
     section1 = f"""\
 You are an AI investment agent managing a paper trading portfolio.
-Goal: achieve 15% return (reach $11,500) from $10,000 starting capital within 30 trading days.
+Goal: outperform the VOO ETF (S&P 500) over 1, 3, and 6 months through active stock selection.
+Focus on risk-adjusted returns — avoiding large drawdowns matters as much as capturing gains.
 Today's date: {today}"""
 
     # Section 2 — Market direction block

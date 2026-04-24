@@ -1,0 +1,18 @@
+[Unit]
+Description=Run Investment Agent hourly 6am-2pm every weekday
+
+[Timer]
+OnCalendar=Mon-Fri *-*-* 06:00:00
+OnCalendar=Mon-Fri *-*-* 07:00:00
+OnCalendar=Mon-Fri *-*-* 08:00:00
+OnCalendar=Mon-Fri *-*-* 09:00:00
+OnCalendar=Mon-Fri *-*-* 10:00:00
+OnCalendar=Mon-Fri *-*-* 11:00:00
+OnCalendar=Mon-Fri *-*-* 12:00:00
+OnCalendar=Mon-Fri *-*-* 13:00:00
+OnCalendar=Mon-Fri *-*-* 14:00:00
+WakeSystem=yes
+Persistent=true
+
+[Install]
+WantedBy=timers.target
