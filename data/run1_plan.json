@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-04-27T15:01:16.533157+00:00",
+  "saved_at": "2026-04-27T16:01:33.915025+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "MANE",
+        "ticker": "UEC",
         "conviction": "high",
-        "reasoning": "Top score of 100 with all bullish signals firing \u2014 RSI in momentum zone, MACD bullish crossover, rising histogram, and a volume surge above 1.5x average confirming institutional interest."
+        "reasoning": "Score 95 with all three momentum signals aligned \u2014 RSI 55 in the ideal bullish zone, MACD crossover, and histogram rising \u2014 uranium energy is a clean setup without overbought risk."
       },
       {
         "action": "BUY",
-        "ticker": "VZ",
+        "ticker": "WU",
         "conviction": "medium",
-        "reasoning": "Score 95 with clean MACD crossover and RSI in bullish zone; Verizon offers defensive telecom exposure to diversify a tech-heavy portfolio."
+        "reasoning": "Score 95 with RSI 55.9 in the bullish zone and all MACD signals positive; low-price financial services name adds sector diversification to a tech-heavy portfolio."
       },
       {
         "action": "BUY",
-        "ticker": "TXG",
+        "ticker": "RGC",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 61, MACD bullish crossover, and price comfortably above SMA-20 \u2014 solid momentum without overbought risk."
+        "reasoning": "Score 95 with RSI 55.4 and bullish MACD crossover plus rising histogram; price just above SMA-20 suggests early-stage momentum rather than extended breakout."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today with the S&P 500 and NASDAQ both down fractionally \u2014 a neutral backdrop that doesn't justify sitting on idle cash. With 5 open slots and $1,173 available, deploying into the top momentum candidates makes sense. Chose MANE as the standout (score 100 with volume confirmation), VZ for defensive diversification away from our tech-heavy book, and TXG for clean mid-cap momentum. No existing positions appear to have triggered stop-loss or profit targets today.",
+    "briefing": "Markets are essentially flat today (S&P -0.1%, NASDAQ -0.2%), a neutral tape that offers no reason to pause new entries. With 5 open slots and $1,173 cash sitting idle, I'm deploying into the three cleanest score-95 setups \u2014 UEC, WU, and RGC \u2014 all of which have RSI in the ideal 55\u201370 range rather than the overbought zone crowding much of the rest of the screener. Existing positions in GOOGL, QQQ, AMZN, MSTR, and AAOI are held; none are near stop-loss or profit-target levels based on available data.",
     "market_education": {
-      "summary_en": "U.S. equities drifted sideways on Monday, with the S&P 500 and NASDAQ each slipping less than 0.2% in low-conviction trading. The muted session reflects an ongoing wait-and-see posture among investors ahead of a busy week of earnings reports from major tech companies. In the absence of a clear catalyst, market participants are rotating into defensive names \u2014 notably telecom and utility stocks \u2014 while trimming exposure to extended growth plays.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e00\u5728\u4f4e\u6210\u4ea4\u91cf\u4e0b\u7a84\u5e45\u76e4\u6574\uff0c\u6a19\u666e500\u8207\u90a3\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u5747\u4e0d\u8db30.2%\uff0c\u6574\u9ad4\u6c23\u6c1b\u5be9\u614e\u89c0\u671b\u3002\u5e02\u5834\u7126\u9ede\u8f49\u5411\u672c\u9031\u5373\u5c07\u516c\u5e03\u8ca1\u5831\u7684\u5927\u578b\u79d1\u6280\u80a1\uff0c\u6295\u8cc7\u4eba\u5728\u7d50\u679c\u660e\u6717\u524d\u50be\u5411\u6309\u5175\u4e0d\u52d5\u3002\u8cc7\u91d1\u6d41\u5411\u65b9\u9762\uff0c\u96fb\u4fe1\u53ca\u516c\u7528\u4e8b\u696d\u7b49\u9632\u79a6\u6027\u677f\u584a\u51fa\u73fe\u5c0f\u5e45\u8f2a\u52d5\uff0c\u5c0d\u4f30\u503c\u504f\u9ad8\u7684\u6210\u9577\u80a1\u5247\u6709\u9069\u5ea6\u7372\u5229\u4e86\u7d50\u8de1\u8c61\u3002",
+      "summary_en": "U.S. equities drifted slightly lower Monday, with the S&P 500 off 0.1% and the NASDAQ down 0.2%, as investors traded cautiously ahead of a heavy week of Big Tech earnings and key economic releases. The session lacked a single dominant catalyst, with traders balancing lingering trade-policy uncertainty against resilient corporate earnings so far this cycle. Energy and defensive names held up better than growth-oriented tech, suggesting mild risk-off rotation without a full flight to safety.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e00\u5c0f\u5e45\u6536\u8dcc\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u964d0.1%\uff0c\u7d0d\u65af\u9054\u514b\u4e0b\u6ed10.2%\u3002\u6295\u8cc7\u8005\u5728\u79d1\u6280\u5de8\u982d\u696d\u7e3e\u516c\u5e03\u53ca\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u767c\u5e03\u524d\u4fdd\u6301\u5be9\u614e\uff0c\u5e02\u5834\u672a\u898b\u660e\u78ba\u55ae\u4e00\u50ac\u5316\u5291\u3002\u8cbf\u6613\u653f\u7b56\u7684\u4e0d\u78ba\u5b9a\u6027\u8207\u672c\u8f2a\u8ca1\u5831\u5b63\u6574\u9ad4\u7a69\u5065\u8868\u73fe\u4e4b\u9593\u5f62\u6210\u62c9\u92f8\uff0c\u8cc7\u91d1\u51fa\u73fe\u8f15\u5fae\u9632\u79a6\u6027\u8f2a\u52d5\uff0c\u80fd\u6e90\u53ca\u9632\u5b88\u80a1\u8868\u73fe\u512a\u65bc\u6210\u9577\u578b\u79d1\u6280\u80a1\uff0c\u4f46\u6574\u9ad4\u4e26\u672a\u6f14\u8b8a\u70ba\u660e\u986f\u7684\u907f\u96aa\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price and volume trends, on the theory that assets moving upward tend to keep moving upward for a period. Traders use indicators like RSI (Relative Strength Index) and MACD to identify when momentum is building but not yet overextended. The risk is that momentum can reverse sharply \u2014 which is why stop-losses are critical when riding these trends.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u6838\u5fc3\u662f\u8ffd\u8cb7\u8fd1\u671f\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u5747\u5448\u5f37\u52e2\u7684\u80a1\u7968\uff0c\u5176\u908f\u8f2f\u5728\u65bc\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u4e0a\u6f32\u4e2d\u7684\u8cc7\u7522\u5f80\u5f80\u5177\u6709\u6163\u6027\uff0c\u77ed\u671f\u5167\u4ecd\u6703\u7e7c\u7e8c\u8d70\u9ad8\u3002\u4ea4\u6613\u8005\u5e38\u501f\u52a9\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u548cMACD\u7b49\u6280\u8853\u6307\u6a19\uff0c\u5224\u65b7\u52d5\u80fd\u662f\u5426\u6b63\u5728\u7a4d\u7d2f\u4e14\u5c1a\u672a\u904e\u71b1\u3002\u6b64\u7b56\u7565\u7684\u4e3b\u8981\u98a8\u96aa\u5728\u65bc\u52d5\u80fd\u53ef\u80fd\u6025\u901f\u53cd\u8f49\uff0c\u56e0\u6b64\u914d\u5408\u56b4\u683c\u7684\u6b62\u640d\u6a5f\u5236\u5c24\u70ba\u91cd\u8981\u3002"
+      "explanation_en": "Momentum investing means buying stocks that show signs of sustained upward movement \u2014 measured by indicators like RSI (strength of recent price gains) and MACD (trend direction and acceleration). The sweet spot is RSI between 55\u201370: strong enough to confirm a trend, but not so high that the stock is overbought and due for a pullback. Today's buys (UEC, WU, RGC) all sit in that zone, which is why they rank above higher-RSI tickers that score lower despite appearing to move faster.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u6280\u8853\u6307\u6a19\u986f\u793a\u6301\u7e8c\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5e38\u7528\u6307\u6a19\u5305\u62ecRSI\uff08\u8861\u91cf\u8fd1\u671f\u6f32\u5e45\u5f37\u5ea6\uff09\u53caMACD\uff08\u5224\u65b7\u8da8\u52e2\u65b9\u5411\u8207\u52a0\u901f\u5ea6\uff09\u3002\u6700\u7406\u60f3\u7684\u9032\u5834\u5340\u9593\u662fRSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff1a\u8da8\u52e2\u5920\u5f37\u3001\u78ba\u8a8d\u52d5\u80fd\uff0c\u4f46\u53c8\u672a\u9032\u5165\u8d85\u8cb7\u5340\u57df\u3001\u9762\u81e8\u56de\u8abf\u98a8\u96aa\u3002\u4eca\u65e5\u8cb7\u5165\u7684UEC\u3001WU\u53caRGC\u5747\u843d\u5728\u9019\u500b\u751c\u871c\u5340\uff0c\u9019\u4e5f\u662f\u5b83\u5011\u6392\u540d\u512a\u5148\u65bc\u90e8\u5206RSI\u66f4\u9ad8\u3001\u770b\u4f3c\u6f32\u52e2\u66f4\u731b\u4f46\u5be6\u70ba\u8d85\u8cb7\u80a1\u7968\u7684\u539f\u56e0\u3002"
     }
   }
 }
