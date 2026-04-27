@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-04-27T14:01:32.820298+00:00",
+  "saved_at": "2026-04-27T15:01:16.533157+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "AAPL",
-        "shares": 3,
-        "reasoning": "Score has fallen to 20 with RSI below 40 and all signals bearish \u2014 momentum has deteriorated and the position is drifting toward stop-loss; better to rotate capital now into score-100 names."
+        "action": "BUY",
+        "ticker": "MANE",
+        "conviction": "high",
+        "reasoning": "Top score of 100 with all bullish signals firing \u2014 RSI in momentum zone, MACD bullish crossover, rising histogram, and a volume surge above 1.5x average confirming institutional interest."
       },
       {
         "action": "BUY",
         "ticker": "VZ",
-        "conviction": "high",
-        "reasoning": "Score 100 with all 5 bullish signals confirmed, RSI at 69.5 in the upper momentum zone with MACD rising, and telecom offers relative defensiveness in a flat, directionless tape."
+        "conviction": "medium",
+        "reasoning": "Score 95 with clean MACD crossover and RSI in bullish zone; Verizon offers defensive telecom exposure to diversify a tech-heavy portfolio."
       },
       {
         "action": "BUY",
-        "ticker": "SOFI",
+        "ticker": "TXG",
         "conviction": "medium",
-        "reasoning": "Score 100 with RSI at 55.6 \u2014 early in the bullish zone with significant room to run \u2014 all 5 signals firing including a volume surge that suggests fresh institutional accumulation."
+        "reasoning": "Score 95 with RSI 61, MACD bullish crossover, and price comfortably above SMA-20 \u2014 solid momentum without overbought risk."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially unchanged today \u2014 NASDAQ off 0.2%, S&P 500 flat \u2014 with no dominant catalyst driving price action. AAPL's momentum has broken down significantly (score 20, RSI 39.7, full bearish signal stack), so we're exiting that position and redeploying the freed capital into VZ and SOFI, both scoring 100 with confirmed bullish momentum. After selling AAPL we'll have roughly $1,170 in cash across two fresh buys, keeping us active while we still have slots available.",
+    "briefing": "Markets were essentially flat today with the S&P 500 and NASDAQ both down fractionally \u2014 a neutral backdrop that doesn't justify sitting on idle cash. With 5 open slots and $1,173 available, deploying into the top momentum candidates makes sense. Chose MANE as the standout (score 100 with volume confirmation), VZ for defensive diversification away from our tech-heavy book, and TXG for clean mid-cap momentum. No existing positions appear to have triggered stop-loss or profit targets today.",
     "market_education": {
-      "summary_en": "U.S. equity markets were virtually unchanged on April 27, with the S&P 500 flat and the NASDAQ slipping just 0.2%, reflecting a broadly neutral sentiment as investors digested recent earnings and awaited fresh economic data. There was no single dominant theme \u2014 defensive sectors and growth names both traded sideways \u2014 pointing to a market in a consolidation phase rather than a trend move. The tight-range session suggests participants are positioning carefully ahead of upcoming macro catalysts rather than making aggressive directional bets.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e024\u670827\u65e5\u7a84\u5e45\u6574\u7406\uff0c\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u6536\u5e73\uff0c\u7d0d\u6307\u50c5\u5fae\u8dcc0.2%\uff0c\u5e02\u5834\u6574\u9ad4\u60c5\u7dd2\u4e2d\u6027\u3002\u6295\u8cc7\u8005\u6d88\u5316\u8fd1\u671f\u8ca1\u5831\u6578\u64da\uff0c\u975c\u5f85\u65b0\u4e00\u8f2a\u5b8f\u89c0\u6307\u6a19\u51fa\u7210\uff0c\u5404\u677f\u584a\u5747\u7f3a\u4e4f\u660e\u78ba\u4e3b\u7dda\uff0c\u9632\u5b88\u80a1\u8207\u6210\u9577\u80a1\u540c\u6b65\u6a6b\u76e4\u3002\u9019\u7a2e\u7a84\u5e45\u9707\u76ea\u683c\u5c40\u986f\u793a\u5e02\u5834\u6b63\u8655\u65bc\u6574\u56fa\u968e\u6bb5\uff0c\u591a\u7a7a\u96d9\u65b9\u7686\u672a\u6562\u8f15\u6613\u52a0\u78bc\uff0c\u7b49\u5f85\u66f4\u6e05\u6670\u7684\u65b9\u5411\u4fe1\u865f\u3002",
+      "summary_en": "U.S. equities drifted sideways on Monday, with the S&P 500 and NASDAQ each slipping less than 0.2% in low-conviction trading. The muted session reflects an ongoing wait-and-see posture among investors ahead of a busy week of earnings reports from major tech companies. In the absence of a clear catalyst, market participants are rotating into defensive names \u2014 notably telecom and utility stocks \u2014 while trimming exposure to extended growth plays.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e00\u5728\u4f4e\u6210\u4ea4\u91cf\u4e0b\u7a84\u5e45\u76e4\u6574\uff0c\u6a19\u666e500\u8207\u90a3\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u5747\u4e0d\u8db30.2%\uff0c\u6574\u9ad4\u6c23\u6c1b\u5be9\u614e\u89c0\u671b\u3002\u5e02\u5834\u7126\u9ede\u8f49\u5411\u672c\u9031\u5373\u5c07\u516c\u5e03\u8ca1\u5831\u7684\u5927\u578b\u79d1\u6280\u80a1\uff0c\u6295\u8cc7\u4eba\u5728\u7d50\u679c\u660e\u6717\u524d\u50be\u5411\u6309\u5175\u4e0d\u52d5\u3002\u8cc7\u91d1\u6d41\u5411\u65b9\u9762\uff0c\u96fb\u4fe1\u53ca\u516c\u7528\u4e8b\u696d\u7b49\u9632\u79a6\u6027\u677f\u584a\u51fa\u73fe\u5c0f\u5e45\u8f2a\u52d5\uff0c\u5c0d\u4f30\u503c\u504f\u9ad8\u7684\u6210\u9577\u80a1\u5247\u6709\u9069\u5ea6\u7372\u5229\u4e86\u7d50\u8de1\u8c61\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Rotation",
-      "explanation_en": "Momentum rotation means selling positions where price momentum has weakened and redeploying that capital into stocks showing stronger momentum signals \u2014 before the weak position hits a stop-loss. Today we sold AAPL (RSI below 40, bearish MACD, score 20) and used the proceeds to buy VZ and SOFI (both score 100 with rising MACD and volume surges). The discipline is to always hold the strongest-trending names and cut the ones losing steam early, rather than waiting for a larger loss.",
-      "explanation_zh": "\u52d5\u80fd\u8f2a\u52d5\u662f\u6307\u4e3b\u52d5\u8ce3\u51fa\u52d5\u80fd\u6e1b\u5f31\u7684\u6301\u5009\uff0c\u5728\u89f8\u53ca\u6b62\u640d\u4e4b\u524d\uff0c\u5c07\u8cc7\u91d1\u8f49\u79fb\u81f3\u52d5\u80fd\u66f4\u5f37\u7684\u6a19\u7684\u3002\u4eca\u5929\u6211\u5011\u8ce3\u51faAAPL\uff08RSI\u4f4e\u65bc40\u3001MACD\u770b\u8dcc\u3001\u8a55\u5206\u50c520\uff09\uff0c\u4e26\u7528\u6240\u5f97\u8cc7\u91d1\u8cb7\u5165VZ\u8207SOFI\uff08\u5169\u8005\u8a55\u5206\u5747\u70ba100\uff0cMACD\u5411\u4e0a\u3001\u6210\u4ea4\u91cf\u6fc0\u589e\uff09\u3002\u9019\u4e00\u7b56\u7565\u7684\u6838\u5fc3\u7d00\u5f8b\u662f\uff1a\u59cb\u7d42\u6301\u6709\u8da8\u52e2\u6700\u5f37\u7684\u80a1\u7968\uff0c\u76e1\u65e9\u5254\u9664\u5931\u53bb\u52d5\u80fd\u7684\u5009\u4f4d\uff0c\u907f\u514d\u7b49\u5230\u66f4\u5927\u8667\u640d\u624d\u88ab\u8feb\u96e2\u5834\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price and volume trends, on the theory that assets moving upward tend to keep moving upward for a period. Traders use indicators like RSI (Relative Strength Index) and MACD to identify when momentum is building but not yet overextended. The risk is that momentum can reverse sharply \u2014 which is why stop-losses are critical when riding these trends.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u6838\u5fc3\u662f\u8ffd\u8cb7\u8fd1\u671f\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u5747\u5448\u5f37\u52e2\u7684\u80a1\u7968\uff0c\u5176\u908f\u8f2f\u5728\u65bc\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u4e0a\u6f32\u4e2d\u7684\u8cc7\u7522\u5f80\u5f80\u5177\u6709\u6163\u6027\uff0c\u77ed\u671f\u5167\u4ecd\u6703\u7e7c\u7e8c\u8d70\u9ad8\u3002\u4ea4\u6613\u8005\u5e38\u501f\u52a9\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u548cMACD\u7b49\u6280\u8853\u6307\u6a19\uff0c\u5224\u65b7\u52d5\u80fd\u662f\u5426\u6b63\u5728\u7a4d\u7d2f\u4e14\u5c1a\u672a\u904e\u71b1\u3002\u6b64\u7b56\u7565\u7684\u4e3b\u8981\u98a8\u96aa\u5728\u65bc\u52d5\u80fd\u53ef\u80fd\u6025\u901f\u53cd\u8f49\uff0c\u56e0\u6b64\u914d\u5408\u56b4\u683c\u7684\u6b62\u640d\u6a5f\u5236\u5c24\u70ba\u91cd\u8981\u3002"
     }
   }
 }
