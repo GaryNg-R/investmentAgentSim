@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-04-27T16:01:33.915025+00:00",
+  "saved_at": "2026-04-27T17:01:20.345933+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,32 +7,26 @@
         "action": "BUY",
         "ticker": "UEC",
         "conviction": "high",
-        "reasoning": "Score 95 with all three momentum signals aligned \u2014 RSI 55 in the ideal bullish zone, MACD crossover, and histogram rising \u2014 uranium energy is a clean setup without overbought risk."
+        "reasoning": "Score 95 with all four momentum signals aligned \u2014 RSI in sweet spot at 57.1, MACD bullish crossover with rising histogram, and price above SMA-20; uranium sector continues to benefit from nuclear energy tailwinds."
       },
       {
         "action": "BUY",
-        "ticker": "WU",
+        "ticker": "FSLY",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 55.9 in the bullish zone and all MACD signals positive; low-price financial services name adds sector diversification to a tech-heavy portfolio."
-      },
-      {
-        "action": "BUY",
-        "ticker": "RGC",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 55.4 and bullish MACD crossover plus rising histogram; price just above SMA-20 suggests early-stage momentum rather than extended breakout."
+        "reasoning": "Score 95 with clean momentum setup \u2014 RSI 56.2 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20; tech infrastructure CDN play with room to run before overbought territory."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are essentially flat today (S&P -0.1%, NASDAQ -0.2%), a neutral tape that offers no reason to pause new entries. With 5 open slots and $1,173 cash sitting idle, I'm deploying into the three cleanest score-95 setups \u2014 UEC, WU, and RGC \u2014 all of which have RSI in the ideal 55\u201370 range rather than the overbought zone crowding much of the rest of the screener. Existing positions in GOOGL, QQQ, AMZN, MSTR, and AAOI are held; none are near stop-loss or profit-target levels based on available data.",
+    "briefing": "Markets were essentially flat today \u2014 NASDAQ down a fraction, S&P 500 unchanged \u2014 signaling a pause rather than a directional move. Existing positions look healthy, particularly AMZN which continues to trend up above our cost basis. Deploying remaining cash into two high-scoring momentum candidates (UEC and FSLY) that have all technical signals aligned without being overbought, using remaining cash productively while keeping 3 open slots as a buffer given the uncertain macro backdrop.",
     "market_education": {
-      "summary_en": "U.S. equities drifted slightly lower Monday, with the S&P 500 off 0.1% and the NASDAQ down 0.2%, as investors traded cautiously ahead of a heavy week of Big Tech earnings and key economic releases. The session lacked a single dominant catalyst, with traders balancing lingering trade-policy uncertainty against resilient corporate earnings so far this cycle. Energy and defensive names held up better than growth-oriented tech, suggesting mild risk-off rotation without a full flight to safety.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e00\u5c0f\u5e45\u6536\u8dcc\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u964d0.1%\uff0c\u7d0d\u65af\u9054\u514b\u4e0b\u6ed10.2%\u3002\u6295\u8cc7\u8005\u5728\u79d1\u6280\u5de8\u982d\u696d\u7e3e\u516c\u5e03\u53ca\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u767c\u5e03\u524d\u4fdd\u6301\u5be9\u614e\uff0c\u5e02\u5834\u672a\u898b\u660e\u78ba\u55ae\u4e00\u50ac\u5316\u5291\u3002\u8cbf\u6613\u653f\u7b56\u7684\u4e0d\u78ba\u5b9a\u6027\u8207\u672c\u8f2a\u8ca1\u5831\u5b63\u6574\u9ad4\u7a69\u5065\u8868\u73fe\u4e4b\u9593\u5f62\u6210\u62c9\u92f8\uff0c\u8cc7\u91d1\u51fa\u73fe\u8f15\u5fae\u9632\u79a6\u6027\u8f2a\u52d5\uff0c\u80fd\u6e90\u53ca\u9632\u5b88\u80a1\u8868\u73fe\u512a\u65bc\u6210\u9577\u578b\u79d1\u6280\u80a1\uff0c\u4f46\u6574\u9ad4\u4e26\u672a\u6f14\u8b8a\u70ba\u660e\u986f\u7684\u907f\u96aa\u884c\u60c5\u3002",
+      "summary_en": "U.S. equity markets traded sideways on April 27, with the S&P 500 essentially flat and the NASDAQ dipping fractionally as investors took a wait-and-see stance ahead of upcoming earnings and economic data. The neutral tone reflected a market in consolidation mode after recent volatility, with no single catalyst driving strong conviction in either direction. Sector rotation continued quietly beneath the surface, with energy and tech infrastructure names showing relative strength while broader indices held steady.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e024\u670827\u65e5\u5448\u73fe\u6a6b\u76e4\u6574\u7406\u683c\u5c40\uff0c\u6a19\u666e500\u6307\u6578\u6536\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5c0f\u5e45\u4e0b\u8dcc\uff0c\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u5373\u5c07\u516c\u5e03\u7684\u4f01\u696d\u8ca1\u5831\u53ca\u7d93\u6fdf\u6578\u64da\u524d\u4fdd\u6301\u89c0\u671b\u3002\u6574\u9ad4\u5e02\u5834\u6c1b\u570d\u504f\u5411\u4e2d\u6027\uff0c\u8fd1\u671f\u6ce2\u52d5\u5f8c\u9032\u5165\u76e4\u6574\u968e\u6bb5\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u55ae\u4e00\u50ac\u5316\u5291\u3002\u677f\u584a\u8f2a\u52d5\u5728\u6aaf\u9762\u4e0b\u6084\u7136\u9032\u884c\uff0c\u80fd\u6e90\u53ca\u79d1\u6280\u57fa\u790e\u8a2d\u65bd\u985e\u80a1\u5c55\u73fe\u76f8\u5c0d\u5f37\u52e2\uff0c\u4e3b\u8981\u6307\u6578\u5247\u7dad\u6301\u7a69\u5b9a\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that show signs of sustained upward movement \u2014 measured by indicators like RSI (strength of recent price gains) and MACD (trend direction and acceleration). The sweet spot is RSI between 55\u201370: strong enough to confirm a trend, but not so high that the stock is overbought and due for a pullback. Today's buys (UEC, WU, RGC) all sit in that zone, which is why they rank above higher-RSI tickers that score lower despite appearing to move faster.",
-      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u6280\u8853\u6307\u6a19\u986f\u793a\u6301\u7e8c\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5e38\u7528\u6307\u6a19\u5305\u62ecRSI\uff08\u8861\u91cf\u8fd1\u671f\u6f32\u5e45\u5f37\u5ea6\uff09\u53caMACD\uff08\u5224\u65b7\u8da8\u52e2\u65b9\u5411\u8207\u52a0\u901f\u5ea6\uff09\u3002\u6700\u7406\u60f3\u7684\u9032\u5834\u5340\u9593\u662fRSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff1a\u8da8\u52e2\u5920\u5f37\u3001\u78ba\u8a8d\u52d5\u80fd\uff0c\u4f46\u53c8\u672a\u9032\u5165\u8d85\u8cb7\u5340\u57df\u3001\u9762\u81e8\u56de\u8abf\u98a8\u96aa\u3002\u4eca\u65e5\u8cb7\u5165\u7684UEC\u3001WU\u53caRGC\u5747\u843d\u5728\u9019\u500b\u751c\u871c\u5340\uff0c\u9019\u4e5f\u662f\u5b83\u5011\u6392\u540d\u512a\u5148\u65bc\u90e8\u5206RSI\u66f4\u9ad8\u3001\u770b\u4f3c\u6f32\u52e2\u66f4\u731b\u4f46\u5be6\u70ba\u8d85\u8cb7\u80a1\u7968\u7684\u539f\u56e0\u3002"
+      "explanation_en": "Momentum investing is a strategy that buys stocks showing upward price and technical strength, betting that recent trends will continue for a period before reversing. Traders use indicators like RSI (relative strength index) and MACD (moving average convergence divergence) to measure how strong and sustained a stock's momentum is \u2014 the sweet spot is RSI between 55\u201370, meaning the stock is trending up but not yet overbought. Today's picks (UEC, FSLY) scored 95 precisely because all their momentum indicators aligned without flashing warning signs.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u8e64\u5f37\u52e2\u80a1\u7684\u7b56\u7565\u2014\u2014\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u548c\u6280\u8853\u6307\u6a19\u6301\u7e8c\u5411\u4e0a\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u9019\u7a2e\u8da8\u52e2\u5728\u9006\u8f49\u524d\u4ecd\u6703\u5ef6\u7e8c\u4e00\u6bb5\u6642\u9593\u3002\u4ea4\u6613\u8005\u4f7f\u7528RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u548cMACD\uff08\u6307\u6578\u79fb\u52d5\u5e73\u5747\u7dda\uff09\u7b49\u6307\u6a19\u4f86\u8861\u91cf\u80a1\u7968\u52d5\u91cf\u7684\u5f37\u5ea6\u8207\u6301\u7e8c\u6027\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u662f\u300c\u751c\u871c\u5340\u300d\uff0c\u4ee3\u8868\u80a1\u7968\u8da8\u52e2\u5411\u4e0a\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u3002\u4eca\u65e5\u9078\u80a1\uff08UEC\u3001FSLY\uff09\u8a55\u5206\u905495\u5206\uff0c\u6b63\u662f\u56e0\u70ba\u6240\u6709\u52d5\u91cf\u6307\u6a19\u540c\u6b65\u767c\u51fa\u770b\u591a\u4fe1\u865f\uff0c\u4e14\u672a\u51fa\u73fe\u4efb\u4f55\u8d85\u8cb7\u8b66\u793a\u3002"
     }
   }
 }
