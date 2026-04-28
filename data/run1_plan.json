@@ -1,38 +1,19 @@
 {
-  "saved_at": "2026-04-28T14:01:19.855985+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-04-28T15:00:43.470129+00:00",
+  "market_direction": "risk_off",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "RVMD",
-        "conviction": "high",
-        "reasoning": "Perfect score with all 5 bullish signals: RSI in momentum zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge \u2014 strongest setup on the board."
-      },
-      {
-        "action": "BUY",
-        "ticker": "CVLT",
-        "conviction": "high",
-        "reasoning": "Perfect score with all 5 bullish signals including volume surge; cybersecurity/data management sector showing relative strength in a down tape."
-      },
-      {
-        "action": "BUY",
-        "ticker": "GTLB",
-        "conviction": "medium",
-        "reasoning": "Perfect score with all 5 bullish signals at an affordable price point; RSI at 67.5 leaves room before overbought territory."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Markets closed modestly lower today with NASDAQ off 0.9% and S&P 500 down 0.5%, a neutral-to-cautious tape. Despite the broad weakness, the screener surfaced six perfect-score candidates with volume surges \u2014 a sign of rotation into specific names rather than a risk-off day. Deploying remaining cash into RVMD, CVLT, and GTLB to fill open slots and put idle cash to work in the highest-conviction setups available.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Markets are risk-off today with NASDAQ down 1.2% and S&P 500 down 0.6%. The screener returned no candidates, so there's nothing to buy even if conditions were favorable. Holding all five current positions and keeping cash on the sidelines until momentum returns.",
     "market_education": {
-      "summary_en": "U.S. equities drifted lower on Tuesday as tech-heavy NASDAQ led the decline with a 0.9% drop, dragged by caution around upcoming Big Tech earnings and lingering macro uncertainty. The S&P 500 slipped 0.5% as investors rotated out of megacap names and into select mid- and small-cap momentum stocks showing strong earnings outlooks. Volume surges in individual names like RVMD and CVLT suggest institutional accumulation even as the broader index sold off.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u4e8c\u666e\u904d\u8d70\u4f4e\uff0c\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u8dcc0.9%\uff0c\u5e02\u5834\u5c0d\u5373\u5c07\u516c\u5e03\u7684\u5927\u578b\u79d1\u6280\u80a1\u8ca1\u5831\u6301\u89c0\u671b\u614b\u5ea6\uff0c\u52a0\u4e0a\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u6301\u7e8c\u58d3\u5236\u60c5\u7dd2\u3002\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.5%\uff0c\u8cc7\u91d1\u5f9e\u5927\u578b\u79d1\u6280\u80a1\u6d41\u51fa\uff0c\u8f49\u5411\u90e8\u5206\u4e2d\u5c0f\u578b\u52d5\u80fd\u80a1\u3002RVMD\u3001CVLT\u7b49\u500b\u80a1\u6210\u4ea4\u91cf\u986f\u8457\u653e\u5927\uff0c\u53cd\u6620\u5373\u4fbf\u5927\u76e4\u8d70\u5f31\uff0c\u4ecd\u6709\u6a5f\u69cb\u8cc7\u91d1\u9078\u64c7\u9022\u4f4e\u4f48\u5c40\u5177\u57fa\u672c\u9762\u652f\u6490\u7684\u6a19\u7684\u3002",
+      "summary_en": "Markets sold off broadly today in a classic risk-off session, with the tech-heavy NASDAQ bearing the brunt at -1.2% versus a milder -0.6% decline in the broader S&P 500. Risk-off moves typically reflect investors rotating out of growth and speculative assets into safety \u2014 cash, bonds, and defensive sectors. No specific catalysts were provided today, but the divergence between NASDAQ and S&P 500 suggests technology and high-multiple growth stocks faced the most selling pressure.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u6574\u9ad4\u5448\u73fe\u907f\u96aa\u60c5\u7dd2\uff0c\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u6700\u5927\uff0c\u4e0b\u632b1.2%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u8f03\u70ba\u6eab\u548c\uff0c\u56de\u843d0.6%\u3002\u5e02\u5834\u7684\u300c\u907f\u96aa\u300d\u6a21\u5f0f\u901a\u5e38\u4ee3\u8868\u6295\u8cc7\u4eba\u5c07\u8cc7\u91d1\u5f9e\u6210\u9577\u578b\u53ca\u6295\u6a5f\u6027\u8cc7\u7522\u4e2d\u64a4\u51fa\uff0c\u8f49\u5411\u73fe\u91d1\u3001\u50b5\u5238\u53ca\u9632\u79a6\u6027\u677f\u584a\u3002\u5169\u5927\u6307\u6578\u7684\u8dcc\u5e45\u5dee\u7570\u986f\u793a\uff0c\u9ad8\u4f30\u503c\u79d1\u6280\u80a1\u6240\u627f\u53d7\u7684\u62cb\u58d3\u6700\u70ba\u660e\u986f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price and volume trends, betting that winners keep winning in the short term. Indicators like RSI (measuring speed of price moves), MACD (tracking trend direction), and volume surges all signal when a stock has building momentum. Today's top candidates scored 100 by combining all three signals at once \u2014 exactly what momentum investors look for.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u8da8\u52e2\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u5f37\u52e2\u80a1\u77ed\u671f\u5167\u4ecd\u6703\u6301\u7e8c\u4e0a\u6f32\u3002RSI\uff08\u8861\u91cf\u50f9\u683c\u8b8a\u52d5\u901f\u5ea6\uff09\u3001MACD\uff08\u8ffd\u8e64\u8da8\u52e2\u65b9\u5411\uff09\u4ee5\u53ca\u6210\u4ea4\u91cf\u6025\u589e\uff0c\u90fd\u662f\u5224\u65b7\u500b\u80a1\u52d5\u80fd\u662f\u5426\u7a4d\u805a\u7684\u91cd\u8981\u6307\u6a19\u3002\u4eca\u65e5\u8a55\u5206\u6eff\u5206\u7684\u5019\u9078\u80a1\u540c\u6642\u5177\u5099\u4e0a\u8ff0\u4e09\u5927\u4fe1\u865f\uff0c\u6b63\u662f\u52d5\u80fd\u6295\u8cc7\u8005\u6700\u9752\u775e\u7684\u9032\u5834\u578b\u614b\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "Risk-off is a market mood where investors become fearful and move money away from riskier assets like stocks \u2014 especially high-growth tech \u2014 and into safer havens like bonds, cash, or gold. On risk-off days, you typically see NASDAQ fall harder than the broader S&P 500 because tech carries higher valuations and more uncertainty. As an investor, recognizing risk-off conditions helps you avoid buying into weakness and protect capital.",
+      "explanation_zh": "\u300c\u907f\u96aa\u60c5\u7dd2\u300d\uff08Risk-Off\uff09\u662f\u6307\u5e02\u5834\u6574\u9ad4\u6c23\u6c1b\u8da8\u65bc\u8b39\u614e\uff0c\u6295\u8cc7\u4eba\u5c07\u8cc7\u91d1\u5f9e\u80a1\u7968\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\u2014\u2014\u5c24\u5176\u662f\u9ad8\u6210\u9577\u79d1\u6280\u80a1\u2014\u2014\u64a4\u96e2\uff0c\u8f49\u800c\u6d41\u5411\u50b5\u5238\u3001\u73fe\u91d1\u6216\u9ec3\u91d1\u7b49\u5b89\u5168\u8cc7\u7522\u3002\u5728\u907f\u96aa\u65e5\uff0c\u7d0d\u65af\u9054\u514b\u901a\u5e38\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\uff0c\u56e0\u70ba\u79d1\u6280\u80a1\u4f30\u503c\u504f\u9ad8\u3001\u4e0d\u78ba\u5b9a\u6027\u8f03\u5927\u3002\u80fd\u8fa8\u5225\u5e02\u5834\u8655\u65bc\u907f\u96aa\u6a21\u5f0f\uff0c\u6709\u52a9\u65bc\u6295\u8cc7\u8005\u907f\u514d\u5728\u5f31\u52e2\u4e2d\u8ffd\u8cb7\uff0c\u5f9e\u800c\u4fdd\u8b77\u672c\u91d1\u3002"
     }
   }
 }
