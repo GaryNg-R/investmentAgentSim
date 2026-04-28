@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-04-27T21:01:16.148441+00:00",
+  "saved_at": "2026-04-28T13:01:09.693316+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "JOBY",
         "conviction": "high",
-        "reasoning": "Top-ranked score (100) with RSI 61.2, MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge \u2014 all five signals aligned in the ideal bullish momentum zone with no overbought risk."
+        "reasoning": "Top momentum score (100) with confirmed MACD bullish crossover, RSI in ideal 55-70 zone, and volume surge \u2014 cleanest technical setup on the screener today."
       },
       {
         "action": "BUY",
         "ticker": "CLF",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 67.9 (upper bullish zone), MACD bullish crossover, price well above SMA-20, and a volume surge \u2014 strong materials/steel momentum that could benefit from domestic infrastructure and tariff-driven demand shifts."
+        "reasoning": "Score 95 with volume surge and RSI 67.9 near the upper bullish zone; steel names showing strength likely tied to infrastructure/tariff-reshoring tailwinds, deploying remaining cash to fill an open slot."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today with NASDAQ +0.2% and S&P 500 +0.1%, a true neutral session with no clear directional catalyst. With 5 open slots and cash above the $500 threshold, the rules call for deploying capital into best candidates \u2014 JOBY earns the top pick with a perfect momentum score and every technical signal aligned, while CLF adds materials exposure with strong volume confirmation. No existing positions triggered sell criteria; AMZN is ticking up and the rest continue their trajectories.",
+    "briefing": "Market is nearly flat today \u2014 NASDAQ +0.2% and S&P 500 +0.1% \u2014 suggesting quiet consolidation rather than a risk-off move. Existing positions (GOOGL, QQQ, AMZN, MSTR, AAOI) are all above cost and away from stop-loss levels, so no defensive action is needed. With 5 open slots and $1,173 in cash above the $500 threshold, the rules call for deploying into our best candidates \u2014 JOBY earns the highest score on the screener with a clean volume-backed breakout, and CLF adds sector diversification via the steel/materials space.",
     "market_education": {
-      "summary_en": "U.S. equities drifted sideways today as investors balanced lingering tariff uncertainty against resilient corporate earnings, with no major macro catalyst to break the standoff. Tech led marginally as AI-related optimism provided a slight bid to NASDAQ names, while defensive sectors lagged in the low-volume, wait-and-see environment. Traders are positioning cautiously ahead of key economic data and Fed commentary expected later this week, keeping both bulls and bears from making aggressive moves.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u6a6b\u76e4\u6574\u7406\uff0c\u6295\u8cc7\u8005\u5728\u6301\u7e8c\u7684\u95dc\u7a05\u4e0d\u78ba\u5b9a\u6027\u8207\u4f01\u696d\u76c8\u5229\u97cc\u6027\u4e4b\u9593\u5c0b\u6c42\u5e73\u8861\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u5b8f\u89c0\u50ac\u5316\u5291\u6253\u7834\u50f5\u5c40\u3002\u79d1\u6280\u80a1\u56e0AI\u76f8\u95dc\u6a02\u89c0\u60c5\u7dd2\u5c0f\u5e45\u9818\u6f32\uff0c\u5e36\u52d5\u90a3\u65af\u9054\u514b\u6307\u6578\u5fae\u5347\uff0c\u800c\u9632\u79a6\u6027\u677f\u584a\u5728\u4f4e\u6210\u4ea4\u91cf\u89c0\u671b\u6c23\u6c1b\u4e2d\u76f8\u5c0d\u843d\u5f8c\u3002\u5e02\u5834\u53c3\u8207\u8005\u666e\u904d\u4fdd\u6301\u8b39\u614e\uff0c\u975c\u5f85\u672c\u9031\u7a0d\u5f8c\u516c\u5e03\u7684\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u53ca\u806f\u6e96\u6703\u5b98\u54e1\u767c\u8a00\uff0c\u591a\u7a7a\u96d9\u65b9\u5747\u672a\u6709\u660e\u986f\u52d5\u4f5c\u3002",
+      "summary_en": "U.S. equities drifted marginally higher on April 28, with both the NASDAQ and S&P 500 posting fractional gains as investors awaited key macro catalysts including upcoming Fed commentary and Q1 GDP data. Trading volumes were subdued, consistent with a 'wait-and-see' posture ahead of month-end rebalancing flows. Individual momentum names in uranium, steel, and EV-adjacent sectors outperformed the tape, suggesting selective risk appetite rather than broad market conviction.",
+      "summary_zh": "\u7f8e\u80a1\u65bc4\u670828\u65e5\u7a84\u5e45\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u5747\u9304\u5f97\u5fae\u5e45\u6f32\u5e45\uff0c\u5e02\u5834\u975c\u5f85\u806f\u5132\u5c40\u5b98\u54e1\u8b1b\u8a71\u53ca\u7b2c\u4e00\u5b63GDP\u6578\u64da\u7b49\u95dc\u9375\u5b8f\u89c0\u50ac\u5316\u5291\u3002\u6210\u4ea4\u91cf\u504f\u4f4e\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u6708\u5e95\u518d\u5e73\u8861\u8cc7\u91d1\u6d41\u5165\u524d\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002\u923e\u7926\u3001\u92fc\u9435\u53ca\u96fb\u52d5\u822a\u7a7a\u7b49\u677f\u584a\u500b\u80a1\u5247\u8dd1\u8d0f\u5927\u5e02\uff0c\u986f\u793a\u5e02\u5834\u98a8\u96aa\u504f\u597d\u4ecd\u5177\u9078\u64c7\u6027\uff0c\u800c\u975e\u5168\u9762\u6027\u5165\u5e02\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy of buying stocks that have been trending upward \u2014 using signals like RSI, MACD, and volume to confirm the move has real strength behind it. The idea is that assets that are rising tend to keep rising in the short term, driven by continued buyer interest and positive sentiment. Today's picks (JOBY, CLF) were chosen exactly this way: strong technical momentum in the sweet spot RSI range (55\u201370) before they become overbought.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u8e64\u5f37\u52e2\u80a1\u7684\u7b56\u7565\uff0c\u900f\u904eRSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6a19\uff09\u3001MACD\u53ca\u6210\u4ea4\u91cf\u7b49\u6280\u8853\u6307\u6a19\u78ba\u8a8d\u4e0a\u6f32\u8da8\u52e2\u5177\u5099\u771f\u5be6\u8cb7\u76e4\u652f\u6490\u3002\u5176\u6838\u5fc3\u908f\u8f2f\u662f\uff1a\u77ed\u671f\u5167\u6301\u7e8c\u4e0a\u6f32\u7684\u8cc7\u7522\uff0c\u5f80\u5f80\u56e0\u5e02\u5834\u60c5\u7dd2\u8207\u8cc7\u91d1\u6163\u6027\u800c\u5ef6\u7e8c\u6f32\u52e2\u3002\u4eca\u65e5\u9078\u5165\u7684JOBY\u8207CLF\uff0c\u6b63\u662f\u8655\u65bcRSI 55\u201370\u7684\u300c\u9ec3\u91d1\u52d5\u80fd\u5340\u9593\u300d\u2014\u2014\u52d5\u80fd\u5145\u8db3\u537b\u5c1a\u672a\u8d85\u8cb7\uff0c\u662f\u52d5\u80fd\u6295\u8cc7\u7684\u5178\u578b\u5207\u5165\u6642\u6a5f\u3002"
+      "explanation_en": "Momentum investing means buying stocks that have been trending upward \u2014 betting that recent price strength will continue in the near term. Traders use signals like RSI in the 55-70 range, MACD bullish crossovers, and above-average volume to confirm that buying pressure is real and not fading. Today's top picks (JOBY, CLF) were chosen precisely because all three of those momentum indicators aligned at once.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u50f9\u683c\u5f37\u52e2\u5c07\u5ef6\u7e8c\u3002\u4ea4\u6613\u8005\u901a\u5e38\u4ee5RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u9ad8\u65bc\u5747\u503c\u7b49\u6280\u8853\u8a0a\u865f\uff0c\u78ba\u8a8d\u8cb7\u76e4\u52d5\u80fd\u771f\u5be6\u4e14\u6301\u7e8c\u3002\u4eca\u65e5\u9996\u9078\u7684JOBY\u53caCLF\uff0c\u6b63\u662f\u56e0\u70ba\u4e0a\u8ff0\u4e09\u9805\u52d5\u80fd\u6307\u6a19\u540c\u6642\u767c\u51fa\u770b\u6f32\u8a0a\u865f\u624d\u88ab\u9078\u5165\u3002"
     }
   }
 }
