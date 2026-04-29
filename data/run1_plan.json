@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-04-29T13:01:14.236264+00:00",
+  "saved_at": "2026-04-29T14:01:33.322732+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "MTN",
+        "ticker": "EAT",
         "conviction": "high",
-        "reasoning": "Highest score of 100 with all bullish signals firing \u2014 RSI in momentum zone, MACD crossover, price above SMA-20, and confirmed volume surge; best risk-adjusted entry in today's screener."
+        "reasoning": "Perfect score 100 with all 5 bullish signals: RSI in ideal 55\u201370 momentum zone at 63.5, MACD bullish crossover, rising histogram, price above SMA-20, and volume surge \u2014 textbook momentum entry."
       },
       {
         "action": "BUY",
-        "ticker": "CVLT",
+        "ticker": "AXTI",
+        "conviction": "high",
+        "reasoning": "Perfect score 100 with RSI at 55.5 \u2014 the most conservative entry among top candidates, suggesting earliest-stage momentum with the most room left to run before overbought territory."
+      },
+      {
+        "action": "BUY",
+        "ticker": "ESI",
         "conviction": "medium",
-        "reasoning": "Score 95 with MACD bullish crossover, RSI 62.7 in momentum zone, and volume surge confirming institutional interest \u2014 solid setup to deploy remaining cash."
+        "reasoning": "Perfect score 100 with all 5 bullish signals confirmed; RSI at 69.9 is near the overbought ceiling which limits upside runway slightly, but volume surge validates genuine buying pressure."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets pulled back mildly today \u2014 NASDAQ -0.9%, S&P -0.5% \u2014 in a neutral session with no strong directional conviction. Despite the headwind, MTN and CVLT show textbook momentum setups with volume confirmation, making them worth deploying into with two of our five open slots. Existing positions in GOOGL, QQQ, AMZN, MSTR, and AAOI are left to run with stop-losses as backstops.",
+    "briefing": "Markets were effectively flat today \u2014 both NASDAQ and S&P 500 slipped just 0.1% \u2014 signaling a quiet consolidation session with no major directional bias. With 5 open slots and $1,173 in cash well above the $500 floor, I'm deploying into three perfect-score momentum candidates: EAT, AXTI, and ESI. AXTI gets top billing on risk/reward due to its moderate RSI of 55.5, which leaves the most room before overbought conditions.",
     "market_education": {
-      "summary_en": "U.S. equities softened modestly on April 29 as investors remained cautious ahead of key economic data and ongoing uncertainty around trade policy. The NASDAQ led declines at -0.9%, dragged by weakness in large-cap tech, while the broader S&P 500 fell -0.5% in lighter trading. With no clear catalyst to push markets higher, the session reflected a wait-and-see posture among institutional players.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc4\u670829\u65e5\u5c0f\u5e45\u56de\u843d\uff0c\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u95dc\u9375\u7d93\u6fdf\u6578\u64da\u516c\u4f48\u53ca\u8cbf\u6613\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u6301\u7e8c\u7684\u80cc\u666f\u4e0b\u4fdd\u6301\u5be9\u614e\u3002\u90a3\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u8f03\u5927\uff0c\u4e0b\u8dcc0.9%\uff0c\u4e3b\u8981\u53d7\u5927\u578b\u79d1\u6280\u80a1\u62d6\u7d2f\uff1b\u6a19\u666e500\u6307\u6578\u4ea6\u4e0b\u8dcc0.5%\uff0c\u6210\u4ea4\u91cf\u504f\u6de1\u3002\u6574\u9ad4\u5e02\u5834\u5448\u89c0\u671b\u614b\u52e2\uff0c\u7f3a\u4e4f\u660e\u78ba\u4e0a\u884c\u50ac\u5316\u5291\u3002",
+      "summary_en": "U.S. equities drifted slightly lower today, with the S&P 500 and NASDAQ each shedding 0.1% in a low-conviction session as investors balanced resilient corporate earnings against lingering uncertainty over trade policy and Federal Reserve rate expectations. The muted action reflected a market in consolidation mode \u2014 buyers and sellers roughly in equilibrium \u2014 with no major catalyst to break the recent range. Small- and mid-cap momentum names outperformed large-caps, suggesting selective risk appetite persists beneath the flat headline numbers.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5c0f\u5e45\u6536\u8dcc\uff0c\u6a19\u666e500\u8207\u7d0d\u65af\u9054\u514b\u5747\u4e0b\u6ed10.1%\uff0c\u5e02\u5834\u5728\u5f37\u52c1\u4f01\u696d\u8ca1\u5831\u8207\u8cbf\u6613\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u53ca\u806f\u5132\u5c40\u5229\u7387\u524d\u666f\u4e4b\u9593\u5c0b\u6c42\u5e73\u8861\uff0c\u6574\u9ad4\u6210\u4ea4\u6c23\u6c1b\u4f4e\u8ff7\u3002\u5927\u5e02\u9677\u5165\u6574\u56fa\u683c\u5c40\uff0c\u591a\u7a7a\u529b\u91cf\u5927\u81f4\u76f8\u7576\uff0c\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u6253\u7834\u8fd1\u671f\u76e4\u6574\u5340\u9593\u3002\u503c\u5f97\u6ce8\u610f\u7684\u662f\uff0c\u4e2d\u5c0f\u578b\u52d5\u80fd\u80a1\u8868\u73fe\u512a\u65bc\u5927\u578b\u80a1\uff0c\u986f\u793a\u5e02\u5834\u5728\u5e73\u6de1\u7684\u6307\u6578\u8868\u9762\u4e0b\u4ecd\u5b58\u5728\u9078\u64c7\u6027\u7684\u98a8\u96aa\u504f\u597d\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward \u2014 using signals like RSI, MACD crossovers, and rising volume to confirm that buyers are in control. The idea is that a stock in motion tends to stay in motion, so you ride the trend rather than trying to predict a bottom. Today we used momentum scoring to find MTN and CVLT even in a mildly down market.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u900f\u904eRSI\u3001MACD\u4ea4\u53c9\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u7b49\u6280\u8853\u6307\u6a19\u78ba\u8a8d\u8cb7\u65b9\u529b\u91cf\u4e3b\u5c0e\u5e02\u5834\u3002\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u8da8\u52e2\u4e00\u65e6\u5f62\u6210\uff0c\u5f80\u5f80\u6703\u6301\u7e8c\u4e00\u6bb5\u6642\u9593\uff0c\u6295\u8cc7\u8005\u9806\u52e2\u800c\u70ba\u800c\u975e\u731c\u6e2c\u5e95\u90e8\u3002\u4eca\u65e5\u6211\u5011\u5373\u4f7f\u5728\u5e02\u5834\u5c0f\u5e45\u4e0b\u8dcc\u7684\u74b0\u5883\u4e0b\uff0c\u4f9d\u7136\u900f\u904e\u52d5\u80fd\u8a55\u5206\u7be9\u9078\u51faMTN\u8207CVLT\u4f5c\u70ba\u9032\u5834\u6a19\u7684\u3002"
+      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price trends, based on the idea that assets moving higher tend to keep moving higher in the short term. Traders confirm momentum using indicators like RSI (ideally 55\u201370) and MACD crossovers before entering. Today's picks \u2014 EAT, AXTI, and ESI \u2014 were selected precisely because all their momentum signals aligned bullishly at once, which reduces the chance any single indicator is giving a false signal.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u4e00\u7a2e\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u8da8\u52e2\u5f37\u52c1\u80a1\u7968\u7684\u7b56\u7565\uff0c\u6838\u5fc3\u908f\u8f2f\u662f\uff1a\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u8cc7\u7522\uff0c\u77ed\u671f\u5167\u5f80\u5f80\u50be\u5411\u65bc\u5ef6\u7e8c\u5347\u52e2\u3002\u4ea4\u6613\u8005\u901a\u5e38\u4ee5RSI\uff08\u7406\u60f3\u7bc4\u570d55\u81f370\uff09\u53caMACD\u9ec3\u91d1\u4ea4\u53c9\u7b49\u6307\u6a19\u78ba\u8a8d\u52d5\u91cf\u5f8c\u624d\u9032\u5834\u3002\u4eca\u65e5\u9078\u5165EAT\u3001AXTI\u53caESI\uff0c\u6b63\u56e0\u9019\u4e09\u96bb\u80a1\u7968\u7684\u52d5\u91cf\u6307\u6a19\u540c\u6b65\u504f\u591a\uff0c\u591a\u91cd\u6307\u6a19\u5171\u632f\u53ef\u6709\u6548\u964d\u4f4e\u55ae\u4e00\u6307\u6a19\u8aa4\u5c0e\u7684\u98a8\u96aa\u3002"
     }
   }
 }
