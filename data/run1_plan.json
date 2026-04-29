@@ -1,44 +1,32 @@
 {
-  "saved_at": "2026-04-28T21:01:21.019282+00:00",
+  "saved_at": "2026-04-29T13:01:14.236264+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "AMZN",
-        "shares": 8,
-        "reasoning": "Score dropped to 35 with bearish MACD crossover and price below SMA-20; rotating into higher-momentum candidates while still slightly profitable."
-      },
-      {
         "action": "BUY",
         "ticker": "MTN",
         "conviction": "high",
-        "reasoning": "Top screener score of 100 with RSI in bullish zone, MACD bullish crossover, rising histogram, and volume surge confirming institutional interest."
+        "reasoning": "Highest score of 100 with all bullish signals firing \u2014 RSI in momentum zone, MACD crossover, price above SMA-20, and confirmed volume surge; best risk-adjusted entry in today's screener."
       },
       {
         "action": "BUY",
         "ticker": "CVLT",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 62.7 in bullish momentum zone, MACD crossover, and volume surge signaling strong near-term upside."
-      },
-      {
-        "action": "BUY",
-        "ticker": "NOK",
         "conviction": "medium",
-        "reasoning": "Score 95 with all three momentum signals firing, though RSI at 69.1 is approaching overbought territory so sizing conservatively."
+        "reasoning": "Score 95 with MACD bullish crossover, RSI 62.7 in momentum zone, and volume surge confirming institutional interest \u2014 solid setup to deploy remaining cash."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are mildly negative today (S&P -0.5%, NASDAQ -0.9%), a neutral backdrop that doesn't warrant going to cash but does favor selectivity. AMZN has turned technically bearish with a score of 35, so I'm rotating those proceeds into MTN, CVLT, and NOK \u2014 all sitting in the clean bullish RSI momentum zone with confirmed MACD crossovers and volume backing. This leaves us with 7 positions, still within limits, and a more offense-ready book.",
+    "briefing": "Markets pulled back mildly today \u2014 NASDAQ -0.9%, S&P -0.5% \u2014 in a neutral session with no strong directional conviction. Despite the headwind, MTN and CVLT show textbook momentum setups with volume confirmation, making them worth deploying into with two of our five open slots. Existing positions in GOOGL, QQQ, AMZN, MSTR, and AAOI are left to run with stop-losses as backstops.",
     "market_education": {
-      "summary_en": "U.S. equities slipped modestly on April 28 with the S&P 500 down 0.5% and the NASDAQ falling 0.9%, reflecting continued uncertainty around trade policy and mixed corporate earnings signals. Tech-heavy indices led the decline as investors remained cautious ahead of major earnings reports and potential tariff escalation commentary. Defensive rotation was mild, keeping the overall market tone 'neutral' rather than a full risk-off move.",
-      "summary_zh": "\u7f8e\u80a1\u56db\u6708\u4e8c\u5341\u516b\u65e5\u5c0f\u5e45\u6536\u8dcc\uff0c\u6a19\u666e\u4e94\u767e\u6307\u6578\u4e0b\u8dcc0.5%\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u90540.9%\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u8cbf\u6613\u653f\u7b56\u8d70\u5411\u53ca\u4f01\u696d\u8ca1\u5831\u7684\u89c0\u671b\u60c5\u7dd2\u6301\u7e8c\u5347\u6eab\u3002\u79d1\u6280\u985e\u80a1\u9818\u8dcc\uff0c\u6295\u8cc7\u8005\u5728\u91cd\u78c5\u696d\u7e3e\u516c\u5e03\u524d\u666e\u904d\u4fdd\u6301\u8b39\u614e\uff0c\u907f\u514d\u904e\u5ea6\u52a0\u5009\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u6b64\u6b21\u8abf\u6574\u5c6c\u65bc\u6eab\u548c\u7684\u6280\u8853\u6027\u56de\u843d\uff0c\u5c1a\u672a\u89f8\u767c\u5927\u898f\u6a21\u907f\u96aa\u60c5\u7dd2\u3002",
+      "summary_en": "U.S. equities softened modestly on April 29 as investors remained cautious ahead of key economic data and ongoing uncertainty around trade policy. The NASDAQ led declines at -0.9%, dragged by weakness in large-cap tech, while the broader S&P 500 fell -0.5% in lighter trading. With no clear catalyst to push markets higher, the session reflected a wait-and-see posture among institutional players.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc4\u670829\u65e5\u5c0f\u5e45\u56de\u843d\uff0c\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u95dc\u9375\u7d93\u6fdf\u6578\u64da\u516c\u4f48\u53ca\u8cbf\u6613\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u6301\u7e8c\u7684\u80cc\u666f\u4e0b\u4fdd\u6301\u5be9\u614e\u3002\u90a3\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u8f03\u5927\uff0c\u4e0b\u8dcc0.9%\uff0c\u4e3b\u8981\u53d7\u5927\u578b\u79d1\u6280\u80a1\u62d6\u7d2f\uff1b\u6a19\u666e500\u6307\u6578\u4ea6\u4e0b\u8dcc0.5%\uff0c\u6210\u4ea4\u91cf\u504f\u6de1\u3002\u6574\u9ad4\u5e02\u5834\u5448\u89c0\u671b\u614b\u52e2\uff0c\u7f3a\u4e4f\u660e\u78ba\u4e0a\u884c\u50ac\u5316\u5291\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving on a scale of 0\u2013100. A reading between 55\u201370 is the 'bullish momentum zone' \u2014 the stock has strong buying pressure without being dangerously overbought. Today's best picks (MTN, CVLT, NOK) all sit in this zone, while many other screener candidates with RSI above 70 were passed over because overbought stocks often pull back sharply.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u6f32\u8dcc\u7684\u901f\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002\u7576RSI\u843d\u572855\u81f370\u7684\u5340\u9593\uff0c\u4ee3\u8868\u80a1\u7968\u8655\u65bc\u300c\u770b\u6f32\u52d5\u80fd\u5340\u300d\u2014\u2014\u8cb7\u76e4\u529b\u9053\u5f37\u52c1\uff0c\u4f46\u5c1a\u672a\u904e\u71b1\uff0c\u8ffd\u9ad8\u98a8\u96aa\u76f8\u5c0d\u4f4e\u3002\u4eca\u65e5\u7cbe\u9078\u7684MTN\u3001CVLT\u53caNOK\u5747\u843d\u5728\u6b64\u5340\u9593\uff1b\u800cRSI\u8d85\u904e70\u7684\u80a1\u7968\u96d6\u7136\u770b\u4f3c\u5f37\u52e2\uff0c\u537b\u5bb9\u6613\u5728\u77ed\u671f\u51fa\u73fe\u7372\u5229\u4e86\u7d50\u5f0f\u56de\u8abf\uff0c\u56e0\u6b64\u4e88\u4ee5\u8ff4\u907f\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward \u2014 using signals like RSI, MACD crossovers, and rising volume to confirm that buyers are in control. The idea is that a stock in motion tends to stay in motion, so you ride the trend rather than trying to predict a bottom. Today we used momentum scoring to find MTN and CVLT even in a mildly down market.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u900f\u904eRSI\u3001MACD\u4ea4\u53c9\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u7b49\u6280\u8853\u6307\u6a19\u78ba\u8a8d\u8cb7\u65b9\u529b\u91cf\u4e3b\u5c0e\u5e02\u5834\u3002\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u8da8\u52e2\u4e00\u65e6\u5f62\u6210\uff0c\u5f80\u5f80\u6703\u6301\u7e8c\u4e00\u6bb5\u6642\u9593\uff0c\u6295\u8cc7\u8005\u9806\u52e2\u800c\u70ba\u800c\u975e\u731c\u6e2c\u5e95\u90e8\u3002\u4eca\u65e5\u6211\u5011\u5373\u4f7f\u5728\u5e02\u5834\u5c0f\u5e45\u4e0b\u8dcc\u7684\u74b0\u5883\u4e0b\uff0c\u4f9d\u7136\u900f\u904e\u52d5\u80fd\u8a55\u5206\u7be9\u9078\u51faMTN\u8207CVLT\u4f5c\u70ba\u9032\u5834\u6a19\u7684\u3002"
     }
   }
 }
