@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-04-29T19:01:16.257823+00:00",
+  "saved_at": "2026-04-29T20:01:51.053266+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "SELL",
-        "ticker": "MSTR",
-        "shares": 7,
-        "reasoning": "MSTR is a crypto-adjacent proxy not appearing in today's momentum screener \u2014 exiting to rotate into higher-conviction names with cleaner technical setups."
+        "ticker": "LITE",
+        "shares": 1,
+        "reasoning": "LITE has dropped off the momentum screener entirely, signaling a loss of bullish momentum \u2014 selling the full position to free capital for higher-conviction setups."
       },
       {
         "action": "BUY",
         "ticker": "AAOI",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 59.3 (healthy bullish zone, not overbought), MACD crossover, and price well above SMA-20 \u2014 ideal momentum setup with room to run."
+        "reasoning": "Score 95 with RSI in the optimal 55\u201370 momentum zone, rising MACD histogram signaling accelerating momentum, and price comfortably above SMA-20 \u2014 textbook momentum entry."
       },
       {
         "action": "BUY",
-        "ticker": "ETSY",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 69.0 (top of bullish zone), full green signals across MACD and price vs SMA-20 \u2014 strong momentum but RSI near threshold warrants medium sizing."
+        "ticker": "ESI",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 68.5 at the top of the bullish zone, confirmed volume surge above 1.5x average, and price above SMA-20 \u2014 strong trend with participation from volume."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Market was essentially flat today with both NASDAQ and S&P 500 near unchanged \u2014 a consolidation session after recent recovery. With only $164 cash and 4 open slots, I sold MSTR to free up capital, as it has no current screener signal and carries crypto volatility risk. Rotating that into AAOI (clean RSI 59, plenty of runway) and ETSY (RSI 69, near top of zone but all signals green) fills two more slots with high-momentum names.",
+    "briefing": "Markets were essentially flat today with both the S&P 500 and NASDAQ printing near-zero moves \u2014 a consolidation session. LITE has vanished from the momentum screener entirely, which is a warning sign of deteriorating trend strength, so selling it frees roughly $870 to rotate into AAOI and ESI, both scoring 95 with clean momentum reads. The rest of the portfolio \u2014 EAT, ETSY, AMZN, GOOGL, QQQ \u2014 remains intact as all are holding above stop-loss levels.",
     "market_education": {
-      "summary_en": "U.S. equities drifted sideways on April 29, with the S&P 500 and NASDAQ both finishing essentially flat as investors paused to digest recent tariff developments and awaited upcoming earnings from major tech names. Ongoing uncertainty around U.S.\u2013China trade negotiations continued to cap upside, while resilient consumer spending data offered some support. The result was a neutral, low-conviction session where neither bulls nor bears pressed their case.",
-      "summary_zh": "\u7f8e\u80a1\u65bc4\u670829\u65e5\u6a6b\u76e4\u6574\u7406\uff0c\u6a19\u666e500\u6307\u6578\u8207\u7d0d\u65af\u9054\u514b\u6307\u6578\u6536\u76e4\u5e7e\u4e4e\u6301\u5e73\uff0c\u5e02\u5834\u6d88\u5316\u8fd1\u671f\u95dc\u7a05\u52d5\u614b\u4e4b\u9918\uff0c\u4ea6\u975c\u5f85\u5927\u578b\u79d1\u6280\u4f01\u696d\u8ca1\u5831\u51fa\u7210\u3002\u4e2d\u7f8e\u8cbf\u6613\u8ac7\u5224\u6301\u7e8c\u5b58\u5728\u4e0d\u78ba\u5b9a\u6027\uff0c\u9650\u5236\u4e86\u4e0a\u884c\u7a7a\u9593\uff0c\u4f46\u7a69\u5065\u7684\u6d88\u8cbb\u652f\u51fa\u6578\u64da\u63d0\u4f9b\u4e86\u4e00\u5b9a\u652f\u6490\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u7576\u65e5\u5e02\u5834\u65b9\u5411\u611f\u4e0d\u8db3\uff0c\u591a\u7a7a\u96d9\u65b9\u5747\u672a\u898b\u7a4d\u6975\u9032\u653b\u3002",
+      "summary_en": "U.S. equities drifted in an extremely tight range on April 29, with the S&P 500 and NASDAQ closing virtually unchanged as investors paused ahead of key upcoming economic data and continued digesting a busy earnings calendar. This kind of low-volatility, directionless tape is typical mid-earnings season when market participants are reluctant to make large bets before high-impact reports land. Beneath the flat surface, individual momentum names continued to show relative strength, reflecting quiet sector rotation rather than a broad index move.",
+      "summary_zh": "\u7f8e\u80a1\u65bc4\u670829\u65e5\u5e7e\u4e4e\u539f\u5730\u8e0f\u6b65\uff0c\u6a19\u666e500\u8207\u7d0d\u65af\u9054\u514b\u96d9\u96d9\u6536\u5e73\uff0c\u5e02\u5834\u5728\u7b49\u5f85\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u8207\u6d88\u5316\u5bc6\u96c6\u8ca1\u5831\u5b63\u7684\u540c\u6642\u9677\u5165\u89c0\u671b\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u3001\u7f3a\u4e4f\u65b9\u5411\u7684\u76e4\u9762\u5728\u8ca1\u5831\u5b63\u4e2d\u6bb5\u5341\u5206\u5e38\u898b\uff0c\u6295\u8cc7\u8005\u4e0d\u9858\u5728\u95dc\u9375\u5831\u544a\u516c\u4f48\u524d\u8f15\u6613\u5efa\u7acb\u5927\u5009\u4f4d\u3002\u7136\u800c\u6307\u6578\u8868\u9762\u5e73\u975c\u4e4b\u4e0b\uff0c\u500b\u80a1\u52d5\u80fd\u80a1\u6301\u7e8c\u5c55\u73fe\u76f8\u5c0d\u5f37\u52e2\uff0c\u986f\u793a\u672c\u9031\u5e02\u5834\u52d5\u529b\u4f86\u81ea\u677f\u584a\u8f2a\u52d5\uff0c\u800c\u975e\u6307\u6578\u7684\u6574\u9ad4\u4e0a\u6f32\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Portfolio Rotation",
-      "explanation_en": "Portfolio rotation means selling a position that has lost momentum or carries elevated risk, and redeploying that capital into assets showing stronger signals. Rather than holding idle cash or a weakening stock, you actively redirect funds toward where the evidence is better. Today's exit from MSTR (no screener signal, crypto volatility) into AAOI and ETSY (both score 95 with clean technicals) is a textbook example.",
-      "explanation_zh": "\u6295\u8cc7\u7d44\u5408\u8f2a\u52d5\uff08Portfolio Rotation\uff09\u662f\u6307\u8ce3\u51fa\u52d5\u80fd\u6e1b\u5f31\u6216\u98a8\u96aa\u504f\u9ad8\u7684\u6301\u5009\uff0c\u4e26\u5c07\u8cc7\u91d1\u91cd\u65b0\u914d\u7f6e\u5230\u8a0a\u865f\u66f4\u5f37\u7684\u8cc7\u7522\u3002\u5176\u6838\u5fc3\u908f\u8f2f\u662f\uff1a\u4e0d\u8b93\u8cc7\u91d1\u9592\u7f6e\uff0c\u4e5f\u4e0d\u6200\u68e7\u75b2\u5f31\u90e8\u4f4d\uff0c\u800c\u662f\u4e3b\u52d5\u8ffd\u8e64\u5f37\u52e2\u6a5f\u6703\u3002\u4eca\u65e5\u5c07MSTR\uff08\u7121\u6280\u8853\u8a0a\u865f\u3001\u5177\u52a0\u5bc6\u8ca8\u5e63\u6ce2\u52d5\u98a8\u96aa\uff09\u8f49\u5009\u81f3\u52d5\u80fd\u8a55\u520695\u5206\u7684AAOI\u8207ETSY\uff0c\u6b63\u662f\u8f2a\u52d5\u7b56\u7565\u7684\u5178\u578b\u61c9\u7528\u3002"
+      "term": "Capital Rotation",
+      "explanation_en": "Capital rotation means selling positions that are losing momentum and redeploying that cash into stocks with stronger signals. When a stock falls off the momentum screener \u2014 like LITE did today \u2014 it is often an early sign that institutional buying has dried up. By rotating out of LITE and into AAOI and ESI, the portfolio stays aligned with where market energy is actually flowing rather than sitting in a weakening position.",
+      "explanation_zh": "\u8cc7\u672c\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u8ce3\u51fa\u52d5\u80fd\u8870\u9000\u7684\u6301\u5009\uff0c\u5c07\u8cc7\u91d1\u91cd\u65b0\u914d\u7f6e\u5230\u6280\u8853\u9762\u66f4\u5f37\u7684\u6a19\u7684\u3002\u7576\u4e00\u96bb\u80a1\u7968\u5982LITE\u822c\u5f9e\u52d5\u80fd\u7be9\u9078\u540d\u55ae\u6d88\u5931\uff0c\u5f80\u5f80\u662f\u6a5f\u69cb\u8cc7\u91d1\u9000\u5834\u7684\u65e9\u671f\u8a0a\u865f\u3002\u4eca\u65e5\u5c07LITE\u63db\u5165AAOI\u8207ESI\uff0c\u6b63\u662f\u8b93\u6295\u8cc7\u7d44\u5408\u6301\u7e8c\u8ddf\u96a8\u5e02\u5834\u8cc7\u91d1\u6d41\u5411\uff0c\u907f\u514d\u88ab\u52d5\u80fd\u5f31\u5316\u7684\u80a1\u7968\u62d6\u7d2f\u6574\u9ad4\u8868\u73fe\u3002"
     }
   }
 }
