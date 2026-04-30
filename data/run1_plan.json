@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-04-30T13:01:44.333075+00:00",
+  "saved_at": "2026-04-30T14:01:50.247900+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "SELL",
-        "ticker": "LITE",
-        "shares": 1,
-        "reasoning": "LITE is entirely absent from the screener, signaling no momentum; selling to redeploy its capital into a top-ranked candidate and free up a meaningful cash position."
+        "ticker": "AMZN",
+        "shares": 8,
+        "reasoning": "Score dropped to 35 with MACD below signal line and price below SMA-20 \u2014 momentum has reversed; rotating the capital into a stronger setup while still up slightly from cost"
       },
       {
         "action": "BUY",
-        "ticker": "AAOI",
+        "ticker": "AMD",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI in the bullish momentum zone, MACD crossover, histogram rising, and price above SMA-20 \u2014 all four signals firing, strongest outside current holdings."
+        "reasoning": "Score 100 with all five bullish signals firing simultaneously: RSI 66.5 in optimal bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and confirmed volume surge \u2014 best risk/reward in today's screener"
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were dead flat today (NASDAQ and S&P 500 both at 0.0%), giving a calm window to clean up the portfolio. LITE has no screener presence at all, so I'm rotating that single share into AAOI which carries a perfect 95 score with every momentum signal confirmed. EAT and ETSY remain top-ranked at 95 and are holding near cost, so no action needed there.",
+    "briefing": "Markets were essentially flat today \u2014 S&P500 unchanged, NASDAQ down a modest 0.4% \u2014 giving us a neutral backdrop with no panic or euphoria to navigate. AMZN has drifted into bearish territory with weak technicals and only a 1.5% unrealized gain, making it an opportunity cost drag with 4 slots open. Selling all 8 shares frees up roughly $2,070 to buy AMD, which is showing the strongest technical setup in the screener with every momentum indicator aligned bullishly.",
     "market_education": {
-      "summary_en": "U.S. equities closed essentially unchanged on April 30, with neither the NASDAQ nor the S&P 500 recording a meaningful move. The flat session reflects end-of-month positioning caution as institutional investors rebalance portfolios ahead of May, a month historically associated with the 'Sell in May' seasonal pattern. Without a fresh macro catalyst \u2014 no Fed speakers or major earnings surprises \u2014 traders largely stood pat.",
-      "summary_zh": "\u7f8e\u80a1\u65bc4\u670830\u65e5\u5e7e\u4e4e\u5e73\u76e4\u6536\u5e02\uff0c\u90a3\u65af\u9054\u514b\u8207\u6a19\u666e500\u6307\u6578\u5747\u672a\u51fa\u73fe\u660e\u986f\u6ce2\u52d5\u3002\u6b64\u7a2e\u6a6b\u76e4\u8d70\u52e2\u53cd\u6620\u51fa\u6a5f\u69cb\u6295\u8cc7\u8005\u5728\u6708\u672b\u9032\u884c\u6295\u8cc7\u7d44\u5408\u518d\u5e73\u8861\u6642\u7684\u5be9\u614e\u614b\u5ea6\uff0c\u52a0\u4e0a5\u6708\u4efd\u6b77\u4f86\u8207\u300c\u4e94\u6708\u8ce3\u80a1\u96e2\u5834\u300d\u7684\u5b63\u7bc0\u6027\u898f\u5f8b\u76f8\u95dc\uff0c\u5e02\u5834\u89c0\u671b\u60c5\u7dd2\u5347\u6eab\u3002\u5728\u7f3a\u4e4f\u806f\u6e96\u6703\u5b98\u54e1\u767c\u8a00\u6216\u91cd\u5927\u8ca1\u5831\u610f\u5916\u7b49\u65b0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6295\u8cc7\u8005\u5927\u591a\u6309\u5175\u4e0d\u52d5\u3002",
+      "summary_en": "U.S. equities finished the final session of April near flat as investors digested month-end positioning and awaited upcoming economic data. The S&P 500 ended unchanged while the NASDAQ slipped 0.4%, with semiconductor and large-cap tech seeing mild profit-taking after a strong April recovery. Market breadth remained mixed, reflecting a tug-of-war between improving corporate earnings and lingering macro uncertainty around trade policy and Fed rate-cut timing.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u5728\u56db\u6708\u6700\u5f8c\u4e00\u500b\u4ea4\u6613\u65e5\u6536\u76e4\u8fd1\u4e4e\u6301\u5e73\uff0c\u6295\u8cc7\u8005\u9032\u884c\u6708\u672b\u5009\u4f4d\u8abf\u6574\uff0c\u4e26\u7b49\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u3002\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u96f6\u6f32\u8dcc\uff0c\u7d0d\u6307\u5c0f\u5e45\u4e0b\u6ed10.4%\uff0c\u534a\u5c0e\u9ad4\u53ca\u5927\u578b\u79d1\u6280\u80a1\u5728\u56db\u6708\u5f37\u52c1\u53cd\u5f48\u5f8c\u51fa\u73fe\u8f15\u5fae\u7372\u5229\u56de\u5410\u3002\u5e02\u5834\u5ee3\u5ea6\u4f9d\u7136\u53c3\u5dee\u4e0d\u9f4a\uff0c\u53cd\u6620\u51fa\u4f01\u696d\u76c8\u5229\u6539\u5584\u8207\u8cbf\u6613\u653f\u7b56\u53ca\u806f\u5132\u5c40\u964d\u606f\u6642\u6a5f\u4e0d\u78ba\u5b9a\u6027\u4e4b\u9593\u7684\u89d2\u529b\u62c9\u92f8\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Portfolio Rotation",
-      "explanation_en": "Portfolio rotation means deliberately selling positions that have lost momentum or never had it, and redeploying that capital into stocks where momentum is strongest right now. It prevents your portfolio from getting 'stuck' holding yesterday's trades while better opportunities sit on the sideline. Today's move \u2014 out of LITE (zero screener signals) and into AAOI (score 95, all signals confirmed) \u2014 is a textbook example.",
-      "explanation_zh": "\u300c\u6295\u8cc7\u7d44\u5408\u8f2a\u52d5\u300d\u662f\u6307\u4e3b\u52d5\u8ce3\u51fa\u52d5\u80fd\u6e1b\u5f31\u6216\u672c\u8eab\u5c31\u7f3a\u4e4f\u52d5\u80fd\u7684\u6301\u5009\uff0c\u5c07\u8cc7\u91d1\u91cd\u65b0\u914d\u7f6e\u5230\u7576\u524d\u52d5\u80fd\u6700\u5f37\u7684\u80a1\u7968\u4e0a\u3002\u9019\u7a2e\u7b56\u7565\u80fd\u9632\u6b62\u6295\u8cc7\u7d44\u5408\u300c\u5361\u4f4f\u300d\uff0c\u907f\u514d\u7e7c\u7e8c\u62b1\u8457\u904e\u6642\u7684\u90e8\u4f4d\uff0c\u800c\u8b93\u66f4\u597d\u7684\u6a5f\u6703\u7a7a\u624b\u800c\u904e\u3002\u4eca\u65e5\u64cd\u4f5c\u2014\u2014\u8ce3\u51faLITE\uff08\u9078\u80a1\u7cfb\u7d71\u96f6\u8a0a\u865f\uff09\u3001\u8cb7\u5165AAOI\uff08\u8a55\u520695\u5206\u3001\u6240\u6709\u6280\u8853\u8a0a\u865f\u78ba\u8a8d\uff09\u2014\u2014\u6b63\u662f\u8f2a\u52d5\u7b56\u7565\u7684\u5178\u578b\u793a\u7bc4\u3002"
+      "term": "Momentum Rotation",
+      "explanation_en": "Momentum rotation means selling a position that has lost its upward momentum and redeploying that capital into a stock with stronger technical signals. Today, AMZN's MACD crossed below its signal line and price fell under the SMA-20 \u2014 classic signs momentum has faded \u2014 while AMD showed the opposite: every indicator aligned bullishly. Rotating between them is a disciplined way to keep your portfolio in the strongest setups rather than holding dead weight.",
+      "explanation_zh": "\u52d5\u80fd\u8f2a\u52d5\u662f\u6307\u8ce3\u51fa\u5df2\u5931\u53bb\u4e0a\u5347\u52d5\u529b\u7684\u6301\u5009\uff0c\u4e26\u5c07\u8cc7\u91d1\u91cd\u65b0\u914d\u7f6e\u5230\u6280\u8853\u9762\u66f4\u5f37\u52c1\u7684\u80a1\u7968\u3002\u4eca\u65e5\uff0c\u4e9e\u99ac\u905c\u7684MACD\u8dcc\u7834\u4fe1\u865f\u7dda\uff0c\u80a1\u50f9\u4e5f\u8dcc\u7a7f20\u65e5\u5747\u7dda\uff0c\u662f\u52d5\u80fd\u8870\u9000\u7684\u7d93\u5178\u4fe1\u865f\uff1b\u800c\u8d85\u5fae\u534a\u5c0e\u9ad4\u5247\u6070\u6070\u76f8\u53cd\uff0c\u6240\u6709\u6280\u8853\u6307\u6a19\u4e00\u81f4\u770b\u591a\u3002\u9032\u884c\u8f2a\u52d5\u64cd\u4f5c\uff0c\u662f\u8b93\u6295\u8cc7\u7d44\u5408\u6301\u7e8c\u805a\u7126\u65bc\u6700\u5f37\u52e2\u6a19\u7684\u3001\u907f\u514d\u6301\u6709\u52d5\u80fd\u6eef\u5f8c\u80a1\u7968\u7684\u7d00\u5f8b\u6027\u7b56\u7565\u3002"
     }
   }
 }
