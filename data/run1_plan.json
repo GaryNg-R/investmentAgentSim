@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-04-30T20:01:28.134269+00:00",
+  "saved_at": "2026-04-30T21:01:41.301903+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "AMZN",
+        "ticker": "AUR",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI in bullish momentum zone (60.1), rising MACD histogram, and price above SMA-20 \u2014 strongest large-cap candidate and ideal for risk-on day."
+        "reasoning": "Score 95 with all four bullish signals firing: RSI in momentum zone, MACD crossover, price above SMA-20, and volume surge \u2014 strong setup with affordable per-share price that maximizes position size given limited cash."
       },
       {
         "action": "BUY",
         "ticker": "YSS",
         "conviction": "medium",
-        "reasoning": "Score 95 with all four bullish signals firing including a volume surge, RSI in sweet spot at 55.9 \u2014 early-stage momentum with room to run before overbought."
+        "reasoning": "Score 95 with volume surge and MACD crossover; RSI at 55.8 leaves meaningful upside before overbought territory, making it a cleaner entry than the many overbought score-70 names on the list."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are broadly risk-on today with S&P 500 up 1.0% and NASDAQ up 0.9%, giving us a favorable backdrop for adding exposure. XMTR continues to perform strongly and remains a core hold. With $670 in cash and 4 open slots, I'm deploying into the two score-95 candidates \u2014 AMZN for large-cap stability with rising momentum, and YSS for a high-momentum small-cap with volume confirmation. Keeping 2 slots in reserve given limited remaining cash.",
+    "briefing": "Both major indices finished solidly green in a clear risk-on session, with the S&P up 1.0% and NASDAQ up 0.9%. XMTR continues to perform with a score-95 rating and price above our average cost, so we hold. With 4 open slots and $670 cash above the $500 threshold, we add AUR and YSS \u2014 both score-95 names with volume confirmation and RSI room to run \u2014 to put idle cash to work in favorable conditions.",
     "market_education": {
-      "summary_en": "U.S. equity markets posted broad gains on April 30, with the S&P 500 rising 1.0% and the NASDAQ adding 0.9% as investor sentiment shifted decisively risk-on. Technology and growth names led the advance, with megacap names like Amazon benefiting from renewed confidence in AI-driven revenue growth. The rally reflected easing macro concerns and continued momentum from strong Q1 earnings beats across multiple sectors.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc4\u670830\u65e5\u5168\u9762\u4e0a\u6f32\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53471.0%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.9%\uff0c\u6295\u8cc7\u8005\u60c5\u7dd2\u660e\u986f\u8f49\u5411\u98a8\u96aa\u504f\u597d\u3002\u79d1\u6280\u53ca\u6210\u9577\u80a1\u9818\u6f32\uff0c\u4e9e\u99ac\u905c\u7b49\u5927\u5e02\u503c\u80a1\u7968\u53d7\u60e0\u65bc\u5e02\u5834\u5c0d\u4eba\u5de5\u667a\u80fd\u9a45\u52d5\u6536\u5165\u589e\u9577\u7684\u4fe1\u5fc3\u56de\u5347\u3002\u6b64\u6b21\u53cd\u5f48\u53cd\u6620\u51fa\u5b8f\u89c0\u74b0\u5883\u7684\u6182\u616e\u6709\u6240\u7de9\u89e3\uff0c\u52a0\u4e0a\u591a\u500b\u677f\u584a\u7b2c\u4e00\u5b63\u8ca1\u5831\u696d\u7e3e\u512a\u65bc\u9810\u671f\uff0c\u9032\u4e00\u6b65\u63a8\u52d5\u5e02\u5834\u6301\u7e8c\u5411\u597d\u3002",
+      "summary_en": "Equities rallied broadly on April 30 as investors positioned ahead of key macro catalysts, with risk appetite returning across technology and growth names. The S&P 500 gained 1.0% and NASDAQ added 0.9%, driven by momentum in sectors that had lagged in prior sessions. Month-end rebalancing flows and fading recession fears appear to have contributed to the broad-based advance, though no single headline dominated the session.",
+      "summary_zh": "4\u670830\u65e5\u7f8e\u80a1\u5168\u7dda\u4e0a\u63da\uff0c\u6295\u8cc7\u8005\u8d81\u6708\u672b\u91cd\u65b0\u5e03\u5c40\uff0c\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\u3002\u6a19\u666e500\u6307\u6578\u4e0a\u6f321.0%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.9%\uff0c\u79d1\u6280\u53ca\u6210\u9577\u985e\u80a1\u8868\u73fe\u7a81\u51fa\u3002\u5e02\u5834\u666e\u904d\u8a8d\u70ba\u8870\u9000\u9810\u671f\u5df2\u6709\u6240\u964d\u6eab\uff0c\u6708\u672b\u518d\u5e73\u8861\u8cc7\u91d1\u6d41\u5165\u4ea6\u5e36\u52d5\u5927\u76e4\u6574\u9ad4\u8d70\u9ad8\uff0c\u60df\u500b\u5225\u4e3b\u5c0e\u6d88\u606f\u9762\u4e26\u4e0d\u660e\u986f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that have been rising in price, based on the idea that strong recent performance tends to continue in the near term. Traders use indicators like RSI (Relative Strength Index) and MACD to confirm when a stock has genuine upward momentum versus just a random spike. Today's decisions relied entirely on momentum scores \u2014 buying AMZN and YSS because their technical signals all point to sustained upward pressure.",
-      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u5f37\u52c1\u7684\u8fd1\u671f\u8868\u73fe\u5f80\u5f80\u6703\u5728\u77ed\u671f\u5167\u5ef6\u7e8c\u3002\u4ea4\u6613\u8005\u6703\u4f7f\u7528RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u548cMACD\u7b49\u6280\u8853\u6307\u6a19\uff0c\u4f86\u5224\u65b7\u80a1\u7968\u662f\u771f\u6b63\u5177\u5099\u5411\u4e0a\u52d5\u80fd\uff0c\u9084\u662f\u53ea\u662f\u77ed\u66ab\u7684\u7570\u5e38\u6ce2\u52d5\u3002\u4eca\u65e5\u7684\u4ea4\u6613\u6c7a\u7b56\u5b8c\u5168\u4f9d\u8cf4\u52d5\u91cf\u8a55\u5206\u2014\u2014\u8cb7\u5165\u4e9e\u99ac\u905c\u548cYSS\uff0c\u6b63\u662f\u56e0\u70ba\u9019\u5169\u96bb\u80a1\u7968\u7684\u6280\u8853\u4fe1\u865f\u5747\u6307\u5411\u6301\u7e8c\u7684\u4e0a\u884c\u58d3\u529b\u3002"
+      "term": "Risk-On Sentiment",
+      "explanation_en": "Risk-on is when investors feel confident enough to move money into higher-risk assets like growth stocks, small caps, and momentum plays rather than safer options like bonds or cash. Today's 1%+ gains across both major indices, combined with volume surges in high-momentum names, is a classic risk-on signal \u2014 it's when the portfolio's aggressive holdings tend to outperform.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u63d0\u5347\uff0c\u50be\u5411\u5c07\u8cc7\u91d1\u5f9e\u50b5\u5238\u3001\u73fe\u91d1\u7b49\u4fdd\u5b88\u8cc7\u7522\u8f49\u79fb\u81f3\u6210\u9577\u80a1\u3001\u5c0f\u578b\u80a1\u6216\u52d5\u80fd\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\u3002\u4eca\u65e5\u5169\u5927\u6307\u6578\u5747\u4e0a\u6f32\u903e1%\uff0c\u4e14\u591a\u6a94\u5f37\u52e2\u80a1\u51fa\u73fe\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u5347\u6eab\u4fe1\u865f\u2014\u2014\u9019\u7a2e\u5e02\u6cc1\u4e0b\uff0c\u7a4d\u6975\u578b\u6301\u5009\u5f80\u5f80\u80fd\u8dd1\u8d0f\u5927\u5e02\u3002"
     }
   }
 }
