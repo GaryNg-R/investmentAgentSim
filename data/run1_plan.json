@@ -1,26 +1,44 @@
 {
-  "saved_at": "2026-04-30T16:01:56.888082+00:00",
+  "saved_at": "2026-04-30T17:02:03.292958+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
+        "action": "SELL",
+        "ticker": "GOOGL",
+        "shares": 6,
+        "reasoning": "RSI overbought at 84.1 with gain at ~11% approaching the +12% auto-sell target \u2014 rotating proceeds into fresher score-95 momentum setups before a potential reversal"
+      },
+      {
         "action": "BUY",
-        "ticker": "OWL",
-        "conviction": "low",
-        "reasoning": "Score 95 with RSI 67.3 in the bullish momentum zone and MACD confirmation; deploys near-idle cash into Blue Owl Capital (diversified asset manager) with a clean technical setup before end-of-month window dressing fades"
+        "ticker": "XMTR",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 69 in the ideal bullish zone (not overbought), MACD histogram rising, and price 7.7% above SMA-20 \u2014 strongest risk/reward on the board"
+      },
+      {
+        "action": "BUY",
+        "ticker": "TTMI",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 69.6, MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 solid electronics manufacturing play with clean technicals"
+      },
+      {
+        "action": "BUY",
+        "ticker": "WULF",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 64.1 in the mid-bullish zone and rising MACD histogram \u2014 adds digital infrastructure exposure and diversifies away from pure tech"
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets closed mildly positive on the last trading day of April (S&P +0.4%, NASDAQ +0.1%), consistent with end-of-month institutional window dressing in momentum names. GOOGL is approaching its automatic +12% profit target at nearly +10% gain \u2014 auto-sell should trigger within a day or two. Cash was just below the $500 deployment threshold so a small, low-conviction position in OWL was initiated to reduce idle cash drag with a top-scoring momentum candidate.",
+    "briefing": "Market is neutral today with the S&P 500 up a modest 0.4% and NASDAQ essentially flat \u2014 not a risk-off environment but no strong tailwind either. GOOGL has climbed to nearly +11% gain with RSI at a very overbought 84.1, so we're selling all 6 shares to lock in profits and rotating into three score-95 names (XMTR, TTMI, WULF) whose RSI sits in the 64\u201370 sweet spot \u2014 bullish momentum without being stretched.",
     "market_education": {
-      "summary_en": "April 30 was the final session of the month, with U.S. equities posting modest gains as investors weighed a cautious macro backdrop against improved corporate earnings. The S&P 500 rose 0.4% while the NASDAQ gained just 0.1%, reflecting mixed sentiment between large-cap tech and the broader market. End-of-month 'window dressing' by institutional fund managers \u2014 buying outperforming stocks to improve portfolio optics ahead of monthly reports \u2014 likely supported momentum names like GOOGL and AMD that are already well extended on their RSI readings.",
-      "summary_zh": "4\u670830\u65e5\u70ba\u672c\u6708\u6700\u5f8c\u4ea4\u6613\u65e5\uff0c\u7f8e\u80a1\u5c0f\u5e45\u6536\u6f32\uff0c\u6295\u8cc7\u8005\u5728\u8b39\u614e\u5b8f\u89c0\u74b0\u5883\u8207\u4f01\u696d\u76c8\u5229\u6539\u5584\u4e4b\u9593\u5c0b\u6c42\u5e73\u8861\u3002\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.4%\uff0c\u7d0d\u6307\u50c5\u5fae\u53470.1%\uff0c\u53cd\u6620\u5927\u578b\u79d1\u6280\u80a1\u8207\u5927\u5e02\u4e4b\u9593\u7684\u60c5\u7dd2\u5206\u6b67\u3002\u6708\u5e95\u6a5f\u69cb\u57fa\u91d1\u7684\u300c\u7a97\u98fe\u6548\u61c9\u300d\u2014\u2014\u8cb7\u5165\u8fd1\u671f\u5f37\u52e2\u80a1\u4ee5\u7f8e\u5316\u6708\u5831\u6301\u5009\u2014\u2014\u53ef\u80fd\u70baGOOGL\u53caAMD\u7b49\u5df2\u8d85\u8cb7\u7684\u5f37\u52e2\u80a1\u5e36\u4f86\u984d\u5916\u652f\u6490\u3002",
+      "summary_en": "U.S. equities closed mixed on April 30 with the S&P 500 up 0.4% and NASDAQ barely positive at +0.1%, as investors weighed solid Q1 earnings season results against lingering uncertainty around Federal Reserve rate guidance and trade policy headwinds. Mega-cap tech names including Meta (RSI 19) and Microsoft (RSI 23) showed unusually weak momentum, suggesting institutional money is rotating out of the largest growth names and into mid-cap industrials, specialty tech, and infrastructure plays. This divergence \u2014 index flat but selective mid-caps surging \u2014 is a hallmark of a late-cycle consolidation where stock picking matters more than broad index exposure.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e024\u670830\u65e5\u6536\u76e4\u8868\u73fe\u5206\u6b67\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u6f320.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u50c5\u52c9\u5f37\u6536\u7d05\u53470.1%\u3002\u5728\u4f01\u696d\u7b2c\u4e00\u5b63\u8ca1\u5831\u5b63\u6574\u9ad4\u8868\u73fe\u7a69\u5065\u7684\u540c\u6642\uff0c\u5e02\u5834\u4ecd\u5c0d\u806f\u6e96\u6703\u5229\u7387\u8d70\u5411\u53ca\u8cbf\u6613\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u4fdd\u6301\u8b66\u60d5\u3002\u503c\u5f97\u6ce8\u610f\u7684\u662f\uff0cMeta\uff08RSI 19\uff09\u3001\u5fae\u8edf\uff08RSI 23\uff09\u7b49\u8d85\u5927\u578b\u79d1\u6280\u80a1\u6280\u8853\u9762\u986f\u8457\u8f49\u5f31\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u5f9e\u5927\u578b\u6210\u9577\u80a1\u64a4\u51fa\uff0c\u8f49\u5411\u4e2d\u578b\u5de5\u696d\u80a1\u3001\u7279\u6b8a\u79d1\u6280\u53ca\u57fa\u790e\u8a2d\u65bd\u985e\u80a1\u3002\u9019\u7a2e\u6307\u6578\u6a6b\u76e4\u3001\u4f46\u7cbe\u9078\u4e2d\u578b\u80a1\u5f37\u52e2\u7684\u5206\u5316\u683c\u5c40\uff0c\u662f\u666f\u6c23\u5faa\u74b0\u5f8c\u6bb5\u6574\u56fa\u671f\u7684\u5178\u578b\u7279\u5fb5\uff0c\u500b\u80a1\u9078\u80a1\u80fd\u529b\u7684\u91cd\u8981\u6027\u56e0\u6b64\u5927\u5e45\u63d0\u5347\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Window Dressing",
-      "explanation_en": "Window dressing occurs at the end of a month or quarter when fund managers buy stocks that have recently performed well, so their portfolio reports look impressive to clients and investors. This creates artificial short-term demand that can push already-strong momentum stocks even higher in the final sessions of the period. The effect is temporary \u2014 once the reporting period closes, the buying pressure fades and prices often give back some gains.",
-      "explanation_zh": "\u300c\u7a97\u98fe\u6548\u61c9\u300d\uff08Window Dressing\uff09\u662f\u6307\u6bcf\u9022\u6708\u672b\u6216\u5b63\u672b\uff0c\u57fa\u91d1\u7d93\u7406\u8cb7\u5165\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u4ee4\u6295\u8cc7\u7d44\u5408\u5831\u544a\u5c0d\u5ba2\u6236\u66f4\u5177\u5438\u5f15\u529b\u3002\u9019\u7a2e\u4eba\u70ba\u9700\u6c42\u5728\u7d50\u7b97\u671f\u6700\u5f8c\u5e7e\u500b\u4ea4\u6613\u65e5\u6703\u63a8\u9ad8\u5f37\u52e2\u80a1\u7684\u80a1\u50f9\u3002\u7136\u800c\u6b64\u6548\u61c9\u5c6c\u77ed\u7dda\u6027\u8cea\u2014\u2014\u7d50\u7b97\u671f\u4e00\u904e\uff0c\u8cb7\u76e4\u58d3\u529b\u6d88\u6563\uff0c\u80a1\u50f9\u5f80\u5f80\u56de\u5410\u90e8\u5206\u5347\u5e45\uff0c\u6295\u8cc7\u8005\u4e0d\u5b9c\u8ffd\u9ad8\u3002"
+      "term": "Profit Rotation",
+      "explanation_en": "Profit rotation is the practice of selling a position that has reached or is near its profit target \u2014 locking in gains \u2014 and immediately redeploying that capital into fresher opportunities earlier in their uptrend. Rather than riding a stock until it reverses, you capture the gain and put the money back to work where momentum is building, not fading. Today we applied this with GOOGL: nearly +11% gain, RSI overbought, so we sold and rotated into three score-95 stocks with RSI still in the healthy 64\u201370 range.",
+      "explanation_zh": "\u7372\u5229\u8f2a\u52d5\u662f\u6307\u5728\u6301\u5009\u63a5\u8fd1\u6216\u9054\u5230\u7372\u5229\u76ee\u6a19\u6642\u4e3b\u52d5\u8ce3\u51fa\u3001\u9396\u5b9a\u76c8\u5229\uff0c\u4e26\u7acb\u5373\u5c07\u8cc7\u91d1\u91cd\u65b0\u914d\u7f6e\u81f3\u8655\u65bc\u4e0a\u6f32\u9031\u671f\u8f03\u65e9\u968e\u6bb5\u3001\u52d5\u80fd\u66f4\u5f37\u7684\u65b0\u6a19\u7684\u3002\u9019\u7a2e\u7b56\u7565\u7684\u6838\u5fc3\u662f\u300c\u4e0d\u8caa\u5fc3\u3001\u8b93\u8cc7\u91d1\u6301\u7e8c\u505a\u5de5\u300d\u2014\u2014\u8207\u5176\u6b7b\u5b88\u4e00\u6a94\u5df2\u904e\u71b1\u7684\u80a1\u7968\u7b49\u5f85\u5b83\u53cd\u8f49\uff0c\u4e0d\u5982\u63d0\u524d\u514c\u73fe\uff0c\u628a\u9322\u6295\u5165\u6280\u8853\u9762\u5c1a\u672a\u900f\u652f\u7684\u6a5f\u6703\u3002\u4eca\u65e5\u6211\u5011\u5c0dGOOGL\u4fbf\u5be6\u8e10\u4e86\u9019\u4e00\u7b56\u7565\uff1a\u5e33\u9762\u7372\u5229\u8fd111%\u3001RSI\u9ad8\u905484.1\u986f\u793a\u8d85\u8cb7\uff0c\u56e0\u6b64\u8ce3\u51fa\u4e26\u8f2a\u52d5\u81f3\u4e09\u6a94RSI\u4ecd\u5728\u5065\u5eb7\u768464\u201370\u5340\u9593\u3001\u5f97\u520695\u7684\u5f37\u52d5\u80fd\u80a1\u3002"
     }
   }
 }
