@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-05-01T13:01:26.067510+00:00",
+  "saved_at": "2026-05-01T14:01:15.862075+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "AUR",
+        "ticker": "NBIS",
         "conviction": "high",
-        "reasoning": "Score 95 with all four bullish signals firing \u2014 RSI in momentum zone, MACD crossover, price above SMA-20, and a volume surge \u2014 making it the cleanest setup on the board at an accessible price point."
-      },
-      {
-        "action": "BUY",
-        "ticker": "MARA",
-        "conviction": "medium",
-        "reasoning": "Score 90 with RSI 65 and MACD bullish in a confirmed risk-on session; crypto-adjacent miners tend to outperform on broad market up days and cash is sufficient for a small entry."
+        "reasoning": "Perfect score with all 5 bullish signals including volume surge, RSI at 66.1 \u2014 healthy momentum zone without being overbought, price well above SMA-20 on strong volume in a risk-on session."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Both major indices closed solidly green in a clean risk-on session \u2014 momentum names are leading and technical signals are broadly constructive. XMTR (already held) is the top screener score today at 95, confirming that position; I'm deploying remaining cash into AUR and MARA, the next-best setups with accessible prices. Existing positions in LITE, EAT, ETSY, AMD, and QQQ show no sell signals so they ride.",
+    "briefing": "Markets are solidly risk-on today with NASDAQ up 1% and S&P 500 up 0.8%, a favorable backdrop for momentum names. With $670 in cash and 4 open slots, I'm deploying into NBIS \u2014 the top-scoring candidate with all five technical signals firing cleanly and RSI in the ideal 55\u201370 bullish zone. LITE continues its run toward the 12% auto-sell target at +10.9%, so I'm letting the system handle that exit rather than selling early.",
     "market_education": {
-      "summary_en": "U.S. equities posted a broad-based gain on May 1 with the S&P 500 up 1.0% and the NASDAQ up 0.9%, reflecting a risk-on posture across markets. Momentum and growth names led the advance, with high-RSI, high-volume stocks outperforming defensives. The move suggests institutional buyers were willing to chase strength rather than rotate to safety, a hallmark of genuine bull-market continuation days.",
-      "summary_zh": "\u7f8e\u80a15\u67081\u65e5\u5168\u9762\u4e0a\u6f32\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53471.0%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53470.9%\uff0c\u5e02\u5834\u6574\u9ad4\u5448\u73fe\u98a8\u96aa\u504f\u597d\uff08risk-on\uff09\u683c\u5c40\u3002\u52d5\u80fd\u80a1\u8207\u6210\u9577\u80a1\u9818\u6f32\uff0c\u9ad8RSI\u3001\u9ad8\u6210\u4ea4\u91cf\u500b\u80a1\u8868\u73fe\u5c24\u70ba\u7a81\u51fa\uff0c\u9632\u79a6\u6027\u677f\u584a\u76f8\u5c0d\u843d\u5f8c\u3002\u9019\u7a2e\u8d70\u52e2\u53cd\u6620\u51fa\u6a5f\u69cb\u6295\u8cc7\u8005\u8ffd\u6f32\u610f\u9858\u5f37\u70c8\uff0c\u662f\u5178\u578b\u725b\u5e02\u5ef6\u7e8c\u65e5\u7684\u5e02\u5834\u7279\u5fb5\u3002",
+      "summary_en": "U.S. equities rallied broadly on May 1st in a risk-on session, with the NASDAQ leading at +1.0% and the S&P 500 gaining +0.8%. Technology and growth stocks outperformed as investors rotated back into higher-beta names amid improving sentiment. Volume surges across multiple momentum stocks \u2014 NBIS, CRWV, RDDT, PLTR \u2014 confirmed institutional participation rather than retail-only moves.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc5\u67081\u65e5\u5168\u9762\u4e0a\u63da\uff0c\u5448\u73fe\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u6f321.0%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53470.8%\u3002\u79d1\u6280\u80a1\u8207\u6210\u9577\u80a1\u8868\u73fe\u7a81\u51fa\uff0c\u6295\u8cc7\u8005\u5728\u5e02\u5834\u60c5\u7dd2\u56de\u6696\u4e0b\u91cd\u65b0\u589e\u6301\u9ad8\u8c9d\u5854\u8cc7\u7522\u3002NBIS\u3001CRWV\u3001RDDT\u53caPLTR\u7b49\u591a\u96bb\u52d5\u80fd\u80a1\u51fa\u73fe\u6210\u4ea4\u91cf\u6fc0\u589e\uff0c\u78ba\u8a8d\u5e02\u5834\u6709\u6a5f\u69cb\u8cc7\u91d1\u53c3\u8207\uff0c\u800c\u975e\u7d14\u7cb9\u6563\u6236\u7092\u4f5c\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On",
-      "explanation_en": "Risk-on describes a market environment where investors are confident and willing to buy higher-risk assets like growth stocks, crypto-linked equities, and small caps rather than retreating to safe havens like bonds or gold. Today's broad rally with momentum leaders outperforming is a textbook risk-on session \u2014 it's the opposite of risk-off, where fear drives money into defensive assets.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\uff08risk-on\uff09\u300d\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\u3001\u9858\u610f\u8cb7\u5165\u6210\u9577\u80a1\u3001\u52a0\u5bc6\u76f8\u95dc\u80a1\u7968\u53ca\u5c0f\u578b\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u800c\u975e\u9000\u5b88\u50b5\u5238\u6216\u9ec3\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u4eca\u65e5\u5927\u76e4\u5168\u9762\u4e0a\u6f32\u3001\u52d5\u80fd\u80a1\u9818\u5148\uff0c\u6b63\u662f\u5178\u578b\u7684risk-on\u683c\u5c40\u3002\u8207\u4e4b\u76f8\u53cd\u7684\u300c\u98a8\u96aa\u898f\u907f\uff08risk-off\uff09\u300d\u5247\u662f\u5e02\u5834\u6050\u614c\u60c5\u7dd2\u5347\u6eab\u3001\u8cc7\u91d1\u6e67\u5411\u9632\u79a6\u6027\u8cc7\u7522\u7684\u72c0\u614b\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that assets showing strong recent performance tend to keep rising in the short term. Traders use signals like RSI (momentum strength), MACD (trend direction), and volume surges (institutional confirmation) to identify stocks with the best setup. The risk is that momentum can reverse sharply \u2014 which is why stop-losses are essential.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u6838\u5fc3\u908f\u8f2f\u662f\u8fd1\u671f\u5f37\u52e2\u7684\u8cc7\u7522\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u6f32\u52e2\u3002\u4ea4\u6613\u8005\u900f\u904eRSI\uff08\u52d5\u80fd\u5f37\u5f31\uff09\u3001MACD\uff08\u8da8\u52e2\u65b9\u5411\uff09\u53ca\u6210\u4ea4\u91cf\u6fc0\u589e\uff08\u6a5f\u69cb\u8cc7\u91d1\u78ba\u8a8d\uff09\u7b49\u6307\u6a19\u7be9\u9078\u6700\u4f73\u5e03\u5c40\u6a5f\u6703\u3002\u98a8\u96aa\u5728\u65bc\u52d5\u80fd\u53ef\u80fd\u6025\u901f\u9006\u8f49\uff0c\u56e0\u6b64\u8a2d\u7f6e\u6b62\u640d\u4f4d\u81f3\u95dc\u91cd\u8981\u3002"
     }
   }
 }
