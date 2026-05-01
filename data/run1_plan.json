@@ -1,38 +1,44 @@
 {
-  "saved_at": "2026-05-01T15:01:53.297517+00:00",
+  "saved_at": "2026-05-01T16:01:34.805807+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "SELL",
-        "ticker": "ETSY",
-        "shares": 17,
-        "reasoning": "ETSY has dropped off the screener entirely, signaling lost momentum; rotating proceeds into top-ranked names with confirmed technical strength"
+        "ticker": "LITE",
+        "shares": 1,
+        "reasoning": "LITE has hit the +12% profit target (bought at $871.16, now $977.48 = +12.2%) \u2014 locking in gains per the rules."
       },
       {
         "action": "BUY",
-        "ticker": "XNDU",
+        "ticker": "OLED",
         "conviction": "high",
-        "reasoning": "Top-ranked (score 100) with a volume surge on top of all bullish MACD/RSI/SMA signals \u2014 the strongest setup in today's screener in a risk-on market"
+        "reasoning": "Score 95 with RSI 58 (least overbought among top candidates), MACD bullish crossover, and Universal Display benefits from rising OLED demand in risk-on tech environment."
       },
       {
         "action": "BUY",
-        "ticker": "PLTR",
-        "conviction": "high",
-        "reasoning": "Score 95 with MACD crossover and price above SMA-20; Palantir's AI/data analytics platform attracts institutional flow in risk-on conditions"
+        "ticker": "MNDY",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 67.5 in the sweet momentum zone, strong SaaS trend aligned with today's NASDAQ outperformance."
+      },
+      {
+        "action": "BUY",
+        "ticker": "FSLY",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 66.8 and clear MACD bullish crossover \u2014 Fastly's edge infrastructure plays well in a broad tech risk-on day."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on today with NASDAQ +0.9% and S&P 500 +0.6%, ideal conditions for momentum names. ETSY has disappeared from the screener, so I'm rotating those proceeds into XNDU \u2014 today's highest-ranked name with a confirmed volume surge \u2014 and PLTR, a high-conviction AI data play with clean technicals. After these trades we'll hold 7 positions with 3 open slots ready for the next strong setup.",
+    "briefing": "Markets are firmly risk-on today with NASDAQ up 1.2%, giving a green light to deploy idle cash into top-scoring momentum names. LITE crossed the +12% profit target so we're locking in that gain and rotating the proceeds into three score-95 candidates \u2014 OLED, MNDY, and FSLY \u2014 all in the healthy RSI 55\u201370 zone rather than the overbought crowd. This brings us to 7 positions and meaningfully reduces our cash drag.",
     "market_education": {
-      "summary_en": "U.S. equities posted broad gains today as risk appetite returned on easing trade-war anxiety and better-than-feared corporate earnings from major tech companies. The NASDAQ led at +0.9% as AI-infrastructure and semiconductor names drew heavy buying interest. Defensive sectors lagged \u2014 a textbook risk-on rotation that typically follows a period of elevated macro uncertainty.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5168\u9762\u4e0a\u6f32\uff0c\u6295\u8cc7\u8005\u98a8\u96aa\u504f\u597d\u56de\u5347\uff0c\u4e3b\u56e0\u8cbf\u6613\u6230\u7dca\u5f35\u60c5\u7dd2\u7de9\u548c\uff0c\u52a0\u4e0a\u5927\u578b\u79d1\u6280\u4f01\u696d\u696d\u7e3e\u512a\u65bc\u5e02\u5834\u9810\u671f\u3002NASDAQ\u4ee5+0.9%\u9818\u6f32\uff0c\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u53ca\u534a\u5c0e\u9ad4\u985e\u80a1\u7372\u8cc7\u91d1\u5927\u8209\u6d41\u5165\u3002\u9632\u79a6\u6027\u677f\u584a\u8868\u73fe\u843d\u5f8c\uff0c\u5448\u73fe\u5178\u578b\u98a8\u96aa\u504f\u597d\u8f2a\u52d5\u683c\u5c40\uff0c\u6b64\u73fe\u8c61\u901a\u5e38\u51fa\u73fe\u65bc\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u9ad8\u5cf0\u904e\u5f8c\u7684\u4fee\u5fa9\u671f\u3002",
+      "summary_en": "U.S. equities rallied broadly on May 1, with the NASDAQ leading at +1.2% as investors rotated back into growth and technology names following a period of tariff-driven volatility. Risk appetite improved as markets digested signs of easing trade tensions and resilient corporate earnings, with mega-cap tech and semiconductor names among the session's biggest contributors. The S&P 500 gained +0.7%, reflecting broad participation beyond just the tech sector.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc5\u67081\u65e5\u5168\u9762\u4e0a\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u9818\u6f321.2%\uff0c\u6295\u8cc7\u8005\u5728\u7d93\u6b77\u4e00\u6bb5\u95dc\u7a05\u9a45\u52d5\u7684\u6ce2\u52d5\u5f8c\u91cd\u65b0\u4f48\u5c40\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u3002\u5e02\u5834\u98a8\u96aa\u504f\u597d\u56de\u5347\uff0c\u90e8\u5206\u539f\u56e0\u5728\u65bc\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u51fa\u73fe\u7de9\u548c\u8de1\u8c61\uff0c\u52a0\u4e0a\u4f01\u696d\u8ca1\u5831\u666e\u904d\u512a\u65bc\u9810\u671f\uff0c\u5927\u578b\u79d1\u6280\u80a1\u8207\u534a\u5c0e\u9ad4\u985e\u80a1\u6210\u70ba\u7576\u65e5\u4e3b\u8981\u9818\u6f32\u529b\u91cf\u3002\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.7%\uff0c\u986f\u793a\u6f32\u52e2\u4e26\u975e\u50c5\u5c40\u9650\u65bc\u79d1\u6280\u677f\u584a\uff0c\u6574\u9ad4\u5e02\u5834\u53c3\u8207\u5ea6\u5ee3\u6cdb\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Sector Rotation",
-      "explanation_en": "Sector rotation is when investors shift money out of one part of the market into another as conditions change \u2014 for example, selling slow-growing consumer stocks like ETSY and buying high-momentum tech names when confidence returns. On a risk-on day like today, capital flows toward growth and technology sectors. Today's portfolio move (selling ETSY, buying XNDU and PLTR) is sector rotation at the individual stock level.",
-      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u96a8\u8457\u5e02\u5834\u74b0\u5883\u8b8a\u5316\uff0c\u5c07\u8cc7\u91d1\u5f9e\u4e00\u500b\u9818\u57df\u8f49\u79fb\u81f3\u53e6\u4e00\u500b\u9818\u57df\u2014\u2014\u4f8b\u5982\u5728\u4fe1\u5fc3\u56de\u5347\u6642\uff0c\u8ce3\u51faETSY\u7b49\u589e\u9577\u8da8\u7de9\u7684\u6d88\u8cbb\u80a1\uff0c\u8f49\u800c\u8cb7\u5165\u9ad8\u52d5\u80fd\u79d1\u6280\u80a1\u3002\u5728\u4eca\u65e5\u9019\u6a23\u7684\u98a8\u96aa\u504f\u597d\u5347\u6eab\u884c\u60c5\u4e2d\uff0c\u8cc7\u91d1\u5f80\u5f80\u6d41\u5411\u6210\u9577\u578b\u53ca\u79d1\u6280\u677f\u584a\u3002\u4eca\u65e5\u7684\u64cd\u4f5c\uff08\u8ce3\u51faETSY\u3001\u8cb7\u5165XNDU\u53caPLTR\uff09\u6b63\u662f\u500b\u80a1\u5c64\u9762\u7684\u677f\u584a\u8f2a\u52d5\u5be6\u8e10\u3002"
+      "term": "Profit Target",
+      "explanation_en": "A profit target is a pre-set price level at which you plan to sell a winning position and lock in your gains. This portfolio uses a +12% rule: once a stock rises 12% above your purchase price, you sell \u2014 preventing greed from turning a winner into a loser if the stock reverses. LITE hit exactly this threshold today at +12.2%, triggering a disciplined exit.",
+      "explanation_zh": "\u6b62\u76c8\u76ee\u6a19\u662f\u6307\u6295\u8cc7\u8005\u9810\u5148\u8a2d\u5b9a\u7684\u7372\u5229\u8ce3\u51fa\u50f9\u4f4d\uff0c\u7528\u65bc\u5728\u9054\u5230\u76ee\u6a19\u6536\u76ca\u6642\u9396\u5b9a\u5229\u6f64\u3002\u672c\u6295\u8cc7\u7d44\u5408\u63a1\u7528+12%\u7684\u6b62\u76c8\u898f\u5247\uff1a\u4e00\u65e6\u80a1\u7968\u8f03\u8cb7\u5165\u6210\u672c\u4e0a\u6f3212%\uff0c\u5373\u57f7\u884c\u8ce3\u51fa\uff0c\u9632\u6b62\u56e0\u8caa\u5a6a\u800c\u5750\u8996\u7372\u5229\u56de\u5410\u3002LITE\u4eca\u65e5\u6b63\u597d\u89f8\u767c\u6b64\u9580\u6abb\uff08+12.2%\uff09\uff0c\u4f9d\u7d00\u5f8b\u57f7\u884c\u51fa\u5834\uff0c\u662f\u7a69\u5065\u98a8\u96aa\u7ba1\u7406\u7684\u5178\u578b\u793a\u7bc4\u3002"
     }
   }
 }
