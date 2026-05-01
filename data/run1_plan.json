@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-05-01T20:01:06.211429+00:00",
+  "saved_at": "2026-05-01T21:01:35.418652+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NVT",
+        "ticker": "CWST",
         "conviction": "high",
-        "reasoning": "Top screener score (95) with all four bullish signals aligned: RSI in the ideal 55-70 momentum zone, MACD crossover, price well above SMA-20, and volume surge \u2014 strong entry setup with market conditions neutral-to-positive."
+        "reasoning": "Score 95 with RSI in bullish zone (66.8), MACD crossover, price above SMA-20, and volume surge \u2014 waste management's defensive business model provides downside protection ideal for risk-adjusted returns in a neutral market."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets showed modest strength today with NASDAQ leading at +0.9% and S&P 500 gaining +0.3%, a neutral but constructive tape. OLED continues to perform well and remains a hold. With $683 in cash and 5 open slots, deploying into NVT \u2014 the highest-conviction candidate with a clean momentum setup and no overbought conditions. One new position fills a slot and puts idle cash to work without overextending in an uncertain environment.",
+    "briefing": "Markets closed mixed-to-positive with NASDAQ outperforming the S&P 500, suggesting tech leadership without broad conviction. With 5 open slots and $683 in cash above the $500 deployment threshold, I'm adding CWST \u2014 a top-scored, defensive pick that balances momentum with sector stability. All five existing positions are held pending stop-loss or profit-target triggers.",
     "market_education": {
-      "summary_en": "U.S. equities edged higher on May 1st, with technology and growth names leading as the NASDAQ outpaced the broader S&P 500 by a notable margin. The divergence suggests institutional rotation into higher-beta tech and growth sectors, possibly driven by easing macro fears or positive earnings revisions in the semiconductor and software space. With no major negative catalysts, the market maintained a cautiously optimistic tone heading into the summer.",
-      "summary_zh": "\u7f8e\u80a1\u65bc\u4e94\u6708\u4e00\u65e5\u5c0f\u5e45\u8d70\u9ad8\uff0c\u79d1\u6280\u8207\u6210\u9577\u80a1\u9818\u6f32\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u660e\u986f\u512a\u65bc\u6a19\u666e500\u3002\u6b64\u5206\u5316\u8d70\u52e2\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u6301\u7e8c\u8f2a\u52d5\u81f3\u9ad8\u8c9d\u5854\u79d1\u6280\u8207\u6210\u9577\u677f\u584a\uff0c\u53ef\u80fd\u53d7\u5230\u5b8f\u89c0\u98a8\u96aa\u964d\u6eab\u6216\u534a\u5c0e\u9ad4\u3001\u8edf\u4ef6\u884c\u696d\u76c8\u5229\u9810\u671f\u4e0a\u8abf\u6240\u5e36\u52d5\u3002\u5728\u7121\u91cd\u5927\u8ca0\u9762\u6d88\u606f\u7684\u80cc\u666f\u4e0b\uff0c\u5e02\u5834\u6574\u9ad4\u7dad\u6301\u5be9\u614e\u6a02\u89c0\u614b\u52e2\uff0c\u4e26\u5ef6\u7e8c\u81f3\u590f\u5b63\u524d\u7684\u4f48\u5c40\u7bc0\u594f\u3002",
+      "summary_en": "U.S. equities posted a subdued but positive session on May 1, with the NASDAQ rising 0.9% while the S&P 500 gained a modest 0.3%. The divergence reflects ongoing rotation into technology and growth names as investors weigh resilient earnings against broader macro uncertainty. No single catalyst dominated; the session reflected cautious optimism with selective risk appetite rather than a broad-based rally.",
+      "summary_zh": "\u7f8e\u80a1\u65bc5\u67081\u65e5\u6574\u9ad4\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.9%\uff0c\u6a19\u666e500\u6307\u6578\u50c5\u5c0f\u53470.3%\uff0c\u5169\u8005\u8868\u73fe\u5206\u6b67\u660e\u986f\u3002\u9019\u4e00\u8d70\u52e2\u53cd\u6620\u51fa\u5e02\u5834\u8cc7\u91d1\u6301\u7e8c\u6d41\u5411\u79d1\u6280\u8207\u6210\u9577\u985e\u80a1\uff0c\u6295\u8cc7\u8005\u5728\u8861\u91cf\u4f01\u696d\u76c8\u5229\u97cc\u6027\u7684\u540c\u6642\uff0c\u4ecd\u5c0d\u6574\u9ad4\u5b8f\u89c0\u74b0\u5883\u4fdd\u6301\u5be9\u614e\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u672c\u65e5\u884c\u60c5\u7f3a\u4e4f\u55ae\u4e00\u5f37\u529b\u50ac\u5316\u5291\uff0c\u5448\u73fe\u9078\u64c7\u6027\u5165\u5e02\u7684\u8b39\u614e\u6a02\u89c0\u6c1b\u570d\uff0c\u800c\u975e\u5168\u9762\u6027\u7684\u591a\u982d\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that have been rising and showing strong technical signals \u2014 like RSI in the bullish zone and MACD crossovers \u2014 on the bet that recent strength will continue. It works because trends tend to persist in the short term as more buyers pile in. The risk is that momentum can reverse sharply, which is why stop-losses and watching for overbought RSI (above 70) are important guardrails.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u3001\u6280\u8853\u6307\u6a19\u5f37\u52c1\u7684\u80a1\u7968\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u591a\u982d\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u2014\u2014\u62bc\u6ce8\u77ed\u671f\u8da8\u52e2\u6703\u5ef6\u7e8c\u3002\u5176\u539f\u7406\u5728\u65bc\u5e02\u5834\u8da8\u52e2\u5f80\u5f80\u5177\u6709\u6163\u6027\uff0c\u8d8a\u4f86\u8d8a\u591a\u8cb7\u5bb6\u8ddf\u9032\u6703\u9032\u4e00\u6b65\u63a8\u52d5\u80a1\u50f9\u3002\u98a8\u96aa\u5728\u65bc\u52d5\u80fd\u53ef\u80fd\u6025\u8f49\u76f4\u4e0b\uff0c\u56e0\u6b64\u8a2d\u7f6e\u6b62\u640d\u9ede\u4e26\u7559\u610fRSI\u8d85\u8cb7\uff08\u9ad8\u65bc70\uff09\u662f\u91cd\u8981\u7684\u98a8\u96aa\u63a7\u7ba1\u624b\u6bb5\u3002"
+      "term": "Defensive Stocks",
+      "explanation_en": "Defensive stocks are shares in companies that provide essential services \u2014 like utilities, waste management, or consumer staples \u2014 whose revenues stay relatively stable regardless of economic cycles. In neutral or uncertain markets, they help protect a portfolio from sharp drawdowns while still participating in upside momentum, which is exactly why CWST fits today's risk-adjusted strategy.",
+      "explanation_zh": "\u9632\u79a6\u6027\u80a1\u7968\u662f\u6307\u90a3\u4e9b\u63d0\u4f9b\u6c11\u751f\u5fc5\u9700\u670d\u52d9\u7684\u516c\u53f8\u80a1\u4efd\uff0c\u4f8b\u5982\u516c\u7528\u4e8b\u696d\u3001\u5ee2\u68c4\u7269\u7ba1\u7406\u6216\u6d88\u8cbb\u5fc5\u9700\u54c1\u884c\u696d\uff0c\u5176\u71df\u6536\u53d7\u7d93\u6fdf\u9031\u671f\u6ce2\u52d5\u5f71\u97ff\u76f8\u5c0d\u8f03\u5c0f\u3002\u5728\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u7684\u4e2d\u6027\u74b0\u5883\u4e0b\uff0c\u6301\u6709\u9632\u79a6\u6027\u80a1\u7968\u6709\u52a9\u65bc\u964d\u4f4e\u6295\u8cc7\u7d44\u5408\u7684\u4e0b\u884c\u98a8\u96aa\uff0c\u540c\u6642\u4ecd\u80fd\u6355\u6349\u4e0a\u6f32\u52d5\u80fd\u2014\u2014\u9019\u6b63\u662f\u4eca\u65e5\u9078\u64c7CWST\u7684\u6838\u5fc3\u908f\u8f2f\uff0c\u7b26\u5408\u6211\u5011\u8ffd\u6c42\u98a8\u96aa\u8abf\u6574\u5f8c\u5831\u916c\u7684\u6295\u8cc7\u7b56\u7565\u3002"
     }
   }
 }
