@@ -1,44 +1,26 @@
 {
-  "saved_at": "2026-05-04T15:01:26.715966+00:00",
+  "saved_at": "2026-05-04T16:01:08.394264+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "AMD",
-        "shares": 5,
-        "reasoning": "Score dropped to 30 with bearish MACD, price now below SMA-20 \u2014 momentum has reversed and capital is better deployed into score-95 candidates."
-      },
-      {
-        "action": "BUY",
-        "ticker": "AMZN",
-        "conviction": "high",
-        "reasoning": "Score 95, RSI 69.3 in bullish momentum zone, MACD bullish crossover, price above SMA-20 \u2014 large-cap with strong technical setup and room before overbought."
-      },
-      {
-        "action": "BUY",
-        "ticker": "VKTX",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI at 57.3 \u2014 the lowest RSI among score-95 names, meaning the most runway before overbought territory with full bullish MACD confirmation."
-      },
-      {
         "action": "BUY",
         "ticker": "ACHC",
-        "conviction": "medium",
-        "reasoning": "Score 95, RSI 67.6, price 12% above SMA-20 showing strong breakout, healthcare sector adds defensive diversification to the portfolio."
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 68.2 in the bullish momentum zone (not overbought), MACD crossover with rising histogram, and price 12% above SMA-20 \u2014 strongest risk/reward on the screener with $598 cash available."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today with NASDAQ up a hair and S&P unchanged \u2014 a true neutral session offering no strong macro tailwind or headwind. AMD's momentum has clearly deteriorated (score fell to 30, now below SMA-20 with bearish MACD), so I rotated that capital into three score-95 momentum plays. VKTX leads with the best RSI entry point among top-tier candidates, while AMZN offers large-cap safety alongside strong technicals.",
+    "briefing": "Markets dipped mildly today (-0.4% on both NASDAQ and S&P 500), a neutral session with no clear directional catalyst. Portfolio holds 5 positions with 5 slots still open and $598 in cash \u2014 the rules call for deploying that. ACHC stands out as the top pick: score 95, RSI in the sweet spot at 68.2 (bullish but not overbought), and MACD confirming momentum. AMZN is slightly below our avg cost ($271 vs $274) but well clear of the -7% stop-loss, so no action needed there.",
     "market_education": {
-      "summary_en": "Markets drifted sideways Monday as investors digested last week's volatility and awaited fresh catalysts. With no major macro data or Fed commentary driving sentiment, the session was characterized by light volume and sector-level rotations rather than broad directional moves. Traders appeared to be repositioning within momentum themes \u2014 rotating into names with cleaner technical setups while trimming those showing early reversal signs.",
-      "summary_zh": "\u9031\u4e00\u5e02\u5834\u6574\u9ad4\u6a6b\u5411\u6574\u7406\uff0c\u6295\u8cc7\u8005\u5728\u6d88\u5316\u4e0a\u9031\u6ce2\u52d5\u5f8c\u975c\u5f85\u65b0\u50ac\u5316\u5291\u3002\u7531\u65bc\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u6578\u64da\u6216\u806f\u6e96\u6703\u8868\u614b\uff0c\u672c\u6b21\u4ea4\u6613\u65e5\u6210\u4ea4\u91cf\u6e05\u6de1\uff0c\u5e02\u5834\u5448\u73fe\u677f\u584a\u8f2a\u52d5\u7279\u5fb5\uff0c\u800c\u975e\u6574\u9ad4\u65b9\u5411\u6027\u884c\u60c5\u3002\u4ea4\u6613\u54e1\u50be\u5411\u65bc\u589e\u6301\u6280\u8853\u9762\u4e7e\u6de8\u7684\u52d5\u80fd\u80a1\uff0c\u540c\u6642\u524a\u6e1b\u5df2\u51fa\u73fe\u53cd\u8f49\u8de1\u8c61\u7684\u6301\u5009\u3002",
+      "summary_en": "U.S. equities edged lower Monday with both the S&P 500 and NASDAQ falling 0.4%, reflecting a cautious tone as investors digested mixed signals on trade policy and awaited fresh earnings guidance. No single headline dominated; instead, the mild pullback reflected routine profit-taking after a strong multi-week rally. Defensive positioning ahead of the week's economic data releases kept buyers on the sidelines.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e00\u5c0f\u5e45\u8d70\u4f4e\uff0c\u6a19\u666e500\u6307\u6578\u8207\u7d0d\u65af\u9054\u514b\u6307\u6578\u5747\u4e0b\u8dcc0.4%\uff0c\u5e02\u5834\u60c5\u7dd2\u5be9\u614e\u3002\u6295\u8cc7\u8005\u5728\u6d88\u5316\u8cbf\u6613\u653f\u7b56\u7684\u6df7\u96dc\u4fe1\u865f\u4e4b\u9918\uff0c\u4e5f\u975c\u5f85\u672c\u9031\u5373\u5c07\u516c\u5e03\u7684\u4f01\u696d\u8ca1\u6e2c\u8207\u7d93\u6fdf\u6578\u64da\u3002\u5728\u7d93\u6b77\u6578\u9031\u5f37\u52c1\u53cd\u5f48\u5f8c\uff0c\u5e02\u5834\u9032\u5165\u6b63\u5e38\u7684\u7372\u5229\u4e86\u7d50\u968e\u6bb5\uff0c\u8cb7\u76e4\u52d5\u80fd\u66ab\u6642\u9000\u6f6e\uff0c\u6574\u9ad4\u5448\u73fe\u4e2d\u6027\u683c\u5c40\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Rotation",
-      "explanation_en": "Momentum rotation is the strategy of selling stocks whose price momentum is weakening and redeploying that capital into stocks with stronger, rising momentum. Today's AMD sale \u2014 a stock that went from a screener candidate to a score-30 bearish signal \u2014 and reinvestment into score-95 names like VKTX and AMZN is a textbook example. The goal is to always keep capital working in the assets with the strongest current trend.",
-      "explanation_zh": "\u52d5\u80fd\u8f2a\u52d5\u662f\u6307\u8ce3\u51fa\u50f9\u683c\u52d5\u80fd\u6e1b\u5f31\u7684\u80a1\u7968\uff0c\u4e26\u5c07\u8cc7\u91d1\u8f49\u79fb\u81f3\u52d5\u80fd\u66f4\u5f37\u7684\u80a1\u7968\u7684\u7b56\u7565\u3002\u4eca\u65e5\u8ce3\u51fa\u8a55\u5206\u964d\u81f330\u7684AMD\uff0c\u8f49\u800c\u8cb7\u5165\u8a55\u520695\u7684VKTX\u8207AMZN\uff0c\u6b63\u662f\u6b64\u7b56\u7565\u7684\u5178\u578b\u64cd\u4f5c\u3002\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u8b93\u8cc7\u91d1\u6301\u7e8c\u914d\u7f6e\u65bc\u7576\u524d\u8da8\u52e2\u6700\u5f37\u7684\u8cc7\u7522\uff0c\u907f\u514d\u5b88\u4f4f\u5931\u901f\u7684\u90e8\u4f4d\u3002"
+      "term": "RSI (Relative Strength Index)",
+      "explanation_en": "RSI measures how fast and how much a stock's price has moved recently, on a scale of 0 to 100. A reading between 55 and 70 is the 'momentum sweet spot' \u2014 the stock is trending upward with conviction, but hasn't yet entered overbought territory (above 70) where a pullback becomes more likely. ACHC's RSI of 68.2 sits right in that zone, which is why it ranks as today's top buy.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u8fd1\u671f\u6f32\u8dcc\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002RSI\u572855\u81f370\u4e4b\u9593\u88ab\u8996\u70ba\u300c\u52d5\u80fd\u751c\u871c\u5340\u300d\u2014\u2014\u4ee3\u8868\u80a1\u7968\u6b63\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u4e14\u52d5\u80fd\u5145\u8db3\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff0870\u4ee5\u4e0a\uff09\uff0c\u4e0d\u81f3\u65bc\u7acb\u5373\u9762\u81e8\u56de\u8abf\u58d3\u529b\u3002ACHC\u76ee\u524dRSI\u70ba68.2\uff0c\u6b63\u843d\u5728\u6b64\u5340\u9593\uff0c\u662f\u4eca\u65e5\u8a55\u5206\u6700\u9ad8\u7684\u8cb7\u5165\u6a19\u7684\u4e4b\u4e00\u3002"
     }
   }
 }
