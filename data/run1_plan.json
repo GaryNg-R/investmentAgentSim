@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-05-05T18:01:08.542482+00:00",
+  "saved_at": "2026-05-05T19:01:09.965068+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "BLLN",
+        "ticker": "NVTS",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI at 59.5 \u2014 the lowest among top-tier candidates, giving the most runway before overbought territory \u2014 combined with full signal set (MACD crossover, histogram rising, price above SMA-20) in a risk-on tape."
+        "reasoning": "Score 95 with RSI in the bullish momentum zone (65.2), confirmed MACD crossover with rising histogram, and price above SMA-20 \u2014 cleanest setup available within the $598 cash constraint."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on today with the S&P 500 up 0.9% and NASDAQ up 1.0%, a constructive backdrop for momentum names. The portfolio has 5 open slots and just under $600 cash, so deploying into the highest-conviction low-RSI candidate makes sense. BLLN earns the buy \u2014 score 95, RSI only 59.5 (most headroom), and every technical signal firing \u2014 while existing holdings AMZN, QQQ, EAT, XMTR, and OLED remain in good standing with no stop-loss or profit-target triggers visible.",
+    "briefing": "Markets pushed broadly higher in a classic risk-on session with NASDAQ +1.1% and S&P 500 +0.9%, favoring momentum names. With 5 open slots and just under $600 in cash, I'm deploying into NVTS \u2014 the top-scoring name with a textbook momentum setup. Limited cash prevents filling all available slots today, but NVTS is the highest-conviction entry and makes full use of deployable capital.",
     "market_education": {
-      "summary_en": "U.S. equities posted broad gains on May 5, 2026, with both the S&P 500 (+0.9%) and NASDAQ (+100%) advancing as investor sentiment shifted to risk-on, likely supported by easing macro concerns and continued strength in technology and growth sectors. Momentum stocks with solid technical setups led the charge, rewarding traders positioned in high-score names with MACD crossovers and above-average price action. The move reflects a market willing to look past near-term uncertainty and rotate back into equities.",
-      "summary_zh": "2026\u5e745\u67085\u65e5\uff0c\u7f8e\u570b\u80a1\u5e02\u5168\u9762\u4e0a\u63da\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.9%\u3001\u7d0d\u6307\u4e0a\u6f321.0%\uff0c\u5e02\u5834\u60c5\u7dd2\u660e\u986f\u8f49\u5411\u98a8\u96aa\u504f\u597d\u3002\u79d1\u6280\u80a1\u8207\u6210\u9577\u80a1\u9818\u6f32\uff0c\u6280\u8853\u9762\u5f37\u52e2\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u5c24\u70ba\u7a81\u51fa\uff0cMACD\u91d1\u53c9\u4e14\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\u7684\u500b\u80a1\u666e\u904d\u53d7\u5230\u8ffd\u6367\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u5e02\u5834\u5df2\u9010\u6b65\u6d88\u5316\u77ed\u671f\u4e0d\u78ba\u5b9a\u56e0\u7d20\uff0c\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u80a1\u7968\u8cc7\u7522\u3002",
+      "summary_en": "U.S. equities rallied broadly on 2026-05-05, with the NASDAQ gaining 1.1% and the S&P 500 adding 0.9%, driven by renewed risk appetite across technology and growth sectors. Momentum stocks with RSI readings in the 55\u201370 zone and confirmed MACD crossovers outperformed, suggesting steady institutional accumulation rather than late-cycle speculation. With no major macro headwinds in play, buyers maintained control through the entire session.",
+      "summary_zh": "2026\u5e745\u67085\u65e5\uff0c\u7f8e\u80a1\u5168\u7dda\u4e0a\u63da\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u6f321.1%\uff0c\u6a19\u666e500\u53470.9%\uff0c\u79d1\u6280\u53ca\u6210\u9577\u677f\u584a\u8cb7\u6c23\u660e\u986f\u56de\u5347\u3002RSI\u4ecb\u65bc55\u81f370\u5340\u9593\u4e14MACD\u5448\u9ec3\u91d1\u4ea4\u53c9\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u512a\u65bc\u5927\u5e02\uff0c\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u7a69\u6b65\u5e03\u5c40\uff0c\u800c\u975e\u672b\u5347\u6bb5\u7684\u6295\u6a5f\u8ffd\u9ad8\u3002\u5b8f\u89c0\u9762\u7f3a\u4e4f\u91cd\u5927\u5229\u7a7a\uff0c\u591a\u982d\u5f97\u4ee5\u4e3b\u5c0e\u5168\u65e5\u8d70\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is the strategy of buying stocks that have been trending upward \u2014 using indicators like RSI and MACD to confirm strength before entering. The idea is that stocks already in motion tend to stay in motion, especially in risk-on markets. Today's buy of BLLN exemplifies this: RSI in the sweet spot (not yet overbought), MACD bullish crossover, and price above its 20-day moving average all confirm upward momentum.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u900f\u904eRSI\u3001MACD\u7b49\u6280\u8853\u6307\u6a19\u78ba\u8a8d\u8da8\u52e2\u5f37\u5ea6\u5f8c\u518d\u9032\u5834\u3002\u6838\u5fc3\u6982\u5ff5\u662f\uff1a\u5df2\u7d93\u5728\u4e0a\u5347\u8ecc\u9053\u4e2d\u7684\u80a1\u7968\uff0c\u5f80\u5f80\u6703\u7e7c\u7e8c\u5411\u4e0a\u904b\u884c\uff0c\u5728\u98a8\u96aa\u504f\u597d\u5e02\u5834\u4e2d\u5c24\u70ba\u660e\u986f\u3002\u4eca\u65e5\u8cb7\u5165BLLN\u6b63\u662f\u6b64\u7b56\u7565\u7684\u9ad4\u73fe\uff1aRSI\u8655\u65bc\u751c\u871c\u5340\u9593\uff08\u5c1a\u672a\u8d85\u8cb7\uff09\u3001MACD\u51fa\u73fe\u91d1\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\uff0c\u4e09\u91cd\u4fe1\u865f\u5171\u540c\u78ba\u8a8d\u4e0a\u884c\u52d5\u80fd\u3002"
+      "explanation_en": "Momentum investing buys stocks already in an uptrend, betting the trend persists \u2014 rather than waiting for a dip. The RSI 'sweet spot' of 55\u201370 means a stock has real buying pressure without being overbought and vulnerable to reversal. On a risk-on day like today, momentum strategies tend to shine because capital keeps flowing into the names already moving.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u8da8\u52e2\u5ef6\u7e8c\uff0c\u800c\u975e\u7b49\u5f85\u56de\u8abf\u5165\u5e02\u3002RSI 55\u81f370\u7684\u300c\u6700\u4f73\u5340\u9593\u300d\u4ee3\u8868\u80a1\u7968\u5177\u5099\u771f\u5be6\u8cb7\u76e4\u652f\u6490\uff0c\u540c\u6642\u53c8\u672a\u9054\u8d85\u8cb7\u6c34\u5e73\u3001\u4e0d\u6613\u53cd\u8f49\u3002\u5728\u4eca\u5929\u9019\u7a2e\u98a8\u96aa\u504f\u597d\u74b0\u5883\u4e0b\uff0c\u52d5\u80fd\u7b56\u7565\u5f80\u5f80\u8868\u73fe\u7a81\u51fa\uff0c\u56e0\u70ba\u8cc7\u91d1\u6703\u6301\u7e8c\u6d41\u5165\u5df2\u5728\u5f37\u52e2\u4e0a\u884c\u7684\u500b\u80a1\u3002"
     }
   }
 }
