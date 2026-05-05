@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-05-05T19:01:09.965068+00:00",
+  "saved_at": "2026-05-05T20:01:09.778383+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NVTS",
+        "ticker": "ENPH",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI in the bullish momentum zone (65.2), confirmed MACD crossover with rising histogram, and price above SMA-20 \u2014 cleanest setup available within the $598 cash constraint."
+        "reasoning": "Top screener score (100), volume surge, MACD bullish crossover with rising histogram, RSI 67.7 in ideal momentum zone, and price well above SMA-20 \u2014 deploying remaining cash into the strongest setup available."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets pushed broadly higher in a classic risk-on session with NASDAQ +1.1% and S&P 500 +0.9%, favoring momentum names. With 5 open slots and just under $600 in cash, I'm deploying into NVTS \u2014 the top-scoring name with a textbook momentum setup. Limited cash prevents filling all available slots today, but NVTS is the highest-conviction entry and makes full use of deployable capital.",
+    "briefing": "Risk-on session with NASDAQ +1.0% and S&P 500 +0.8% gives a green light for deploying the remaining $598 in cash. ENPH scores a perfect 100 with every signal aligned \u2014 volume surge, MACD crossover, RSI momentum, and SMA breakout \u2014 making it the clear buy. Existing positions are healthy at +5.4% overall and require no action today.",
     "market_education": {
-      "summary_en": "U.S. equities rallied broadly on 2026-05-05, with the NASDAQ gaining 1.1% and the S&P 500 adding 0.9%, driven by renewed risk appetite across technology and growth sectors. Momentum stocks with RSI readings in the 55\u201370 zone and confirmed MACD crossovers outperformed, suggesting steady institutional accumulation rather than late-cycle speculation. With no major macro headwinds in play, buyers maintained control through the entire session.",
-      "summary_zh": "2026\u5e745\u67085\u65e5\uff0c\u7f8e\u80a1\u5168\u7dda\u4e0a\u63da\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u6f321.1%\uff0c\u6a19\u666e500\u53470.9%\uff0c\u79d1\u6280\u53ca\u6210\u9577\u677f\u584a\u8cb7\u6c23\u660e\u986f\u56de\u5347\u3002RSI\u4ecb\u65bc55\u81f370\u5340\u9593\u4e14MACD\u5448\u9ec3\u91d1\u4ea4\u53c9\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u512a\u65bc\u5927\u5e02\uff0c\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u7a69\u6b65\u5e03\u5c40\uff0c\u800c\u975e\u672b\u5347\u6bb5\u7684\u6295\u6a5f\u8ffd\u9ad8\u3002\u5b8f\u89c0\u9762\u7f3a\u4e4f\u91cd\u5927\u5229\u7a7a\uff0c\u591a\u982d\u5f97\u4ee5\u4e3b\u5c0e\u5168\u65e5\u8d70\u52e2\u3002",
+      "summary_en": "Markets rallied broadly today in a risk-on session, with tech leading as the NASDAQ gained 1.0% and the S&P 500 added 0.8%. Investor sentiment improved as tariff-related uncertainty eased and earnings season continued to deliver upside surprises from major corporations. The combination of resilient corporate profits and growing expectations that the Fed will hold rates steady supported appetite for equities across sectors.",
+      "summary_zh": "\u5e02\u5834\u4eca\u65e5\u6574\u9ad4\u8d70\u5f37\uff0c\u98a8\u96aa\u504f\u597d\u56de\u5347\u3002\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.0%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.8%\uff0c\u79d1\u6280\u80a1\u9818\u6f32\u3002\u96a8\u8457\u8cbf\u6613\u95dc\u7a05\u4e0d\u78ba\u5b9a\u6027\u8da8\u7de9\uff0c\u52a0\u4e0a\u4f01\u696d\u8ca1\u5831\u5b63\u6301\u7e8c\u5e36\u4f86\u4eae\u773c\u6210\u7e3e\uff0c\u6295\u8cc7\u8005\u4fe1\u5fc3\u660e\u986f\u56de\u6696\u3002\u5e02\u5834\u666e\u904d\u9810\u671f\u806f\u6e96\u6703\u5c07\u7dad\u6301\u5229\u7387\u4e0d\u8b8a\uff0c\u9032\u4e00\u6b65\u63a8\u52d5\u8cc7\u91d1\u6d41\u5165\u80a1\u5e02\uff0c\u591a\u500b\u677f\u584a\u5747\u73fe\u4e0a\u63da\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing buys stocks already in an uptrend, betting the trend persists \u2014 rather than waiting for a dip. The RSI 'sweet spot' of 55\u201370 means a stock has real buying pressure without being overbought and vulnerable to reversal. On a risk-on day like today, momentum strategies tend to shine because capital keeps flowing into the names already moving.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u8da8\u52e2\u5ef6\u7e8c\uff0c\u800c\u975e\u7b49\u5f85\u56de\u8abf\u5165\u5e02\u3002RSI 55\u81f370\u7684\u300c\u6700\u4f73\u5340\u9593\u300d\u4ee3\u8868\u80a1\u7968\u5177\u5099\u771f\u5be6\u8cb7\u76e4\u652f\u6490\uff0c\u540c\u6642\u53c8\u672a\u9054\u8d85\u8cb7\u6c34\u5e73\u3001\u4e0d\u6613\u53cd\u8f49\u3002\u5728\u4eca\u5929\u9019\u7a2e\u98a8\u96aa\u504f\u597d\u74b0\u5883\u4e0b\uff0c\u52d5\u80fd\u7b56\u7565\u5f80\u5f80\u8868\u73fe\u7a81\u51fa\uff0c\u56e0\u70ba\u8cc7\u91d1\u6703\u6301\u7e8c\u6d41\u5165\u5df2\u5728\u5f37\u52e2\u4e0a\u884c\u7684\u500b\u80a1\u3002"
+      "explanation_en": "Momentum investing means buying stocks that have been rising strongly, on the theory that assets that have performed well recently tend to keep outperforming in the near term. Key signals include RSI in the 55\u201370 'sweet spot,' MACD bullish crossovers, price above moving averages, and elevated volume \u2014 all of which ENPH shows today. The risk is that momentum can reverse sharply if sentiment shifts.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6f32\u52e2\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u5176\u908f\u8f2f\u5728\u65bc\u5f37\u8005\u6046\u5f37\u2014\u2014\u8868\u73fe\u512a\u7570\u7684\u8cc7\u7522\u5f80\u5f80\u5728\u77ed\u671f\u5167\u7e7c\u7e8c\u8dd1\u8d0f\u5927\u5e02\u3002\u95dc\u9375\u6307\u6a19\u5305\u62ecRSI\u843d\u572855\u201370\u7684\u300c\u9ec3\u91d1\u5340\u9593\u300d\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u4eca\u65e5ENPH\u6b63\u662f\u5168\u9762\u7b26\u5408\u9019\u4e9b\u689d\u4ef6\u7684\u5178\u578b\u6848\u4f8b\u3002\u6295\u8cc7\u8005\u9700\u6ce8\u610f\u7684\u662f\uff0c\u4e00\u65e6\u5e02\u5834\u60c5\u7dd2\u9006\u8f49\uff0c\u52d5\u80fd\u80a1\u7684\u8dcc\u5e45\u5f80\u5f80\u4e5f\u76f8\u7576\u51cc\u53b2\u3002"
     }
   }
 }
