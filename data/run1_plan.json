@@ -1,38 +1,26 @@
 {
-  "saved_at": "2026-05-05T13:01:20.886959+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-05-05T14:01:16.274000+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "AGRO",
+        "ticker": "UCTT",
         "conviction": "high",
-        "reasoning": "Score 100 with RSI 69.5 in ideal bullish zone, MACD crossover with rising histogram, volume surge, and price well above SMA-20 \u2014 all five signals aligned without entering overbought territory."
-      },
-      {
-        "action": "BUY",
-        "ticker": "VG",
-        "conviction": "high",
-        "reasoning": "Score 100 with RSI 66.2 in bullish momentum zone, MACD bullish crossover with rising histogram, strong volume surge, and price clearing SMA-20 cleanly."
-      },
-      {
-        "action": "BUY",
-        "ticker": "BW",
-        "conviction": "medium",
-        "reasoning": "Score 100 with fresh early-stage momentum (RSI 55.3 just entering bullish zone), MACD crossover, rising histogram, and volume surge \u2014 suggests an early breakout with more room to run than mature momentum names."
+        "reasoning": "Top screener score (100) with RSI in the ideal bullish zone at 65.1 \u2014 not overbought, MACD bullish crossover, price well above SMA-20, and a volume surge confirming institutional interest; deploying remaining cash into the strongest clean-momentum candidate."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted slightly lower today with S&P 500 down 0.4% and NASDAQ off 0.2%, reflecting cautious positioning rather than any sharp risk-off move \u2014 conditions remain neutral and tradeable. With 5 open slots and $598 in cash, the rules call for deployment, and three score-100 screener picks (AGRO, VG, BW) offer clean technical setups without being overbought. Existing positions are intact \u2014 AMZN is slightly below cost basis but still holds bullish momentum signals and sits well above its stop-loss at $254.92.",
+    "briefing": "Markets are risk-on today with NASDAQ +0.8% and S&P 500 +0.6%, broad-based strength favoring growth and tech. Portfolio is up 5.4% with all five positions intact. Deploying remaining $598 in cash into UCTT \u2014 the only score-100 candidate with RSI still in the healthy 55\u201370 momentum zone rather than overbought territory, making it the cleanest entry among top picks.",
     "market_education": {
-      "summary_en": "U.S. equities ended modestly lower Tuesday as investors adopted a wait-and-see posture ahead of key economic data and earnings reports later this week. The S&P 500 slipped 0.4% and NASDAQ edged down 0.2%, reflecting mild profit-taking in growth and technology names rather than broad risk aversion. Sector rotation was visible, with defensive and commodity-linked stocks holding relatively firm while high-beta names saw light selling pressure.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e8c\u5c0f\u5e45\u6536\u4f4e\uff0c\u6295\u8cc7\u8005\u5728\u672c\u9031\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u53ca\u8ca1\u5831\u516c\u5e03\u524d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.2%\uff0c\u4e3b\u8981\u53cd\u6620\u6210\u9577\u80a1\u53ca\u79d1\u6280\u80a1\u7684\u8f15\u5fae\u7372\u5229\u56de\u5410\uff0c\u800c\u975e\u5168\u9762\u6027\u907f\u96aa\u60c5\u7dd2\u3002\u677f\u584a\u8f2a\u52d5\u8de1\u8c61\u660e\u986f\uff0c\u9632\u79a6\u6027\u53ca\u5546\u54c1\u76f8\u95dc\u80a1\u7968\u76f8\u5c0d\u6297\u8dcc\uff0c\u9ad8Beta\u500b\u80a1\u5247\u627f\u53d7\u8f15\u5fae\u6cbd\u58d3\u3002",
+      "summary_en": "U.S. equities posted a broad risk-on session on May 5, 2026, with the NASDAQ gaining +0.8% and the S&P 500 rising +0.6%, driven by continued strength in technology and growth-oriented sectors. Momentum stocks showing volume surges broadly outperformed, pointing to active institutional accumulation rather than retail-driven moves. The constructive tape with no major macro headwinds suggests the near-term uptrend remains intact.",
+      "summary_zh": "2026\u5e745\u67085\u65e5\uff0c\u7f8e\u80a1\u5168\u9762\u4e0a\u6f32\uff0c\u98a8\u96aa\u504f\u597d\u660e\u986f\u5347\u6eab\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u6f320.8%\uff0c\u6a19\u666e500\u6307\u6578\u6f320.6%\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u7e7c\u7e8c\u9818\u8dd1\u3002\u6210\u4ea4\u91cf\u6025\u589e\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u5c24\u70ba\u7a81\u51fa\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u7a4d\u6975\u5165\u5e02\uff0c\u4e26\u975e\u55ae\u7d14\u6563\u6236\u8ffd\u6367\u3002\u6574\u9ad4\u5e02\u5834\u672a\u898b\u91cd\u5927\u5b8f\u89c0\u98a8\u96aa\uff0c\u77ed\u7dda\u5347\u52e2\u683c\u5c40\u4ecd\u7136\u7a69\u56fa\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy of buying assets that have been rising in price, based on the observation that price trends tend to persist in the short to medium term. Technical indicators like RSI and MACD help measure the strength of that momentum \u2014 today's top picks AGRO, VG, and BW all show strong bullish momentum signals without being dangerously overbought, representing textbook momentum entries where the trend is established but not exhausted.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u8cc7\u7522\u7684\u7b56\u7565\uff0c\u5176\u6838\u5fc3\u4f9d\u64da\u662f\u77ed\u4e2d\u671f\u5167\u50f9\u683c\u8da8\u52e2\u5177\u6709\u5ef6\u7e8c\u6027\u3002RSI\u8207MACD\u7b49\u6280\u8853\u6307\u6a19\u53ef\u91cf\u5316\u52d5\u80fd\u7684\u5f37\u5f31\u2014\u2014\u4eca\u65e5\u7cbe\u9078\u7684AGRO\u3001VG\u53caBW\u5747\u5448\u73fe\u5f37\u52c1\u770b\u6f32\u52d5\u80fd\uff0c\u4e14\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff0c\u5c6c\u65bc\u6559\u79d1\u66f8\u5f0f\u7684\u52d5\u80fd\u8cb7\u5165\u6642\u6a5f\uff1a\u8da8\u52e2\u5df2\u78ba\u7acb\u4f46\u5c1a\u672a\u900f\u652f\u3002"
+      "term": "Volume Surge",
+      "explanation_en": "A volume surge happens when a stock trades at 1.5x or more its normal 20-day average volume. When price rises on unusually high volume, it signals that large institutional players \u2014 mutual funds, hedge funds \u2014 are actively buying, giving the move credibility. A breakout on low volume is suspect; the same move on a volume surge is far more trustworthy.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u6025\u589e\u662f\u6307\u67d0\u80a1\u7968\u7684\u55ae\u65e5\u6210\u4ea4\u91cf\u9054\u523020\u65e5\u5747\u91cf\u76841.5\u500d\u6216\u4ee5\u4e0a\u3002\u82e5\u80a1\u50f9\u4e0a\u6f32\u7684\u540c\u6642\u51fa\u73fe\u7570\u5e38\u5927\u6210\u4ea4\u91cf\uff0c\u4ee3\u8868\u57fa\u91d1\u6216\u5c0d\u6c96\u57fa\u91d1\u7b49\u5927\u578b\u6a5f\u69cb\u6b63\u7a4d\u6975\u8cb7\u5165\uff0c\u4ee4\u5347\u52e2\u66f4\u5177\u8aaa\u670d\u529b\u3002\u4f4e\u6210\u4ea4\u91cf\u7684\u7a81\u7834\u5f80\u5f80\u4e0d\u53ef\u9760\uff1b\u76f8\u53cd\uff0c\u4f34\u96a8\u6210\u4ea4\u91cf\u6025\u589e\u7684\u7a81\u7834\u5247\u53ef\u4fe1\u5ea6\u9ad8\u5f97\u591a\u3002"
     }
   }
 }
