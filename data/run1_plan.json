@@ -1,26 +1,38 @@
 {
-  "saved_at": "2026-05-04T21:01:09.767617+00:00",
+  "saved_at": "2026-05-05T13:01:20.886959+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "BW",
+        "ticker": "AGRO",
         "conviction": "high",
-        "reasoning": "Score 100 with RSI only 55.3 \u2014 the lowest among top-scoring stocks, meaning it hasn't overextended yet and has the most room to run; MACD bullish crossover, histogram rising, price above SMA-20, and volume surge confirm broad momentum."
+        "reasoning": "Score 100 with RSI 69.5 in ideal bullish zone, MACD crossover with rising histogram, volume surge, and price well above SMA-20 \u2014 all five signals aligned without entering overbought territory."
+      },
+      {
+        "action": "BUY",
+        "ticker": "VG",
+        "conviction": "high",
+        "reasoning": "Score 100 with RSI 66.2 in bullish momentum zone, MACD bullish crossover with rising histogram, strong volume surge, and price clearing SMA-20 cleanly."
+      },
+      {
+        "action": "BUY",
+        "ticker": "BW",
+        "conviction": "medium",
+        "reasoning": "Score 100 with fresh early-stage momentum (RSI 55.3 just entering bullish zone), MACD crossover, rising histogram, and volume surge \u2014 suggests an early breakout with more room to run than mature momentum names."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were modestly negative today with S&P 500 down 0.4% and NASDAQ off 0.2%, a neutral session with no strong directional push. Portfolio is healthy at +5.4% overall and has 5 open slots with $598 in cash \u2014 the rules call for deploying it. BW stood out among the three 100-score candidates because its RSI of 55.3 is well below overbought territory, giving it the most runway compared to AGRO (69.5) and VG (66.2), while sharing all five bullish signals.",
+    "briefing": "Markets drifted slightly lower today with S&P 500 down 0.4% and NASDAQ off 0.2%, reflecting cautious positioning rather than any sharp risk-off move \u2014 conditions remain neutral and tradeable. With 5 open slots and $598 in cash, the rules call for deployment, and three score-100 screener picks (AGRO, VG, BW) offer clean technical setups without being overbought. Existing positions are intact \u2014 AMZN is slightly below cost basis but still holds bullish momentum signals and sits well above its stop-loss at $254.92.",
     "market_education": {
-      "summary_en": "U.S. equities drifted slightly lower on Monday in a quiet session, with the S&P 500 shedding 0.4% and the NASDAQ falling 0.2% as investors digested recent earnings reports and awaited fresh economic data later in the week. Treasury yields edged higher, putting mild pressure on growth and tech names, while defensive sectors held relatively steady. Overall, the tape reflected a 'wait and see' posture rather than any decisive risk-off move.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u4e00\u5c0f\u5e45\u6536\u8dcc\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u8dcc0.2%\uff0c\u5e02\u5834\u5728\u6d88\u5316\u8fd1\u671f\u8ca1\u5831\u5b63\u7d50\u679c\u4e4b\u969b\uff0c\u975c\u5f85\u672c\u9031\u7a0d\u5f8c\u516c\u4f48\u7684\u7d93\u6fdf\u6578\u64da\u3002\u7f8e\u50b5\u6b96\u5229\u7387\u5fae\u5347\uff0c\u5c0d\u6210\u9577\u80a1\u53ca\u79d1\u6280\u677f\u584a\u69cb\u6210\u8f15\u5fae\u58d3\u529b\uff0c\u9632\u79a6\u6027\u985e\u80a1\u8868\u73fe\u76f8\u5c0d\u7a69\u5065\u3002\u6574\u9ad4\u76e4\u9762\u5448\u89c0\u671b\u683c\u5c40\uff0c\u4e26\u7121\u660e\u986f\u7684\u907f\u96aa\u60c5\u7dd2\u4e3b\u5c0e\u3002",
+      "summary_en": "U.S. equities ended modestly lower Tuesday as investors adopted a wait-and-see posture ahead of key economic data and earnings reports later this week. The S&P 500 slipped 0.4% and NASDAQ edged down 0.2%, reflecting mild profit-taking in growth and technology names rather than broad risk aversion. Sector rotation was visible, with defensive and commodity-linked stocks holding relatively firm while high-beta names saw light selling pressure.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e8c\u5c0f\u5e45\u6536\u4f4e\uff0c\u6295\u8cc7\u8005\u5728\u672c\u9031\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u53ca\u8ca1\u5831\u516c\u5e03\u524d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.2%\uff0c\u4e3b\u8981\u53cd\u6620\u6210\u9577\u80a1\u53ca\u79d1\u6280\u80a1\u7684\u8f15\u5fae\u7372\u5229\u56de\u5410\uff0c\u800c\u975e\u5168\u9762\u6027\u907f\u96aa\u60c5\u7dd2\u3002\u677f\u584a\u8f2a\u52d5\u8de1\u8c61\u660e\u986f\uff0c\u9632\u79a6\u6027\u53ca\u5546\u54c1\u76f8\u95dc\u80a1\u7968\u76f8\u5c0d\u6297\u8dcc\uff0c\u9ad8Beta\u500b\u80a1\u5247\u627f\u53d7\u8f15\u5fae\u6cbd\u58d3\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI (Relative Strength Index) Headroom",
-      "explanation_en": "RSI measures how overbought or oversold a stock is on a scale of 0\u2013100. A stock with RSI near 70 is already running hot and risks a pullback, while one with RSI around 55 has more 'headroom' before reaching overbought territory \u2014 meaning it can keep climbing before momentum exhausts. Today we chose BW over equally-scored AGRO partly for this reason: same strong signals, but more room to run.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u7528\u65bc\u8861\u91cf\u80a1\u7968\u8d85\u8cb7\u6216\u8d85\u8ce3\u7684\u7a0b\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002\u7576RSI\u63a5\u8fd170\u6642\uff0c\u80a1\u50f9\u5df2\u5448\u904e\u71b1\u72c0\u614b\uff0c\u56de\u8abf\u98a8\u96aa\u8f03\u9ad8\uff1b\u800cRSI\u7d0455\u7684\u80a1\u7968\u4ecd\u6709\u8f03\u5927\u300c\u4e0a\u5347\u7a7a\u9593\u300d\uff0c\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff0c\u52d5\u80fd\u6709\u689d\u4ef6\u6301\u7e8c\u5ef6\u4f38\u3002\u4eca\u65e5\u6211\u5011\u5728\u540c\u6a23\u8a55\u5206\u7684\u9078\u80a1\u4e2d\u512a\u5148\u9078\u64c7BW\uff0c\u90e8\u5206\u539f\u56e0\u6b63\u5728\u65bc\u6b64\u2014\u2014\u76f8\u540c\u7684\u5f37\u52e2\u8a0a\u865f\uff0c\u4f46\u6280\u8853\u9762\u4ecd\u6709\u66f4\u591a\u4e0a\u884c\u9918\u5730\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy of buying assets that have been rising in price, based on the observation that price trends tend to persist in the short to medium term. Technical indicators like RSI and MACD help measure the strength of that momentum \u2014 today's top picks AGRO, VG, and BW all show strong bullish momentum signals without being dangerously overbought, representing textbook momentum entries where the trend is established but not exhausted.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u8cc7\u7522\u7684\u7b56\u7565\uff0c\u5176\u6838\u5fc3\u4f9d\u64da\u662f\u77ed\u4e2d\u671f\u5167\u50f9\u683c\u8da8\u52e2\u5177\u6709\u5ef6\u7e8c\u6027\u3002RSI\u8207MACD\u7b49\u6280\u8853\u6307\u6a19\u53ef\u91cf\u5316\u52d5\u80fd\u7684\u5f37\u5f31\u2014\u2014\u4eca\u65e5\u7cbe\u9078\u7684AGRO\u3001VG\u53caBW\u5747\u5448\u73fe\u5f37\u52c1\u770b\u6f32\u52d5\u80fd\uff0c\u4e14\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff0c\u5c6c\u65bc\u6559\u79d1\u66f8\u5f0f\u7684\u52d5\u80fd\u8cb7\u5165\u6642\u6a5f\uff1a\u8da8\u52e2\u5df2\u78ba\u7acb\u4f46\u5c1a\u672a\u900f\u652f\u3002"
     }
   }
 }
