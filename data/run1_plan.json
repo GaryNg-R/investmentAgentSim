@@ -1,26 +1,38 @@
 {
-  "saved_at": "2026-05-05T14:01:16.274000+00:00",
+  "saved_at": "2026-05-05T15:01:21.878584+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "UCTT",
+        "ticker": "POWL",
         "conviction": "high",
-        "reasoning": "Top screener score (100) with RSI in the ideal bullish zone at 65.1 \u2014 not overbought, MACD bullish crossover, price well above SMA-20, and a volume surge confirming institutional interest; deploying remaining cash into the strongest clean-momentum candidate."
+        "reasoning": "Score 95 with RSI 62.5 in the ideal bullish momentum zone (55\u201370), confirmed MACD crossover and rising histogram, price extended above SMA-20 \u2014 clean setup in risk-on tape."
+      },
+      {
+        "action": "BUY",
+        "ticker": "MARA",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 61.1 in bullish zone, all momentum signals aligned, and crypto-adjacent names tend to outperform in risk-on sessions with NASDAQ leading."
+      },
+      {
+        "action": "BUY",
+        "ticker": "OWL",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 67.6 near top of bullish zone, MACD and histogram both confirming \u2014 lower price per share allows fuller allocation within position-size limits."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are risk-on today with NASDAQ +0.8% and S&P 500 +0.6%, broad-based strength favoring growth and tech. Portfolio is up 5.4% with all five positions intact. Deploying remaining $598 in cash into UCTT \u2014 the only score-100 candidate with RSI still in the healthy 55\u201370 momentum zone rather than overbought territory, making it the cleanest entry among top picks.",
+    "briefing": "Markets are clearly risk-on with both NASDAQ and S&P 500 posting solid gains, giving us confidence to deploy idle cash. I'm adding POWL, MARA, and OWL \u2014 all three sit at the top of the screener with RSI in the clean 55\u201370 bullish momentum zone rather than overbought territory, making them higher-quality entries than the score-75 crowd. Existing positions are held; nothing is near stop-loss.",
     "market_education": {
-      "summary_en": "U.S. equities posted a broad risk-on session on May 5, 2026, with the NASDAQ gaining +0.8% and the S&P 500 rising +0.6%, driven by continued strength in technology and growth-oriented sectors. Momentum stocks showing volume surges broadly outperformed, pointing to active institutional accumulation rather than retail-driven moves. The constructive tape with no major macro headwinds suggests the near-term uptrend remains intact.",
-      "summary_zh": "2026\u5e745\u67085\u65e5\uff0c\u7f8e\u80a1\u5168\u9762\u4e0a\u6f32\uff0c\u98a8\u96aa\u504f\u597d\u660e\u986f\u5347\u6eab\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u6f320.8%\uff0c\u6a19\u666e500\u6307\u6578\u6f320.6%\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u7e7c\u7e8c\u9818\u8dd1\u3002\u6210\u4ea4\u91cf\u6025\u589e\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u5c24\u70ba\u7a81\u51fa\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u7a4d\u6975\u5165\u5e02\uff0c\u4e26\u975e\u55ae\u7d14\u6563\u6236\u8ffd\u6367\u3002\u6574\u9ad4\u5e02\u5834\u672a\u898b\u91cd\u5927\u5b8f\u89c0\u98a8\u96aa\uff0c\u77ed\u7dda\u5347\u52e2\u683c\u5c40\u4ecd\u7136\u7a69\u56fa\u3002",
+      "summary_en": "Equities rallied broadly on May 5 as easing trade-war concerns and resilient corporate earnings boosted risk appetite, with tech and growth names leading the charge. The NASDAQ outpaced the S&P 500, suggesting investors rotated back into higher-beta growth stocks after weeks of defensiveness. Reduced Treasury yield pressure also helped, as softer forward-guidance from the Fed allowed duration-sensitive sectors to re-rate higher.",
+      "summary_zh": "\u7f8e\u80a1\u65bc5\u67085\u65e5\u5168\u9762\u4e0a\u6f32\uff0c\u4e3b\u56e0\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u7de9\u89e3\u53ca\u4f01\u696d\u8ca1\u5831\u512a\u65bc\u9810\u671f\uff0c\u5e36\u52d5\u98a8\u96aa\u504f\u597d\u56de\u5347\u3002\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u6f32\uff0c\u53cd\u6620\u5e02\u5834\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u9ad8Beta\u6210\u9577\u80a1\u3002\u806f\u5132\u5c40\u504f\u9d3f\u6d3e\u7684\u524d\u666f\u6307\u5f15\u4ee4\u9577\u7aef\u5229\u7387\u58d3\u529b\u7d13\u7de9\uff0c\u5229\u7387\u654f\u611f\u677f\u584a\u4ea6\u96a8\u4e4b\u4f30\u503c\u4fee\u5fa9\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Surge",
-      "explanation_en": "A volume surge happens when a stock trades at 1.5x or more its normal 20-day average volume. When price rises on unusually high volume, it signals that large institutional players \u2014 mutual funds, hedge funds \u2014 are actively buying, giving the move credibility. A breakout on low volume is suspect; the same move on a volume surge is far more trustworthy.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u6025\u589e\u662f\u6307\u67d0\u80a1\u7968\u7684\u55ae\u65e5\u6210\u4ea4\u91cf\u9054\u523020\u65e5\u5747\u91cf\u76841.5\u500d\u6216\u4ee5\u4e0a\u3002\u82e5\u80a1\u50f9\u4e0a\u6f32\u7684\u540c\u6642\u51fa\u73fe\u7570\u5e38\u5927\u6210\u4ea4\u91cf\uff0c\u4ee3\u8868\u57fa\u91d1\u6216\u5c0d\u6c96\u57fa\u91d1\u7b49\u5927\u578b\u6a5f\u69cb\u6b63\u7a4d\u6975\u8cb7\u5165\uff0c\u4ee4\u5347\u52e2\u66f4\u5177\u8aaa\u670d\u529b\u3002\u4f4e\u6210\u4ea4\u91cf\u7684\u7a81\u7834\u5f80\u5f80\u4e0d\u53ef\u9760\uff1b\u76f8\u53cd\uff0c\u4f34\u96a8\u6210\u4ea4\u91cf\u6025\u589e\u7684\u7a81\u7834\u5247\u53ef\u4fe1\u5ea6\u9ad8\u5f97\u591a\u3002"
+      "term": "RSI Bullish Momentum Zone",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock has been moving up or down on a scale of 0\u2013100. A reading between 55 and 70 is often called the 'bullish momentum zone' \u2014 strong enough to show real buying interest, but not so high that the stock is overbought and at risk of snapping back. Today's top picks (POWL, MARA, OWL) all sit in this sweet spot, which is why they ranked highest despite many other candidates being technically 'stronger' but dangerously extended above 70.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u7684\u7bc4\u570d\u8861\u91cf\u80a1\u50f9\u6f32\u8dcc\u901f\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff0c\u901a\u5e38\u88ab\u7a31\u70ba\u300c\u770b\u6f32\u52d5\u80fd\u5340\u9593\u300d\u2014\u2014\u5347\u52e2\u8db3\u5920\u5f37\u52c1\uff0c\u986f\u793a\u6709\u771f\u5be6\u8cb7\u76e4\u652f\u6490\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u57df\uff08>70\uff09\uff0c\u77ed\u671f\u56de\u8abf\u98a8\u96aa\u8f03\u4f4e\u3002\u4eca\u65e5\u9996\u9078\u7684POWL\u3001MARA\u3001OWL\u5747\u8655\u65bc\u6b64\u5340\u9593\uff0c\u96d6\u7136\u90e8\u5206\u5019\u9078\u80a1\u6280\u8853\u6307\u6a19\u6578\u5b57\u66f4\u9ad8\uff0c\u4f46RSI\u8d85\u904e70\u610f\u5473\u8457\u77ed\u671f\u98a8\u96aa\u4e0a\u5347\uff0c\u53cd\u800c\u964d\u4f4e\u4e86\u5438\u5f15\u529b\u3002"
     }
   }
 }
