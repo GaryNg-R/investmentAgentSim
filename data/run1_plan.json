@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-05-06T14:01:40.478642+00:00",
+  "saved_at": "2026-05-06T15:01:24.295267+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NVDA",
-        "conviction": "high",
-        "reasoning": "Score 100 with RSI 63.6 in the ideal 55-70 bullish zone, confirmed MACD crossover, and volume surge \u2014 semiconductor leadership in a risk-on tech rally makes this the strongest quality momentum play today."
-      },
-      {
-        "action": "BUY",
         "ticker": "JOBY",
-        "conviction": "medium",
-        "reasoning": "Score 100 with RSI 69.0 just below overbought, rising MACD histogram, and 1.5x volume surge \u2014 low share price allows a meaningful position with remaining cash."
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 69.1 sitting in the bullish momentum zone (not overbought), MACD bullish crossover with rising histogram, and price above SMA-20 \u2014 cleanest entry signal on today's screener in a strong risk-on session."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Risk-on session with NASDAQ +1.1% and S&P +0.9% gives a green light to deploy the remaining $598 in cash across two of the five open slots. NVDA is the highest-conviction pick: score 100, RSI in the sweet spot, and semiconductor leadership on a strong tape. JOBY is a secondary speculative play with equally clean technicals and low enough price to build a real position. All three score-100 names (NVDA, JOBY, HL) have RSI in the healthy 55-70 zone rather than overbought territory, which is the ideal entry profile.",
+    "briefing": "Strong risk-on session with NASDAQ +1.4% and S&P 500 +1.2% lifting the broad market. With 5 open slots and $598.59 cash above the threshold, I'm deploying into JOBY \u2014 it shares the top score of 95 with NVDA and MARA but stands out because its RSI of 69.1 sits in the healthy momentum zone rather than overbought territory, giving a cleaner risk/reward entry. Existing positions are held; automated stops manage downside from here.",
     "market_education": {
-      "summary_en": "U.S. equities advanced broadly today in a risk-on session, with the NASDAQ gaining 1.1% and the S&P 500 up 0.9%, as improving sentiment around U.S.-China trade negotiations reduced near-term macro uncertainty. Semiconductor and growth names led the charge, with high-volume breakouts across the screener reflecting institutional participation rather than retail-driven speculation. The synchronized strength across sectors \u2014 from tech (NVDA) to industrials to miners \u2014 suggests a broad re-rating of risk assets as recession fears ease.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5448\u73fe\u5168\u9762\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.1%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u53470.9%\u3002\u5e02\u5834\u60c5\u7dd2\u53d7\u60e0\u65bc\u7f8e\u4e2d\u8cbf\u6613\u8ac7\u5224\u9032\u5c55\uff0c\u77ed\u671f\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u6709\u6240\u964d\u4f4e\u3002\u534a\u5c0e\u9ad4\u53ca\u6210\u9577\u985e\u80a1\u9818\u6f32\uff0c\u7be9\u9078\u5668\u4e2d\u591a\u6a94\u500b\u80a1\u51fa\u73fe\u9ad8\u6210\u4ea4\u91cf\u7a81\u7834\uff0c\u986f\u793a\u70ba\u6a5f\u69cb\u8cc7\u91d1\u4e3b\u5c0e\u800c\u975e\u6563\u6236\u7092\u4f5c\u3002\u79d1\u6280\uff08\u8f1d\u9054\uff09\u3001\u5de5\u696d\u81f3\u7926\u696d\u677f\u584a\u540c\u6b65\u8d70\u5f37\uff0c\u53cd\u6620\u5e02\u5834\u6b63\u5c0d\u98a8\u96aa\u8cc7\u7522\u9032\u884c\u5ee3\u6cdb\u91cd\u65b0\u5b9a\u50f9\uff0c\u8870\u9000\u6182\u616e\u9010\u6b65\u6d88\u6563\u3002",
+      "summary_en": "Markets staged a broad risk-on rally today with the S&P 500 gaining 1.2% and the NASDAQ surging 1.4%, fueled by continued optimism around U.S.-China trade negotiations and resilient corporate earnings from major technology companies. Investor sentiment shifted decisively toward growth and momentum names, with semiconductors, crypto miners, and high-beta sectors leading the advance. The wide participation across sectors \u2014 reflected in the large number of stocks hitting overbought RSI levels on today's screener \u2014 points to genuine breadth rather than a narrow leadership rally.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u4e0a\u6f32\uff0c\u6a19\u666e500\u6307\u6578\u53471.2%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53471.4%\uff0c\u4e3b\u8981\u53d7\u60e0\u65bc\u4e2d\u7f8e\u8cbf\u6613\u8ac7\u5224\u6301\u7e8c\u50b3\u51fa\u6b63\u9762\u8a0a\u865f\uff0c\u4ee5\u53ca\u5927\u578b\u79d1\u6280\u80a1\u8ca1\u5831\u8868\u73fe\u512a\u65bc\u9810\u671f\u3002\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u6539\u5584\uff0c\u8cc7\u91d1\u7a4d\u6975\u6d41\u5165\u6210\u9577\u578b\u53ca\u9ad8\u8c9d\u4ed6\u985e\u80a1\uff0c\u5e36\u52d5\u534a\u5c0e\u9ad4\u3001\u52a0\u5bc6\u7926\u696d\u53ca\u9ad8\u52d5\u80fd\u677f\u584a\u9818\u6f32\u3002\u4eca\u65e5\u7be9\u9078\u540d\u55ae\u4e2d\u5927\u91cf\u500b\u80a1RSI\u8d85\u8cb7\uff0c\u5370\u8b49\u672c\u8f2a\u5347\u5e02\u5177\u5099\u5ee3\u6cdb\u5e02\u5834\u53c3\u8207\u5ea6\uff0c\u800c\u975e\u50c5\u9760\u5c11\u6578\u9f8d\u982d\u80a1\u6490\u76e4\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Bullish Zone (55\u201370)",
-      "explanation_en": "The Relative Strength Index (RSI) measures buying and selling pressure on a scale of 0\u2013100. The 55\u201370 range is the momentum investor's sweet spot: the stock has strong upward pressure (above the neutral 50 line) but isn't yet overbought (above 70), meaning there's still room to run before a mean-reversion pullback becomes likely. Today's top picks \u2014 NVDA at RSI 63.6 and JOBY at RSI 69.0 \u2014 sit squarely in this zone, which is why they rank higher than higher-RSI stocks like FLEX (95.6) or AMD (85.8) despite similar MACD signals.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u7684\u6578\u503c\u8861\u91cf\u5e02\u5834\u7684\u8cb7\u8ce3\u529b\u9053\u300255\u81f370\u7684\u5340\u9593\u88ab\u8996\u70ba\u52d5\u80fd\u6295\u8cc7\u8005\u7684\u300c\u6700\u4f73\u5165\u5834\u5e36\u300d\uff1a\u80a1\u50f9\u5df2\u7a81\u7834\u4e2d\u6027\u503c50\uff0c\u53cd\u6620\u5f37\u52c1\u8cb7\u76e4\uff1b\u4f46\u5c1a\u672a\u8d85\u904e70\u7684\u8d85\u8cb7\u6c34\u5e73\uff0c\u4ee3\u8868\u4ecd\u6709\u4e0a\u6f32\u7a7a\u9593\uff0c\u5747\u503c\u56de\u6b78\u7684\u62c9\u56de\u98a8\u96aa\u4e5f\u76f8\u5c0d\u8f03\u4f4e\u3002\u4eca\u65e5\u9996\u9078\u7684\u8f1d\u9054\uff08RSI 63.6\uff09\u548cJOBY\uff08RSI 69.0\uff09\u5747\u843d\u5728\u6b64\u5340\u9593\uff0c\u6b63\u56e0\u5982\u6b64\uff0c\u5118\u7ba1FLEX\uff08RSI 95.6\uff09\u6216AMD\uff08RSI 85.8\uff09\u7684MACD\u4fe1\u865f\u540c\u6a23\u5f37\u52c1\uff0c\u5b83\u5011\u7684\u5165\u5834\u8a55\u7d1a\u53cd\u800c\u66f4\u4f4e\u3002"
+      "term": "RSI Momentum Zone vs. Overbought",
+      "explanation_en": "The Relative Strength Index (RSI) measures how quickly a stock has been rising or falling, on a scale of 0\u2013100. Readings between 55\u201370 are the 'momentum zone' \u2014 strong upward pressure exists but the move hasn't gotten overextended. Above 70 signals 'overbought,' meaning the stock may have moved too far too fast and a pullback becomes more likely. Today JOBY was favored over higher-scoring RSI peers precisely because its RSI of 69.1 sits in this healthier zone, while many other candidates showed RSI above 80.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u8861\u91cf\u80a1\u7968\u6f32\u8dcc\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u70ba\u300c\u52d5\u80fd\u5340\u9593\u300d\uff0c\u4ee3\u8868\u4e0a\u884c\u52d5\u529b\u5f37\u52c1\u4f46\u5c1a\u672a\u904e\u71b1\u3002RSI\u8d85\u904e70\u5247\u9032\u5165\u300c\u8d85\u8cb7\u300d\u72c0\u614b\uff0c\u610f\u5473\u80a1\u50f9\u77ed\u671f\u6f32\u5e45\u904e\u5927\uff0c\u56de\u8abf\u98a8\u96aa\u76f8\u61c9\u4e0a\u5347\u3002\u4eca\u65e5\u512a\u5148\u9078\u5165JOBY\uff0c\u6b63\u662f\u56e0\u70ba\u5176RSI 69.1\u4ecd\u8655\u65bc\u5065\u5eb7\u52d5\u80fd\u5340\u9593\uff0c\u800c\u540d\u55ae\u4e2d\u8a31\u591aRSI\u8d85\u904e80\u7684\u5019\u9078\u80a1\u5df2\u986f\u73fe\u904e\u71b1\u8b66\u8a0a\uff0c\u5165\u5834\u98a8\u96aa\u76f8\u5c0d\u8f03\u9ad8\u3002"
     }
   }
 }
