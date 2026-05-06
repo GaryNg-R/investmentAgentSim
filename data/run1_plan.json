@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-05-06T13:01:16.530736+00:00",
+  "saved_at": "2026-05-06T14:01:40.478642+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "QCOM",
+        "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "Score 100 with a perfect technical setup \u2014 RSI in the bullish momentum zone (not overbought), MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge confirming institutional participation; best use of available cash in a risk-on environment."
+        "reasoning": "Score 100 with RSI 63.6 in the ideal 55-70 bullish zone, confirmed MACD crossover, and volume surge \u2014 semiconductor leadership in a risk-on tech rally makes this the strongest quality momentum play today."
+      },
+      {
+        "action": "BUY",
+        "ticker": "JOBY",
+        "conviction": "medium",
+        "reasoning": "Score 100 with RSI 69.0 just below overbought, rising MACD histogram, and 1.5x volume surge \u2014 low share price allows a meaningful position with remaining cash."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on today with the S&P 500 up 0.8% and NASDAQ up 1.0%, providing a favourable backdrop for momentum positions. With 5 open slots but only ~$598 in cash, deploying into QCOM \u2014 the top-ranked candidate with a clean, unambiguous technical setup and volume confirmation \u2014 is the highest-conviction move. Existing positions in QQQ, EAT, XMTR, OLED, and AMZN are held pending their own stop-loss or profit-target triggers.",
+    "briefing": "Risk-on session with NASDAQ +1.1% and S&P +0.9% gives a green light to deploy the remaining $598 in cash across two of the five open slots. NVDA is the highest-conviction pick: score 100, RSI in the sweet spot, and semiconductor leadership on a strong tape. JOBY is a secondary speculative play with equally clean technicals and low enough price to build a real position. All three score-100 names (NVDA, JOBY, HL) have RSI in the healthy 55-70 zone rather than overbought territory, which is the ideal entry profile.",
     "market_education": {
-      "summary_en": "U.S. equities rallied broadly on May 6, 2026, with the NASDAQ leading gains at +1.0% and the S&P 500 close behind at +0.8%, reflecting a broad risk-on tone as investors rotated back into growth and technology shares. Semiconductor names led the charge, with momentum screeners lighting up for QCOM and ENPH on high volume, suggesting institutional accumulation. The risk-on signal indicates that market participants are comfortable taking on equity exposure rather than retreating to defensives or cash.",
-      "summary_zh": "2026\u5e745\u67086\u65e5\uff0c\u7f8e\u570b\u80a1\u5e02\u5168\u9762\u4e0a\u6f32\uff0c\u90a3\u65af\u9054\u514b\u9818\u6f321.0%\uff0c\u6a19\u666e500\u7dca\u96a8\u5176\u5f8c\u4e0a\u53470.8%\uff0c\u6574\u9ad4\u5e02\u5834\u5448\u73fe\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08risk-on\uff09\u683c\u5c40\uff0c\u8cc7\u91d1\u7a4d\u6975\u8f2a\u5165\u6210\u9577\u80a1\u8207\u79d1\u6280\u677f\u584a\u3002\u534a\u5c0e\u9ad4\u985e\u80a1\u8868\u73fe\u7a81\u51fa\uff0c\u9ad8\u901a\uff08QCOM\uff09\u53caEnphase\uff08ENPH\uff09\u5747\u51fa\u73fe\u5927\u5e45\u653e\u91cf\u4e0a\u6f32\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u5728\u7a4d\u6975\u5efa\u5009\u3002\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u5347\u6eab\uff0c\u53cd\u6620\u5e02\u5834\u53c3\u8207\u8005\u9858\u610f\u627f\u64d4\u66f4\u591a\u80a1\u7968\u5009\u4f4d\uff0c\u800c\u975e\u8f49\u5411\u9632\u79a6\u6027\u8cc7\u7522\u6216\u73fe\u91d1\u3002",
+      "summary_en": "U.S. equities advanced broadly today in a risk-on session, with the NASDAQ gaining 1.1% and the S&P 500 up 0.9%, as improving sentiment around U.S.-China trade negotiations reduced near-term macro uncertainty. Semiconductor and growth names led the charge, with high-volume breakouts across the screener reflecting institutional participation rather than retail-driven speculation. The synchronized strength across sectors \u2014 from tech (NVDA) to industrials to miners \u2014 suggests a broad re-rating of risk assets as recession fears ease.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5448\u73fe\u5168\u9762\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.1%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u53470.9%\u3002\u5e02\u5834\u60c5\u7dd2\u53d7\u60e0\u65bc\u7f8e\u4e2d\u8cbf\u6613\u8ac7\u5224\u9032\u5c55\uff0c\u77ed\u671f\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u6709\u6240\u964d\u4f4e\u3002\u534a\u5c0e\u9ad4\u53ca\u6210\u9577\u985e\u80a1\u9818\u6f32\uff0c\u7be9\u9078\u5668\u4e2d\u591a\u6a94\u500b\u80a1\u51fa\u73fe\u9ad8\u6210\u4ea4\u91cf\u7a81\u7834\uff0c\u986f\u793a\u70ba\u6a5f\u69cb\u8cc7\u91d1\u4e3b\u5c0e\u800c\u975e\u6563\u6236\u7092\u4f5c\u3002\u79d1\u6280\uff08\u8f1d\u9054\uff09\u3001\u5de5\u696d\u81f3\u7926\u696d\u677f\u584a\u540c\u6b65\u8d70\u5f37\uff0c\u53cd\u6620\u5e02\u5834\u6b63\u5c0d\u98a8\u96aa\u8cc7\u7522\u9032\u884c\u5ee3\u6cdb\u91cd\u65b0\u5b9a\u50f9\uff0c\u8870\u9000\u6182\u616e\u9010\u6b65\u6d88\u6563\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that bets on stocks already moving up continuing to rise, based on the idea that price trends persist over the short to medium term. Traders look for signals like RSI in a bullish zone, a rising MACD histogram, and price above its moving average \u2014 exactly what QCOM shows today. The risk is that momentum can reverse sharply, which is why stop-losses are essential when using this approach.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u4e00\u7a2e\u8ffd\u6f32\u7b56\u7565\uff0c\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u5df2\u5728\u4e0a\u6f32\u7684\u80a1\u7968\u5f80\u5f80\u6703\u5728\u77ed\u81f3\u4e2d\u671f\u5167\u5ef6\u7e8c\u5347\u52e2\u3002\u4ea4\u6613\u8005\u901a\u5e38\u5c0b\u627eRSI\u8655\u65bc\u591a\u982d\u52d5\u80fd\u5340\u9593\u3001MACD\u67f1\u72c0\u5716\u6301\u7e8c\u8d70\u9ad8\u3001\u80a1\u50f9\u7ad9\u7a69\u5747\u7dda\u4e4b\u4e0a\u7b49\u6280\u8853\u4fe1\u865f\uff0c\u4eca\u65e5\u9ad8\u901a\uff08QCOM\uff09\u6b63\u662f\u5178\u578b\u7bc4\u4f8b\u3002\u9019\u7a2e\u7b56\u7565\u7684\u4e3b\u8981\u98a8\u96aa\u5728\u65bc\u52d5\u80fd\u53ef\u80fd\u6025\u901f\u53cd\u8f49\uff0c\u56e0\u6b64\u8a2d\u7f6e\u6b62\u640d\u55ae\u662f\u4fdd\u8b77\u8cc7\u672c\u7684\u95dc\u9375\u3002"
+      "term": "RSI Bullish Zone (55\u201370)",
+      "explanation_en": "The Relative Strength Index (RSI) measures buying and selling pressure on a scale of 0\u2013100. The 55\u201370 range is the momentum investor's sweet spot: the stock has strong upward pressure (above the neutral 50 line) but isn't yet overbought (above 70), meaning there's still room to run before a mean-reversion pullback becomes likely. Today's top picks \u2014 NVDA at RSI 63.6 and JOBY at RSI 69.0 \u2014 sit squarely in this zone, which is why they rank higher than higher-RSI stocks like FLEX (95.6) or AMD (85.8) despite similar MACD signals.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u7684\u6578\u503c\u8861\u91cf\u5e02\u5834\u7684\u8cb7\u8ce3\u529b\u9053\u300255\u81f370\u7684\u5340\u9593\u88ab\u8996\u70ba\u52d5\u80fd\u6295\u8cc7\u8005\u7684\u300c\u6700\u4f73\u5165\u5834\u5e36\u300d\uff1a\u80a1\u50f9\u5df2\u7a81\u7834\u4e2d\u6027\u503c50\uff0c\u53cd\u6620\u5f37\u52c1\u8cb7\u76e4\uff1b\u4f46\u5c1a\u672a\u8d85\u904e70\u7684\u8d85\u8cb7\u6c34\u5e73\uff0c\u4ee3\u8868\u4ecd\u6709\u4e0a\u6f32\u7a7a\u9593\uff0c\u5747\u503c\u56de\u6b78\u7684\u62c9\u56de\u98a8\u96aa\u4e5f\u76f8\u5c0d\u8f03\u4f4e\u3002\u4eca\u65e5\u9996\u9078\u7684\u8f1d\u9054\uff08RSI 63.6\uff09\u548cJOBY\uff08RSI 69.0\uff09\u5747\u843d\u5728\u6b64\u5340\u9593\uff0c\u6b63\u56e0\u5982\u6b64\uff0c\u5118\u7ba1FLEX\uff08RSI 95.6\uff09\u6216AMD\uff08RSI 85.8\uff09\u7684MACD\u4fe1\u865f\u540c\u6a23\u5f37\u52c1\uff0c\u5b83\u5011\u7684\u5165\u5834\u8a55\u7d1a\u53cd\u800c\u66f4\u4f4e\u3002"
     }
   }
 }
