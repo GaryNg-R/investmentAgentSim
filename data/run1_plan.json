@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-05-06T17:01:21.253944+00:00",
+  "saved_at": "2026-05-06T18:01:04.428590+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "LIVN",
+        "ticker": "TSLA",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 69.7 sitting in the ideal bullish momentum zone (55\u201370) \u2014 not overbought \u2014 MACD bullish crossover and price well above SMA-20 makes this the cleanest setup on today's screener."
+        "reasoning": "Highest score (95) with RSI 62.4 in the ideal bullish momentum zone \u2014 not overbought \u2014 with MACD crossover and rising histogram confirming accelerating upside in a risk-on session."
       },
       {
         "action": "BUY",
         "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "Score 95, RSI 61.9 in the ideal momentum zone, MACD bullish crossover \u2014 AI semiconductor structural demand remains strong and this is a risk-on day tailor-made for high-quality growth names."
+        "reasoning": "Score 90 with RSI 63.6 in the bullish zone (not overbought), MACD bullish crossover, and price well above SMA-20 \u2014 semiconductor/AI leadership makes this a strong risk-on addition."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on with NASDAQ +1.4% and S&P 500 +1.0%, making this a good day to put cash to work. I'm adding LIVN and NVDA \u2014 both score 95 and have RSIs in the 55\u201370 sweet spot, avoiding the overbought crowd (FLYW, HUT, AMD all sitting 80\u201393 RSI) where reversal risk is elevated. With 5 open slots and cash above $500, deploying into quality momentum names is the right call.",
+    "briefing": "Markets are clearly risk-on today with NASDAQ up 1.6% and S&P 500 up 1.2%, favouring growth and tech. With 5 open slots and $598 in cash, I'm deploying into TSLA and NVDA \u2014 the only two top candidates with RSIs still in the healthy bullish zone (60\u201365) rather than deeply overbought territory above 80. The rest of the screener is crowded with RSI readings above 80, which signals late-stage momentum and elevated mean-reversion risk; TSLA and NVDA offer the best reward-to-risk on this list right now.",
     "market_education": {
-      "summary_en": "U.S. equities posted broad gains in a risk-on session as investor sentiment improved on easing trade tensions and resilient corporate earnings momentum. Technology led the advance, with the NASDAQ outperforming on continued AI infrastructure enthusiasm spanning semiconductors and cloud. The S&P 500 added 1.0% as traders rotated into growth names, reflecting renewed confidence in the economic soft-landing narrative.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5168\u9762\u4e0a\u63da\uff0c\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u986f\u8457\u6539\u5584\uff0c\u539f\u56e0\u5728\u65bc\u5168\u7403\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u6709\u6240\u8212\u7de9\uff0c\u52a0\u4e0a\u4f01\u696d\u76c8\u5229\u52d5\u80fd\u7dad\u6301\u7a69\u5065\u3002\u79d1\u6280\u677f\u584a\u9818\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u8dd1\u8d0f\u5927\u5e02\uff0c\u5e02\u5834\u5c0d\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u5efa\u8a2d\u2014\u2014\u6db5\u84cb\u534a\u5c0e\u9ad4\u53ca\u96f2\u7aef\u904b\u7b97\u2014\u2014\u7684\u71b1\u60c5\u6301\u7e8c\u5347\u6eab\u3002\u6a19\u666e500\u6307\u6578\u4e0a\u6f321.0%\uff0c\u6295\u8cc7\u8005\u7a4d\u6975\u589e\u6301\u6210\u9577\u578b\u80a1\u7968\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u7d93\u6fdf\u300c\u8edf\u8457\u9678\u300d\u60c5\u5883\u7684\u4fe1\u5fc3\u6709\u6240\u56de\u5347\u3002",
+      "summary_en": "U.S. equities rallied broadly today, with the NASDAQ leading at +1.6% and the S&P 500 gaining +1.2%, reflecting a clear risk-on mood among investors. Technology and growth names drove the advance as market participants rotated into higher-beta assets, consistent with improving macro sentiment around trade negotiations and resilient corporate earnings. The breadth of the rally \u2014 spanning semiconductors, EVs, and speculative small-caps \u2014 signals that institutional money is actively putting cash to work rather than sitting on the sidelines.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u53cd\u5f48\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u9818\u6f321.6%\uff0c\u6a19\u666e500\u4ea6\u4e0a\u63da1.2%\uff0c\u5e02\u5834\u5448\u73fe\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u3002\u79d1\u6280\u8207\u6210\u9577\u80a1\u5e36\u982d\u4e0a\u653b\uff0c\u53cd\u6620\u6295\u8cc7\u4eba\u5c0d\u8cbf\u6613\u8ac7\u5224\u9032\u5c55\u53ca\u4f01\u696d\u76c8\u5229\u524d\u666f\u7684\u6a02\u89c0\u9810\u671f\uff0c\u8cc7\u91d1\u7a4d\u6975\u5f9e\u9632\u79a6\u6027\u8cc7\u7522\u8f49\u5411\u9ad8\u8c9d\u5854\u503c\u6a19\u7684\u3002\u534a\u5c0e\u9ad4\u3001\u96fb\u52d5\u8eca\u53ca\u5c0f\u578b\u6295\u6a5f\u80a1\u5168\u7dda\u8d70\u5f37\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u7a4d\u6975\u90e8\u7f72\uff0c\u800c\u975e\u6309\u5175\u4e0d\u52d5\u89c0\u671b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures the speed of a stock's price moves on a 0\u2013100 scale. The 55\u201370 range is considered the 'momentum sweet spot': the stock is trending strongly upward but hasn't yet entered overbought territory where reversals become likely. Today's picks, LIVN (RSI 69.7) and NVDA (RSI 61.9), were chosen over screener names with RSIs of 80\u201393 precisely because extreme RSI readings often precede sharp pullbacks.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u7684\u523b\u5ea6\u8861\u91cf\u80a1\u50f9\u6ce2\u52d5\u7684\u901f\u5ea6\u300255\u81f370\u7684\u5340\u9593\u88ab\u8996\u70ba\u300c\u52d5\u91cf\u751c\u871c\u9ede\u300d\uff1a\u80a1\u50f9\u5448\u73fe\u5f37\u52e2\u4e0a\u884c\u8da8\u52e2\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u5bb9\u6613\u5f15\u767c\u53cd\u8f49\u7684\u8d85\u8cb7\u5340\u57df\u3002\u4eca\u65e5\u9078\u5165\u7684LIVN\uff08RSI 69.7\uff09\u8207NVDA\uff08RSI 61.9\uff09\uff0c\u6b63\u662f\u5728\u773e\u591aRSI\u9ad8\u905480\u81f393\u7684\u500b\u80a1\u4e2d\u812b\u7a4e\u800c\u51fa\uff0c\u539f\u56e0\u662f\u904e\u9ad8\u7684RSI\u8b80\u6578\u5f80\u5f80\u9810\u793a\u6025\u5287\u56de\u8abf\u5373\u5c07\u5230\u4f86\u3002"
+      "term": "RSI Overbought vs. Momentum Zone",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast and how much a stock has moved recently, on a scale of 0 to 100. A reading between 55\u201370 is considered a 'bullish momentum zone' \u2014 the stock is trending up but still has room to run. Above 70 (and especially above 80) signals 'overbought' conditions, meaning the move may be exhausted and a pullback is likely. Today, most screener candidates had RSIs above 80, making TSLA (62.4) and NVDA (63.6) the standout picks \u2014 strong momentum without the snap-back risk.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u8fd1\u671f\u6f32\u8dcc\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002RSI\u843d\u572855\u81f370\u4e4b\u9593\u70ba\u300c\u5f37\u52e2\u52d5\u80fd\u5340\u9593\u300d\uff0c\u4ee3\u8868\u80a1\u50f9\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u4e14\u4ecd\u6709\u4e0a\u6f32\u7a7a\u9593\u3002\u4e00\u65e6\u8d85\u904e70\uff08\u5c24\u5176\u662f80\u4ee5\u4e0a\uff09\uff0c\u5247\u9032\u5165\u300c\u8d85\u8cb7\u5340\u9593\u300d\uff0c\u610f\u5473\u8457\u6f32\u52e2\u53ef\u80fd\u904e\u71b1\uff0c\u56de\u8abf\u98a8\u96aa\u5347\u9ad8\u3002\u4eca\u65e5\u5927\u591a\u6578\u5019\u9078\u80a1RSI\u5747\u8d85\u904e80\uff0c\u56e0\u6b64RSI\u5206\u5225\u70ba62.4\u7684\u7279\u65af\u62c9\u820763.6\u7684\u8f1d\u9054\u6210\u70ba\u6700\u4f73\u5207\u5165\u9ede\u2014\u2014\u517c\u5177\u4e0a\u6f32\u52d5\u80fd\uff0c\u53c8\u4e0d\u5e36\u8d85\u8cb7\u5f8c\u7684\u6025\u8dcc\u98a8\u96aa\u3002"
     }
   }
 }
