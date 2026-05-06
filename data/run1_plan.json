@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-05-06T15:01:24.295267+00:00",
+  "saved_at": "2026-05-06T16:01:08.538333+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "JOBY",
+        "ticker": "LIVN",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 69.1 sitting in the bullish momentum zone (not overbought), MACD bullish crossover with rising histogram, and price above SMA-20 \u2014 cleanest entry signal on today's screener in a strong risk-on session."
+        "reasoning": "Top-scored candidate (95) with RSI 67 firmly in the bullish momentum zone \u2014 not overbought \u2014 MACD crossover confirmed and price extended above SMA-20; ideal entry in a risk-on session."
+      },
+      {
+        "action": "BUY",
+        "ticker": "NVDA",
+        "conviction": "high",
+        "reasoning": "Second top scorer (95) with RSI 61.8 in clean bullish zone, rising MACD histogram, and AI/semiconductor tailwind on a NASDAQ +1.5% day; strong risk-reward setup."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Strong risk-on session with NASDAQ +1.4% and S&P 500 +1.2% lifting the broad market. With 5 open slots and $598.59 cash above the threshold, I'm deploying into JOBY \u2014 it shares the top score of 95 with NVDA and MARA but stands out because its RSI of 69.1 sits in the healthy momentum zone rather than overbought territory, giving a cleaner risk/reward entry. Existing positions are held; automated stops manage downside from here.",
+    "briefing": "Markets are firmly risk-on today with NASDAQ up 1.5% and S&P 500 up 1.1%, creating a favorable backdrop to deploy the remaining $598 in idle cash. LIVN and NVDA are the only two top-scored candidates whose RSI sits in the optimal 55\u201370 bullish momentum zone rather than overbought territory \u2014 making them the highest-quality entries available. Existing positions in QQQ, AMZN, EAT, XMTR, and OLED are held as none are near stop-loss triggers.",
     "market_education": {
-      "summary_en": "Markets staged a broad risk-on rally today with the S&P 500 gaining 1.2% and the NASDAQ surging 1.4%, fueled by continued optimism around U.S.-China trade negotiations and resilient corporate earnings from major technology companies. Investor sentiment shifted decisively toward growth and momentum names, with semiconductors, crypto miners, and high-beta sectors leading the advance. The wide participation across sectors \u2014 reflected in the large number of stocks hitting overbought RSI levels on today's screener \u2014 points to genuine breadth rather than a narrow leadership rally.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u4e0a\u6f32\uff0c\u6a19\u666e500\u6307\u6578\u53471.2%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53471.4%\uff0c\u4e3b\u8981\u53d7\u60e0\u65bc\u4e2d\u7f8e\u8cbf\u6613\u8ac7\u5224\u6301\u7e8c\u50b3\u51fa\u6b63\u9762\u8a0a\u865f\uff0c\u4ee5\u53ca\u5927\u578b\u79d1\u6280\u80a1\u8ca1\u5831\u8868\u73fe\u512a\u65bc\u9810\u671f\u3002\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u6539\u5584\uff0c\u8cc7\u91d1\u7a4d\u6975\u6d41\u5165\u6210\u9577\u578b\u53ca\u9ad8\u8c9d\u4ed6\u985e\u80a1\uff0c\u5e36\u52d5\u534a\u5c0e\u9ad4\u3001\u52a0\u5bc6\u7926\u696d\u53ca\u9ad8\u52d5\u80fd\u677f\u584a\u9818\u6f32\u3002\u4eca\u65e5\u7be9\u9078\u540d\u55ae\u4e2d\u5927\u91cf\u500b\u80a1RSI\u8d85\u8cb7\uff0c\u5370\u8b49\u672c\u8f2a\u5347\u5e02\u5177\u5099\u5ee3\u6cdb\u5e02\u5834\u53c3\u8207\u5ea6\uff0c\u800c\u975e\u50c5\u9760\u5c11\u6578\u9f8d\u982d\u80a1\u6490\u76e4\u3002",
+      "summary_en": "Equities rallied broadly today as investor sentiment shifted decisively toward risk assets, with the NASDAQ outperforming the S&P 500. Strength was concentrated in technology and growth names, consistent with a market pricing in resilient corporate earnings and easing recession fears. The breadth of the rally \u2014 spanning semiconductors, consumer discretionary, and industrials \u2014 suggests institutional rotation back into equities rather than a narrow short squeeze.",
+      "summary_zh": "\u4eca\u65e5\u80a1\u5e02\u5168\u9762\u8d70\u5f37\uff0c\u6295\u8cc7\u8005\u60c5\u7dd2\u660e\u986f\u8f49\u5411\u98a8\u96aa\u8cc7\u7522\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8868\u73fe\u512a\u65bc\u6a19\u666e500\u3002\u79d1\u6280\u8207\u6210\u9577\u80a1\u9818\u6f32\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u4f01\u696d\u76c8\u5229\u97cc\u6027\u53ca\u8870\u9000\u6182\u616e\u7de9\u89e3\u7684\u5b9a\u50f9\u3002\u6b64\u6b21\u6f32\u5e45\u6a6b\u8de8\u534a\u5c0e\u9ad4\u3001\u975e\u5fc5\u9700\u6d88\u8cbb\u53ca\u5de5\u696d\u677f\u584a\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u91cd\u65b0\u4f48\u5c40\u80a1\u7968\uff0c\u800c\u975e\u55ae\u7d14\u7684\u8ecb\u7a7a\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone vs. Overbought",
-      "explanation_en": "The Relative Strength Index (RSI) measures how quickly a stock has been rising or falling, on a scale of 0\u2013100. Readings between 55\u201370 are the 'momentum zone' \u2014 strong upward pressure exists but the move hasn't gotten overextended. Above 70 signals 'overbought,' meaning the stock may have moved too far too fast and a pullback becomes more likely. Today JOBY was favored over higher-scoring RSI peers precisely because its RSI of 69.1 sits in this healthier zone, while many other candidates showed RSI above 80.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u8861\u91cf\u80a1\u7968\u6f32\u8dcc\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u70ba\u300c\u52d5\u80fd\u5340\u9593\u300d\uff0c\u4ee3\u8868\u4e0a\u884c\u52d5\u529b\u5f37\u52c1\u4f46\u5c1a\u672a\u904e\u71b1\u3002RSI\u8d85\u904e70\u5247\u9032\u5165\u300c\u8d85\u8cb7\u300d\u72c0\u614b\uff0c\u610f\u5473\u80a1\u50f9\u77ed\u671f\u6f32\u5e45\u904e\u5927\uff0c\u56de\u8abf\u98a8\u96aa\u76f8\u61c9\u4e0a\u5347\u3002\u4eca\u65e5\u512a\u5148\u9078\u5165JOBY\uff0c\u6b63\u662f\u56e0\u70ba\u5176RSI 69.1\u4ecd\u8655\u65bc\u5065\u5eb7\u52d5\u80fd\u5340\u9593\uff0c\u800c\u540d\u55ae\u4e2d\u8a31\u591aRSI\u8d85\u904e80\u7684\u5019\u9078\u80a1\u5df2\u986f\u73fe\u904e\u71b1\u8b66\u8a0a\uff0c\u5165\u5834\u98a8\u96aa\u76f8\u5c0d\u8f03\u9ad8\u3002"
+      "term": "Risk-On Sentiment",
+      "explanation_en": "Risk-on is a market environment where investors feel confident enough to move money into higher-risk, higher-reward assets like growth stocks and small caps, rather than safe havens like bonds or gold. Today's broad rally \u2014 led by the NASDAQ \u2014 is a classic risk-on signal. As a portfolio manager, risk-on days are when you want your cash deployed in high-momentum candidates, not sitting idle.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u9858\u610f\u5c07\u8cc7\u91d1\u5f9e\u50b5\u5238\u3001\u9ec3\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u8f49\u79fb\u81f3\u6210\u9577\u80a1\u6216\u5c0f\u578b\u80a1\u7b49\u9ad8\u98a8\u96aa\u9ad8\u56de\u5831\u8cc7\u7522\u7684\u5e02\u5834\u74b0\u5883\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u9818\u6f32\u7684\u5168\u9762\u4e0a\u63da\uff0c\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u3002\u5c0d\u65bc\u6295\u8cc7\u7d44\u5408\u7ba1\u7406\u8005\u800c\u8a00\uff0c\u98a8\u96aa\u504f\u597d\u65e5\u6b63\u662f\u5c07\u9592\u7f6e\u73fe\u91d1\u90e8\u7f72\u81f3\u9ad8\u52d5\u80fd\u6a19\u7684\u7684\u6700\u4f73\u6642\u6a5f\u3002"
     }
   }
 }
