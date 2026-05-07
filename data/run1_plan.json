@@ -1,38 +1,32 @@
 {
-  "saved_at": "2026-05-07T14:01:24.146236+00:00",
+  "saved_at": "2026-05-07T15:01:15.347763+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "XMTR",
-        "shares": 41,
-        "reasoning": "Up +50.6% from avg cost of $50.44 \u2014 far exceeds the +12% profit target, and RSI at 90.7 is extremely overbought; locking in gains before reversal."
+        "action": "BUY",
+        "ticker": "SNAP",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 56.7 in the sweet bullish momentum zone (not overbought), confirmed MACD crossover and rising histogram \u2014 cleanest technical setup on the board at a low per-share price."
       },
       {
         "action": "BUY",
-        "ticker": "PTON",
+        "ticker": "PLTR",
         "conviction": "high",
-        "reasoning": "Top screener score of 100 with RSI at 59.9 \u2014 the only candidate in the ideal bullish momentum zone (55\u201370) without being overbought, with MACD crossover and volume surge confirming the move."
-      },
-      {
-        "action": "BUY",
-        "ticker": "IONQ",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 64.9 \u2014 second-cleanest setup on the screener, RSI in healthy bullish range, MACD crossover confirmed, and volume surge supporting the breakout above SMA-20."
+        "reasoning": "Score 95 with RSI 55.4 in the bullish zone, MACD crossover with rising histogram, and price holding above SMA-20 \u2014 strong AI/data-platform tailwinds make this the highest-quality name among top-ranked candidates."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today \u2014 NASDAQ barely positive and S&P 500 unchanged \u2014 signaling a pause after recent momentum. XMTR has run 50%+ from our cost basis and its RSI just hit 90.7, making it a clear trim. We're rotating that capital into PTON and IONQ, the only two screener candidates with RSI in the healthy 55\u201370 zone rather than extreme overbought territory, giving us better risk-adjusted entries.",
+    "briefing": "Markets posted a quietly positive neutral session (NASDAQ +0.7%, S&P +0.3%) with most top candidates heavily overbought (RSI 80\u201395), making selective entry risky. SNAP and PLTR stand out as the only score-95 names with RSI still in the healthy 55\u201370 zone, so I'm deploying the remaining cash into those two while leaving the rest of the portfolio untouched \u2014 PTON continues running nicely toward its +12% target.",
     "market_education": {
-      "summary_en": "Today's session was a textbook neutral day, with the S&P 500 flat and NASDAQ up just 0.2%, reflecting a market digesting recent gains after the sharp April recovery. Traders appeared cautious ahead of upcoming economic data, keeping buying interest subdued across sectors. The lack of a directional catalyst meant most moves were rotational \u2014 momentum names held gains while laggards saw mild selling pressure.",
-      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5448\u73fe\u5178\u578b\u7684\u76e4\u6574\u683c\u5c40\uff0c\u6a19\u666e500\u5e7e\u4e4e\u6301\u5e73\uff0c\u90a3\u65af\u9054\u514b\u5fae\u53470.2%\uff0c\u5e02\u5834\u5728\u8fd1\u671f\u5f37\u52c1\u53cd\u5f48\u5f8c\u9032\u5165\u6d88\u5316\u968e\u6bb5\u3002\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u5f8c\u7e8c\u7d93\u6fdf\u6578\u64da\u516c\u5e03\u4e4b\u969b\u4fdd\u6301\u8b39\u614e\uff0c\u5404\u677f\u584a\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u76e4\u9762\u4ee5\u8cc7\u91d1\u8f2a\u52d5\u70ba\u4e3b\uff0c\u5f37\u52e2\u52d5\u80fd\u80a1\u7dad\u6301\u6f32\u52e2\uff0c\u5f31\u52e2\u500b\u80a1\u5247\u627f\u53d7\u8f15\u5fae\u8ce3\u58d3\u3002",
+      "summary_en": "U.S. equities drifted modestly higher on May 7 with tech leading as the NASDAQ gained 0.7% and the S&P 500 added 0.3%. The advance was broad but thin in participation, as many high-momentum names showed extreme RSI readings above 80, suggesting speculative rotation rather than broad fundamental buying. Investors appeared to be selectively picking up laggard momentum plays while staying cautious ahead of upcoming macro data.",
+      "summary_zh": "\u7f8e\u80a1\u65bc5\u67087\u65e5\u5c0f\u5e45\u8d70\u9ad8\uff0c\u79d1\u6280\u80a1\u9818\u6f32\uff0c\u90a3\u65af\u9054\u514b\u4e0a\u6f320.7%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u63da0.3%\u3002\u6574\u9ad4\u6f32\u52e2\u96d6\u5ee3\u6cdb\uff0c\u4f46\u53c3\u8207\u5ea6\u504f\u8584\uff0c\u591a\u96bb\u9ad8\u52d5\u80fd\u80a1\u7968RSI\u5df2\u8d85\u904e80\uff0c\u53cd\u6620\u5e02\u5834\u4ee5\u6295\u6a5f\u6027\u8f2a\u52d5\u70ba\u4e3b\uff0c\u800c\u975e\u57fa\u672c\u9762\u9a45\u52d5\u7684\u5168\u9762\u8cb7\u76e4\u3002\u6295\u8cc7\u8005\u50be\u5411\u65bc\u4f48\u5c40\u52d5\u80fd\u76f8\u5c0d\u6eef\u5f8c\u3001\u5c1a\u672a\u904e\u71b1\u7684\u500b\u80a1\uff0c\u540c\u6642\u5c0d\u5373\u5c07\u516c\u5e03\u7684\u5b8f\u89c0\u6578\u64da\u4fdd\u6301\u8b39\u614e\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Profit Target",
-      "explanation_en": "A profit target is a pre-set price level at which you plan to sell a winning position and lock in gains. Without one, it's easy to hold too long and give back profits when the stock reverses \u2014 as XMTR's RSI of 90.7 warns it might. Setting a target (we use +12%) removes emotion and enforces discipline.",
-      "explanation_zh": "\u76ee\u6a19\u7372\u5229\u50f9\uff08Profit Target\uff09\u662f\u6295\u8cc7\u8005\u9810\u5148\u8a2d\u5b9a\u7684\u51fa\u5834\u50f9\u4f4d\uff0c\u4e00\u65e6\u6301\u5009\u76c8\u5229\u9054\u5230\u8a72\u6c34\u5e73\u5373\u7372\u5229\u4e86\u7d50\u3002\u7f3a\u4e4f\u76ee\u6a19\u7372\u5229\u7684\u7d00\u5f8b\uff0c\u5bb9\u6613\u5728\u80a1\u50f9\u56de\u843d\u524d\u904e\u5ea6\u6301\u6709\u800c\u5410\u56de\u6536\u76ca\u2014\u2014\u4eca\u65e5XMTR\u7684RSI\u9ad8\u905490.7\u6b63\u662f\u6b64\u985e\u8b66\u793a\u3002\u8a2d\u5b9a\u660e\u78ba\u7684\u76ee\u6a19\u7372\u5229\uff08\u672c\u7d44\u5408\u63a1\u7528+12%\uff09\u6709\u52a9\u6392\u9664\u60c5\u7dd2\u5e72\u64fe\uff0c\u78ba\u4fdd\u4ea4\u6613\u7d00\u5f8b\u3002"
+      "term": "RSI Overbought Zone",
+      "explanation_en": "RSI (Relative Strength Index) measures how fast a stock has risen recently on a 0\u2013100 scale. When RSI climbs above 70, a stock is considered 'overbought' \u2014 it has moved up so quickly that a pullback becomes more likely. Today's screener showed a flood of stocks with RSI between 80\u201395 (HIMX, LIFE, XMTR, etc.), which is why we avoided them in favor of SNAP and PLTR whose RSI sits in the healthier 55\u201370 momentum zone.",
+      "explanation_zh": "RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u4ee50\u81f3100\u7684\u523b\u5ea6\u8861\u91cf\u80a1\u7968\u8fd1\u671f\u4e0a\u6f32\u7684\u901f\u5ea6\u3002\u7576RSI\u5347\u783470\uff0c\u4ee3\u8868\u80a1\u7968\u5df2\u9032\u5165\u300c\u8d85\u8cb7\u300d\u72c0\u614b\uff0c\u5373\u77ed\u671f\u5167\u6f32\u5e45\u904e\u5feb\uff0c\u56de\u8abf\u98a8\u96aa\u4e0a\u5347\u3002\u4eca\u65e5\u9078\u80a1\u6c60\u4e2d\uff0cHIMX\u3001LIFE\u3001XMTR\u7b49\u591a\u96bb\u80a1\u7968RSI\u4ecb\u65bc80\u81f395\u4e4b\u9593\uff0c\u56e0\u6b64\u6211\u5011\u9078\u64c7\u8ff4\u907f\uff0c\u8f49\u800c\u8cb7\u5165RSI\u4ecd\u8655\u65bc\u5065\u5eb7\u52d5\u80fd\u5340\u9593\uff0855\u81f370\uff09\u7684SNAP\u8207PLTR\uff0c\u4ee5\u63a7\u5236\u8ffd\u9ad8\u98a8\u96aa\u3002"
     }
   }
 }
