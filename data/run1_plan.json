@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-05-06T21:01:14.548394+00:00",
+  "saved_at": "2026-05-07T13:01:29.985085+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "USAS",
+        "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "Top-ranked score of 90 with RSI at 69.8 \u2014 in the ideal bullish momentum zone without being overbought \u2014 plus MACD crossover and price above SMA-20; best use of remaining cash at this price point."
+        "reasoning": "Score 90 with RSI 67.9 in the ideal bullish momentum zone (not overbought), MACD bullish crossover, and price above SMA-20 \u2014 best risk-adjusted entry on a NASDAQ-led risk-on session."
+      },
+      {
+        "action": "BUY",
+        "ticker": "CCL",
+        "conviction": "medium",
+        "reasoning": "Score 90, RSI 68.5 still below overbought threshold, consumer cyclical cruise line stands to benefit from elevated risk appetite with MACD confirming the bullish trend."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets posted a strong risk-on day with NASDAQ up 2% and S&P 500 up 1.5%, giving a green light for momentum positions. With 5 open slots and $598 cash above the $500 threshold, I deployed into USAS \u2014 the highest-scored candidate with an RSI still in the bullish zone rather than overbought territory, making it the cleanest entry among top-tier picks. Existing positions in QQQ, AMZN, EAT, XMTR, and OLED are held without changes as none have triggered stop-loss or profit-target thresholds.",
+    "briefing": "Markets are firmly risk-on today with NASDAQ up 2% and S&P 500 up 1.5%, creating ideal conditions for momentum plays. With $598 in cash and 5 open slots, I'm deploying into NVDA and CCL \u2014 both score 90 with RSIs in the 55-70 sweet spot, meaning strong momentum without overbought risk. The five existing positions (QQQ, AMZN, EAT, XMTR, OLED) are left to run with stop-loss and profit targets handling exits automatically.",
     "market_education": {
-      "summary_en": "U.S. equities surged on May 6, 2026, with the NASDAQ jumping 2.0% and the S&P 500 gaining 1.5% in a broad risk-on session. Strength was concentrated in technology and momentum names, driven by renewed optimism around AI infrastructure spending and easing macro concerns. The rally lifted a wide range of sectors, pushing many momentum indicators such as RSI into overbought territory for smaller-cap names.",
-      "summary_zh": "2026\u5e745\u67086\u65e5\uff0c\u7f8e\u570b\u80a1\u5e02\u5168\u9762\u8d70\u5f37\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u5927\u6f322.0%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u63da1.5%\uff0c\u5e02\u5834\u5448\u73fe\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\uff08risk-on\uff09\u683c\u5c40\u3002\u79d1\u6280\u53ca\u52d5\u80fd\u985e\u80a1\u9818\u6f32\uff0c\u53d7\u60e0\u65bc\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u5efa\u8a2d\u652f\u51fa\u6a02\u89c0\u9810\u671f\u53ca\u6574\u9ad4\u5b8f\u89c0\u74b0\u5883\u8da8\u7a69\u3002\u5927\u76e4\u8d70\u9ad8\u540c\u6642\u5e36\u52d5\u591a\u96bb\u4e2d\u5c0f\u578b\u80a1\u7684\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u5347\u81f3\u8d85\u8cb7\u6c34\u5e73\uff0c\u6295\u8cc7\u8005\u9700\u8b39\u614e\u8a55\u4f30\u9032\u5834\u6642\u6a5f\u3002",
+      "summary_en": "Equities rallied broadly today with the S&P 500 gaining 1.5% and the NASDAQ surging 2.0%, fueled by renewed enthusiasm for technology and AI-related growth stocks. Institutional investors rotated back into higher-beta names \u2014 semiconductors, consumer cyclicals, and tech \u2014 as macro fears receded and risk appetite climbed. The broad-based advance signals a classic risk-on session where investors favor equities over safe havens like bonds and cash.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u53cd\u5f48\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f321.5%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u52c1\u53472.0%\uff0c\u4e3b\u8981\u7531\u79d1\u6280\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u6210\u9577\u80a1\u5e36\u52d5\u3002\u6a5f\u69cb\u6295\u8cc7\u8005\u91cd\u8fd4\u9ad8\u8c9d\u4ed6\u503c\u677f\u584a\uff0c\u5305\u62ec\u534a\u5c0e\u9ad4\u3001\u6d88\u8cbb\u9031\u671f\u53ca\u79d1\u6280\u80a1\uff0c\u5b8f\u89c0\u5c64\u9762\u7684\u6182\u616e\u4ea6\u6709\u6240\u7d13\u7de9\uff0c\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\u3002\u6b64\u6b21\u5ee3\u6cdb\u4e0a\u6f32\u662f\u5178\u578b\u7684\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u5e02\u6cc1\uff0c\u6295\u8cc7\u8005\u7531\u50b5\u5238\u53ca\u73fe\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u8f49\u5411\u80a1\u7968\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The RSI (Relative Strength Index) measures how fast a stock's price is rising on a scale of 0\u2013100. The 'momentum zone' of 55\u201370 is considered ideal for buying: the stock is trending upward with real conviction, but hasn't yet entered overbought territory (above 70) where a reversal becomes more likely. Today, USAS and NVDA stood out from the crowded field of overbought candidates precisely because their RSI sat in this sweet spot.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u901f\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u300255\u81f370\u7684\u300c\u52d5\u80fd\u5340\u9593\u300d\u88ab\u8996\u70ba\u8cb7\u5165\u7684\u7406\u60f3\u6642\u6a5f\uff1a\u80a1\u50f9\u6b63\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u4e14\u5177\u5099\u52d5\u80fd\u652f\u6490\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\uff08\u9ad8\u65bc70\uff09\uff0c\u907f\u514d\u4e86\u53cd\u8f49\u98a8\u96aa\u52a0\u5287\u7684\u96b1\u6182\u3002\u4eca\u65e5\uff0cUSAS\u8207NVDA\u4e4b\u6240\u4ee5\u5728\u5927\u6279\u8d85\u8cb7\u5019\u9078\u80a1\u4e2d\u812b\u7a4e\u800c\u51fa\uff0c\u6b63\u662f\u56e0\u70ba\u5176RSI\u6070\u597d\u843d\u5728\u9019\u500b\u300c\u751c\u871c\u5340\u9593\u300d\u3002"
+      "term": "RSI Sweet Spot",
+      "explanation_en": "The Relative Strength Index (RSI) measures how overbought or oversold a stock is on a 0\u2013100 scale. A reading in the 55\u201370 range is often called the 'sweet spot' \u2014 it confirms strong upward momentum without signaling that a stock is overextended and due for a pullback. Today's top buys (NVDA at 67.9, CCL at 68.5) sit right in this zone, making them more attractive entries than the many stocks on the list with RSI above 80.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u8861\u91cf\u80a1\u7968\u7684\u8d85\u8cb7\u6216\u8d85\u8ce3\u7a0b\u5ea6\u3002RSI\u4ecb\u4e4e55\u81f370\u7684\u5340\u9593\u901a\u5e38\u88ab\u7a31\u70ba\u300c\u751c\u871c\u5340\u9593\u300d\u2014\u2014\u9019\u4ee3\u8868\u4e0a\u5347\u52d5\u80fd\u5f37\u52c1\uff0c\u4f46\u5c1a\u672a\u51fa\u73fe\u904e\u5ea6\u5ef6\u4f38\u3001\u9762\u81e8\u56de\u8abf\u7684\u98a8\u96aa\u3002\u4eca\u65e5\u8cb7\u5165\u7684NVDA\uff08RSI 67.9\uff09\u53caCCL\uff08RSI 68.5\uff09\u5747\u843d\u5728\u6b64\u5340\u9593\uff0c\u76f8\u6bd4\u540d\u55ae\u4e0a\u773e\u591aRSI\u8d85\u904e80\u7684\u80a1\u7968\uff0c\u73fe\u6642\u9032\u5834\u98a8\u96aa\u66f4\u4f4e\u3001\u52dd\u7b97\u66f4\u9ad8\u3002"
     }
   }
 }
