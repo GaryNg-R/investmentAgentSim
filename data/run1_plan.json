@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-05-07T16:01:27.084148+00:00",
+  "saved_at": "2026-05-07T17:01:06.060485+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "TSLA",
+        "ticker": "VERX",
         "conviction": "high",
-        "reasoning": "Score 90 with RSI at 67 \u2014 the bullish momentum zone without being overbought \u2014 plus MACD bullish crossover and price above SMA-20; best risk-adjusted entry among available candidates given remaining cash."
+        "reasoning": "Top score of 95 with RSI in ideal momentum zone (68.2), full MACD bullish confirmation, and price cleanly above SMA-20 \u2014 textbook setup without overbought risk."
+      },
+      {
+        "action": "BUY",
+        "ticker": "HAE",
+        "conviction": "high",
+        "reasoning": "Co-top score of 95 with RSI 66.3 in momentum zone, MACD bullish crossover with rising histogram, and strong price-to-SMA spread suggesting durable trend."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are essentially flat today \u2014 S&P unchanged, NASDAQ up barely 0.3% \u2014 which is a low-conviction environment. With $1,406 cash and five open slots, I'm deploying into TSLA as the highest-quality entry: score 90, RSI not yet overbought at 67, and clean MACD confirmation. Most other top candidates carry RSI readings above 75\u201390, signaling elevated mean-reversion risk. Existing positions \u2014 PTON, EAT, OLED, AMZN, QQQ \u2014 are all held as none have triggered stop-loss or profit targets.",
+    "briefing": "Markets drifted slightly lower today (S&P -0.3%, NASDAQ -0.1%) in a quiet, directionless session \u2014 no major catalyst in either direction. With 5 open slots and $1,406 in idle cash, deploying into VERX and HAE, the two highest-scoring candidates with RSI in the ideal 55\u201370 momentum zone and full MACD confirmation. Both avoid the overbought risk seen in many of the score-70 names (RSI 80+). This uses most available cash while keeping a small buffer.",
     "market_education": {
-      "summary_en": "U.S. equities traded in a narrow range on May 7 as investors weighed mixed signals ahead of upcoming central bank commentary and corporate earnings. The NASDAQ edged marginally higher driven by continued strength in technology and AI-adjacent names, while the broader S&P 500 digested recent gains with little directional conviction. Risk appetite remained measured, with traders reluctant to extend positions aggressively in the absence of a clear macro catalyst.",
-      "summary_zh": "\u7f8e\u80a15\u67087\u65e5\u7a84\u5e45\u6574\u7406\uff0c\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u592e\u884c\u653f\u7b56\u4fe1\u865f\u53ca\u4f01\u696d\u8ca1\u5831\u671f\u9593\u614b\u5ea6\u5be9\u614e\u3002\u7d0d\u65af\u9054\u514b\u53d7\u79d1\u6280\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u80a1\u5e36\u52d5\uff0c\u5c0f\u5e45\u6536\u9ad8\uff1b\u6a19\u666e500\u5247\u5728\u6d88\u5316\u8fd1\u671f\u5347\u5e45\u5f8c\u7dad\u6301\u76e4\u6574\uff0c\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u5e02\u5834\u98a8\u96aa\u504f\u597d\u4fdd\u6301\u6eab\u548c\uff0c\u6295\u8cc7\u8005\u5728\u7121\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\u4e0b\uff0c\u4e0d\u9858\u7a4d\u6975\u8ffd\u9ad8\u5efa\u5009\u3002",
+      "summary_en": "U.S. equities edged lower on Thursday as investors paused after a recent multi-week recovery rally, with no major economic data to drive direction. Sector rotation continued with defensives holding up slightly better than growth names. The mild pullback is consistent with a market consolidating gains rather than reversing trend.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u56db\u5c0f\u5e45\u6536\u4f4e\uff0c\u6295\u8cc7\u8005\u5728\u8fd1\u671f\u591a\u9031\u53cd\u5f48\u5f8c\u66ab\u6642\u89c0\u671b\uff0c\u5e02\u5834\u7f3a\u4e4f\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u652f\u6490\u3002\u677f\u584a\u8f2a\u52d5\u6301\u7e8c\uff0c\u9632\u79a6\u578b\u80a1\u7968\u8868\u73fe\u7565\u512a\u65bc\u6210\u9577\u80a1\u3002\u6b64\u6b21\u6eab\u548c\u56de\u8abf\u7b26\u5408\u5e02\u5834\u978f\u56fa\u5347\u5e45\u3001\u800c\u975e\u8da8\u52e2\u53cd\u8f49\u7684\u7279\u5fb5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Overbought (RSI > 70)",
-      "explanation_en": "When a stock's RSI climbs above 70, it signals that the price has risen sharply in a short period and buyers may be exhausted \u2014 making a pullback more likely. Today's screener shows most top candidates (AAON, DDOG, FTNT, QCOM, etc.) with RSIs between 74 and 91, which is why TSLA at RSI 67 was preferred: strong momentum without the overextension that raises reversal risk.",
-      "explanation_zh": "\u7576\u80a1\u7968\u7684\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u5347\u783470\uff0c\u610f\u5473\u8457\u80a1\u50f9\u5728\u77ed\u671f\u5167\u6f32\u5e45\u904e\u5927\u3001\u8cb7\u76e4\u52d5\u80fd\u53ef\u80fd\u8da8\u65bc\u98fd\u548c\uff0c\u56de\u8abf\u98a8\u96aa\u96a8\u4e4b\u4e0a\u5347\u3002\u4eca\u65e5\u7be9\u9078\u540d\u55ae\u4e2d\u5927\u591a\u6578\u5f37\u52e2\u80a1\uff08\u5982AAON\u3001DDOG\u3001FTNT\u3001QCOM\u7b49\uff09RSI\u5747\u4ecb\u65bc74\u81f391\u4e4b\u9593\uff0c\u9019\u6b63\u662f\u512a\u5148\u9078\u64c7RSI\u50c567\u7684TSLA\u7684\u539f\u56e0\u2014\u2014\u52d5\u80fd\u5f37\u52c1\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u904e\u71b1\u5340\u9593\uff0c\u56de\u64a4\u98a8\u96aa\u76f8\u5c0d\u8f03\u4f4e\u3002"
+      "term": "RSI Momentum Zone",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock is moving up or down on a scale of 0\u2013100. A reading between 55\u201370 is often called the 'momentum zone' \u2014 the stock is trending upward with conviction but hasn't yet become overbought (above 70), where a pullback is more likely. Today's top picks (VERX at 68.2, HAE at 66.3) sit squarely in this zone, which is why they ranked above higher-RSI names despite similar MACD signals.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u6216\u4e0b\u8dcc\u7684\u901f\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002RSI\u572855\u81f370\u4e4b\u9593\u901a\u5e38\u88ab\u7a31\u70ba\u300c\u52d5\u80fd\u5340\u9593\u300d\u2014\u2014\u4ee3\u8868\u80a1\u50f9\u6b63\u5728\u5f37\u52c1\u4e0a\u5347\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff08\u9ad8\u65bc70\uff09\uff0c\u8d85\u8cb7\u6642\u8f03\u5bb9\u6613\u51fa\u73fe\u56de\u8abf\u3002\u4eca\u65e5\u7cbe\u9078\u7684VERX\uff08RSI 68.2\uff09\u8207HAE\uff08RSI 66.3\uff09\u5747\u8655\u65bc\u6b64\u6700\u4f73\u5340\u9593\uff0c\u9019\u4e5f\u662f\u5728MACD\u8a0a\u865f\u76f8\u8fd1\u7684\u60c5\u6cc1\u4e0b\uff0c\u5b83\u5011\u6392\u540d\u9ad8\u65bc\u5176\u4ed6\u8d85\u8cb7\u500b\u80a1\u7684\u539f\u56e0\u3002"
     }
   }
 }
