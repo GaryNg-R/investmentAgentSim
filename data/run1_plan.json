@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-05-07T21:01:40.170221+00:00",
+  "saved_at": "2026-05-08T01:43:25.889352+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "SMCI",
-        "shares": 41,
-        "reasoning": "MACD has crossed below signal line (bearish divergence) while price is flat at cost basis \u2014 weakest technical setup in the portfolio; rotating proceeds into higher-conviction momentum names"
-      },
-      {
-        "action": "BUY",
-        "ticker": "TSLA",
-        "conviction": "high",
-        "reasoning": "Score 95 with rising MACD histogram, RSI 69.7 in the ideal bullish zone, and price above SMA-20 \u2014 the only score-95 name showing an accelerating MACD histogram, indicating strengthening momentum"
-      },
-      {
         "action": "BUY",
         "ticker": "AAON",
+        "conviction": "high",
+        "reasoning": "Top momentum score 95 with RSI 66.3 in healthy bullish zone, MACD bullish crossover, and volume surge confirming the trend."
+      },
+      {
+        "action": "BUY",
+        "ticker": "QCOM",
         "conviction": "medium",
-        "reasoning": "Score 95 with volume surge (>1.5x average), MACD bullish crossover, and price 18% above SMA-20 \u2014 multi-signal confirmation of a sustained uptrend with institutional participation"
+        "reasoning": "Score 90 with RSI 64.7 in healthy zone (not overbought), adds semiconductor diversification alongside NVDA/SMCI."
+      },
+      {
+        "action": "BUY",
+        "ticker": "VERX",
+        "conviction": "medium",
+        "reasoning": "Score 95 with all four bullish signals including volume surge, low share price allows clean position sizing."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were modestly negative today (S&P -0.4%, NASDAQ -0.1%), signalling mild caution rather than outright risk-off. With only $105 in cash, I rotated out of SMCI \u2014 our flattest hold with a freshly bearish MACD \u2014 to fund two of the highest-scoring setups on the screener. TSLA and AAON both carry score-95 readings with volume confirmation and MACD crossovers, making them the most technically sound entries available today.",
+    "briefing": "Market is neutral with both indexes barely down, and we have 4 open slots with $105 cash \u2014 too low to fund new buys without selling, but the screener shows strong momentum candidates. Adding AAON, QCOM, and VERX from the top of the list to fill slots; existing positions remain within risk limits and no stop-loss or profit-target triggers.",
     "market_education": {
-      "summary_en": "U.S. equities closed modestly lower on Thursday, with the S&P 500 declining 0.4% and the NASDAQ edging down 0.1%, as investors maintained a cautious posture amid ongoing uncertainty around trade policy and upcoming economic data. Sector rotation continued beneath the surface, with momentum names holding up better than cyclicals as market participants favoured companies with strong earnings visibility. The shallow pullback suggests consolidation after recent gains rather than a directional breakdown.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u56db\u5c0f\u5e45\u6536\u4f4e\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.1%\uff0c\u5e02\u5834\u60c5\u7dd2\u8b39\u614e\uff0c\u6295\u8cc7\u8005\u6301\u89c0\u671b\u614b\u5ea6\uff0c\u975c\u5f85\u8cbf\u6613\u653f\u7b56\u8d70\u5411\u660e\u6717\u53ca\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u51fa\u7210\u3002\u76e4\u9762\u8cc7\u91d1\u6301\u7e8c\u8f2a\u52d5\uff0c\u52d5\u80fd\u5f37\u52c1\u3001\u76c8\u5229\u80fd\u898b\u5ea6\u9ad8\u7684\u500b\u80a1\u8868\u73fe\u76f8\u5c0d\u6297\u8dcc\uff0c\u9031\u671f\u6027\u677f\u584a\u5247\u627f\u58d3\u8f03\u5927\u3002\u6574\u9ad4\u8dcc\u5e45\u6eab\u548c\uff0c\u986f\u793a\u5e02\u5834\u5728\u8fd1\u671f\u7d2f\u7a4d\u6f32\u5e45\u5f8c\u9032\u5165\u6d88\u5316\u6574\u56fa\u968e\u6bb5\uff0c\u6280\u8853\u9762\u5c1a\u672a\u51fa\u73fe\u8da8\u52e2\u6027\u7834\u4f4d\u8a0a\u865f\u3002",
+      "summary_en": "Markets drifted sideways today with NASDAQ -0.1% and S&P 500 -0.4%, reflecting indecision rather than a directional catalyst. With no major macro headlines provided, the muted action suggests traders are waiting on upcoming economic data or earnings. Neutral tape conditions like this typically favor stock-specific momentum trades over broad index exposure.",
+      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5448\u7a84\u5e45\u6574\u7406\u683c\u5c40,\u7d0d\u6307\u5fae\u8dcc0.1%\u3001\u6a19\u666e500\u4e0b\u8dcc0.4%,\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u6d88\u606f\u63a8\u52d5\u4e0b,\u6295\u8cc7\u8005\u4f3c\u4e4e\u6b63\u89c0\u671b\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u53ca\u4f01\u696d\u8ca1\u5831\u3002\u6b64\u985e\u4e2d\u6027\u76e4\u9762\u901a\u5e38\u8f03\u5229\u597d\u500b\u80a1\u52d5\u80fd\u4ea4\u6613,\u800c\u975e\u5927\u76e4\u6307\u6578\u4f48\u5c40\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Portfolio Rotation",
-      "explanation_en": "Portfolio rotation means selling positions that are losing momentum or showing technical deterioration, and redeploying that capital into stronger setups. Today we sold SMCI \u2014 flat at cost with a bearish MACD \u2014 and used the proceeds to enter TSLA and AAON, which both show score-95 readings with volume and MACD confirmation. The goal is to keep capital working in the highest-conviction opportunities rather than letting it stagnate in trades that have lost their edge.",
-      "explanation_zh": "\u6295\u8cc7\u7d44\u5408\u8f2a\u52d5\u662f\u6307\u8ce3\u51fa\u52d5\u80fd\u8870\u9000\u6216\u6280\u8853\u9762\u8f49\u5dee\u7684\u6301\u5009\uff0c\u5c07\u8cc7\u91d1\u91cd\u65b0\u90e8\u7f72\u81f3\u66f4\u5177\u6f5b\u529b\u7684\u6a19\u7684\u3002\u4eca\u65e5\u6211\u5011\u8ce3\u51faMACD\u8f49\u7a7a\u3001\u50f9\u683c\u505c\u6eef\u4e0d\u524d\u7684SMCI\uff0c\u5c07\u8cc7\u91d1\u8f49\u5165\u6280\u8853\u8a55\u5206\u540c\u905495\u5206\u3001\u6210\u4ea4\u91cf\u653e\u5927\u4e14MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u7684TSLA\u8207AAON\u3002\u9019\u4e00\u7b56\u7565\u7684\u6838\u5fc3\u908f\u8f2f\u5728\u65bc\u8b93\u8cc7\u91d1\u6301\u7e8c\u96c6\u4e2d\u65bc\u6700\u5177\u4fe1\u5fc3\u7684\u4ea4\u6613\u6a5f\u6703\uff0c\u907f\u514d\u8cc7\u91d1\u88ab\u5957\u5728\u5df2\u5931\u53bb\u512a\u52e2\u7684\u5009\u4f4d\u4e0a\u767d\u767d\u6d88\u8017\u6642\u9593\u6210\u672c\u3002"
+      "term": "Neutral Market",
+      "explanation_en": "A neutral market is when major indexes move very little in either direction, signaling indecision among investors. In these conditions, broad index trades offer little edge, so active investors often focus on individual stocks showing strong momentum or specific catalysts. Neutral tapes can precede either breakouts or breakdowns, so position sizing and stop-losses matter more than usual.",
+      "explanation_zh": "\u4e2d\u6027\u5e02\u5834\u662f\u6307\u5927\u76e4\u6307\u6578\u96d9\u5411\u6ce2\u52d5\u6975\u5c0f,\u53cd\u6620\u6295\u8cc7\u8005\u89c0\u671b\u614b\u5ea6\u6fc3\u539a\u3002\u5728\u6b64\u74b0\u5883\u4e0b,\u62bc\u6ce8\u5927\u76e4\u6307\u6578\u96e3\u4ee5\u7372\u5229,\u4e3b\u52d5\u578b\u6295\u8cc7\u8005\u901a\u5e38\u6703\u805a\u7126\u65bc\u500b\u5225\u5177\u5099\u5f37\u52c1\u52d5\u80fd\u6216\u7279\u5b9a\u50ac\u5316\u5291\u7684\u500b\u80a1\u3002\u4e2d\u6027\u76e4\u9762\u4e4b\u5f8c\u53ef\u80fd\u51fa\u73fe\u5411\u4e0a\u7a81\u7834\u6216\u5411\u4e0b\u7834\u4f4d,\u56e0\u6b64\u5009\u4f4d\u63a7\u5236\u53ca\u6b62\u640d\u8a2d\u5b9a\u6bd4\u5e73\u6642\u66f4\u70ba\u95dc\u9375\u3002"
     }
   }
 }
