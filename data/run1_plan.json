@@ -1,32 +1,19 @@
 {
-  "saved_at": "2026-05-08T18:01:12.994218+00:00",
+  "saved_at": "2026-05-08T19:01:03.255622+00:00",
   "market_direction": "risk_on",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "MARA",
-        "conviction": "high",
-        "reasoning": "Highest score in the screener (95) with RSI in the ideal bullish momentum zone at 65.7 \u2014 not overbought, MACD confirmed bullish crossover, and price extended above SMA-20; best risk/reward setup available today."
-      },
-      {
-        "action": "BUY",
-        "ticker": "NSIT",
-        "conviction": "medium",
-        "reasoning": "Score 90 with RSI 67.3 in the bullish momentum zone, MACD bullish crossover, and price 10.8% above SMA-20 indicating strong institutional accumulation in a risk-on day."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on today with NASDAQ leading at +1.4%, giving a green light to deploy the $1,546 in idle cash. MARA and NSIT stand out as the cleanest setups \u2014 both score 90+ and have RSI in the 65-68 bullish momentum zone rather than the overbought >70 zone where most other candidates sit. Existing positions in NVDA, AMZN, EAT, OLED, and QQQ are all held; NVDA continues to show strong momentum at score 90 with the current price near cost basis so no add needed yet.",
+    "briefing": "Risk-on session with NASDAQ +1.4% and S&P 500 +0.7% \u2014 tech momentum is healthy. Portfolio is well-positioned: NVDA and NSIT both appear on the screener at score 90, confirming our thesis on those holds. Cash is only $170.95, well below the $500 threshold needed to open new positions, so no buys are possible today. Holding all 6 positions and letting the momentum work.",
     "market_education": {
-      "summary_en": "Equity markets rallied broadly today as risk appetite returned, with technology leading the charge \u2014 the NASDAQ surged 1.4% while the broader S&P 500 gained 0.8%. The outperformance of growth and tech names suggests investors are pricing in a more favorable macro backdrop, likely driven by easing trade tensions and resilient corporate earnings expectations. The breadth of the rally, with momentum stocks across semiconductors, software, and crypto-adjacent names all participating, reinforces a short-term bullish bias.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u53cd\u5f48\uff0c\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\uff0c\u79d1\u6280\u677f\u584a\u9818\u6f32\u2014\u2014\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u6f321.4%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u4e0a\u63da0.8%\u3002\u6210\u9577\u80a1\u8207\u79d1\u6280\u985e\u80a1\u7684\u5f37\u52e2\u8868\u73fe\uff0c\u53cd\u6620\u51fa\u5e02\u5834\u5c0d\u5b8f\u89c0\u74b0\u5883\u6539\u5584\u7684\u9810\u671f\u5347\u6e29\uff0c\u8cbf\u6613\u5c40\u52e2\u7de9\u548c\u53ca\u4f01\u696d\u76c8\u5229\u524d\u666f\u7a69\u5065\u662f\u4e3b\u8981\u652f\u6490\u56e0\u7d20\u3002\u534a\u5c0e\u9ad4\u3001\u8edf\u4ef6\u53ca\u52a0\u5bc6\u8ca8\u5e63\u76f8\u95dc\u80a1\u7968\u7684\u52d5\u80fd\u80a1\u666e\u904d\u540c\u6b65\u4e0a\u6f32\uff0c\u9032\u4e00\u6b65\u5370\u8b49\u77ed\u7dda\u591a\u982d\u683c\u5c40\u3002",
+      "summary_en": "Markets rallied Friday in a clear risk-on session, with the tech-heavy NASDAQ outperforming the broader S&P 500 by a wide margin (+1.4% vs +0.7%). Semiconductor and AI-adjacent names led gains as investors rotated back into growth after weeks of tariff-driven caution. The divergence between NASDAQ and S&P 500 signals that capital is concentrating into high-beta tech rather than spreading broadly, a classic late-week momentum chase.",
+      "summary_zh": "\u9031\u4e94\u7f8e\u80a1\u660e\u986f\u5448\u73fe\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u5e45\u8dd1\u8d0f\u6a19\u666e500\uff0c\u5206\u5225\u4e0a\u6f321.4%\u82070.7%\u3002\u534a\u5c0e\u9ad4\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u985e\u80a1\u9818\u6f32\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u6578\u9031\u95dc\u7a05\u4e0d\u78ba\u5b9a\u56e0\u7d20\u6d88\u9000\u5f8c\u91cd\u56de\u6210\u9577\u80a1\u61f7\u62b1\u3002\u7d0d\u65af\u9054\u514b\u8207\u6a19\u666e500\u7684\u8868\u73fe\u5206\u6b67\uff0c\u986f\u793a\u8cc7\u91d1\u6b63\u96c6\u4e2d\u6d41\u5165\u9ad8\u8c9d\u4ed6\u503c\u79d1\u6280\u80a1\uff0c\u800c\u975e\u5ee3\u6cdb\u5206\u5e03\uff0c\u662f\u5178\u578b\u7684\u9031\u672b\u52d5\u80fd\u8ffd\u6f32\u683c\u5c40\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast and how much a stock's price has moved \u2014 a reading between 55 and 70 is considered the 'bullish momentum zone' where a stock has strong upward momentum but isn't yet overextended. Above 70 is 'overbought,' meaning the rally may be running out of steam and a pullback is more likely. Today we picked MARA and NSIT specifically because their RSIs sat in the 65-68 sweet spot, giving better risk/reward than the many candidates already above 70.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u7684\u6f32\u8dcc\u901f\u5ea6\u8207\u5e45\u5ea6\u2014\u2014RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u88ab\u8996\u70ba\u300c\u5f37\u52e2\u52d5\u80fd\u5340\u9593\u300d\uff0c\u4ee3\u8868\u80a1\u7968\u4ecd\u6709\u4e0a\u5347\u52d5\u529b\uff0c\u4f46\u5c1a\u672a\u904e\u5ea6\u5ef6\u4f38\u3002RSI\u8d85\u904e70\u5247\u5c6c\u300c\u8d85\u8cb7\u300d\uff0c\u610f\u5473\u8457\u5347\u52e2\u53ef\u80fd\u8da8\u65bc\u75b2\u8edf\uff0c\u56de\u8abf\u98a8\u96aa\u4e0a\u5347\u3002\u4eca\u65e5\u9078\u64c7MARA\u548cNSIT\uff0c\u6b63\u662f\u56e0\u70ba\u5176RSI\u8655\u65bc65\u81f368\u7684\u9ec3\u91d1\u5340\u9593\uff0c\u76f8\u6bd4\u5927\u591a\u6578\u5df2\u9032\u5165\u8d85\u8cb7\u5340\u7684\u5019\u9078\u80a1\uff0c\u98a8\u96aa\u56de\u5831\u6bd4\u66f4\u70ba\u7406\u60f3\u3002"
+      "term": "Risk-On",
+      "explanation_en": "A 'risk-on' market is when investors feel confident and shift money into higher-risk, higher-reward assets like growth stocks and tech. You can spot it when NASDAQ outperforms the S&P 500, and volatile momentum names lead the rally. Today's session is a textbook example \u2014 NASDAQ +1.4% vs S&P +0.7%, with our high-momentum screener stocks (NVDA, NSIT) holding firm.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\uff08Risk-On\uff09\u300d\u5e02\u5834\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u63d0\u5347\uff0c\u9858\u610f\u5c07\u8cc7\u91d1\u8f49\u79fb\u81f3\u9ad8\u98a8\u96aa\u9ad8\u56de\u5831\u8cc7\u7522\uff0c\u4f8b\u5982\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u3002\u5224\u65b7\u65b9\u5f0f\u5305\u62ec\uff1a\u7d0d\u65af\u9054\u514b\u8dd1\u8d0f\u6a19\u666e500\u3001\u52d5\u80fd\u5f37\u52c1\u7684\u500b\u80a1\u9818\u6f32\u3002\u4eca\u65e5\u76e4\u52e2\u6b63\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u98a8\u96aa\u504f\u597d\u683c\u5c40\u2014\u2014\u7d0d\u6307\u4e0a\u6f321.4%\uff0c\u6a19\u666e\u50c50.7%\uff0c\u800c\u6211\u5011\u6301\u6709\u7684\u9ad8\u52d5\u80fd\u500b\u80a1\uff08NVDA\u3001NSIT\uff09\u4e5f\u7a69\u5065\u5b88\u4f4f\u6f32\u5e45\u3002"
     }
   }
 }
