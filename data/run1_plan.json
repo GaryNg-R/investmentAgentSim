@@ -1,19 +1,38 @@
 {
-  "saved_at": "2026-05-08T14:01:29.062028+00:00",
+  "saved_at": "2026-05-08T15:01:33.778137+00:00",
   "market_direction": "risk_on",
   "decisions": {
-    "trades": [],
+    "trades": [
+      {
+        "action": "SELL",
+        "ticker": "SMCI",
+        "shares": 15,
+        "reasoning": "RSI has entered overbought territory at 73.0 and score dropped to 70; trimming to free capital for higher-momentum candidates while keeping core exposure."
+      },
+      {
+        "action": "BUY",
+        "ticker": "LUNR",
+        "conviction": "high",
+        "reasoning": "Top-tier score of 95 with RSI in the ideal momentum zone at 66.6 \u2014 not overbought, MACD confirming bullish crossover, and price well above SMA-20."
+      },
+      {
+        "action": "BUY",
+        "ticker": "FLY",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 65.9 in the bullish momentum zone \u2014 all three momentum signals aligned and not yet overbought, offering a clean entry."
+      }
+    ],
     "skip_new_buys": false,
-    "briefing": "Markets are broadly risk-on today with NASDAQ +1.3% and S&P +0.7%, a constructive backdrop. However, with only $105 cash on hand \u2014 well below the $500 threshold \u2014 there is no capital available to open new positions. BILL (score 100, RSI 63.9) is the top candidate in a healthy bullish momentum zone (not overbought) and should be first priority when cash is freed up via a profit target or stop-loss trigger on existing holdings. All six current positions are held.",
+    "briefing": "Markets are firmly risk-on today with NASDAQ leading (+1.3%), a favorable backdrop for momentum names. Cash sits at just $105 \u2014 well below the $500 threshold \u2014 so I'm trimming 15 shares of SMCI (RSI 73, score slipping to 70) to fund two new high-conviction entries: LUNR and FLY, both sitting at score 95 with ideal RSI in the 65\u201370 momentum zone rather than overbought. This rotation improves portfolio momentum quality while keeping 26 SMCI shares in play.",
     "market_education": {
-      "summary_en": "U.S. equities rallied broadly on May 8, with the NASDAQ outperforming as tech and growth stocks led gains. Risk sentiment improved following signals of progress in U.S.-China trade negotiations, which lifted tariff-sensitive sectors and high-beta names. Investors rotated into cyclical and momentum names, with small- and mid-cap growth stocks seeing outsized volume surges reflected across the screener.",
-      "summary_zh": "\u7f8e\u80a1\u65bc5\u67088\u65e5\u5168\u9762\u4e0a\u6f32\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u5148\u5927\u5e02\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u8868\u73fe\u7a81\u51fa\u3002\u5e02\u5834\u98a8\u96aa\u504f\u597d\u56de\u5347\uff0c\u4e3b\u56e0\u7f8e\u4e2d\u8cbf\u6613\u8ac7\u5224\u50b3\u51fa\u9032\u5c55\uff0c\u95dc\u7a05\u654f\u611f\u677f\u584a\u53ca\u9ad8\u8c9d\u5854\u80a1\u4efd\u53d7\u60e0\u660e\u986f\u3002\u8cc7\u91d1\u6d41\u5411\u5468\u671f\u6027\u53ca\u52d5\u80fd\u80a1\uff0c\u4e2d\u5c0f\u578b\u6210\u9577\u80a1\u6210\u4ea4\u91cf\u51fa\u73fe\u986f\u8457\u653e\u5927\uff0c\u8207\u9078\u80a1\u7be9\u9078\u5668\u6240\u5448\u73fe\u7684\u5927\u91cf\u6210\u4ea4\u91cf\u6fc0\u589e\u8a0a\u865f\u543b\u5408\u3002",
+      "summary_en": "U.S. equities extended their recovery rally on May 8, with the NASDAQ outperforming as sentiment shifted decisively risk-on amid improving U.S.\u2013China trade dialogue and continued strength in AI-related semiconductor names. Tech heavyweights led the charge, benefiting from easing tariff fears that had weighed on global supply chains throughout April. The broad S&P 500 also advanced, reflecting renewed institutional appetite for growth assets after weeks of defensive positioning.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc5\u67088\u65e5\u5ef6\u7e8c\u53cd\u5f48\u683c\u5c40\uff0c\u5e02\u5834\u60c5\u7dd2\u660e\u986f\u8f49\u5411\u98a8\u96aa\u504f\u597d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u6f32\u3002\u4e2d\u7f8e\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u51fa\u73fe\u7de9\u548c\u8de1\u8c61\uff0c\u52a0\u4e0a\u4eba\u5de5\u667a\u80fd\u53ca\u534a\u5c0e\u9ad4\u985e\u80a1\u6301\u7e8c\u5f37\u52e2\uff0c\u5e36\u52d5\u79d1\u6280\u5de8\u982d\u5168\u7dda\u8d70\u9ad8\u3002\u6b64\u524d\u6574\u500b4\u6708\u4efd\u56e0\u95dc\u7a05\u6182\u616e\u4ee4\u5e02\u5834\u627f\u58d3\uff0c\u800c4\u6708\u4efd\u7684\u9632\u79a6\u6027\u4f48\u5c40\u6b63\u9010\u6b65\u5411\u6210\u9577\u578b\u8cc7\u7522\u8f49\u79fb\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u540c\u6b65\u4e0a\u63da\uff0c\u53cd\u6620\u6a5f\u69cb\u6295\u8cc7\u8005\u91cd\u71c3\u5c0d\u98a8\u96aa\u8cc7\u7522\u7684\u8208\u8da3\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Bullish Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock has been moving. An RSI between 55 and 70 is considered the 'sweet spot' \u2014 the stock has strong upward momentum but isn't yet overbought. Today's top candidate BILL sits at RSI 63.9, which is more attractive than the many candidates crowded above 70, where mean-reversion risk is elevated.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u6216\u4e0b\u8dcc\u7684\u901f\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u88ab\u8996\u70ba\u300c\u9ec3\u91d1\u5340\u9593\u300d\u2014\u2014\u80a1\u7968\u5177\u5099\u5f37\u52c1\u4e0a\u884c\u52d5\u80fd\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u72c0\u614b\u3002\u4eca\u65e5\u6700\u4f73\u5019\u9078\u80a1BILL\u7684RSI\u70ba63.9\uff0c\u76f8\u6bd4\u5927\u91cfRSI\u8d85\u904e70\u7684\u5019\u9078\u80a1\u66f4\u5177\u5438\u5f15\u529b\uff0c\u56e0\u70ba\u8d85\u8cb7\u5340\u9593\u7684\u5747\u503c\u56de\u6b78\u98a8\u96aa\u8f03\u9ad8\uff0c\u96a8\u6642\u53ef\u80fd\u51fa\u73fe\u6280\u8853\u6027\u56de\u8abf\u3002"
+      "term": "Momentum Rotation",
+      "explanation_en": "Momentum rotation is the practice of selling positions where price momentum is fading (rising RSI entering overbought territory, falling score) and reinvesting into positions where momentum is building but not yet exhausted (RSI in the 55\u201370 sweet spot). It keeps a portfolio aligned with where relative strength is accelerating rather than where it has already peaked. Today's trim of SMCI in favour of LUNR and FLY is a textbook example.",
+      "explanation_zh": "\u52d5\u80fd\u8f2a\u52d5\u662f\u6307\u8ce3\u51fa\u52d5\u80fd\u8da8\u7de9\uff08RSI \u904e\u9ad8\u3001\u8a55\u5206\u4e0b\u6ed1\uff09\u7684\u6301\u5009\uff0c\u5c07\u8cc7\u91d1\u8f49\u79fb\u81f3\u52d5\u80fd\u6b63\u5728\u7a4d\u805a\u3001\u4f46\u5c1a\u672a\u8017\u76e1\uff08RSI \u4ecb\u65bc55\u81f370\u7684\u7406\u60f3\u5340\u9593\uff09\u7684\u6a19\u7684\u3002\u6b64\u7b56\u7565\u78ba\u4fdd\u7d44\u5408\u59cb\u7d42\u8ddf\u96a8\u76f8\u5c0d\u5f37\u52e2\u52a0\u901f\u7684\u65b9\u5411\uff0c\u800c\u975e\u505c\u7559\u5728\u5f37\u52e2\u5df2\u898b\u9802\u7684\u4f4d\u7f6e\u3002\u4eca\u65e5\u6e1b\u6301 SMCI\uff0c\u8f49\u5165 LUNR \u53ca FLY\uff0c\u6b63\u662f\u52d5\u80fd\u8f2a\u52d5\u7684\u5178\u578b\u64cd\u4f5c\u3002"
     }
   }
 }
