@@ -1,38 +1,32 @@
 {
-  "saved_at": "2026-05-08T17:01:26.200148+00:00",
+  "saved_at": "2026-05-08T18:01:12.994218+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "SMCI",
-        "shares": 26,
-        "reasoning": "Score dropped to 40 with MACD below signal line \u2014 momentum has deteriorated; capturing the +4.3% gain and redeploying into score-95 setups is better risk management."
+        "action": "BUY",
+        "ticker": "MARA",
+        "conviction": "high",
+        "reasoning": "Highest score in the screener (95) with RSI in the ideal bullish momentum zone at 65.7 \u2014 not overbought, MACD confirmed bullish crossover, and price extended above SMA-20; best risk/reward setup available today."
       },
       {
         "action": "BUY",
-        "ticker": "FLY",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 66.9 in the clean bullish momentum zone (not overbought), confirmed MACD crossover, and price 11% above SMA-20 \u2014 strongest technical setup on the screener today."
-      },
-      {
-        "action": "BUY",
-        "ticker": "LUNR",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 68.3, rising MACD histogram, and price above SMA-20 \u2014 clean momentum with room to run before overbought territory, fitting the risk-on tone."
+        "ticker": "NSIT",
+        "conviction": "medium",
+        "reasoning": "Score 90 with RSI 67.3 in the bullish momentum zone, MACD bullish crossover, and price 10.8% above SMA-20 indicating strong institutional accumulation in a risk-on day."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on today with NASDAQ up 1.4% and S&P 500 up 0.7%, giving a green light for momentum plays. I'm rotating out of SMCI \u2014 its momentum score has fallen to 40 and its MACD has turned bearish, making it the weakest link in the portfolio. Proceeds are redeployed into FLY and LUNR, the two highest-scoring (95) candidates with RSI in the ideal 55\u201370 bullish zone rather than overbought territory.",
+    "briefing": "Markets are firmly risk-on today with NASDAQ leading at +1.4%, giving a green light to deploy the $1,546 in idle cash. MARA and NSIT stand out as the cleanest setups \u2014 both score 90+ and have RSI in the 65-68 bullish momentum zone rather than the overbought >70 zone where most other candidates sit. Existing positions in NVDA, AMZN, EAT, OLED, and QQQ are all held; NVDA continues to show strong momentum at score 90 with the current price near cost basis so no add needed yet.",
     "market_education": {
-      "summary_en": "U.S. equities posted broad gains today with the NASDAQ leading at +1.4%, driven by renewed appetite for growth and technology stocks in a risk-on session. Sentiment was supported by easing macro anxiety and continued strength in AI-related hardware names, keeping momentum in high-beta sectors. The relative outperformance of NASDAQ over the S&P 500 signals that investors are rotating back into growth over value, a classic risk-on pattern.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u666e\u904d\u4e0a\u63da\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4ee5+1.4%\u9818\u6f32\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u56de\u5347\uff0c\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u6210\u9577\u80a1\u8207\u79d1\u6280\u677f\u584a\u3002\u5b8f\u89c0\u6182\u616e\u7de9\u548c\u52a0\u4e0aAI\u786c\u9ad4\u76f8\u95dc\u500b\u80a1\u6301\u7e8c\u5f37\u52e2\uff0c\u652f\u6490\u5e02\u5834\u60c5\u7dd2\u3002\u90a3\u65af\u9054\u514b\u8dd1\u8d0f\u6a19\u666e500\u7684\u683c\u5c40\uff0c\u662f\u5178\u578b\u7684\u300c\u98a8\u96aa\u504f\u597d\u958b\u555f\u300d\u8a0a\u865f\uff0c\u986f\u793a\u8cc7\u91d1\u6b63\u5f9e\u50f9\u503c\u80a1\u8f49\u5411\u6210\u9577\u80a1\u914d\u7f6e\u3002",
+      "summary_en": "Equity markets rallied broadly today as risk appetite returned, with technology leading the charge \u2014 the NASDAQ surged 1.4% while the broader S&P 500 gained 0.8%. The outperformance of growth and tech names suggests investors are pricing in a more favorable macro backdrop, likely driven by easing trade tensions and resilient corporate earnings expectations. The breadth of the rally, with momentum stocks across semiconductors, software, and crypto-adjacent names all participating, reinforces a short-term bullish bias.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u53cd\u5f48\uff0c\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\uff0c\u79d1\u6280\u677f\u584a\u9818\u6f32\u2014\u2014\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u6f321.4%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u4e0a\u63da0.8%\u3002\u6210\u9577\u80a1\u8207\u79d1\u6280\u985e\u80a1\u7684\u5f37\u52e2\u8868\u73fe\uff0c\u53cd\u6620\u51fa\u5e02\u5834\u5c0d\u5b8f\u89c0\u74b0\u5883\u6539\u5584\u7684\u9810\u671f\u5347\u6e29\uff0c\u8cbf\u6613\u5c40\u52e2\u7de9\u548c\u53ca\u4f01\u696d\u76c8\u5229\u524d\u666f\u7a69\u5065\u662f\u4e3b\u8981\u652f\u6490\u56e0\u7d20\u3002\u534a\u5c0e\u9ad4\u3001\u8edf\u4ef6\u53ca\u52a0\u5bc6\u8ca8\u5e63\u76f8\u95dc\u80a1\u7968\u7684\u52d5\u80fd\u80a1\u666e\u904d\u540c\u6b65\u4e0a\u6f32\uff0c\u9032\u4e00\u6b65\u5370\u8b49\u77ed\u7dda\u591a\u982d\u683c\u5c40\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Bullish Momentum Zone",
-      "explanation_en": "RSI (Relative Strength Index) measures how fast a stock is moving up or down on a scale of 0\u2013100. An RSI between 55 and 70 is considered the 'bullish momentum zone' \u2014 the stock is trending up with conviction but hasn't yet become overbought (above 70), meaning there's still room to climb before a likely pullback. Today's top picks FLY and LUNR both sit in this sweet spot, which is why they rank above many other candidates with higher RSIs.",
-      "explanation_zh": "RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u4ee50\u5230100\u7684\u523b\u5ea6\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u6216\u4e0b\u8dcc\u7684\u901f\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff0c\u88ab\u8996\u70ba\u300c\u591a\u982d\u52d5\u80fd\u5340\u9593\u300d\u2014\u2014\u80a1\u7968\u6b63\u5f37\u52c1\u4e0a\u5347\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\uff0870\u4ee5\u4e0a\uff09\uff0c\u610f\u5473\u8457\u4ecd\u6709\u4e0a\u5347\u7a7a\u9593\uff0c\u672a\u5230\u62c9\u56de\u4fee\u6b63\u7684\u81e8\u754c\u9ede\u3002\u4eca\u65e5\u7cbe\u9078\u7684FLY\u8207LUNR\u5747\u8655\u65bc\u6b64\u751c\u871c\u5340\u9593\uff0c\u9019\u4e5f\u662f\u5b83\u5011\u8a55\u5206\u9ad8\u65bc\u773e\u591aRSI\u66f4\u9ad8\u500b\u80a1\u7684\u95dc\u9375\u539f\u56e0\u3002"
+      "term": "RSI Momentum Zone",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast and how much a stock's price has moved \u2014 a reading between 55 and 70 is considered the 'bullish momentum zone' where a stock has strong upward momentum but isn't yet overextended. Above 70 is 'overbought,' meaning the rally may be running out of steam and a pullback is more likely. Today we picked MARA and NSIT specifically because their RSIs sat in the 65-68 sweet spot, giving better risk/reward than the many candidates already above 70.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u7684\u6f32\u8dcc\u901f\u5ea6\u8207\u5e45\u5ea6\u2014\u2014RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u88ab\u8996\u70ba\u300c\u5f37\u52e2\u52d5\u80fd\u5340\u9593\u300d\uff0c\u4ee3\u8868\u80a1\u7968\u4ecd\u6709\u4e0a\u5347\u52d5\u529b\uff0c\u4f46\u5c1a\u672a\u904e\u5ea6\u5ef6\u4f38\u3002RSI\u8d85\u904e70\u5247\u5c6c\u300c\u8d85\u8cb7\u300d\uff0c\u610f\u5473\u8457\u5347\u52e2\u53ef\u80fd\u8da8\u65bc\u75b2\u8edf\uff0c\u56de\u8abf\u98a8\u96aa\u4e0a\u5347\u3002\u4eca\u65e5\u9078\u64c7MARA\u548cNSIT\uff0c\u6b63\u662f\u56e0\u70ba\u5176RSI\u8655\u65bc65\u81f368\u7684\u9ec3\u91d1\u5340\u9593\uff0c\u76f8\u6bd4\u5927\u591a\u6578\u5df2\u9032\u5165\u8d85\u8cb7\u5340\u7684\u5019\u9078\u80a1\uff0c\u98a8\u96aa\u56de\u5831\u6bd4\u66f4\u70ba\u7406\u60f3\u3002"
     }
   }
 }
