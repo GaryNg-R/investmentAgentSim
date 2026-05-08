@@ -1,19 +1,38 @@
 {
-  "saved_at": "2026-05-08T19:01:03.255622+00:00",
+  "saved_at": "2026-05-08T20:01:26.654523+00:00",
   "market_direction": "risk_on",
   "decisions": {
-    "trades": [],
+    "trades": [
+      {
+        "action": "SELL",
+        "ticker": "NSIT",
+        "shares": 17,
+        "reasoning": "RSI at 71.4 is overbought and the score dropped to 75 \u2014 rotating this capital into fresher momentum setups scoring 95 before the overbought condition causes a pullback."
+      },
+      {
+        "action": "BUY",
+        "ticker": "NVTS",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 67.7 in the ideal 55\u201370 bullish momentum zone, MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 textbook entry on a risk-on day."
+      },
+      {
+        "action": "BUY",
+        "ticker": "PTCT",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 64.5, MACD bullish crossover, price above SMA-20, and a volume surge confirming institutional interest \u2014 strong setup on a NASDAQ-led day."
+      }
+    ],
     "skip_new_buys": false,
-    "briefing": "Risk-on session with NASDAQ +1.4% and S&P 500 +0.7% \u2014 tech momentum is healthy. Portfolio is well-positioned: NVDA and NSIT both appear on the screener at score 90, confirming our thesis on those holds. Cash is only $170.95, well below the $500 threshold needed to open new positions, so no buys are possible today. Holding all 6 positions and letting the momentum work.",
+    "briefing": "Strong risk-on session with NASDAQ up 1.7% and tech clearly leading. Cash was essentially depleted at $170, so I sold NSIT \u2014 it was drifting into overbought RSI territory (71.4) with a lower score (75) relative to today's best candidates. Proceeds fund two new high-conviction entries in NVTS and PTCT, both scoring 95 with RSI still in the healthy 55\u201370 momentum zone, filling two of our four open slots.",
     "market_education": {
-      "summary_en": "Markets rallied Friday in a clear risk-on session, with the tech-heavy NASDAQ outperforming the broader S&P 500 by a wide margin (+1.4% vs +0.7%). Semiconductor and AI-adjacent names led gains as investors rotated back into growth after weeks of tariff-driven caution. The divergence between NASDAQ and S&P 500 signals that capital is concentrating into high-beta tech rather than spreading broadly, a classic late-week momentum chase.",
-      "summary_zh": "\u9031\u4e94\u7f8e\u80a1\u660e\u986f\u5448\u73fe\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u5e45\u8dd1\u8d0f\u6a19\u666e500\uff0c\u5206\u5225\u4e0a\u6f321.4%\u82070.7%\u3002\u534a\u5c0e\u9ad4\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u985e\u80a1\u9818\u6f32\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u6578\u9031\u95dc\u7a05\u4e0d\u78ba\u5b9a\u56e0\u7d20\u6d88\u9000\u5f8c\u91cd\u56de\u6210\u9577\u80a1\u61f7\u62b1\u3002\u7d0d\u65af\u9054\u514b\u8207\u6a19\u666e500\u7684\u8868\u73fe\u5206\u6b67\uff0c\u986f\u793a\u8cc7\u91d1\u6b63\u96c6\u4e2d\u6d41\u5165\u9ad8\u8c9d\u4ed6\u503c\u79d1\u6280\u80a1\uff0c\u800c\u975e\u5ee3\u6cdb\u5206\u5e03\uff0c\u662f\u5178\u578b\u7684\u9031\u672b\u52d5\u80fd\u8ffd\u6f32\u683c\u5c40\u3002",
+      "summary_en": "Markets surged in a broad risk-on session today, with the NASDAQ outpacing the S&P 500 by more than 2-to-1, signaling that growth and technology stocks were the primary driver. This type of differential \u2014 tech outperforming value \u2014 typically follows positive sentiment around earnings beats, easing macro fears, or AI-sector tailwinds. With no major macro shocks on the table, investors rotated back into higher-beta names, pushing momentum stocks to fresh breakouts.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u5448\u73fe\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u6f321.7%\uff0c\u9060\u8d85\u6a19\u666e500\u76840.8%\u6f32\u5e45\uff0c\u986f\u793a\u79d1\u6280\u53ca\u6210\u9577\u80a1\u4e3b\u5c0e\u5e02\u5834\u8d70\u52e2\u3002\u9019\u7a2e\u79d1\u6280\u80a1\u8dd1\u8d0f\u50f9\u503c\u80a1\u7684\u683c\u5c40\uff0c\u901a\u5e38\u51fa\u73fe\u5728\u4f01\u696d\u8ca1\u5831\u8d85\u9810\u671f\u3001\u5b8f\u89c0\u98a8\u96aa\u964d\u6eab\u6216\u4eba\u5de5\u667a\u80fd\u677f\u584a\u6301\u7e8c\u7372\u8cc7\u91d1\u8ffd\u6367\u4e4b\u969b\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u8ca0\u9762\u885d\u64ca\u7684\u80cc\u666f\u4e0b\uff0c\u6295\u8cc7\u8005\u91cd\u8fd4\u9ad8\u8c9d\u5854\u80a1\uff0c\u63a8\u52d5\u52d5\u80fd\u5f37\u52c1\u7684\u500b\u80a1\u7a81\u7834\u65b0\u9ad8\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On",
-      "explanation_en": "A 'risk-on' market is when investors feel confident and shift money into higher-risk, higher-reward assets like growth stocks and tech. You can spot it when NASDAQ outperforms the S&P 500, and volatile momentum names lead the rally. Today's session is a textbook example \u2014 NASDAQ +1.4% vs S&P +0.7%, with our high-momentum screener stocks (NVDA, NSIT) holding firm.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\uff08Risk-On\uff09\u300d\u5e02\u5834\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u63d0\u5347\uff0c\u9858\u610f\u5c07\u8cc7\u91d1\u8f49\u79fb\u81f3\u9ad8\u98a8\u96aa\u9ad8\u56de\u5831\u8cc7\u7522\uff0c\u4f8b\u5982\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u3002\u5224\u65b7\u65b9\u5f0f\u5305\u62ec\uff1a\u7d0d\u65af\u9054\u514b\u8dd1\u8d0f\u6a19\u666e500\u3001\u52d5\u80fd\u5f37\u52c1\u7684\u500b\u80a1\u9818\u6f32\u3002\u4eca\u65e5\u76e4\u52e2\u6b63\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u98a8\u96aa\u504f\u597d\u683c\u5c40\u2014\u2014\u7d0d\u6307\u4e0a\u6f321.4%\uff0c\u6a19\u666e\u50c50.7%\uff0c\u800c\u6211\u5011\u6301\u6709\u7684\u9ad8\u52d5\u80fd\u500b\u80a1\uff08NVDA\u3001NSIT\uff09\u4e5f\u7a69\u5065\u5b88\u4f4f\u6f32\u5e45\u3002"
+      "term": "Momentum Rotation",
+      "explanation_en": "Momentum rotation is the strategy of selling positions that have become technically extended (overbought) and redeploying that capital into fresher setups with better risk/reward. Today's NSIT sale \u2014 RSI 71.4, score dropping to 75 \u2014 is a classic example: the easy gains have already been captured, so rotating into NVTS and PTCT (RSI 64\u201368, score 95) means entering momentum that still has room to run before hitting overbought levels.",
+      "explanation_zh": "\u52d5\u80fd\u8f2a\u52d5\u662f\u4e00\u7a2e\u4e3b\u52d5\u7ba1\u7406\u7b56\u7565\uff0c\u5373\u8ce3\u51fa\u5df2\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff08\u6280\u8853\u4e0a\u904e\u5ea6\u5ef6\u4f38\uff09\u7684\u6301\u5009\uff0c\u5c07\u8cc7\u91d1\u8f49\u79fb\u81f3\u6280\u8853\u5f62\u614b\u66f4\u5065\u5eb7\u3001\u98a8\u96aa\u56de\u5831\u6bd4\u66f4\u4f73\u7684\u65b0\u6a19\u7684\u3002\u4eca\u65e5\u8ce3\u51faNSIT\uff08RSI\u905471.4\u3001\u8a55\u5206\u964d\u81f375\uff09\u6b63\u662f\u5178\u578b\u6848\u4f8b\uff1a\u4e3b\u8981\u6f32\u5e45\u5df2\u7d93\u514c\u73fe\uff0c\u8f49\u5165NVTS\u8207PTCT\uff08RSI\u4ecb\u65bc64\u81f368\u4e4b\u9593\u3001\u8a55\u520695\uff09\u610f\u5473\u8457\u5728\u52d5\u80fd\u5c1a\u672a\u5230\u9054\u8d85\u8cb7\u6c34\u5e73\u524d\u63d0\u524d\u4f48\u5c40\uff0c\u4ee5\u6355\u6349\u4e0b\u4e00\u6bb5\u5347\u6d6a\u3002"
     }
   }
 }
