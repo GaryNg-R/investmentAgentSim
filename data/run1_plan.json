@@ -1,32 +1,44 @@
 {
-  "saved_at": "2026-05-08T21:01:12.943527+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-05-11T15:02:01.308518+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "SELL",
-        "ticker": "NSIT",
-        "shares": 10,
-        "reasoning": "RSI has pushed into overbought territory (71.4) and score dropped to 75 \u2014 trimming to free cash for score-95 candidates still in healthy momentum zone."
+        "ticker": "NVDA",
+        "shares": 11,
+        "reasoning": "RSI at 77.9 signals overbought conditions with limited near-term upside runway; rotating capital into cleaner score-95 setups while still in modest profit territory."
       },
       {
         "action": "BUY",
-        "ticker": "NVTS",
+        "ticker": "AAOI",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 68 (bullish zone, not overbought), MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 textbook momentum entry on a risk-on day."
+        "reasoning": "Score-95 fiber-optic momentum play with RSI 66.1 firmly in the bullish-not-overbought zone, MACD bullish crossover, and price 17.8% above SMA-20 \u2014 best risk/reward in today's screener."
+      },
+      {
+        "action": "BUY",
+        "ticker": "LASR",
+        "conviction": "high",
+        "reasoning": "Score-95 industrial/defense laser name with RSI 67.9 and price 15.2% above SMA-20, offering strong technical setup with room to run before hitting overbought territory."
+      },
+      {
+        "action": "BUY",
+        "ticker": "NOK",
+        "conviction": "medium",
+        "reasoning": "Score-95 telecom infrastructure play at low per-share price with RSI 61.3, providing diversified 5G exposure at lower volatility than the speculative names on the list."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Strong risk-on session with NASDAQ up 1.7% giving a green light for momentum entries. The portfolio is nearly fully deployed with only $170 cash, so I trimmed 10 shares of NSIT (RSI overbought at 71.4, score dropped to 75) to free up capital. Proceeds fund a new position in NVTS, which leads the screener at score 95 with RSI still comfortably in the bullish zone \u2014 the best risk-adjusted setup available today.",
+    "briefing": "Markets are drifting mildly higher in neutral territory (NASDAQ +0.2%, S&P 500 +0.3%), with no clear directional catalyst. With only $171 in cash, buying anything required freeing up capital first \u2014 NVDA is the obvious candidate given its RSI of 77.9 has pushed it into overbought territory while three score-95 candidates (AAOI, LASR, NOK) still sit in the healthy 55\u201370 RSI range with full momentum upside ahead.",
     "market_education": {
-      "summary_en": "Equity markets surged today with the NASDAQ jumping 1.7% as investor risk appetite returned in force. Tech and growth sectors led the rally, reflecting renewed confidence in AI-driven earnings and cooling macro concerns. The broad S&P 500 gained 0.8%, confirming the move was not isolated to mega-caps but spread across the market.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5f37\u52c1\u53cd\u5f48\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u6f321.7%\uff0c\u6295\u8cc7\u8005\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\u3002\u79d1\u6280\u80a1\u8207\u6210\u9577\u80a1\u5f15\u9818\u6f32\u52e2\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u4eba\u5de5\u667a\u80fd\u76c8\u5229\u524d\u666f\u7684\u4fe1\u5fc3\u56de\u5347\uff0c\u52a0\u4e0a\u5b8f\u89c0\u9762\u6182\u616e\u7a0d\u7de9\u3002\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u63da0.8%\uff0c\u986f\u793a\u6b64\u6ce2\u5347\u52e2\u4e26\u975e\u96c6\u4e2d\u65bc\u5927\u578b\u80a1\uff0c\u800c\u662f\u5168\u9762\u64f4\u6563\u81f3\u4e0d\u540c\u677f\u584a\u3002",
+      "summary_en": "Equities edged marginally higher today as investors digested the recent US-China trade truce while remaining cautious about near-term growth signals. Technology and semiconductor stocks have been among the biggest beneficiaries of the tariff relief rally over the past week, but many names are now technically extended after sharp runs, causing some rotation toward earlier-stage momentum setups. The mild broad-market gains reflect a market catching its breath rather than a new leg higher.",
+      "summary_zh": "\u80a1\u5e02\u4eca\u65e5\u5c0f\u5e45\u6536\u9ad8\uff0c\u6295\u8cc7\u4eba\u6d88\u5316\u8fd1\u671f\u7f8e\u4e2d\u8cbf\u6613\u4f11\u6230\u7684\u5229\u591a\u6d88\u606f\uff0c\u540c\u6642\u5c0d\u77ed\u671f\u7d93\u6fdf\u6210\u9577\u8a0a\u865f\u4fdd\u6301\u5be9\u614e\u3002\u79d1\u6280\u80a1\u8207\u534a\u5c0e\u9ad4\u80a1\u662f\u4e0a\u9031\u95dc\u7a05\u7de9\u89e3\u884c\u60c5\u7684\u6700\u5927\u53d7\u60e0\u8005\uff0c\u4f46\u8a31\u591a\u500b\u80a1\u5728\u6025\u6f32\u5f8c\u6280\u8853\u9762\u5df2\u904e\u5ea6\u5ef6\u4f38\uff0c\u5f15\u767c\u90e8\u5206\u8cc7\u91d1\u8f49\u5411\u52d5\u80fd\u8f03\u65e9\u671f\u3001\u5c1a\u672a\u8d85\u8cb7\u7684\u6a19\u7684\u3002\u6574\u9ad4\u5e02\u5834\u7684\u6eab\u548c\u6f32\u52e2\uff0c\u53cd\u6620\u7684\u662f\u6574\u7406\u5598\u606f\u800c\u975e\u65b0\u4e00\u6ce2\u653b\u52e2\u7684\u555f\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Overbought (RSI > 70)",
-      "explanation_en": "RSI (Relative Strength Index) above 70 signals that a stock has risen so fast that buyers may be exhausted \u2014 making a pullback more likely. It doesn't mean sell immediately, but it raises the bar: you need very strong conviction to hold or add. Today NSIT hit RSI 71.4, so we trimmed rather than let it run unchecked.",
-      "explanation_zh": "\u7576RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8d85\u904e70\uff0c\u4ee3\u8868\u80a1\u50f9\u5347\u5e45\u904e\u6025\u3001\u8cb7\u76e4\u52d5\u80fd\u53ef\u80fd\u8da8\u65bc\u75b2\u4e4f\uff0c\u56de\u8abf\u98a8\u96aa\u4e0a\u5347\u3002\u9019\u4e0d\u4ee3\u8868\u5fc5\u9808\u5373\u6642\u8ce3\u51fa\uff0c\u4f46\u61c9\u63d0\u9ad8\u6301\u5009\u9580\u6abb\u2014\u2014\u9700\u8981\u66f4\u5f37\u7684\u57fa\u672c\u9762\u652f\u6490\u624d\u503c\u5f97\u7e7c\u7e8c\u6301\u6709\u3002\u4eca\u65e5NSIT\u7684RSI\u5347\u81f371.4\uff0c\u5c6c\u65bc\u8d85\u8cb7\u8a0a\u865f\uff0c\u6545\u63a1\u53d6\u90e8\u5206\u6e1b\u6301\u7b56\u7565\uff0c\u9396\u5b9a\u90e8\u5206\u5229\u6f64\u4e26\u8f49\u6295\u52d5\u80fd\u66f4\u5065\u5eb7\u7684\u6a19\u7684\u3002"
+      "term": "Overbought (RSI)",
+      "explanation_en": "When a stock's Relative Strength Index (RSI) climbs above 70, it is considered 'overbought' \u2014 the stock has risen faster than its recent historical pace and may be due for a pause or pullback. Today's NVDA sale was driven largely by its RSI of 77.9, signaling the near-term momentum edge has faded. Overbought is not an automatic sell signal, but it does mean the easy gains may be behind the stock, making it sensible to compare it against fresher setups with more runway.",
+      "explanation_zh": "\u7576\u80a1\u7968\u7684\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u5347\u783470\uff0c\u5373\u9032\u5165\u300c\u8d85\u8cb7\u300d\u72c0\u614b\u2014\u2014\u610f\u6307\u8a72\u80a1\u7684\u6f32\u901f\u5df2\u8d85\u904e\u5176\u8fd1\u671f\u6b77\u53f2\u5747\u901f\uff0c\u53ef\u80fd\u9762\u81e8\u4f11\u6574\u751a\u81f3\u56de\u8abf\u3002\u4eca\u65e5\u8ce3\u51faNVDA\uff0c\u4e3b\u56e0\u4fbf\u662f\u5176RSI\u9ad8\u905477.9\uff0c\u52d5\u80fd\u512a\u52e2\u5df2\u660e\u986f\u8870\u9000\u3002\u8d85\u8cb7\u4e26\u975e\u81ea\u52d5\u89f8\u767c\u7684\u8ce3\u51fa\u8a0a\u865f\uff0c\u4f46\u4ee3\u8868\u8f15\u9b06\u7372\u5229\u7684\u6a5f\u6703\u6216\u5df2\u904e\u53bb\uff0c\u6b64\u6642\u5c07\u8cc7\u91d1\u79fb\u5f80RSI\u66f4\u5065\u5eb7\u3001\u4ecd\u6709\u4e0a\u6f32\u7a7a\u9593\u7684\u65b0\u6a19\u7684\uff0c\u662f\u76f8\u5c0d\u5408\u7406\u7684\u64cd\u4f5c\u601d\u8def\u3002"
     }
   }
 }
