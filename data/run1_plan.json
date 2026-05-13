@@ -1,38 +1,26 @@
 {
-  "saved_at": "2026-05-13T18:01:09.953539+00:00",
+  "saved_at": "2026-05-13T19:01:13.317846+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "AAOI",
-        "shares": 12,
-        "reasoning": "AAOI has surged to $221.51 vs avg cost $188.24, a +17.7% gain that exceeds the +12% profit target \u2014 locking in gains while RSI 76.6 signals overbought conditions."
-      },
-      {
         "action": "BUY",
-        "ticker": "SYNA",
+        "ticker": "ON",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 67.2 in the clean bullish momentum zone \u2014 semiconductor play with MACD crossover and price well above SMA-20, ideal for a risk-on NASDAQ-led day."
-      },
-      {
-        "action": "BUY",
-        "ticker": "NVDA",
-        "conviction": "high",
-        "reasoning": "Score 90 AI-chip leader with RSI 67.7 and MACD crossover confirmed \u2014 NASDAQ +1.1% risk-on tape directly benefits AI infrastructure names."
+        "reasoning": "ON Semiconductor scores top-tier (90) with RSI 68.5 in the sweet-spot bullish momentum zone, MACD bullish crossover, and price 7% above SMA-20 \u2014 semiconductor names are leading in today's risk-on, NASDAQ-led tape and this setup avoids the overbought crowding seen in lower-scored names."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on with NASDAQ up 1.1%, favoring growth and tech names. AAOI has run past its +12% profit target at nearly +18% \u2014 selling the full position to lock in gains and redeploy capital into fresher momentum setups. Deploying proceeds into SYNA and NVDA, both score-95/90 names with clean RSI and MACD confirmation that align with today's bullish tape.",
+    "briefing": "Markets are firmly risk-on today with NASDAQ up 1.2% and S&P 500 up 0.6%, favouring growth and tech names. With $743 in cash, 4 open slots, and a strong score-90 semiconductor candidate in the sweet spot (RSI below 70, MACD bullish), deploying into ON Semiconductor is the clear best use of available capital. Existing positions are held \u2014 no stop-loss triggers are visible and the broader portfolio is up 23.6%.",
     "market_education": {
-      "summary_en": "U.S. equities rallied broadly on May 13, with the NASDAQ outperforming at +1.1% as technology and semiconductor stocks led the advance amid renewed investor appetite for growth assets. Risk sentiment improved following easing trade tensions and positive macro data, drawing capital back into high-beta names that had pulled back in recent weeks. The S&P 500 added a more modest +0.6%, reflecting selective strength concentrated in tech rather than broad sector rotation.",
-      "summary_zh": "\u7f8e\u80a15\u670813\u65e5\u666e\u904d\u4e0a\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4ee5+1.1%\u9818\u5148\u5927\u76e4\uff0c\u79d1\u6280\u53ca\u534a\u5c0e\u9ad4\u985e\u80a1\u5f15\u9818\u5347\u52e2\uff0c\u986f\u793a\u6295\u8cc7\u8005\u91cd\u62fe\u5c0d\u6210\u9577\u80a1\u7684\u504f\u597d\u3002\u5e02\u5834\u60c5\u7dd2\u56e0\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u7de9\u548c\u53ca\u6b63\u9762\u5b8f\u89c0\u6578\u64da\u800c\u6539\u5584\uff0c\u8cc7\u91d1\u6d41\u56de\u8fd1\u671f\u56de\u8abf\u7684\u9ad8\u8c9d\u5854\u503c\u500b\u80a1\u3002\u6a19\u666e500\u6307\u6578\u5247\u76f8\u5c0d\u6eab\u548c\u4e0a\u6f320.6%\uff0c\u53cd\u6620\u6f32\u52e2\u96c6\u4e2d\u65bc\u79d1\u6280\u677f\u584a\uff0c\u800c\u975e\u5168\u9762\u7684\u677f\u584a\u8f2a\u52d5\u3002",
+      "summary_en": "U.S. equities advanced broadly today with the NASDAQ outpacing the S&P 500, reflecting renewed appetite for growth and technology stocks. Semiconductor and AI-adjacent names led the rally as investors rotated back into higher-beta sectors, buoyed by easing macro concerns and continued optimism around enterprise AI spending. The divergence between NASDAQ (+1.2%) and S&P 500 (+0.6%) signals that the move was concentrated in tech rather than a broad-based advance.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u4e0a\u63da\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u8d85\u8d8a\u6a19\u666e500\uff0c\u986f\u793a\u5e02\u5834\u5c0d\u6210\u9577\u80a1\u53ca\u79d1\u6280\u677f\u584a\u7684\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\u3002\u534a\u5c0e\u9ad4\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u500b\u80a1\u5f15\u9818\u5347\u52e2\uff0c\u53d7\u60e0\u65bc\u5b8f\u89c0\u6182\u616e\u7de9\u548c\u53ca\u4f01\u696dAI\u8cc7\u672c\u652f\u51fa\u524d\u666f\u6301\u7e8c\u6a02\u89c0\u3002\u90a3\u65af\u9054\u514b\uff08+1.2%\uff09\u8207\u6a19\u666e500\uff08+0.6%\uff09\u4e4b\u9593\u7684\u8d70\u52e2\u5206\u5316\uff0c\u53cd\u6620\u672c\u8f2a\u6f32\u52e2\u96c6\u4e2d\u65bc\u79d1\u6280\u985e\u80a1\uff0c\u4e26\u975e\u5168\u9762\u6027\u7684\u5ee3\u6cdb\u4e0a\u6f32\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Profit Target",
-      "explanation_en": "A profit target is a predetermined price level at which you sell a position to lock in gains. Rather than hoping a stock keeps climbing, setting a target (like +12%) forces disciplined selling before greed takes over \u2014 protecting realized gains if the stock reverses. AAOI's +17.7% gain is a textbook case: riding momentum is good, but exiting at a profit target prevents giving back your gains.",
-      "explanation_zh": "\u300c\u7372\u5229\u76ee\u6a19\u300d\u662f\u9810\u5148\u8a2d\u5b9a\u7684\u8ce3\u51fa\u50f9\u4f4d\uff0c\u7528\u65bc\u9396\u5b9a\u5df2\u7d2f\u7a4d\u7684\u6536\u76ca\u3002\u8207\u5176\u671f\u671b\u80a1\u50f9\u6301\u7e8c\u4e0a\u6f32\uff0c\u8a2d\u5b9a\u76ee\u6a19\uff08\u4f8b\u5982+12%\uff09\u80fd\u5f37\u5236\u57f7\u884c\u7d00\u5f8b\u6027\u8ce3\u51fa\uff0c\u5728\u8caa\u5ff5\u4e3b\u5c0e\u524d\u4fdd\u4f4f\u5229\u6f64\u2014\u2014\u842c\u4e00\u80a1\u50f9\u53cd\u8f49\u4e5f\u80fd\u5b88\u4f4f\u5df2\u5be6\u73fe\u7684\u7372\u76ca\u3002AAOI\u6b64\u6b21+17.7%\u7684\u6f32\u5e45\u6b63\u662f\u5178\u578b\u6848\u4f8b\uff1a\u8ffd\u8da8\u52e2\u56fa\u7136\u53ef\u884c\uff0c\u4f46\u5728\u7372\u5229\u76ee\u6a19\u51fa\u5834\u624d\u80fd\u78ba\u4fdd\u4e0d\u628a\u5229\u6f64\u9084\u7d66\u5e02\u5834\u3002"
+      "term": "Risk-On",
+      "explanation_en": "A 'risk-on' market is when investors feel confident and shift money into higher-risk, higher-reward assets like growth stocks and semiconductors \u2014 and away from safe havens like bonds or gold. Today's NASDAQ outperformance versus the S&P 500 is a textbook risk-on signal: money is flowing toward tech and smaller high-beta names. As an active manager, risk-on days are when momentum setups like ON Semiconductor \u2014 strong RSI, bullish MACD, price above its 20-day average \u2014 tend to follow through.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\uff08Risk-On\uff09\u300d\u5e02\u6cc1\uff0c\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u5c07\u8cc7\u91d1\u5f9e\u50b5\u5238\u3001\u9ec3\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u8f49\u79fb\u81f3\u6210\u9577\u80a1\u3001\u534a\u5c0e\u9ad4\u7b49\u9ad8\u98a8\u96aa\u9ad8\u56de\u5831\u8cc7\u7522\u3002\u4eca\u65e5\u90a3\u65af\u9054\u514b\u8dd1\u8d0f\u6a19\u666e500\uff0c\u6b63\u662f\u98a8\u96aa\u504f\u597d\u5347\u6eab\u7684\u7d93\u5178\u8a0a\u865f\u2014\u2014\u8cc7\u91d1\u6b63\u6e67\u5165\u79d1\u6280\u53ca\u9ad8\u8c9d\u4ed6\u503c\u500b\u80a1\u3002\u5c0d\u4e3b\u52d5\u578b\u6295\u8cc7\u8005\u800c\u8a00\uff0cRisk-On\u74b0\u5883\u4e0b\uff0cRSI\u5f37\u52e2\u3001MACD\u770b\u6f32\u4e14\u80a1\u50f9\u7ad9\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\u7684\u52d5\u80fd\u80a1\uff0c\u5f80\u5f80\u66f4\u5bb9\u6613\u5ef6\u7e8c\u5347\u52e2\u3002"
     }
   }
 }
