@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-05-13T20:01:06.032243+00:00",
+  "saved_at": "2026-05-13T21:01:11.953481+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
+        "ticker": "VSH",
+        "conviction": "high",
+        "reasoning": "Top score 95 with volume surge, bullish MACD crossover, and RSI in the ideal momentum zone \u2014 best risk/reward setup available today."
+      },
+      {
+        "action": "BUY",
         "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "RSI 68.6 in optimal bullish momentum zone, MACD bullish crossover, and NASDAQ +1.2% outperformance today signals AI/semiconductor sector strength \u2014 using remaining cash to fill an open slot with highest-quality name in the screener."
+        "reasoning": "AI sector leader with score 90, RSI 68.4 in the sweet spot, and strong price action above SMA-20 \u2014 ideal risk-on play."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Risk-on day with NASDAQ leading S&P 500, signaling tech and growth outperformance. Existing portfolio positions in QQQ, AMZN, and SYNA are well-positioned for this environment. Used the $743 cash reserve to open NVDA \u2014 it scores 90 on momentum, sits in the ideal RSI zone (not yet overbought), and directly benefits from the AI/chip theme driving today's NASDAQ gains.",
+    "briefing": "Markets are firmly risk-on with NASDAQ leading at +1.2%, favoring growth and tech names. With 4 open slots and limited cash ($743), I'm deploying into the two highest-quality setups: VSH (score 95, volume confirmation) and NVDA (score 90, AI leadership in a strong tape). Existing positions all remain above stop-loss levels; SYNA is slightly below cost but still showing score 95 momentum signals so no action needed.",
     "market_education": {
-      "summary_en": "Markets pushed higher on May 13 with the NASDAQ outpacing the broader S&P 500, a pattern consistent with renewed appetite for growth and technology names. Semiconductor and AI-linked stocks led the advance as investors rotated back into high-beta tech following recent trade tension relief. Risk-on sentiment was reinforced by stable macro data and continued optimism around enterprise AI spending cycles.",
-      "summary_zh": "5\u670813\u65e5\u7f8e\u80a1\u8d70\u9ad8\uff0c\u7d0d\u65af\u9054\u514b\u6f32\u5e45\u660e\u986f\u9818\u5148\u6a19\u666e500\uff0c\u986f\u793a\u5e02\u5834\u5c0d\u6210\u9577\u578b\u53ca\u79d1\u6280\u80a1\u7684\u98a8\u96aa\u504f\u597d\u56de\u5347\u3002\u534a\u5c0e\u9ad4\u8207AI\u6982\u5ff5\u80a1\u5e36\u52d5\u5927\u5e02\u4e0a\u63da\uff0c\u6295\u8cc7\u8005\u5728\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u7de9\u548c\u5f8c\u91cd\u65b0\u52a0\u78bc\u9ad8Beta\u79d1\u6280\u80a1\u3002\u4f01\u696dAI\u652f\u51fa\u6301\u7e8c\u64f4\u5927\u7684\u6a02\u89c0\u9810\u671f\uff0c\u52a0\u4e0a\u7a69\u5065\u7684\u7e3d\u9ad4\u7d93\u6fdf\u6578\u64da\uff0c\u9032\u4e00\u6b65\u978f\u56fa\u5e02\u5834\u7684\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u3002",
+      "summary_en": "Equity markets rallied in risk-on fashion, with the NASDAQ outpacing the broader S&P 500 as technology and growth stocks led gains. Improving macro sentiment \u2014 likely tied to easing trade concerns and resilient economic data \u2014 drove investors back into higher-beta names. The divergence between NASDAQ (+1.2%) and S&P 500 (+0.6%) signals rotation into tech and away from defensive sectors.",
+      "summary_zh": "\u80a1\u5e02\u4ee5\u98a8\u96aa\u504f\u597d\u6a21\u5f0f\u4e0a\u6f32\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8868\u73fe\u512a\u65bc\u5927\u76e4\uff0c\u79d1\u6280\u8207\u6210\u9577\u80a1\u5f15\u9818\u5347\u52e2\u3002\u5b8f\u89c0\u60c5\u7dd2\u6539\u5584\u2014\u2014\u53ef\u80fd\u6e90\u65bc\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u7de9\u548c\u53ca\u7d93\u6fdf\u6578\u64da\u7a69\u5065\u2014\u2014\u4fc3\u4f7f\u6295\u8cc7\u8005\u91cd\u65b0\u8cb7\u5165\u9ad8\u8c9d\u5854\u503c\u6a19\u7684\u3002\u7d0d\u65af\u9054\u514b\uff08+1.2%\uff09\u8207\u6a19\u666e500\uff08+0.6%\uff09\u4e4b\u9593\u7684\u5206\u5316\uff0c\u986f\u793a\u8cc7\u91d1\u6b63\u5f9e\u9632\u79a6\u6027\u677f\u584a\u8f2a\u52d5\u81f3\u79d1\u6280\u985e\u80a1\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On Sentiment",
-      "explanation_en": "Risk-on describes a market environment where investors prefer higher-risk, higher-reward assets like growth stocks and tech over defensive holdings like bonds or utilities. Today's session \u2014 NASDAQ up 1.2% versus S&P 500 up only 0.6% \u2014 is a textbook risk-on signal, as money flows disproportionately into volatile, high-growth sectors. Recognizing risk-on versus risk-off days helps time entries into momentum names like NVDA.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u50be\u5411\u65bc\u8cb7\u5165\u9ad8\u98a8\u96aa\u3001\u9ad8\u56de\u5831\u8cc7\u7522\uff08\u5982\u6210\u9577\u80a1\u3001\u79d1\u6280\u80a1\uff09\uff0c\u800c\u975e\u9632\u79a6\u6027\u8cc7\u7522\uff08\u5982\u50b5\u5238\u6216\u516c\u7528\u4e8b\u696d\u80a1\uff09\u7684\u5e02\u5834\u74b0\u5883\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u6f32\u5e45\uff08+1.2%\uff09\u660e\u986f\u512a\u65bc\u6a19\u666e500\uff08+0.6%\uff09\uff0c\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u2014\u2014\u8cc7\u91d1\u96c6\u4e2d\u6d41\u5165\u6ce2\u52d5\u6027\u8f03\u9ad8\u7684\u6210\u9577\u578b\u677f\u584a\u3002\u638c\u63e1\u5e02\u5834\u60c5\u7dd2\u7684\u5207\u63db\uff0c\u6709\u52a9\u65bc\u5728\u5982NVDA\u7b49\u52d5\u80fd\u5f37\u52c1\u7684\u500b\u80a1\u51fa\u73fe\u6700\u4f73\u9032\u5834\u6642\u6a5f\u6642\u53ca\u6642\u4ecb\u5165\u3002"
+      "term": "Risk-On",
+      "explanation_en": "Risk-on describes a market environment where investors are confident and willing to buy higher-risk assets like tech stocks, small caps, and growth names. Today's session \u2014 with NASDAQ surging 1.2% and broad buying in momentum stocks \u2014 is a textbook risk-on day. In these conditions, aggressive positions in high-momentum names tend to outperform defensive holds like bonds or utilities.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\u3001\u9858\u610f\u8cb7\u5165\u79d1\u6280\u80a1\u3001\u5c0f\u578b\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\u7684\u5e02\u5834\u74b0\u5883\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u5f37\u52c1\u4e0a\u6f321.2%\uff0c\u52d5\u80fd\u80a1\u5168\u9762\u53d7\u8ffd\u6367\uff0c\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u884c\u60c5\u3002\u5728\u9019\u7a2e\u74b0\u5883\u4e0b\uff0c\u6301\u6709\u9ad8\u52d5\u80fd\u6210\u9577\u80a1\u7684\u7a4d\u6975\u5009\u4f4d\uff0c\u5f80\u5f80\u512a\u65bc\u9632\u79a6\u6027\u7684\u50b5\u5238\u6216\u516c\u7528\u4e8b\u696d\u985e\u8cc7\u7522\u3002"
     }
   }
 }
