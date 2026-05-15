@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-05-15T18:01:16.025683+00:00",
+  "saved_at": "2026-05-15T19:01:39.758961+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,20 +7,26 @@
         "action": "BUY",
         "ticker": "PATH",
         "conviction": "high",
-        "reasoning": "Score 95 with all three bullish signals aligned \u2014 RSI 67.0 in momentum zone, MACD crossover, and histogram rising \u2014 UiPath is an AI automation leader at a low unit price that lets us fully deploy remaining cash."
+        "reasoning": "Top momentum score 95, RSI 62.7 in the bullish sweet spot, MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 AI automation tailwind with clean technical structure and affordable price to deploy remaining cash."
+      },
+      {
+        "action": "BUY",
+        "ticker": "AXTI",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 61.4, MACD bullish crossover, and rising histogram momentum \u2014 strong technical setup across all three signals, deploying into an additional open slot."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets pulled back modestly today (-0.7% across NASDAQ and S&P 500), a mild neutral day that doesn't signal broader risk-off conditions. With 4 open slots and $743 in idle cash exceeding the $500 threshold, deploying into the best screened candidate is the right call. PATH leads with a score-95 clean sweep of momentum signals, and the AI automation space continues to show relative strength.",
+    "briefing": "Markets pulled back modestly today \u2014 NASDAQ -1.0%, S&P 500 -0.9% \u2014 consistent with routine profit-taking after the recent rally rather than a risk-off shift. The portfolio is performing well at +23.6% and we have 4 open slots with $743 cash. Deploying into PATH and AXTI, both scoring 95 with clean momentum across RSI, MACD, and SMA-20 \u2014 targeting AI automation and semiconductor exposure while technical signals remain constructive.",
     "market_education": {
-      "summary_en": "U.S. equity markets saw a broad but shallow pullback of 0.7% on both the S&P 500 and NASDAQ, consistent with routine profit-taking or consolidation after a recent rally phase. No single sector drove the decline \u2014 the uniform drop across indices suggests macro repositioning rather than a fundamental catalyst. With RSI and MACD readings still bullish on high-scoring screened names, the pullback is more likely a pause than a trend reversal.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5c0f\u5e45\u56de\u843d\uff0c\u6a19\u666e500\u8207\u90a3\u65af\u9054\u514b\u5747\u4e0b\u8dcc0.7%\uff0c\u8d70\u52e2\u5c6c\u65bc\u6280\u8853\u6027\u6574\u7406\uff0c\u4e26\u975e\u7531\u55ae\u4e00\u677f\u584a\u4e3b\u5c0e\uff0c\u53cd\u6620\u5b8f\u89c0\u8cc7\u91d1\u7684\u77ed\u66ab\u8abf\u5009\u3002\u503c\u5f97\u6ce8\u610f\u7684\u662f\uff0c\u591a\u96bb\u8a55\u520695\u7684\u7cbe\u9078\u80a1\u7968RSI\u8207MACD\u6307\u6a19\u4f9d\u7136\u4fdd\u6301\u591a\u982d\u683c\u5c40\uff0c\u986f\u793a\u672c\u6b21\u56de\u8abf\u66f4\u50cf\u662f\u5f37\u52e2\u6574\u7406\uff0c\u800c\u975e\u8da8\u52e2\u53cd\u8f49\u3002\u5728\u6b64\u80cc\u666f\u4e0b\uff0c\u9022\u4f4e\u4f48\u5c40\u52d5\u80fd\u5f37\u52c1\u7684\u512a\u8cea\u500b\u80a1\u4ecd\u5c6c\u5408\u7406\u7b56\u7565\u3002",
+      "summary_en": "U.S. equities dipped modestly on Friday with the S&P 500 off 0.9% and the NASDAQ down 1.0%, reflecting broad-based profit-taking after a strong multi-week recovery rather than any fundamental deterioration. The pullback was orderly and not driven by a single catalyst, suggesting investors are reducing weekend risk exposure rather than repositioning structurally. Market breadth remained constructive and the move does not indicate a trend reversal.",
+      "summary_zh": "\u7f8e\u80a1\u9031\u4e94\u5c0f\u5e45\u56de\u843d\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.9%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc1.0%\uff0c\u4e3b\u8981\u53cd\u6620\u591a\u9031\u5f37\u52c1\u53cd\u5f48\u5f8c\u7684\u666e\u904d\u7372\u5229\u56de\u5410\uff0c\u57fa\u672c\u9762\u4e26\u672a\u51fa\u73fe\u660e\u986f\u60e1\u5316\u3002\u6b64\u6b21\u56de\u8abf\u8d70\u52e2\u5e73\u7a69\uff0c\u672a\u898b\u55ae\u4e00\u660e\u986f\u5229\u7a7a\u50ac\u5316\uff0c\u986f\u793a\u6295\u8cc7\u8005\u5728\u9031\u672b\u524d\u4e3b\u52d5\u964d\u4f4e\u98a8\u96aa\u655e\u53e3\uff0c\u800c\u975e\u7b56\u7565\u6027\u8abf\u5009\u3002\u6574\u9ad4\u5e02\u5834\u5ee3\u5ea6\u4ecd\u5177\u5efa\u8a2d\u6027\uff0c\u5c1a\u4e0d\u69cb\u6210\u8da8\u52e2\u53cd\u8f49\u7684\u4fe1\u865f\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already moving in the right direction, on the theory that trends tend to continue. Key signals include RSI in the 55\u201370 range (strong but not overbought), MACD crossovers, and price above the 20-day moving average \u2014 exactly what today's top candidates show. The risk is that momentum can reverse sharply, which is why the stop-loss rule at -7% acts as a safety net.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u6838\u5fc3\u662f\u300c\u8ffd\u5f37\u4e0d\u8ffd\u5f31\u300d\u2014\u2014\u8cb7\u5165\u5df2\u5728\u4e0a\u5347\u8da8\u52e2\u4e2d\u7684\u80a1\u7968\uff0c\u56e0\u70ba\u8da8\u52e2\u4e00\u65e6\u5f62\u6210\u5f80\u5f80\u5177\u6709\u6163\u6027\u3002\u5e38\u7528\u6307\u6a19\u5305\u62ecRSI\u8655\u65bc55\u81f370\u7684\u591a\u982d\u5340\u9593\uff08\u5f37\u52e2\u4f46\u672a\u8d85\u8cb7\uff09\u3001MACD\u91d1\u53c9\uff0c\u4ee5\u53ca\u80a1\u50f9\u572820\u65e5\u5747\u7dda\u4e4b\u4e0a\uff0c\u9019\u6b63\u662f\u4eca\u65e5\u8a55\u5206\u6700\u9ad8\u5019\u9078\u80a1\u7684\u5171\u540c\u7279\u5fb5\u3002\u52d5\u80fd\u7b56\u7565\u7684\u98a8\u96aa\u5728\u65bc\u8da8\u52e2\u53ef\u80fd\u6025\u901f\u53cd\u8f49\uff0c\u56e0\u6b64\u914d\u5408-7%\u6b62\u640d\u898f\u5247\u53ef\u6709\u6548\u63a7\u5236\u4e0b\u884c\u98a8\u96aa\u3002"
+      "explanation_en": "Momentum investing buys stocks with strong recent price trends, betting that winners keep winning in the short-to-medium term. Technical tools like RSI (measuring the speed of price moves) and MACD (tracking trend direction and strength) help identify stocks in the 'sweet spot' \u2014 trending up but not yet overbought. Today's picks PATH and AXTI both sit in the RSI 60\u201365 zone with bullish MACD crossovers, the textbook momentum entry signal.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u7b56\u7565\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u8da8\u52e2\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u5f37\u8005\u5728\u77ed\u4e2d\u671f\u5167\u6301\u7e8c\u9818\u8dd1\u3002RSI\uff08\u8861\u91cf\u50f9\u683c\u4e0a\u6f32\u901f\u5ea6\uff09\u548cMACD\uff08\u8ffd\u8e64\u8da8\u52e2\u65b9\u5411\u8207\u5f37\u5ea6\uff09\u7b49\u6280\u8853\u6307\u6a19\u6709\u52a9\u65bc\u8b58\u5225\u300c\u751c\u871c\u5340\u300d\u80a1\u7968\u2014\u2014\u8da8\u52e2\u5411\u4e0a\u4f46\u5c1a\u672a\u8d85\u8cb7\u3002\u4eca\u65e5\u8cb7\u5165\u7684PATH\u548cAXTI\u7684RSI\u5747\u8655\u65bc60\u81f365\u5340\u9593\uff0c\u540c\u6642MACD\u91d1\u53c9\u5411\u4e0a\uff0c\u662f\u52d5\u91cf\u5165\u5834\u7684\u6a19\u6e96\u6280\u8853\u4fe1\u865f\u3002"
     }
   }
 }
