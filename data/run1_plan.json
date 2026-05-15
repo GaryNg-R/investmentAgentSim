@@ -1,32 +1,19 @@
 {
-  "saved_at": "2026-05-15T19:01:39.758961+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-05-15T20:00:42.314626+00:00",
+  "market_direction": "risk_off",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "PATH",
-        "conviction": "high",
-        "reasoning": "Top momentum score 95, RSI 62.7 in the bullish sweet spot, MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 AI automation tailwind with clean technical structure and affordable price to deploy remaining cash."
-      },
-      {
-        "action": "BUY",
-        "ticker": "AXTI",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 61.4, MACD bullish crossover, and rising histogram momentum \u2014 strong technical setup across all three signals, deploying into an additional open slot."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Markets pulled back modestly today \u2014 NASDAQ -1.0%, S&P 500 -0.9% \u2014 consistent with routine profit-taking after the recent rally rather than a risk-off shift. The portfolio is performing well at +23.6% and we have 4 open slots with $743 cash. Deploying into PATH and AXTI, both scoring 95 with clean momentum across RSI, MACD, and SMA-20 \u2014 targeting AI automation and semiconductor exposure while technical signals remain constructive.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Markets are broadly selling off today with the S&P 500 down 1.2% and NASDAQ down 1.5%, signaling a risk-off session. No screened candidates are available under these conditions, so no new positions will be opened. Existing holdings \u2014 which are collectively up 23.6% \u2014 are left untouched as none appear near their stop-loss thresholds.",
     "market_education": {
-      "summary_en": "U.S. equities dipped modestly on Friday with the S&P 500 off 0.9% and the NASDAQ down 1.0%, reflecting broad-based profit-taking after a strong multi-week recovery rather than any fundamental deterioration. The pullback was orderly and not driven by a single catalyst, suggesting investors are reducing weekend risk exposure rather than repositioning structurally. Market breadth remained constructive and the move does not indicate a trend reversal.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u4e94\u5c0f\u5e45\u56de\u843d\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.9%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc1.0%\uff0c\u4e3b\u8981\u53cd\u6620\u591a\u9031\u5f37\u52c1\u53cd\u5f48\u5f8c\u7684\u666e\u904d\u7372\u5229\u56de\u5410\uff0c\u57fa\u672c\u9762\u4e26\u672a\u51fa\u73fe\u660e\u986f\u60e1\u5316\u3002\u6b64\u6b21\u56de\u8abf\u8d70\u52e2\u5e73\u7a69\uff0c\u672a\u898b\u55ae\u4e00\u660e\u986f\u5229\u7a7a\u50ac\u5316\uff0c\u986f\u793a\u6295\u8cc7\u8005\u5728\u9031\u672b\u524d\u4e3b\u52d5\u964d\u4f4e\u98a8\u96aa\u655e\u53e3\uff0c\u800c\u975e\u7b56\u7565\u6027\u8abf\u5009\u3002\u6574\u9ad4\u5e02\u5834\u5ee3\u5ea6\u4ecd\u5177\u5efa\u8a2d\u6027\uff0c\u5c1a\u4e0d\u69cb\u6210\u8da8\u52e2\u53cd\u8f49\u7684\u4fe1\u865f\u3002",
+      "summary_en": "Today's risk-off session saw equities retreat broadly, with tech-heavy NASDAQ leading declines at -1.5%. Risk-off moves typically occur when investors rotate away from growth and speculative assets toward safer instruments like bonds, gold, or cash \u2014 often triggered by macro uncertainty, rising rates expectations, or geopolitical developments. With no screened momentum candidates available, the market's own signal is to sit on hands and preserve capital rather than chase entries into weakening tape.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u5448\u73fe\u660e\u986f\u7684\u98a8\u96aa\u898f\u907f\u60c5\u7dd2\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u90541.5%\uff0c\u6a19\u666e500\u4ea6\u4e0b\u632b1.2%\u3002\u98a8\u96aa\u898f\u907f\uff08Risk-Off\uff09\u901a\u5e38\u610f\u5473\u8457\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u6210\u9577\u578b\u53ca\u6295\u6a5f\u6027\u8cc7\u7522\u64a4\u51fa\uff0c\u8f49\u5411\u50b5\u5238\u3001\u9ec3\u91d1\u6216\u73fe\u91d1\u7b49\u907f\u96aa\u5de5\u5177\uff0c\u5e38\u898b\u89f8\u767c\u56e0\u7d20\u5305\u62ec\u5b8f\u89c0\u7d93\u6fdf\u4e0d\u78ba\u5b9a\u6027\u3001\u5229\u7387\u9810\u671f\u5347\u6eab\u6216\u5730\u7de3\u653f\u6cbb\u98a8\u96aa\u3002\u7531\u65bc\u7576\u65e5\u52d5\u80fd\u7be9\u9078\u5668\u672a\u80fd\u627e\u5230\u5408\u683c\u5019\u9078\u6a19\u7684\uff0c\u5e02\u5834\u672c\u8eab\u5df2\u767c\u51fa\u660e\u78ba\u4fe1\u865f\uff1a\u6b64\u6642\u61c9\u4fdd\u7559\u8cc7\u672c\u3001\u975c\u5f85\u66f4\u4f73\u9032\u5834\u6642\u6a5f\uff0c\u800c\u975e\u5728\u4e0b\u8dcc\u8da8\u52e2\u4e2d\u5f37\u884c\u5165\u5e02\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing buys stocks with strong recent price trends, betting that winners keep winning in the short-to-medium term. Technical tools like RSI (measuring the speed of price moves) and MACD (tracking trend direction and strength) help identify stocks in the 'sweet spot' \u2014 trending up but not yet overbought. Today's picks PATH and AXTI both sit in the RSI 60\u201365 zone with bullish MACD crossovers, the textbook momentum entry signal.",
-      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u7b56\u7565\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u8da8\u52e2\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u5f37\u8005\u5728\u77ed\u4e2d\u671f\u5167\u6301\u7e8c\u9818\u8dd1\u3002RSI\uff08\u8861\u91cf\u50f9\u683c\u4e0a\u6f32\u901f\u5ea6\uff09\u548cMACD\uff08\u8ffd\u8e64\u8da8\u52e2\u65b9\u5411\u8207\u5f37\u5ea6\uff09\u7b49\u6280\u8853\u6307\u6a19\u6709\u52a9\u65bc\u8b58\u5225\u300c\u751c\u871c\u5340\u300d\u80a1\u7968\u2014\u2014\u8da8\u52e2\u5411\u4e0a\u4f46\u5c1a\u672a\u8d85\u8cb7\u3002\u4eca\u65e5\u8cb7\u5165\u7684PATH\u548cAXTI\u7684RSI\u5747\u8655\u65bc60\u81f365\u5340\u9593\uff0c\u540c\u6642MACD\u91d1\u53c9\u5411\u4e0a\uff0c\u662f\u52d5\u91cf\u5165\u5834\u7684\u6a19\u6e96\u6280\u8853\u4fe1\u865f\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "A 'risk-off' environment is when investors collectively decide to reduce exposure to riskier assets like stocks \u2014 especially growth and tech stocks \u2014 and move money into safer havens like bonds, cash, or gold. It often shows up as broad market declines across multiple sectors simultaneously. For active traders, it's a signal to pause new buying and focus on protecting existing gains rather than hunting for new opportunities.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u96c6\u9ad4\u6c7a\u5b9a\u964d\u4f4e\u5c0d\u80a1\u7968\u7b49\u98a8\u96aa\u6027\u8cc7\u7522\u7684\u6301\u5009\uff0c\u5c24\u5176\u662f\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\uff0c\u4e26\u5c07\u8cc7\u91d1\u8f49\u79fb\u81f3\u50b5\u5238\u3001\u73fe\u91d1\u6216\u9ec3\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u9019\u7a2e\u60c5\u7dd2\u901a\u5e38\u8868\u73fe\u70ba\u591a\u500b\u677f\u584a\u540c\u6b65\u4e0b\u8dcc\uff0c\u662f\u5e02\u5834\u6574\u9ad4\u4fe1\u5fc3\u4e0d\u8db3\u7684\u8a0a\u865f\u3002\u5c0d\u65bc\u4e3b\u52d5\u4ea4\u6613\u8005\u800c\u8a00\uff0c\u9019\u610f\u5473\u8457\u61c9\u66ab\u7de9\u65b0\u7684\u8cb7\u5165\u52d5\u4f5c\uff0c\u96c6\u4e2d\u7cbe\u529b\u4fdd\u8b77\u73fe\u6709\u6301\u5009\u7684\u7372\u5229\uff0c\u800c\u975e\u6025\u65bc\u5c0b\u627e\u65b0\u7684\u5165\u5834\u6a5f\u6703\u3002"
     }
   }
 }
