@@ -1,38 +1,19 @@
 {
-  "saved_at": "2026-05-18T18:01:25.246333+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-05-18T19:00:35.826356+00:00",
+  "market_direction": "risk_off",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "FLY",
-        "conviction": "high",
-        "reasoning": "Score 95 with a textbook momentum setup: RSI 62.3 in the bullish zone, MACD crossover with a rising histogram, and price 5% above SMA-20 \u2014 all three signals aligned."
-      },
-      {
-        "action": "BUY",
-        "ticker": "TME",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 58.5 and full MACD bullish confirmation; low price at $9 allows meaningful share count within limited remaining cash."
-      },
-      {
-        "action": "BUY",
-        "ticker": "STNE",
-        "conviction": "medium",
-        "reasoning": "Score 90 with RSI just entering the bullish zone at 56.1 and a fresh MACD crossover, suggesting early-stage momentum with room to run."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Markets dipped modestly today \u2014 NASDAQ -0.7%, S&P 500 -0.2% \u2014 a soft but non-alarming pullback with no clear directional catalyst. The portfolio is up 24.6% overall with 4 open slots and $843 in cash well above the $500 deploy threshold, so holding idle makes no sense. I'm filling three slots with the top score-95 and score-90 momentum names: FLY, TME, and STNE, all showing clean technical entry points before they get crowded.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Markets are in risk-off mode today with the NASDAQ down 1.3% and S&P 500 down 0.7%. The screener returned zero candidates, which is a clear signal to sit on hands. With a 24.6% total gain on the portfolio, capital preservation is the priority \u2014 holding all six positions and letting stop-losses do their job if anything deteriorates further.",
     "market_education": {
-      "summary_en": "U.S. equities slipped modestly on Monday as investors adopted a wait-and-see posture ahead of upcoming economic data. The NASDAQ underperformed at -0.7% as growth and technology shares saw mild profit-taking after a strong recent run. The S&P 500 eased 0.2% in low-conviction trading, with no major macro catalysts to shift the neutral risk tone.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u5468\u4e00\u6eab\u548c\u56de\u843d\uff0c\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u5373\u5c07\u516c\u4f48\u7684\u5b8f\u89c0\u6578\u64da\u524d\u666e\u904d\u89c0\u671b\u3002\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u8f03\u5927\uff0c\u4e0b\u6ed10.7%\uff0c\u4e3b\u56e0\u6210\u9577\u578b\u53ca\u79d1\u6280\u80a1\u5728\u8fd1\u671f\u5f37\u52c1\u5347\u52e2\u5f8c\u51fa\u73fe\u5c0f\u5e45\u7372\u5229\u56de\u5410\u3002\u6a19\u666e500\u6307\u6578\u5247\u8dcc0.2%\uff0c\u6210\u4ea4\u91cf\u504f\u4f4e\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u50ac\u5316\u5291\uff0c\u6574\u9ad4\u98a8\u96aa\u60c5\u7dd2\u7dad\u6301\u4e2d\u6027\u3002",
+      "summary_en": "Markets sold off broadly today in a risk-off session, with tech-heavy NASDAQ falling 1.3% and the broader S&P 500 sliding 0.7%. Risk-off moves typically occur when investors grow cautious about the economic outlook or face uncertainty from macro events such as inflation data, Fed commentary, or geopolitical developments. In these conditions, money tends to rotate out of growth equities into safer assets like bonds, gold, and cash, which is why the momentum screener returned no actionable candidates.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u666e\u904d\u51fa\u73fe\u907f\u96aa\u60c5\u7dd2\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc1.3%\uff0c\u6a19\u666e500\u6307\u6578\u4e5f\u56de\u843d0.7%\u3002\u907f\u96aa\u60c5\u7dd2\u901a\u5e38\u5728\u6295\u8cc7\u8005\u5c0d\u5b8f\u89c0\u524d\u666f\u611f\u5230\u4e0d\u78ba\u5b9a\u6642\u5347\u6eab\uff0c\u4f8b\u5982\u901a\u8139\u6578\u64da\u8d85\u9810\u671f\u3001\u806f\u5132\u5c40\u767c\u8868\u9df9\u6d3e\u8a00\u8ad6\u6216\u5730\u7de3\u653f\u6cbb\u98a8\u96aa\u5347\u6eab\u7b49\u60c5\u6cc1\u3002\u5728\u9019\u7a2e\u5e02\u5834\u74b0\u5883\u4e0b\uff0c\u8cc7\u91d1\u50be\u5411\u64a4\u96e2\u6210\u9577\u578b\u80a1\u7968\uff0c\u8f49\u5411\u50b5\u5238\u3001\u9ec3\u91d1\u53ca\u73fe\u91d1\u7b49\u9632\u5b88\u6027\u8cc7\u7522\uff0c\u4ea6\u662f\u4eca\u65e5\u52d5\u80fd\u9078\u80a1\u7cfb\u7d71\u672a\u80fd\u7be9\u9078\u51fa\u4efb\u4f55\u8cb7\u5165\u6a5f\u6703\u7684\u539f\u56e0\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing buys stocks that are already trending upward, betting that strong price action continues in the near term. Key signals include RSI between 55\u201370 (bullish but not yet overbought) and a MACD bullish crossover (shorter-term trend overtaking longer-term). Today's picks \u2014 FLY, TME, and STNE \u2014 all show this pattern, which is why they scored 90\u201395 on the screener.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u5c08\u9580\u8cb7\u5165\u5df2\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u5f37\u52e2\u8d70\u52e2\u5728\u77ed\u671f\u5167\u6301\u7e8c\u3002\u95dc\u9375\u6307\u6a19\u5305\u62ecRSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff08\u770b\u6f32\u4f46\u5c1a\u672a\u8d85\u8cb7\uff09\uff0c\u4ee5\u53caMACD\u770b\u6f32\u4ea4\u53c9\uff08\u77ed\u671f\u8da8\u52e2\u7a81\u7834\u9577\u671f\u8da8\u52e2\u7dda\uff09\u3002\u4eca\u65e5\u7cbe\u9078\u7684FLY\u3001TME\u548cSTNE\u5747\u7b26\u5408\u9019\u4e00\u5f62\u614b\uff0c\u56e0\u6b64\u5728\u9078\u80a1\u7cfb\u7d71\u4e2d\u7372\u5f9790\u81f395\u7684\u9ad8\u5206\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "Risk-off is a market condition where investors collectively reduce their exposure to higher-risk assets like growth stocks and move toward safer havens like bonds, gold, or cash. It usually happens when uncertainty spikes \u2014 think inflation scares, Fed policy shifts, or geopolitical tensions. In a risk-off environment, even solid stocks can fall simply because the broad sentiment turns negative.",
+      "explanation_zh": "\u300c\u907f\u96aa\u60c5\u7dd2\u300d\uff08Risk-Off\uff09\u662f\u6307\u5e02\u5834\u6574\u9ad4\u8f49\u8da8\u4fdd\u5b88\uff0c\u6295\u8cc7\u8005\u5f9e\u9ad8\u98a8\u96aa\u8cc7\u7522\uff08\u5982\u6210\u9577\u80a1\uff09\u64a4\u96e2\uff0c\u8f49\u5411\u50b5\u5238\u3001\u9ec3\u91d1\u6216\u73fe\u91d1\u7b49\u907f\u98a8\u6e2f\u3002\u9019\u7a2e\u60c5\u6cc1\u901a\u5e38\u5728\u4e0d\u78ba\u5b9a\u6027\u4e0a\u5347\u6642\u51fa\u73fe\uff0c\u4f8b\u5982\u901a\u8139\u6578\u64da\u5347\u6eab\u3001\u806f\u5132\u5c40\u653f\u7b56\u8f49\u5411\u6216\u5730\u7de3\u653f\u6cbb\u5c40\u52e2\u7dca\u5f35\u3002\u5728\u907f\u96aa\u5e02\u6cc1\u4e0b\uff0c\u5373\u4f7f\u57fa\u672c\u9762\u826f\u597d\u7684\u80a1\u7968\u4e5f\u53ef\u80fd\u56e0\u6574\u9ad4\u60c5\u7dd2\u8f49\u5dee\u800c\u4e0b\u8dcc\u3002"
     }
   }
 }
