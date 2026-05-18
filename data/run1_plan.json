@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-05-18T14:01:07.508873+00:00",
+  "saved_at": "2026-05-18T15:01:31.996285+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,20 @@
         "action": "BUY",
         "ticker": "FLY",
         "conviction": "high",
-        "reasoning": "Score 100 with all five bullish signals firing \u2014 RSI in ideal momentum zone, MACD crossover confirmed, and a volume surge validating institutional interest; price is 9% above SMA-20 showing strong trend."
-      },
-      {
-        "action": "BUY",
-        "ticker": "TMDX",
-        "conviction": "high",
-        "reasoning": "Score 100 with full signal alignment including volume surge; TransMedics operates in high-demand organ logistics with a durable growth tailwind, and technicals confirm the trend is intact with RSI 66.5 still below overbought."
+        "reasoning": "Score 95 with RSI 63.3 sitting in the ideal bullish momentum zone (55\u201370), MACD bullish crossover with rising histogram, and price 6.5% above SMA-20 \u2014 cleanest technical setup among today's candidates in a neutral market."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted slightly positive today with both the S&P 500 and NASDAQ up 0.2% \u2014 a quiet, directionless session. With 4 open slots and $843 in available cash, I'm deploying into the two cleanest score-100 setups (FLY and TMDX) where volume surges confirm conviction. Existing positions in EAT, OLED, AMZN, NSIT, and SYNA remain intact as none have breached stop-loss or profit-target levels.",
+    "briefing": "Markets drifted mildly lower today (S&P 500 -0.1%, NASDAQ -0.4%) in a neutral, low-conviction session with no major catalyst. The portfolio is performing well at +24.6% overall, and with $843 in cash and 4 open slots the rules call for deploying. FLY stands out among score-95 candidates as the most technically clean entry \u2014 RSI in the sweet spot, MACD bullish, and price trending above its moving average without being overbought.",
     "market_education": {
-      "summary_en": "U.S. equities traded in a narrow range today, with the S&P 500 and NASDAQ each gaining just 0.2%, reflecting a lack of major catalysts on either side. Investors appeared to be in a wait-and-see posture, balancing resilient corporate earnings against ongoing uncertainty around Federal Reserve rate policy and global trade flows. The flat session is consistent with typical mid-month consolidation behavior as institutional players await the next major macro data release.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u9707\u76ea\uff0c\u6a19\u666e500\u6307\u6578\u8207\u7d0d\u65af\u9054\u514b\u6307\u6578\u5404\u50c5\u4e0a\u6f320.2%\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u6295\u8cc7\u8005\u4f3c\u4e4e\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\uff0c\u5728\u4f01\u696d\u76c8\u5229\u97cc\u6027\u8207\u806f\u5132\u5c40\u5229\u7387\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u4e4b\u9593\u5c0b\u6c42\u5e73\u8861\u3002\u6b64\u7a2e\u76e4\u6574\u8d70\u52e2\u7b26\u5408\u6708\u4e2d\u6163\u6027\uff0c\u6a5f\u69cb\u8cc7\u91d1\u591a\u975c\u5f85\u4e0b\u4e00\u8f2a\u91cd\u8981\u5b8f\u89c0\u6578\u64da\u516c\u4f48\u3002",
+      "summary_en": "U.S. equities edged lower on Monday with the NASDAQ falling 0.4% and the S&P 500 slipping 0.1%, as investors paused after a period of recent strength with no major macro catalyst to extend gains. The session reflected quiet consolidation rather than a directional breakdown, with modest sector rotation continuing as traders balanced growth and defensive exposures. Lingering uncertainty over Federal Reserve rate timing kept institutional buyers cautious and kept volume subdued.",
+      "summary_zh": "\u7f8e\u80a1\u5468\u4e00\u5c0f\u5e45\u6536\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u4e0b\u8dcc0.4%\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc0.1%\uff0c\u5e02\u5834\u5728\u8fd1\u671f\u53cd\u5f48\u5f8c\u7f3a\u4e4f\u65b0\u50ac\u5316\u5291\uff0c\u6295\u8cc7\u8005\u9078\u64c7\u89c0\u671b\u6574\u56fa\u3002\u672c\u8f2a\u56de\u8abf\u5c6c\u6b63\u5e38\u6280\u8853\u6027\u4f11\u6574\uff0c\u4e26\u975e\u8da8\u52e2\u9006\u8f49\uff0c\u6210\u4ea4\u91cf\u6eab\u548c\uff0c\u6a5f\u69cb\u8cc7\u91d1\u6301\u8b39\u614e\u614b\u5ea6\u3002\u5e02\u5834\u7e7c\u7e8c\u5728\u6210\u9577\u80a1\u8207\u9632\u79a6\u677f\u584a\u4e4b\u9593\u8f2a\u52d5\uff0c\u806f\u5132\u5c40\u5229\u7387\u524d\u666f\u7684\u4e0d\u78ba\u5b9a\u6027\u4ee4\u4e3b\u52d5\u5165\u5e02\u610f\u6b32\u53d7\u58d3\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks trending strongly upward, based on the idea that assets that have performed well recently tend to continue doing so in the short term. Indicators like RSI, MACD, and volume surges help confirm whether momentum is genuine and backed by real buying pressure. The risk is that momentum can reverse sharply if sentiment shifts \u2014 which is why stop-losses are critical when using this approach.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u8e64\u5f37\u52e2\u4e0a\u6f32\u80a1\u7968\u7684\u7b56\u7565\uff0c\u5176\u908f\u8f2f\u5728\u65bc\u8fd1\u671f\u8868\u73fe\u51fa\u8272\u7684\u8cc7\u7522\u5f80\u5f80\u5728\u77ed\u671f\u5167\u5ef6\u7e8c\u6f32\u52e2\u3002RSI\u3001MACD\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u7b49\u6280\u8853\u6307\u6a19\u6709\u52a9\u65bc\u78ba\u8a8d\u52d5\u80fd\u662f\u5426\u771f\u5be6\uff0c\u662f\u5426\u7531\u5be6\u8cea\u8cb7\u76e4\u652f\u6490\u3002\u6b64\u7b56\u7565\u7684\u98a8\u96aa\u5728\u65bc\u5e02\u5834\u60c5\u7dd2\u4e00\u65e6\u9006\u8f49\uff0c\u52d5\u80fd\u53ef\u80fd\u6025\u901f\u74e6\u89e3\uff0c\u56e0\u6b64\u56b4\u683c\u57f7\u884c\u6b62\u640d\u662f\u4e0d\u53ef\u6216\u7f3a\u7684\u98a8\u63a7\u63aa\u65bd\u3002"
+      "explanation_en": "Momentum investing is the strategy of buying stocks that are already trending upward, based on the observation that rising assets tend to keep rising in the short term. Traders use indicators like RSI and MACD to find stocks in the 'sweet spot' \u2014 strong enough to be in an uptrend, but not so extended (overbought) that a reversal is likely. Today's FLY buy is a textbook example: RSI of 63 signals healthy momentum, while staying comfortably below the overbought threshold of 70.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u4f9d\u64da\u662f\u5f37\u52e2\u8cc7\u7522\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u6f32\u52e2\u3002\u4ea4\u6613\u8005\u5229\u7528RSI\u548cMACD\u7b49\u6307\u6a19\uff0c\u5c0b\u627e\u8655\u65bc\u300c\u751c\u871c\u5340\u9593\u300d\u7684\u500b\u80a1\u2014\u2014\u8da8\u52e2\u5411\u4e0a\u4f46\u5c1a\u672a\u8d85\u8cb7\u81f3\u53cd\u8f49\u98a8\u96aa\u9ad8\u7684\u6c34\u5e73\u3002\u4eca\u65e5\u8cb7\u5165FLY\u6b63\u662f\u5178\u578b\u64cd\u4f5c\uff1aRSI 63\u986f\u793a\u52d5\u80fd\u5065\u5eb7\uff0c\u540c\u6642\u8ddd\u96e2\u8d85\u8cb7\u8b66\u6212\u7dda70\u4ecd\u6709\u8db3\u5920\u7de9\u885d\u7a7a\u9593\u3002"
     }
   }
 }
