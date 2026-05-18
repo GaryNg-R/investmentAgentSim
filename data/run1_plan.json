@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-05-18T17:01:11.282651+00:00",
+  "saved_at": "2026-05-18T18:01:25.246333+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,32 @@
         "action": "BUY",
         "ticker": "FLY",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 63.5 in the ideal bullish zone, MACD histogram rising, and price well above SMA-20 \u2014 cleanest technical setup on the board and provides non-tech diversification to a currently tech-heavy portfolio."
+        "reasoning": "Score 95 with a textbook momentum setup: RSI 62.3 in the bullish zone, MACD crossover with a rising histogram, and price 5% above SMA-20 \u2014 all three signals aligned."
       },
       {
         "action": "BUY",
         "ticker": "TME",
         "conviction": "medium",
-        "reasoning": "Score 95 at a low $9 entry price, MACD bullish crossover with rising histogram, and adds emerging-market consumer exposure (Tencent Music) that is uncorrelated with current holdings."
+        "reasoning": "Score 95 with RSI 58.5 and full MACD bullish confirmation; low price at $9 allows meaningful share count within limited remaining cash."
+      },
+      {
+        "action": "BUY",
+        "ticker": "STNE",
+        "conviction": "medium",
+        "reasoning": "Score 90 with RSI just entering the bullish zone at 56.1 and a fresh MACD crossover, suggesting early-stage momentum with room to run."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are drifting mildly lower \u2014 NASDAQ -0.7%, S&P 500 -0.3% \u2014 a consolidation day rather than a risk-off signal. With 4 open slots and $843 in cash, the rules favor deploying capital into the best setups. I'm opening two score-95 positions: FLY (aircraft leasing, healthy RSI) and TME (Tencent Music, cheap entry), both showing textbook momentum alignment. Existing six positions are untouched pending fresh price data for stop-loss checks.",
+    "briefing": "Markets dipped modestly today \u2014 NASDAQ -0.7%, S&P 500 -0.2% \u2014 a soft but non-alarming pullback with no clear directional catalyst. The portfolio is up 24.6% overall with 4 open slots and $843 in cash well above the $500 deploy threshold, so holding idle makes no sense. I'm filling three slots with the top score-95 and score-90 momentum names: FLY, TME, and STNE, all showing clean technical entry points before they get crowded.",
     "market_education": {
-      "summary_en": "U.S. equities edged lower Monday as investors paused following recent gains, with the NASDAQ underperforming as profit-taking in mega-cap tech weighed on sentiment. Bond markets saw modest yield upticks amid ongoing uncertainty around the Federal Reserve's rate path, dampening appetite for high-multiple growth names. With no major catalysts to drive direction, trading volume was light and the session reflected a classic consolidation pattern after a multi-week rally.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u4e00\u5c0f\u5e45\u6536\u4f4e\uff0c\u6295\u8cc7\u4eba\u5728\u8fd1\u671f\u5927\u6f32\u5f8c\u9078\u64c7\u7372\u5229\u4e86\u7d50\uff0c\u79d1\u6280\u5de8\u982d\u8ce3\u58d3\u62d6\u7d2f\u90a3\u65af\u9054\u514b\u6307\u6578\u8868\u73fe\u3002\u50b5\u5e02\u6b96\u5229\u7387\u5c0f\u5e45\u6500\u5347\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u806f\u6e96\u6703\u5229\u7387\u8d70\u5411\u4ecd\u5b58\u7591\u616e\uff0c\u58d3\u6291\u4e86\u9ad8\u4f30\u503c\u6210\u9577\u80a1\u7684\u5438\u5f15\u529b\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u50ac\u5316\u5291\u4e0b\uff0c\u6210\u4ea4\u91cf\u6e05\u6de1\uff0c\u6574\u9ad4\u8d70\u52e2\u5448\u73fe\u591a\u9031\u53cd\u5f48\u5f8c\u7684\u5178\u578b\u76e4\u6574\u683c\u5c40\u3002",
+      "summary_en": "U.S. equities slipped modestly on Monday as investors adopted a wait-and-see posture ahead of upcoming economic data. The NASDAQ underperformed at -0.7% as growth and technology shares saw mild profit-taking after a strong recent run. The S&P 500 eased 0.2% in low-conviction trading, with no major macro catalysts to shift the neutral risk tone.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u5468\u4e00\u6eab\u548c\u56de\u843d\uff0c\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u5373\u5c07\u516c\u4f48\u7684\u5b8f\u89c0\u6578\u64da\u524d\u666e\u904d\u89c0\u671b\u3002\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u8f03\u5927\uff0c\u4e0b\u6ed10.7%\uff0c\u4e3b\u56e0\u6210\u9577\u578b\u53ca\u79d1\u6280\u80a1\u5728\u8fd1\u671f\u5f37\u52c1\u5347\u52e2\u5f8c\u51fa\u73fe\u5c0f\u5e45\u7372\u5229\u56de\u5410\u3002\u6a19\u666e500\u6307\u6578\u5247\u8dcc0.2%\uff0c\u6210\u4ea4\u91cf\u504f\u4f4e\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u50ac\u5316\u5291\uff0c\u6574\u9ad4\u98a8\u96aa\u60c5\u7dd2\u7dad\u6301\u4e2d\u6027\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price trends on the assumption that what's rising tends to keep rising. Traders use indicators like RSI (Relative Strength Index) and MACD to quantify momentum \u2014 an RSI between 55\u201370 signals healthy upward pressure without being dangerously overbought. Today's top picks (FLY, TME) were selected precisely because they sit in this 'sweet spot' of momentum.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u9806\u52e2\u64cd\u4f5c\u7b56\u7565\uff0c\u8cb7\u9032\u8fd1\u671f\u50f9\u683c\u8d70\u52e2\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u57fa\u65bc\u300c\u5f37\u8005\u6046\u5f37\u300d\u7684\u5e02\u5834\u6163\u6027\u539f\u7406\u3002\u4ea4\u6613\u8005\u5e38\u7528\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u548cMACD\u4f86\u91cf\u5316\u52d5\u80fd\u2014\u2014RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u4ee3\u8868\u5065\u5eb7\u7684\u4e0a\u6f32\u52d5\u80fd\uff0c\u5c1a\u672a\u9032\u5165\u5371\u96aa\u7684\u8d85\u8cb7\u5340\u9593\u3002\u4eca\u65e5\u7cbe\u9078\u7684FLY\u8207TME\u6b63\u662f\u843d\u5728\u9019\u500b\u300c\u751c\u871c\u9ede\u300d\uff0c\u662f\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u5178\u578b\u61c9\u7528\u3002"
+      "explanation_en": "Momentum investing buys stocks that are already trending upward, betting that strong price action continues in the near term. Key signals include RSI between 55\u201370 (bullish but not yet overbought) and a MACD bullish crossover (shorter-term trend overtaking longer-term). Today's picks \u2014 FLY, TME, and STNE \u2014 all show this pattern, which is why they scored 90\u201395 on the screener.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u5c08\u9580\u8cb7\u5165\u5df2\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u5f37\u52e2\u8d70\u52e2\u5728\u77ed\u671f\u5167\u6301\u7e8c\u3002\u95dc\u9375\u6307\u6a19\u5305\u62ecRSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff08\u770b\u6f32\u4f46\u5c1a\u672a\u8d85\u8cb7\uff09\uff0c\u4ee5\u53caMACD\u770b\u6f32\u4ea4\u53c9\uff08\u77ed\u671f\u8da8\u52e2\u7a81\u7834\u9577\u671f\u8da8\u52e2\u7dda\uff09\u3002\u4eca\u65e5\u7cbe\u9078\u7684FLY\u3001TME\u548cSTNE\u5747\u7b26\u5408\u9019\u4e00\u5f62\u614b\uff0c\u56e0\u6b64\u5728\u9078\u80a1\u7cfb\u7d71\u4e2d\u7372\u5f9790\u81f395\u7684\u9ad8\u5206\u3002"
     }
   }
 }
