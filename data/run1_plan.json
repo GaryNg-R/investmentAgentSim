@@ -1,38 +1,32 @@
 {
-  "saved_at": "2026-05-20T13:01:19.518127+00:00",
+  "saved_at": "2026-05-20T14:01:34.263432+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "AMZN",
-        "shares": 7,
-        "reasoning": "Down ~5.4% from avg cost ($274.11 \u2192 $259.34), score of 35 with bearish MACD and price below SMA-20 \u2014 cutting before the -7% auto stop-loss triggers."
+        "action": "BUY",
+        "ticker": "MRVL",
+        "conviction": "high",
+        "reasoning": "Score 100 with all five bullish signals firing \u2014 RSI in sweet spot at 67.7, MACD crossover confirmed, histogram rising, price well above SMA-20, and volume surge confirming institutional interest in this AI networking chip leader."
       },
       {
         "action": "BUY",
-        "ticker": "NN",
-        "conviction": "high",
-        "reasoning": "Perfect score 100 with all five bullish signals firing: RSI in momentum zone, MACD bullish crossover, rising histogram, above SMA-20, and volume surge."
-      },
-      {
-        "action": "BUY",
-        "ticker": "CORT",
-        "conviction": "high",
-        "reasoning": "Perfect score 100, same full signal stack as NN \u2014 RSI 65.7, MACD crossover, rising histogram, price above SMA-20, and volume surge confirm strong momentum."
+        "ticker": "INTC",
+        "conviction": "medium",
+        "reasoning": "Score 100 with clean momentum setup \u2014 RSI 64.6, MACD bullish crossover, volume surge, and price 9% above SMA-20; Intel's ongoing recovery narrative and AI PC cycle provide fundamental tailwind alongside the technicals."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets slipped modestly today (S&P -0.7%, NASDAQ -0.8%) in a broadly neutral session with no major directional catalyst. AMZN is the weak link in the portfolio \u2014 it's already down ~5.4% from cost and its technicals have turned bearish, so selling now to recycle capital is cleaner than waiting for the auto stop-loss to fire. Freed-up cash plus existing cash goes into NN and CORT, both scoring a perfect 100 with strong volume confirmation \u2014 exactly the kind of momentum entries worth making even on a mild down day.",
+    "briefing": "Markets drifted mildly higher today in a neutral session \u2014 NASDAQ led at +0.5%, S&P at +0.3%, with no major macro catalyst forcing either direction. With 4 open slots and $843 in cash, the rules strongly favor deployment, so I'm adding MRVL (AI networking chips, all signals green) and INTC (Intel recovery, strong technicals) to fill two slots and put idle cash to work. Existing holdings SYNA, QQQ, EAT, OLED, AMZN, and NSIT all remain \u2014 no stop-loss triggers are apparent.",
     "market_education": {
-      "summary_en": "U.S. equities drifted lower Wednesday as investors digested mixed signals on trade policy and weighed the impact of the latest Federal Reserve meeting minutes, which showed officials remain cautious about cutting rates too quickly. Technology shares led the pullback, pressuring the NASDAQ more than the broader S&P 500. With no single dominant catalyst, the session was characterized as profit-taking after recent gains rather than a genuine risk-off shift.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e09\u5c0f\u5e45\u6536\u4f4e\uff0c\u6295\u8cc7\u8005\u4e00\u65b9\u9762\u6d88\u5316\u8cbf\u6613\u653f\u7b56\u7684\u6df7\u5408\u8a0a\u865f\uff0c\u53e6\u4e00\u65b9\u9762\u4e5f\u5728\u8a55\u4f30\u6700\u65b0\u4e00\u671f\u806f\u6e96\u6703\u6703\u8b70\u7d00\u9304\u7684\u5f71\u97ff\u2014\u2014\u7d00\u9304\u986f\u793a\u5b98\u54e1\u5c0d\u65bc\u904e\u5feb\u964d\u606f\u4ecd\u4fdd\u6301\u5be9\u614e\u614b\u5ea6\u3002\u79d1\u6280\u80a1\u8dcc\u5e45\u8f03\u5927\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u8868\u73fe\u5f31\u65bc\u6a19\u666e500\u3002\u7531\u65bc\u7f3a\u4e4f\u55ae\u4e00\u4e3b\u8981\u50ac\u5316\u5291\uff0c\u672c\u6b21\u56de\u8abf\u88ab\u5e02\u5834\u666e\u904d\u89e3\u8b80\u70ba\u8fd1\u671f\u6f32\u5e45\u5f8c\u7684\u7372\u5229\u4e86\u7d50\uff0c\u800c\u975e\u771f\u6b63\u7684\u907f\u96aa\u60c5\u7dd2\u5347\u6eab\u3002",
+      "summary_en": "U.S. equities posted modest gains on May 20 as the tech-heavy NASDAQ outpaced the broader S&P 500, reflecting continued rotation into semiconductor and AI-related names amid stable macro conditions. No major Fed commentary or earnings surprises drove outsized moves, leaving the session characterized by steady institutional accumulation in momentum leaders. Volume surges across multiple chip stocks \u2014 MRVL, INTC, LSCC, CRDO \u2014 suggest fund managers are selectively adding exposure to AI infrastructure names ahead of an anticipated capex cycle.",
+      "summary_zh": "\u7f8e\u80a15\u670820\u65e5\u5c0f\u5e45\u8d70\u9ad8\uff0c\u79d1\u6280\u80a1\u4e3b\u5c0e\u7684\u7d0d\u65af\u9054\u514b\u8dd1\u8d0f\u5927\u76e4\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u6301\u7e8c\u8f2a\u52d5\u81f3\u534a\u5c0e\u9ad4\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u677f\u584a\uff0c\u6574\u9ad4\u5b8f\u89c0\u74b0\u5883\u7dad\u6301\u7a69\u5b9a\u3002\u7576\u65e5\u672a\u6709\u91cd\u5927\u806f\u5132\u5c40\u8868\u614b\u6216\u8ca1\u5831\u9a5a\u559c\u63a8\u52d5\u5e02\u5834\u5927\u5e45\u6ce2\u52d5\uff0c\u6574\u500b\u4ea4\u6613\u65e5\u5448\u73fe\u6a5f\u69cb\u8cc7\u91d1\u7a69\u6b65\u5438\u7d0d\u52d5\u80fd\u9818\u6f32\u80a1\u7684\u683c\u5c40\u3002MRVL\u3001INTC\u3001LSCC\u53caCRDO\u7b49\u591a\u96bb\u82af\u7247\u80a1\u6210\u4ea4\u91cf\u6025\u589e\uff0c\u986f\u793a\u57fa\u91d1\u7d93\u7406\u5728\u9810\u671fAI\u57fa\u790e\u8a2d\u65bd\u8cc7\u672c\u652f\u51fa\u5468\u671f\u5347\u6eab\u524d\uff0c\u6b63\u9078\u64c7\u6027\u589e\u6301\u76f8\u95dc\u5009\u4f4d\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Proactive Stop-Loss",
-      "explanation_en": "A stop-loss is a pre-set rule to sell a position once it falls a certain percentage below your entry price, protecting against larger losses. Rather than waiting for the automatic -7% trigger to fire on AMZN, selling proactively at -5.4% when technicals have already turned bearish is smarter \u2014 you exit on your terms, not the market's. Cutting losses early preserves capital that can be redeployed into higher-conviction opportunities like NN and CORT.",
-      "explanation_zh": "\u6b62\u640d\u662f\u4e00\u7a2e\u9810\u8a2d\u898f\u5247\uff0c\u7576\u6301\u5009\u8dcc\u81f3\u8cb7\u5165\u50f9\u4ee5\u4e0b\u67d0\u500b\u767e\u5206\u6bd4\u6642\u81ea\u52d5\u8ce3\u51fa\uff0c\u4ee5\u9632\u6b62\u640d\u5931\u64f4\u5927\u3002\u8207\u5176\u7b49\u5f85\u4e9e\u99ac\u905c\u89f8\u767c\u81ea\u52d5-7%\u6b62\u640d\u7dda\uff0c\u4e0d\u5982\u5728\u6280\u8853\u9762\u5df2\u8f49\u7a7a\u3001\u8667\u640d\u7d045.4%\u6642\u4e3b\u52d5\u51fa\u5834\u2014\u2014\u9019\u6a23\u662f\u6309\u81ea\u5df1\u7684\u7bc0\u594f\u96e2\u5834\uff0c\u800c\u975e\u88ab\u5e02\u5834\u903c\u8feb\u3002\u53ca\u6642\u6b62\u640d\u80fd\u4fdd\u7559\u8cc7\u91d1\uff0c\u5c07\u5176\u91cd\u65b0\u914d\u7f6e\u5230\u6280\u8853\u8a0a\u865f\u66f4\u5f37\u7684\u6a19\u7684\uff0c\u4f8b\u5982NN\u548cCORT\u3002"
+      "term": "Volume Surge",
+      "explanation_en": "A volume surge occurs when a stock's trading volume is significantly higher than its recent average \u2014 typically 1.5x or more in one session. It signals that a large number of buyers (often institutions) are entering the position with conviction, which adds credibility to a price move upward. Without a volume surge, a price rally can be 'thin' and easily reversed; with one, it suggests real demand.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u6025\u589e\u662f\u6307\u67d0\u96bb\u80a1\u7968\u55ae\u65e5\u6210\u4ea4\u91cf\u9060\u9ad8\u65bc\u8fd1\u671f\u5e73\u5747\u6c34\u5e73\u2014\u2014\u901a\u5e38\u90541.5\u500d\u6216\u4ee5\u4e0a\u3002\u9019\u610f\u5473\u8457\u5927\u6279\u8cb7\u5bb6\uff08\u5f80\u5f80\u662f\u6a5f\u69cb\u6295\u8cc7\u8005\uff09\u6b63\u7a4d\u6975\u5165\u5834\u5efa\u5009\uff0c\u70ba\u80a1\u50f9\u4e0a\u6f32\u63d0\u4f9b\u4e86\u66f4\u5f37\u529b\u7684\u652f\u6490\u3002\u82e5\u80a1\u50f9\u4e0a\u6f32\u6642\u7f3a\u4e4f\u6210\u4ea4\u91cf\u914d\u5408\uff0c\u5347\u52e2\u5f80\u5f80\u5f8c\u52c1\u4e0d\u8db3\u3001\u5bb9\u6613\u53cd\u8f49\uff1b\u800c\u4f34\u96a8\u6210\u4ea4\u91cf\u6025\u589e\u7684\u7a81\u7834\uff0c\u5247\u4ee3\u8868\u771f\u5be6\u7684\u5e02\u5834\u9700\u6c42\uff0c\u8d70\u52e2\u66f4\u5177\u53ef\u4fe1\u5ea6\u3002"
     }
   }
 }
