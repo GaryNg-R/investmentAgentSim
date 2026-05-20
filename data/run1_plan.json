@@ -1,38 +1,32 @@
 {
-  "saved_at": "2026-05-20T18:01:35.631394+00:00",
+  "saved_at": "2026-05-20T19:01:10.741987+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "UAL",
+        "ticker": "DAL",
         "conviction": "high",
-        "reasoning": "United Airlines shows the full momentum trifecta (RSI 68.4, MACD bullish crossover, rising histogram, price above SMA-20) and airline stocks are classic risk-on beneficiaries when consumer confidence is up."
+        "reasoning": "Top score 95 with RSI 67.7 in the sweet spot, MACD fully bullish, and airlines are direct beneficiaries of risk-on sentiment \u2014 travel demand remains robust heading into summer."
       },
       {
         "action": "BUY",
-        "ticker": "SMCI",
-        "conviction": "high",
-        "reasoning": "Super Micro Computer rides the AI infrastructure buildout cycle; RSI 66.6 with rising MACD histogram signals momentum without being overbought, and the risk-on tape supports AI hardware names."
-      },
-      {
-        "action": "BUY",
-        "ticker": "CCL",
+        "ticker": "ENPH",
         "conviction": "medium",
-        "reasoning": "Carnival sits at RSI 69.3 \u2014 top of the bullish zone but not yet overbought \u2014 and cruise/leisure demand is structurally strong; risk-on days historically lift consumer discretionary leaders."
+        "reasoning": "Score 90 with RSI 64.2 and MACD bullish, adds clean energy exposure to a tech-heavy portfolio while momentum confirms the breakout above SMA-20."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on today with NASDAQ +1.3% and S&P 500 +0.8%, favouring cyclicals and growth names. With 4 open slots and $843 in cash, I'm adding three positions \u2014 UAL, SMCI, and CCL \u2014 all scoring 95 on the momentum screener with clean technical setups. The remaining slot is left empty given limited remaining cash after sizing these three; all six existing positions are held as none have triggered their stop-loss or profit targets.",
+    "briefing": "Markets are firmly risk-on today with NASDAQ up 1.3% and S&P 500 up 0.9%, creating a favorable backdrop for momentum names. With 4 open slots and $843 in cash, I'm deploying into DAL (top-ranked at 95) and ENPH (clean energy diversification at 90) to put idle capital to work. Existing positions in QQQ, AMZN, and the rest remain intact as the broad rally supports all of them.",
     "market_education": {
-      "summary_en": "U.S. equities pushed higher on May 20 as easing trade tensions between the U.S. and major partners lifted risk sentiment broadly. Technology and AI-infrastructure stocks led the NASDAQ advance, while airlines and cruise operators surged on strong forward booking data pointing to a robust summer travel season. Semiconductor and data-centre supply-chain names also outperformed as institutional money rotated into cyclical growth.",
-      "summary_zh": "5\u670820\u65e5\u7f8e\u80a1\u5168\u9762\u8d70\u5f37\uff0c\u7f8e\u570b\u8207\u4e3b\u8981\u8cbf\u6613\u5925\u4f34\u7684\u7dca\u5f35\u95dc\u4fc2\u7de9\u548c\u63d0\u632f\u4e86\u5e02\u5834\u98a8\u96aa\u60c5\u7dd2\u3002\u79d1\u6280\u53ca\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u80a1\u9818\u6f32\u7d0d\u65af\u9054\u514b\uff0c\u822a\u7a7a\u53ca\u90f5\u8f2a\u80a1\u5247\u56e0\u590f\u5b63\u65c5\u904a\u9810\u8a02\u6578\u64da\u5f37\u52c1\u800c\u5927\u5e45\u4e0a\u63da\u3002\u534a\u5c0e\u9ad4\u53ca\u6578\u64da\u4e2d\u5fc3\u4f9b\u61c9\u93c8\u985e\u80a1\u540c\u6a23\u8868\u73fe\u4eae\u773c\uff0c\u6a5f\u69cb\u8cc7\u91d1\u7a4d\u6975\u8f2a\u52d5\u81f3\u5468\u671f\u6027\u6210\u9577\u677f\u584a\u3002",
+      "summary_en": "U.S. equities rallied broadly on May 20 with the NASDAQ leading at +1.3% as risk appetite returned to markets. Technology and growth stocks outperformed as investors rotated back into higher-beta names following recent consolidation. Cyclical sectors including travel, consumer discretionary, and energy also participated in the move, reflecting renewed confidence in the economic outlook.",
+      "summary_zh": "\u7f8e\u80a15\u670820\u65e5\u5168\u9762\u53cd\u5f48\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u6f321.3%\uff0c\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\u3002\u96a8\u8457\u6295\u8cc7\u8005\u91cd\u65b0\u4f48\u5c40\u9ad8Beta\u6210\u9577\u80a1\uff0c\u79d1\u6280\u53ca\u6210\u9577\u985e\u80a1\u8dd1\u8d0f\u5927\u5e02\u3002\u822a\u7a7a\u3001\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u53ca\u80fd\u6e90\u7b49\u5468\u671f\u6027\u677f\u584a\u4ea6\u540c\u6b65\u4e0a\u63da\uff0c\u986f\u793a\u5e02\u5834\u5c0d\u7d93\u6fdf\u524d\u666f\u7684\u4fe1\u5fc3\u6709\u6240\u6062\u5fa9\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing bets that stocks already trending upward will continue rising in the near term \u2014 price strength tends to attract more buyers, which reinforces the trend. Practitioners look for RSI in the 55\u201370 'sweet spot' (strong but not overbought) paired with a bullish MACD crossover to confirm the move has fuel left. Today's screener flagged 17 tickers scoring a perfect 95, all showing exactly this setup, making it a textbook momentum-driven session.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7684\u6838\u5fc3\u7406\u5ff5\u662f\uff1a\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u77ed\u671f\u5167\u5f80\u5f80\u6703\u7e7c\u7e8c\u8d70\u9ad8\u2014\u2014\u50f9\u683c\u5f37\u52e2\u6703\u5438\u5f15\u66f4\u591a\u8cb7\u76e4\uff0c\u5f9e\u800c\u5f62\u6210\u81ea\u6211\u5f37\u5316\u7684\u8da8\u52e2\u3002\u5be6\u52d9\u4e0a\uff0c\u6295\u8cc7\u8005\u6703\u5c0b\u627eRSI\u4ecb\u65bc55\u81f370\u7684\u300c\u751c\u871c\u5340\u9593\u300d\uff08\u5f37\u52e2\u4f46\u672a\u904e\u71b1\uff09\uff0c\u4e26\u914d\u5408MACD\u51fa\u73fe\u770b\u6f32\u4ea4\u53c9\uff0c\u4ee5\u78ba\u8a8d\u52d5\u80fd\u5c1a\u6709\u6301\u7e8c\u7a7a\u9593\u3002\u4eca\u65e5\u7be9\u9078\u5668\u5171\u6a19\u8a1817\u96bb\u8a55\u5206\u9054\u5230\u6eff\u520695\u7684\u80a1\u7968\uff0c\u5168\u90e8\u5448\u73fe\u9019\u4e00\u5f62\u614b\uff0c\u53ef\u8b02\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u5178\u578b\u793a\u7bc4\u65e5\u3002"
+      "term": "Risk-On Sentiment",
+      "explanation_en": "Risk-on is when investors feel confident and shift money into higher-risk, higher-reward assets like growth stocks, airlines, and small caps \u2014 and away from safe havens like bonds or gold. On risk-on days, momentum stocks and cyclicals tend to outperform. Today's NASDAQ +1.3% and S&P +0.9% is a classic risk-on signal, which is why the top screener candidates are all showing bullish momentum.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u4e0a\u5347\u300d\uff08Risk-On\uff09\u662f\u6307\u7576\u6295\u8cc7\u8005\u4fe1\u5fc3\u589e\u5f37\u6642\uff0c\u8cc7\u91d1\u5f9e\u50b5\u5238\u3001\u9ec3\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u6d41\u5411\u6210\u9577\u80a1\u3001\u822a\u7a7a\u80a1\u3001\u5c0f\u578b\u80a1\u7b49\u9ad8\u98a8\u96aa\u9ad8\u56de\u5831\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u5728\u9019\u985e\u884c\u60c5\u4e0b\uff0c\u52d5\u80fd\u80a1\u8207\u5468\u671f\u6027\u677f\u584a\u5f80\u5f80\u8dd1\u8d0f\u5927\u5e02\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u6f321.3%\u3001\u6a19\u666e\u6f320.9%\uff0c\u6b63\u662f\u5178\u578b\u7684Risk-On\u8a0a\u865f\uff0c\u4e5f\u662f\u70ba\u4f55\u7be9\u9078\u51fa\u7684\u5019\u9078\u80a1\u666e\u904d\u5448\u73fe\u5f37\u52c1\u4e0a\u5347\u52d5\u80fd\u7684\u539f\u56e0\u3002"
     }
   }
 }
