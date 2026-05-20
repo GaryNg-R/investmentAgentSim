@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-05-20T14:01:34.263432+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-05-20T15:01:17.479465+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "MRVL",
+        "ticker": "INTC",
         "conviction": "high",
-        "reasoning": "Score 100 with all five bullish signals firing \u2014 RSI in sweet spot at 67.7, MACD crossover confirmed, histogram rising, price well above SMA-20, and volume surge confirming institutional interest in this AI networking chip leader."
+        "reasoning": "Intel at $116.94 with perfect score 95 \u2014 all bullish momentum signals firing in risk-on tape, recovering semiconductor with AI narrative tailwind and RSI in healthy 55-70 zone."
       },
       {
         "action": "BUY",
-        "ticker": "INTC",
+        "ticker": "SMCI",
         "conviction": "medium",
-        "reasoning": "Score 100 with clean momentum setup \u2014 RSI 64.6, MACD bullish crossover, volume surge, and price 9% above SMA-20; Intel's ongoing recovery narrative and AI PC cycle provide fundamental tailwind alongside the technicals."
+        "reasoning": "Super Micro Computer score 95, RSI 63.2, MACD bullish crossover \u2014 AI data center server demand remains strong and price is 7.5% above SMA-20 with room before overbought."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted mildly higher today in a neutral session \u2014 NASDAQ led at +0.5%, S&P at +0.3%, with no major macro catalyst forcing either direction. With 4 open slots and $843 in cash, the rules strongly favor deployment, so I'm adding MRVL (AI networking chips, all signals green) and INTC (Intel recovery, strong technicals) to fill two slots and put idle cash to work. Existing holdings SYNA, QQQ, EAT, OLED, AMZN, and NSIT all remain \u2014 no stop-loss triggers are apparent.",
+    "briefing": "Risk-on day with NASDAQ +1.1% and S&P +0.8% \u2014 broad tech and momentum names leading. With $843 cash and 4 open slots, I'm deploying into two high-conviction score-95 names: INTC for semiconductor recovery exposure and SMCI for AI infrastructure. Existing six positions remain intact; no stop-loss or profit-target triggers evident from portfolio data.",
     "market_education": {
-      "summary_en": "U.S. equities posted modest gains on May 20 as the tech-heavy NASDAQ outpaced the broader S&P 500, reflecting continued rotation into semiconductor and AI-related names amid stable macro conditions. No major Fed commentary or earnings surprises drove outsized moves, leaving the session characterized by steady institutional accumulation in momentum leaders. Volume surges across multiple chip stocks \u2014 MRVL, INTC, LSCC, CRDO \u2014 suggest fund managers are selectively adding exposure to AI infrastructure names ahead of an anticipated capex cycle.",
-      "summary_zh": "\u7f8e\u80a15\u670820\u65e5\u5c0f\u5e45\u8d70\u9ad8\uff0c\u79d1\u6280\u80a1\u4e3b\u5c0e\u7684\u7d0d\u65af\u9054\u514b\u8dd1\u8d0f\u5927\u76e4\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u6301\u7e8c\u8f2a\u52d5\u81f3\u534a\u5c0e\u9ad4\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u677f\u584a\uff0c\u6574\u9ad4\u5b8f\u89c0\u74b0\u5883\u7dad\u6301\u7a69\u5b9a\u3002\u7576\u65e5\u672a\u6709\u91cd\u5927\u806f\u5132\u5c40\u8868\u614b\u6216\u8ca1\u5831\u9a5a\u559c\u63a8\u52d5\u5e02\u5834\u5927\u5e45\u6ce2\u52d5\uff0c\u6574\u500b\u4ea4\u6613\u65e5\u5448\u73fe\u6a5f\u69cb\u8cc7\u91d1\u7a69\u6b65\u5438\u7d0d\u52d5\u80fd\u9818\u6f32\u80a1\u7684\u683c\u5c40\u3002MRVL\u3001INTC\u3001LSCC\u53caCRDO\u7b49\u591a\u96bb\u82af\u7247\u80a1\u6210\u4ea4\u91cf\u6025\u589e\uff0c\u986f\u793a\u57fa\u91d1\u7d93\u7406\u5728\u9810\u671fAI\u57fa\u790e\u8a2d\u65bd\u8cc7\u672c\u652f\u51fa\u5468\u671f\u5347\u6eab\u524d\uff0c\u6b63\u9078\u64c7\u6027\u589e\u6301\u76f8\u95dc\u5009\u4f4d\u3002",
+      "summary_en": "Markets pushed higher today with the NASDAQ gaining 1.1% and the S&P 500 up 0.8%, reflecting broad risk appetite as investors rotated into growth and technology names. Semiconductor and AI infrastructure stocks led the charge, driven by continued optimism around AI capital expenditure cycles and improving macro sentiment. The broad advance across sectors \u2014 from energy to tech to consumer \u2014 signals institutional confidence in near-term economic stability.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u6f321.1%\uff0c\u6a19\u666e500\u6307\u6578\u6f320.8%\uff0c\u986f\u793a\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\uff0c\u8cc7\u91d1\u7a4d\u6975\u6d41\u5165\u6210\u9577\u80a1\u8207\u79d1\u6280\u677f\u584a\u3002\u534a\u5c0e\u9ad4\u53caAI\u57fa\u790e\u8a2d\u65bd\u80a1\u9818\u6f32\uff0c\u53d7\u60e0\u65bc\u5e02\u5834\u5c0dAI\u8cc7\u672c\u652f\u51fa\u5468\u671f\u6301\u7e8c\u64f4\u5f35\u7684\u6a02\u89c0\u9810\u671f\uff0c\u4ee5\u53ca\u6574\u9ad4\u5b8f\u89c0\u74b0\u5883\u6539\u5584\u3002\u5f9e\u80fd\u6e90\u5230\u79d1\u6280\u518d\u5230\u6d88\u8cbb\u677f\u584a\u7684\u5168\u9762\u4e0a\u6f32\uff0c\u53cd\u6620\u6a5f\u69cb\u6295\u8cc7\u8005\u5c0d\u8fd1\u671f\u7d93\u6fdf\u524d\u666f\u7684\u4fe1\u5fc3\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Surge",
-      "explanation_en": "A volume surge occurs when a stock's trading volume is significantly higher than its recent average \u2014 typically 1.5x or more in one session. It signals that a large number of buyers (often institutions) are entering the position with conviction, which adds credibility to a price move upward. Without a volume surge, a price rally can be 'thin' and easily reversed; with one, it suggests real demand.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u6025\u589e\u662f\u6307\u67d0\u96bb\u80a1\u7968\u55ae\u65e5\u6210\u4ea4\u91cf\u9060\u9ad8\u65bc\u8fd1\u671f\u5e73\u5747\u6c34\u5e73\u2014\u2014\u901a\u5e38\u90541.5\u500d\u6216\u4ee5\u4e0a\u3002\u9019\u610f\u5473\u8457\u5927\u6279\u8cb7\u5bb6\uff08\u5f80\u5f80\u662f\u6a5f\u69cb\u6295\u8cc7\u8005\uff09\u6b63\u7a4d\u6975\u5165\u5834\u5efa\u5009\uff0c\u70ba\u80a1\u50f9\u4e0a\u6f32\u63d0\u4f9b\u4e86\u66f4\u5f37\u529b\u7684\u652f\u6490\u3002\u82e5\u80a1\u50f9\u4e0a\u6f32\u6642\u7f3a\u4e4f\u6210\u4ea4\u91cf\u914d\u5408\uff0c\u5347\u52e2\u5f80\u5f80\u5f8c\u52c1\u4e0d\u8db3\u3001\u5bb9\u6613\u53cd\u8f49\uff1b\u800c\u4f34\u96a8\u6210\u4ea4\u91cf\u6025\u589e\u7684\u7a81\u7834\uff0c\u5247\u4ee3\u8868\u771f\u5be6\u7684\u5e02\u5834\u9700\u6c42\uff0c\u8d70\u52e2\u66f4\u5177\u53ef\u4fe1\u5ea6\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy of buying stocks that have been trending upward \u2014 based on the idea that assets moving in a direction tend to keep moving that way for a while. Today's risk-on session with many stocks showing RSI in the 55\u201370 bullish zone, MACD bullish crossovers, and prices above their 20-day moving averages is a textbook momentum setup. The screener's score-95 candidates all passed multiple momentum filters simultaneously, increasing the probability of continuation.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u6f32\u52e2\u5f80\u5f80\u6703\u5ef6\u7e8c\u4e00\u6bb5\u6642\u9593\u300d\u3002\u4eca\u65e5\u98a8\u96aa\u504f\u597d\u56de\u5347\u7684\u5e02\u5834\u74b0\u5883\u4e2d\uff0c\u5927\u91cf\u500b\u80a1\u540c\u6642\u5448\u73feRSI\u8655\u65bc55\u81f370\u7684\u591a\u982d\u5340\u9593\u3001MACD\u91d1\u53c9\u5411\u4e0a\uff0c\u4ee5\u53ca\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\u7b49\u8a0a\u865f\uff0c\u6b63\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u52d5\u80fd\u884c\u60c5\u3002\u7be9\u9078\u5668\u7d66\u51fa95\u5206\u7684\u5019\u9078\u80a1\u540c\u6642\u901a\u904e\u591a\u9805\u52d5\u80fd\u6307\u6a19\uff0c\u9032\u4e00\u6b65\u63d0\u5347\u8da8\u52e2\u5ef6\u7e8c\u7684\u6982\u7387\u3002"
     }
   }
 }
