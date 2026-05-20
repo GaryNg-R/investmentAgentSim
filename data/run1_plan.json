@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-05-20T17:01:26.715477+00:00",
+  "saved_at": "2026-05-20T18:01:35.631394+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "DAL",
+        "ticker": "UAL",
         "conviction": "high",
-        "reasoning": "Airlines sector showing broad strength with DAL leading (RSI 68.7, all momentum signals aligned) in a risk-on tape \u2014 strong travel demand and improving macro sentiment make this a sector rotation play."
+        "reasoning": "United Airlines shows the full momentum trifecta (RSI 68.4, MACD bullish crossover, rising histogram, price above SMA-20) and airline stocks are classic risk-on beneficiaries when consumer confidence is up."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SMCI",
+        "conviction": "high",
+        "reasoning": "Super Micro Computer rides the AI infrastructure buildout cycle; RSI 66.6 with rising MACD histogram signals momentum without being overbought, and the risk-on tape supports AI hardware names."
       },
       {
         "action": "BUY",
         "ticker": "CCL",
         "conviction": "medium",
-        "reasoning": "Cruise/consumer discretionary momentum is building (RSI 67.2, price +5% above SMA-20) and fits the risk-on theme \u2014 deploys remaining cash while diversifying away from the portfolio's tech concentration."
+        "reasoning": "Carnival sits at RSI 69.3 \u2014 top of the bullish zone but not yet overbought \u2014 and cruise/leisure demand is structurally strong; risk-on days historically lift consumer discretionary leaders."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on today with NASDAQ +1.1% and S&P +0.8%, which supports adding to cyclical and consumer-facing names. With 4 open slots and $843 in cash, I'm deploying into two score-95 candidates \u2014 DAL for the hot airlines trade and CCL to capture consumer discretionary momentum \u2014 while keeping the portfolio diversified away from its existing tech-heavy core. Both fit the current environment and have RSI readings in the sweet spot below overbought levels.",
+    "briefing": "Markets are firmly risk-on today with NASDAQ +1.3% and S&P 500 +0.8%, favouring cyclicals and growth names. With 4 open slots and $843 in cash, I'm adding three positions \u2014 UAL, SMCI, and CCL \u2014 all scoring 95 on the momentum screener with clean technical setups. The remaining slot is left empty given limited remaining cash after sizing these three; all six existing positions are held as none have triggered their stop-loss or profit targets.",
     "market_education": {
-      "summary_en": "U.S. equities rallied broadly today as risk appetite improved across sectors, with growth and cyclical names leading the advance. The NASDAQ outperformed the S&P 500, reflecting renewed confidence in technology and consumer-facing businesses. Airlines, cruise lines, and semiconductors were notable standouts, suggesting investors are pricing in stronger economic momentum and reduced macro uncertainty.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5168\u7dda\u4e0a\u6f32\uff0c\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\uff0c\u6210\u9577\u80a1\u8207\u5468\u671f\u6027\u677f\u584a\u5f15\u9818\u5347\u52e2\u3002\u7d0d\u65af\u9054\u514b\u8868\u73fe\u512a\u65bc\u6a19\u666e500\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u79d1\u6280\u53ca\u6d88\u8cbb\u76f8\u95dc\u884c\u696d\u7684\u4fe1\u5fc3\u56de\u5fa9\u3002\u822a\u7a7a\u3001\u90f5\u8f2a\u53ca\u534a\u5c0e\u9ad4\u677f\u584a\u8868\u73fe\u7a81\u51fa\uff0c\u986f\u793a\u6295\u8cc7\u8005\u6b63\u5c07\u66f4\u5f37\u52c1\u7684\u7d93\u6fdf\u52d5\u80fd\u53ca\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u4e0b\u964d\u7d0d\u5165\u5b9a\u50f9\u4e4b\u4e2d\u3002",
+      "summary_en": "U.S. equities pushed higher on May 20 as easing trade tensions between the U.S. and major partners lifted risk sentiment broadly. Technology and AI-infrastructure stocks led the NASDAQ advance, while airlines and cruise operators surged on strong forward booking data pointing to a robust summer travel season. Semiconductor and data-centre supply-chain names also outperformed as institutional money rotated into cyclical growth.",
+      "summary_zh": "5\u670820\u65e5\u7f8e\u80a1\u5168\u9762\u8d70\u5f37\uff0c\u7f8e\u570b\u8207\u4e3b\u8981\u8cbf\u6613\u5925\u4f34\u7684\u7dca\u5f35\u95dc\u4fc2\u7de9\u548c\u63d0\u632f\u4e86\u5e02\u5834\u98a8\u96aa\u60c5\u7dd2\u3002\u79d1\u6280\u53ca\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u80a1\u9818\u6f32\u7d0d\u65af\u9054\u514b\uff0c\u822a\u7a7a\u53ca\u90f5\u8f2a\u80a1\u5247\u56e0\u590f\u5b63\u65c5\u904a\u9810\u8a02\u6578\u64da\u5f37\u52c1\u800c\u5927\u5e45\u4e0a\u63da\u3002\u534a\u5c0e\u9ad4\u53ca\u6578\u64da\u4e2d\u5fc3\u4f9b\u61c9\u93c8\u985e\u80a1\u540c\u6a23\u8868\u73fe\u4eae\u773c\uff0c\u6a5f\u69cb\u8cc7\u91d1\u7a4d\u6975\u8f2a\u52d5\u81f3\u5468\u671f\u6027\u6210\u9577\u677f\u584a\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Sector Rotation",
-      "explanation_en": "Sector rotation is when investors move money from one industry group to another based on the economic cycle or changing market conditions. In a risk-on environment like today, money tends to flow into cyclical sectors like airlines, travel, and consumer discretionary because these businesses benefit most when the economy is growing and consumers are spending. Spotting which sectors are receiving fresh capital \u2014 and getting in early \u2014 is a core active-management strategy.",
-      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u6839\u64da\u7d93\u6fdf\u5468\u671f\u6216\u5e02\u5834\u74b0\u5883\u8b8a\u5316\uff0c\u5c07\u8cc7\u91d1\u5f9e\u4e00\u500b\u884c\u696d\u8f49\u79fb\u81f3\u53e6\u4e00\u500b\u884c\u696d\u7684\u7b56\u7565\u3002\u5728\u4eca\u65e5\u9019\u7a2e\u98a8\u96aa\u504f\u597d\u56de\u5347\u7684\u5e02\u6cc1\u4e0b\uff0c\u8cc7\u91d1\u5f80\u5f80\u6d41\u5411\u822a\u7a7a\u3001\u65c5\u904a\u53ca\u6d88\u8cbb\u54c1\u7b49\u5468\u671f\u6027\u677f\u584a\uff0c\u56e0\u70ba\u9019\u4e9b\u4f01\u696d\u5728\u7d93\u6fdf\u589e\u9577\u3001\u6d88\u8cbb\u65fa\u76db\u6642\u7372\u76ca\u6700\u5927\u3002\u53ca\u65e9\u8b58\u5225\u54ea\u4e9b\u677f\u584a\u6b63\u5728\u5438\u7d0d\u65b0\u8cc7\u91d1\uff0c\u662f\u4e3b\u52d5\u7ba1\u7406\u7684\u6838\u5fc3\u7b56\u7565\u4e4b\u4e00\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing bets that stocks already trending upward will continue rising in the near term \u2014 price strength tends to attract more buyers, which reinforces the trend. Practitioners look for RSI in the 55\u201370 'sweet spot' (strong but not overbought) paired with a bullish MACD crossover to confirm the move has fuel left. Today's screener flagged 17 tickers scoring a perfect 95, all showing exactly this setup, making it a textbook momentum-driven session.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7684\u6838\u5fc3\u7406\u5ff5\u662f\uff1a\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u77ed\u671f\u5167\u5f80\u5f80\u6703\u7e7c\u7e8c\u8d70\u9ad8\u2014\u2014\u50f9\u683c\u5f37\u52e2\u6703\u5438\u5f15\u66f4\u591a\u8cb7\u76e4\uff0c\u5f9e\u800c\u5f62\u6210\u81ea\u6211\u5f37\u5316\u7684\u8da8\u52e2\u3002\u5be6\u52d9\u4e0a\uff0c\u6295\u8cc7\u8005\u6703\u5c0b\u627eRSI\u4ecb\u65bc55\u81f370\u7684\u300c\u751c\u871c\u5340\u9593\u300d\uff08\u5f37\u52e2\u4f46\u672a\u904e\u71b1\uff09\uff0c\u4e26\u914d\u5408MACD\u51fa\u73fe\u770b\u6f32\u4ea4\u53c9\uff0c\u4ee5\u78ba\u8a8d\u52d5\u80fd\u5c1a\u6709\u6301\u7e8c\u7a7a\u9593\u3002\u4eca\u65e5\u7be9\u9078\u5668\u5171\u6a19\u8a1817\u96bb\u8a55\u5206\u9054\u5230\u6eff\u520695\u7684\u80a1\u7968\uff0c\u5168\u90e8\u5448\u73fe\u9019\u4e00\u5f62\u614b\uff0c\u53ef\u8b02\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u5178\u578b\u793a\u7bc4\u65e5\u3002"
     }
   }
 }
