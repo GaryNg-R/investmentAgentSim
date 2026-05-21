@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-05-21T18:01:20.869542+00:00",
+  "saved_at": "2026-05-21T19:01:42.470345+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "STLA",
-        "conviction": "high",
-        "reasoning": "Highest score (100) with rare volume surge signal on top of full MACD bullish crossover and rising histogram \u2014 strongest setup in today's screener at an entry-friendly price."
-      },
-      {
-        "action": "BUY",
         "ticker": "EOSE",
-        "conviction": "medium",
-        "reasoning": "Score 95 with clean momentum setup in energy storage \u2014 adds sector diversification not represented in current portfolio at a low per-share price suitable for remaining cash."
+        "conviction": "high",
+        "reasoning": "Score 95 with all four bullish signals firing together \u2014 RSI at 67.8 (peak momentum zone), confirmed MACD crossover, rising histogram, and price 12% above SMA-20; strongest composite setup in today's screener."
       },
       {
         "action": "BUY",
-        "ticker": "NOK",
+        "ticker": "AXTI",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI at 61.4 (clean midpoint of bullish zone), MACD crossover confirmed, histogram rising, and price 7% above SMA-20 \u2014 momentum well underway with room before overbought territory."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SOFI",
         "conviction": "medium",
-        "reasoning": "Score 95 with full bullish signal stack; telecom exposure fills a gap in current holdings and the cheap share price lets cash work across a third new position."
+        "reasoning": "Score 95 with all four signals and RSI at 55.6 \u2014 earliest-stage momentum among the top candidates, offering the most upside runway before RSI climbs into caution territory."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were quiet and slightly green today with both the S&P 500 and NASDAQ up 0.3%, giving no reason to hold back. The portfolio is performing strongly at +24.6%, and with 4 open slots and $843 in cash sitting idle, deploying into the top momentum names makes sense. Added STLA as the top-ranked pick with a volume surge, plus EOSE and NOK for diversification into energy storage and telecom.",
+    "briefing": "Markets were essentially flat today \u2014 a quiet drift with no strong directional catalyst. With four open slots and over $500 in cash, the rules call for putting capital to work, and today's screener surfaced several clean score-95 setups. I added EOSE, AXTI, and SOFI \u2014 all showing confirmed MACD crossovers and RSI below 70 \u2014 while leaving one slot open as a buffer given the neutral tape.",
     "market_education": {
-      "summary_en": "U.S. equities posted modest gains of around 0.3% on both major indexes in a low-volatility session, as investors digested mixed economic signals without a clear directional catalyst. Sector rotation continued with energy and telecom names showing relative strength, while mega-cap tech traded sideways. No major macro surprises kept sentiment stable and neutral, typical of a consolidation phase after recent volatility.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5c0f\u5e45\u6536\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u8207\u6a19\u666e500\u6307\u6578\u5747\u4e0a\u5347\u7d040.3%\uff0c\u6574\u9ad4\u5e02\u5834\u6ce2\u52d5\u6027\u504f\u4f4e\uff0c\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u80fd\u6e90\u5132\u5b58\u53ca\u96fb\u4fe1\u677f\u584a\u8868\u73fe\u76f8\u5c0d\u5f37\u52c1\uff0c\u5e36\u52d5\u90e8\u5206\u8f2a\u52d5\u8cc7\u91d1\u6d41\u5165\uff0c\u800c\u5927\u578b\u79d1\u6280\u80a1\u5247\u7dad\u6301\u6a6b\u76e4\u6574\u7406\u683c\u5c40\u3002\u5b8f\u89c0\u9762\u672a\u73fe\u91cd\u5927\u610f\u5916\uff0c\u5e02\u5834\u60c5\u7dd2\u4fdd\u6301\u7a69\u5b9a\uff0c\u8207\u8fd1\u671f\u6ce2\u52d5\u5f8c\u7684\u6574\u56fa\u8d70\u52e2\u76f8\u7b26\u3002",
+      "summary_en": "U.S. equities ended nearly unchanged Thursday as investors found little reason to push in either direction, with the S&P 500 off 0.1% and the NASDAQ slipping 0.2%. The session reflected a broader consolidation mood \u2014 large-cap tech offered no fresh catalyst, and volume was light with no major economic releases to drive conviction. Beneath the surface, momentum continued rotating into select mid- and small-cap names with cleaner technical setups.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u56db\u6536\u76e4\u5e7e\u4e4e\u6301\u5e73\uff0c\u6295\u8cc7\u8005\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc0.1%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u6ed10.2%\u3002\u76e4\u9762\u5448\u73fe\u6574\u56fa\u683c\u5c40\u2014\u2014\u5927\u578b\u79d1\u6280\u80a1\u7121\u65b0\u50ac\u5316\u5291\u63d0\u632f\uff0c\u6210\u4ea4\u91cf\u6e05\u6de1\uff0c\u5e02\u5834\u975c\u5f85\u4e0b\u4e00\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u3002\u8868\u9762\u5e73\u975c\u4e4b\u4e0b\uff0c\u8cc7\u91d1\u6301\u7e8c\u8f2a\u52d5\u81f3\u6280\u8853\u9762\u8f03\u4f73\u7684\u4e2d\u5c0f\u578b\u80a1\uff0c\u5c0b\u627e\u4e0b\u4e00\u6ce2\u52d5\u80fd\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Surge",
-      "explanation_en": "A volume surge occurs when a stock trades significantly more shares than its recent average \u2014 in today's screener, STLA traded over 1.5x its 20-day average volume. High volume on an upward price move confirms that many participants are actively buying, lending credibility to the breakout rather than it being a low-conviction drift. Traders use this as a signal that institutional money may be entering, making the momentum more likely to continue.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u55ae\u65e5\u6210\u4ea4\u91cf\u9060\u9ad8\u65bc\u8fd1\u671f\u5747\u503c\u2014\u2014\u4eca\u65e5\u7be9\u9078\u540d\u55ae\u4e2d\uff0cSTLA\u7684\u6210\u4ea4\u91cf\u8d85\u904e\u517620\u65e5\u5747\u91cf\u76841.5\u500d\u3002\u50f9\u683c\u4e0a\u6f32\u4f34\u96a8\u9ad8\u6210\u4ea4\u91cf\uff0c\u4ee3\u8868\u5e02\u5834\u53c3\u8207\u8005\u7a4d\u6975\u9032\u5834\u8cb7\u5165\uff0c\u4ee4\u7a81\u7834\u8d70\u52e2\u66f4\u5177\u8aaa\u670d\u529b\uff0c\u800c\u975e\u4f4e\u6210\u4ea4\u91cf\u4e0b\u7684\u865b\u5047\u52d5\u80fd\u3002\u4ea4\u6613\u8005\u8996\u6b64\u70ba\u6a5f\u69cb\u8cc7\u91d1\u53ef\u80fd\u5165\u5834\u7684\u8a0a\u865f\uff0c\u610f\u5473\u8457\u5f8c\u7e8c\u4e0a\u6f32\u52d5\u80fd\u8f03\u5927\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy that buys stocks already trending upward, betting the trend continues in the near term rather than mean-reverting immediately. Practitioners look for a cluster of confirming signals \u2014 MACD crossover, rising histogram, RSI between 55\u201370, and price above the moving average \u2014 to distinguish real momentum from noise. Today's three buys all fit this mold: not the cheapest stocks, but the ones with the strongest technical tailwinds.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u8e64\u8fd1\u671f\u4e0a\u5347\u8da8\u52e2\u7684\u7b56\u7565\uff0c\u62bc\u6ce8\u8da8\u52e2\u5728\u77ed\u671f\u5167\u6301\u7e8c\u5ef6\u4f38\uff0c\u800c\u975e\u7acb\u5373\u56de\u843d\u5747\u503c\u3002\u5be6\u969b\u64cd\u4f5c\u4e0a\uff0c\u6295\u8cc7\u8005\u6703\u5c0b\u627e\u591a\u91cd\u78ba\u8a8d\u8a0a\u865f\u7684\u5171\u632f\u2014\u2014MACD\u91d1\u53c9\u3001\u67f1\u72c0\u5716\u8d70\u5347\u3001RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff0c\u4ee5\u53ca\u80a1\u50f9\u7ad9\u7a69\u5747\u7dda\u4e4b\u4e0a\u2014\u2014\u4ee5\u5340\u5206\u771f\u5be6\u52d5\u80fd\u8207\u5047\u7a81\u7834\u3002\u4eca\u65e5\u4e09\u7b46\u8cb7\u5165\u5747\u7b26\u5408\u6b64\u908f\u8f2f\uff1a\u4e0d\u8ffd\u6c42\u6700\u4fbf\u5b9c\u7684\u6a19\u7684\uff0c\u800c\u662f\u9078\u64c7\u6280\u8853\u9762\u9806\u98a8\u6700\u5f37\u7684\u80a1\u7968\u3002"
     }
   }
 }
