@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-05-21T16:01:20.628638+00:00",
+  "saved_at": "2026-05-21T17:01:28.184461+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "AXTI",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI at 56.8 \u2014 the lowest among top candidates, meaning the most runway before overbought territory, while all four bullish signals align: MACD crossover, rising histogram, and price above SMA-20."
+        "ticker": "WOLF",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 64.2 in the bullish momentum zone, MACD histogram rising, and price 11.7% above SMA-20 \u2014 semiconductor sector momentum with clear runway before overbought territory"
       },
       {
         "action": "BUY",
-        "ticker": "EOSE",
+        "ticker": "NOK",
         "conviction": "medium",
-        "reasoning": "Score 95 energy storage play with RSI 60.5 and clean MACD momentum; low share price allows flexible sizing with remaining cash and adds sector diversification away from tech."
+        "reasoning": "Score 95 with the lowest RSI (58.4) among top-tier candidates, giving maximum headroom before overbought; MACD bullish crossover confirmed and low unit price allows clean position sizing with remaining cash"
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets dipped mildly today (S&P -0.3%, NASDAQ -0.4%) in a neutral session with no strong directional signal. With 4 open slots and $843 in cash, the rules call for deploying into top candidates rather than sitting idle. Picking AXTI for its score-95 signals and RSI with the most upside cushion, plus EOSE for energy storage diversification \u2014 both have full MACD confirmation and are well within the healthy momentum zone.",
+    "briefing": "Markets were mildly negative today \u2014 NASDAQ -0.4%, S&P 500 -0.3% \u2014 a low-conviction neutral session with no strong directional catalyst. The portfolio is performing well at +24.6% overall, so I'm deploying cash conservatively into two score-95 names: WOLF for semiconductor momentum and NOK for its early-stage RSI setup with the most room to run. Holding two remaining slots in reserve given the soft tape.",
     "market_education": {
-      "summary_en": "U.S. equities pulled back modestly today as investors digested ongoing uncertainty around the federal budget path and long-term interest rate expectations, with the 10-year Treasury yield remaining elevated and weighing on growth valuations. Tech led the slight decline as position-trimming after recent gains offset any positive data. No single catalyst drove the move \u2014 it reflects routine consolidation after several strong sessions.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5c0f\u5e45\u56de\u843d\uff0c\u6295\u8cc7\u8005\u7e7c\u7e8c\u6d88\u5316\u806f\u90a6\u9810\u7b97\u524d\u666f\u53ca\u9577\u671f\u5229\u7387\u8d70\u5411\u7684\u4e0d\u78ba\u5b9a\u6027\uff0c10\u5e74\u671f\u7f8e\u50b5\u6b96\u5229\u7387\u7dad\u6301\u9ad8\u4f4d\uff0c\u5c0d\u6210\u9577\u80a1\u4f30\u503c\u5f62\u6210\u58d3\u529b\u3002\u79d1\u6280\u80a1\u9818\u8dcc\uff0c\u8fd1\u671f\u6f32\u5e45\u904e\u5f8c\u7684\u7372\u5229\u4e86\u7d50\u62b5\u6d88\u4e86\u90e8\u5206\u6b63\u9762\u6578\u64da\u3002\u6574\u9ad4\u800c\u8a00\u4e26\u7121\u55ae\u4e00\u50ac\u5316\u56e0\u7d20\uff0c\u5e02\u5834\u6b64\u756a\u6574\u7406\u5c6c\u5f37\u52e2\u5f8c\u7684\u6b63\u5e38\u56de\u8abf\u3002",
+      "summary_en": "U.S. equities edged lower on May 21, 2026, with the S&P 500 off 0.3% and the NASDAQ dropping 0.4%, as investors maintained a cautious posture amid lingering uncertainty around Federal Reserve rate policy and fiscal deficit concerns following recent U.S. credit rating news. Growth and tech names saw mild rotation pressure, while no single sector provided meaningful leadership. The session reflected a 'wait-and-see' mood ahead of upcoming economic data releases.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc2026\u5e745\u670821\u65e5\u5c0f\u5e45\u6536\u8dcc\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.3%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc0.4%\u3002\u5e02\u5834\u60c5\u7dd2\u504f\u8b39\u614e\uff0c\u6295\u8cc7\u8005\u6301\u7e8c\u95dc\u6ce8\u806f\u5132\u5c40\u5229\u7387\u8d70\u5411\uff0c\u4ee5\u53ca\u65e9\u524d\u7f8e\u570b\u4fe1\u7528\u8a55\u7d1a\u4e0b\u8abf\u6240\u5f15\u767c\u7684\u8ca1\u653f\u8d64\u5b57\u6182\u616e\u3002\u6210\u9577\u80a1\u8207\u79d1\u6280\u677f\u584a\u9762\u81e8\u8f15\u5fae\u6cbd\u58d3\uff0c\u5404\u677f\u584a\u7f3a\u4e4f\u660e\u986f\u9818\u6f32\u52d5\u529b\uff0c\u6574\u9ad4\u5e02\u5834\u5448\u89c0\u671b\u614b\u52e2\uff0c\u7b49\u5f85\u4e0b\u4e00\u6279\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u516c\u5e03\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is the strategy of buying assets that have been trending upward, on the theory that strong price movement tends to continue in the short term. Tools like RSI (Relative Strength Index) and MACD help identify stocks in a 'sweet spot' \u2014 moving up with conviction but not yet overextended. Today's picks targeted RSI readings of 55\u201368, which signal healthy upward momentum without the reversal risk of overbought conditions above 70.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u8cc7\u7522\uff0c\u5176\u7406\u8ad6\u57fa\u790e\u5728\u65bc\u5f37\u52c1\u7684\u50f9\u683c\u8da8\u52e2\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u3002RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8207MACD\u7b49\u6280\u8853\u5de5\u5177\u80fd\u5354\u52a9\u627e\u51fa\u300c\u751c\u871c\u9ede\u300d\u2014\u2014\u80a1\u50f9\u5411\u4e0a\u7a81\u7834\u4e14\u6709\u529b\u9053\u652f\u6490\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u904e\u71b1\u5340\u9593\u3002\u4eca\u65e5\u9078\u80a1\u9396\u5b9aRSI\u4ecb\u65bc55\u81f368\u4e4b\u9593\u7684\u6a19\u7684\uff0c\u6b64\u5340\u9593\u4ee3\u8868\u5065\u5eb7\u7684\u4e0a\u5347\u52d5\u80fd\uff0c\u540c\u6642\u898f\u907f\u4e86RSI\u8d85\u904e70\u5f8c\u7684\u8d85\u8cb7\u53cd\u8f49\u98a8\u96aa\u3002"
+      "term": "RSI Headroom",
+      "explanation_en": "RSI (Relative Strength Index) measures how overbought or oversold a stock is on a scale of 0\u2013100. Stocks above 70 are considered overbought and more likely to pull back, while the 55\u201370 range is the 'sweet spot' \u2014 strong momentum without being stretched. Today, NOK's RSI of 58.4 was the lowest among score-95 candidates, meaning it has the most headroom before hitting the danger zone \u2014 making it a lower-risk entry even in a flat market.",
+      "explanation_zh": "RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8861\u91cf\u80a1\u7968\u8d85\u8cb7\u6216\u8d85\u8ce3\u7684\u7a0b\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u3002RSI\u8d85\u904e70\u8996\u70ba\u8d85\u8cb7\uff0c\u56de\u8abf\u98a8\u96aa\u8f03\u9ad8\uff1b\u800c55\u81f370\u7684\u5340\u9593\u5247\u88ab\u8996\u70ba\u300c\u9ec3\u91d1\u5730\u5e36\u300d\u2014\u2014\u52d5\u80fd\u5f37\u52c1\u4f46\u5c1a\u672a\u904e\u71b1\u3002\u4eca\u65e5\u8afe\u57fa\u4e9e\uff08NOK\uff09\u7684RSI\u70ba58.4\uff0c\u662f\u6240\u6709\u8a55\u520695\u5019\u9078\u80a1\u4e2d\u6700\u4f4e\u7684\uff0c\u610f\u5473\u8457\u5b83\u5728\u9032\u5165\u5371\u96aa\u5340\u9593\u524d\u4ecd\u6709\u6700\u5927\u4e0a\u5347\u7a7a\u9593\uff0c\u5373\u4f7f\u5728\u75b2\u8edf\u5e02\u6cc1\u4e0b\u5165\u5834\u98a8\u96aa\u4e5f\u76f8\u5c0d\u8f03\u4f4e\u3002"
     }
   }
 }
