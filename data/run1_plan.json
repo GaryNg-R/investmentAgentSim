@@ -1,38 +1,32 @@
 {
-  "saved_at": "2026-05-21T20:01:25.580056+00:00",
+  "saved_at": "2026-05-21T21:01:29.491678+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "EOSE",
-        "conviction": "high",
-        "reasoning": "Score 95 with MACD above signal, rising histogram, RSI at 68.2 in the bullish sweet spot, and price well above SMA-20 \u2014 cleanest momentum setup on the board."
-      },
-      {
-        "action": "BUY",
         "ticker": "FRVO",
         "conviction": "high",
-        "reasoning": "Score 95 with all four bullish signals firing including a rising MACD histogram and RSI 66.6 in the ideal zone, pointing to sustained momentum continuation."
+        "reasoning": "Score 100 with all five bullish signals confirmed: RSI in the ideal 55\u201370 momentum zone, MACD bullish crossover with rising histogram, price well above SMA-20, and volume surge indicating institutional accumulation."
       },
       {
         "action": "BUY",
-        "ticker": "AAP",
+        "ticker": "ENS",
         "conviction": "medium",
-        "reasoning": "Score 95 with a volume surge above 1.5x the 20-day average alongside MACD crossover and RSI 65.9, suggesting institutional accumulation entering the position."
+        "reasoning": "Score 100 with RSI in the ideal momentum zone, MACD bullish crossover, price 6% above SMA-20, and a strong volume surge supporting sustained buying pressure."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted quietly higher today \u2014 S&P 500 +0.2%, NASDAQ +0.1% \u2014 with no major catalysts driving price action. With 4 open slots and $843 in cash sitting idle, I deployed into three score-95 momentum setups: EOSE (best all-around technical picture), FRVO (rising MACD histogram is a leading signal), and AAP (volume surge points to institutional buying). One slot remains open as a buffer for better opportunities or stop-loss replacements.",
+    "briefing": "Markets drifted mildly higher in a quiet, neutral session with no major macro catalysts \u2014 conditions that favor continuing to deploy into high-conviction momentum setups. With 4 open slots and $843 in cash, I'm adding FRVO (all five signals lit up, strongest setup on the board) and ENS (matching perfect score, volume confirmed). These two buys will put the remaining cash to work and reduce idle drag on performance.",
     "market_education": {
-      "summary_en": "US equity markets edged marginally higher on Thursday in a low-conviction session, with the S&P 500 gaining 0.2% and the NASDAQ adding 0.1% as investors showed little urgency to add risk. Technology stocks held steady while select consumer and industrial names quietly outperformed. The neutral tone reflects a market in a consolidation phase, digesting recent gains and awaiting fresh catalysts from economic data or Federal Reserve commentary.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u56db\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u7684\u60c5\u6cc1\u4e0b\u5c0f\u5e45\u6536\u9ad8\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.2%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u53470.1%\uff0c\u6295\u8cc7\u8005\u666e\u904d\u614b\u5ea6\u5be9\u614e\uff0c\u672a\u6709\u7a4d\u6975\u8ffd\u9ad8\u610f\u6b32\u3002\u79d1\u6280\u677f\u584a\u6574\u9ad4\u7dad\u6301\u7a69\u5b9a\uff0c\u90e8\u5206\u6d88\u8cbb\u53ca\u5de5\u696d\u985e\u500b\u80a1\u5247\u6084\u7136\u8dd1\u8d0f\u5927\u5e02\u3002\u4e2d\u6027\u683c\u8abf\u986f\u793a\u5e02\u5834\u6b63\u8655\u65bc\u6574\u56fa\u968e\u6bb5\uff0c\u6d88\u5316\u8fd1\u671f\u5347\u5e45\u4e4b\u9918\uff0c\u975c\u5f85\u806f\u5132\u5c40\u6700\u65b0\u8868\u614b\u6216\u65b0\u4e00\u8f2a\u7d93\u6fdf\u6578\u64da\u63d0\u4f9b\u9032\u4e00\u6b65\u6307\u5f15\u3002",
+      "summary_en": "Today's session was a low-volatility drift with the S&P 500 up just 0.2% and the NASDAQ up 0.1%, signaling a market in consolidation mode rather than trending strongly in either direction. Without significant earnings beats or macro surprises, price action was driven largely by sector rotation \u2014 momentum leaders in mid-cap industrials and specialty tech continued to attract buying while mega-caps traded flat. This type of selective, narrow advance often benefits momentum strategies as capital concentrates in the stocks already showing relative strength.",
+      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5ef6\u7e8c\u4f4e\u6ce2\u52d5\u76e4\u6574\u683c\u5c40\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u53470.2%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.1%\uff0c\u6574\u9ad4\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u5728\u91cd\u5927\u8ca1\u5831\u53ca\u5b8f\u89c0\u6578\u64da\u5747\u4ed8\u4e4b\u95d5\u5982\u7684\u60c5\u6cc1\u4e0b\uff0c\u8cc7\u91d1\u6d41\u5411\u4ee5\u677f\u584a\u8f2a\u52d5\u70ba\u4e3b\uff0c\u4e2d\u578b\u5de5\u696d\u80a1\u53ca\u534a\u5c0e\u9ad4\u76f8\u95dc\u500b\u80a1\u7372\u52d5\u80fd\u8cc7\u91d1\u9752\u775e\uff0c\u6210\u4ea4\u91cf\u660e\u986f\u9ad8\u65bc\u5747\u503c\u3002\u76f8\u8f03\u4e4b\u4e0b\uff0c\u5927\u578b\u79d1\u6280\u85cd\u7c4c\u666e\u904d\u6a6b\u76e4\u6574\u56fa\u3002\u6b64\u985e\u7a84\u5e45\u4e0a\u6f32\u683c\u5c40\u901a\u5e38\u6709\u5229\u65bc\u52d5\u80fd\u9078\u80a1\u7b56\u7565\uff0c\u56e0\u5e02\u5834\u8cc7\u91d1\u50be\u5411\u96c6\u4e2d\u6d41\u5165\u5df2\u5177\u5099\u76f8\u5c0d\u5f37\u52e2\u7684\u500b\u80a1\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price and volume trends, based on the idea that assets moving upward tend to keep rising in the near term. Indicators like RSI and MACD help pinpoint stocks gaining momentum without being dangerously overbought. Today's picks \u2014 EOSE, FRVO, and AAP \u2014 all had RSI between 55 and 70, the 'sweet spot' where momentum is building but there's still room to run before a reversal becomes likely.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u8868\u73fe\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u5176\u6838\u5fc3\u908f\u8f2f\u5728\u65bc\u5df2\u5f62\u6210\u4e0a\u5347\u8da8\u52e2\u7684\u8cc7\u7522\uff0c\u5f80\u5f80\u5728\u77ed\u671f\u5167\u5177\u5099\u5ef6\u7e8c\u6f32\u52e2\u7684\u6163\u6027\u3002RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8207 MACD \u7b49\u6280\u8853\u6307\u6a19\u53ef\u5354\u52a9\u8b58\u5225\u52d5\u80fd\u589e\u5f37\u800c\u5c1a\u672a\u8d85\u8cb7\u7684\u5165\u5834\u6642\u6a5f\u3002\u4eca\u65e5\u6240\u9078\u7684 EOSE\u3001FRVO \u53ca AAP\uff0cRSI \u5747\u4ecb\u65bc 55 \u81f3 70 \u4e4b\u9593\uff0c\u6b63\u8655\u65bc\u52d5\u80fd\u7a4d\u7d2f\u800c\u5c1a\u6709\u4e0a\u884c\u7a7a\u9593\u7684\u300c\u9ec3\u91d1\u5340\u9593\u300d\uff0c\u53cd\u8f49\u98a8\u96aa\u76f8\u5c0d\u8f03\u4f4e\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already showing strong price and volume trends, betting those trends will continue. It works because institutional buying and investor psychology create self-reinforcing cycles \u2014 a stock moving up attracts more attention and more buyers. The key risk is sudden reversals, which is why pairing momentum entries with stop-losses (like the -7% rule here) is essential to the strategy.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u4e00\u7a2e\u9806\u52e2\u800c\u70ba\u7684\u9078\u80a1\u7b56\u7565\uff0c\u6838\u5fc3\u908f\u8f2f\u662f\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u5747\u5448\u73fe\u5f37\u52e2\u7684\u500b\u80a1\uff0c\u62bc\u6ce8\u5176\u4e0a\u6f32\u8da8\u52e2\u5ef6\u7e8c\u3002\u6b64\u7b56\u7565\u594f\u6548\u7684\u539f\u56e0\u5728\u65bc\u6a5f\u69cb\u8cc7\u91d1\u8207\u5e02\u5834\u5fc3\u7406\u7684\u81ea\u6211\u5f37\u5316\u6548\u61c9\u2014\u2014\u80a1\u50f9\u4e0a\u6f32\u5438\u5f15\u66f4\u591a\u6295\u8cc7\u8005\u8ddf\u9032\uff0c\u5f62\u6210\u6b63\u5411\u5faa\u74b0\u3002\u7136\u800c\u52d5\u80fd\u53cd\u8f49\u5f80\u5f80\u731d\u4e0d\u53ca\u9632\uff0c\u56e0\u6b64\u5fc5\u9808\u642d\u914d\u56b4\u683c\u7684\u6b62\u640d\u6a5f\u5236\uff08\u5982\u672c\u7d44\u5408\u63a1\u7528\u7684-7%\u81ea\u52d5\u505c\u640d\uff09\uff0c\u65b9\u80fd\u5728\u884c\u60c5\u9006\u8f49\u6642\u6709\u6548\u63a7\u5236\u640d\u5931\u3002"
     }
   }
 }
