@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-05-21T17:01:28.184461+00:00",
+  "saved_at": "2026-05-21T18:01:20.869542+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "WOLF",
+        "ticker": "STLA",
+        "conviction": "high",
+        "reasoning": "Highest score (100) with rare volume surge signal on top of full MACD bullish crossover and rising histogram \u2014 strongest setup in today's screener at an entry-friendly price."
+      },
+      {
+        "action": "BUY",
+        "ticker": "EOSE",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 64.2 in the bullish momentum zone, MACD histogram rising, and price 11.7% above SMA-20 \u2014 semiconductor sector momentum with clear runway before overbought territory"
+        "reasoning": "Score 95 with clean momentum setup in energy storage \u2014 adds sector diversification not represented in current portfolio at a low per-share price suitable for remaining cash."
       },
       {
         "action": "BUY",
         "ticker": "NOK",
         "conviction": "medium",
-        "reasoning": "Score 95 with the lowest RSI (58.4) among top-tier candidates, giving maximum headroom before overbought; MACD bullish crossover confirmed and low unit price allows clean position sizing with remaining cash"
+        "reasoning": "Score 95 with full bullish signal stack; telecom exposure fills a gap in current holdings and the cheap share price lets cash work across a third new position."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were mildly negative today \u2014 NASDAQ -0.4%, S&P 500 -0.3% \u2014 a low-conviction neutral session with no strong directional catalyst. The portfolio is performing well at +24.6% overall, so I'm deploying cash conservatively into two score-95 names: WOLF for semiconductor momentum and NOK for its early-stage RSI setup with the most room to run. Holding two remaining slots in reserve given the soft tape.",
+    "briefing": "Markets were quiet and slightly green today with both the S&P 500 and NASDAQ up 0.3%, giving no reason to hold back. The portfolio is performing strongly at +24.6%, and with 4 open slots and $843 in cash sitting idle, deploying into the top momentum names makes sense. Added STLA as the top-ranked pick with a volume surge, plus EOSE and NOK for diversification into energy storage and telecom.",
     "market_education": {
-      "summary_en": "U.S. equities edged lower on May 21, 2026, with the S&P 500 off 0.3% and the NASDAQ dropping 0.4%, as investors maintained a cautious posture amid lingering uncertainty around Federal Reserve rate policy and fiscal deficit concerns following recent U.S. credit rating news. Growth and tech names saw mild rotation pressure, while no single sector provided meaningful leadership. The session reflected a 'wait-and-see' mood ahead of upcoming economic data releases.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc2026\u5e745\u670821\u65e5\u5c0f\u5e45\u6536\u8dcc\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.3%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc0.4%\u3002\u5e02\u5834\u60c5\u7dd2\u504f\u8b39\u614e\uff0c\u6295\u8cc7\u8005\u6301\u7e8c\u95dc\u6ce8\u806f\u5132\u5c40\u5229\u7387\u8d70\u5411\uff0c\u4ee5\u53ca\u65e9\u524d\u7f8e\u570b\u4fe1\u7528\u8a55\u7d1a\u4e0b\u8abf\u6240\u5f15\u767c\u7684\u8ca1\u653f\u8d64\u5b57\u6182\u616e\u3002\u6210\u9577\u80a1\u8207\u79d1\u6280\u677f\u584a\u9762\u81e8\u8f15\u5fae\u6cbd\u58d3\uff0c\u5404\u677f\u584a\u7f3a\u4e4f\u660e\u986f\u9818\u6f32\u52d5\u529b\uff0c\u6574\u9ad4\u5e02\u5834\u5448\u89c0\u671b\u614b\u52e2\uff0c\u7b49\u5f85\u4e0b\u4e00\u6279\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u516c\u5e03\u3002",
+      "summary_en": "U.S. equities posted modest gains of around 0.3% on both major indexes in a low-volatility session, as investors digested mixed economic signals without a clear directional catalyst. Sector rotation continued with energy and telecom names showing relative strength, while mega-cap tech traded sideways. No major macro surprises kept sentiment stable and neutral, typical of a consolidation phase after recent volatility.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5c0f\u5e45\u6536\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u8207\u6a19\u666e500\u6307\u6578\u5747\u4e0a\u5347\u7d040.3%\uff0c\u6574\u9ad4\u5e02\u5834\u6ce2\u52d5\u6027\u504f\u4f4e\uff0c\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u80fd\u6e90\u5132\u5b58\u53ca\u96fb\u4fe1\u677f\u584a\u8868\u73fe\u76f8\u5c0d\u5f37\u52c1\uff0c\u5e36\u52d5\u90e8\u5206\u8f2a\u52d5\u8cc7\u91d1\u6d41\u5165\uff0c\u800c\u5927\u578b\u79d1\u6280\u80a1\u5247\u7dad\u6301\u6a6b\u76e4\u6574\u7406\u683c\u5c40\u3002\u5b8f\u89c0\u9762\u672a\u73fe\u91cd\u5927\u610f\u5916\uff0c\u5e02\u5834\u60c5\u7dd2\u4fdd\u6301\u7a69\u5b9a\uff0c\u8207\u8fd1\u671f\u6ce2\u52d5\u5f8c\u7684\u6574\u56fa\u8d70\u52e2\u76f8\u7b26\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Headroom",
-      "explanation_en": "RSI (Relative Strength Index) measures how overbought or oversold a stock is on a scale of 0\u2013100. Stocks above 70 are considered overbought and more likely to pull back, while the 55\u201370 range is the 'sweet spot' \u2014 strong momentum without being stretched. Today, NOK's RSI of 58.4 was the lowest among score-95 candidates, meaning it has the most headroom before hitting the danger zone \u2014 making it a lower-risk entry even in a flat market.",
-      "explanation_zh": "RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8861\u91cf\u80a1\u7968\u8d85\u8cb7\u6216\u8d85\u8ce3\u7684\u7a0b\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u3002RSI\u8d85\u904e70\u8996\u70ba\u8d85\u8cb7\uff0c\u56de\u8abf\u98a8\u96aa\u8f03\u9ad8\uff1b\u800c55\u81f370\u7684\u5340\u9593\u5247\u88ab\u8996\u70ba\u300c\u9ec3\u91d1\u5730\u5e36\u300d\u2014\u2014\u52d5\u80fd\u5f37\u52c1\u4f46\u5c1a\u672a\u904e\u71b1\u3002\u4eca\u65e5\u8afe\u57fa\u4e9e\uff08NOK\uff09\u7684RSI\u70ba58.4\uff0c\u662f\u6240\u6709\u8a55\u520695\u5019\u9078\u80a1\u4e2d\u6700\u4f4e\u7684\uff0c\u610f\u5473\u8457\u5b83\u5728\u9032\u5165\u5371\u96aa\u5340\u9593\u524d\u4ecd\u6709\u6700\u5927\u4e0a\u5347\u7a7a\u9593\uff0c\u5373\u4f7f\u5728\u75b2\u8edf\u5e02\u6cc1\u4e0b\u5165\u5834\u98a8\u96aa\u4e5f\u76f8\u5c0d\u8f03\u4f4e\u3002"
+      "term": "Volume Surge",
+      "explanation_en": "A volume surge occurs when a stock trades significantly more shares than its recent average \u2014 in today's screener, STLA traded over 1.5x its 20-day average volume. High volume on an upward price move confirms that many participants are actively buying, lending credibility to the breakout rather than it being a low-conviction drift. Traders use this as a signal that institutional money may be entering, making the momentum more likely to continue.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u55ae\u65e5\u6210\u4ea4\u91cf\u9060\u9ad8\u65bc\u8fd1\u671f\u5747\u503c\u2014\u2014\u4eca\u65e5\u7be9\u9078\u540d\u55ae\u4e2d\uff0cSTLA\u7684\u6210\u4ea4\u91cf\u8d85\u904e\u517620\u65e5\u5747\u91cf\u76841.5\u500d\u3002\u50f9\u683c\u4e0a\u6f32\u4f34\u96a8\u9ad8\u6210\u4ea4\u91cf\uff0c\u4ee3\u8868\u5e02\u5834\u53c3\u8207\u8005\u7a4d\u6975\u9032\u5834\u8cb7\u5165\uff0c\u4ee4\u7a81\u7834\u8d70\u52e2\u66f4\u5177\u8aaa\u670d\u529b\uff0c\u800c\u975e\u4f4e\u6210\u4ea4\u91cf\u4e0b\u7684\u865b\u5047\u52d5\u80fd\u3002\u4ea4\u6613\u8005\u8996\u6b64\u70ba\u6a5f\u69cb\u8cc7\u91d1\u53ef\u80fd\u5165\u5834\u7684\u8a0a\u865f\uff0c\u610f\u5473\u8457\u5f8c\u7e8c\u4e0a\u6f32\u52d5\u80fd\u8f03\u5927\u3002"
     }
   }
 }
