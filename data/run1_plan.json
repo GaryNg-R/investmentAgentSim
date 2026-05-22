@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-05-21T21:01:29.491678+00:00",
+  "saved_at": "2026-05-22T13:01:14.656269+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "FRVO",
         "conviction": "high",
-        "reasoning": "Score 100 with all five bullish signals confirmed: RSI in the ideal 55\u201370 momentum zone, MACD bullish crossover with rising histogram, price well above SMA-20, and volume surge indicating institutional accumulation."
+        "reasoning": "Score 100 with RSI in bullish zone, MACD crossover confirmed, histogram rising, and volume surge \u2014 the cleanest technical setup in today's screener."
       },
       {
         "action": "BUY",
-        "ticker": "ENS",
+        "ticker": "ACHR",
         "conviction": "medium",
-        "reasoning": "Score 100 with RSI in the ideal momentum zone, MACD bullish crossover, price 6% above SMA-20, and a strong volume surge supporting sustained buying pressure."
+        "reasoning": "Score 95 with early-stage momentum (MACD histogram rising but RSI only at 58), offering a better entry point than peers already approaching overbought territory."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted mildly higher in a quiet, neutral session with no major macro catalysts \u2014 conditions that favor continuing to deploy into high-conviction momentum setups. With 4 open slots and $843 in cash, I'm adding FRVO (all five signals lit up, strongest setup on the board) and ENS (matching perfect score, volume confirmed). These two buys will put the remaining cash to work and reduce idle drag on performance.",
+    "briefing": "Quiet neutral session \u2014 S&P and NASDAQ both barely moved, so there's no macro tailwind but also no headwind to fight. Deploying cash into FRVO and ACHR, the two strongest setups where momentum is building but not exhausted. Existing positions remain intact; auto stop-loss and profit targets continue to manage downside and upside exits.",
     "market_education": {
-      "summary_en": "Today's session was a low-volatility drift with the S&P 500 up just 0.2% and the NASDAQ up 0.1%, signaling a market in consolidation mode rather than trending strongly in either direction. Without significant earnings beats or macro surprises, price action was driven largely by sector rotation \u2014 momentum leaders in mid-cap industrials and specialty tech continued to attract buying while mega-caps traded flat. This type of selective, narrow advance often benefits momentum strategies as capital concentrates in the stocks already showing relative strength.",
-      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5ef6\u7e8c\u4f4e\u6ce2\u52d5\u76e4\u6574\u683c\u5c40\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u53470.2%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.1%\uff0c\u6574\u9ad4\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u5728\u91cd\u5927\u8ca1\u5831\u53ca\u5b8f\u89c0\u6578\u64da\u5747\u4ed8\u4e4b\u95d5\u5982\u7684\u60c5\u6cc1\u4e0b\uff0c\u8cc7\u91d1\u6d41\u5411\u4ee5\u677f\u584a\u8f2a\u52d5\u70ba\u4e3b\uff0c\u4e2d\u578b\u5de5\u696d\u80a1\u53ca\u534a\u5c0e\u9ad4\u76f8\u95dc\u500b\u80a1\u7372\u52d5\u80fd\u8cc7\u91d1\u9752\u775e\uff0c\u6210\u4ea4\u91cf\u660e\u986f\u9ad8\u65bc\u5747\u503c\u3002\u76f8\u8f03\u4e4b\u4e0b\uff0c\u5927\u578b\u79d1\u6280\u85cd\u7c4c\u666e\u904d\u6a6b\u76e4\u6574\u56fa\u3002\u6b64\u985e\u7a84\u5e45\u4e0a\u6f32\u683c\u5c40\u901a\u5e38\u6709\u5229\u65bc\u52d5\u80fd\u9078\u80a1\u7b56\u7565\uff0c\u56e0\u5e02\u5834\u8cc7\u91d1\u50be\u5411\u96c6\u4e2d\u6d41\u5165\u5df2\u5177\u5099\u76f8\u5c0d\u5f37\u52e2\u7684\u500b\u80a1\u3002",
+      "summary_en": "U.S. equities drifted sideways Friday with the S&P 500 up just 0.2% and the NASDAQ gaining 0.1%, reflecting a lack of fresh catalysts after a volatile week dominated by Treasury yield moves and tariff policy uncertainty. Investors remained cautious ahead of the holiday weekend, with volume light across most sectors. Defensive rotation was modest, leaving the tape neither risk-on nor risk-off \u2014 a classic consolidation day after recent gains.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e94\u7a84\u5e45\u6a6b\u884c\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u53470.2%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.1%\uff0c\u5e02\u5834\u7f3a\u4e4f\u65b0\u9bae\u50ac\u5316\u5291\uff0c\u5ef6\u7e8c\u8fd1\u671f\u5728\u570b\u50b5\u5229\u7387\u6ce2\u52d5\u8207\u95dc\u7a05\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u4e0b\u7684\u89c0\u671b\u60c5\u7dd2\u3002\u6295\u8cc7\u8005\u5728\u9577\u9031\u672b\u5047\u671f\u524d\u666e\u904d\u8b39\u614e\uff0c\u5404\u677f\u584a\u6210\u4ea4\u91cf\u504f\u4f4e\u3002\u9632\u79a6\u6027\u8f2a\u52d5\u5e45\u5ea6\u6709\u9650\uff0c\u6574\u9ad4\u5e02\u5834\u5448\u73fe\u5178\u578b\u7684\u9ad8\u4f4d\u6574\u56fa\u683c\u5c40\uff0c\u65e2\u975e\u98a8\u96aa\u504f\u597d\u4e5f\u975e\u907f\u96aa\u6a21\u5f0f\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already showing strong price and volume trends, betting those trends will continue. It works because institutional buying and investor psychology create self-reinforcing cycles \u2014 a stock moving up attracts more attention and more buyers. The key risk is sudden reversals, which is why pairing momentum entries with stop-losses (like the -7% rule here) is essential to the strategy.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u4e00\u7a2e\u9806\u52e2\u800c\u70ba\u7684\u9078\u80a1\u7b56\u7565\uff0c\u6838\u5fc3\u908f\u8f2f\u662f\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u5747\u5448\u73fe\u5f37\u52e2\u7684\u500b\u80a1\uff0c\u62bc\u6ce8\u5176\u4e0a\u6f32\u8da8\u52e2\u5ef6\u7e8c\u3002\u6b64\u7b56\u7565\u594f\u6548\u7684\u539f\u56e0\u5728\u65bc\u6a5f\u69cb\u8cc7\u91d1\u8207\u5e02\u5834\u5fc3\u7406\u7684\u81ea\u6211\u5f37\u5316\u6548\u61c9\u2014\u2014\u80a1\u50f9\u4e0a\u6f32\u5438\u5f15\u66f4\u591a\u6295\u8cc7\u8005\u8ddf\u9032\uff0c\u5f62\u6210\u6b63\u5411\u5faa\u74b0\u3002\u7136\u800c\u52d5\u80fd\u53cd\u8f49\u5f80\u5f80\u731d\u4e0d\u53ca\u9632\uff0c\u56e0\u6b64\u5fc5\u9808\u642d\u914d\u56b4\u683c\u7684\u6b62\u640d\u6a5f\u5236\uff08\u5982\u672c\u7d44\u5408\u63a1\u7528\u7684-7%\u81ea\u52d5\u505c\u640d\uff09\uff0c\u65b9\u80fd\u5728\u884c\u60c5\u9006\u8f49\u6642\u6709\u6548\u63a7\u5236\u640d\u5931\u3002"
+      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price trends, betting that what's moving up will keep moving up. The key is entering while momentum is building (RSI 55\u201370, rising MACD histogram) rather than chasing stocks already overbought (RSI above 70). Today's picks FRVO and ACHR were chosen exactly for this reason \u2014 strong signals without being stretched.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u8e64\u5f37\u52e2\u80a1\u7684\u7b56\u7565\uff0c\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u6f32\u52e2\u6301\u7e8c\u300d\u2014\u2014\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u7684\u80a1\u7968\u5f80\u5f80\u6703\u7e7c\u7e8c\u4e0a\u6f32\u3002\u95dc\u9375\u5728\u65bc\u5728\u52d5\u80fd\u5f62\u6210\u521d\u671f\u9032\u5834\uff08RSI\u4ecb\u65bc55\u201370\u4e4b\u9593\u3001MACD\u67f1\u72c0\u5716\u4e0a\u5347\uff09\uff0c\u800c\u975e\u8ffd\u9ad8\u5df2\u8d85\u8cb7\u7684\u80a1\u7968\uff08RSI\u8d85\u904e70\uff09\u3002\u4eca\u65e5\u9078\u5165FRVO\u8207ACHR\uff0c\u6b63\u662f\u56e0\u70ba\u5169\u8005\u6280\u8853\u8a0a\u865f\u5f37\u52c1\uff0c\u4f46\u5c1a\u672a\u51fa\u73fe\u904e\u71b1\u8de1\u8c61\uff0c\u9032\u5834\u6642\u6a5f\u8f03\u4f73\u3002"
     }
   }
 }
