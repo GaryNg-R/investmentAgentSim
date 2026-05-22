@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-05-22T20:01:05.716958+00:00",
+  "saved_at": "2026-05-22T21:01:14.632961+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,20 +7,26 @@
         "action": "BUY",
         "ticker": "UTI",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 66.4 in the bullish momentum zone, confirmed MACD crossover, and volume surge \u2014 best risk-adjusted entry from today's screener with cash to deploy and 4 open slots."
+        "reasoning": "Score 95 with RSI 63.2 in ideal bullish momentum zone, MACD crossover confirmed by volume surge >1.5x average \u2014 strongest combination on today's list for a neutral-market entry."
+      },
+      {
+        "action": "BUY",
+        "ticker": "IONQ",
+        "conviction": "medium",
+        "reasoning": "Score 90 with RSI 69.9 at the top of the bullish zone and price well above SMA-20, riding continued quantum computing sector momentum while still avoiding overbought territory."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets closed mildly positive in a low-conviction session \u2014 S&P +0.4%, NASDAQ +0.2% \u2014 with no strong directional catalyst. Portfolio is healthy at +24.6% overall, but we're sitting on $843 cash with 4 open slots, which is leaving alpha on the table. UTI earns a top score of 95 today with clean technicals and volume confirmation, making it the best use of remaining cash. No existing positions triggered sell signals.",
+    "briefing": "Markets drifted slightly higher in a quiet, neutral session \u2014 S&P 500 +0.4%, NASDAQ +0.2% \u2014 with no strong directional catalyst. We have 4 open slots and $843 in cash, so deploying into two high-scoring names: UTI (score 95, volume-confirmed momentum) and IONQ (score 90, quantum computing theme with RSI near ceiling of the bullish zone). Both keep us diversified across sectors without overextending into overbought territory.",
     "market_education": {
-      "summary_en": "U.S. equities edged higher in a quiet session as investors digested mixed economic signals and awaited further clarity on fiscal policy and Federal Reserve direction. The S&P 500 outpaced the NASDAQ slightly, suggesting rotation from growth into broader market exposure. Without a clear macro catalyst, price action was driven mainly by sector momentum and individual stock moves rather than index-level themes.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u5728\u6de1\u975c\u7684\u4ea4\u6295\u4e2d\u5c0f\u5e45\u6536\u9ad8\uff0c\u6295\u8cc7\u8005\u6d88\u5316\u6df7\u96dc\u7684\u7d93\u6fdf\u8a0a\u865f\uff0c\u540c\u6642\u7b49\u5f85\u8ca1\u653f\u653f\u7b56\u53ca\u806f\u6e96\u6703\u65b9\u5411\u7684\u9032\u4e00\u6b65\u660e\u6717\u5316\u3002\u6a19\u666e500\u7684\u5347\u5e45\u7565\u52dd\u7d0d\u6307\uff0c\u6697\u793a\u5e02\u5834\u6709\u8cc7\u91d1\u5f9e\u6210\u9577\u80a1\u8f2a\u52d5\u81f3\u66f4\u5ee3\u6cdb\u5e02\u5834\u3002\u7531\u65bc\u7f3a\u4e4f\u660e\u78ba\u7684\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u50f9\u683c\u8d70\u52e2\u4e3b\u8981\u7531\u677f\u584a\u52d5\u80fd\u53ca\u500b\u80a1\u8868\u73fe\u4e3b\u5c0e\uff0c\u800c\u975e\u6307\u6578\u5c64\u9762\u7684\u6574\u9ad4\u4e3b\u984c\u3002",
+      "summary_en": "U.S. equities posted modest gains today with the S&P 500 up 0.4% and the NASDAQ up 0.2%, reflecting a broadly neutral risk appetite among investors. Markets appeared to be consolidating recent gains after a strong multi-week run, with no major macro catalysts driving strong directional moves. Sector rotation continued as investors rotated into industrials and technology subsectors while momentum names held firm.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5c0f\u5e45\u4e0a\u63da\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.2%\uff0c\u6574\u9ad4\u5e02\u5834\u60c5\u7dd2\u504f\u4e2d\u6027\u3002\u5728\u7d93\u6b77\u6578\u9031\u5f37\u52c1\u4e0a\u6f32\u5f8c\uff0c\u5e02\u5834\u9032\u5165\u6574\u56fa\u968e\u6bb5\uff0c\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\u5f15\u9818\u660e\u78ba\u65b9\u5411\u3002\u8cc7\u91d1\u6301\u7e8c\u8f2a\u52d5\uff0c\u6d41\u5165\u5de5\u696d\u53ca\u79d1\u6280\u7d30\u5206\u677f\u584a\uff0c\u800c\u52d5\u80fd\u5f37\u52c1\u7684\u500b\u80a1\u6574\u9ad4\u7dad\u6301\u7a69\u5065\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already moving up, betting the trend will continue. Traders use signals like RSI (relative strength), MACD crossovers, and above-average volume to confirm that a stock has real buying interest behind it \u2014 not just noise. Today's top picks like UTI score high because all three signals are firing together, which historically improves the odds of a continued move.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u5df2\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u8d70\u52e2\u5c07\u5ef6\u7e8c\u3002\u6295\u8cc7\u8005\u5229\u7528RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u3001MACD\u4ea4\u53c9\u53ca\u6210\u4ea4\u91cf\u7570\u5e38\u653e\u5927\u7b49\u6280\u8853\u8a0a\u865f\uff0c\u78ba\u8a8d\u80a1\u7968\u80cc\u5f8c\u6709\u771f\u5be6\u8cb7\u76e4\u652f\u6490\uff0c\u800c\u975e\u865b\u5047\u6ce2\u52d5\u3002\u4eca\u65e5\u5165\u9078\u7684UTI\u4e09\u9805\u8a0a\u865f\u540c\u6b65\u89f8\u767c\uff0c\u5f9e\u6b77\u53f2\u6578\u64da\u770b\uff0c\u9019\u7a2e\u5171\u632f\u5f62\u614b\u5f80\u5f80\u80fd\u63d0\u5347\u8da8\u52e2\u5ef6\u7e8c\u7684\u52dd\u7387\u3002"
+      "term": "Volume Confirmation",
+      "explanation_en": "Volume confirmation means a stock's price move is supported by unusually high trading volume \u2014 typically 1.5x or more above its 20-day average. When a breakout or rally happens with heavy volume, it signals broad participation and conviction among buyers, making the move more likely to continue. Without volume backing a price move, the signal is weaker and more prone to reversal.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u78ba\u8a8d\u662f\u6307\u80a1\u50f9\u7684\u4e0a\u6f32\u6216\u7a81\u7834\uff0c\u540c\u6642\u4f34\u96a8\u8457\u7570\u5e38\u9ad8\u7684\u4ea4\u6613\u91cf\u2014\u2014\u901a\u5e38\u662f20\u65e5\u5747\u91cf\u76841.5\u500d\u4ee5\u4e0a\u3002\u7576\u80a1\u50f9\u5728\u5927\u91cf\u6210\u4ea4\u914d\u5408\u4e0b\u7a81\u7834\u6642\uff0c\u4ee3\u8868\u5e02\u5834\u8cb7\u76e4\u5ee3\u6cdb\u4e14\u5177\u4fe1\u5fc3\uff0c\u8d70\u52e2\u6301\u7e8c\u7684\u53ef\u80fd\u6027\u66f4\u9ad8\u3002\u53cd\u4e4b\uff0c\u82e5\u50f9\u683c\u4e0a\u5347\u4f46\u6210\u4ea4\u91cf\u4e0d\u8db3\uff0c\u8a0a\u865f\u53ef\u4fe1\u5ea6\u8f03\u4f4e\uff0c\u8f03\u5bb9\u6613\u51fa\u73fe\u56de\u8abf\u3002"
     }
   }
 }
