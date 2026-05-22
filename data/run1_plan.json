@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-05-22T13:01:14.656269+00:00",
+  "saved_at": "2026-05-22T14:01:13.758158+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "FRVO",
+        "ticker": "AMD",
         "conviction": "high",
-        "reasoning": "Score 100 with RSI in bullish zone, MACD crossover confirmed, histogram rising, and volume surge \u2014 the cleanest technical setup in today's screener."
+        "reasoning": "Score 100 with RSI 67.6 in the sweet bullish zone, all five momentum signals firing including volume surge, and as a large-cap semiconductor it offers better risk-adjusted exposure than the micro-caps on this list."
       },
       {
         "action": "BUY",
-        "ticker": "ACHR",
+        "ticker": "LUNR",
         "conviction": "medium",
-        "reasoning": "Score 95 with early-stage momentum (MACD histogram rising but RSI only at 58), offering a better entry point than peers already approaching overbought territory."
+        "reasoning": "Score 100 with RSI 67.0 squarely in the momentum zone, MACD bullish crossover, price well above SMA-20, and a volume surge \u2014 space-economy exposure with clean technical setup."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SMR",
+        "conviction": "medium",
+        "reasoning": "Score 100 with RSI 68.7 near the top of the bullish zone, all five signals aligned, and small-modular-reactor nuclear energy is a structural growth theme with real near-term catalysts."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Quiet neutral session \u2014 S&P and NASDAQ both barely moved, so there's no macro tailwind but also no headwind to fight. Deploying cash into FRVO and ACHR, the two strongest setups where momentum is building but not exhausted. Existing positions remain intact; auto stop-loss and profit targets continue to manage downside and upside exits.",
+    "briefing": "Markets posted a mild neutral session with S&P 500 +0.6% and NASDAQ +0.5% \u2014 no directional conviction but not a risk-off environment either. We have four open slots and $843 in cash, so sitting idle would mean leaving opportunity on the table. I'm deploying into three score-100 names \u2014 AMD for large-cap quality, LUNR for space momentum, and SMR for the nuclear-energy theme \u2014 all with RSI readings in the 55\u201370 bullish zone rather than overbought territory, which is exactly the risk profile we want.",
     "market_education": {
-      "summary_en": "U.S. equities drifted sideways Friday with the S&P 500 up just 0.2% and the NASDAQ gaining 0.1%, reflecting a lack of fresh catalysts after a volatile week dominated by Treasury yield moves and tariff policy uncertainty. Investors remained cautious ahead of the holiday weekend, with volume light across most sectors. Defensive rotation was modest, leaving the tape neither risk-on nor risk-off \u2014 a classic consolidation day after recent gains.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e94\u7a84\u5e45\u6a6b\u884c\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u53470.2%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.1%\uff0c\u5e02\u5834\u7f3a\u4e4f\u65b0\u9bae\u50ac\u5316\u5291\uff0c\u5ef6\u7e8c\u8fd1\u671f\u5728\u570b\u50b5\u5229\u7387\u6ce2\u52d5\u8207\u95dc\u7a05\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u4e0b\u7684\u89c0\u671b\u60c5\u7dd2\u3002\u6295\u8cc7\u8005\u5728\u9577\u9031\u672b\u5047\u671f\u524d\u666e\u904d\u8b39\u614e\uff0c\u5404\u677f\u584a\u6210\u4ea4\u91cf\u504f\u4f4e\u3002\u9632\u79a6\u6027\u8f2a\u52d5\u5e45\u5ea6\u6709\u9650\uff0c\u6574\u9ad4\u5e02\u5834\u5448\u73fe\u5178\u578b\u7684\u9ad8\u4f4d\u6574\u56fa\u683c\u5c40\uff0c\u65e2\u975e\u98a8\u96aa\u504f\u597d\u4e5f\u975e\u907f\u96aa\u6a21\u5f0f\u3002",
+      "summary_en": "U.S. equities drifted modestly higher on May 22 in a session characterized by light institutional volume and sector rotation rather than any single macro catalyst. Technology and semiconductor names led the advance as investors continued to digest AI infrastructure spending trends, while defensive sectors lagged. The muted gain reflects a market in consolidation mode after a strong rally off April lows, with traders awaiting clearer signals from upcoming Fed speakers and earnings revisions.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc5\u670822\u65e5\u5c0f\u5e45\u6536\u9ad8\uff0c\u6574\u9ad4\u4ea4\u6295\u6e05\u6de1\uff0c\u5e02\u5834\u4ee5\u677f\u584a\u8f2a\u52d5\u70ba\u4e3b\uff0c\u7f3a\u4e4f\u55ae\u4e00\u660e\u78ba\u7684\u5b8f\u89c0\u50ac\u5316\u5291\u3002\u79d1\u6280\u80a1\u8207\u534a\u5c0e\u9ad4\u985e\u80a1\u8868\u73fe\u9818\u5148\uff0c\u53d7\u60e0\u65bc\u4eba\u5de5\u667a\u6167\u57fa\u790e\u8a2d\u65bd\u6295\u8cc7\u6301\u7e8c\u5347\u6eab\u7684\u5e02\u5834\u9810\u671f\uff0c\u9632\u79a6\u6027\u677f\u584a\u5247\u76f8\u5c0d\u843d\u5f8c\u3002\u5927\u76e4\u57284\u6708\u4f4e\u9ede\u5927\u5e45\u53cd\u5f48\u5f8c\u9032\u5165\u6574\u56fa\u968e\u6bb5\uff0c\u6295\u8cc7\u8005\u975c\u5f85\u806f\u5132\u5c40\u5b98\u54e1\u8b1b\u8a71\u53ca\u4f01\u696d\u76c8\u5229\u9810\u6e2c\u4fee\u8a02\u65b9\u5411\uff0c\u89c0\u671b\u60c5\u7dd2\u660e\u986f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price trends, betting that what's moving up will keep moving up. The key is entering while momentum is building (RSI 55\u201370, rising MACD histogram) rather than chasing stocks already overbought (RSI above 70). Today's picks FRVO and ACHR were chosen exactly for this reason \u2014 strong signals without being stretched.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u8e64\u5f37\u52e2\u80a1\u7684\u7b56\u7565\uff0c\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u6f32\u52e2\u6301\u7e8c\u300d\u2014\u2014\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u7684\u80a1\u7968\u5f80\u5f80\u6703\u7e7c\u7e8c\u4e0a\u6f32\u3002\u95dc\u9375\u5728\u65bc\u5728\u52d5\u80fd\u5f62\u6210\u521d\u671f\u9032\u5834\uff08RSI\u4ecb\u65bc55\u201370\u4e4b\u9593\u3001MACD\u67f1\u72c0\u5716\u4e0a\u5347\uff09\uff0c\u800c\u975e\u8ffd\u9ad8\u5df2\u8d85\u8cb7\u7684\u80a1\u7968\uff08RSI\u8d85\u904e70\uff09\u3002\u4eca\u65e5\u9078\u5165FRVO\u8207ACHR\uff0c\u6b63\u662f\u56e0\u70ba\u5169\u8005\u6280\u8853\u8a0a\u865f\u5f37\u52c1\uff0c\u4f46\u5c1a\u672a\u51fa\u73fe\u904e\u71b1\u8de1\u8c61\uff0c\u9032\u5834\u6642\u6a5f\u8f03\u4f73\u3002"
+      "term": "RSI Momentum Zone",
+      "explanation_en": "RSI (Relative Strength Index) measures how fast a stock's price is moving on a scale of 0\u2013100. A reading between 55\u201370 is often called the 'bullish momentum zone' \u2014 the stock is trending upward with conviction but hasn't yet entered overbought territory (above 70) where a pullback is more likely. Today's three buys were all chosen because their RSI sits in this sweet spot, balancing upside potential with manageable downside risk.",
+      "explanation_zh": "RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6a19\uff09\u4ee50\u81f3100\u7684\u523b\u5ea6\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u6216\u4e0b\u8dcc\u7684\u901f\u5ea6\u3002\u7576RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff0c\u901a\u5e38\u88ab\u7a31\u70ba\u300c\u591a\u982d\u52d5\u80fd\u5340\u300d\u2014\u2014\u4ee3\u8868\u80a1\u7968\u6b63\u5728\u7a69\u5065\u4e0a\u5347\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff0870\u4ee5\u4e0a\uff09\uff0c\u56e0\u6b64\u62c9\u56de\u4fee\u6b63\u7684\u98a8\u96aa\u76f8\u5c0d\u8f03\u4f4e\u3002\u4eca\u65e5\u4e09\u7b46\u8cb7\u5165\u6a19\u7684\u7684RSI\u5747\u843d\u5728\u6b64\u751c\u871c\u5340\u9593\uff0c\u5728\u6355\u6349\u4e0a\u884c\u52d5\u80fd\u7684\u540c\u6642\uff0c\u4e5f\u6709\u6548\u63a7\u5236\u4e86\u4e0b\u884c\u98a8\u96aa\u3002"
     }
   }
 }
