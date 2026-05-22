@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-05-22T17:01:28.814728+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-05-22T18:01:20.900182+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "FLY",
+        "ticker": "CMPR",
         "conviction": "high",
-        "reasoning": "Score 90 with RSI 65.4 in the ideal bullish momentum zone (not overbought), MACD bullish crossover, and price well above SMA-20 \u2014 best risk/reward among top candidates."
+        "reasoning": "Top-ranked screener score (95) with RSI in the bullish momentum zone, MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 all four signals aligned, rare quality."
       },
       {
         "action": "BUY",
-        "ticker": "INTC",
+        "ticker": "TSLA",
         "conviction": "medium",
-        "reasoning": "Score 90 with RSI 61.6 in bullish momentum zone and MACD crossover; Intel at $120.98 offers a lower-RSI entry than most screened names, reducing mean-reversion risk."
+        "reasoning": "Score 90 with RSI 62.9 in healthy bullish zone and MACD crossover confirmed; neutral-to-positive market day supports continued momentum without overbought risk."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Risk-on session with S&P 500 +0.6% and NASDAQ +0.5% \u2014 a broad, orderly rally with no stress signals. With 4 open slots and $843 in cash, I'm deploying into the two score-90 names whose RSI sits in the bullish-but-not-overbought zone (61\u201366), avoiding the crowded overbought names scoring 70 where RSI readings of 78\u201388 raise pullback risk. Existing positions remain intact; auto stop-loss and profit targets continue to manage downside on those.",
+    "briefing": "Markets posted a quiet positive session today \u2014 NASDAQ up 0.5% and S&P 500 up 0.6% \u2014 suggesting underlying demand without overheating. With 4 open slots and $843 in cash, I'm deploying into CMPR (the strongest screener candidate with all four signals aligned) and TSLA (solid momentum, not overbought). Existing holdings look healthy and no stop-loss triggers are visible, so no sells today.",
     "market_education": {
-      "summary_en": "U.S. equities posted a modest risk-on advance on May 22, with the S&P 500 gaining 0.6% and the NASDAQ up 0.5%, driven by continued optimism around AI infrastructure spending and resilient consumer data. Semiconductor and tech hardware names led the charge, with several names hitting multi-month highs on strong earnings revisions. No significant macro shock emerged to interrupt the grind higher, keeping investor sentiment constructive heading into the long weekend.",
-      "summary_zh": "\u7f8e\u80a15\u670822\u65e5\u5ef6\u7e8c\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.6%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.5%\uff0c\u4e3b\u8981\u53d7\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u5efa\u8a2d\u652f\u51fa\u6a02\u89c0\u9810\u671f\u53ca\u7a69\u5065\u6d88\u8cbb\u6578\u64da\u652f\u6490\u3002\u534a\u5c0e\u9ad4\u53ca\u79d1\u6280\u786c\u4ef6\u677f\u584a\u9818\u6f32\uff0c\u591a\u96bb\u500b\u80a1\u5237\u65b0\u8fd1\u6578\u6708\u9ad8\u4f4d\uff0c\u53d7\u60e0\u65bc\u76c8\u5229\u9810\u6e2c\u4e0a\u8abf\u3002\u5b8f\u89c0\u5c64\u9762\u672a\u6709\u91cd\u5927\u5229\u7a7a\u56e0\u7d20\u5e72\u64fe\uff0c\u6295\u8cc7\u8005\u60c5\u7dd2\u5728\u9577\u9031\u672b\u524d\u4fdd\u6301\u6b63\u9762\u3002",
+      "summary_en": "U.S. equities posted modest gains on May 22 as the S&P 500 rose 0.6% and the NASDAQ added 0.5%, reflecting a broadly neutral risk environment with no major macro catalysts dominating sentiment. Technology and consumer discretionary names led, consistent with improving earnings visibility and easing rate-cut expectations supporting growth assets. The muted but positive tone suggests institutional buyers are selectively adding exposure rather than making aggressive directional bets.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e025\u670822\u65e5\u5c0f\u5e45\u6536\u9ad8\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.6%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53470.5%\uff0c\u6574\u9ad4\u5e02\u5834\u60c5\u7dd2\u4e2d\u6027\u504f\u6b63\u9762\uff0c\u7f3a\u4e4f\u660e\u78ba\u7684\u5b8f\u89c0\u50ac\u5316\u56e0\u7d20\u4e3b\u5c0e\u8d70\u52e2\u3002\u79d1\u6280\u80a1\u8207\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u677f\u584a\u8868\u73fe\u76f8\u5c0d\u7a81\u51fa\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u4f01\u696d\u76c8\u5229\u524d\u666f\u7684\u4fe1\u5fc3\u6709\u6240\u6539\u5584\uff0c\u540c\u6642\u964d\u606f\u9810\u671f\u7684\u652f\u6490\u4ea6\u4ee4\u6210\u9577\u578b\u8cc7\u7522\u5438\u5f15\u529b\u7dad\u6301\u3002\u6574\u9ad4\u6210\u4ea4\u6eab\u548c\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u4ee5\u9078\u64c7\u6027\u4f48\u5c40\u70ba\u4e3b\uff0c\u4e26\u975e\u5927\u898f\u6a21\u8ffd\u6f32\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving on a scale of 0\u2013100. A reading between 55\u201370 is often called the 'bullish momentum zone' \u2014 the stock is trending upward with room to run before becoming overbought. Readings above 70 signal overbought conditions, where a pullback becomes more likely, which is why today's decision favored RSI-65 names over RSI-85 names even though both had bullish MACD signals.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u7684\u5c3a\u5ea6\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u7684\u901f\u5ea6\u8207\u529b\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff0c\u901a\u5e38\u88ab\u8996\u70ba\u300c\u5f37\u52e2\u52d5\u80fd\u5340\u300d\uff0c\u4ee3\u8868\u80a1\u7968\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u4e14\u4ecd\u6709\u4e0a\u6f32\u7a7a\u9593\uff0c\u5c1a\u672a\u9054\u5230\u8d85\u8cb7\u6c34\u5e73\u3002RSI\u8d85\u904e70\u5247\u9032\u5165\u8d85\u8cb7\u5340\u57df\uff0c\u56de\u8abf\u98a8\u96aa\u4e0a\u5347\u3002\u9019\u4e5f\u662f\u4eca\u65e5\u6c7a\u7b56\u504f\u597dRSI\u7d0465\u7684\u500b\u80a1\u3001\u800c\u975eRSI\u9ad8\u905485\u500b\u80a1\u7684\u539f\u56e0\u2014\u2014\u5373\u4fbf\u5169\u8005\u5747\u986f\u793aMACD\u770b\u6f32\u4fe1\u865f\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already rising, on the theory that winners tend to keep winning in the short term. Traders use signals like RSI (measuring how fast a stock has risen), MACD (trend direction), and price vs. moving average to confirm that momentum is real and not yet exhausted. Today's top buys \u2014 CMPR and TSLA \u2014 were chosen precisely because all their momentum signals are pointing up without crossing into overbought territory.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u5df2\u5728\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u5176\u80cc\u5f8c\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u77ed\u671f\u5167\u8868\u73fe\u512a\u7570\u7684\u80a1\u7968\u5f80\u5f80\u6301\u7e8c\u8dd1\u8d0f\u3002\u6295\u8cc7\u8005\u901a\u5e38\u4ee5RSI\uff08\u8861\u91cf\u6f32\u52e2\u901f\u5ea6\uff09\u3001MACD\uff08\u8da8\u52e2\u65b9\u5411\uff09\u53ca\u50f9\u683c\u5c0d\u79fb\u52d5\u5e73\u5747\u7dda\u7684\u95dc\u4fc2\u4f86\u78ba\u8a8d\u52d5\u80fd\u662f\u5426\u771f\u5be6\u4e14\u5c1a\u672a\u904e\u71b1\u3002\u4eca\u65e5\u9078\u5165\u7684CMPR\u8207TSLA\uff0c\u6b63\u662f\u56e0\u70ba\u591a\u9805\u52d5\u80fd\u6307\u6a19\u540c\u6642\u770b\u591a\uff0c\u4e14\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff0c\u624d\u6210\u70ba\u512a\u5148\u5efa\u5009\u7684\u5c0d\u8c61\u3002"
     }
   }
 }
