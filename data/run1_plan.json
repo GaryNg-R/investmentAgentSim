@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-05-22T18:01:20.900182+00:00",
+  "saved_at": "2026-05-22T19:01:45.513213+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "CMPR",
+        "ticker": "ZM",
         "conviction": "high",
-        "reasoning": "Top-ranked screener score (95) with RSI in the bullish momentum zone, MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 all four signals aligned, rare quality."
+        "reasoning": "Score 90 with RSI 68.5 sitting in the ideal bullish momentum zone, confirmed MACD crossover, and price 6% above SMA-20 \u2014 Zoom's AI-enhanced platform is showing technical strength with room to run before reaching overbought territory."
       },
       {
         "action": "BUY",
-        "ticker": "TSLA",
+        "ticker": "INTC",
         "conviction": "medium",
-        "reasoning": "Score 90 with RSI 62.9 in healthy bullish zone and MACD crossover confirmed; neutral-to-positive market day supports continued momentum without overbought risk."
+        "reasoning": "Score 90 with the healthiest RSI at 59.3 among all top candidates \u2014 the most upside runway before overbought risk \u2014 combined with a confirmed MACD bullish crossover as Intel's turnaround thesis gains traction."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets posted a quiet positive session today \u2014 NASDAQ up 0.5% and S&P 500 up 0.6% \u2014 suggesting underlying demand without overheating. With 4 open slots and $843 in cash, I'm deploying into CMPR (the strongest screener candidate with all four signals aligned) and TSLA (solid momentum, not overbought). Existing holdings look healthy and no stop-loss triggers are visible, so no sells today.",
+    "briefing": "Markets closed mildly positive today \u2014 S&P +0.6% and NASDAQ +0.4% in a calm, directionless session. Our portfolio sits at +24.6% overall with 4 open slots and $843 in cash, so the priority was deploying intelligently rather than sitting idle. I selected ZM and INTC from the score-90 tier specifically because their RSI readings (68.5 and 59.3) sit in the healthy bullish momentum zone rather than the overbought zone (>70) that characterizes most of the other high-scoring candidates today.",
     "market_education": {
-      "summary_en": "U.S. equities posted modest gains on May 22 as the S&P 500 rose 0.6% and the NASDAQ added 0.5%, reflecting a broadly neutral risk environment with no major macro catalysts dominating sentiment. Technology and consumer discretionary names led, consistent with improving earnings visibility and easing rate-cut expectations supporting growth assets. The muted but positive tone suggests institutional buyers are selectively adding exposure rather than making aggressive directional bets.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e025\u670822\u65e5\u5c0f\u5e45\u6536\u9ad8\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.6%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53470.5%\uff0c\u6574\u9ad4\u5e02\u5834\u60c5\u7dd2\u4e2d\u6027\u504f\u6b63\u9762\uff0c\u7f3a\u4e4f\u660e\u78ba\u7684\u5b8f\u89c0\u50ac\u5316\u56e0\u7d20\u4e3b\u5c0e\u8d70\u52e2\u3002\u79d1\u6280\u80a1\u8207\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u677f\u584a\u8868\u73fe\u76f8\u5c0d\u7a81\u51fa\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u4f01\u696d\u76c8\u5229\u524d\u666f\u7684\u4fe1\u5fc3\u6709\u6240\u6539\u5584\uff0c\u540c\u6642\u964d\u606f\u9810\u671f\u7684\u652f\u6490\u4ea6\u4ee4\u6210\u9577\u578b\u8cc7\u7522\u5438\u5f15\u529b\u7dad\u6301\u3002\u6574\u9ad4\u6210\u4ea4\u6eab\u548c\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u4ee5\u9078\u64c7\u6027\u4f48\u5c40\u70ba\u4e3b\uff0c\u4e26\u975e\u5927\u898f\u6a21\u8ffd\u6f32\u3002",
+      "summary_en": "U.S. equities posted modest gains on Friday with the S&P 500 up 0.6% and the NASDAQ up 0.4%, reflecting a broadly neutral tape with no single dominant catalyst. Investor sentiment remained cautiously constructive as markets digested recent macroeconomic data and continued to price in the likelihood of a stable Fed policy path through mid-year. Tech and consumer discretionary names led quietly, while defensive sectors lagged in the low-volatility session.",
+      "summary_zh": "\u7f8e\u80a1\u9031\u4e94\u5c0f\u5e45\u6536\u6f32\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53470.6%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53470.4%\uff0c\u6574\u9ad4\u8d70\u52e2\u5e73\u6de1\uff0c\u7f3a\u4e4f\u660e\u78ba\u4e3b\u5c0e\u56e0\u7d20\u3002\u5e02\u5834\u60c5\u7dd2\u7dad\u6301\u5be9\u614e\u6a02\u89c0\uff0c\u6295\u8cc7\u8005\u6301\u7e8c\u6d88\u5316\u8fd1\u671f\u5b8f\u89c0\u6578\u64da\uff0c\u4e26\u5c31\u806f\u5132\u5c40\u5e74\u4e2d\u7dad\u6301\u653f\u7b56\u7a69\u5b9a\u7684\u9810\u671f\u9032\u884c\u5b9a\u50f9\u3002\u79d1\u6280\u53ca\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u677f\u584a\u6084\u7136\u9818\u6f32\uff0c\u9632\u79a6\u6027\u677f\u584a\u5247\u76f8\u5c0d\u843d\u5f8c\uff0c\u5168\u65e5\u6ce2\u5e45\u6536\u7a84\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already rising, on the theory that winners tend to keep winning in the short term. Traders use signals like RSI (measuring how fast a stock has risen), MACD (trend direction), and price vs. moving average to confirm that momentum is real and not yet exhausted. Today's top buys \u2014 CMPR and TSLA \u2014 were chosen precisely because all their momentum signals are pointing up without crossing into overbought territory.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u5df2\u5728\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u5176\u80cc\u5f8c\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u77ed\u671f\u5167\u8868\u73fe\u512a\u7570\u7684\u80a1\u7968\u5f80\u5f80\u6301\u7e8c\u8dd1\u8d0f\u3002\u6295\u8cc7\u8005\u901a\u5e38\u4ee5RSI\uff08\u8861\u91cf\u6f32\u52e2\u901f\u5ea6\uff09\u3001MACD\uff08\u8da8\u52e2\u65b9\u5411\uff09\u53ca\u50f9\u683c\u5c0d\u79fb\u52d5\u5e73\u5747\u7dda\u7684\u95dc\u4fc2\u4f86\u78ba\u8a8d\u52d5\u80fd\u662f\u5426\u771f\u5be6\u4e14\u5c1a\u672a\u904e\u71b1\u3002\u4eca\u65e5\u9078\u5165\u7684CMPR\u8207TSLA\uff0c\u6b63\u662f\u56e0\u70ba\u591a\u9805\u52d5\u80fd\u6307\u6a19\u540c\u6642\u770b\u591a\uff0c\u4e14\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff0c\u624d\u6210\u70ba\u512a\u5148\u5efa\u5009\u7684\u5c0d\u8c61\u3002"
+      "term": "RSI Momentum Zone (55\u201370)",
+      "explanation_en": "The RSI (Relative Strength Index) measures how fast and how much a stock's price has moved recently, on a scale of 0\u2013100. A reading between 55 and 70 is considered the 'bullish momentum zone' \u2014 the stock is trending upward with conviction but hasn't yet become 'overbought' (above 70), meaning there's still room for buyers to push it higher before a pullback becomes likely. Today we deliberately favored ZM (RSI 68.5) and INTC (RSI 59.3) over higher-scored stocks like LION (RSI 85.7) and DELL (RSI 86.9) precisely for this reason.",
+      "explanation_zh": "RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8861\u91cf\u80a1\u50f9\u8fd1\u671f\u6f32\u8dcc\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002\u7576RSI\u843d\u572855\u81f370\u5340\u9593\uff0c\u7a31\u70ba\u300c\u591a\u982d\u52d5\u80fd\u5340\u300d\u2014\u2014\u4ee3\u8868\u80a1\u7968\u6b63\u4ee5\u660e\u78ba\u8da8\u52e2\u4e0a\u884c\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u300c\u8d85\u8cb7\u300d\u72c0\u614b\uff08\u9ad8\u65bc70\uff09\uff0c\u610f\u5473\u8457\u4ecd\u6709\u4e0a\u5347\u7a7a\u9593\uff0c\u8cb7\u76e4\u5c1a\u672a\u904e\u71b1\u3002\u4eca\u65e5\u6211\u5011\u523b\u610f\u9078\u64c7RSI\u70ba68.5\u7684ZM\u8207RSI\u70ba59.3\u7684INTC\uff0c\u800c\u975e\u8a55\u5206\u540c\u6a23\u9ad8\u4f46RSI\u5df2\u905485.7\u7684LION\u621686.9\u7684DELL\uff0c\u6b63\u662f\u57fa\u65bc\u6b64\u4e00\u908f\u8f2f\uff0c\u5728\u52d5\u80fd\u8207\u98a8\u96aa\u4e4b\u9593\u53d6\u5f97\u5e73\u8861\u3002"
     }
   }
 }
