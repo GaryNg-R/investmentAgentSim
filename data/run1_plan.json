@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-05-25T20:01:19.997265+00:00",
+  "saved_at": "2026-05-25T21:01:32.801850+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "PTON",
+        "ticker": "UTI",
         "conviction": "high",
-        "reasoning": "Top-ranked score (95) with volume surge, MACD crossover, RSI in bullish momentum zone, and price well above SMA-20 \u2014 all four key signals firing simultaneously."
+        "reasoning": "Top screener score of 95 with a volume surge, MACD bullish crossover, and price 6% above SMA-20 \u2014 strongest technical setup on today's list with a reasonable $40 price point that allows meaningful position sizing."
       },
       {
         "action": "BUY",
-        "ticker": "UTI",
-        "conviction": "high",
-        "reasoning": "Co-top score (95) with volume surge, MACD crossover, RSI 63.2 in ideal momentum zone, and price notably above SMA-20, offering a clean setup in a non-correlated sector."
+        "ticker": "IONQ",
+        "conviction": "medium",
+        "reasoning": "Quantum computing sector momentum with RSI at 69.9 (peak of bullish zone) and MACD crossover signal; theme has institutional tailwind and remaining directional room before overbought territory."
+      },
+      {
+        "action": "BUY",
+        "ticker": "AAL",
+        "conviction": "medium",
+        "reasoning": "Score 90 with RSI 68.8 and MACD crossover; airline travel demand recovery continues to drive sector momentum at an accessible price point that allows adequate diversification within remaining cash."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets finished mildly positive today \u2014 S&P 500 +0.4%, NASDAQ +0.2% \u2014 a neutral, low-conviction session typical of a holiday-shortened week. With four open slots and $943 in cash, the top screener signals pointed clearly to PTON and UTI, both scoring 95 with volume surges confirming genuine institutional interest rather than noise. All six existing positions remain healthy with no stop-loss triggers evident, so the focus is on deploying idle cash into the highest-conviction setups.",
+    "briefing": "Neutral market with the S&P up 0.4% offers a stable backdrop to deploy the $943 sitting idle across 4 open slots. UTI earns the highest conviction as the day's top screener name with confirmed volume surge. IONQ and AAL diversify exposure across quantum computing and travel recovery themes. Existing holdings \u2014 EAT, OLED, NSIT, SYNA \u2014 remain within normal range with no stop-loss or profit-target triggers visible.",
     "market_education": {
-      "summary_en": "U.S. equities drifted modestly higher on Monday as markets reopened following the Memorial Day weekend, with thin holiday-week volume keeping moves subdued across the board. The S&P 500 gained 0.4% and the NASDAQ added 0.2%, with no major macro catalysts driving direction as investors digested last week's strong tech earnings and awaited upcoming Fed speakers. Sector rotation continued in the background, with consumer discretionary and select small-caps showing outperformance while mega-cap tech consolidated recent gains.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e00\u5728\u9663\u4ea1\u5c07\u58eb\u7d00\u5ff5\u65e5\u9577\u9031\u672b\u5f8c\u5c0f\u5e45\u8d70\u9ad8\uff0c\u4f46\u5047\u671f\u9031\u6210\u4ea4\u91cf\u504f\u6de1\uff0c\u6574\u9ad4\u8d70\u52e2\u5e73\u7a69\u3002\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u53470.2%\uff0c\u5e02\u5834\u5728\u6d88\u5316\u4e0a\u9031\u79d1\u6280\u80a1\u5f37\u52c1\u8ca1\u5831\u4e4b\u969b\uff0c\u7b49\u5f85\u806f\u5132\u5c40\u5b98\u54e1\u5373\u5c07\u767c\u8868\u7684\u8b1b\u8a71\u3002\u76e4\u4e2d\u677f\u584a\u8f2a\u52d5\u6301\u7e8c\uff0c\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u53ca\u90e8\u5206\u5c0f\u578b\u80a1\u8868\u73fe\u7a81\u51fa\uff0c\u800c\u5927\u578b\u79d1\u6280\u80a1\u5247\u5728\u8fd1\u671f\u6f32\u5e45\u5f8c\u9032\u5165\u6574\u56fa\u968e\u6bb5\u3002",
+      "summary_en": "U.S. equities posted a quiet positive session with the S&P 500 gaining 0.4% and the NASDAQ rising 0.2%, as investors rotated into cyclical and momentum names without a single dominant headline. Semiconductor and tech stocks found support from continued AI infrastructure spending narratives, while airline and education sector stocks attracted momentum-driven buyers. The muted move suggests the market is consolidating recent gains rather than making a directional commitment ahead of upcoming economic data.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u6eab\u548c\u6536\u6f32\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.2%\uff0c\u5e02\u5834\u5728\u7f3a\u4e4f\u55ae\u4e00\u4e3b\u5c0e\u6d88\u606f\u7684\u60c5\u6cc1\u4e0b\uff0c\u8cc7\u91d1\u6084\u7136\u8f2a\u52d5\u81f3\u9031\u671f\u6027\u53ca\u52d5\u80fd\u985e\u80a1\u3002\u534a\u5c0e\u9ad4\u8207\u79d1\u6280\u677f\u584a\u53d7\u60e0\u65bc\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u5efa\u8a2d\u6301\u7e8c\u64f4\u5f35\u7684\u6558\u4e8b\u800c\u7372\u5f97\u652f\u6490\uff0c\u822a\u7a7a\u53ca\u6559\u80b2\u985e\u80a1\u5247\u5438\u5f15\u52d5\u80fd\u578b\u8cb7\u76e4\u9032\u5834\u3002\u6b64\u6b21\u6f32\u52e2\u5e45\u5ea6\u6eab\u548c\uff0c\u986f\u793a\u5e02\u5834\u6b63\u5728\u8fd1\u671f\u5347\u52e2\u5f8c\u9032\u884c\u6574\u56fa\uff0c\u975c\u5f85\u5373\u5c07\u516c\u5e03\u7684\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u6307\u5f15\u65b9\u5411\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Volume Surge",
-      "explanation_en": "A volume surge occurs when a stock's trading volume spikes well above its normal daily average \u2014 often 1.5x or more. It signals that institutional investors (funds, banks) are actively buying or selling, confirming that a price move has real conviction behind it rather than being random drift. When a volume surge accompanies a bullish price breakout, it's one of the strongest confirmation signals a momentum trader can see.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u7576\u65e5\u4ea4\u6613\u91cf\u9060\u8d85\u904e\u5176\u6b63\u5e38\u65e5\u5747\u6c34\u5e73\uff0c\u901a\u5e38\u9054\u52301.5\u500d\u4ee5\u4e0a\u3002\u9019\u5f80\u5f80\u610f\u5473\u8457\u6a5f\u69cb\u6295\u8cc7\u8005\uff08\u5982\u57fa\u91d1\u3001\u9280\u884c\uff09\u6b63\u5728\u7a4d\u6975\u8cb7\u5165\u6216\u8ce3\u51fa\uff0c\u8aaa\u660e\u50f9\u683c\u8d70\u52e2\u80cc\u5f8c\u6709\u771f\u5be6\u7684\u8cc7\u91d1\u9a45\u52d5\u529b\uff0c\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002\u7576\u6210\u4ea4\u91cf\u6fc0\u589e\u4f34\u96a8\u80a1\u50f9\u7a81\u7834\u51fa\u73fe\u6642\uff0c\u5c0d\u65bc\u52d5\u91cf\u4ea4\u6613\u8005\u800c\u8a00\uff0c\u9019\u662f\u6700\u5f37\u52c1\u7684\u78ba\u8a8d\u8a0a\u865f\u4e4b\u4e00\u3002"
+      "explanation_en": "A volume surge means a stock's trading volume is significantly above its recent average \u2014 typically 1.5x or more. When price rises alongside heavy volume, it signals strong conviction from buyers and makes the move more credible; low-volume rallies are easier to reverse because fewer participants are committed to the higher price.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u4ea4\u6613\u91cf\u986f\u8457\u8d85\u904e\u8fd1\u671f\u5e73\u5747\u6c34\u6e96\uff0c\u901a\u5e38\u9054\u52301.5\u500d\u4ee5\u4e0a\u3002\u7576\u80a1\u50f9\u4e0a\u6f32\u540c\u6642\u4f34\u96a8\u5927\u91cf\u6210\u4ea4\uff0c\u4ee3\u8868\u8cb7\u65b9\u5165\u5834\u610f\u9858\u5f37\u70c8\uff0c\u9019\u6a23\u7684\u6f32\u52e2\u66f4\u5177\u8aaa\u670d\u529b\uff1b\u53cd\u4e4b\uff0c\u82e5\u50c5\u9760\u4f4e\u91cf\u63a8\u52d5\u4e0a\u6f32\uff0c\u5247\u8f03\u5bb9\u6613\u51fa\u73fe\u56de\u843d\uff0c\u56e0\u70ba\u8a8d\u540c\u9ad8\u4f4d\u50f9\u683c\u7684\u5e02\u5834\u53c3\u8207\u8005\u76f8\u5c0d\u6709\u9650\u3002"
     }
   }
 }
