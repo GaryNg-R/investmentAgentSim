@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-05-22T21:01:14.632961+00:00",
+  "saved_at": "2026-05-25T13:01:25.311124+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "UTI",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 63.2 in ideal bullish momentum zone, MACD crossover confirmed by volume surge >1.5x average \u2014 strongest combination on today's list for a neutral-market entry."
+        "reasoning": "Top scorer at 95 with RSI 63.2 in the ideal bullish momentum zone, confirmed MACD crossover, price well above SMA-20, and a volume surge \u2014 all signals aligning at once with manageable overbought risk."
       },
       {
         "action": "BUY",
-        "ticker": "IONQ",
+        "ticker": "TSLA",
         "conviction": "medium",
-        "reasoning": "Score 90 with RSI 69.9 at the top of the bullish zone and price well above SMA-20, riding continued quantum computing sector momentum while still avoiding overbought territory."
+        "reasoning": "Score 90 with RSI 59 leaves room to run before overbought territory, MACD bullish crossover confirmed, and price holding above SMA-20 in a neutral-to-positive tape."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted slightly higher in a quiet, neutral session \u2014 S&P 500 +0.4%, NASDAQ +0.2% \u2014 with no strong directional catalyst. We have 4 open slots and $843 in cash, so deploying into two high-scoring names: UTI (score 95, volume-confirmed momentum) and IONQ (score 90, quantum computing theme with RSI near ceiling of the bullish zone). Both keep us diversified across sectors without overextending into overbought territory.",
+    "briefing": "Markets posted modest gains today with the S&P 500 up 0.4% and NASDAQ up 0.2% \u2014 a calm, neutral session that favors disciplined momentum entries. We have 4 open slots and $843 in cash, so the priority is deploying into the highest-conviction setups before letting cash sit idle. UTI leads the screener at score 95 with every key signal firing (RSI in the sweet spot, MACD crossover, volume surge), and TSLA at score 90 offers a large-cap momentum play with RSI still well below overbought levels.",
     "market_education": {
-      "summary_en": "U.S. equities posted modest gains today with the S&P 500 up 0.4% and the NASDAQ up 0.2%, reflecting a broadly neutral risk appetite among investors. Markets appeared to be consolidating recent gains after a strong multi-week run, with no major macro catalysts driving strong directional moves. Sector rotation continued as investors rotated into industrials and technology subsectors while momentum names held firm.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5c0f\u5e45\u4e0a\u63da\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.2%\uff0c\u6574\u9ad4\u5e02\u5834\u60c5\u7dd2\u504f\u4e2d\u6027\u3002\u5728\u7d93\u6b77\u6578\u9031\u5f37\u52c1\u4e0a\u6f32\u5f8c\uff0c\u5e02\u5834\u9032\u5165\u6574\u56fa\u968e\u6bb5\uff0c\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\u5f15\u9818\u660e\u78ba\u65b9\u5411\u3002\u8cc7\u91d1\u6301\u7e8c\u8f2a\u52d5\uff0c\u6d41\u5165\u5de5\u696d\u53ca\u79d1\u6280\u7d30\u5206\u677f\u584a\uff0c\u800c\u52d5\u80fd\u5f37\u52c1\u7684\u500b\u80a1\u6574\u9ad4\u7dad\u6301\u7a69\u5065\u3002",
+      "summary_en": "U.S. equities edged higher in a quiet session, with the S&P 500 gaining 0.4% and the NASDAQ rising 0.2%, reflecting a broadly neutral market tone with no dramatic macro catalysts. Sector rotation continued to favor cyclicals and technology names that had lagged the recent rally, as investors sifted through earnings signals and easing trade-tension headlines. The muted gains suggest the market is in a consolidation phase after recent volatility \u2014 neither aggressively risk-on nor risk-off.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5c0f\u5e45\u6536\u6f32\uff0c\u6a19\u666e500\u4e0a\u63da0.4%\uff0c\u90a3\u6307\u5fae\u53470.2%\uff0c\u6574\u9ad4\u5e02\u6cc1\u504f\u4e2d\u6027\uff0c\u7f3a\u4e4f\u660e\u986f\u5b8f\u89c0\u50ac\u5316\u5291\u3002\u5e02\u5834\u8cc7\u91d1\u6301\u7e8c\u8f2a\u52d5\u81f3\u8fd1\u671f\u8868\u73fe\u843d\u5f8c\u7684\u9031\u671f\u80a1\u8207\u79d1\u6280\u677f\u584a\uff0c\u6295\u8cc7\u8005\u5728\u6d88\u5316\u6700\u65b0\u8ca1\u5831\u8a0a\u865f\u8207\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u7de9\u548c\u7684\u6d88\u606f\u3002\u76e4\u9762\u6de1\u975c\u986f\u793a\u5e02\u5834\u6b63\u8655\u65bc\u8fd1\u671f\u6ce2\u52d5\u5f8c\u7684\u6574\u56fa\u968e\u6bb5\uff0c\u65e2\u975e\u5168\u9762\u9032\u53d6\uff0c\u4ea6\u975e\u660e\u986f\u907f\u96aa\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Confirmation",
-      "explanation_en": "Volume confirmation means a stock's price move is supported by unusually high trading volume \u2014 typically 1.5x or more above its 20-day average. When a breakout or rally happens with heavy volume, it signals broad participation and conviction among buyers, making the move more likely to continue. Without volume backing a price move, the signal is weaker and more prone to reversal.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u78ba\u8a8d\u662f\u6307\u80a1\u50f9\u7684\u4e0a\u6f32\u6216\u7a81\u7834\uff0c\u540c\u6642\u4f34\u96a8\u8457\u7570\u5e38\u9ad8\u7684\u4ea4\u6613\u91cf\u2014\u2014\u901a\u5e38\u662f20\u65e5\u5747\u91cf\u76841.5\u500d\u4ee5\u4e0a\u3002\u7576\u80a1\u50f9\u5728\u5927\u91cf\u6210\u4ea4\u914d\u5408\u4e0b\u7a81\u7834\u6642\uff0c\u4ee3\u8868\u5e02\u5834\u8cb7\u76e4\u5ee3\u6cdb\u4e14\u5177\u4fe1\u5fc3\uff0c\u8d70\u52e2\u6301\u7e8c\u7684\u53ef\u80fd\u6027\u66f4\u9ad8\u3002\u53cd\u4e4b\uff0c\u82e5\u50f9\u683c\u4e0a\u5347\u4f46\u6210\u4ea4\u91cf\u4e0d\u8db3\uff0c\u8a0a\u865f\u53ef\u4fe1\u5ea6\u8f03\u4f4e\uff0c\u8f03\u5bb9\u6613\u51fa\u73fe\u56de\u8abf\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price and volume trends, betting that what's been going up will continue to go up \u2014 at least in the short term. Indicators like RSI (Relative Strength Index) and MACD help identify when a stock is in a 'bullish momentum zone' without yet being dangerously overbought. Today's top picks (UTI, TSLA) were selected because their momentum signals are strong but not yet stretched \u2014 the sweet spot for momentum entries.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u5747\u5448\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u5f37\u8005\u6046\u5f37\u2014\u2014\u81f3\u5c11\u5728\u77ed\u671f\u5167\u5982\u6b64\u3002RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8207MACD\u7b49\u6280\u8853\u6307\u6a19\u6709\u52a9\u65bc\u5224\u65b7\u80a1\u7968\u662f\u5426\u8655\u65bc\u300c\u770b\u6f32\u52d5\u80fd\u5340\u9593\u300d\uff0c\u540c\u6642\u907f\u958b\u5df2\u904e\u5ea6\u8d85\u8cb7\u7684\u5371\u96aa\u6c34\u4f4d\u3002\u4eca\u65e5\u7cbe\u9078\u6a19\u7684\uff08UTI\u3001TSLA\uff09\u7684\u52d5\u80fd\u8a0a\u865f\u5f37\u52c1\u4f46\u5c1a\u672a\u904e\u71b1\uff0c\u6b63\u662f\u52d5\u80fd\u7b56\u7565\u5165\u5834\u7684\u9ec3\u91d1\u751c\u871c\u9ede\u3002"
     }
   }
 }
