@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-05-25T13:01:25.311124+00:00",
+  "saved_at": "2026-05-25T14:01:29.203244+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "UTI",
         "conviction": "high",
-        "reasoning": "Top scorer at 95 with RSI 63.2 in the ideal bullish momentum zone, confirmed MACD crossover, price well above SMA-20, and a volume surge \u2014 all signals aligning at once with manageable overbought risk."
+        "reasoning": "Score 95 with volume surge, MACD bullish crossover, and price well above SMA-20 \u2014 strongest overall signal on today's screener with reasonable price for position sizing."
       },
       {
         "action": "BUY",
-        "ticker": "TSLA",
+        "ticker": "INTC",
         "conviction": "medium",
-        "reasoning": "Score 90 with RSI 59 leaves room to run before overbought territory, MACD bullish crossover confirmed, and price holding above SMA-20 in a neutral-to-positive tape."
+        "reasoning": "Score 90 with MACD bullish crossover and price above SMA-20; Intel's semiconductor recovery adds fundamental support to the technical setup at a diversified sector exposure."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets posted modest gains today with the S&P 500 up 0.4% and NASDAQ up 0.2% \u2014 a calm, neutral session that favors disciplined momentum entries. We have 4 open slots and $843 in cash, so the priority is deploying into the highest-conviction setups before letting cash sit idle. UTI leads the screener at score 95 with every key signal firing (RSI in the sweet spot, MACD crossover, volume surge), and TSLA at score 90 offers a large-cap momentum play with RSI still well below overbought levels.",
+    "briefing": "Markets were mildly constructive today \u2014 S&P 500 up 0.4%, NASDAQ up 0.2% \u2014 suggesting steady accumulation without euphoria. With $943 cash and 4 open slots, I'm deploying into UTI (vocational education, top screener score 95 with volume surge) and INTC (Intel semiconductor recovery, score 90). Existing six positions remain intact with no stop-loss or profit-target triggers apparent.",
     "market_education": {
-      "summary_en": "U.S. equities edged higher in a quiet session, with the S&P 500 gaining 0.4% and the NASDAQ rising 0.2%, reflecting a broadly neutral market tone with no dramatic macro catalysts. Sector rotation continued to favor cyclicals and technology names that had lagged the recent rally, as investors sifted through earnings signals and easing trade-tension headlines. The muted gains suggest the market is in a consolidation phase after recent volatility \u2014 neither aggressively risk-on nor risk-off.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5c0f\u5e45\u6536\u6f32\uff0c\u6a19\u666e500\u4e0a\u63da0.4%\uff0c\u90a3\u6307\u5fae\u53470.2%\uff0c\u6574\u9ad4\u5e02\u6cc1\u504f\u4e2d\u6027\uff0c\u7f3a\u4e4f\u660e\u986f\u5b8f\u89c0\u50ac\u5316\u5291\u3002\u5e02\u5834\u8cc7\u91d1\u6301\u7e8c\u8f2a\u52d5\u81f3\u8fd1\u671f\u8868\u73fe\u843d\u5f8c\u7684\u9031\u671f\u80a1\u8207\u79d1\u6280\u677f\u584a\uff0c\u6295\u8cc7\u8005\u5728\u6d88\u5316\u6700\u65b0\u8ca1\u5831\u8a0a\u865f\u8207\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u7de9\u548c\u7684\u6d88\u606f\u3002\u76e4\u9762\u6de1\u975c\u986f\u793a\u5e02\u5834\u6b63\u8655\u65bc\u8fd1\u671f\u6ce2\u52d5\u5f8c\u7684\u6574\u56fa\u968e\u6bb5\uff0c\u65e2\u975e\u5168\u9762\u9032\u53d6\uff0c\u4ea6\u975e\u660e\u986f\u907f\u96aa\u3002",
+      "summary_en": "U.S. equities posted modest gains Monday as investors maintained a cautious-but-constructive posture heading into a holiday-shortened week. The S&P 500's +0.4% advance was underpinned by broad sector participation including industrials and semiconductors, while the NASDAQ's lighter +0.2% gain reflected some rotation away from mega-cap tech. Markets remain in a holding pattern as traders weigh lingering U.S.-China trade policy uncertainty against a Federal Reserve that has signaled it will hold rates steady until inflation data gives clearer direction.",
+      "summary_zh": "\u7f8e\u80a1\u9031\u4e00\u5c0f\u5e45\u6536\u9ad8\uff0c\u6295\u8cc7\u4eba\u5728\u7e2e\u77ed\u7684\u5047\u671f\u9031\u524d\u7dad\u6301\u5be9\u614e\u6a02\u89c0\u614b\u5ea6\u3002\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.4%\uff0c\u5de5\u696d\u53ca\u534a\u5c0e\u9ad4\u985e\u80a1\u5ee3\u6cdb\u8cb7\u76e4\u652f\u6490\u6307\u6578\u3002\u90a3\u65af\u9054\u514b\u5247\u56e0\u90e8\u5206\u8cc7\u91d1\u5f9e\u5927\u578b\u79d1\u6280\u80a1\u8f2a\u52d5\u6d41\u51fa\uff0c\u6f32\u5e45\u8f03\u70ba\u6eab\u548c\uff0c\u6536\u53470.2%\u3002\u5e02\u5834\u76ee\u524d\u8655\u65bc\u6574\u7406\u968e\u6bb5\uff0c\u6295\u8cc7\u4eba\u4e00\u65b9\u9762\u8a55\u4f30\u7f8e\u4e2d\u8cbf\u6613\u653f\u7b56\u7684\u4e0d\u78ba\u5b9a\u6027\uff0c\u53e6\u4e00\u65b9\u9762\u95dc\u6ce8\u806f\u6e96\u6703\u5728\u901a\u81a8\u6578\u64da\u672a\u6709\u66f4\u660e\u78ba\u65b9\u5411\u524d\u6309\u5175\u4e0d\u52d5\u7684\u7acb\u5834\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price and volume trends, betting that what's been going up will continue to go up \u2014 at least in the short term. Indicators like RSI (Relative Strength Index) and MACD help identify when a stock is in a 'bullish momentum zone' without yet being dangerously overbought. Today's top picks (UTI, TSLA) were selected because their momentum signals are strong but not yet stretched \u2014 the sweet spot for momentum entries.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u5747\u5448\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u5f37\u8005\u6046\u5f37\u2014\u2014\u81f3\u5c11\u5728\u77ed\u671f\u5167\u5982\u6b64\u3002RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8207MACD\u7b49\u6280\u8853\u6307\u6a19\u6709\u52a9\u65bc\u5224\u65b7\u80a1\u7968\u662f\u5426\u8655\u65bc\u300c\u770b\u6f32\u52d5\u80fd\u5340\u9593\u300d\uff0c\u540c\u6642\u907f\u958b\u5df2\u904e\u5ea6\u8d85\u8cb7\u7684\u5371\u96aa\u6c34\u4f4d\u3002\u4eca\u65e5\u7cbe\u9078\u6a19\u7684\uff08UTI\u3001TSLA\uff09\u7684\u52d5\u80fd\u8a0a\u865f\u5f37\u52c1\u4f46\u5c1a\u672a\u904e\u71b1\uff0c\u6b63\u662f\u52d5\u80fd\u7b56\u7565\u5165\u5834\u7684\u9ec3\u91d1\u751c\u871c\u9ede\u3002"
+      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price trends \u2014 the logic being that assets already in motion tend to stay in motion. Indicators like RSI (measures speed of price gains) and MACD (tracks trend direction and strength) quantify that momentum; today's top screener picks like UTI scored 95 because RSI, MACD, price-above-SMA, and volume surge all aligned simultaneously. The key risk is that momentum can reverse fast, which is why pairing this strategy with hard stop-losses \u2014 like the -7% rule here \u2014 is essential.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u6838\u5fc3\u908f\u8f2f\u662f\uff1a\u5df2\u5728\u4e0a\u6f32\u4e2d\u7684\u8cc7\u7522\u5f80\u5f80\u6703\u6301\u7e8c\u4e0a\u6f32\u3002RSI\uff08\u8861\u91cf\u6f32\u52e2\u901f\u5ea6\uff09\u548cMACD\uff08\u8ffd\u8e64\u8da8\u52e2\u65b9\u5411\u8207\u5f37\u5ea6\uff09\u7b49\u6280\u8853\u6307\u6a19\u53ef\u91cf\u5316\u52d5\u80fd\u5f37\u5f31\uff1b\u4eca\u65e5\u7be9\u9078\u5668\u4e2dUTI\u7372\u8a5595\u5206\uff0c\u6b63\u662f\u56e0\u70baRSI\u3001MACD\u3001\u50f9\u683c\u9ad8\u65bc20\u65e5\u5747\u7dda\u53ca\u6210\u4ea4\u91cf\u5927\u589e\u56db\u9805\u6307\u6a19\u540c\u6b65\u5171\u9cf4\u3002\u52d5\u80fd\u7b56\u7565\u7684\u6838\u5fc3\u98a8\u96aa\u5728\u65bc\u8da8\u52e2\u53ef\u80fd\u6025\u901f\u53cd\u8f49\uff0c\u56e0\u6b64\u5fc5\u9808\u642d\u914d\u56b4\u683c\u7684\u505c\u640d\u6a5f\u5236\uff08\u5982\u672c\u7d44\u5408\u7684-7%\u786c\u6027\u505c\u640d\uff09\uff0c\u624d\u80fd\u6709\u6548\u63a7\u5236\u4e0b\u884c\u98a8\u96aa\u3002"
     }
   }
 }
