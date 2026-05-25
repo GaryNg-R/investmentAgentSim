@@ -1,32 +1,44 @@
 {
-  "saved_at": "2026-05-25T15:01:25.943853+00:00",
+  "saved_at": "2026-05-25T16:01:26.818238+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "PTON",
+        "ticker": "UTI",
         "conviction": "high",
-        "reasoning": "Top score (95) with RSI 69.5 in ideal momentum zone, confirmed MACD bullish crossover, and volume surge >1.5x average signaling institutional accumulation at a low per-share price."
+        "reasoning": "Top score 95 with RSI in the sweet spot at 63.2 (not overbought), MACD bullish crossover, volume surge, and price 6% above SMA-20 \u2014 cleanest setup in the screener."
       },
       {
         "action": "BUY",
-        "ticker": "UTI",
-        "conviction": "high",
-        "reasoning": "Tied top score (95) with RSI 63.2, bullish MACD crossover, and volume surge >1.5x average while trading well above its 20-day SMA \u2014 strong trend continuation setup."
+        "ticker": "PTON",
+        "conviction": "medium",
+        "reasoning": "Tied for top score 95 with volume surge and MACD crossover; low share price allows meaningful position with limited cash, though RSI at 69.5 warrants sizing discipline."
+      },
+      {
+        "action": "BUY",
+        "ticker": "AAL",
+        "conviction": "medium",
+        "reasoning": "Score 90 with RSI 68.8 still in bullish momentum zone, MACD crossover confirmed, and price above SMA-20 \u2014 airline sector momentum on a mildly positive macro day."
+      },
+      {
+        "action": "BUY",
+        "ticker": "LUNR",
+        "conviction": "medium",
+        "reasoning": "Score 90 with RSI 66.7, MACD bullish, and price 8.7% above SMA-20 \u2014 space sector continuing its run and fills the final open slot."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "A quiet, mildly positive session with S&P 500 up 0.4% and NASDAQ up 0.2% \u2014 no major macro risks to navigate. With 4 open slots and $943 in deployable cash, I'm putting capital to work in the two highest-conviction momentum candidates: PTON and UTI both scored 95 with confirmed volume surges, the strongest signal combination on today's screener. Existing positions remain untouched as auto-stop and profit-target rules manage them.",
+    "briefing": "Markets had a quiet, mildly positive day with S&P +0.4% and NASDAQ +0.2%, giving no reason to hold back. With 4 open slots and $943 in cash, I deployed into the top screener candidates prioritizing RSIs in the 60\u201370 bullish zone over the overbought names. UTI and PTON led with scores of 95; AAL and LUNR rounded out the four slots at 90.",
     "market_education": {
-      "summary_en": "U.S. equities logged modest gains in a subdued session, with the S&P 500 rising 0.4% and the NASDAQ adding 0.2%, suggesting the market is in a consolidation phase rather than a directional move. Momentum stocks with strong volume participation outperformed, while heavily overbought names showed signs of fatigue. The neutral tone reflects a market digesting recent gains amid a relatively quiet macro calendar.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5c0f\u5e45\u6536\u6f32\uff0c\u8d70\u52e2\u76f8\u7576\u6eab\u548c\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53470.4%\u3001\u90a3\u65af\u9054\u514b\u4e0a\u6f320.2%\uff0c\u986f\u793a\u5e02\u5834\u76ee\u524d\u8655\u65bc\u6574\u56fa\u968e\u6bb5\uff0c\u800c\u975e\u51fa\u73fe\u660e\u78ba\u7684\u65b9\u5411\u6027\u7a81\u7834\u3002\u5177\u5099\u5f37\u52c1\u6210\u4ea4\u91cf\u652f\u6490\u7684\u52d5\u80fd\u985e\u80a1\u8868\u73fe\u8f03\u4f73\uff0c\u800c\u904e\u5ea6\u8d85\u8cb7\u7684\u500b\u80a1\u5247\u51fa\u73fe\u75b2\u614b\u3002\u6574\u9ad4\u6c23\u6c1b\u4e2d\u6027\uff0c\u53cd\u6620\u5e02\u5834\u5728\u5b8f\u89c0\u65e5\u66c6\u76f8\u5c0d\u5e73\u6de1\u7684\u60c5\u6cc1\u4e0b\uff0c\u6b63\u6d88\u5316\u8fd1\u671f\u5347\u5e45\u3002",
+      "summary_en": "U.S. equities drifted modestly higher on May 25 in a low-conviction session, with the S&P 500 adding 0.4% and the NASDAQ rising just 0.2%, reflecting a market digesting recent macro data without a strong directional catalyst. Breadth was mixed as tech names paused while cyclical and industrial names showed relative strength. Momentum stocks with confirmed MACD crossovers and volume surges \u2014 particularly in aerospace, airlines, and small-cap tech \u2014 continued to outpace the broader tape.",
+      "summary_zh": "\u7f8e\u80a1\u65bc5\u670825\u65e5\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u7684\u74b0\u5883\u4e0b\u7a84\u5e45\u4e0a\u63da\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u6f320.4%\uff0c\u7d0d\u6307\u50c5\u53470.2%\uff0c\u53cd\u6620\u5e02\u5834\u5728\u6d88\u5316\u8fd1\u671f\u5b8f\u89c0\u6578\u64da\u5f8c\u9032\u5165\u89c0\u671b\u72c0\u614b\u3002\u677f\u584a\u8f2a\u52d5\u660e\u986f\uff0c\u79d1\u6280\u9f8d\u982d\u80a1\u6574\u56fa\uff0c\u800c\u822a\u7a7a\u3001\u5de5\u696d\u53ca\u5c0f\u578b\u79d1\u6280\u80a1\u5247\u76f8\u5c0d\u6297\u8dcc\u3002\u6280\u8853\u9762\u4e0a\uff0cMACD\u9ec3\u91d1\u4ea4\u53c9\u914d\u5408\u6210\u4ea4\u91cf\u653e\u5927\u7684\u52d5\u80fd\u80a1\u6301\u7e8c\u9818\u8dd1\u5927\u5e02\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Surge",
-      "explanation_en": "A volume surge happens when a stock trades at 1.5x or more its recent average daily volume, signaling that a large number of participants are actively entering positions. Unlike price movement alone, a volume surge confirms that the trend has real conviction behind it \u2014 buyers aren't just trickling in, they're rushing. Today's top picks PTON and UTI both showed volume surges alongside bullish price and MACD signals, making them the most reliable momentum setups on the screener.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u6025\u589e\u662f\u6307\u500b\u80a1\u55ae\u65e5\u6210\u4ea4\u91cf\u9054\u5230\u8fd1\u671f\u5e73\u5747\u6c34\u5e73\u76841.5\u500d\u6216\u4ee5\u4e0a\uff0c\u4ee3\u8868\u5927\u91cf\u5e02\u5834\u53c3\u8207\u8005\u6b63\u7a4d\u6975\u9032\u5834\u5efa\u5009\u3002\u8207\u55ae\u7d14\u7684\u50f9\u683c\u4e0a\u6f32\u4e0d\u540c\uff0c\u6210\u4ea4\u91cf\u6025\u589e\u80fd\u78ba\u8a8d\u8da8\u52e2\u80cc\u5f8c\u6709\u771f\u5be6\u4fe1\u5ff5\u652f\u6490\u2014\u2014\u8cb7\u76e4\u4e26\u975e\u96f6\u661f\u5165\u5e02\uff0c\u800c\u662f\u96c6\u4e2d\u6e67\u5165\u3002\u4eca\u65e5\u9996\u9078\u7684PTON\u8207UTI\u5747\u5728\u770b\u6f32\u50f9\u683c\u8d70\u52e2\u53caMACD\u8cb7\u5165\u8a0a\u865f\u4e0b\u540c\u6b65\u51fa\u73fe\u6210\u4ea4\u91cf\u6025\u589e\uff0c\u4f7f\u5176\u6210\u70ba\u4eca\u65e5\u7be9\u9078\u540d\u55ae\u4e2d\u6700\u5177\u53ef\u4fe1\u5ea6\u7684\u52d5\u80fd\u5e03\u5c40\u3002"
+      "term": "RSI Momentum Zone",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving. Readings between 55\u201370 are considered the 'momentum sweet spot' \u2014 the stock is trending strongly upward but hasn't yet entered overbought territory (above 70) where a reversal becomes more likely. Today's best buys (UTI at 63.2, AAL at 68.8, LUNR at 66.7) all sat in this zone, making them higher-probability setups than stocks already above 70.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u7528\u65bc\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u6216\u4e0b\u8dcc\u7684\u901f\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u88ab\u8996\u70ba\u300c\u52d5\u80fd\u9ec3\u91d1\u5340\u9593\u300d\u2014\u2014\u80a1\u50f9\u6b63\u8655\u65bc\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u57df\uff0870\u4ee5\u4e0a\uff09\uff0c\u56e0\u6b64\u56de\u8abf\u98a8\u96aa\u76f8\u5c0d\u8f03\u4f4e\u3002\u4eca\u65e5\u4e3b\u8981\u8cb7\u5165\u6a19\u7684UTI\uff0863.2\uff09\u3001AAL\uff0868.8\uff09\u53caLUNR\uff0866.7\uff09\u5747\u8655\u65bc\u6b64\u5340\u9593\uff0c\u76f8\u6bd4RSI\u5df2\u8d85\u904e70\u7684\u80a1\u7968\uff0c\u5176\u6280\u8853\u5f62\u614b\u66f4\u70ba\u7406\u60f3\u3002"
     }
   }
 }
