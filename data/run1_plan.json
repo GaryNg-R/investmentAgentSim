@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-05-25T19:01:16.288874+00:00",
+  "saved_at": "2026-05-25T20:01:19.997265+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "UTI",
+        "ticker": "PTON",
         "conviction": "high",
-        "reasoning": "Score 95 with optimal RSI 63.2, MACD bullish crossover, and a volume surge confirming institutional interest \u2014 price already 6% above SMA-20 with room before overbought territory."
+        "reasoning": "Top-ranked score (95) with volume surge, MACD crossover, RSI in bullish momentum zone, and price well above SMA-20 \u2014 all four key signals firing simultaneously."
       },
       {
         "action": "BUY",
-        "ticker": "INFQ",
-        "conviction": "medium",
-        "reasoning": "Score 90 with RSI 65.3 in the bullish momentum zone and price 14% above SMA-20, signaling a strong breakout with MACD confirming upward direction."
+        "ticker": "UTI",
+        "conviction": "high",
+        "reasoning": "Co-top score (95) with volume surge, MACD crossover, RSI 63.2 in ideal momentum zone, and price notably above SMA-20, offering a clean setup in a non-correlated sector."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted slightly higher today in a low-volatility, neutral session \u2014 S&P 500 up 0.4% and NASDAQ up 0.2%. The portfolio is performing well at +25.6% overall, and with 4 open slots and $943 cash sitting idle, deploying into the top-scoring names makes sense. I'm adding UTI and INFQ as the best risk-adjusted setups from the screener \u2014 both score high, sit in the optimal RSI zone, and show genuine volume/MACD confirmation rather than overbought chasing.",
+    "briefing": "Markets finished mildly positive today \u2014 S&P 500 +0.4%, NASDAQ +0.2% \u2014 a neutral, low-conviction session typical of a holiday-shortened week. With four open slots and $943 in cash, the top screener signals pointed clearly to PTON and UTI, both scoring 95 with volume surges confirming genuine institutional interest rather than noise. All six existing positions remain healthy with no stop-loss triggers evident, so the focus is on deploying idle cash into the highest-conviction setups.",
     "market_education": {
-      "summary_en": "U.S. equity markets edged higher in a quiet Monday session, with the S&P 500 gaining 0.4% and NASDAQ adding 0.2%, as investors digested a holiday-shortened week ahead. The muted action reflected a lack of major catalysts, with traders holding positions cautiously ahead of upcoming economic data releases. Sector rotation continued modestly toward industrials and technology names showing strong technical momentum.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e00\u5c0f\u5e45\u6536\u9ad8\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.4%\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0a\u53470.2%\uff0c\u5e02\u5834\u6574\u9ad4\u7dad\u6301\u4e2d\u6027\u504f\u591a\u683c\u5c40\u3002\u7531\u65bc\u7f3a\u4e4f\u91cd\u5927\u50ac\u5316\u5291\uff0c\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u5373\u5c07\u767c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u524d\u4fdd\u6301\u8b39\u614e\u89c0\u671b\u614b\u5ea6\u3002\u677f\u584a\u8f2a\u52d5\u6301\u7e8c\uff0c\u5de5\u696d\u80a1\u53ca\u5177\u5f37\u52e2\u6280\u8853\u9762\u7684\u79d1\u6280\u80a1\u5438\u5f15\u90e8\u5206\u8cc7\u91d1\u6d41\u5165\u3002",
+      "summary_en": "U.S. equities drifted modestly higher on Monday as markets reopened following the Memorial Day weekend, with thin holiday-week volume keeping moves subdued across the board. The S&P 500 gained 0.4% and the NASDAQ added 0.2%, with no major macro catalysts driving direction as investors digested last week's strong tech earnings and awaited upcoming Fed speakers. Sector rotation continued in the background, with consumer discretionary and select small-caps showing outperformance while mega-cap tech consolidated recent gains.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e00\u5728\u9663\u4ea1\u5c07\u58eb\u7d00\u5ff5\u65e5\u9577\u9031\u672b\u5f8c\u5c0f\u5e45\u8d70\u9ad8\uff0c\u4f46\u5047\u671f\u9031\u6210\u4ea4\u91cf\u504f\u6de1\uff0c\u6574\u9ad4\u8d70\u52e2\u5e73\u7a69\u3002\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u53470.2%\uff0c\u5e02\u5834\u5728\u6d88\u5316\u4e0a\u9031\u79d1\u6280\u80a1\u5f37\u52c1\u8ca1\u5831\u4e4b\u969b\uff0c\u7b49\u5f85\u806f\u5132\u5c40\u5b98\u54e1\u5373\u5c07\u767c\u8868\u7684\u8b1b\u8a71\u3002\u76e4\u4e2d\u677f\u584a\u8f2a\u52d5\u6301\u7e8c\uff0c\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u53ca\u90e8\u5206\u5c0f\u578b\u80a1\u8868\u73fe\u7a81\u51fa\uff0c\u800c\u5927\u578b\u79d1\u6280\u80a1\u5247\u5728\u8fd1\u671f\u6f32\u5e45\u5f8c\u9032\u5165\u6574\u56fa\u968e\u6bb5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that assets moving higher tend to keep moving higher for a period of time. Indicators like RSI (Relative Strength Index) in the 55\u201370 range and MACD crossovers help identify stocks with healthy momentum \u2014 strong enough to continue rising but not yet overbought and due for a pullback. Both UTI and INFQ were selected today precisely because their signals sit in this 'sweet spot.'",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u6838\u5fc3\u7406\u5ff5\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u50f9\u683c\u4e0a\u884c\u7684\u8cc7\u7522\u5f80\u5f80\u5728\u4e00\u6bb5\u6642\u9593\u5167\u6301\u7e8c\u8d70\u9ad8\u3002\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ecb\u65bc55\u81f370\u4e4b\u9593\u3001\u4ee5\u53caMACD\u9ec3\u91d1\u4ea4\u53c9\u7b49\u6280\u8853\u6307\u6a19\uff0c\u6709\u52a9\u65bc\u627e\u51fa\u8655\u65bc\u5065\u5eb7\u52d5\u80fd\u5340\u9593\u7684\u80a1\u7968\u2014\u2014\u4e0a\u5347\u52e2\u982d\u8db3\u5920\u6301\u7e8c\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u57df\u9762\u81e8\u56de\u8abf\u98a8\u96aa\u3002\u4eca\u65e5\u8cb7\u5165\u7684UTI\u8207INFQ\uff0c\u6b63\u662f\u56e0\u70ba\u6280\u8853\u6307\u6a19\u843d\u5728\u9019\u500b\u300c\u9ec3\u91d1\u751c\u871c\u9ede\u300d\u800c\u7372\u9078\u3002"
+      "term": "Volume Surge",
+      "explanation_en": "A volume surge occurs when a stock's trading volume spikes well above its normal daily average \u2014 often 1.5x or more. It signals that institutional investors (funds, banks) are actively buying or selling, confirming that a price move has real conviction behind it rather than being random drift. When a volume surge accompanies a bullish price breakout, it's one of the strongest confirmation signals a momentum trader can see.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u7576\u65e5\u4ea4\u6613\u91cf\u9060\u8d85\u904e\u5176\u6b63\u5e38\u65e5\u5747\u6c34\u5e73\uff0c\u901a\u5e38\u9054\u52301.5\u500d\u4ee5\u4e0a\u3002\u9019\u5f80\u5f80\u610f\u5473\u8457\u6a5f\u69cb\u6295\u8cc7\u8005\uff08\u5982\u57fa\u91d1\u3001\u9280\u884c\uff09\u6b63\u5728\u7a4d\u6975\u8cb7\u5165\u6216\u8ce3\u51fa\uff0c\u8aaa\u660e\u50f9\u683c\u8d70\u52e2\u80cc\u5f8c\u6709\u771f\u5be6\u7684\u8cc7\u91d1\u9a45\u52d5\u529b\uff0c\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002\u7576\u6210\u4ea4\u91cf\u6fc0\u589e\u4f34\u96a8\u80a1\u50f9\u7a81\u7834\u51fa\u73fe\u6642\uff0c\u5c0d\u65bc\u52d5\u91cf\u4ea4\u6613\u8005\u800c\u8a00\uff0c\u9019\u662f\u6700\u5f37\u52c1\u7684\u78ba\u8a8d\u8a0a\u865f\u4e4b\u4e00\u3002"
     }
   }
 }
