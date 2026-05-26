@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-05-26T20:01:15.722808+00:00",
+  "saved_at": "2026-05-26T21:01:37.676887+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
@@ -7,32 +7,38 @@
         "action": "BUY",
         "ticker": "INTC",
         "conviction": "high",
-        "reasoning": "Top-ranked candidate at score 95 with RSI in bullish momentum zone (64.2), MACD crossover confirmed, and price above SMA-20 \u2014 best technical setup on the board today."
-      },
-      {
-        "action": "BUY",
-        "ticker": "SOFI",
-        "conviction": "medium",
-        "reasoning": "Score 90 fintech play in a risk-on environment; RSI 58.3 has room to run before overbought, and MACD crossover confirms upward momentum with low share price allowing meaningful position."
+        "reasoning": "Score 95 with MACD histogram rising (confirming accelerating momentum), RSI 64.2 in the ideal bullish zone, and price holding above SMA-20 \u2014 semiconductor recovery name best positioned in today's risk-on tape."
       },
       {
         "action": "BUY",
         "ticker": "SEDG",
+        "conviction": "high",
+        "reasoning": "Score 95 with volume surge confirming institutional accumulation, RSI 65.8 in sweet spot, and a clean 8% gap above SMA-20 \u2014 strong technical setup on a high-participation day."
+      },
+      {
+        "action": "BUY",
+        "ticker": "MOD",
         "conviction": "medium",
-        "reasoning": "Score 90 with RSI 65.9 in the ideal bullish zone and a clean MACD crossover; price 7.9% above SMA-20 signals a strong recovery trend worth a small allocation."
+        "reasoning": "Score 95 with volume surge and 7% breakout above SMA-20 showing sustained demand; RSI 62 leaves meaningful upside before reaching overbought territory."
+      },
+      {
+        "action": "BUY",
+        "ticker": "AMKR",
+        "conviction": "medium",
+        "reasoning": "Score 90, MACD bullish, RSI 61.9 in momentum zone \u2014 semiconductor packaging exposure complements INTC in an AI/chip infrastructure cycle."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Risk-on session with NASDAQ leading at +1.2% gives a green light to deploy idle cash into high-momentum names. I'm filling three of four open slots using the top-scored candidates \u2014 INTC leads with the strongest setup, while SOFI and SEDG offer solid momentum with RSI still below overbought territory. Remaining cash is preserved as a buffer given limited slot space.",
+    "briefing": "Risk-on session with NASDAQ +1.2% and S&P 500 +0.6% gives a green light to deploy the remaining $943 cash across all 4 open slots. I'm prioritizing the three score-95 names (INTC, SEDG, MOD) for their combination of volume confirmation and ideal RSI positioning, with AMKR rounding out the semiconductor theme. Existing portfolio sits at a strong +25.6% cumulative P&L with no positions flagged for exit.",
     "market_education": {
-      "summary_en": "Markets rallied in a broad risk-on session with tech outperforming, as continued optimism around AI infrastructure spending and easing macro uncertainty drove buyers back into growth names. NASDAQ's +1.2% gain reflected strong institutional appetite for semiconductors and software, sectors that had lagged earlier in the month. The S&P 500's more muted +0.6% gain suggests rotation within equities rather than broad new money entering, with cyclicals and tech leading while defensives underperformed.",
-      "summary_zh": "\u5e02\u5834\u6574\u9ad4\u5448\u73fe\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u79d1\u6280\u80a1\u9818\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.2%\uff0c\u53cd\u6620\u6a5f\u69cb\u6295\u8cc7\u8005\u5c0d\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u5efa\u8a2d\u53ca\u8edf\u4ef6\u677f\u584a\u7684\u6301\u7e8c\u6a02\u89c0\u60c5\u7dd2\u3002\u534a\u5c0e\u9ad4\u8207\u6210\u9577\u578b\u80a1\u7968\u5438\u5f15\u5927\u91cf\u8cb7\u76e4\u56de\u6d41\uff0c\u5e36\u52d5\u6307\u6578\u8d70\u9ad8\u3002\u6a19\u666e500\u6307\u6578\u76f8\u5c0d\u6eab\u548c\u4e0a\u6f320.6%\uff0c\u986f\u793a\u5e02\u5834\u8cc7\u91d1\u4e3b\u8981\u5728\u677f\u584a\u9593\u8f2a\u52d5\uff0c\u79d1\u6280\u53ca\u9031\u671f\u6027\u80a1\u4efd\u9818\u5347\uff0c\u9632\u5b88\u578b\u677f\u584a\u5247\u76f8\u5c0d\u843d\u5f8c\u3002",
+      "summary_en": "Markets advanced broadly today, with the NASDAQ outpacing the broader index as technology and growth names attracted fresh capital in a clear risk-on session. Semiconductor stocks showed particular strength, with multiple names printing volume surges that suggest institutional buyers rather than retail momentum \u2014 a more durable signal. Clean energy names like SEDG also participated, reflecting confidence that the current macro environment supports longer-duration growth assets.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u666e\u904d\u4e0a\u6f32\uff0c\u7d0d\u6307\u6f32\u5e45\u660e\u986f\u8d85\u8d8a\u5927\u76e4\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u53d7\u5230\u8cc7\u91d1\u7a4d\u6975\u8ffd\u6367\uff0c\u5448\u73fe\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u74b0\u5883\u3002\u534a\u5c0e\u9ad4\u677f\u584a\u8868\u73fe\u5c24\u70ba\u4eae\u773c\uff0c\u591a\u96bb\u500b\u80a1\u6210\u4ea4\u91cf\u6fc0\u589e\uff0c\u986f\u793a\u80cc\u5f8c\u63a8\u52d5\u529b\u4f86\u81ea\u6a5f\u69cb\u8cb7\u76e4\u800c\u975e\u6563\u6236\u8ffd\u6367\uff0c\u4fe1\u865f\u66f4\u5177\u6301\u7e8c\u6027\u3002\u6e05\u6f54\u80fd\u6e90\u500b\u80a1\u5982SEDG\u4ea6\u540c\u6b65\u8d70\u5f37\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u7576\u524d\u5b8f\u89c0\u74b0\u5883\u6709\u5229\u9577\u7dda\u6210\u9577\u8cc7\u7522\u7684\u4fe1\u5fc3\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the belief that rising prices tend to keep rising in the short term. Today's risk-on session is a classic environment for this strategy \u2014 stocks with bullish MACD crossovers and RSI in the 55\u201370 range (like INTC and SEDG) signal sustained buying pressure without being dangerously overbought. The key risk is that momentum can reverse sharply, which is why stop-losses are essential.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u80cc\u5f8c\u908f\u8f2f\u662f\u50f9\u683c\u4e0a\u6f32\u5f80\u5f80\u5728\u77ed\u671f\u5167\u5177\u6709\u5ef6\u7e8c\u6027\u3002\u4eca\u65e5\u7684\u98a8\u96aa\u504f\u597d\u74b0\u5883\u6b63\u662f\u6b64\u7b56\u7565\u7684\u7406\u60f3\u821e\u53f0\u2014\u2014MACD\u9ec3\u91d1\u4ea4\u53c9\u4e14RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u7684\u80a1\u7968\uff08\u5982INTC\u3001SEDG\uff09\u986f\u793a\u5e02\u5834\u6301\u7e8c\u6709\u8cb7\u76e4\u652f\u6490\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u57df\u3002\u6700\u5927\u98a8\u96aa\u5728\u65bc\u52d5\u80fd\u53ef\u80fd\u6025\u901f\u9006\u8f49\uff0c\u56e0\u6b64\u8a2d\u7f6e\u6b62\u640d\u4f4d\u81f3\u95dc\u91cd\u8981\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward on the belief that strong recent performance tends to persist in the short term. Today's top picks all share the same fingerprint: price above the 20-day moving average, a bullish MACD crossover, and RSI in the 55\u201370 zone \u2014 strong but not yet overextended. The strategy works until it doesn't, which is exactly why the -7% stop-loss rule exists: it cuts losing momentum trades before they become large drawdowns.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u6838\u5fc3\u908f\u8f2f\u662f\u8fd1\u671f\u5f37\u52e2\u8868\u73fe\u5f80\u5f80\u5728\u77ed\u671f\u5167\u5ef6\u7e8c\u3002\u4eca\u65e5\u7cbe\u9078\u500b\u80a1\u5747\u5177\u5099\u76f8\u540c\u7684\u6280\u8853\u7279\u5fb5\uff1a\u50f9\u683c\u7ad9\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\u3001MACD\u51fa\u73fe\u91d1\u53c9\uff0c\u4e14RSI\u8655\u65bc55\u81f370\u7684\u5f37\u52e2\u800c\u672a\u904e\u71b1\u5340\u9593\u3002\u6b64\u7b56\u7565\u6709\u6548\uff0c\u76f4\u81f3\u8da8\u52e2\u9006\u8f49\u70ba\u6b62\u2014\u2014\u9019\u6b63\u662f\u8a2d\u7f6e7%\u6b62\u640d\u7684\u610f\u7fa9\u6240\u5728\uff1a\u5728\u640d\u5931\u64f4\u5927\u6210\u91cd\u5927\u56de\u64a4\u524d\uff0c\u63d0\u524d\u65ac\u65b7\u5931\u6548\u7684\u52d5\u80fd\u4ea4\u6613\u3002"
     }
   }
 }
