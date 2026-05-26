@@ -1,32 +1,44 @@
 {
-  "saved_at": "2026-05-26T17:01:25.117058+00:00",
+  "saved_at": "2026-05-26T18:01:13.119467+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "AMKR",
+        "ticker": "SOFI",
         "conviction": "high",
-        "reasoning": "Top screener score (95) with RSI at 63.7 in the ideal bullish momentum zone, confirmed MACD bullish crossover, and price 8% above SMA-20 \u2014 strongest technical setup in the list with no overbought risk."
+        "reasoning": "Lowest RSI (56.2) among top-score candidates signals early-stage momentum with significant upside room \u2014 fintech with strong user growth and clean MACD crossover."
       },
       {
         "action": "BUY",
-        "ticker": "SOFI",
+        "ticker": "AMKR",
+        "conviction": "high",
+        "reasoning": "Semiconductor packaging is a direct AI infrastructure beneficiary; RSI 62.9 and price 7.6% above SMA-20 indicate solid trend without overextension."
+      },
+      {
+        "action": "BUY",
+        "ticker": "PATH",
         "conviction": "medium",
-        "reasoning": "Score 90 with RSI 60.4 in the ideal momentum zone and MACD bullish \u2014 fintech exposure diversifies away from semiconductors while maintaining clean momentum signals."
+        "reasoning": "UiPath rides the enterprise AI automation wave; RSI 63.4 and MACD bullish crossover with only modest SMA divergence make this a low-overextension entry."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SMR",
+        "conviction": "medium",
+        "reasoning": "Small modular nuclear is gaining policy and investor tailwinds; RSI 67.4 still within momentum zone and 6.7% above SMA-20 confirms a healthy uptrend."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets posted a constructive neutral day with NASDAQ leading at +0.9%, signaling healthy risk appetite in tech. With 4 open slots and $943 in cash sitting idle, deploying into the two highest-quality momentum candidates makes sense. AMKR is the clear top pick at score 95 with textbook technicals, while SOFI adds fintech diversity at a low price point that stretches the remaining cash efficiently.",
+    "briefing": "Markets had a mild positive day with tech leading (NASDAQ +0.9% vs S&P +0.5%), a neutral-to-constructive backdrop. With 4 open slots and $943 cash, I deployed into four score-90 candidates \u2014 prioritizing SOFI and AMKR for high conviction based on clean technicals and sector tailwinds, and PATH and SMR for medium conviction thematic exposure. Existing positions are held; none appear to be approaching stop-loss territory.",
     "market_education": {
-      "summary_en": "U.S. equities edged higher Tuesday with the NASDAQ outpacing the S&P 500, as growth and technology stocks reclaimed leadership after recent consolidation. The 0.5-point spread between NASDAQ (+0.9%) and S&P 500 (+0.4%) suggests investors are selectively rotating back into higher-beta names, particularly semiconductors and emerging tech. The neutral overall tone reflects a market that is cautiously optimistic \u2014 absorbing recent gains without committing to a strong directional breakout.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u4e8c\u5c0f\u5e45\u8d70\u9ad8\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u8dd1\u8d0f\u5927\u76e4\uff0c\u79d1\u6280\u8207\u6210\u9577\u80a1\u5728\u8fd1\u671f\u6574\u7406\u5f8c\u91cd\u65b0\u9818\u6f32\u3002\u90a3\u65af\u9054\u514b\u4e0a\u6f320.9%\u3001\u6a19\u666e500\u4e0a\u6f320.4%\uff0c\u5169\u8005\u5dee\u8ddd\u986f\u793a\u8cc7\u91d1\u6b63\u9078\u64c7\u6027\u5730\u56de\u6d41\u81f3\u9ad8\u8c9d\u5854\u80a1\uff0c\u5c24\u5176\u96c6\u4e2d\u5728\u534a\u5c0e\u9ad4\u8207\u65b0\u8208\u79d1\u6280\u677f\u584a\u3002\u6574\u9ad4\u5e02\u5834\u60c5\u7dd2\u4e2d\u6027\u504f\u6a02\u89c0\uff0c\u6295\u8cc7\u4eba\u5728\u6d88\u5316\u8fd1\u671f\u6f32\u5e45\u5f8c\uff0c\u5c1a\u672a\u5f62\u6210\u660e\u78ba\u7a81\u7834\u65b9\u5411\uff0c\u64cd\u4f5c\u4e0a\u4ee5\u7cbe\u9078\u500b\u80a1\u70ba\u4e3b\u3002",
+      "summary_en": "U.S. equities posted mild gains on Tuesday with technology and growth names leading the charge, as the NASDAQ outpaced the broader S&P 500 by roughly 40 basis points. Risk appetite remained measured rather than euphoric \u2014 a sign of a market digesting recent moves rather than aggressively pricing in new catalysts. Sector rotation continued to favor AI infrastructure, clean energy, and fintech names as investors looked past near-term macro noise.",
+      "summary_zh": "\u7f8e\u80a1\u9031\u4e8c\u5c0f\u5e45\u6536\u6f32\uff0c\u79d1\u6280\u8207\u6210\u9577\u80a1\u9818\u6f32\uff0c\u7d0d\u6307\u8dd1\u8d0f\u6a19\u666e\u7d0440\u500b\u57fa\u9ede\uff0c\u986f\u793a\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6eab\u548c\u800c\u975e\u904e\u71b1\u3002\u6574\u9ad4\u6c23\u6c1b\u8da8\u5411\u6d88\u5316\u8fd1\u671f\u5347\u5e45\uff0c\u800c\u975e\u8ffd\u6367\u65b0\u50ac\u5316\u5291\u3002\u677f\u584a\u8f2a\u52d5\u6301\u7e8c\u5411AI\u57fa\u790e\u5efa\u8a2d\u3001\u6e05\u6f54\u80fd\u6e90\u53ca\u91d1\u878d\u79d1\u6280\u50be\u659c\uff0c\u6295\u8cc7\u8005\u5c0d\u77ed\u671f\u5b8f\u89c0\u96dc\u97f3\u4fdd\u6301\u6de1\u5b9a\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast and how much a stock's price has moved recently, on a scale of 0\u2013100. A reading between 55 and 70 is often called the 'momentum zone' \u2014 it means a stock is trending upward with conviction but hasn't yet entered overbought territory (above 70) where reversals become more likely. Today's top buys, AMKR (63.7) and SOFI (60.4), both sit squarely in this ideal range.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u8fd1\u671f\u6f32\u8dcc\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002RSI\u572855\u81f370\u4e4b\u9593\u901a\u5e38\u88ab\u7a31\u70ba\u300c\u52d5\u80fd\u5340\u300d\u2014\u2014\u4ee3\u8868\u80a1\u7968\u6b63\u5f37\u52e2\u4e0a\u6f32\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\uff0870\u4ee5\u4e0a\uff09\uff0c\u56e0\u6b64\u53cd\u8f49\u98a8\u96aa\u8f03\u4f4e\u3002\u4eca\u65e5\u9996\u9078\u7684AMKR\uff08RSI 63.7\uff09\u8207SOFI\uff08RSI 60.4\uff09\u5747\u8655\u65bc\u6b64\u7406\u60f3\u5340\u9593\uff0c\u6280\u8853\u9762\u4fe1\u865f\u6e05\u6670\u3002"
+      "term": "RSI Sweet Spot",
+      "explanation_en": "The Relative Strength Index (RSI) measures how overbought or oversold a stock is on a scale of 0\u2013100. A reading between 55\u201370 is often called the 'sweet spot' \u2014 it confirms real bullish momentum without signaling that traders have already piled in too aggressively. Buying in this zone, rather than chasing stocks above 70, is a core discipline of momentum investing that balances upside capture with mean-reversion risk.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u8861\u91cf\u80a1\u7968\u7684\u8d85\u8cb7\u6216\u8d85\u8ce3\u7a0b\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff0c\u901a\u5e38\u88ab\u7a31\u70ba\u300c\u751c\u871c\u5340\u9593\u300d\u2014\u2014\u9019\u4ee3\u8868\u80a1\u7968\u5df2\u5177\u5099\u771f\u5be6\u7684\u4e0a\u6f32\u52d5\u80fd\uff0c\u4f46\u5e02\u5834\u5c1a\u672a\u904e\u5ea6\u8ffd\u6367\u3002\u5728\u6b64\u5340\u9593\u9032\u5834\uff0c\u800c\u975e\u7b49RSI\u783470\u624d\u8ffd\u5165\uff0c\u662f\u52d5\u80fd\u6295\u8cc7\u7684\u6838\u5fc3\u7d00\u5f8b\uff0c\u80fd\u5728\u6355\u6349\u5347\u5e45\u7684\u540c\u6642\u6709\u6548\u63a7\u5236\u5747\u503c\u56de\u6b78\u7684\u98a8\u96aa\u3002"
     }
   }
 }
