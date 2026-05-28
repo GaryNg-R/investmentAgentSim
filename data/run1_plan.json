@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-05-28T15:01:12.394256+00:00",
+  "saved_at": "2026-05-28T16:01:12.528848+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "MSFT",
+        "ticker": "PLTR",
         "conviction": "high",
-        "reasoning": "Score 95, RSI 65.4 in the ideal momentum zone, MACD bullish crossover, trading above SMA-20 \u2014 blue-chip quality with clean technicals and room to run before overbought territory."
+        "reasoning": "Score 95 with RSI 65.2 in ideal momentum zone, full MACD bullish stack, and strong AI/data-analytics institutional demand \u2014 best risk-adjusted pick from the top tier."
       },
       {
         "action": "BUY",
-        "ticker": "IOT",
+        "ticker": "QBTS",
         "conviction": "medium",
-        "reasoning": "Score 95, RSI 65.1, MACD bullish crossover and histogram rising \u2014 Samsara benefits from industrial IoT secular growth with strong momentum not yet extended."
+        "reasoning": "Score 95, RSI 67.6, rising MACD histogram, and affordable price point make this a clean quantum-computing momentum entry."
+      },
+      {
+        "action": "BUY",
+        "ticker": "BRAI",
+        "conviction": "medium",
+        "reasoning": "Score 95, RSI 64.7 in sweet spot, price well above SMA-20, and low per-share cost maximizes share count from remaining cash."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted mildly higher today in a low-conviction session \u2014 NASDAQ +0.4%, S&P 500 +0.3% \u2014 reflecting a stable backdrop without a strong directional catalyst. With 4 open slots and $943 cash sitting idle, the rules call for deployment. I'm adding MSFT and IOT: both carry perfect momentum scores (95) with RSIs in the 65 range, meaning strong trend confirmation without the overextension risk seen in the overbought names (RSI 80-91) lower on the list. Existing positions are untouched \u2014 QQQ, AMZN, EAT, OLED, NSIT, and SYNA all remain open and within healthy ranges.",
+    "briefing": "Markets are mildly positive today with NASDAQ up 0.6% and S&P 500 up 0.5%, providing a calm backdrop for deploying idle cash. I'm adding three score-95 names \u2014 PLTR, QBTS, and BRAI \u2014 all sitting in the ideal RSI 55\u201370 momentum zone with full MACD confirmation, taking us from 6 to 9 positions. This brings cash below the $500 hold threshold while staying within the 10-position cap.",
     "market_education": {
-      "summary_en": "U.S. equities posted modest gains on May 28, 2026, with the S&P 500 up 0.3% and the Nasdaq up 0.4% in a session characterized by light volume and no major macro catalyst. Technology names led the advance, supported by continued enthusiasm around AI infrastructure spending and solid earnings revisions across large-cap software. The neutral tone suggests the market is consolidating recent gains rather than extending \u2014 a healthy pause often seen mid-trend before the next directional move.",
-      "summary_zh": "\u7f8e\u80a1\u65bc2026\u5e745\u670828\u65e5\u5c0f\u5e45\u6536\u9ad8\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.3%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.4%\uff0c\u6574\u9ad4\u4ea4\u6295\u6e05\u6de1\uff0c\u7f3a\u4e4f\u660e\u78ba\u7684\u5b8f\u89c0\u9a45\u52d5\u56e0\u7d20\u3002\u79d1\u6280\u80a1\u9818\u6f32\uff0c\u4e3b\u8981\u53d7\u60e0\u65bc\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u652f\u51fa\u71b1\u60c5\u6301\u7e8c\u5347\u6eab\u53ca\u5927\u578b\u8edf\u4ef6\u80a1\u76c8\u5229\u9810\u6e2c\u4e0a\u8abf\u3002\u5e02\u5834\u6574\u9ad4\u5448\u4e2d\u6027\u504f\u591a\u683c\u5c40\uff0c\u986f\u793a\u6307\u6578\u6b63\u5728\u6d88\u5316\u8fd1\u671f\u6f32\u5e45\uff0c\u662f\u8da8\u52e2\u5ef6\u7e8c\u524d\u5e38\u898b\u7684\u5065\u5eb7\u6574\u56fa\u3002",
+      "summary_en": "U.S. equities drifted modestly higher on May 28 as cooling inflation expectations reduced pressure on the Fed to act aggressively, with tech leading gains on continued AI infrastructure spending optimism. Defensive and consumer-discretionary names also edged up as consumer sentiment data came in above forecasts, signalling resilient household spending. The broad advance across sectors kept volatility low, reinforcing a neutral-to-constructive tone heading into the final days of May.",
+      "summary_zh": "\u7f8e\u80a1\u65bc5\u670828\u65e5\u6eab\u548c\u4e0a\u6f32\uff0c\u901a\u8139\u9810\u671f\u964d\u6eab\u4ee4\u5e02\u5834\u5c0d\u806f\u5132\u5c40\u9032\u53d6\u52a0\u606f\u7684\u6182\u616e\u6709\u6240\u7de9\u89e3\uff0c\u79d1\u6280\u677f\u584a\u5728\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u6295\u8cc7\u6301\u7e8c\u6a02\u89c0\u60c5\u7dd2\u5e36\u52d5\u4e0b\u9818\u6f32\u3002\u6d88\u8cbb\u8005\u4fe1\u5fc3\u6578\u64da\u512a\u65bc\u9810\u671f\uff0c\u4ea6\u652f\u6490\u4e86\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u985e\u80a1\u8d70\u9ad8\uff0c\u986f\u793a\u5bb6\u5ead\u6d88\u8cbb\u4ecd\u5177\u97cc\u6027\u3002\u5404\u677f\u584a\u666e\u904d\u6eab\u548c\u4e0a\u63da\uff0c\u5e02\u5834\u6ce2\u52d5\u6027\u7dad\u6301\u4f4e\u4f4d\uff0c\u6708\u5e95\u524d\u6574\u9ad4\u6c23\u6c1b\u8da8\u65bc\u4e2d\u6027\u504f\u7a4d\u6975\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks already trending upward, based on the idea that assets with recent price strength tend to continue outperforming in the near term. Indicators like RSI and MACD help identify stocks in the 'sweet spot' \u2014 trending strongly but not yet overbought. Today's buys (MSFT, IOT) both sit in the ideal RSI 55\u201370 range, the zone where momentum is confirmed but not exhausted.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u80a1\u7968\u7684\u7b56\u7565\uff0c\u5176\u7406\u8ad6\u57fa\u790e\u662f\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u7684\u8cc7\u7522\u5f80\u5f80\u5728\u77ed\u671f\u5167\u7e7c\u7e8c\u8dd1\u8d0f\u5e02\u5834\u3002RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u548cMACD\u7b49\u6280\u8853\u6307\u6a19\u6709\u52a9\u65bc\u627e\u51fa\u300c\u751c\u871c\u9ede\u300d\u2014\u2014\u8da8\u52e2\u5f37\u52c1\u4f46\u5c1a\u672a\u8d85\u8cb7\u7684\u80a1\u7968\u3002\u4eca\u65e5\u8cb7\u5165\u7684MSFT\u548cIOT\u5747\u843d\u5728\u7406\u60f3\u7684RSI 55\u81f370\u5340\u9593\uff0c\u8868\u793a\u52d5\u80fd\u5df2\u7372\u78ba\u8a8d\u4f46\u5c1a\u672a\u900f\u652f\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already moving upward on the theory that strong price trends tend to continue in the short term. Traders use indicators like RSI (Relative Strength Index) and MACD to confirm that a stock is in a healthy 'momentum zone' \u2014 strong enough to keep rising but not so overbought it's due for a pullback. Today every new buy sits in the RSI 55\u201370 sweet spot, the textbook momentum window.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u5728\u4e0a\u5347\u8da8\u52e2\u4e2d\u7684\u80a1\u7968\uff0c\u5176\u908f\u8f2f\u5728\u65bc\u5f37\u52c1\u7684\u50f9\u683c\u8d70\u52e2\u5f80\u5f80\u6703\u5728\u77ed\u671f\u5167\u6301\u7e8c\u3002\u4ea4\u6613\u8005\u5e38\u7528\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u53caMACD\u7b49\u6280\u8853\u6307\u6a19\uff0c\u78ba\u8a8d\u80a1\u7968\u8655\u65bc\u5065\u5eb7\u7684\u300c\u52d5\u91cf\u5340\u9593\u300d\u2014\u2014\u6f32\u52e2\u8db3\u5920\u5f37\u52c1\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u57df\u3002\u4eca\u65e5\u4e09\u7b46\u8cb7\u5165\u7684RSI\u5747\u843d\u572855\u81f370\u7684\u7406\u60f3\u5340\u9593\uff0c\u6b63\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u52d5\u91cf\u9032\u5834\u7a97\u53e3\u3002"
     }
   }
 }
