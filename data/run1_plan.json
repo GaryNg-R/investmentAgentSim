@@ -1,44 +1,32 @@
 {
-  "saved_at": "2026-05-28T14:01:37.644799+00:00",
+  "saved_at": "2026-05-28T15:01:12.394256+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "CHRN",
+        "ticker": "MSFT",
         "conviction": "high",
-        "reasoning": "Score 100 with all five bullish signals including volume surge and RSI 65.7 \u2014 ideal momentum entry before approaching overbought territory."
+        "reasoning": "Score 95, RSI 65.4 in the ideal momentum zone, MACD bullish crossover, trading above SMA-20 \u2014 blue-chip quality with clean technicals and room to run before overbought territory."
       },
       {
         "action": "BUY",
-        "ticker": "PS",
-        "conviction": "high",
-        "reasoning": "Score 100 with perfect signal alignment: MACD bullish crossover, rising histogram, volume surge, and RSI 61.9 leaving the most upside room among the top-tier candidates."
-      },
-      {
-        "action": "BUY",
-        "ticker": "NBIS",
-        "conviction": "high",
-        "reasoning": "Score 100 with all five bullish signals, RSI 64.2 in optimal zone, and price comfortably above SMA-20 with institutional-grade volume confirmation."
-      },
-      {
-        "action": "BUY",
-        "ticker": "LUNR",
+        "ticker": "IOT",
         "conviction": "medium",
-        "reasoning": "Score 95 with four bullish signals including MACD crossover and rising histogram; space tech sector tailwinds offset the absence of a volume surge signal."
+        "reasoning": "Score 95, RSI 65.1, MACD bullish crossover and histogram rising \u2014 Samsara benefits from industrial IoT secular growth with strong momentum not yet extended."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are essentially flat today \u2014 NASDAQ barely negative and S&P 500 unchanged \u2014 signaling a consolidation session with no directional panic or euphoria. With 4 open portfolio slots and $943 in cash, the rules call for deployment and today's screener delivers four clean score 95\u2013100 setups with RSIs in the 61\u201365 sweet spot: strong momentum without being overbought. Adding CHRN, PS, NBIS, and LUNR fills out the portfolio while keeping all entries in technically healthy territory.",
+    "briefing": "Markets drifted mildly higher today in a low-conviction session \u2014 NASDAQ +0.4%, S&P 500 +0.3% \u2014 reflecting a stable backdrop without a strong directional catalyst. With 4 open slots and $943 cash sitting idle, the rules call for deployment. I'm adding MSFT and IOT: both carry perfect momentum scores (95) with RSIs in the 65 range, meaning strong trend confirmation without the overextension risk seen in the overbought names (RSI 80-91) lower on the list. Existing positions are untouched \u2014 QQQ, AMZN, EAT, OLED, NSIT, and SYNA all remain open and within healthy ranges.",
     "market_education": {
-      "summary_en": "U.S. equities traded in a tight range on May 28, 2026, with the S&P 500 essentially flat and the NASDAQ dipping just 0.1%, reflecting a digestion session after recent gains. Investors rotated selectively into high-momentum technology and industrial names while sidestepping heavily overbought tickers, suggesting disciplined rather than fearful positioning. The muted price action on both indices points to a market in wait-and-see mode ahead of the next macro catalyst.",
-      "summary_zh": "2026\u5e745\u670828\u65e5\uff0c\u7f8e\u80a1\u5728\u72f9\u7a84\u5340\u9593\u5167\u7a84\u5e45\u9707\u76ea\uff0c\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.1%\uff0c\u986f\u793a\u5e02\u5834\u5728\u8fd1\u671f\u5347\u52e2\u5f8c\u9032\u5165\u6574\u7406\u6d88\u5316\u968e\u6bb5\u3002\u8cc7\u91d1\u5448\u73fe\u9078\u64c7\u6027\u8f2a\u52d5\uff0c\u6d41\u5165\u52d5\u80fd\u5f37\u52c1\u7684\u79d1\u6280\u53ca\u5de5\u696d\u985e\u80a1\uff0c\u540c\u6642\u523b\u610f\u8ff4\u907f\u6280\u8853\u6307\u6a19\u5df2\u8d85\u8cb7\u7684\u6a19\u7684\uff0c\u53cd\u6620\u5e02\u5834\u60c5\u7dd2\u5be9\u614e\u800c\u975e\u6050\u614c\u3002\u5169\u5927\u6307\u6578\u4f4e\u6ce2\u52d5\u7684\u8d70\u52e2\u986f\u793a\u6295\u8cc7\u8005\u6b63\u975c\u5f85\u4e0b\u4e00\u500b\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u77ed\u671f\u65b9\u5411\u5c1a\u4e0d\u660e\u6717\u3002",
+      "summary_en": "U.S. equities posted modest gains on May 28, 2026, with the S&P 500 up 0.3% and the Nasdaq up 0.4% in a session characterized by light volume and no major macro catalyst. Technology names led the advance, supported by continued enthusiasm around AI infrastructure spending and solid earnings revisions across large-cap software. The neutral tone suggests the market is consolidating recent gains rather than extending \u2014 a healthy pause often seen mid-trend before the next directional move.",
+      "summary_zh": "\u7f8e\u80a1\u65bc2026\u5e745\u670828\u65e5\u5c0f\u5e45\u6536\u9ad8\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.3%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.4%\uff0c\u6574\u9ad4\u4ea4\u6295\u6e05\u6de1\uff0c\u7f3a\u4e4f\u660e\u78ba\u7684\u5b8f\u89c0\u9a45\u52d5\u56e0\u7d20\u3002\u79d1\u6280\u80a1\u9818\u6f32\uff0c\u4e3b\u8981\u53d7\u60e0\u65bc\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u652f\u51fa\u71b1\u60c5\u6301\u7e8c\u5347\u6eab\u53ca\u5927\u578b\u8edf\u4ef6\u80a1\u76c8\u5229\u9810\u6e2c\u4e0a\u8abf\u3002\u5e02\u5834\u6574\u9ad4\u5448\u4e2d\u6027\u504f\u591a\u683c\u5c40\uff0c\u986f\u793a\u6307\u6578\u6b63\u5728\u6d88\u5316\u8fd1\u671f\u6f32\u5e45\uff0c\u662f\u8da8\u52e2\u5ef6\u7e8c\u524d\u5e38\u898b\u7684\u5065\u5eb7\u6574\u56fa\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks with strong recent price and volume trends, on the premise that outperformers tend to keep outperforming in the near term. The 'sweet spot' is an RSI between 55 and 70 \u2014 high enough to confirm bullish momentum, but not yet overbought \u2014 combined with a MACD bullish crossover and rising histogram showing acceleration. Today's top picks (CHRN, PS, NBIS) are textbook examples: all signals aligned, RSIs in the ideal zone, and volume surges confirming institutional participation.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u53ca\u6210\u4ea4\u91cf\u5448\u5f37\u52c1\u4e0a\u6f32\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u5f37\u52e2\u80a1\u5728\u77ed\u671f\u5167\u5f80\u5f80\u5ef6\u7e8c\u5f37\u52e2\u8868\u73fe\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u662f\u6240\u8b02\u7684\u300c\u6700\u4f73\u5165\u5834\u5340\u9593\u300d\u2014\u2014\u8db3\u4ee5\u78ba\u8a8d\u591a\u982d\u52d5\u80fd\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u9818\u57df\u2014\u2014\u518d\u914d\u5408MACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u67f1\u72c0\u5716\u6301\u7e8c\u4e0a\u63da\uff0c\u5373\u4ee3\u8868\u4e0a\u6f32\u52d5\u529b\u6b63\u5728\u52a0\u901f\u3002\u4eca\u65e5\u7cbe\u9078\u6a19\u7684CHRN\u3001PS\u3001NBIS\u5747\u5c6c\u6559\u79d1\u66f8\u5f0f\u7684\u52d5\u80fd\u5f62\u614b\uff1a\u6240\u6709\u6280\u8853\u8a0a\u865f\u4e00\u81f4\u770b\u591a\uff0cRSI\u8655\u65bc\u7406\u60f3\u5340\u9593\uff0c\u4e14\u6210\u4ea4\u91cf\u6fc0\u589e\u5370\u8b49\u6a5f\u69cb\u8cc7\u91d1\u7a4d\u6975\u4ecb\u5165\u3002"
+      "explanation_en": "Momentum investing is a strategy that buys stocks already trending upward, based on the idea that assets with recent price strength tend to continue outperforming in the near term. Indicators like RSI and MACD help identify stocks in the 'sweet spot' \u2014 trending strongly but not yet overbought. Today's buys (MSFT, IOT) both sit in the ideal RSI 55\u201370 range, the zone where momentum is confirmed but not exhausted.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u80a1\u7968\u7684\u7b56\u7565\uff0c\u5176\u7406\u8ad6\u57fa\u790e\u662f\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u7684\u8cc7\u7522\u5f80\u5f80\u5728\u77ed\u671f\u5167\u7e7c\u7e8c\u8dd1\u8d0f\u5e02\u5834\u3002RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u548cMACD\u7b49\u6280\u8853\u6307\u6a19\u6709\u52a9\u65bc\u627e\u51fa\u300c\u751c\u871c\u9ede\u300d\u2014\u2014\u8da8\u52e2\u5f37\u52c1\u4f46\u5c1a\u672a\u8d85\u8cb7\u7684\u80a1\u7968\u3002\u4eca\u65e5\u8cb7\u5165\u7684MSFT\u548cIOT\u5747\u843d\u5728\u7406\u60f3\u7684RSI 55\u81f370\u5340\u9593\uff0c\u8868\u793a\u52d5\u80fd\u5df2\u7372\u78ba\u8a8d\u4f46\u5c1a\u672a\u900f\u652f\u3002"
     }
   }
 }
