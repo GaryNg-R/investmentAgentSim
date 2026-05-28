@@ -1,38 +1,32 @@
 {
-  "saved_at": "2026-05-28T16:01:12.528848+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-05-28T17:01:20.783455+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "PLTR",
+        "ticker": "CHRN",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 65.2 in ideal momentum zone, full MACD bullish stack, and strong AI/data-analytics institutional demand \u2014 best risk-adjusted pick from the top tier."
+        "reasoning": "Top-ranked candidate (score 100) with every bullish signal firing including a volume surge >1.5x the 20-day average \u2014 volume confirmation separates this from the pack in today's risk-on tape."
       },
       {
         "action": "BUY",
-        "ticker": "QBTS",
+        "ticker": "SOFI",
         "conviction": "medium",
-        "reasoning": "Score 95, RSI 67.6, rising MACD histogram, and affordable price point make this a clean quantum-computing momentum entry."
-      },
-      {
-        "action": "BUY",
-        "ticker": "BRAI",
-        "conviction": "medium",
-        "reasoning": "Score 95, RSI 64.7 in sweet spot, price well above SMA-20, and low per-share cost maximizes share count from remaining cash."
+        "reasoning": "Score 95 with RSI 69.7 in the bullish momentum zone, MACD crossover confirmed, and fintech names tend to outperform in risk-on sessions as rate-sensitive sentiment improves."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are mildly positive today with NASDAQ up 0.6% and S&P 500 up 0.5%, providing a calm backdrop for deploying idle cash. I'm adding three score-95 names \u2014 PLTR, QBTS, and BRAI \u2014 all sitting in the ideal RSI 55\u201370 momentum zone with full MACD confirmation, taking us from 6 to 9 positions. This brings cash below the $500 hold threshold while staying within the 10-position cap.",
+    "briefing": "Markets are firmly risk-on with NASDAQ +0.8% and S&P 500 +0.6%, a clean backdrop for momentum plays. I'm deploying the remaining $943 into CHRN and SOFI \u2014 the two most compelling setups available \u2014 filling two of the four open slots while leaving some cash as a buffer. Existing positions show no stop-loss or profit-target triggers and the overall book sits at a healthy +25.6%, so no sells are warranted today.",
     "market_education": {
-      "summary_en": "U.S. equities drifted modestly higher on May 28 as cooling inflation expectations reduced pressure on the Fed to act aggressively, with tech leading gains on continued AI infrastructure spending optimism. Defensive and consumer-discretionary names also edged up as consumer sentiment data came in above forecasts, signalling resilient household spending. The broad advance across sectors kept volatility low, reinforcing a neutral-to-constructive tone heading into the final days of May.",
-      "summary_zh": "\u7f8e\u80a1\u65bc5\u670828\u65e5\u6eab\u548c\u4e0a\u6f32\uff0c\u901a\u8139\u9810\u671f\u964d\u6eab\u4ee4\u5e02\u5834\u5c0d\u806f\u5132\u5c40\u9032\u53d6\u52a0\u606f\u7684\u6182\u616e\u6709\u6240\u7de9\u89e3\uff0c\u79d1\u6280\u677f\u584a\u5728\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u6295\u8cc7\u6301\u7e8c\u6a02\u89c0\u60c5\u7dd2\u5e36\u52d5\u4e0b\u9818\u6f32\u3002\u6d88\u8cbb\u8005\u4fe1\u5fc3\u6578\u64da\u512a\u65bc\u9810\u671f\uff0c\u4ea6\u652f\u6490\u4e86\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u985e\u80a1\u8d70\u9ad8\uff0c\u986f\u793a\u5bb6\u5ead\u6d88\u8cbb\u4ecd\u5177\u97cc\u6027\u3002\u5404\u677f\u584a\u666e\u904d\u6eab\u548c\u4e0a\u63da\uff0c\u5e02\u5834\u6ce2\u52d5\u6027\u7dad\u6301\u4f4e\u4f4d\uff0c\u6708\u5e95\u524d\u6574\u9ad4\u6c23\u6c1b\u8da8\u65bc\u4e2d\u6027\u504f\u7a4d\u6975\u3002",
+      "summary_en": "Equity markets advanced broadly on May 28 as improved risk appetite lifted growth and technology sectors, with the NASDAQ outperforming at +0.8%. Easing macro headwinds and constructive earnings revisions in the tech sector continued to draw buyers into higher-beta names. The broad participation across sectors suggested institutional confidence rather than a narrow speculative move.",
+      "summary_zh": "5\u670828\u65e5\u80a1\u5e02\u5168\u9762\u4e0a\u63da\uff0c\u98a8\u96aa\u504f\u597d\u6539\u5584\u5e36\u52d5\u6210\u9577\u80a1\u8207\u79d1\u6280\u677f\u584a\u8d70\u5f37\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4ee50.8%\u7684\u6f32\u5e45\u9818\u5148\u5927\u76e4\u3002\u5b8f\u89c0\u9762\u58d3\u529b\u6301\u7e8c\u7de9\u548c\uff0c\u52a0\u4e0a\u79d1\u6280\u696d\u76c8\u5229\u9810\u671f\u7372\u8abf\u5347\uff0c\u5438\u5f15\u8cc7\u91d1\u6d41\u5165\u9ad8Beta\u80a1\u7968\u3002\u5404\u677f\u584a\u7684\u666e\u904d\u53c3\u8207\u986f\u793a\u6b64\u6b21\u4e0a\u6f32\u7531\u6a5f\u69cb\u8cc7\u91d1\u4e3b\u5c0e\uff0c\u800c\u975e\u55ae\u7d14\u7684\u6295\u6a5f\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already moving upward on the theory that strong price trends tend to continue in the short term. Traders use indicators like RSI (Relative Strength Index) and MACD to confirm that a stock is in a healthy 'momentum zone' \u2014 strong enough to keep rising but not so overbought it's due for a pullback. Today every new buy sits in the RSI 55\u201370 sweet spot, the textbook momentum window.",
-      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u5728\u4e0a\u5347\u8da8\u52e2\u4e2d\u7684\u80a1\u7968\uff0c\u5176\u908f\u8f2f\u5728\u65bc\u5f37\u52c1\u7684\u50f9\u683c\u8d70\u52e2\u5f80\u5f80\u6703\u5728\u77ed\u671f\u5167\u6301\u7e8c\u3002\u4ea4\u6613\u8005\u5e38\u7528\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u53caMACD\u7b49\u6280\u8853\u6307\u6a19\uff0c\u78ba\u8a8d\u80a1\u7968\u8655\u65bc\u5065\u5eb7\u7684\u300c\u52d5\u91cf\u5340\u9593\u300d\u2014\u2014\u6f32\u52e2\u8db3\u5920\u5f37\u52c1\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u57df\u3002\u4eca\u65e5\u4e09\u7b46\u8cb7\u5165\u7684RSI\u5747\u843d\u572855\u81f370\u7684\u7406\u60f3\u5340\u9593\uff0c\u6b63\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u52d5\u91cf\u9032\u5834\u7a97\u53e3\u3002"
+      "term": "Volume Surge",
+      "explanation_en": "A volume surge happens when a stock's trading volume jumps well above its recent average \u2014 CHRN's volume today is more than 1.5x its 20-day norm. When a price breakout is accompanied by heavy volume, it means many buyers are actively participating, which validates the move. A breakout on thin volume is far less trustworthy because it can reverse easily.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u4ea4\u6613\u91cf\u9060\u8d85\u8fd1\u671f\u5e73\u5747\u6c34\u6e96\u2014\u2014CHRN\u4eca\u65e5\u6210\u4ea4\u91cf\u8d85\u904e20\u65e5\u5747\u91cf\u76841.5\u500d\u3002\u7576\u80a1\u50f9\u7a81\u7834\u6642\u4f34\u96a8\u5927\u91cf\u6210\u4ea4\uff0c\u4ee3\u8868\u5927\u6279\u8cb7\u5bb6\u7a4d\u6975\u5165\u5834\uff0c\u9019\u4f7f\u6f32\u52e2\u66f4\u5177\u8aaa\u670d\u529b\u3002\u53cd\u4e4b\uff0c\u82e5\u7a81\u7834\u6642\u6210\u4ea4\u91cf\u504f\u4f4e\uff0c\u884c\u60c5\u4fbf\u5bb9\u6613\u5f8c\u7e7c\u7121\u529b\u751a\u81f3\u53cd\u8f49\uff0c\u53ef\u4fe1\u5ea6\u5927\u6253\u6298\u6263\u3002"
     }
   }
 }
