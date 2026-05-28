@@ -1,44 +1,19 @@
 {
-  "saved_at": "2026-05-28T20:01:49.031419+00:00",
+  "saved_at": "2026-05-28T21:01:19.810580+00:00",
   "market_direction": "risk_on",
   "decisions": {
-    "trades": [
-      {
-        "action": "SELL",
-        "ticker": "QQQ",
-        "shares": 1,
-        "reasoning": "Trimming one ETF share to unlock ~$650 in capital for higher-alpha individual stock picks in a risk-on session where active selection is rewarded"
-      },
-      {
-        "action": "BUY",
-        "ticker": "SOC",
-        "conviction": "high",
-        "reasoning": "Top screener score (100) with volume surge, MACD bullish crossover, RSI 64.5 in ideal momentum zone, and price 8% above SMA-20 \u2014 strongest technical setup of the day"
-      },
-      {
-        "action": "BUY",
-        "ticker": "INOD",
-        "conviction": "medium",
-        "reasoning": "Score 95 with clean MACD bullish crossover, RSI 62.1 in ideal zone, and price breaking above SMA-20 \u2014 solid risk/reward without overbought risk"
-      },
-      {
-        "action": "BUY",
-        "ticker": "RGTI",
-        "conviction": "medium",
-        "reasoning": "Score 95 quantum computing play with MACD bullish crossover and RSI 64.5, price above SMA-20 in a risk-on session that favors speculative tech"
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets are firmly risk-on today with NASDAQ up 0.9% and S&P 500 up 0.6%, a strong backdrop for adding exposure. With only $67.94 in cash and 3 open slots sitting empty, I'm trimming one share of QQQ to free capital, then deploying into the three strongest technical setups \u2014 SOC (score 100), INOD, and RGTI \u2014 filling all remaining slots and reaching the 10-position maximum.",
+    "briefing": "Markets are in solid risk-on mode today with NASDAQ up 0.9% and S&P 500 up 0.6%, which favors our momentum-heavy book. Unfortunately, with only $67.94 cash remaining we have no meaningful buying power to fill the 3 open slots \u2014 forcing a sell-to-rotate without current prices on existing holdings carries unnecessary risk. All 7 positions are held; INFQ remains in the screener at score 90 and is tracking near cost basis, worth monitoring for rotation next session if a stronger candidate emerges.",
     "market_education": {
-      "summary_en": "Equities rallied broadly today with the NASDAQ gaining 0.9% and the S&P 500 rising 0.6%, driven by continued investor appetite for growth and technology stocks. AI-infrastructure names and semiconductor-adjacent plays attracted strong institutional flows as the market sustained its bullish trend into late May. The broad advance across sectors signals that money managers remain overweight equities relative to defensive assets like bonds and gold, sustaining the risk-on tone.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u4e0a\u63da\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u6f320.9%\u3001\u6a19\u666e500\u6307\u6578\u6f320.6%\uff0c\u5e02\u5834\u98a8\u96aa\u504f\u597d\u7dad\u6301\u9ad8\u4f4d\u3002\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u76f8\u95dc\u500b\u80a1\u53ca\u534a\u5c0e\u9ad4\u985e\u80a1\u6301\u7e8c\u5438\u5f15\u6a5f\u69cb\u8cc7\u91d1\u9032\u99d0\uff0c\u4e94\u6708\u4e0b\u65ec\u7684\u591a\u982d\u683c\u5c40\u4ecd\u7a69\u5065\u3002\u5404\u677f\u584a\u666e\u904d\u8d70\u5f37\uff0c\u986f\u793a\u57fa\u91d1\u7d93\u7406\u4eba\u4f9d\u820a\u8d85\u914d\u80a1\u7968\uff0c\u9632\u79a6\u6027\u8cc7\u7522\u5438\u5f15\u529b\u76f8\u5c0d\u6709\u9650\uff0c\u5e02\u5834\u98a8\u96aa\u504f\u597d\u77ed\u671f\u96e3\u4ee5\u9006\u8f49\u3002",
+      "summary_en": "Equities extended their recent recovery on May 28 with tech leading gains, as investor sentiment improved on signs of easing trade tensions and resilient consumer spending data. The NASDAQ outpaced the broader S&P 500, reflecting continued appetite for growth and AI-linked names. Risk assets broadly benefited as bond yields held steady, removing a key headwind for high-multiple stocks.",
+      "summary_zh": "5\u670828\u65e5\u7f8e\u80a1\u5ef6\u7e8c\u8fd1\u671f\u6f32\u52e2\uff0c\u79d1\u6280\u80a1\u9818\u6f32\u5927\u5e02\u3002\u5e02\u5834\u60c5\u7dd2\u6539\u5584\uff0c\u4e3b\u56e0\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u51fa\u73fe\u7de9\u548c\u8de1\u8c61\uff0c\u52a0\u4e0a\u6d88\u8cbb\u652f\u51fa\u6578\u64da\u986f\u793a\u97cc\u6027\u3002\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u512a\u65bc\u6a19\u666e500\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5c0d\u6210\u9577\u80a1\u53caAI\u6982\u5ff5\u80a1\u7684\u6301\u7e8c\u71b1\u60c5\u3002\u50b5\u5238\u6b96\u5229\u7387\u7dad\u6301\u5e73\u7a69\uff0c\u6e1b\u5c11\u4e86\u9ad8\u4f30\u503c\u80a1\u7968\u7684\u58d3\u529b\uff0c\u98a8\u96aa\u8cc7\u7522\u5168\u7dda\u53d7\u60e0\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks trending strongly upward, based on the principle that assets with established directional strength tend to continue moving that way. Traders use indicators like RSI (ideal zone: 55\u201370), MACD crossovers, and price vs. moving average to identify the strongest setups. Today's top picks \u2014 SOC, INOD, and RGTI \u2014 all exhibit textbook momentum structure: bullish MACD crossovers, RSI in the sweet spot, and prices trading meaningfully above their 20-day averages without being overbought.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u5c08\u6ce8\u8cb7\u5165\u5f37\u52e2\u4e0a\u6f32\u7684\u500b\u80a1\uff0c\u5176\u908f\u8f2f\u5728\u65bc\uff1a\u5df2\u5f62\u6210\u6e05\u6670\u8da8\u52e2\u7684\u8cc7\u7522\u5f80\u5f80\u5ef6\u7e8c\u65b9\u5411\u904b\u52d5\u3002\u4ea4\u6613\u8005\u900f\u904eRSI\uff08\u7406\u60f3\u5340\u959355\u81f370\uff09\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u4ee5\u53ca\u80a1\u50f9\u76f8\u5c0d20\u65e5\u5747\u7dda\u7684\u4f4d\u7f6e\u4f86\u7be9\u9078\u5f37\u52e2\u6a19\u7684\u3002\u4eca\u65e5\u7cbe\u9078\u7684SOC\u3001INOD\u53caRGTI\u5747\u5448\u73fe\u5178\u578b\u52d5\u80fd\u7d50\u69cb\uff1aMACD\u9ec3\u91d1\u4ea4\u53c9\u78ba\u8a8d\u3001RSI\u843d\u5728\u751c\u871c\u5340\u9593\u3001\u80a1\u50f9\u660e\u986f\u9ad8\u65bc\u5747\u7dda\uff0c\u4e14\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u57df\uff0c\u98a8\u96aa\u6536\u76ca\u6bd4\u826f\u597d\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "Dry powder refers to the uninvested cash a portfolio holds, kept ready to deploy into new opportunities. Today's situation illustrates why maintaining some cash reserve matters: even with 3 open position slots and strong buy candidates (SOC scoring 100), we cannot act because cash is nearly depleted at $67.94. Balancing full investment with a small cash buffer ensures you can capitalize on high-conviction setups without being forced to sell at potentially bad prices.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\u6307\u6295\u8cc7\u7d44\u5408\u4e2d\u4fdd\u7559\u7684\u672a\u6295\u8cc7\u73fe\u91d1\uff0c\u96a8\u6642\u7b49\u5f85\u90e8\u7f72\u65bc\u65b0\u6a5f\u6703\u3002\u4eca\u65e5\u60c5\u6cc1\u6b63\u597d\u8aaa\u660e\u4fdd\u7559\u9069\u91cf\u73fe\u91d1\u5132\u5099\u7684\u91cd\u8981\u6027\uff1a\u5373\u4f7f\u67093\u500b\u7a7a\u7f3a\u5009\u4f4d\uff0c\u4e14\u5e02\u5834\u51fa\u73fe\u8a55\u5206\u9ad8\u9054100\u7684\u5f37\u529b\u8cb7\u5165\u5019\u9078\u80a1\uff08SOC\uff09\uff0c\u6211\u5011\u537b\u56e0\u73fe\u91d1\u50c5\u526967.94\u7f8e\u5143\u800c\u7121\u6cd5\u884c\u52d5\u3002\u5728\u5145\u5206\u6295\u8cc7\u8207\u4fdd\u7559\u5c0f\u984d\u73fe\u91d1\u7de9\u885d\u4e4b\u9593\u53d6\u5f97\u5e73\u8861\uff0c\u53ef\u78ba\u4fdd\u5728\u9ad8\u4fe1\u5ff5\u6a5f\u6703\u51fa\u73fe\u6642\u80fd\u8fc5\u901f\u51fa\u624b\uff0c\u800c\u7121\u9700\u88ab\u8feb\u5728\u4e0d\u7406\u60f3\u7684\u50f9\u4f4d\u8ce3\u51fa\u73fe\u6709\u6301\u80a1\u3002"
     }
   }
 }
