@@ -1,38 +1,44 @@
 {
-  "saved_at": "2026-05-28T18:01:12.967967+00:00",
+  "saved_at": "2026-05-28T19:01:16.663237+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "INFQ",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 66.8 in the ideal bullish zone, MACD bullish crossover, histogram rising, and price well above SMA-20 \u2014 cleanest technical setup on the board without overbought risk."
-      },
-      {
-        "action": "BUY",
         "ticker": "MDB",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 62.6 in bullish momentum zone, MACD bullish crossover and histogram rising \u2014 MongoDB benefits from AI-driven cloud database demand and has room to run before hitting overbought levels."
+        "reasoning": "Score 95 with all momentum indicators aligned \u2014 RSI 64 in sweet spot, MACD bullish crossover with rising histogram, and price well above SMA-20; MongoDB is a high-quality tech name benefiting from AI/cloud data growth on a risk-on day."
       },
       {
         "action": "BUY",
-        "ticker": "CHRN",
+        "ticker": "LUNR",
         "conviction": "medium",
-        "reasoning": "Score 90 with RSI 67.2 still below overbought, price 18.5% above SMA-20 showing strong trend, and MACD confirmed bullish \u2014 risk-on environment supports this breakout name."
+        "reasoning": "Score 95 with RSI 68.6 and MACD bullish crossover plus rising histogram; space infrastructure theme has strong tailwinds and all technical signals confirm active uptrend."
+      },
+      {
+        "action": "BUY",
+        "ticker": "PATH",
+        "conviction": "medium",
+        "reasoning": "Score 90 with RSI 69.6 and MACD bullish; UiPath rides the AI automation wave and is still in the momentum zone \u2014 NASDAQ outperformance today favors software names."
+      },
+      {
+        "action": "BUY",
+        "ticker": "INFQ",
+        "conviction": "low",
+        "reasoning": "Score 95 with RSI 66 and MACD bullish crossover with rising histogram \u2014 fills the 4th open slot and deploys idle cash on a risk-on day with clean technical setup."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are clearly risk-on today with NASDAQ up 0.9% and the S&P 500 up 0.6%, giving a green light to deploy the remaining $943 in cash. I'm filling three of the four open slots with the two highest-scoring momentum candidates (INFQ and MDB, both score 95) plus CHRN (score 90), all of which sit in the ideal RSI 55\u201370 bullish zone rather than overbought territory. Holding one slot in reserve as a buffer given the many overbought candidates on today's screener.",
+    "briefing": "Markets are firmly risk-on today with NASDAQ leading at +0.9%, favoring growth and tech names. With 4 open slots and $943 in cash, I'm deploying into the four cleanest momentum setups from the screener \u2014 MDB, LUNR, PATH, and INFQ \u2014 all scoring 90+ with RSI in the ideal 55\u201370 zone and bullish MACD. Existing positions show no stop-loss concerns, so no sells today.",
     "market_education": {
-      "summary_en": "U.S. equities extended their recent rally on Thursday with the NASDAQ leading at +0.9%, driven by continued enthusiasm around AI infrastructure spending and resilient consumer data. Tech and growth names outperformed as investors rotated back into risk assets following a period of caution around trade policy. The S&P 500's +0.6% gain reflected broad participation, with cyclicals and small caps joining the move higher.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u56db\u5ef6\u7e8c\u8fd1\u671f\u5347\u52e2\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u6f320.9%\uff0c\u4e3b\u8981\u53d7\u5230\u5e02\u5834\u5c0d\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u6295\u8cc7\u6301\u7e8c\u6a02\u89c0\u60c5\u7dd2\u53ca\u6d88\u8cbb\u6578\u64da\u97cc\u6027\u7684\u63a8\u52d5\u3002\u79d1\u6280\u53ca\u6210\u9577\u80a1\u8868\u73fe\u7a81\u51fa\uff0c\u6295\u8cc7\u8005\u5728\u6b64\u524d\u5c0d\u8cbf\u6613\u653f\u7b56\u4fdd\u6301\u8b39\u614e\u4e4b\u5f8c\u91cd\u65b0\u589e\u6301\u98a8\u96aa\u8cc7\u7522\u3002\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.6%\uff0c\u8d70\u52e2\u5ee3\u6cdb\uff0c\u9031\u671f\u80a1\u53ca\u5c0f\u578b\u80a1\u4ea6\u540c\u6b65\u8ddf\u9032\u3002",
+      "summary_en": "Today's risk-on session saw the NASDAQ outpace the broader S&P 500, reflecting renewed appetite for growth and technology stocks. This kind of NASDAQ-led day typically signals that investors are comfortable taking on more risk \u2014 rotating into higher-beta names like software, AI, and speculative growth. When the NASDAQ outperforms by a meaningful margin (+0.9% vs +0.5%), momentum strategies tend to benefit because existing trends accelerate as capital chases the leaders.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u5347\u6eab\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.9%\uff0c\u8dd1\u8d0f\u6a19\u666e500\u76840.5%\u6f32\u5e45\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u91cd\u65b0\u64c1\u62b1\u6210\u9577\u8207\u79d1\u6280\u985e\u80a1\u3002\u9019\u985e\u7531\u7d0d\u6307\u9818\u6f32\u7684\u4ea4\u6613\u65e5\uff0c\u901a\u5e38\u610f\u5473\u8457\u8cc7\u91d1\u6b63\u7a4d\u6975\u8f2a\u8f49\u81f3\u9ad8\u8c9d\u5854\u503c\u677f\u584a\uff0c\u5305\u62ec\u8edf\u4ef6\u3001\u4eba\u5de5\u667a\u80fd\u53ca\u6295\u6a5f\u6027\u6210\u9577\u80a1\u3002\u7576\u7d0d\u6307\u986f\u8457\u8dd1\u8d0f\u5927\u5e02\u6642\uff0c\u52d5\u80fd\u7b56\u7565\u5f80\u5f80\u80fd\u53d7\u60e0\u65bc\u8da8\u52e2\u52a0\u901f\uff0c\u56e0\u70ba\u8cc7\u91d1\u6301\u7e8c\u8ffd\u9010\u5e02\u5834\u9818\u6f32\u8005\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that bets on stocks already trending upward to continue rising. Traders use signals like RSI (measuring how fast a stock is moving) and MACD (comparing short vs. long-term price averages) to identify stocks with strong momentum. The sweet spot is an RSI between 55\u201370: strong enough to show real buying interest, but not so high (above 70) that the stock is overbought and due for a pullback.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u5176\u7e7c\u7e8c\u8d70\u5f37\u3002\u6295\u8cc7\u8005\u904b\u7528RSI\uff08\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u901f\u5ea6\uff09\u548cMACD\uff08\u6bd4\u8f03\u77ed\u671f\u8207\u9577\u671f\u5747\u7dda\u5dee\u8ddd\uff09\u7b49\u6280\u8853\u6307\u6a19\u4f86\u8b58\u5225\u5f37\u52c1\u52d5\u80fd\u80a1\u3002\u7406\u60f3\u72c0\u614b\u662fRSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u2014\u2014\u65e2\u986f\u793a\u51fa\u771f\u5be6\u7684\u8cb7\u76e4\u8208\u8da3\uff0c\u53c8\u672a\u9054\u523070\u4ee5\u4e0a\u7684\u8d85\u8cb7\u6c34\u5e73\uff0c\u907f\u514d\u9762\u81e8\u56de\u8abf\u98a8\u96aa\u3002"
+      "term": "Risk-On Environment",
+      "explanation_en": "A 'risk-on' environment means investors are feeling confident and willing to buy riskier assets like growth stocks, small caps, and speculative tech \u2014 instead of hiding in 'safe havens' like bonds or gold. You can spot it when the NASDAQ (which is heavy in high-growth tech) outperforms the steadier S&P 500. On risk-on days, momentum strategies thrive because confident buyers push trending stocks even higher.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u74b0\u5883\u610f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u9858\u610f\u8cb7\u5165\u6210\u9577\u80a1\u3001\u5c0f\u578b\u80a1\u53ca\u6295\u6a5f\u6027\u79d1\u6280\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u800c\u975e\u8eb2\u9032\u50b5\u5238\u6216\u9ec3\u91d1\u7b49\u300c\u907f\u96aa\u5929\u5802\u300d\u3002\u7576\u91cd\u5009\u9ad8\u589e\u9577\u79d1\u6280\u80a1\u7684\u7d0d\u65af\u9054\u514b\u8dd1\u8d0f\u8f03\u7a69\u5065\u7684\u6a19\u666e500\u6642\uff0c\u4fbf\u662f\u8fa8\u8b58\u6b64\u74b0\u5883\u7684\u660e\u78ba\u4fe1\u865f\u3002\u5728\u98a8\u96aa\u504f\u597d\u7684\u4ea4\u6613\u65e5\uff0c\u52d5\u80fd\u7b56\u7565\u5f80\u5f80\u8868\u73fe\u4eae\u773c\uff0c\u56e0\u70ba\u81ea\u4fe1\u7684\u8cb7\u76e4\u6703\u5c07\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\u63a8\u5f97\u66f4\u9ad8\u3002"
     }
   }
 }
