@@ -1,44 +1,32 @@
 {
-  "saved_at": "2026-05-26T21:01:37.676887+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-05-28T13:01:09.041689+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "INTC",
+        "ticker": "BLLN",
         "conviction": "high",
-        "reasoning": "Score 95 with MACD histogram rising (confirming accelerating momentum), RSI 64.2 in the ideal bullish zone, and price holding above SMA-20 \u2014 semiconductor recovery name best positioned in today's risk-on tape."
+        "reasoning": "Top screener score of 100 with volume surge, RSI at 69.9 (still in bullish zone, not overbought), MACD bullish crossover with rising histogram \u2014 strongest setup in today's list."
       },
       {
         "action": "BUY",
-        "ticker": "SEDG",
-        "conviction": "high",
-        "reasoning": "Score 95 with volume surge confirming institutional accumulation, RSI 65.8 in sweet spot, and a clean 8% gap above SMA-20 \u2014 strong technical setup on a high-participation day."
-      },
-      {
-        "action": "BUY",
-        "ticker": "MOD",
+        "ticker": "APLD",
         "conviction": "medium",
-        "reasoning": "Score 95 with volume surge and 7% breakout above SMA-20 showing sustained demand; RSI 62 leaves meaningful upside before reaching overbought territory."
-      },
-      {
-        "action": "BUY",
-        "ticker": "AMKR",
-        "conviction": "medium",
-        "reasoning": "Score 90, MACD bullish, RSI 61.9 in momentum zone \u2014 semiconductor packaging exposure complements INTC in an AI/chip infrastructure cycle."
+        "reasoning": "Score 95 with RSI 67.2 in bullish momentum zone, MACD bullish with rising histogram \u2014 AI/data center infrastructure play with room before overbought territory."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Risk-on session with NASDAQ +1.2% and S&P 500 +0.6% gives a green light to deploy the remaining $943 cash across all 4 open slots. I'm prioritizing the three score-95 names (INTC, SEDG, MOD) for their combination of volume confirmation and ideal RSI positioning, with AMKR rounding out the semiconductor theme. Existing portfolio sits at a strong +25.6% cumulative P&L with no positions flagged for exit.",
+    "briefing": "Markets were essentially flat today \u2014 NASDAQ eked out +0.1% and S&P500 was unchanged, signaling a consolidation session rather than a directional move. With 4 open position slots and $943 in idle cash, conditions favor deploying into top momentum names rather than sitting on the sidelines. Buying BLLN (perfect score, volume-confirmed breakout) and APLD (AI infrastructure with rising momentum) to put cash to work in the two cleanest technical setups.",
     "market_education": {
-      "summary_en": "Markets advanced broadly today, with the NASDAQ outpacing the broader index as technology and growth names attracted fresh capital in a clear risk-on session. Semiconductor stocks showed particular strength, with multiple names printing volume surges that suggest institutional buyers rather than retail momentum \u2014 a more durable signal. Clean energy names like SEDG also participated, reflecting confidence that the current macro environment supports longer-duration growth assets.",
-      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u666e\u904d\u4e0a\u6f32\uff0c\u7d0d\u6307\u6f32\u5e45\u660e\u986f\u8d85\u8d8a\u5927\u76e4\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u53d7\u5230\u8cc7\u91d1\u7a4d\u6975\u8ffd\u6367\uff0c\u5448\u73fe\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u74b0\u5883\u3002\u534a\u5c0e\u9ad4\u677f\u584a\u8868\u73fe\u5c24\u70ba\u4eae\u773c\uff0c\u591a\u96bb\u500b\u80a1\u6210\u4ea4\u91cf\u6fc0\u589e\uff0c\u986f\u793a\u80cc\u5f8c\u63a8\u52d5\u529b\u4f86\u81ea\u6a5f\u69cb\u8cb7\u76e4\u800c\u975e\u6563\u6236\u8ffd\u6367\uff0c\u4fe1\u865f\u66f4\u5177\u6301\u7e8c\u6027\u3002\u6e05\u6f54\u80fd\u6e90\u500b\u80a1\u5982SEDG\u4ea6\u540c\u6b65\u8d70\u5f37\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u7576\u524d\u5b8f\u89c0\u74b0\u5883\u6709\u5229\u9577\u7dda\u6210\u9577\u8cc7\u7522\u7684\u4fe1\u5fc3\u3002",
+      "summary_en": "U.S. equities treaded water on Thursday as investors digested mixed macro signals ahead of upcoming economic data releases. The flat session reflects a market in a holding pattern \u2014 no major catalyst drove fresh buying or selling, with sector rotation continuing quietly beneath the surface. Defensive caution persists as traders await clearer signals on Fed policy and economic growth momentum.",
+      "summary_zh": "\u7f8e\u80a1\u9031\u56db\u5e7e\u4e4e\u539f\u5730\u8e0f\u6b65\uff0c\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u524d\u6d88\u5316\u8907\u96dc\u7684\u5b8f\u89c0\u4fe1\u865f\u3002\u672c\u6b21\u5e73\u76e4\u8d70\u52e2\u53cd\u6620\u5e02\u5834\u76ee\u524d\u8655\u65bc\u89c0\u671b\u683c\u5c40\u2014\u2014\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u63a8\u52d5\u65b9\u5411\u6027\u7a81\u7834\uff0c\u8cc7\u91d1\u8f2a\u52d5\u5728\u76e4\u9762\u4e0b\u6084\u7136\u9032\u884c\u3002\u5e02\u5834\u5c0d\u806f\u5132\u5c40\u653f\u7b56\u8d70\u5411\u53ca\u7d93\u6fdf\u589e\u9577\u52d5\u80fd\u4ecd\u6301\u5be9\u614e\u614b\u5ea6\uff0c\u7b49\u5f85\u66f4\u6e05\u6670\u6307\u5f15\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward on the belief that strong recent performance tends to persist in the short term. Today's top picks all share the same fingerprint: price above the 20-day moving average, a bullish MACD crossover, and RSI in the 55\u201370 zone \u2014 strong but not yet overextended. The strategy works until it doesn't, which is exactly why the -7% stop-loss rule exists: it cuts losing momentum trades before they become large drawdowns.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u6838\u5fc3\u908f\u8f2f\u662f\u8fd1\u671f\u5f37\u52e2\u8868\u73fe\u5f80\u5f80\u5728\u77ed\u671f\u5167\u5ef6\u7e8c\u3002\u4eca\u65e5\u7cbe\u9078\u500b\u80a1\u5747\u5177\u5099\u76f8\u540c\u7684\u6280\u8853\u7279\u5fb5\uff1a\u50f9\u683c\u7ad9\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\u3001MACD\u51fa\u73fe\u91d1\u53c9\uff0c\u4e14RSI\u8655\u65bc55\u81f370\u7684\u5f37\u52e2\u800c\u672a\u904e\u71b1\u5340\u9593\u3002\u6b64\u7b56\u7565\u6709\u6548\uff0c\u76f4\u81f3\u8da8\u52e2\u9006\u8f49\u70ba\u6b62\u2014\u2014\u9019\u6b63\u662f\u8a2d\u7f6e7%\u6b62\u640d\u7684\u610f\u7fa9\u6240\u5728\uff1a\u5728\u640d\u5931\u64f4\u5927\u6210\u91cd\u5927\u56de\u64a4\u524d\uff0c\u63d0\u524d\u65ac\u65b7\u5931\u6548\u7684\u52d5\u80fd\u4ea4\u6613\u3002"
+      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price and volume trends, betting that what's moving up will continue moving up. The logic is that rising prices attract more buyers, creating a self-reinforcing cycle \u2014 at least until momentum exhausts. Indicators like RSI (measures overbought/oversold), MACD (trend direction), and volume surges are the classic tools for confirming momentum.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u6f32\u7b56\u7565\uff1a\u8cb7\u5165\u8fd1\u671f\u80a1\u50f9\u8207\u6210\u4ea4\u91cf\u5747\u5448\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u300c\u6f32\u52e2\u5ef6\u7e8c\u300d\u3002\u5176\u908f\u8f2f\u5728\u65bc\u50f9\u683c\u4e0a\u6f32\u5438\u5f15\u66f4\u591a\u8cb7\u5bb6\uff0c\u5f62\u6210\u81ea\u6211\u5f37\u5316\u7684\u6b63\u5faa\u74b0\u2014\u2014\u76f4\u81f3\u52d5\u91cf\u8017\u76e1\u70ba\u6b62\u3002RSI\uff08\u8861\u91cf\u8d85\u8cb7\u8d85\u8ce3\uff09\u3001MACD\uff08\u5224\u65b7\u8da8\u52e2\u65b9\u5411\uff09\u53ca\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u662f\u78ba\u8a8d\u52d5\u91cf\u8a0a\u865f\u7684\u7d93\u5178\u5de5\u5177\u3002"
     }
   }
 }
