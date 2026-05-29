@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-05-29T17:01:16.929385+00:00",
+  "saved_at": "2026-05-29T18:01:38.452904+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NVDA",
+        "ticker": "PATH",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI at 57.4 \u2014 the lowest RSI among top-tier candidates, giving it the most room to run before overbought conditions; all three bullish signals present (MACD crossover, rising histogram, price above SMA-20) make it the cleanest momentum entry in the AI/semiconductor space."
+        "reasoning": "Score 95 with RSI 63.5 in the ideal bullish zone, confirmed MACD bullish crossover and rising histogram, price above SMA-20 \u2014 cleanest all-green setup in the screener at an affordable price."
       },
       {
         "action": "BUY",
-        "ticker": "HPQ",
+        "ticker": "FPS",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 67.5 approaching but not yet overbought, MACD bullish crossover with rising histogram confirms strong momentum continuation above SMA-20."
+      },
+      {
+        "action": "BUY",
+        "ticker": "TBBB",
         "conviction": "medium",
-        "reasoning": "Score 95 with MACD bullish crossover and price 7.2% above SMA-20; lower share price allows meaningful position sizing within remaining cash and adds tech hardware exposure as a complement to NVDA."
+        "reasoning": "Score 95 with RSI 61.7 showing early-stage momentum \u2014 lower RSI leaves more upside room before overbought conditions, MACD bullish crossover confirmed with price well above SMA-20."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat-to-slightly positive today with both NASDAQ and S&P 500 up 0.3%, reflecting a neutral, directionless session with no major catalysts pushing either way. With 4 open slots and over $1,100 in cash, this is a clear deploy opportunity \u2014 sitting on idle cash in a functioning bull market costs us alpha. NVDA is the standout pick: score 95, RSI still in the mid-50s, meaning it hasn't run hot yet unlike most other top candidates sitting above 70 RSI.",
+    "briefing": "Markets are essentially flat today with the S&P up just 0.1% and NASDAQ unchanged \u2014 a neutral, wait-and-see session with no strong directional catalyst. With 4 open slots and over $1,100 in cash sitting idle, I'm deploying into three of the four score-95 momentum candidates (PATH, FPS, TBBB) that all show RSI in the ideal 55\u201370 bullish zone plus confirmed MACD bullish crossovers. Existing six positions are held as none have triggered stop-loss or profit-target levels.",
     "market_education": {
-      "summary_en": "Today's flat +0.3% session across major indices reflected a digestion day following recent tech-driven gains, with investors holding positions rather than aggressively buying or selling. AI infrastructure spending narratives continued to support semiconductor and cloud names quietly in the background, keeping stocks like NVDA and CRM well-bid despite no fresh catalyst. With no major economic data releases or Fed commentary on the calendar, volume was light and price action stayed range-bound \u2014 a typical consolidation pattern after a strong momentum run.",
-      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u4e3b\u8981\u6307\u6578\u5fae\u6f320.3%\uff0c\u5e02\u5834\u6574\u9ad4\u5448\u73fe\u6d88\u5316\u6574\u7406\u683c\u5c40\uff0c\u6295\u8cc7\u4eba\u5728\u7f3a\u4e4f\u65b0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\u975c\u5f85\u65b9\u5411\u3002AI\u57fa\u790e\u5efa\u8a2d\u7684\u8cc7\u672c\u652f\u51fa\u984c\u6750\u6301\u7e8c\u652f\u6490\u534a\u5c0e\u9ad4\u8207\u96f2\u7aef\u76f8\u95dc\u80a1\u7968\uff0c\u4f7fNVDA\u53caCRM\u7b49\u500b\u80a1\u7dad\u6301\u76f8\u5c0d\u5f37\u52e2\u3002\u5728\u7121\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u806f\u5132\u5c40\u5b98\u54e1\u767c\u8a00\u7684\u80cc\u666f\u4e0b\uff0c\u6210\u4ea4\u91cf\u504f\u6de1\uff0c\u80a1\u50f9\u5728\u5340\u9593\u5167\u7a84\u5e45\u9707\u76ea\uff0c\u5c6c\u5f37\u52e2\u4e0a\u6f32\u5f8c\u7684\u5178\u578b\u6280\u8853\u6574\u7406\u3002",
+      "summary_en": "U.S. equities drifted sideways on May 29 with the S&P 500 adding just 0.1% and the NASDAQ closing flat, as investors adopted a holding pattern ahead of upcoming economic data releases. The subdued session reflects a tug-of-war between ongoing AI and technology optimism and lingering uncertainty about the Federal Reserve's interest rate path into late 2026. Without a fresh macro catalyst, market participants rotated into selective momentum names rather than chasing broad index moves.",
+      "summary_zh": "2026\u5e745\u670829\u65e5\uff0c\u7f8e\u80a1\u6574\u9ad4\u6301\u5e73\uff0c\u6a19\u666e500\u5fae\u53470.1%\uff0c\u7d0d\u65af\u9054\u514b\u6536\u5e73\uff0c\u5e02\u5834\u5728\u7b49\u5f85\u4e0b\u4e00\u6279\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u524d\u7dad\u6301\u89c0\u671b\u683c\u5c40\u3002\u79d1\u6280\u8207\u4eba\u5de5\u667a\u80fd\u677f\u584a\u7684\u6a02\u89c0\u60c5\u7dd2\u6301\u7e8c\uff0c\u4f46\u806f\u5132\u5c40\u5f8c\u7e8c\u5229\u7387\u8d70\u5411\u4ecd\u5b58\u4e0d\u78ba\u5b9a\u6027\uff0c\u4ee4\u5927\u76e4\u7f3a\u4e4f\u660e\u78ba\u4e0a\u884c\u52d5\u529b\u3002\u5728\u6b64\u74b0\u5883\u4e0b\uff0c\u8cc7\u91d1\u50be\u5411\u6d41\u5165\u5177\u6709\u660e\u986f\u6280\u8853\u52d5\u80fd\u7684\u500b\u80a1\uff0c\u800c\u975e\u8ffd\u9010\u5927\u76e4\u6307\u6578\u6574\u9ad4\u8868\u73fe\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI (Relative Strength Index)",
-      "explanation_en": "RSI measures how fast and how much a stock's price has moved recently, on a scale of 0\u2013100. Readings between 55\u201370 are considered the 'momentum sweet spot' \u2014 the stock is trending up with buyers in control, but hasn't yet moved so far so fast that a pullback is likely. Above 70 is 'overbought,' meaning the run may be overextended; that's why we favored NVDA (RSI 57) over names like HOOD (RSI 92) today.",
-      "explanation_zh": "RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8861\u91cf\u80a1\u50f9\u8fd1\u671f\u6f32\u8dcc\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u300255\u81f370\u7684\u5340\u9593\u88ab\u8996\u70ba\u300c\u52d5\u80fd\u751c\u871c\u5340\u300d\u2014\u2014\u4ee3\u8868\u80a1\u7968\u6b63\u5728\u4e0a\u5347\u8da8\u52e2\u4e2d\uff0c\u8cb7\u65b9\u4e3b\u5c0e\u5e02\u5834\uff0c\u4f46\u5c1a\u672a\u904e\u71b1\u5230\u5bb9\u6613\u56de\u8abf\u7684\u7a0b\u5ea6\u3002\u8d85\u904e70\u5247\u4ee3\u8868\u300c\u8d85\u8cb7\u300d\uff0c\u610f\u5473\u8457\u6f32\u52e2\u53ef\u80fd\u5df2\u904e\u5ea6\u5ef6\u4f38\u3002\u9019\u6b63\u662f\u4eca\u65e5\u9078\u64c7NVDA\uff08RSI 57\uff09\u800c\u975eHOOD\uff08RSI 92\uff09\u7b49\u500b\u80a1\u7684\u6838\u5fc3\u908f\u8f2f\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy of buying stocks that are already trending upward, based on the principle that assets moving in a direction tend to keep moving that way. Technical indicators like RSI (Relative Strength Index) and MACD help identify stocks with sustained, healthy momentum \u2014 ideally RSI between 55\u201370 (bullish but not yet overbought) paired with a MACD bullish crossover. Today's buys in PATH, FPS, and TBBB all hit this ideal profile, representing the highest-quality setups in the screener.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u7b56\u7565\u7684\u6838\u5fc3\u7406\u5ff5\u662f\uff1a\u5df2\u7d93\u5f62\u6210\u7684\u8da8\u52e2\u5f80\u5f80\u6703\u5ef6\u7e8c\u3002\u6295\u8cc7\u8005\u900f\u904eRSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u548cMACD\u7b49\u6280\u8853\u6307\u6a19\uff0c\u7be9\u9078\u51fa\u52d5\u80fd\u7a69\u5065\u7684\u80a1\u7968\u2014\u2014\u7406\u60f3\u60c5\u6cc1\u662fRSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff08\u770b\u6f32\u4f46\u672a\u8d85\u8cb7\uff09\uff0c\u540c\u6642MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u4fe1\u865f\u3002\u4eca\u65e5\u8cb7\u5165\u7684PATH\u3001FPS\u8207TBBB\u5747\u7b26\u5408\u9019\u4e00\u689d\u4ef6\uff0c\u662f\u7576\u65e5\u6280\u8853\u9762\u6700\u4f73\u7684\u7be9\u9078\u7d50\u679c\u3002"
     }
   }
 }
