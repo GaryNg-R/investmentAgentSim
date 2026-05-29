@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-05-29T14:01:40.738522+00:00",
+  "saved_at": "2026-05-29T15:01:10.929917+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "NSIT",
-        "shares": 17,
-        "reasoning": "NSIT has dropped off today's screened candidate list entirely, signalling fading momentum \u2014 rotating the capital into a higher-conviction name."
+        "action": "BUY",
+        "ticker": "CRM",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 68.8 in the bullish momentum zone (not overbought), full MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 cleanest setup on the screener today."
       },
       {
         "action": "BUY",
-        "ticker": "NVDA",
+        "ticker": "HUBS",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 58.9 sitting in the ideal 55\u201370 bullish momentum zone, MACD bullish crossover with a rising histogram, and price well above SMA-20 \u2014 best risk-adjusted entry available today."
+        "reasoning": "Score 95 mirroring CRM's setup \u2014 RSI 68.7 in bullish zone, MACD bullish crossover with rising histogram, and price $11 above SMA-20 \u2014 strong momentum without overbought risk."
+      },
+      {
+        "action": "BUY",
+        "ticker": "WT",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 63.7 and clean MACD signals; low price point allows a meaningful position from remaining cash and adds diversification beyond large-cap tech."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "It was a quiet, mildly positive session (NASDAQ +0.6%, S&P 500 +0.4%) with no strong directional catalyst. Cash of only $67.94 makes new buys impossible without freeing up capital first, so I'm rotating out of NSIT \u2014 absent from today's screened list \u2014 and deploying the proceeds into NVDA, which scores 95 with clean, non-overbought momentum. The portfolio moves to 8 positions, leaving 2 slots open for future opportunities as the market develops.",
+    "briefing": "Markets drifted slightly positive today in a quiet, low-conviction session. With 4 open slots and $1,867 in idle cash, the risk rules strongly favor deploying capital into the best setups rather than sitting out. CRM and HUBS are the top picks \u2014 both score 95 and their RSI sits in the bullish momentum zone (55\u201370) rather than overbought territory, making them the safest high-momentum entries on the screener. WT fills a third slot at a low price point to stretch coverage. Existing holdings are untouched as no stop-loss or profit-target triggers were flagged.",
     "market_education": {
-      "summary_en": "U.S. equities posted a modest Friday advance, with the NASDAQ up 0.6% and the S&P 500 gaining 0.4%, reflecting a calm, risk-neutral session lacking a major macro catalyst. Technology and semiconductor names remained in favour with institutional buyers, supporting AI-adjacent stocks across the board. The muted volume and narrow range suggest markets are in a consolidation phase after recent momentum-driven gains rather than initiating a new directional move.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u5468\u4e94\u5c0f\u5e45\u6536\u9ad8\uff0c\u7d0d\u65af\u9054\u514b\u4e0a\u6f320.6%\u3001\u6a19\u666e500\u4e0a\u53470.4%\uff0c\u6574\u9ad4\u5e02\u5834\u5448\u73fe\u4f4e\u6ce2\u52d5\u7684\u4e2d\u6027\u683c\u5c40\uff0c\u7f3a\u4e4f\u660e\u986f\u7684\u5b8f\u89c0\u50ac\u5316\u5291\u3002\u79d1\u6280\u80a1\u53ca\u534a\u5c0e\u9ad4\u677f\u584a\u6301\u7e8c\u53d7\u5230\u6a5f\u69cb\u8cc7\u91d1\u9752\u775e\uff0c\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u500b\u80a1\u666e\u904d\u8d70\u5f37\u3002\u6210\u4ea4\u91cf\u504f\u4f4e\u3001\u6ce2\u52d5\u5340\u9593\u6536\u7a84\uff0c\u986f\u793a\u5e02\u5834\u5728\u8fd1\u671f\u5f37\u52e2\u52d5\u80fd\u63a8\u5347\u5f8c\u6b63\u9032\u5165\u6574\u56fa\u968e\u6bb5\uff0c\u800c\u975e\u555f\u52d5\u65b0\u7684\u55ae\u908a\u884c\u60c5\u3002",
+      "summary_en": "U.S. equities edged higher on Friday in a low-volume, range-bound session as investors digested mixed economic data and awaited fresh catalysts heading into the weekend. Technology and enterprise software names continued to lead quietly, supported by resilient earnings outlooks and easing concerns around AI infrastructure spending. The S&P 500 and NASDAQ finished fractionally positive, reflecting a market in a 'wait and see' posture rather than a directional conviction move.",
+      "summary_zh": "\u9031\u4e94\u7f8e\u80a1\u5728\u4f4e\u6210\u4ea4\u91cf\u4e0b\u5c0f\u5e45\u6536\u7d05\uff0c\u5448\u73fe\u5340\u9593\u9707\u76ea\u683c\u5c40\uff0c\u6295\u8cc7\u8005\u6d88\u5316\u6df7\u96dc\u7684\u7d93\u6fdf\u6578\u64da\u4e26\u7b49\u5f85\u65b0\u7684\u5e02\u5834\u50ac\u5316\u5291\u3002\u79d1\u6280\u80a1\u53ca\u4f01\u696d\u8edf\u4ef6\u677f\u584a\u6301\u7e8c\u9818\u6f32\uff0c\u53d7\u60e0\u65bc\u7a69\u5065\u7684\u76c8\u5229\u524d\u666f\u8207AI\u57fa\u790e\u8a2d\u65bd\u652f\u51fa\u7591\u616e\u7684\u7de9\u89e3\u3002\u6a19\u666e500\u6307\u6578\u8207\u7d0d\u6307\u5747\u5fae\u5e45\u6536\u9ad8\uff0c\u53cd\u6620\u51fa\u5e02\u5834\u6574\u9ad4\u8655\u65bc\u300c\u975c\u89c0\u5176\u8b8a\u300d\u7684\u89c0\u671b\u6a21\u5f0f\uff0c\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u52d5\u529b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving, on a scale of 0\u2013100. The ideal buy zone is 55\u201370: the stock is in a confirmed uptrend but not yet 'overbought,' meaning buying energy isn't exhausted. Today's three score-95 candidates \u2014 CLS, NVDA, and ONDS \u2014 all sit in this sweet spot, while most other high-scorers have RSIs above 80, making them riskier entries prone to sharp pullbacks.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u6f32\u8dcc\u7684\u901f\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002\u6700\u7406\u60f3\u7684\u8cb7\u5165\u5340\u9593\u70ba55\u81f370\uff1a\u6b64\u6642\u80a1\u7968\u8655\u65bc\u78ba\u8a8d\u4e0a\u5347\u8da8\u52e2\u4e2d\uff0c\u4f46\u5c1a\u672a\u9054\u5230\u300c\u8d85\u8cb7\u300d\u72c0\u614b\uff0c\u5373\u8cb7\u76e4\u52d5\u80fd\u4ecd\u672a\u8017\u76e1\u3002\u4eca\u65e5\u8a55\u5206\u6700\u9ad8\u7684\u4e09\u652f\u80a1\u7968\u2014\u2014CLS\u3001NVDA\u53caONDS\u2014\u2014\u7684RSI\u5747\u843d\u5728\u9019\u4e00\u9ec3\u91d1\u5340\u9593\uff1b\u76f8\u6bd4\u4e4b\u4e0b\uff0c\u5176\u4ed6\u8a31\u591a\u9ad8\u8a55\u5206\u80a1\u7968\u7684RSI\u5df2\u8d85\u904e80\uff0c\u9032\u5834\u98a8\u96aa\u8f03\u9ad8\uff0c\u4e00\u65e6\u7372\u5229\u4e86\u7d50\u6f6e\u6e67\u73fe\uff0c\u56de\u8abf\u5e45\u5ea6\u5f80\u5f80\u66f4\u70ba\u5287\u70c8\u3002"
+      "term": "RSI Bullish Momentum Zone",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast and how much a stock's price is moving, on a scale from 0 to 100. A reading between 55 and 70 is the 'sweet spot' \u2014 the stock has strong upward momentum but hasn't yet entered overbought territory (above 70), meaning buyers are still in control without the stock being stretched too far. Today's top buys (CRM, HUBS, WT) all sit in this zone, which is why they rank above higher-RSI names like DELL or PLTR that risk a pullback.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6a19\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u79fb\u52d5\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002\u7576RSI\u843d\u572855\u81f370\u7684\u5340\u9593\uff0c\u901a\u5e38\u88ab\u8996\u70ba\u300c\u9ec3\u91d1\u5730\u5e36\u300d\u2014\u2014\u80a1\u7968\u5177\u5099\u5f37\u52c1\u7684\u4e0a\u5347\u52d5\u80fd\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u9593\uff08>70\uff09\uff0c\u610f\u5373\u8cb7\u65b9\u4ecd\u4e3b\u5c0e\u5e02\u5834\uff0c\u4e14\u80a1\u50f9\u672a\u904e\u5ea6\u62c9\u4f38\u3002\u4eca\u65e5\u8cb7\u5165\u6a19\u7684\uff08CRM\u3001HUBS\u3001WT\uff09\u7684RSI\u5747\u5728\u6b64\u5340\u9593\uff0c\u9019\u4e5f\u662f\u5b83\u5011\u512a\u5148\u65bcDELL\u3001PLTR\u7b49RSI\u5df2\u8d85\u904e80\u7684\u500b\u80a1\u7684\u4e3b\u8981\u539f\u56e0\u2014\u2014\u5f8c\u8005\u9762\u81e8\u56de\u8abf\u98a8\u96aa\u66f4\u9ad8\u3002"
     }
   }
 }
