@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-05-29T16:01:31.234071+00:00",
+  "saved_at": "2026-05-29T17:01:16.929385+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
-        "action": "SELL",
-        "ticker": "INFQ",
-        "shares": 49,
-        "reasoning": "INFQ has dropped off the screener entirely, signaling loss of momentum; rotating proceeds into a higher-conviction name with score 95."
+        "action": "BUY",
+        "ticker": "NVDA",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI at 57.4 \u2014 the lowest RSI among top-tier candidates, giving it the most room to run before overbought conditions; all three bullish signals present (MACD crossover, rising histogram, price above SMA-20) make it the cleanest momentum entry in the AI/semiconductor space."
       },
       {
         "action": "BUY",
-        "ticker": "TBBB",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 55.3 places it in the healthy bullish momentum zone \u2014 not overbought \u2014 with MACD bullish crossover and rising histogram; best risk-adjusted entry in today's screener."
+        "ticker": "HPQ",
+        "conviction": "medium",
+        "reasoning": "Score 95 with MACD bullish crossover and price 7.2% above SMA-20; lower share price allows meaningful position sizing within remaining cash and adds tech hardware exposure as a complement to NVDA."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were quiet today with the S&P 500 up 0.3% and NASDAQ up 0.2% \u2014 a broadly neutral session. Cash sits at $320 which is below the $500 threshold for a standalone new buy, so the right move is to rotate: sell INFQ which has disappeared from the screener (momentum gone) and redeploy into TBBB, the only score-95 name with an RSI still in the healthy 55\u201370 zone rather than overbought. This fills one of three open slots without adding risk in a stretched market where most candidates are RSI 70+.",
+    "briefing": "Markets were flat-to-slightly positive today with both NASDAQ and S&P 500 up 0.3%, reflecting a neutral, directionless session with no major catalysts pushing either way. With 4 open slots and over $1,100 in cash, this is a clear deploy opportunity \u2014 sitting on idle cash in a functioning bull market costs us alpha. NVDA is the standout pick: score 95, RSI still in the mid-50s, meaning it hasn't run hot yet unlike most other top candidates sitting above 70 RSI.",
     "market_education": {
-      "summary_en": "U.S. equities edged higher in a low-conviction session, with the S&P 500 gaining 0.3% and the NASDAQ adding 0.2% as investors balanced resilient economic data against lingering uncertainty around Federal Reserve rate-cut timing. Breadth was positive but narrow, with technology and enterprise software names driving most of the gains while defensive sectors lagged. The muted tape reflects a market that has already priced in significant optimism \u2014 evidenced by the large number of individual stocks hitting RSI readings above 80 \u2014 leaving limited room for further upside without fresh catalysts.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u4e0a\u63da\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u53470.3%\uff0c\u7d0d\u65af\u9054\u514b\u4e0a\u6f320.2%\uff0c\u5e02\u5834\u6574\u9ad4\u6c23\u6c1b\u5be9\u614e\u6a02\u89c0\u3002\u79d1\u6280\u80a1\u8207\u4f01\u696d\u8edf\u4ef6\u677f\u584a\u70ba\u4e3b\u8981\u52d5\u529b\uff0c\u60df\u6210\u4ea4\u91cf\u504f\u6de1\uff0c\u986f\u793a\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u5728\u806f\u5132\u5c40\u6e1b\u606f\u6642\u6a5f\u4ecd\u5b58\u8b8a\u6578\u7684\u80cc\u666f\u4e0b\uff0c\u4e0d\u5c11\u500b\u80a1RSI\u5df2\u5347\u81f380\u4ee5\u4e0a\u7684\u8d85\u8cb7\u6c34\u5e73\uff0c\u610f\u5473\u77ed\u671f\u4e0a\u884c\u7a7a\u9593\u53d7\u9650\uff0c\u6295\u8cc7\u8005\u9700\u7559\u610f\u7372\u5229\u56de\u5410\u98a8\u96aa\u3002",
+      "summary_en": "Today's flat +0.3% session across major indices reflected a digestion day following recent tech-driven gains, with investors holding positions rather than aggressively buying or selling. AI infrastructure spending narratives continued to support semiconductor and cloud names quietly in the background, keeping stocks like NVDA and CRM well-bid despite no fresh catalyst. With no major economic data releases or Fed commentary on the calendar, volume was light and price action stayed range-bound \u2014 a typical consolidation pattern after a strong momentum run.",
+      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u4e3b\u8981\u6307\u6578\u5fae\u6f320.3%\uff0c\u5e02\u5834\u6574\u9ad4\u5448\u73fe\u6d88\u5316\u6574\u7406\u683c\u5c40\uff0c\u6295\u8cc7\u4eba\u5728\u7f3a\u4e4f\u65b0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\u975c\u5f85\u65b9\u5411\u3002AI\u57fa\u790e\u5efa\u8a2d\u7684\u8cc7\u672c\u652f\u51fa\u984c\u6750\u6301\u7e8c\u652f\u6490\u534a\u5c0e\u9ad4\u8207\u96f2\u7aef\u76f8\u95dc\u80a1\u7968\uff0c\u4f7fNVDA\u53caCRM\u7b49\u500b\u80a1\u7dad\u6301\u76f8\u5c0d\u5f37\u52e2\u3002\u5728\u7121\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u806f\u5132\u5c40\u5b98\u54e1\u767c\u8a00\u7684\u80cc\u666f\u4e0b\uff0c\u6210\u4ea4\u91cf\u504f\u6de1\uff0c\u80a1\u50f9\u5728\u5340\u9593\u5167\u7a84\u5e45\u9707\u76ea\uff0c\u5c6c\u5f37\u52e2\u4e0a\u6f32\u5f8c\u7684\u5178\u578b\u6280\u8853\u6574\u7406\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Rotation",
-      "explanation_en": "Momentum rotation is the strategy of selling positions that have lost their price momentum and redeploying that capital into stocks showing stronger, fresher momentum signals. The idea is that stocks in motion tend to stay in motion \u2014 so you want your money in names where buyers are actively in control, not ones where the trend has already faded. Today's trade \u2014 out of INFQ (off the screener) and into TBBB (score 95, RSI 55) \u2014 is a textbook example.",
-      "explanation_zh": "\u52d5\u80fd\u8f2a\u52d5\u662f\u6307\u8ce3\u51fa\u5df2\u5931\u53bb\u50f9\u683c\u8da8\u52e2\u7684\u6301\u5009\uff0c\u5c07\u8cc7\u91d1\u8f49\u79fb\u81f3\u52d5\u80fd\u66f4\u5f37\u7684\u80a1\u7968\u3002\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u7576\u8cb7\u76e4\u529b\u91cf\u6301\u7e8c\u63a8\u52d5\u67d0\u96bb\u80a1\u7968\u4e0a\u6f32\uff0c\u5f80\u5f80\u6703\u5438\u5f15\u66f4\u591a\u8cc7\u91d1\u8ddf\u9032\uff0c\u5f62\u6210\u6b63\u5411\u5faa\u74b0\u3002\u4eca\u65e5\u5c07INFQ\u63db\u5165TBBB\u7684\u64cd\u4f5c\uff0c\u6b63\u662f\u52d5\u80fd\u8f2a\u52d5\u7684\u5178\u578b\u61c9\u7528\uff1a\u653e\u68c4\u8a0a\u865f\u6d88\u9000\u7684\u6301\u5009\uff0c\u8ffd\u5165\u6280\u8853\u9762\u6700\u4f73\u3001\u4e14RSI\u4ecd\u8655\u5065\u5eb7\u5340\u9593\u7684\u5019\u9078\u6a19\u7684\u3002"
+      "term": "RSI (Relative Strength Index)",
+      "explanation_en": "RSI measures how fast and how much a stock's price has moved recently, on a scale of 0\u2013100. Readings between 55\u201370 are considered the 'momentum sweet spot' \u2014 the stock is trending up with buyers in control, but hasn't yet moved so far so fast that a pullback is likely. Above 70 is 'overbought,' meaning the run may be overextended; that's why we favored NVDA (RSI 57) over names like HOOD (RSI 92) today.",
+      "explanation_zh": "RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8861\u91cf\u80a1\u50f9\u8fd1\u671f\u6f32\u8dcc\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u300255\u81f370\u7684\u5340\u9593\u88ab\u8996\u70ba\u300c\u52d5\u80fd\u751c\u871c\u5340\u300d\u2014\u2014\u4ee3\u8868\u80a1\u7968\u6b63\u5728\u4e0a\u5347\u8da8\u52e2\u4e2d\uff0c\u8cb7\u65b9\u4e3b\u5c0e\u5e02\u5834\uff0c\u4f46\u5c1a\u672a\u904e\u71b1\u5230\u5bb9\u6613\u56de\u8abf\u7684\u7a0b\u5ea6\u3002\u8d85\u904e70\u5247\u4ee3\u8868\u300c\u8d85\u8cb7\u300d\uff0c\u610f\u5473\u8457\u6f32\u52e2\u53ef\u80fd\u5df2\u904e\u5ea6\u5ef6\u4f38\u3002\u9019\u6b63\u662f\u4eca\u65e5\u9078\u64c7NVDA\uff08RSI 57\uff09\u800c\u975eHOOD\uff08RSI 92\uff09\u7b49\u500b\u80a1\u7684\u6838\u5fc3\u908f\u8f2f\u3002"
     }
   }
 }
