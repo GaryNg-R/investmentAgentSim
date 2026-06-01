@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-06-01T17:01:12.086233+00:00",
+  "saved_at": "2026-06-01T18:01:20.929664+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 62.4 in optimal bullish zone (not overbought), MACD bullish crossover, price above SMA-20 \u2014 AI infrastructure demand keeps this in a strong uptrend without overextension."
+        "reasoning": "Score 95 with ideal RSI 64.6 (bullish zone, not overbought), MACD bullish crossover, and price above SMA-20 \u2014 strongest blue-chip setup in the screener today with AI infrastructure demand as a durable tailwind."
       },
       {
         "action": "BUY",
-        "ticker": "AAOI",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 65.5 in bullish momentum zone, MACD above signal with rising histogram \u2014 optical networking demand driven by AI data center buildout provides strong near-term catalyst."
+        "ticker": "INFQ",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 64.0 in the sweet spot and MACD bullish crossover; low price-per-share allows reasonable position sizing within remaining cash while filling another open slot."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets logged a mild positive day \u2014 NASDAQ +0.4%, S&P 500 +0.2% \u2014 with no strong directional catalyst, typical of a consolidating environment after recent gains. With 4 open slots and $1,208 in cash, I deployed into NVDA and AAOI, the two clearest momentum plays with RSI still in the healthy 55\u201370 zone rather than overbought territory. The rest of the screener's top candidates sit at RSI 75\u201390+, which is too extended to chase in a neutral tape.",
+    "briefing": "Markets posted a quiet positive session \u2014 NASDAQ +0.7% and S&P 500 +0.4% \u2014 with no major catalysts, suggesting broad risk-on continuation. With 4 open slots and $1,207 cash, I deployed into the two score-95 candidates (NVDA and INFQ) that sit in the ideal RSI 55\u201370 momentum zone rather than the overbought crowd RSI 70+. Existing positions remain intact; no stop-loss or profit-target triggers were flagged.",
     "market_education": {
-      "summary_en": "U.S. equities drifted modestly higher on June 1st with the S&P 500 adding 0.2% and the NASDAQ up 0.4%, reflecting a quiet session without major macro catalysts. Tech and AI-adjacent names continued to lead, supported by ongoing expectations that the Fed is done hiking rates and that AI capital expenditure cycles remain intact. The muted breadth and low-conviction moves suggest the market is in a digestion phase after recent strength, with investors watching for fresh data before making directional bets.",
-      "summary_zh": "\u7f8e\u80a1\u516d\u6708\u9996\u500b\u4ea4\u6613\u65e5\u5c0f\u5e45\u6536\u9ad8\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u6f320.2%\uff0c\u7d0d\u65af\u9054\u514b\u4e0a\u63da0.4%\uff0c\u6574\u9ad4\u8d70\u52e2\u6eab\u548c\uff0c\u7f3a\u4e4f\u660e\u78ba\u7684\u5b8f\u89c0\u9a45\u52d5\u529b\u3002\u79d1\u6280\u8207AI\u76f8\u95dc\u677f\u584a\u6301\u7e8c\u9818\u6f32\uff0c\u5e02\u5834\u666e\u904d\u9810\u671f\u806f\u5132\u5c40\u52a0\u606f\u5468\u671f\u5df2\u7d50\u675f\uff0cAI\u8cc7\u672c\u652f\u51fa\u8da8\u52e2\u4f9d\u7136\u7a69\u5065\uff0c\u70ba\u76f8\u95dc\u500b\u80a1\u63d0\u4f9b\u652f\u6490\u3002\u7136\u800c\u5e02\u5834\u5ee3\u5ea6\u504f\u7a84\uff0c\u6210\u4ea4\u52d5\u80fd\u4e0d\u8db3\uff0c\u986f\u793a\u6307\u6578\u5728\u8fd1\u671f\u5f37\u52c1\u5347\u52e2\u5f8c\u9032\u5165\u6574\u56fa\u968e\u6bb5\uff0c\u6295\u8cc7\u8005\u975c\u5f85\u65b0\u4e00\u8f2a\u7d93\u6fdf\u6578\u64da\u51fa\u7210\u518d\u4f5c\u90e8\u7f72\u3002",
+      "summary_en": "U.S. equities drifted modestly higher on June 1, with the NASDAQ outperforming as technology and semiconductor names continued to attract buyers amid optimism over AI infrastructure spending. The S&P 500 also advanced, supported by a broad recovery in risk sentiment following recent trade-policy uncertainty. No major macro catalysts hit the tape, leaving the session's tone largely technical \u2014 momentum names extended gains while laggards saw little rescue buying.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e026\u67081\u65e5\u5c0f\u5e45\u8d70\u9ad8\uff0c\u79d1\u6280\u8207\u534a\u5c0e\u9ad4\u677f\u584a\u6301\u7e8c\u53d7\u5230\u8cc7\u91d1\u8ffd\u6367\uff0c\u5e02\u5834\u5c0dAI\u57fa\u790e\u5efa\u8a2d\u652f\u51fa\u4fdd\u6301\u6a02\u89c0\uff0c\u5e36\u52d5\u90a3\u65af\u9054\u514b\u6307\u6578\u8868\u73fe\u512a\u65bc\u5927\u76e4\u3002\u6a19\u666e500\u6307\u6578\u4ea6\u540c\u6b65\u4e0a\u6f32\uff0c\u8fd1\u671f\u8cbf\u6613\u653f\u7b56\u4e0d\u78ba\u5b9a\u6027\u6d88\u9000\u5f8c\uff0c\u6574\u9ad4\u98a8\u96aa\u60c5\u7dd2\u6709\u6240\u56de\u5347\u3002\u7531\u65bc\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u76e4\u9762\u8d70\u52e2\u4ee5\u6280\u8853\u9762\u4e3b\u5c0e\u2014\u2014\u5f37\u52e2\u80a1\u5ef6\u7e8c\u5347\u5e45\uff0c\u5f31\u52e2\u80a1\u5247\u9bae\u6709\u53cd\u5f48\u8de1\u8c61\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast and how much a stock's price has moved recently, on a scale of 0\u2013100. An RSI between 55 and 70 is considered the 'bullish momentum zone' \u2014 the stock is trending upward with room to run before becoming overbought. Stocks with RSI above 70 (especially 80\u201390+) are considered overbought, meaning buyers may be exhausted and a pullback is more likely.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u8fd1\u671f\u5347\u8dcc\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002RSI\u843d\u572855\u81f370\u7684\u5340\u9593\u88ab\u8996\u70ba\u300c\u725b\u5e02\u52d5\u80fd\u5340\u300d\uff0c\u4ee3\u8868\u80a1\u50f9\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u4e14\u5c1a\u672a\u8d85\u8cb7\uff0c\u4ecd\u6709\u4e0a\u884c\u7a7a\u9593\u3002\u4e00\u65e6RSI\u7a81\u783470\uff0c\u5c24\u5176\u9054\u523080\u81f390\u4ee5\u4e0a\uff0c\u5247\u9032\u5165\u8d85\u8cb7\u5340\u57df\uff0c\u610f\u5473\u8457\u8cb7\u76e4\u52d5\u80fd\u53ef\u80fd\u8da8\u65bc\u98fd\u548c\uff0c\u80a1\u50f9\u56de\u8abf\u7684\u98a8\u96aa\u96a8\u4e4b\u4e0a\u5347\u3002"
+      "term": "RSI Overbought vs. Momentum Zone",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast and how much a stock has moved recently, on a scale of 0\u2013100. A reading between 55\u201370 is considered the 'momentum zone' \u2014 the stock is trending up with room to run. Above 70 signals 'overbought,' meaning the move may be overextended and a pullback is more likely. Today's buy decisions favored NVDA (RSI 64.6) and INFQ (RSI 64.0) over higher-scoring-but-overbought names like TWLO (RSI 88) for exactly this reason.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u7968\u8fd1\u671f\u6f32\u8dcc\u7684\u901f\u5ea6\u8207\u5e45\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002RSI\u572855\u81f370\u4e4b\u9593\u70ba\u300c\u52d5\u80fd\u5340\u9593\u300d\uff0c\u4ee3\u8868\u80a1\u7968\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u4e14\u4ecd\u6709\u4e0a\u5347\u7a7a\u9593\u3002\u4e00\u65e6\u8d85\u904e70\u5247\u9032\u5165\u300c\u8d85\u8cb7\u300d\u5340\u57df\uff0c\u610f\u5473\u8457\u6f32\u5e45\u53ef\u80fd\u904e\u5ea6\u5ef6\u4f38\uff0c\u56de\u8abf\u98a8\u96aa\u4e0a\u5347\u3002\u4eca\u65e5\u8cb7\u5165\u6c7a\u7b56\u9078\u64c7NVDA\uff08RSI 64.6\uff09\u8207INFQ\uff08RSI 64.0\uff09\uff0c\u800c\u975eRSI\u9ad8\u905488\u7684TWLO\u7b49\u8d85\u8cb7\u500b\u80a1\uff0c\u6b63\u662f\u57fa\u65bc\u6b64\u908f\u8f2f\u3002"
     }
   }
 }
