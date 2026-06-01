@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-05-29T21:01:09.345538+00:00",
+  "saved_at": "2026-06-01T13:01:15.987426+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,32 @@
         "action": "BUY",
         "ticker": "TBBB",
         "conviction": "high",
-        "reasoning": "Top screener score (100) with RSI in the ideal bullish momentum zone at 66.6 \u2014 not overbought \u2014 plus MACD bullish crossover, rising histogram, and a volume surge, making it the strongest risk/reward setup available today."
+        "reasoning": "Top-ranked score 100 with RSI 66.6 in the optimal bullish momentum zone (not overbought), MACD bullish crossover, rising histogram, and volume surge \u2014 cleanest setup on the board."
       },
       {
         "action": "BUY",
         "ticker": "NTAP",
+        "conviction": "high",
+        "reasoning": "Score 95, RSI 68.5 still in bullish zone, MACD crossover, price 12% above SMA-20 with volume surge \u2014 strong institutional interest in enterprise storage tech."
+      },
+      {
+        "action": "BUY",
+        "ticker": "LPL",
         "conviction": "medium",
-        "reasoning": "Second-highest score (95) with RSI at 68.5 still in the bullish zone before overbought territory, confirmed by MACD crossover and a volume surge well above the 20-day average, suggesting institutional accumulation."
+        "reasoning": "Score 95, RSI 67.2 in bullish zone, MACD crossover and volume surge confirm momentum, though the sub-$6 price warrants smaller position sizing."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted slightly positive today with both the S&P 500 and NASDAQ up 0.2%, a quiet session with no strong directional conviction. With four open slots and over $1,100 in cash, the rules strongly favor deployment \u2014 I'm putting it to work in the two highest-scoring candidates that aren't already overbought. TBBB and NTAP both sit in the RSI sweet spot (55\u201370) where momentum is confirmed but mean-reversion risk is lower than the many RSI 80+ names on the list.",
+    "briefing": "Markets are flat today with both NASDAQ and S&P 500 up only 0.2%, signaling a consolidation day after recent strength. Most screener candidates are deeply overbought (RSI 75\u201390+), which creates mean-reversion risk, so I focused the three buys on the rare names still in the optimal RSI 55\u201370 momentum zone. Deploying most of the idle cash into TBBB, NTAP, and LPL fills three of four open slots with the highest-quality setups available.",
     "market_education": {
-      "summary_en": "U.S. equities traded in a narrow range today as investors digested recent economic data with no major catalysts to drive direction. The technology sector showed modest resilience, with cloud and enterprise software names continuing their recent recovery. Traders appeared cautious ahead of upcoming macro releases, keeping volume subdued and leaving indices roughly flat on the session.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u6a6b\u884c\uff0c\u6295\u8cc7\u8005\u6d88\u5316\u8fd1\u671f\u7d93\u6fdf\u6578\u64da\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u3002\u79d1\u6280\u677f\u584a\u8868\u73fe\u76f8\u5c0d\u7a69\u5065\uff0c\u96f2\u7aef\u53ca\u4f01\u696d\u8edf\u4ef6\u80a1\u5ef6\u7e8c\u8fd1\u671f\u53cd\u5f48\u8d70\u52e2\u3002\u4ea4\u6613\u54e1\u666e\u904d\u6301\u8b39\u614e\u614b\u5ea6\uff0c\u975c\u5f85\u5373\u5c07\u516c\u5e03\u7684\u5b8f\u89c0\u6578\u64da\uff0c\u5168\u65e5\u6210\u4ea4\u6e05\u6de1\uff0c\u4e3b\u8981\u6307\u6578\u6536\u76e4\u57fa\u672c\u6301\u5e73\u3002",
+      "summary_en": "U.S. equities moved sideways on June 1st, with both the S&P 500 and NASDAQ gaining a modest 0.2%, reflecting a market in 'wait-and-see' mode as investors digest recent strong earnings season results and look ahead to upcoming economic data. Breadth was narrow, with technology and enterprise software leading slight gains while energy and consumer staples lagged. The lack of a clear catalyst kept institutional buyers on the sidelines, resulting in below-average volume across major indices.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e026\u67081\u65e5\u6a6b\u5411\u6574\u7406\uff0c\u6a19\u666e500\u6307\u6578\u8207\u90a3\u65af\u9054\u514b\u6307\u6578\u5747\u5fae\u53470.2%\uff0c\u53cd\u6620\u6295\u8cc7\u4eba\u5728\u6d88\u5316\u8fd1\u671f\u5f37\u52c1\u8ca1\u5831\u5b63\u5f8c\u9032\u5165\u89c0\u671b\u72c0\u614b\uff0c\u975c\u5f85\u4e0b\u4e00\u6279\u7d93\u6fdf\u6578\u64da\u51fa\u7210\u3002\u5e02\u5834\u5ee3\u5ea6\u504f\u7a84\uff0c\u79d1\u6280\u80a1\u53ca\u4f01\u696d\u8edf\u4ef6\u677f\u584a\u5c0f\u5e45\u9818\u6f32\uff0c\u80fd\u6e90\u8207\u6d88\u8cbb\u5fc5\u9700\u54c1\u5247\u76f8\u5c0d\u843d\u5f8c\u3002\u7531\u65bc\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\uff0c\u6a5f\u69cb\u8cb7\u76e4\u8da8\u65bc\u4fdd\u5b88\uff0c\u4e3b\u8981\u6307\u6578\u6210\u4ea4\u91cf\u4f4e\u65bc\u5747\u503c\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock is moving relative to its recent history, on a scale of 0\u2013100. An RSI above 70 signals a stock may be overbought and due for a pullback, while the 55\u201370 range is often called the 'bullish momentum zone' \u2014 strong enough to confirm an uptrend, but not stretched enough to invite sellers. Today's top picks (TBBB at RSI 66.6, NTAP at RSI 68.5) were chosen precisely because they sit in this sweet spot.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u7968\u76f8\u5c0d\u65bc\u8fd1\u671f\u8d70\u52e2\u7684\u4e0a\u6f32\u6216\u4e0b\u8dcc\u901f\u5ea6\uff0c\u6578\u503c\u4ecb\u65bc0\u81f3100\u4e4b\u9593\u3002RSI\u9ad8\u65bc70\u901a\u5e38\u610f\u5473\u8457\u80a1\u7968\u53ef\u80fd\u8d85\u8cb7\u3001\u9762\u81e8\u56de\u8abf\u98a8\u96aa\uff1b\u800c55\u81f370\u7684\u5340\u9593\u5247\u5e38\u88ab\u7a31\u70ba\u300c\u725b\u5e02\u52d5\u80fd\u5340\u300d\u2014\u2014\u8da8\u52e2\u5f37\u52c1\u8db3\u4ee5\u78ba\u8a8d\u4e0a\u5347\u8ecc\u9053\uff0c\u4f46\u53c8\u672a\u904e\u5ea6\u62c9\u4f38\u81f3\u5f15\u767c\u7372\u5229\u56de\u5410\u7684\u6c34\u5e73\u3002\u4eca\u65e5\u8cb7\u5165\u7684TBBB\uff08RSI 66.6\uff09\u53caNTAP\uff08RSI 68.5\uff09\u6b63\u662f\u56e0\u843d\u5728\u9019\u4e00\u7406\u60f3\u5340\u9593\u800c\u7372\u9078\u3002"
+      "term": "Overbought Conditions (RSI > 70)",
+      "explanation_en": "When a stock's Relative Strength Index (RSI) climbs above 70, it signals the stock has risen very quickly in a short time and may be 'overbought' \u2014 meaning buyers may be exhausted and a pullback becomes more likely. Today's screener was dominated by stocks with RSI readings of 75\u201390+, which is why the portfolio avoided them and targeted the few names still in the healthier 55\u201370 momentum zone where upside tends to be more sustainable.",
+      "explanation_zh": "\u7576\u4e00\u652f\u80a1\u7968\u7684\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u5347\u783470\uff0c\u4ee3\u8868\u80a1\u50f9\u5728\u77ed\u6642\u9593\u5167\u6f32\u5e45\u904e\u6025\uff0c\u53ef\u80fd\u51fa\u73fe\u300c\u8d85\u8cb7\u300d\u72c0\u614b\u2014\u2014\u5373\u8cb7\u65b9\u52d5\u80fd\u8da8\u65bc\u67af\u7aed\uff0c\u56de\u8abf\u98a8\u96aa\u96a8\u4e4b\u4e0a\u5347\u3002\u4eca\u65e5\u9078\u80a1\u6e05\u55ae\u4e2d\uff0c\u5927\u591a\u6578\u500b\u80a1\u7684RSI\u4ecb\u65bc75\u81f390\u4e4b\u9593\uff0c\u56e0\u6b64\u672c\u6b21\u64cd\u4f5c\u523b\u610f\u8ff4\u907f\u9019\u4e9b\u8d85\u8cb7\u80a1\uff0c\u8f49\u800c\u805a\u7126\u65bcRSI\u4ecd\u8655\u65bc55\u81f370\u5065\u5eb7\u52d5\u80fd\u5340\u9593\u7684\u5c11\u6578\u6a19\u7684\uff0c\u6b64\u5340\u9593\u7684\u4e0a\u5347\u8da8\u52e2\u901a\u5e38\u66f4\u5177\u6301\u7e8c\u6027\u3002"
     }
   }
 }
