@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-06-01T20:01:31.500251+00:00",
+  "saved_at": "2026-06-01T21:01:38.407641+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,32 @@
         "action": "BUY",
         "ticker": "HCC",
         "conviction": "high",
-        "reasoning": "Top screener score of 95 with RSI at 69.7 \u2014 bullish momentum zone without being overbought \u2014 plus a confirmed MACD bullish crossover and price 4.7% above SMA-20, making it the best risk/reward entry today."
+        "reasoning": "Top screener score (100) with every signal firing \u2014 MACD crossover, rising histogram, RSI at 69.8 in the ideal bullish zone, price well above SMA-20, and a volume surge confirming institutional interest."
       },
       {
         "action": "BUY",
         "ticker": "NVDA",
+        "conviction": "high",
+        "reasoning": "Quality large-cap AI/semiconductor leader with clean MACD crossover, RSI 65.1 comfortably in the bullish zone, and price above SMA-20 \u2014 best risk-adjusted momentum pick in the high-score tier."
+      },
+      {
+        "action": "BUY",
+        "ticker": "AAOI",
         "conviction": "medium",
-        "reasoning": "Score 90 large-cap quality with RSI 65.1 leaving meaningful room before overbought, MACD bullish, and structural AI chip demand provides a fundamental floor beneath the technical setup."
+        "reasoning": "Score-90 optical interconnect play with RSI 61.9 in the mid-bullish zone and MACD crossover; avoids the overbought crowding in the 80+ RSI names while still showing clear upward momentum."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets posted quiet gains in a neutral session \u2014 NASDAQ +0.4%, S&P 500 +0.3% \u2014 with no major dislocations. Deploying remaining cash into HCC (highest momentum score on the screener) and NVDA (quality large-cap with room to run) to fill two of four open slots. Existing six positions show no stop-loss or profit-target triggers, so they hold.",
+    "briefing": "Markets were calm and slightly positive today \u2014 NASDAQ +0.4%, S&P500 +0.3% \u2014 a neutral tape with no major shock to risk appetite. With 4 open slots and $1,200 in cash sitting idle, I deployed into the screener's top setups: HCC (perfect score, all signals green including volume surge), NVDA (high-quality large-cap momentum), and AAOI (mid-RSI bullish zone, avoiding the overbought cluster). One slot remains open as a buffer for upcoming opportunities or volatility.",
     "market_education": {
-      "summary_en": "U.S. equities edged higher on June 1, 2026, with the S&P 500 up 0.3% and the NASDAQ gaining 0.4% in a low-volatility session lacking major catalysts. Investor sentiment remained cautiously constructive as AI-driven tech demand continued to support growth names, while broader macro concerns around U.S. fiscal deficits and elevated Treasury yields kept gains in check. The session reflected a market in consolidation mode \u2014 digesting recent momentum rather than breaking out in either direction.",
-      "summary_zh": "2026\u5e746\u67081\u65e5\uff0c\u7f8e\u570b\u80a1\u5e02\u5c0f\u5e45\u6536\u9ad8\uff0c\u6a19\u666e500\u6307\u6578\u6f320.3%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u6f320.4%\uff0c\u6574\u9ad4\u6210\u4ea4\u6e05\u6de1\uff0c\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u5e02\u5834\u60c5\u7dd2\u5be9\u614e\u6a02\u89c0\uff0c\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u9700\u6c42\u6301\u7e8c\u70ba\u79d1\u6280\u6210\u9577\u80a1\u63d0\u4f9b\u652f\u6490\uff0c\u4f46\u7f8e\u570b\u8ca1\u653f\u8d64\u5b57\u554f\u984c\u53ca\u516c\u50b5\u6b96\u5229\u7387\u9ad8\u4f01\u4ee4\u5347\u5e45\u53d7\u9650\u3002\u6574\u9ad4\u5448\u73fe\u6574\u56fa\u683c\u5c40\uff0c\u6295\u8cc7\u8005\u6d88\u5316\u8fd1\u671f\u6f32\u5e45\uff0c\u89c0\u671b\u4e0b\u4e00\u500b\u65b9\u5411\u6027\u7a81\u7834\u3002",
+      "summary_en": "U.S. equities edged higher on Monday in a quiet, low-volatility session, with the S&P 500 up 0.3% and NASDAQ gaining 0.4% as investors engaged in selective buying across technology and growth sectors without a single dominant catalyst. Positive market breadth signaled underlying demand for equities, even as uncertainty around Federal Reserve rate trajectory and lingering trade policy questions kept major indices from breaking out to new highs. The muted but constructive tone suggests participants are cautiously optimistic heading into the summer, waiting for clearer macro signals before committing to larger positions.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e00\u5728\u5e73\u975c\u7684\u4f4e\u6ce2\u52d5\u74b0\u5883\u4e0b\u5c0f\u5e45\u8d70\u9ad8\uff0c\u6a19\u666e500\u4e0a\u6f320.3%\uff0c\u7d0d\u65af\u9054\u514b\u4e0a\u6f320.4%\uff0c\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u53d7\u5230\u9078\u64c7\u6027\u8cb7\u76e4\u652f\u6490\uff0c\u4f46\u7f3a\u4e4f\u55ae\u4e00\u660e\u78ba\u7684\u50ac\u5316\u5291\u3002\u5e02\u5834\u5ee3\u5ea6\u504f\u6b63\u9762\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5c0d\u80a1\u5e02\u4ecd\u4fdd\u6709\u57fa\u672c\u9700\u6c42\uff0c\u4f46\u806f\u6e96\u6703\u5229\u7387\u8d70\u5411\u7684\u4e0d\u78ba\u5b9a\u6027\u53ca\u8cbf\u6613\u653f\u7b56\u8b70\u984c\u6301\u7e8c\u58d3\u6291\u6307\u6578\u7a81\u7834\u9ad8\u9ede\u7684\u52d5\u80fd\u3002\u6574\u9ad4\u6c23\u6c1b\u5be9\u614e\u6a02\u89c0\uff0c\u5e02\u5834\u53c3\u8207\u8005\u50be\u5411\u975c\u5f85\u66f4\u6e05\u6670\u7684\u5b8f\u89c0\u8a0a\u865f\uff0c\u518d\u6c7a\u5b9a\u662f\u5426\u52a0\u5927\u90e8\u4f4d\u898f\u6a21\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is the strategy of buying stocks showing strong recent price and technical strength on the premise that near-term winners tend to keep winning. Indicators like RSI (ideally 55\u201370), a bullish MACD crossover, and price trading above its moving average together confirm that buying pressure is sustained \u2014 not exhausted. The key risk is chasing an overextended move, which is why today's top pick HCC at RSI 69.7 is preferable to overbought names like GWRE at RSI 87.6.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\uff0c\u5373\u8cb7\u5165\u8fd1\u671f\u6280\u8853\u9762\u5f37\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u77ed\u671f\u6f32\u52e2\u5ef6\u7e8c\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u3001MACD\u51fa\u73fe\u770b\u6f32\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda\uff0c\u4e09\u8005\u5171\u540c\u78ba\u8a8d\u8cb7\u76e4\u6301\u7e8c\u800c\u975e\u8870\u7aed\u3002\u6b64\u7b56\u7565\u6700\u5927\u7684\u98a8\u96aa\u5728\u65bc\u8ffd\u9ad8\u8cb7\u5165\u904e\u5ea6\u8d85\u8cb7\u7684\u6a19\u7684\uff0c\u9019\u4e5f\u662f\u70ba\u4f55\u4eca\u65e5\u9996\u9078RSI\u50c569.7\u7684HCC\uff0c\u800c\u975eRSI\u5df2\u905487.6\u7684GWRE\u2014\u2014\u524d\u8005\u4ecd\u6709\u4e0a\u6f32\u7a7a\u9593\uff0c\u5f8c\u8005\u56de\u8abf\u98a8\u96aa\u660e\u986f\u504f\u9ad8\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already rising and showing strong technical confirmation \u2014 like an RSI between 55\u201370 (healthy uptrend, not yet overbought), a MACD crossover, and a price above key moving averages. The logic is that trends in motion tend to persist, and entering while momentum is building \u2014 not after it has peaked \u2014 improves the odds. Today's top picks (HCC, NVDA, AAOI) were chosen precisely because their RSIs are in the bullish-but-not-overbought sweet spot, avoiding the risk of buying exhausted moves.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u5c08\u6ce8\u65bc\u9078\u53d6\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u4e14\u6280\u8853\u6307\u6a19\u6301\u7e8c\u5f37\u52c1\u7684\u80a1\u7968\u2014\u2014\u4f8b\u5982RSI\u4f4d\u65bc55\u81f370\u7684\u5065\u5eb7\u5340\u9593\uff08\u5c1a\u672a\u8d85\u8cb7\uff09\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff0c\u4ee5\u53ca\u80a1\u50f9\u7ad9\u7a69\u65bc\u95dc\u9375\u79fb\u52d5\u5e73\u5747\u7dda\u4e4b\u4e0a\u3002\u5176\u6838\u5fc3\u908f\u8f2f\u662f\uff1a\u5df2\u5f62\u6210\u7684\u8da8\u52e2\u50be\u5411\u65bc\u5ef6\u7e8c\uff0c\u5728\u52d5\u80fd\u525b\u5efa\u7acb\u6642\u9032\u5834\uff08\u800c\u975e\u9802\u90e8\u8ffd\u9ad8\uff09\u80fd\u986f\u8457\u63d0\u5347\u52dd\u7387\u3002\u4eca\u65e5\u9996\u9078\u7684HCC\u3001NVDA\u53caAAOI\uff0c\u5747\u56e0RSI\u843d\u572855\u81f370\u7684\u751c\u871c\u5340\u9593\u800c\u5165\u9078\uff0c\u523b\u610f\u8ff4\u907fRSI\u5df2\u8d85\u904e80\u7684\u904e\u71b1\u6a19\u7684\uff0c\u4ee5\u63a7\u5236\u8ffd\u9ad8\u98a8\u96aa\u3002"
     }
   }
 }
