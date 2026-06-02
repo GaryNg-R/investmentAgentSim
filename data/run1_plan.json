@@ -1,38 +1,26 @@
 {
-  "saved_at": "2026-06-02T20:01:34.700285+00:00",
+  "saved_at": "2026-06-02T21:01:06.607214+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "CAMT",
+        "ticker": "SIMO",
         "conviction": "high",
-        "reasoning": "Score 95 with a volume surge confirming institutional accumulation, RSI at 67.2 in the bullish zone, and all technical signals aligned \u2014 semiconductor equipment is a direct beneficiary of the ongoing AI capex buildout."
-      },
-      {
-        "action": "BUY",
-        "ticker": "ENPH",
-        "conviction": "high",
-        "reasoning": "Score 95 with MACD histogram rising (accelerating momentum), clean price break above SMA-20, and solar energy showing renewed sector rotation interest."
-      },
-      {
-        "action": "BUY",
-        "ticker": "RGTI",
-        "conviction": "medium",
-        "reasoning": "Score 95 with bullish MACD crossover and rising histogram; low per-share price allows meaningful position sizing while the quantum computing theme adds diversification away from semis."
+        "reasoning": "Top screener score of 100 with RSI 66.2 in the clean bullish momentum zone, MACD bullish crossover, histogram rising, price above SMA-20, and a volume surge \u2014 all signals aligned without being overbought."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today \u2014 a quiet consolidation session after recent gains. With 4 open slots and ~$1,200 in cash sitting idle, this is precisely the moment to deploy into the strongest setups rather than hold cash doing nothing. I'm opening three new positions: CAMT for semiconductor equipment momentum backed by a volume surge, ENPH for accelerating solar energy technicals, and RGTI as a speculative-but-signaled quantum computing diversifier. This brings us to 9 of 10 allowed positions with minimal cash drag.",
+    "briefing": "Markets were essentially flat today (NASDAQ unchanged, S&P +0.1%), offering a neutral backdrop with no clear directional pressure. With 4 open slots and $1,208 in cash, holding idle is inefficient \u2014 SIMO stands out as the strongest conviction pick with a perfect screener score and no overbought concerns. Deploying remaining cash into SIMO to reduce drag while maintaining one slot buffer for opportunistic entries.",
     "market_education": {
-      "summary_en": "Markets barely moved on June 2, 2026, with the NASDAQ flat and the S&P 500 up just 0.1%, reflecting a classic consolidation session after an extended rally. These low-volume sideways days typically occur when institutional investors are neither aggressively adding risk nor reducing it \u2014 they're waiting for the next macro catalyst such as a Fed policy update or jobs data. For individual momentum stocks, flat tape days are often constructive because they allow overbought conditions to reset while uptrends remain intact.",
-      "summary_zh": "2026\u5e746\u67082\u65e5\uff0c\u7f8e\u80a1\u5e7e\u4e4e\u539f\u5730\u8e0f\u6b65\uff0c\u90a3\u65af\u9054\u514b\u6301\u5e73\uff0c\u6a19\u666e500\u50c5\u5fae\u6f320.1%\uff0c\u5448\u73fe\u5178\u578b\u7684\u5f37\u52e2\u6574\u7406\u683c\u5c40\u3002\u9019\u985e\u4f4e\u6210\u4ea4\u91cf\u6a6b\u76e4\u884c\u60c5\u901a\u5e38\u51fa\u73fe\u5728\u6301\u7e8c\u5347\u52e2\u5f8c\uff0c\u53cd\u6620\u6a5f\u69cb\u6295\u8cc7\u8005\u6b63\u975c\u5f85\u806f\u5132\u5c40\u653f\u7b56\u52d5\u5411\u6216\u5c31\u696d\u6578\u64da\u7b49\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u65e2\u7121\u610f\u5927\u8209\u52a0\u5009\uff0c\u4ea6\u7121\u9700\u6025\u65bc\u7372\u5229\u56de\u5410\u3002\u5c0d\u65bc\u500b\u5225\u52d5\u80fd\u5f37\u52c1\u7684\u500b\u80a1\u800c\u8a00\uff0c\u5927\u76e4\u6a6b\u76e4\u6574\u7406\u5f80\u5f80\u662f\u6b63\u9762\u4fe1\u865f\u2014\u2014\u65e2\u6709\u52a9\u8d85\u8cb7\u58d3\u529b\u91cb\u653e\uff0c\u53c8\u4e0d\u7834\u58de\u65e2\u6709\u4e0a\u5347\u8da8\u52e2\u3002",
+      "summary_en": "Markets traded sideways on June 2nd as investors digested mixed economic signals and awaited upcoming jobs data. With no major catalysts, trading was subdued and risk appetite remained cautious \u2014 typical 'wait-and-see' behavior heading into a key economic report. Tech names showed relative resilience while broader indices hovered near unchanged, reflecting a market consolidating recent gains rather than committing to a new direction.",
+      "summary_zh": "\u516d\u6708\u4e8c\u65e5\u7f8e\u80a1\u6574\u9ad4\u6a6b\u76e4\u6574\u7406\uff0c\u6295\u8cc7\u8005\u6d88\u5316\u6df7\u96dc\u7684\u7d93\u6fdf\u8a0a\u865f\uff0c\u4e26\u975c\u5f85\u5373\u5c07\u516c\u5e03\u7684\u5c31\u696d\u6578\u64da\u3002\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u5e02\u5834\u4ea4\u6295\u6de1\u975c\uff0c\u98a8\u96aa\u504f\u597d\u7dad\u6301\u8b39\u614e\uff0c\u5448\u73fe\u5178\u578b\u7684\u300c\u89c0\u671b\u300d\u614b\u52e2\u3002\u79d1\u6280\u80a1\u8868\u73fe\u76f8\u5c0d\u7a69\u5065\uff0c\u5927\u76e4\u6307\u6578\u6536\u76e4\u5e7e\u8fd1\u6301\u5e73\uff0c\u53cd\u6620\u5e02\u5834\u5728\u978f\u56fa\u8fd1\u671f\u5347\u5e45\u5f8c\u66ab\u6642\u6309\u5175\u4e0d\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, betting that the trend continues. The idea is that strong price action attracts more buyers, which sustains the move. Indicators like a rising MACD histogram and RSI in the 55\u201370 zone are classic signs of healthy, sustainable momentum \u2014 as opposed to an RSI above 70, which signals the move may be overextended.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u8da8\u52e2\u6301\u7e8c\u3002\u5f37\u52c1\u7684\u50f9\u683c\u8d70\u52e2\u672c\u8eab\u6703\u5438\u5f15\u66f4\u591a\u8cb7\u76e4\u8ddf\u9032\uff0c\u5f9e\u800c\u5f62\u6210\u6b63\u5411\u5faa\u74b0\u3002MACD\u67f1\u72c0\u5716\u6301\u7e8c\u8d70\u9ad8\u3001RSI\u4f4d\u65bc55\u81f370\u5340\u9593\uff0c\u662f\u5065\u5eb7\u4e14\u53ef\u6301\u7e8c\u52d5\u80fd\u7684\u5178\u578b\u7279\u5fb5\uff1b\u4e00\u65e6RSI\u7a81\u783470\u9032\u5165\u8d85\u8cb7\u5340\uff0c\u5247\u610f\u5473\u8457\u77ed\u671f\u5347\u5e45\u53ef\u80fd\u5df2\u904e\u5ea6\u5ef6\u4f38\uff0c\u9700\u63d0\u9ad8\u8b66\u60d5\u3002"
+      "explanation_en": "Momentum investing is a strategy that buys stocks trending upward (strong recent price and volume performance) and avoids or sells stocks trending downward. The idea is that stocks moving up tend to keep moving up in the short term due to continued buying interest. Today's SIMO buy exemplifies this \u2014 a score of 100 means price, volume, RSI, and MACD all confirm upward momentum.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u6f32\u7b56\u7565\uff0c\u5c08\u9580\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u548c\u6210\u4ea4\u91cf\u8868\u73fe\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u540c\u6642\u8ff4\u907f\u6216\u8ce3\u51fa\u4e0b\u884c\u8da8\u52e2\u7684\u6a19\u7684\u3002\u5176\u80cc\u5f8c\u908f\u8f2f\u662f\uff1a\u77ed\u671f\u5167\u4e0a\u6f32\u7684\u80a1\u7968\u5f80\u5f80\u56e0\u6301\u7e8c\u7684\u8cb7\u76e4\u652f\u6490\u800c\u5ef6\u7e8c\u5347\u52e2\u3002\u4eca\u65e5\u8cb7\u5165SIMO\u6b63\u662f\u9019\u500b\u7b56\u7565\u7684\u9ad4\u73fe\u2014\u2014\u6eff\u5206100\u5206\u4ee3\u8868\u50f9\u683c\u3001\u6210\u4ea4\u91cf\u3001RSI\u8207MACD\u5168\u9762\u78ba\u8a8d\u4e0a\u884c\u52d5\u80fd\u3002"
     }
   }
 }
