@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-06-02T18:01:12.303512+00:00",
+  "saved_at": "2026-06-02T19:01:28.739165+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "GLW",
+        "ticker": "ENPH",
         "conviction": "high",
-        "reasoning": "Score 95, RSI 68.9 in ideal bullish zone, strong MACD crossover with rising histogram, and price 9.7% above SMA-20 \u2014 fiber optics demand from AI infrastructure buildout gives fundamental backing to the technical breakout."
+        "reasoning": "Score 95 with RSI 64.6 in ideal bullish zone, MACD bullish crossover with rising histogram \u2014 clean energy recovery play with strong technical structure and meaningful distance above SMA-20."
+      },
+      {
+        "action": "BUY",
+        "ticker": "ASTS",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI only 55.5 \u2014 lowest RSI among all top-95 candidates meaning most room to run before overbought, MACD bullish crossover, satellite broadband is a secular growth theme."
       },
       {
         "action": "BUY",
         "ticker": "CHRN",
-        "conviction": "high",
-        "reasoning": "Score 95, RSI 61.6 with the most room to run before overbought territory, clean MACD crossover with rising histogram, and affordable share price makes position sizing flexible given remaining cash."
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 61.7, MACD histogram rising, and price 6.7% above SMA-20 \u2014 solid momentum entry at an affordable share price to efficiently deploy remaining cash."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today \u2014 NASDAQ unchanged, S&P 500 up a bare +0.1% \u2014 signaling a neutral, consolidation-type session with no major catalysts. With 4 open slots and ~$1,207 in cash, I'm deploying into two score-95 names: GLW for its AI-driven fiber optics tailwind and CHRN for the cleanest momentum setup with RSI still having runway before overbought. This brings us to 8 positions, keeping 2 slots in reserve and a small cash cushion for opportunistic entries.",
+    "briefing": "Markets are essentially flat today with S&P 500 +0.1% and NASDAQ -0.1%, signaling consolidation rather than trend continuation. With 4 open slots and $1,208 cash sitting idle, I'm deploying into the three cleanest score-95 setups: ENPH for clean energy recovery momentum, ASTS for its low RSI headroom among top candidates, and CHRN to efficiently use remaining cash. No current positions are triggering sell signals, so the existing book stays intact.",
     "market_education": {
-      "summary_en": "Markets held steady on June 2, 2026, with the S&P 500 edging up just 0.1% and the NASDAQ essentially flat, reflecting a wait-and-see posture among investors ahead of upcoming economic data. The session's muted action suggests traders are digesting recent gains rather than committing fresh capital in either direction. Sector rotation continued beneath the surface, with technology and infrastructure names showing resilience while broader indices marked time.",
-      "summary_zh": "2026\u5e746\u67082\u65e5\uff0c\u7f8e\u80a1\u5e02\u5834\u5448\u73fe\u81a0\u8457\u683c\u5c40\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u6f320.1%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5e7e\u4e4e\u6301\u5e73\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u524d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002\u5e02\u5834\u7684\u5e73\u975c\u8d70\u52e2\u986f\u793a\uff0c\u4ea4\u6613\u8005\u6b63\u5728\u6d88\u5316\u8fd1\u671f\u6f32\u5e45\uff0c\u672a\u6709\u7a4d\u6975\u90e8\u7f72\u65b0\u8cc7\u91d1\u3002\u76e4\u9762\u4e0b\u65b9\u6301\u7e8c\u51fa\u73fe\u677f\u584a\u8f2a\u52d5\uff0c\u79d1\u6280\u53ca\u57fa\u790e\u8a2d\u65bd\u76f8\u95dc\u80a1\u4efd\u8868\u73fe\u5177\u97cc\u6027\uff0c\u4e3b\u8981\u6307\u6578\u5247\u7dad\u6301\u6a6b\u5411\u6574\u56fa\u3002",
+      "summary_en": "U.S. equities were virtually unchanged Tuesday as the S&P 500 gained 0.1% while the NASDAQ slipped 0.1%, reflecting a market in a holding pattern after recent gains. Investors appear to be waiting for fresh catalysts \u2014 whether macro data or Fed commentary \u2014 before committing directionally. The flat tape suggests neither bulls nor bears have conviction at current levels, consistent with a consolidation phase.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e8c\u5e7e\u4e4e\u6301\u5e73\uff0c\u6a19\u666e500\u5fae\u53470.1%\uff0c\u7d0d\u65af\u9054\u514b\u5c0f\u8dcc0.1%\uff0c\u986f\u793a\u5e02\u5834\u5728\u8fd1\u671f\u6f32\u52e2\u5f8c\u9032\u5165\u6574\u56fa\u968e\u6bb5\u3002\u6295\u8cc7\u8005\u4f3c\u4e4e\u6b63\u5728\u7b49\u5f85\u65b0\u7684\u50ac\u5316\u5291\u2014\u2014\u7121\u8ad6\u662f\u5b8f\u89c0\u6578\u64da\u9084\u662f\u806f\u5132\u5c40\u8a00\u8ad6\u2014\u2014\u624d\u9858\u610f\u660e\u78ba\u8868\u614b\u3002\u76e4\u9762\u81a0\u8457\u53cd\u6620\u51fa\u591a\u7a7a\u96d9\u65b9\u5728\u7576\u524d\u9ede\u4f4d\u5747\u7f3a\u4e4f\u660e\u78ba\u4fe1\u5ff5\uff0c\u8207\u5178\u578b\u7684\u6a6b\u76e4\u6574\u56fa\u683c\u5c40\u76f8\u7b26\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks that have been rising and avoids (or sells) stocks that have been falling, based on the idea that trends tend to persist in the short term. Indicators like RSI and MACD help quantify momentum \u2014 an RSI between 55\u201370 means a stock is trending upward without being overheated, which is the sweet spot this portfolio targets. Today's top picks (CHRN, GLW) both sit in that ideal RSI zone, making them textbook momentum candidates.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968\u3001\u8ff4\u907f\u6216\u8ce3\u51fa\u4e0b\u8dcc\u80a1\u7968\uff0c\u5176\u80cc\u5f8c\u908f\u8f2f\u662f\u77ed\u671f\u8da8\u52e2\u5f80\u5f80\u5177\u6709\u5ef6\u7e8c\u6027\u3002RSI\u8207MACD\u7b49\u6280\u8853\u6307\u6a19\u53ef\u91cf\u5316\u52d5\u80fd\u5f37\u5f31\u2014\u2014RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff0c\u4ee3\u8868\u80a1\u50f9\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u4f46\u5c1a\u672a\u904e\u71b1\uff0c\u6b63\u662f\u672c\u6295\u8cc7\u7d44\u5408\u7684\u7406\u60f3\u9032\u5834\u5340\u9593\u3002\u4eca\u65e5\u7cbe\u9078\u7684CHRN\u8207GLW\uff0c\u5176RSI\u5747\u843d\u5728\u6b64\u9ec3\u91d1\u5340\u6bb5\uff0c\u662f\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u5178\u578b\u64cd\u4f5c\u7bc4\u4f8b\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already moving up \u2014 the idea being that winners tend to keep winning in the short term. Traders use indicators like RSI (measures speed of price moves) and MACD (tracks trend direction) to identify stocks with strong, accelerating momentum. Today's top picks all showed RSI in the 55\u201370 'sweet spot' \u2014 bullish but not yet overbought \u2014 combined with MACD crossovers confirming the uptrend.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u5728\u4e0a\u6f32\u7684\u80a1\u7968\u2014\u2014\u5176\u908f\u8f2f\u5728\u65bc\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u5f80\u5f80\u6703\u7e7c\u7e8c\u5f37\u52e2\u3002\u4ea4\u6613\u8005\u4f7f\u7528RSI\uff08\u8861\u91cf\u50f9\u683c\u8b8a\u52d5\u901f\u5ea6\uff09\u548cMACD\uff08\u8ffd\u8e64\u8da8\u52e2\u65b9\u5411\uff09\u7b49\u6307\u6a19\u4f86\u8b58\u5225\u5177\u6709\u5f37\u52c1\u4e14\u52a0\u901f\u52d5\u80fd\u7684\u80a1\u7968\u3002\u4eca\u65e5\u7cbe\u9078\u6a19\u7684\u7684RSI\u5747\u843d\u572855\u81f370\u7684\u300c\u6700\u4f73\u5340\u9593\u300d\u2014\u2014\u8da8\u52e2\u770b\u6f32\u4f46\u5c1a\u672a\u8d85\u8cb7\u2014\u2014\u4e26\u914d\u5408MACD\u91d1\u53c9\u78ba\u8a8d\u4e0a\u5347\u8da8\u52e2\uff0c\u662f\u5178\u578b\u7684\u52d5\u80fd\u5165\u5834\u4fe1\u865f\u3002"
     }
   }
 }
