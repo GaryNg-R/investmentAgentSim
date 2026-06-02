@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-06-02T19:01:28.739165+00:00",
+  "saved_at": "2026-06-02T20:01:34.700285+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
+        "ticker": "CAMT",
+        "conviction": "high",
+        "reasoning": "Score 95 with a volume surge confirming institutional accumulation, RSI at 67.2 in the bullish zone, and all technical signals aligned \u2014 semiconductor equipment is a direct beneficiary of the ongoing AI capex buildout."
+      },
+      {
+        "action": "BUY",
         "ticker": "ENPH",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 64.6 in ideal bullish zone, MACD bullish crossover with rising histogram \u2014 clean energy recovery play with strong technical structure and meaningful distance above SMA-20."
+        "reasoning": "Score 95 with MACD histogram rising (accelerating momentum), clean price break above SMA-20, and solar energy showing renewed sector rotation interest."
       },
       {
         "action": "BUY",
-        "ticker": "ASTS",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI only 55.5 \u2014 lowest RSI among all top-95 candidates meaning most room to run before overbought, MACD bullish crossover, satellite broadband is a secular growth theme."
-      },
-      {
-        "action": "BUY",
-        "ticker": "CHRN",
+        "ticker": "RGTI",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 61.7, MACD histogram rising, and price 6.7% above SMA-20 \u2014 solid momentum entry at an affordable share price to efficiently deploy remaining cash."
+        "reasoning": "Score 95 with bullish MACD crossover and rising histogram; low per-share price allows meaningful position sizing while the quantum computing theme adds diversification away from semis."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are essentially flat today with S&P 500 +0.1% and NASDAQ -0.1%, signaling consolidation rather than trend continuation. With 4 open slots and $1,208 cash sitting idle, I'm deploying into the three cleanest score-95 setups: ENPH for clean energy recovery momentum, ASTS for its low RSI headroom among top candidates, and CHRN to efficiently use remaining cash. No current positions are triggering sell signals, so the existing book stays intact.",
+    "briefing": "Markets were essentially flat today \u2014 a quiet consolidation session after recent gains. With 4 open slots and ~$1,200 in cash sitting idle, this is precisely the moment to deploy into the strongest setups rather than hold cash doing nothing. I'm opening three new positions: CAMT for semiconductor equipment momentum backed by a volume surge, ENPH for accelerating solar energy technicals, and RGTI as a speculative-but-signaled quantum computing diversifier. This brings us to 9 of 10 allowed positions with minimal cash drag.",
     "market_education": {
-      "summary_en": "U.S. equities were virtually unchanged Tuesday as the S&P 500 gained 0.1% while the NASDAQ slipped 0.1%, reflecting a market in a holding pattern after recent gains. Investors appear to be waiting for fresh catalysts \u2014 whether macro data or Fed commentary \u2014 before committing directionally. The flat tape suggests neither bulls nor bears have conviction at current levels, consistent with a consolidation phase.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e8c\u5e7e\u4e4e\u6301\u5e73\uff0c\u6a19\u666e500\u5fae\u53470.1%\uff0c\u7d0d\u65af\u9054\u514b\u5c0f\u8dcc0.1%\uff0c\u986f\u793a\u5e02\u5834\u5728\u8fd1\u671f\u6f32\u52e2\u5f8c\u9032\u5165\u6574\u56fa\u968e\u6bb5\u3002\u6295\u8cc7\u8005\u4f3c\u4e4e\u6b63\u5728\u7b49\u5f85\u65b0\u7684\u50ac\u5316\u5291\u2014\u2014\u7121\u8ad6\u662f\u5b8f\u89c0\u6578\u64da\u9084\u662f\u806f\u5132\u5c40\u8a00\u8ad6\u2014\u2014\u624d\u9858\u610f\u660e\u78ba\u8868\u614b\u3002\u76e4\u9762\u81a0\u8457\u53cd\u6620\u51fa\u591a\u7a7a\u96d9\u65b9\u5728\u7576\u524d\u9ede\u4f4d\u5747\u7f3a\u4e4f\u660e\u78ba\u4fe1\u5ff5\uff0c\u8207\u5178\u578b\u7684\u6a6b\u76e4\u6574\u56fa\u683c\u5c40\u76f8\u7b26\u3002",
+      "summary_en": "Markets barely moved on June 2, 2026, with the NASDAQ flat and the S&P 500 up just 0.1%, reflecting a classic consolidation session after an extended rally. These low-volume sideways days typically occur when institutional investors are neither aggressively adding risk nor reducing it \u2014 they're waiting for the next macro catalyst such as a Fed policy update or jobs data. For individual momentum stocks, flat tape days are often constructive because they allow overbought conditions to reset while uptrends remain intact.",
+      "summary_zh": "2026\u5e746\u67082\u65e5\uff0c\u7f8e\u80a1\u5e7e\u4e4e\u539f\u5730\u8e0f\u6b65\uff0c\u90a3\u65af\u9054\u514b\u6301\u5e73\uff0c\u6a19\u666e500\u50c5\u5fae\u6f320.1%\uff0c\u5448\u73fe\u5178\u578b\u7684\u5f37\u52e2\u6574\u7406\u683c\u5c40\u3002\u9019\u985e\u4f4e\u6210\u4ea4\u91cf\u6a6b\u76e4\u884c\u60c5\u901a\u5e38\u51fa\u73fe\u5728\u6301\u7e8c\u5347\u52e2\u5f8c\uff0c\u53cd\u6620\u6a5f\u69cb\u6295\u8cc7\u8005\u6b63\u975c\u5f85\u806f\u5132\u5c40\u653f\u7b56\u52d5\u5411\u6216\u5c31\u696d\u6578\u64da\u7b49\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u65e2\u7121\u610f\u5927\u8209\u52a0\u5009\uff0c\u4ea6\u7121\u9700\u6025\u65bc\u7372\u5229\u56de\u5410\u3002\u5c0d\u65bc\u500b\u5225\u52d5\u80fd\u5f37\u52c1\u7684\u500b\u80a1\u800c\u8a00\uff0c\u5927\u76e4\u6a6b\u76e4\u6574\u7406\u5f80\u5f80\u662f\u6b63\u9762\u4fe1\u865f\u2014\u2014\u65e2\u6709\u52a9\u8d85\u8cb7\u58d3\u529b\u91cb\u653e\uff0c\u53c8\u4e0d\u7834\u58de\u65e2\u6709\u4e0a\u5347\u8da8\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already moving up \u2014 the idea being that winners tend to keep winning in the short term. Traders use indicators like RSI (measures speed of price moves) and MACD (tracks trend direction) to identify stocks with strong, accelerating momentum. Today's top picks all showed RSI in the 55\u201370 'sweet spot' \u2014 bullish but not yet overbought \u2014 combined with MACD crossovers confirming the uptrend.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u5728\u4e0a\u6f32\u7684\u80a1\u7968\u2014\u2014\u5176\u908f\u8f2f\u5728\u65bc\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u5f80\u5f80\u6703\u7e7c\u7e8c\u5f37\u52e2\u3002\u4ea4\u6613\u8005\u4f7f\u7528RSI\uff08\u8861\u91cf\u50f9\u683c\u8b8a\u52d5\u901f\u5ea6\uff09\u548cMACD\uff08\u8ffd\u8e64\u8da8\u52e2\u65b9\u5411\uff09\u7b49\u6307\u6a19\u4f86\u8b58\u5225\u5177\u6709\u5f37\u52c1\u4e14\u52a0\u901f\u52d5\u80fd\u7684\u80a1\u7968\u3002\u4eca\u65e5\u7cbe\u9078\u6a19\u7684\u7684RSI\u5747\u843d\u572855\u81f370\u7684\u300c\u6700\u4f73\u5340\u9593\u300d\u2014\u2014\u8da8\u52e2\u770b\u6f32\u4f46\u5c1a\u672a\u8d85\u8cb7\u2014\u2014\u4e26\u914d\u5408MACD\u91d1\u53c9\u78ba\u8a8d\u4e0a\u5347\u8da8\u52e2\uff0c\u662f\u5178\u578b\u7684\u52d5\u80fd\u5165\u5834\u4fe1\u865f\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, betting that the trend continues. The idea is that strong price action attracts more buyers, which sustains the move. Indicators like a rising MACD histogram and RSI in the 55\u201370 zone are classic signs of healthy, sustainable momentum \u2014 as opposed to an RSI above 70, which signals the move may be overextended.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u8da8\u52e2\u6301\u7e8c\u3002\u5f37\u52c1\u7684\u50f9\u683c\u8d70\u52e2\u672c\u8eab\u6703\u5438\u5f15\u66f4\u591a\u8cb7\u76e4\u8ddf\u9032\uff0c\u5f9e\u800c\u5f62\u6210\u6b63\u5411\u5faa\u74b0\u3002MACD\u67f1\u72c0\u5716\u6301\u7e8c\u8d70\u9ad8\u3001RSI\u4f4d\u65bc55\u81f370\u5340\u9593\uff0c\u662f\u5065\u5eb7\u4e14\u53ef\u6301\u7e8c\u52d5\u80fd\u7684\u5178\u578b\u7279\u5fb5\uff1b\u4e00\u65e6RSI\u7a81\u783470\u9032\u5165\u8d85\u8cb7\u5340\uff0c\u5247\u610f\u5473\u8457\u77ed\u671f\u5347\u5e45\u53ef\u80fd\u5df2\u904e\u5ea6\u5ef6\u4f38\uff0c\u9700\u63d0\u9ad8\u8b66\u60d5\u3002"
     }
   }
 }
