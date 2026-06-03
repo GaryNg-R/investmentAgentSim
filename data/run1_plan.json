@@ -1,38 +1,32 @@
 {
-  "saved_at": "2026-06-03T14:01:31.596189+00:00",
+  "saved_at": "2026-06-03T15:01:08.347272+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "TGTX",
+        "ticker": "MMED",
         "conviction": "high",
-        "reasoning": "Perfect score 100 with all five bullish signals firing including volume surge and MACD crossover; RSI 69.3 still in momentum zone with strong price-to-SMA separation."
+        "reasoning": "Top screener score of 100 with a volume surge confirmation \u2014 the strongest technical setup available today, RSI at 66.8 in the ideal momentum zone with all four bullish signals aligned."
       },
       {
         "action": "BUY",
-        "ticker": "NN",
-        "conviction": "high",
-        "reasoning": "Score 100 with volume surge and full signal confirmation; low price-per-share allows meaningful position sizing and RSI 66.1 leaves room before overbought territory."
-      },
-      {
-        "action": "BUY",
-        "ticker": "MXL",
+        "ticker": "IRDM",
         "conviction": "medium",
-        "reasoning": "Score 100 semiconductor name with volume surge and MACD confirmation; RSI 58.4 is the least stretched of the top candidates, providing more upside runway in a choppy tape."
+        "reasoning": "Score 95 with RSI 64.3 and clean MACD momentum; Iridium's satellite communications business provides defensive characteristics on a mild down day, balancing the higher-beta MMED entry."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted slightly lower today (S&P -0.4%, NASDAQ -0.6%) with no strong directional catalyst \u2014 a typical consolidation session. Despite the soft tape, several stocks posted strong momentum readings with volume surges, suggesting sector rotation rather than broad risk-off. With four open slots and over $1,200 in idle cash, I filled three positions with the highest-conviction, non-overbought momentum names from the screener.",
+    "briefing": "Markets pulled back mildly today (S&P -0.4%, NASDAQ -0.6%) in a neutral tape \u2014 not a risk-off signal, just digestion after recent gains. With four open slots and $1,208 in cash, I deployed into two high-conviction momentum names rather than sitting idle. MMED earns the top slot as the only score-100 candidate with a volume surge; IRDM adds a defensive satellite-comms name to balance sector exposure.",
     "market_education": {
-      "summary_en": "U.S. equities edged lower on June 3rd with the S&P 500 off 0.4% and the NASDAQ down 0.6%, reflecting a mild risk-off tone as investors digested mixed macro signals heading into a busy economic data week. The pullback was narrow rather than broad \u2014 multiple individual stocks posted strong volume surges, indicating money was rotating between sectors rather than fleeing equities entirely. With no major Fed commentary or earnings catalysts today, the session appeared driven largely by technical consolidation after recent gains.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc6\u67083\u65e5\u5c0f\u5e45\u6536\u8dcc\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc0.6%\uff0c\u53cd\u6620\u51fa\u6295\u8cc7\u8005\u5728\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u516c\u5e03\u524d\u5915\u63a1\u53d6\u8b39\u614e\u614b\u5ea6\uff0c\u5e02\u5834\u6574\u9ad4\u5448\u8f15\u5fae\u907f\u96aa\u60c5\u7dd2\u3002\u503c\u5f97\u6ce8\u610f\u7684\u662f\uff0c\u6b64\u6b21\u56de\u8abf\u5c6c\u65bc\u7a84\u5e45\u6574\u7406\u800c\u975e\u5168\u9762\u62cb\u552e\u2014\u2014\u591a\u96bb\u500b\u80a1\u9304\u5f97\u6210\u4ea4\u91cf\u7570\u5e38\u653e\u5927\uff0c\u986f\u793a\u8cc7\u91d1\u6b63\u5728\u677f\u584a\u9593\u9032\u884c\u8f2a\u52d5\uff0c\u800c\u975e\u64a4\u96e2\u80a1\u5e02\u3002\u5728\u7f3a\u4e4f\u806f\u5132\u5c40\u8868\u614b\u6216\u91cd\u5927\u8ca1\u5831\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u672c\u6b21\u8abf\u6574\u66f4\u591a\u5c6c\u65bc\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u6280\u8853\u6027\u6d88\u5316\u3002",
+      "summary_en": "U.S. equities drifted lower on Tuesday, with the S&P 500 off 0.4% and the NASDAQ down 0.6% in light volume, reflecting a consolidation pause rather than broad selling pressure. Technology names led the modest decline as investors rotated toward defensive and value sectors following a strong May rally. No major macro catalyst drove the move \u2014 the session appeared to be routine profit-taking ahead of upcoming economic data.",
+      "summary_zh": "\u7f8e\u80a1\u9031\u4e8c\u5c0f\u5e45\u56de\u843d\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc0.6%\uff0c\u6574\u9ad4\u6210\u4ea4\u91cf\u504f\u4f4e\uff0c\u5e02\u5834\u5448\u73fe\u6574\u7406\u683c\u5c40\u800c\u975e\u6050\u614c\u6027\u62cb\u552e\u3002\u79d1\u6280\u80a1\u627f\u58d3\u8f03\u660e\u986f\uff0c\u8cc7\u91d1\u5c0f\u5e45\u8f2a\u52d5\u81f3\u9632\u79a6\u6027\u677f\u584a\u53ca\u50f9\u503c\u80a1\uff0c\u5ef6\u7e8c5\u6708\u5f37\u52c1\u5347\u52e2\u5f8c\u7684\u7372\u5229\u4e86\u7d50\u8d70\u52e2\u3002\u672c\u6b21\u56de\u8abf\u7f3a\u4e4f\u660e\u78ba\u5b8f\u89c0\u50ac\u5316\u56e0\u7d20\uff0c\u5e02\u5834\u975c\u5f85\u5f8c\u7e8c\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u516c\u4f48\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Sector Rotation",
-      "explanation_en": "Sector rotation is when investors shift money out of one industry group and into another, often in response to changes in the economic cycle or market sentiment. Today's session showed this clearly: while broad indexes dipped, individual stocks in biotech, semiconductors, and small-cap industrials surged on high volume \u2014 meaning capital was moving around, not leaving the market. Savvy active investors try to identify which sectors are receiving inflows and position early.",
-      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u4e00\u500b\u884c\u696d\u64a4\u51fa\uff0c\u8f49\u800c\u6295\u5165\u53e6\u4e00\u500b\u884c\u696d\uff0c\u901a\u5e38\u662f\u56e0\u61c9\u7d93\u6fdf\u9031\u671f\u7684\u8b8a\u5316\u6216\u5e02\u5834\u60c5\u7dd2\u7684\u8f49\u79fb\u3002\u4eca\u65e5\u5927\u5e02\u96d6\u7136\u6574\u9ad4\u5c0f\u8dcc\uff0c\u4f46\u751f\u7269\u79d1\u6280\u3001\u534a\u5c0e\u9ad4\u53ca\u4e2d\u5c0f\u578b\u5de5\u696d\u80a1\u537b\u51fa\u73fe\u6210\u4ea4\u91cf\u653e\u5927\u7684\u4e0a\u6f32\u8d70\u52e2\uff0c\u6b63\u6b63\u8aaa\u660e\u5e02\u5834\u8cc7\u91d1\u5728\u677f\u584a\u9593\u6d41\u52d5\uff0c\u800c\u975e\u5168\u9762\u64a4\u96e2\u3002\u7a4d\u6975\u578b\u6295\u8cc7\u8005\u7684\u7b56\u7565\u4e4b\u4e00\uff0c\u4fbf\u662f\u63d0\u524d\u8b58\u5225\u8cc7\u91d1\u6d41\u5165\u7684\u677f\u584a\uff0c\u6436\u5148\u4f48\u5c40\u4ee5\u7372\u53d6\u8d85\u984d\u56de\u5831\u3002"
+      "term": "Volume Confirmation",
+      "explanation_en": "Volume confirmation means a price move is more trustworthy when trading volume is significantly above average at the same time. When a stock breaks above a moving average or shows bullish MACD signals AND volume surges (as MMED did today at >1.5x its 20-day average), it signals that many participants agree with the move \u2014 not just a few large trades pushing the price temporarily.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u78ba\u8a8d\u662f\u6307\u7576\u80a1\u50f9\u51fa\u73fe\u7a81\u7834\u6216\u6280\u8853\u4fe1\u865f\u6642\uff0c\u82e5\u540c\u6642\u4f34\u96a8\u986f\u8457\u653e\u91cf\uff0c\u5247\u8a72\u4fe1\u865f\u7684\u53ef\u4fe1\u5ea6\u5927\u5e45\u63d0\u5347\u3002\u4ee5\u4eca\u65e5MMED\u70ba\u4f8b\uff0c\u5176\u6210\u4ea4\u91cf\u8d85\u904e20\u65e5\u5747\u91cf\u76841.5\u500d\uff0c\u914d\u5408MACD\u91d1\u53c9\u53ca\u80a1\u50f9\u7ad9\u7a69\u5747\u7dda\uff0c\u4ee3\u8868\u5e02\u5834\u6709\u5927\u91cf\u53c3\u8207\u8005\u8a8d\u540c\u6b64\u4e0a\u5347\u8da8\u52e2\uff0c\u800c\u975e\u50c5\u7531\u5c11\u6578\u5927\u55ae\u77ed\u66ab\u63a8\u52d5\u80a1\u50f9\uff0c\u8a0a\u865f\u66f4\u5177\u53c3\u8003\u50f9\u503c\u3002"
     }
   }
 }
