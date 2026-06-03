@@ -1,38 +1,19 @@
 {
-  "saved_at": "2026-06-03T16:01:40.469718+00:00",
+  "saved_at": "2026-06-03T17:01:11.535957+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "INCY",
-        "conviction": "high",
-        "reasoning": "Highest score on the entire screener (100) with a rare volume surge signal on top of MACD crossover and RSI at 61.8 \u2014 strongest technical setup available today."
-      },
-      {
-        "action": "BUY",
-        "ticker": "QCOM",
-        "conviction": "medium",
-        "reasoning": "Score 95 large-cap semiconductor with clean MACD crossover and RSI at 63.4, adding blue-chip tech diversification distinct from existing SYNA and QQQ exposure."
-      },
-      {
-        "action": "BUY",
-        "ticker": "NN",
-        "conviction": "low",
-        "reasoning": "Score 95 with full MACD and RSI momentum alignment; low share price allows a slot-filling entry with minimal cash outlay in a mixed market."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets drifted lower today \u2014 NASDAQ -0.8%, S&P -0.5% \u2014 in a mild, directionless pullback without a sharp catalyst. Despite the headline weakness, the screener is still producing strong momentum setups, so I'm deploying the idle cash into three new positions (INCY, QCOM, NN) to fill open slots rather than sit on cash. No current holdings appear to be in stop-loss or profit-target territory, so all six existing positions are held.",
+    "briefing": "Markets pulled back mildly today with NASDAQ down 0.9% and S&P 500 down 0.6% \u2014 a neutral-to-soft session with no major catalyst. Portfolio is holding steady at +30% overall P&L. Cash is only $298.25, which falls below the $500 threshold to open new positions, so despite three open slots and several high-scoring candidates (NVTS, TPL, NBIX all at 95), no new buys are actionable today. Existing positions remain protected by auto stop-loss rules.",
     "market_education": {
-      "summary_en": "U.S. equities declined modestly today with the NASDAQ shedding 0.8% and the S&P 500 falling 0.5%, reflecting a mild risk-off tone rather than a sharp directional move. Selling pressure was concentrated in growth and technology names, while no single macro headline drove the session \u2014 traders appeared to be trimming positions ahead of upcoming economic data. Notably, the pullback was shallow enough that many individual momentum names held their technical structures intact, suggesting broad market weakness does not always translate to weakness in every stock.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u6eab\u548c\u4e0b\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc0.8%\uff0c\u6a19\u666e500\u8dcc0.5%\uff0c\u6574\u9ad4\u5448\u73fe\u8f15\u5ea6\u907f\u96aa\u60c5\u7dd2\uff0c\u800c\u975e\u660e\u78ba\u65b9\u5411\u6027\u884c\u60c5\u3002\u62cb\u552e\u58d3\u529b\u4e3b\u8981\u96c6\u4e2d\u65bc\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\uff0c\u5e02\u5834\u4e26\u7121\u55ae\u4e00\u5b8f\u89c0\u50ac\u5316\u5291\u4e3b\u5c0e\u76e4\u9762\uff0c\u6295\u8cc7\u8005\u4f3c\u4e4e\u5728\u7b49\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u524d\u9032\u884c\u5009\u4f4d\u8abf\u6574\u3002\u503c\u5f97\u6ce8\u610f\u7684\u662f\uff0c\u6b64\u6b21\u56de\u8abf\u5e45\u5ea6\u6709\u9650\uff0c\u4e0d\u5c11\u52d5\u80fd\u500b\u80a1\u7684\u6280\u8853\u7d50\u69cb\u4f9d\u7136\u5b8c\u597d\uff0c\u986f\u793a\u5927\u76e4\u8d70\u5f31\u672a\u5fc5\u7b49\u540c\u65bc\u6240\u6709\u500b\u80a1\u540c\u6b65\u53d7\u58d3\u3002",
+      "summary_en": "U.S. equities drifted lower on June 3, 2026, with the NASDAQ falling 0.9% and the S&P 500 declining 0.6% in a broad but modest pullback. The move reflected cautious sentiment as investors digested ongoing macro uncertainty, with technology names leading the weakness on the NASDAQ. No single headline dominated, but the mild risk-off tone suggested institutional players were trimming exposure heading into the week.",
+      "summary_zh": "2026\u5e746\u67083\u65e5\uff0c\u7f8e\u570b\u80a1\u5e02\u5c0f\u5e45\u56de\u843d\uff0c\u7d0d\u6307\u4e0b\u8dcc0.9%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.6%\uff0c\u6574\u9ad4\u5448\u73fe\u6eab\u548c\u7684\u98a8\u96aa\u898f\u907f\u60c5\u7dd2\u3002\u79d1\u6280\u677f\u584a\u9818\u8dcc\u7d0d\u6307\uff0c\u53cd\u6620\u51fa\u6295\u8cc7\u8005\u5728\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u6301\u7e8c\u7684\u80cc\u666f\u4e0b\u8da8\u65bc\u8b39\u614e\u3002\u5e02\u5834\u7f3a\u4e4f\u55ae\u4e00\u660e\u78ba\u7684\u50ac\u5316\u56e0\u7d20\uff0c\u6a5f\u69cb\u8cc7\u91d1\u4f3c\u4e4e\u501f\u6a5f\u9069\u5ea6\u6e1b\u5009\uff0c\u975c\u5f85\u66f4\u660e\u6717\u7684\u65b9\u5411\u8a0a\u865f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that targets stocks showing strong recent price performance and bullish technical signals \u2014 such as RSI in the 55\u201370 range and a rising MACD histogram \u2014 betting that winners tend to keep winning in the near term. Today's screener illustrates this well: even on a down market day, INCY triggered a volume surge alongside all four momentum indicators, making it stand out from the index decline. The catch is that momentum can reverse sharply, which is exactly why stop-loss rules (-7%) are paired with this approach to limit damage when a trend breaks.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u5c08\u9580\u5c0b\u627e\u8fd1\u671f\u50f9\u683c\u8d70\u52e2\u5f37\u52c1\u3001\u6280\u8853\u8a0a\u865f\u770b\u6f32\u500b\u80a1\u7684\u7b56\u7565\u2014\u2014\u4f8b\u5982RSI\u7dad\u6301\u572855\u81f370\u7684\u9ec3\u91d1\u5340\u9593\uff0c\u4ee5\u53caMACD\u67f1\u72c0\u5716\u6301\u7e8c\u6500\u5347\u2014\u2014\u62bc\u6ce8\u5f37\u52e2\u80a1\u77ed\u671f\u5167\u4ecd\u6703\u7e7c\u7e8c\u8dd1\u8d0f\u3002\u4eca\u65e5\u7be9\u9078\u5668\u6e05\u695a\u5448\u73fe\u4e86\u9019\u4e00\u908f\u8f2f\uff1a\u5373\u4f7f\u5927\u76e4\u4e0b\u8dcc\uff0cINCY\u4ecd\u540c\u6642\u89f8\u767c\u6210\u4ea4\u91cf\u653e\u5927\u53ca\u56db\u9805\u52d5\u80fd\u6307\u6a19\u770b\u6f32\u8a0a\u865f\uff0c\u5728\u75b2\u8edf\u884c\u60c5\u4e2d\u812b\u7a4e\u800c\u51fa\u3002\u7136\u800c\uff0c\u52d5\u80fd\u8da8\u52e2\u4e00\u65e6\u53cd\u8f49\u5f80\u5f80\u4f86\u5f97\u8fc5\u901f\uff0c\u9019\u6b63\u662f\u70ba\u4f55\u6b62\u640d\u898f\u5247\uff08-7%\uff09\u5fc5\u9808\u8207\u52d5\u80fd\u7b56\u7565\u914d\u5957\u4f7f\u7528\uff0c\u4ee5\u4fbf\u5728\u8da8\u52e2\u7834\u58de\u6642\u53ca\u6642\u63a7\u5236\u640d\u5931\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "Dry powder refers to the cash reserves an investor keeps available to deploy when good opportunities arise. Today is a perfect example: the screener surfaced multiple high-conviction candidates (NVTS, TPL, NBIX at score 95) but with only $298 in cash, the portfolio can't act on any of them. Maintaining adequate cash buffers ensures you can buy when signals align, rather than watching from the sidelines.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u6295\u8cc7\u8005\u4fdd\u7559\u7684\u73fe\u91d1\u5132\u5099\uff0c\u4ee5\u4fbf\u5728\u512a\u8cea\u6a5f\u6703\u51fa\u73fe\u6642\u80fd\u5920\u8fc5\u901f\u90e8\u7f72\u3002\u4eca\u5929\u5c31\u662f\u4e00\u500b\u5178\u578b\u6848\u4f8b\uff1a\u9078\u80a1\u7cfb\u7d71\u7be9\u51fa\u591a\u96bb\u9ad8\u8a55\u5206\u6a19\u7684\uff08\u5982NVTS\u3001TPL\u3001NBIX\u5747\u905495\u5206\uff09\uff0c\u4f46\u5e33\u6236\u73fe\u91d1\u50c5\u5269\u7d04298\u7f8e\u5143\uff0c\u6839\u672c\u7121\u6cd5\u5efa\u5009\u3002\u4fdd\u6301\u5145\u8db3\u7684\u73fe\u91d1\u7de9\u885d\uff0c\u624d\u80fd\u78ba\u4fdd\u5728\u4fe1\u865f\u660e\u78ba\u6642\u679c\u65b7\u51fa\u64ca\uff0c\u800c\u4e0d\u662f\u4e7e\u77aa\u773c\u932f\u5931\u6a5f\u6703\u3002"
     }
   }
 }
