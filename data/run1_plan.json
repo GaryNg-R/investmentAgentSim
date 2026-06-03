@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-06-02T21:01:06.607214+00:00",
+  "saved_at": "2026-06-03T13:01:08.335253+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,20 +7,26 @@
         "action": "BUY",
         "ticker": "SIMO",
         "conviction": "high",
-        "reasoning": "Top screener score of 100 with RSI 66.2 in the clean bullish momentum zone, MACD bullish crossover, histogram rising, price above SMA-20, and a volume surge \u2014 all signals aligned without being overbought."
+        "reasoning": "Top screener score (100) with every signal firing \u2014 RSI in bullish zone, MACD crossover, rising histogram, price well above SMA-20, and volume surge confirming institutional interest."
+      },
+      {
+        "action": "BUY",
+        "ticker": "ENPH",
+        "conviction": "medium",
+        "reasoning": "Score 95 with clean MACD crossover and rising histogram in the bullish RSI zone, not yet overbought, offering room to run in a neutral tape."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today (NASDAQ unchanged, S&P +0.1%), offering a neutral backdrop with no clear directional pressure. With 4 open slots and $1,208 in cash, holding idle is inefficient \u2014 SIMO stands out as the strongest conviction pick with a perfect screener score and no overbought concerns. Deploying remaining cash into SIMO to reduce drag while maintaining one slot buffer for opportunistic entries.",
+    "briefing": "Markets drifted sideways today \u2014 NASDAQ flat and S&P 500 barely green \u2014 offering no macro headwind to momentum plays. With four open slots and $1,200 in cash, I'm putting the top two momentum setups to work: SIMO (perfect screener score, volume-confirmed breakout) and ENPH (clean signal stack, room before overbought). Keeping a small cash cushion for the remaining two slots in case better setups emerge.",
     "market_education": {
-      "summary_en": "Markets traded sideways on June 2nd as investors digested mixed economic signals and awaited upcoming jobs data. With no major catalysts, trading was subdued and risk appetite remained cautious \u2014 typical 'wait-and-see' behavior heading into a key economic report. Tech names showed relative resilience while broader indices hovered near unchanged, reflecting a market consolidating recent gains rather than committing to a new direction.",
-      "summary_zh": "\u516d\u6708\u4e8c\u65e5\u7f8e\u80a1\u6574\u9ad4\u6a6b\u76e4\u6574\u7406\uff0c\u6295\u8cc7\u8005\u6d88\u5316\u6df7\u96dc\u7684\u7d93\u6fdf\u8a0a\u865f\uff0c\u4e26\u975c\u5f85\u5373\u5c07\u516c\u5e03\u7684\u5c31\u696d\u6578\u64da\u3002\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u5e02\u5834\u4ea4\u6295\u6de1\u975c\uff0c\u98a8\u96aa\u504f\u597d\u7dad\u6301\u8b39\u614e\uff0c\u5448\u73fe\u5178\u578b\u7684\u300c\u89c0\u671b\u300d\u614b\u52e2\u3002\u79d1\u6280\u80a1\u8868\u73fe\u76f8\u5c0d\u7a69\u5065\uff0c\u5927\u76e4\u6307\u6578\u6536\u76e4\u5e7e\u8fd1\u6301\u5e73\uff0c\u53cd\u6620\u5e02\u5834\u5728\u978f\u56fa\u8fd1\u671f\u5347\u5e45\u5f8c\u66ab\u6642\u6309\u5175\u4e0d\u52d5\u3002",
+      "summary_en": "U.S. equities were essentially flat on June 3, with the S&P 500 up just 0.1% and the NASDAQ unchanged as investors paused ahead of upcoming economic data. Technology and semiconductor names continued to attract rotation from institutional buyers, evidenced by elevated volume in names like SIMO and CAMT, while broader indices lacked a clear catalyst to push decisively higher or lower. The neutral tape suggests markets are in a consolidation phase following recent gains, with participants watching macro signals before committing to the next directional move.",
+      "summary_zh": "\u7f8e\u80a16\u67083\u65e5\u5e7e\u8fd1\u539f\u5730\u8e0f\u6b65\uff0c\u6a19\u666e500\u6307\u6578\u5c0f\u6f320.1%\uff0c\u7d0d\u6307\u6301\u5e73\uff0c\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u524d\u9078\u64c7\u89c0\u671b\u3002\u79d1\u6280\u8207\u534a\u5c0e\u9ad4\u677f\u584a\u4ecd\u6301\u7e8c\u5438\u5f15\u6cd5\u4eba\u8cc7\u91d1\uff0cSIMO\u3001CAMT\u7b49\u500b\u80a1\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\uff0c\u986f\u793a\u6a5f\u69cb\u8cb7\u76e4\u9032\u5834\u8de1\u8c61\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u5927\u5e02\u6b63\u8655\u65bc\u6574\u56fa\u968e\u6bb5\uff0c\u6295\u8cc7\u4eba\u975c\u5f85\u4e0b\u4e00\u500b\u5b8f\u89c0\u8a0a\u865f\u624d\u6c7a\u5b9a\u65b9\u5411\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks trending upward (strong recent price and volume performance) and avoids or sells stocks trending downward. The idea is that stocks moving up tend to keep moving up in the short term due to continued buying interest. Today's SIMO buy exemplifies this \u2014 a score of 100 means price, volume, RSI, and MACD all confirm upward momentum.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u6f32\u7b56\u7565\uff0c\u5c08\u9580\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u548c\u6210\u4ea4\u91cf\u8868\u73fe\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u540c\u6642\u8ff4\u907f\u6216\u8ce3\u51fa\u4e0b\u884c\u8da8\u52e2\u7684\u6a19\u7684\u3002\u5176\u80cc\u5f8c\u908f\u8f2f\u662f\uff1a\u77ed\u671f\u5167\u4e0a\u6f32\u7684\u80a1\u7968\u5f80\u5f80\u56e0\u6301\u7e8c\u7684\u8cb7\u76e4\u652f\u6490\u800c\u5ef6\u7e8c\u5347\u52e2\u3002\u4eca\u65e5\u8cb7\u5165SIMO\u6b63\u662f\u9019\u500b\u7b56\u7565\u7684\u9ad4\u73fe\u2014\u2014\u6eff\u5206100\u5206\u4ee3\u8868\u50f9\u683c\u3001\u6210\u4ea4\u91cf\u3001RSI\u8207MACD\u5168\u9762\u78ba\u8a8d\u4e0a\u884c\u52d5\u80fd\u3002"
+      "explanation_en": "Momentum investing is the strategy of buying stocks that are already trending upward, on the premise that recent strong performance tends to continue in the short term. Indicators like RSI in the 55\u201370 bullish zone, a MACD bullish crossover, and price above its 20-day moving average together confirm a stock is in momentum mode. The risk is that momentum can reverse sharply, which is why stop-losses are essential guardrails.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u5df2\u51fa\u73fe\u4e0a\u6f32\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u908f\u8f2f\u5728\u65bc\u77ed\u671f\u5167\u5f37\u52e2\u5f80\u5f80\u6703\u5ef6\u7e8c\u3002RSI\u8655\u65bc55\u81f370\u7684\u591a\u982d\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff0c\u4ee5\u53ca\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\uff0c\u9019\u4e9b\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u5373\u4ee3\u8868\u8a72\u80a1\u8655\u65bc\u52d5\u80fd\u72c0\u614b\u3002\u6b64\u7b56\u7565\u7684\u98a8\u96aa\u5728\u65bc\u52d5\u80fd\u53ef\u80fd\u6025\u901f\u9006\u8f49\uff0c\u56e0\u6b64\u8a2d\u7f6e\u6b62\u640d\u662f\u4e0d\u53ef\u6216\u7f3a\u7684\u98a8\u63a7\u6a5f\u5236\u3002"
     }
   }
 }
