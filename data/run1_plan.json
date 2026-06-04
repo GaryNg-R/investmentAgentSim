@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-06-04T14:01:45.371315+00:00",
+  "saved_at": "2026-06-04T15:01:19.039100+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "OSCR",
-        "conviction": "low",
-        "reasoning": "Score-100 setup with full technical confirmation and volume surge; healthcare sector offers relative defensiveness on a soft NASDAQ day, and it's the best use of the sub-$500 cash on hand."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "NASDAQ slid 0.8% on tech-specific pressure while the S&P 500 barely moved, pointing to sector rotation rather than broad risk-off \u2014 a neutral backdrop that doesn't warrant going to cash but does argue for caution. Portfolio cash is below $500 so there's no strong obligation to fill open slots, but OSCR's clean score-100 setup with volume confirmation earns a small opportunistic entry. No existing positions require manual action; auto-stops are in place to guard downside across the book.",
+    "briefing": "Cash at $298 is below the $500 buy threshold, so no new positions can be opened today regardless of market conditions. The overall portfolio is up 30% \u2014 preserving those gains takes priority. NN is at +10% gain and approaching the +12% auto-sell target, so a profit-lock exit may trigger soon on its own. Market is split (NASDAQ soft, S&P flat) with no strong directional signal to act on.",
     "market_education": {
-      "summary_en": "The NASDAQ fell 0.8% while the S&P 500 dipped only 0.1%, a divergence that points to concentrated selling in high-valuation technology names rather than broad market weakness. This kind of gap typically reflects institutional rotation \u2014 trimming richly priced growth stocks and reallocating toward value and defensive sectors. With no single macro catalyst dominating headlines, the move reads as tactical repositioning ahead of upcoming economic data rather than a change in the underlying bull case.",
-      "summary_zh": "\u7d0d\u65af\u9054\u514b\u4e0b\u8dcc0.8%\uff0c\u6a19\u666e500\u50c5\u5fae\u8dcc0.1%\uff0c\u5169\u5927\u6307\u6578\u7684\u660e\u986f\u80cc\u96e2\u986f\u793a\u5e02\u5834\u62cb\u58d3\u96c6\u4e2d\u65bc\u9ad8\u4f30\u503c\u79d1\u6280\u80a1\uff0c\u4e26\u975e\u5168\u9762\u6027\u7684\u907f\u96aa\u60c5\u7dd2\u3002\u9019\u985e\u5206\u5316\u8d70\u52e2\u901a\u5e38\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u7684\u677f\u584a\u8f2a\u52d5\u2014\u2014\u6e1b\u6301\u6602\u8cb4\u7684\u6210\u9577\u80a1\uff0c\u8f49\u800c\u5e03\u5c40\u50f9\u503c\u80a1\u8207\u9632\u79a6\u6027\u677f\u584a\u3002\u5728\u7f3a\u4e4f\u55ae\u4e00\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6b64\u6ce2\u8abf\u6574\u66f4\u50cf\u662f\u6295\u8cc7\u4eba\u5728\u7b49\u5f85\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u524d\u7684\u6230\u8853\u6027\u8abf\u5009\uff0c\u800c\u975e\u770b\u7a7a\u5927\u76e4\u7684\u7d50\u69cb\u6027\u8f49\u8b8a\u3002",
+      "summary_en": "Markets showed a split session today with the S&P 500 barely positive (+0.1%) while the NASDAQ slipped 0.5%, reflecting mild rotation out of growth and tech names. The divergence suggests investors are trimming high-momentum tech positions after recent gains while rotating into more defensive or value-oriented sectors. Without a clear macro catalyst driving either direction, markets are in a consolidation phase after the strong May rally.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u8d70\u52e2\u5206\u5316\uff0c\u6a19\u666e500\u6307\u6578\u5c0f\u5e45\u6536\u7d050.1%\uff0c\u800c\u90a3\u65af\u9054\u514b\u5247\u4e0b\u8dcc0.5%\uff0c\u53cd\u6620\u8cc7\u91d1\u5f9e\u6210\u9577\u578b\u53ca\u79d1\u6280\u80a1\u4e2d\u6eab\u548c\u6d41\u51fa\u3002\u9019\u7a2e\u80cc\u96e2\u73fe\u8c61\u986f\u793a\u6295\u8cc7\u8005\u5728\u8fd1\u671f\u5f37\u52c1\u6f32\u52e2\u5f8c\u958b\u59cb\u7372\u5229\u56de\u5410\uff0c\u8cc7\u91d1\u8f49\u5411\u9632\u79a6\u578b\u53ca\u50f9\u503c\u578b\u677f\u584a\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u5e02\u5834\u5728\u4e94\u6708\u4efd\u7684\u5f37\u52e2\u53cd\u5f48\u5f8c\u9032\u5165\u6574\u56fa\u968e\u6bb5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Index Divergence",
-      "explanation_en": "Index divergence happens when two closely related market benchmarks move by meaningfully different amounts on the same day \u2014 like today's NASDAQ down 0.8% while the S&P 500 fell just 0.1%. Because the NASDAQ is heavily weighted toward technology stocks, a sharp drop there while the broader S&P holds up is a textbook signal of sector rotation rather than overall market fear. Spotting this divergence helps investors distinguish between a tech-specific correction and a true market-wide risk event.",
-      "explanation_zh": "\u6307\u6578\u80cc\u96e2\u662f\u6307\u5169\u500b\u5bc6\u5207\u76f8\u95dc\u7684\u5e02\u5834\u57fa\u6e96\u6307\u6578\u5728\u540c\u4e00\u5929\u51fa\u73fe\u986f\u8457\u7684\u6f32\u8dcc\u5dee\u7570\u2014\u2014\u5982\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u4e0b\u8dcc0.8%\uff0c\u6a19\u666e500\u537b\u50c5\u8dcc0.1%\u3002\u7531\u65bc\u7d0d\u65af\u9054\u514b\u6210\u5206\u80a1\u9ad8\u5ea6\u96c6\u4e2d\u65bc\u79d1\u6280\u985e\u80a1\uff0c\u5728\u5927\u76e4\u76f8\u5c0d\u7a69\u5065\u7684\u60c5\u6cc1\u4e0b\u79d1\u6280\u6307\u6578\u5927\u8dcc\uff0c\u662f\u677f\u584a\u8f2a\u52d5\u7684\u5178\u578b\u4fe1\u865f\uff0c\u800c\u975e\u5e02\u5834\u5168\u9762\u6050\u614c\u7684\u5fb5\u5146\u3002\u638c\u63e1\u6307\u6578\u80cc\u96e2\u7684\u6982\u5ff5\uff0c\u6709\u52a9\u65bc\u6295\u8cc7\u4eba\u5340\u5206\u79d1\u6280\u80a1\u7684\u7d50\u69cb\u6027\u56de\u8abf\u8207\u771f\u6b63\u7684\u7cfb\u7d71\u6027\u98a8\u96aa\u4e8b\u4ef6\u3002"
+      "term": "Sector Rotation",
+      "explanation_en": "Sector rotation is when investors move money out of one group of stocks (like tech/growth) and into another (like value or defensive sectors). Today's split \u2014 NASDAQ down while S&P was flat \u2014 is a classic sign: growth stocks cooling off while the broader market holds steady. It's a normal part of market cycles and doesn't mean a crash is coming.",
+      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u4e00\u500b\u80a1\u7968\u985e\u5225\uff08\u5982\u79d1\u6280\u6216\u6210\u9577\u80a1\uff09\u8f49\u79fb\u81f3\u53e6\u4e00\u985e\u5225\uff08\u5982\u50f9\u503c\u80a1\u6216\u9632\u79a6\u578b\u80a1\u7968\uff09\u7684\u73fe\u8c61\u3002\u4eca\u65e5\u90a3\u65af\u9054\u514b\u4e0b\u8dcc\u800c\u6a19\u666e\u6301\u5e73\uff0c\u6b63\u662f\u5178\u578b\u7684\u8f2a\u52d5\u8a0a\u865f\uff1a\u6210\u9577\u80a1\u6f32\u52e2\u66ab\u6b47\uff0c\u4f46\u6574\u9ad4\u5e02\u5834\u4ecd\u7dad\u6301\u7a69\u5b9a\u3002\u9019\u662f\u5e02\u5834\u9031\u671f\u4e2d\u7684\u6b63\u5e38\u73fe\u8c61\uff0c\u4e26\u4e0d\u610f\u5473\u8457\u5373\u5c07\u5d29\u76e4\u3002"
     }
   }
 }
