@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-06-04T18:01:24.925791+00:00",
+  "saved_at": "2026-06-04T19:01:15.492039+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "OSCR",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 65.9 in the ideal momentum zone, MACD bullish crossover with rising histogram, and price 8.3% above SMA-20 \u2014 healthcare tech with strong trend and affordable entry deploys idle cash into a high-conviction setup."
+        "reasoning": "Score 95 with RSI in bullish zone (67.5), MACD crossover confirmed, and price 9% above SMA-20 \u2014 strong momentum setup in health insurance tech."
       },
       {
         "action": "BUY",
-        "ticker": "KTOS",
-        "conviction": "medium",
-        "reasoning": "Score 95 defense-tech name with RSI 57.8 (more upside runway than peers), MACD bullish, and price above SMA-20 \u2014 defense spending tailwinds provide a differentiated sector exposure to diversify the portfolio."
+        "ticker": "IRDM",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 62.4, MACD bullish crossover, and price above SMA-20 \u2014 Iridium satellite communications offers defensive growth characteristics in neutral market."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted modestly higher today with the S&P 500 up 0.5% and NASDAQ up 0.2% \u2014 a quiet, constructive session with no major risk-off signals. With 4 open slots and over $1,300 in idle cash, the rules strongly favour deploying capital, so I'm initiating two new positions from the top of the screener. OSCR and KTOS both score 95 with clean MACD setups and RSI values well inside the 55\u201370 momentum sweet spot, avoiding the overbought names (RSI >70) that cluster lower on the list.",
+    "briefing": "Market is broadly neutral today \u2014 S&P 500 up a solid 0.5% while NASDAQ barely moved at +0.1%, suggesting rotation into large-cap value over growth. Portfolio sits at a healthy +31% P&L with $1,310 cash and 4 open slots, so deploying into two top-scoring momentum names (OSCR, IRDM) to put idle cash to work while keeping two slots in reserve.",
     "market_education": {
-      "summary_en": "U.S. equities edged higher Thursday as investors absorbed a mixed batch of economic data and maintained a cautious but constructive posture ahead of the weekend. The S&P 500 outpaced the NASDAQ, suggesting modest rotation from growth into broader large-cap names. With no major macro shocks, price action was driven largely by sector-level momentum rather than a single macro catalyst.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u56db\u5c0f\u5e45\u6536\u9ad8\uff0c\u6295\u8cc7\u4eba\u5728\u6d88\u5316\u4e00\u7cfb\u5217\u53c3\u5dee\u4e0d\u9f4a\u7684\u7d93\u6fdf\u6578\u64da\u5f8c\u7dad\u6301\u5be9\u614e\u6a02\u89c0\u614b\u5ea6\u3002\u6a19\u666e500\u8868\u73fe\u512a\u65bc\u90a3\u65af\u9054\u514b\uff0c\u986f\u793a\u8cc7\u91d1\u6709\u5f9e\u6210\u9577\u80a1\u8f2a\u52d5\u81f3\u5927\u578b\u80a1\u7684\u8de1\u8c61\u3002\u6574\u9ad4\u76e4\u9762\u7f3a\u4e4f\u55ae\u4e00\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u500b\u80a1\u53ca\u677f\u584a\u52d5\u80fd\u6210\u70ba\u4e3b\u8981\u9a45\u52d5\u529b\u3002",
+      "summary_en": "U.S. equities posted a split session, with the S&P 500 gaining 0.5% while the NASDAQ lagged at +0.1%, reflecting rotation from growth into value and cyclicals. This divergence often signals investors trimming high-multiple tech exposure and moving into sectors like industrials, financials, or defensives. With no major macro catalyst, price action was driven largely by sector positioning ahead of upcoming economic data.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u8868\u73fe\u5206\u5316\uff0c\u6a19\u666e500\u4e0a\u6f320.5%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u50c5\u5fae\u53470.1%\uff0c\u986f\u793a\u8cc7\u91d1\u5f9e\u6210\u9577\u80a1\u8f2a\u52d5\u81f3\u50f9\u503c\u80a1\u53ca\u9031\u671f\u6027\u677f\u584a\u3002\u6b64\u7a2e\u8d70\u52e2\u901a\u5e38\u610f\u5473\u6295\u8cc7\u8005\u524a\u6e1b\u9ad8\u4f30\u503c\u79d1\u6280\u80a1\u6301\u5009\uff0c\u8f49\u5411\u5de5\u696d\u3001\u91d1\u878d\u6216\u9632\u79a6\u6027\u677f\u584a\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u76e4\u9762\u4e3b\u8981\u53d7\u677f\u584a\u914d\u7f6e\u8abf\u6574\u4e3b\u5c0e\uff0c\u5e02\u5834\u975c\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u6307\u5f15\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that have been trending upward \u2014 on the theory that assets rising in price tend to keep rising, at least in the short term. Traders look for signals like RSI in the 55\u201370 zone (strong but not overbought) and a bullish MACD crossover to confirm the trend is intact. Today's buys in OSCR and KTOS both follow this playbook: enter while momentum is strong but before the RSI flashes an overbought warning.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u5176\u7406\u8ad6\u57fa\u790e\u5728\u65bc\uff1a\u50f9\u683c\u4e0a\u5347\u7684\u8cc7\u7522\u5f80\u5f80\u6703\u5ef6\u7e8c\u6f32\u52e2\uff0c\u81f3\u5c11\u5728\u77ed\u671f\u5167\u5982\u6b64\u3002\u4ea4\u6613\u8005\u901a\u5e38\u5c0b\u627eRSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff08\u5f37\u52c1\u4f46\u672a\u8d85\u8cb7\uff09\u4ee5\u53caMACD\u770b\u591a\u4ea4\u53c9\u7b49\u4fe1\u865f\uff0c\u4ee5\u78ba\u8a8d\u8da8\u52e2\u4ecd\u7136\u5065\u5728\u3002\u4eca\u65e5\u8cb7\u5165OSCR\u8207KTOS\u6b63\u662f\u6b64\u7b56\u7565\u7684\u9ad4\u73fe\uff1a\u5728\u52d5\u80fd\u5f37\u52c1\u3001\u4f46RSI\u5c1a\u672a\u767c\u51fa\u8d85\u8cb7\u8b66\u793a\u524d\u9032\u5834\u4f48\u5c40\u3002"
+      "explanation_en": "Momentum investing is a strategy that buys assets whose prices have been rising and avoids or sells those trending down, based on the idea that strong price trends tend to continue in the short term. Indicators like RSI (Relative Strength Index) and MACD help identify when a stock is in a bullish momentum zone \u2014 not yet overbought but gaining strength. Today's top picks (OSCR, IRDM) both score 95 because their RSI, MACD, and price-vs-moving-average all confirm the same bullish direction.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u6f32\u7b56\u7565\uff0c\u5373\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u8cc7\u7522\uff0c\u8ff4\u907f\u6216\u8ce3\u51fa\u4e0b\u8dcc\u8da8\u52e2\u7684\u6a19\u7684\uff0c\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u77ed\u671f\u5f37\u52e2\u8da8\u52e2\u5f80\u5f80\u5177\u6709\u5ef6\u7e8c\u6027\u3002RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8207MACD\u7b49\u6280\u8853\u6307\u6a19\u53ef\u5354\u52a9\u5224\u65b7\u500b\u80a1\u662f\u5426\u8655\u65bc\u725b\u5e02\u52d5\u80fd\u5340\u9593\u2014\u2014\u5373\u5c1a\u672a\u8d85\u8cb7\u4f46\u5df2\u9010\u6b65\u8d70\u5f37\u7684\u72c0\u614b\u3002\u4eca\u65e5\u7cbe\u9078\u6a19\u7684OSCR\u8207IRDM\u5747\u737295\u5206\uff0c\u539f\u56e0\u5728\u65bc\u5176RSI\u3001MACD\u53ca\u80a1\u50f9\u76f8\u5c0d\u79fb\u52d5\u5e73\u5747\u7dda\u4e09\u9805\u6307\u6a19\u5747\u540c\u6b65\u78ba\u8a8d\u591a\u982d\u8a0a\u865f\u3002"
     }
   }
 }
