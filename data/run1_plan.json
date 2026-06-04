@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-06-04T20:01:10.023425+00:00",
+  "saved_at": "2026-06-04T21:01:14.506956+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,32 +7,38 @@
         "action": "BUY",
         "ticker": "ANDG",
         "conviction": "high",
-        "reasoning": "Top-ranked score of 100 with RSI in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge \u2014 all signals aligned."
+        "reasoning": "Highest score (100) in the screener with all five signals firing including volume surge and MACD histogram rising \u2014 strongest setup in today's list."
       },
       {
         "action": "BUY",
-        "ticker": "KTOS",
-        "conviction": "medium",
-        "reasoning": "Score 95 defense/aerospace name with MACD bullish crossover, rising histogram, and price above SMA-20; defense sector remains resilient in neutral-to-risk-off markets."
+        "ticker": "INOD",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI near the top of the bullish momentum zone (68.6), volume surge, and price well above SMA-20 \u2014 strong trending momentum."
       },
       {
         "action": "BUY",
-        "ticker": "AAOI",
+        "ticker": "CRSP",
         "conviction": "medium",
-        "reasoning": "Score 95 optical networking play with MACD bullish crossover, rising histogram, and RSI in the 55\u201370 momentum sweet spot \u2014 AI infrastructure demand supports the thesis."
+        "reasoning": "Score 95 with volume surge and RSI 62.4 in clean bullish zone; gene-editing biotech sector showing renewed momentum."
+      },
+      {
+        "action": "BUY",
+        "ticker": "CAI",
+        "conviction": "medium",
+        "reasoning": "Score 95, volume surge, RSI 58.9 \u2014 early in the bullish zone with room to run before approaching overbought territory."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets posted a mixed session \u2014 the S&P 500 edged +0.4% while the NASDAQ slipped -0.1%, suggesting mild rotation out of large-cap tech into value and defensive names. With 4 open slots and $1,310 cash, I'm deploying into three high-conviction screener leaders: ANDG (perfect score, volume confirmed), KTOS (defense momentum), and AAOI (optical/AI infrastructure). Existing positions are left untouched pending stop-loss or profit-target triggers.",
+    "briefing": "Markets were mixed today with the S&P 500 edging up 0.4% while the NASDAQ slipped slightly at -0.1%, signaling mild sector rotation away from mega-cap tech. With 4 open slots and $1,310 in idle cash, this is a strong opportunity to deploy into high-momentum names. I'm filling all four slots with the screener's top setups: ANDG (top score, all signals), INOD (strong momentum), CRSP (biotech breakout), and CAI (early bullish entry with volume).",
     "market_education": {
-      "summary_en": "Today's session showed a mild divergence between the S&P 500 (+0.4%) and the NASDAQ (-0.1%), a classic sign of intraday sector rotation where investors trimmed high-multiple tech exposure while adding to value and defensive holdings. This pattern often emerges when macro uncertainty persists but outright panic is absent, leaving participants cautious yet selective. With no major catalysts dominating the tape, breadth within the S&P 500 was positive even as the tech-heavy NASDAQ lagged.",
-      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u51fa\u73fe\u6a19\u666e500\uff08+0.4%\uff09\u8207\u7d0d\u65af\u9054\u514b\uff08-0.1%\uff09\u80cc\u9053\u800c\u99b3\u7684\u8d70\u52e2\uff0c\u5448\u73fe\u5178\u578b\u7684\u677f\u584a\u8f2a\u52d5\u683c\u5c40\u2014\u2014\u8cc7\u91d1\u5f9e\u9ad8\u4f30\u503c\u79d1\u6280\u80a1\u64a4\u51fa\uff0c\u8f49\u5411\u50f9\u503c\u80a1\u8207\u9632\u79a6\u6027\u677f\u584a\u3002\u6b64\u985e\u5206\u6b67\u901a\u5e38\u51fa\u73fe\u65bc\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u672a\u6d88\u3001\u4f46\u5e02\u5834\u5c1a\u672a\u6050\u614c\u7684\u74b0\u5883\u4e2d\uff0c\u6295\u8cc7\u4eba\u4fdd\u6301\u8b39\u614e\u4e4b\u9918\u4ecd\u7a4d\u6975\u9078\u80a1\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6a19\u666e\u6210\u5206\u80a1\u7684\u6574\u9ad4\u5e02\u5834\u5ee3\u5ea6\u7dad\u6301\u6b63\u9762\uff0c\u7d0d\u65af\u9054\u514b\u5247\u76f8\u5c0d\u843d\u5f8c\u3002",
+      "summary_en": "Today's session saw a mild divergence between the S&P 500 (+0.4%) and the NASDAQ (-0.1%), reflecting a quiet rotation out of high-multiple tech names into broader market sectors. With no major macro catalysts, the session was driven by lighter volume positioning ahead of upcoming economic data releases. Small- and mid-cap names with strong technicals outperformed as risk appetite remained cautiously constructive.",
+      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5448\u73fe\u6eab\u548c\u5206\u6b67\u8d70\u52e2\uff0c\u6a19\u666e500\u6307\u6578\u5c0f\u6f320.4%\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u5247\u5fae\u8dcc0.1%\uff0c\u53cd\u6620\u8cc7\u91d1\u5f9e\u9ad8\u4f30\u503c\u79d1\u6280\u80a1\u6084\u7136\u8f2a\u52d5\u81f3\u66f4\u5ee3\u6cdb\u7684\u5e02\u5834\u677f\u584a\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u5e02\u5834\u4ee5\u8f03\u6e05\u6de1\u7684\u91cf\u80fd\u904b\u884c\uff0c\u6295\u8cc7\u8005\u975c\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u3002\u6280\u8853\u9762\u5f37\u52c1\u7684\u4e2d\u5c0f\u578b\u80a1\u8868\u73fe\u76f8\u5c0d\u7a81\u51fa\uff0c\u986f\u793a\u5e02\u5834\u98a8\u96aa\u504f\u597d\u4ecd\u7dad\u6301\u8b39\u614e\u6a02\u89c0\u7684\u57fa\u8abf\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Sector Rotation",
-      "explanation_en": "Sector rotation is when investors move money out of one area of the market (like tech) and into another (like defense or value stocks), often in response to changing economic expectations or risk appetite. Today's split between a rising S&P 500 and a flat NASDAQ is a textbook example \u2014 broad market strength coexisting with tech weakness signals that capital is shifting, not fleeing. Recognizing rotation early helps investors position in sectors gaining inflows before the move becomes obvious.",
-      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u4eba\u5c07\u8cc7\u91d1\u5f9e\u67d0\u4e00\u5e02\u5834\u9818\u57df\uff08\u5982\u79d1\u6280\u80a1\uff09\u8f49\u79fb\u81f3\u53e6\u4e00\u9818\u57df\uff08\u5982\u570b\u9632\u6216\u50f9\u503c\u80a1\uff09\u7684\u73fe\u8c61\uff0c\u901a\u5e38\u53cd\u6620\u5b8f\u89c0\u9810\u671f\u6216\u98a8\u96aa\u504f\u597d\u7684\u6539\u8b8a\u3002\u4eca\u65e5\u6a19\u666e500\u4e0a\u6f32\u800c\u7d0d\u65af\u9054\u514b\u6301\u5e73\uff0c\u6b63\u662f\u677f\u584a\u8f2a\u52d5\u7684\u5178\u578b\u6848\u4f8b\u2014\u2014\u6574\u9ad4\u5e02\u5834\u8d70\u5f37\u4f46\u79d1\u6280\u80a1\u6eef\u6f32\uff0c\u610f\u5473\u8457\u8cc7\u91d1\u5728\u91cd\u65b0\u5206\u914d\u800c\u975e\u5916\u9003\u3002\u80fd\u5920\u63d0\u65e9\u8b58\u5225\u8f2a\u52d5\u8da8\u52e2\u7684\u6295\u8cc7\u4eba\uff0c\u5f80\u5f80\u80fd\u5728\u8cc7\u91d1\u6d41\u5165\u660e\u6717\u5316\u4e4b\u524d\u6436\u5148\u4f48\u5c40\u3002"
+      "explanation_en": "Sector rotation is when investors move money from one sector of the market to another \u2014 for example, from high-growth tech stocks (reflected in NASDAQ) into more defensive or value-oriented sectors (reflected in the broader S&P 500). Today's split between NASDAQ (-0.1%) and S&P 500 (+0.4%) is a textbook example: tech lagged while the broader market gained, suggesting money shifted into non-tech names.",
+      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u4e00\u500b\u5e02\u5834\u677f\u584a\u79fb\u5f80\u53e6\u4e00\u500b\u677f\u584a\u2014\u2014\u4f8b\u5982\u5f9e\u9ad8\u6210\u9577\u79d1\u6280\u80a1\uff08\u53cd\u6620\u5728\u90a3\u65af\u9054\u514b\uff09\u6d41\u5411\u66f4\u5177\u9632\u79a6\u6027\u6216\u50f9\u503c\u578b\u7684\u677f\u584a\uff08\u53cd\u6620\u5728\u6a19\u666e500\u6574\u9ad4\u6307\u6578\uff09\u3002\u4eca\u65e5\u90a3\u65af\u9054\u514b\u5fae\u8dcc0.1%\u800c\u6a19\u666e500\u4e0a\u6f320.4%\uff0c\u6b63\u662f\u5178\u578b\u7684\u8f2a\u52d5\u8a0a\u865f\uff1a\u79d1\u6280\u80a1\u843d\u5f8c\uff0c\u8cc7\u91d1\u8f49\u5411\u975e\u79d1\u6280\u985e\u80a1\uff0c\u986f\u793a\u77ed\u671f\u5e02\u5834\u504f\u597d\u6b63\u5728\u6084\u7136\u8f49\u79fb\u3002"
     }
   }
 }
