@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-06-04T19:01:15.492039+00:00",
+  "saved_at": "2026-06-04T20:01:10.023425+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "OSCR",
+        "ticker": "ANDG",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI in bullish zone (67.5), MACD crossover confirmed, and price 9% above SMA-20 \u2014 strong momentum setup in health insurance tech."
+        "reasoning": "Top-ranked score of 100 with RSI in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge \u2014 all signals aligned."
       },
       {
         "action": "BUY",
-        "ticker": "IRDM",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 62.4, MACD bullish crossover, and price above SMA-20 \u2014 Iridium satellite communications offers defensive growth characteristics in neutral market."
+        "ticker": "KTOS",
+        "conviction": "medium",
+        "reasoning": "Score 95 defense/aerospace name with MACD bullish crossover, rising histogram, and price above SMA-20; defense sector remains resilient in neutral-to-risk-off markets."
+      },
+      {
+        "action": "BUY",
+        "ticker": "AAOI",
+        "conviction": "medium",
+        "reasoning": "Score 95 optical networking play with MACD bullish crossover, rising histogram, and RSI in the 55\u201370 momentum sweet spot \u2014 AI infrastructure demand supports the thesis."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Market is broadly neutral today \u2014 S&P 500 up a solid 0.5% while NASDAQ barely moved at +0.1%, suggesting rotation into large-cap value over growth. Portfolio sits at a healthy +31% P&L with $1,310 cash and 4 open slots, so deploying into two top-scoring momentum names (OSCR, IRDM) to put idle cash to work while keeping two slots in reserve.",
+    "briefing": "Markets posted a mixed session \u2014 the S&P 500 edged +0.4% while the NASDAQ slipped -0.1%, suggesting mild rotation out of large-cap tech into value and defensive names. With 4 open slots and $1,310 cash, I'm deploying into three high-conviction screener leaders: ANDG (perfect score, volume confirmed), KTOS (defense momentum), and AAOI (optical/AI infrastructure). Existing positions are left untouched pending stop-loss or profit-target triggers.",
     "market_education": {
-      "summary_en": "U.S. equities posted a split session, with the S&P 500 gaining 0.5% while the NASDAQ lagged at +0.1%, reflecting rotation from growth into value and cyclicals. This divergence often signals investors trimming high-multiple tech exposure and moving into sectors like industrials, financials, or defensives. With no major macro catalyst, price action was driven largely by sector positioning ahead of upcoming economic data.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u8868\u73fe\u5206\u5316\uff0c\u6a19\u666e500\u4e0a\u6f320.5%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u50c5\u5fae\u53470.1%\uff0c\u986f\u793a\u8cc7\u91d1\u5f9e\u6210\u9577\u80a1\u8f2a\u52d5\u81f3\u50f9\u503c\u80a1\u53ca\u9031\u671f\u6027\u677f\u584a\u3002\u6b64\u7a2e\u8d70\u52e2\u901a\u5e38\u610f\u5473\u6295\u8cc7\u8005\u524a\u6e1b\u9ad8\u4f30\u503c\u79d1\u6280\u80a1\u6301\u5009\uff0c\u8f49\u5411\u5de5\u696d\u3001\u91d1\u878d\u6216\u9632\u79a6\u6027\u677f\u584a\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u76e4\u9762\u4e3b\u8981\u53d7\u677f\u584a\u914d\u7f6e\u8abf\u6574\u4e3b\u5c0e\uff0c\u5e02\u5834\u975c\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u6307\u5f15\u3002",
+      "summary_en": "Today's session showed a mild divergence between the S&P 500 (+0.4%) and the NASDAQ (-0.1%), a classic sign of intraday sector rotation where investors trimmed high-multiple tech exposure while adding to value and defensive holdings. This pattern often emerges when macro uncertainty persists but outright panic is absent, leaving participants cautious yet selective. With no major catalysts dominating the tape, breadth within the S&P 500 was positive even as the tech-heavy NASDAQ lagged.",
+      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u51fa\u73fe\u6a19\u666e500\uff08+0.4%\uff09\u8207\u7d0d\u65af\u9054\u514b\uff08-0.1%\uff09\u80cc\u9053\u800c\u99b3\u7684\u8d70\u52e2\uff0c\u5448\u73fe\u5178\u578b\u7684\u677f\u584a\u8f2a\u52d5\u683c\u5c40\u2014\u2014\u8cc7\u91d1\u5f9e\u9ad8\u4f30\u503c\u79d1\u6280\u80a1\u64a4\u51fa\uff0c\u8f49\u5411\u50f9\u503c\u80a1\u8207\u9632\u79a6\u6027\u677f\u584a\u3002\u6b64\u985e\u5206\u6b67\u901a\u5e38\u51fa\u73fe\u65bc\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u672a\u6d88\u3001\u4f46\u5e02\u5834\u5c1a\u672a\u6050\u614c\u7684\u74b0\u5883\u4e2d\uff0c\u6295\u8cc7\u4eba\u4fdd\u6301\u8b39\u614e\u4e4b\u9918\u4ecd\u7a4d\u6975\u9078\u80a1\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6a19\u666e\u6210\u5206\u80a1\u7684\u6574\u9ad4\u5e02\u5834\u5ee3\u5ea6\u7dad\u6301\u6b63\u9762\uff0c\u7d0d\u65af\u9054\u514b\u5247\u76f8\u5c0d\u843d\u5f8c\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys assets whose prices have been rising and avoids or sells those trending down, based on the idea that strong price trends tend to continue in the short term. Indicators like RSI (Relative Strength Index) and MACD help identify when a stock is in a bullish momentum zone \u2014 not yet overbought but gaining strength. Today's top picks (OSCR, IRDM) both score 95 because their RSI, MACD, and price-vs-moving-average all confirm the same bullish direction.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u6f32\u7b56\u7565\uff0c\u5373\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u8cc7\u7522\uff0c\u8ff4\u907f\u6216\u8ce3\u51fa\u4e0b\u8dcc\u8da8\u52e2\u7684\u6a19\u7684\uff0c\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u77ed\u671f\u5f37\u52e2\u8da8\u52e2\u5f80\u5f80\u5177\u6709\u5ef6\u7e8c\u6027\u3002RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff09\u8207MACD\u7b49\u6280\u8853\u6307\u6a19\u53ef\u5354\u52a9\u5224\u65b7\u500b\u80a1\u662f\u5426\u8655\u65bc\u725b\u5e02\u52d5\u80fd\u5340\u9593\u2014\u2014\u5373\u5c1a\u672a\u8d85\u8cb7\u4f46\u5df2\u9010\u6b65\u8d70\u5f37\u7684\u72c0\u614b\u3002\u4eca\u65e5\u7cbe\u9078\u6a19\u7684OSCR\u8207IRDM\u5747\u737295\u5206\uff0c\u539f\u56e0\u5728\u65bc\u5176RSI\u3001MACD\u53ca\u80a1\u50f9\u76f8\u5c0d\u79fb\u52d5\u5e73\u5747\u7dda\u4e09\u9805\u6307\u6a19\u5747\u540c\u6b65\u78ba\u8a8d\u591a\u982d\u8a0a\u865f\u3002"
+      "term": "Sector Rotation",
+      "explanation_en": "Sector rotation is when investors move money out of one area of the market (like tech) and into another (like defense or value stocks), often in response to changing economic expectations or risk appetite. Today's split between a rising S&P 500 and a flat NASDAQ is a textbook example \u2014 broad market strength coexisting with tech weakness signals that capital is shifting, not fleeing. Recognizing rotation early helps investors position in sectors gaining inflows before the move becomes obvious.",
+      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u4eba\u5c07\u8cc7\u91d1\u5f9e\u67d0\u4e00\u5e02\u5834\u9818\u57df\uff08\u5982\u79d1\u6280\u80a1\uff09\u8f49\u79fb\u81f3\u53e6\u4e00\u9818\u57df\uff08\u5982\u570b\u9632\u6216\u50f9\u503c\u80a1\uff09\u7684\u73fe\u8c61\uff0c\u901a\u5e38\u53cd\u6620\u5b8f\u89c0\u9810\u671f\u6216\u98a8\u96aa\u504f\u597d\u7684\u6539\u8b8a\u3002\u4eca\u65e5\u6a19\u666e500\u4e0a\u6f32\u800c\u7d0d\u65af\u9054\u514b\u6301\u5e73\uff0c\u6b63\u662f\u677f\u584a\u8f2a\u52d5\u7684\u5178\u578b\u6848\u4f8b\u2014\u2014\u6574\u9ad4\u5e02\u5834\u8d70\u5f37\u4f46\u79d1\u6280\u80a1\u6eef\u6f32\uff0c\u610f\u5473\u8457\u8cc7\u91d1\u5728\u91cd\u65b0\u5206\u914d\u800c\u975e\u5916\u9003\u3002\u80fd\u5920\u63d0\u65e9\u8b58\u5225\u8f2a\u52d5\u8da8\u52e2\u7684\u6295\u8cc7\u4eba\uff0c\u5f80\u5f80\u80fd\u5728\u8cc7\u91d1\u6d41\u5165\u660e\u6717\u5316\u4e4b\u524d\u6436\u5148\u4f48\u5c40\u3002"
     }
   }
 }
