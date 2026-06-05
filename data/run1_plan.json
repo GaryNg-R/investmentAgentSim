@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-06-04T21:01:14.506956+00:00",
+  "saved_at": "2026-06-05T13:01:20.302117+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,38 +7,32 @@
         "action": "BUY",
         "ticker": "ANDG",
         "conviction": "high",
-        "reasoning": "Highest score (100) in the screener with all five signals firing including volume surge and MACD histogram rising \u2014 strongest setup in today's list."
-      },
-      {
-        "action": "BUY",
-        "ticker": "INOD",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI near the top of the bullish momentum zone (68.6), volume surge, and price well above SMA-20 \u2014 strong trending momentum."
-      },
-      {
-        "action": "BUY",
-        "ticker": "CRSP",
-        "conviction": "medium",
-        "reasoning": "Score 95 with volume surge and RSI 62.4 in clean bullish zone; gene-editing biotech sector showing renewed momentum."
+        "reasoning": "Highest screener score (100) with all signals aligned \u2014 RSI in the sweet 55\u201370 zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge confirming institutional interest."
       },
       {
         "action": "BUY",
         "ticker": "CAI",
         "conviction": "medium",
-        "reasoning": "Score 95, volume surge, RSI 58.9 \u2014 early in the bullish zone with room to run before approaching overbought territory."
+        "reasoning": "Score 95 with RSI 58.9, MACD bullish, and volume surge at an affordable $17 price point \u2014 strong momentum setup with room to run before overbought territory."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SNAP",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 63.2, volume surge, and price above SMA-20; very affordable entry at ~$6 allows meaningful share count without straining limited cash reserves."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were mixed today with the S&P 500 edging up 0.4% while the NASDAQ slipped slightly at -0.1%, signaling mild sector rotation away from mega-cap tech. With 4 open slots and $1,310 in idle cash, this is a strong opportunity to deploy into high-momentum names. I'm filling all four slots with the screener's top setups: ANDG (top score, all signals), INOD (strong momentum), CRSP (biotech breakout), and CAI (early bullish entry with volume).",
+    "briefing": "Markets were mixed today with S&P 500 eking out a modest gain (+0.4%) while NASDAQ was essentially flat (-0.1%), suggesting rotation away from tech toward broader market names. With 4 open slots and $1,310 in cash, deploying into the top screener names makes sense \u2014 ANDG leads with a perfect score of 100, and CAI and SNAP offer solid momentum at low price points that maximize shares per dollar. Existing positions are left untouched as none appear to be at stop-loss thresholds.",
     "market_education": {
-      "summary_en": "Today's session saw a mild divergence between the S&P 500 (+0.4%) and the NASDAQ (-0.1%), reflecting a quiet rotation out of high-multiple tech names into broader market sectors. With no major macro catalysts, the session was driven by lighter volume positioning ahead of upcoming economic data releases. Small- and mid-cap names with strong technicals outperformed as risk appetite remained cautiously constructive.",
-      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5448\u73fe\u6eab\u548c\u5206\u6b67\u8d70\u52e2\uff0c\u6a19\u666e500\u6307\u6578\u5c0f\u6f320.4%\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u5247\u5fae\u8dcc0.1%\uff0c\u53cd\u6620\u8cc7\u91d1\u5f9e\u9ad8\u4f30\u503c\u79d1\u6280\u80a1\u6084\u7136\u8f2a\u52d5\u81f3\u66f4\u5ee3\u6cdb\u7684\u5e02\u5834\u677f\u584a\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u5e02\u5834\u4ee5\u8f03\u6e05\u6de1\u7684\u91cf\u80fd\u904b\u884c\uff0c\u6295\u8cc7\u8005\u975c\u5f85\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u3002\u6280\u8853\u9762\u5f37\u52c1\u7684\u4e2d\u5c0f\u578b\u80a1\u8868\u73fe\u76f8\u5c0d\u7a81\u51fa\uff0c\u986f\u793a\u5e02\u5834\u98a8\u96aa\u504f\u597d\u4ecd\u7dad\u6301\u8b39\u614e\u6a02\u89c0\u7684\u57fa\u8abf\u3002",
+      "summary_en": "Today's split between the S&P 500 (+0.4%) and NASDAQ (-0.1%) reflects a classic 'rotation day' where investors shifted capital from high-growth tech (NASDAQ-heavy) into value and broader market names. This type of divergence often occurs when rate-sensitive growth stocks face headwinds while defensive and cyclical sectors hold up. The neutral overall tone suggests the market is in a consolidation phase \u2014 neither a risk-on surge nor a risk-off retreat.",
+      "summary_zh": "\u4eca\u65e5\u6a19\u666e500\u4e0a\u6f320.4%\u800c\u7d0d\u6307\u5fae\u8dcc0.1%\uff0c\u5448\u73fe\u5178\u578b\u7684\u300c\u677f\u584a\u8f2a\u52d5\u300d\u683c\u5c40\uff0c\u8cc7\u91d1\u5f9e\u9ad8\u6210\u9577\u79d1\u6280\u80a1\u6d41\u5411\u50f9\u503c\u80a1\u53ca\u5927\u76e4\u9632\u79a6\u578b\u677f\u584a\u3002\u9019\u7a2e\u5206\u5316\u8d70\u52e2\u5e38\u898b\u65bc\u5347\u606f\u74b0\u5883\u6216\u5e02\u5834\u5c0d\u589e\u9577\u524d\u666f\u5b58\u7591\u4e4b\u969b\uff0c\u6210\u9577\u80a1\u4f30\u503c\u627f\u58d3\uff0c\u800c\u5468\u671f\u80a1\u8207\u9632\u79a6\u80a1\u5247\u76f8\u5c0d\u5f37\u52e2\u3002\u6574\u9ad4\u5e02\u5834\u57fa\u8abf\u4e2d\u6027\uff0c\u986f\u793a\u5e02\u5834\u6b63\u8655\u65bc\u6574\u56fa\u968e\u6bb5\uff0c\u65e2\u975e\u5168\u9762\u98a8\u96aa\u504f\u597d\uff0c\u4e5f\u672a\u898b\u907f\u96aa\u60c5\u7dd2\u4e3b\u5c0e\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Sector Rotation",
-      "explanation_en": "Sector rotation is when investors move money from one sector of the market to another \u2014 for example, from high-growth tech stocks (reflected in NASDAQ) into more defensive or value-oriented sectors (reflected in the broader S&P 500). Today's split between NASDAQ (-0.1%) and S&P 500 (+0.4%) is a textbook example: tech lagged while the broader market gained, suggesting money shifted into non-tech names.",
-      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u4e00\u500b\u5e02\u5834\u677f\u584a\u79fb\u5f80\u53e6\u4e00\u500b\u677f\u584a\u2014\u2014\u4f8b\u5982\u5f9e\u9ad8\u6210\u9577\u79d1\u6280\u80a1\uff08\u53cd\u6620\u5728\u90a3\u65af\u9054\u514b\uff09\u6d41\u5411\u66f4\u5177\u9632\u79a6\u6027\u6216\u50f9\u503c\u578b\u7684\u677f\u584a\uff08\u53cd\u6620\u5728\u6a19\u666e500\u6574\u9ad4\u6307\u6578\uff09\u3002\u4eca\u65e5\u90a3\u65af\u9054\u514b\u5fae\u8dcc0.1%\u800c\u6a19\u666e500\u4e0a\u6f320.4%\uff0c\u6b63\u662f\u5178\u578b\u7684\u8f2a\u52d5\u8a0a\u865f\uff1a\u79d1\u6280\u80a1\u843d\u5f8c\uff0c\u8cc7\u91d1\u8f49\u5411\u975e\u79d1\u6280\u985e\u80a1\uff0c\u986f\u793a\u77ed\u671f\u5e02\u5834\u504f\u597d\u6b63\u5728\u6084\u7136\u8f49\u79fb\u3002"
+      "explanation_en": "Sector rotation is when investors move money from one area of the market to another \u2014 for example, selling tech stocks and buying industrials or healthcare. It often happens when economic conditions shift: rising rates hurt growth stocks more, so money rotates to value names. Today's S&P up while NASDAQ was flat is a textbook rotation signal.",
+      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u5e02\u5834\u4e00\u500b\u9818\u57df\u8f49\u79fb\u81f3\u53e6\u4e00\u500b\u9818\u57df\uff0c\u4f8b\u5982\u6e1b\u6301\u79d1\u6280\u80a1\u3001\u589e\u6301\u5de5\u696d\u80a1\u6216\u91ab\u7642\u80a1\u3002\u9019\u901a\u5e38\u767c\u751f\u5728\u7d93\u6fdf\u74b0\u5883\u6539\u8b8a\u6642\uff1a\u5347\u606f\u74b0\u5883\u5c0d\u9ad8\u4f30\u503c\u6210\u9577\u80a1\u6253\u64ca\u66f4\u5927\uff0c\u8cc7\u91d1\u56e0\u6b64\u8f49\u5411\u50f9\u503c\u80a1\u3002\u4eca\u65e5\u6a19\u666e\u4e0a\u6f32\u800c\u7d0d\u6307\u8d70\u5e73\uff0c\u6b63\u662f\u677f\u584a\u8f2a\u52d5\u7684\u6559\u79d1\u66f8\u6848\u4f8b\u3002"
     }
   }
 }
