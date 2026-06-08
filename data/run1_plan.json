@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-06-08T19:01:46.452341+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-06-08T20:01:12.296991+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "INTC",
+        "ticker": "MARA",
         "conviction": "high",
-        "reasoning": "Score 95 with all three bullish signals firing (MACD crossover, rising histogram, price above SMA-20) in a risk-on session where semiconductors lead; RSI at 56 leaves plenty of room before overbought territory."
+        "reasoning": "Top score of 95 with RSI in bullish momentum zone, MACD bullish crossover with rising histogram, and price above SMA-20 \u2014 crypto mining names gaining traction alongside NASDAQ outperformance today."
       },
       {
         "action": "BUY",
-        "ticker": "MARA",
+        "ticker": "AMAT",
+        "conviction": "high",
+        "reasoning": "Co-top score of 95 with clean bullish momentum signals across RSI, MACD, and price-above-SMA; semiconductor equipment is in a strong cycle and NASDAQ strength today validates the sector."
+      },
+      {
+        "action": "BUY",
+        "ticker": "DUOL",
         "conviction": "medium",
-        "reasoning": "Bitcoin miner with score 95 and clean bullish momentum signals is a direct beneficiary of risk-on sentiment; affordable price allows meaningful exposure within remaining cash."
+        "reasoning": "Score 90 with RSI 66.6 approaching overbought but still in valid momentum zone, MACD bullish, and price 5%+ above SMA-20 \u2014 strong growth name benefiting from tech tailwinds."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Risk-on session with NASDAQ leading at +1.1% creates a good entry window for high-scoring momentum names, particularly semiconductors and crypto-adjacent equities. Deployed available cash into INTC (high conviction semiconductor) and MARA (medium conviction crypto miner) to fill two of the four open slots. All six existing positions remain intact with no stop-loss triggers apparent given the portfolio's strong +32.4% overall gain.",
+    "briefing": "Markets came in neutral-to-positive today with NASDAQ leading at +0.9%, signaling continued tech appetite. With 4 open slots and $1,172 in cash, deploying into MARA and AMAT (both score 95) to capture semiconductor and crypto momentum, plus DUOL as a high-quality growth add. Existing positions \u2014 especially GLXY (score 90, still in momentum) \u2014 look healthy; no sells warranted.",
     "market_education": {
-      "summary_en": "Markets moved broadly higher today with growth and technology stocks leading, as the NASDAQ gained 1.1% and the S&P 500 added 0.5% in a clear risk-on session. Investors rotated into higher-beta names including semiconductors and crypto-adjacent equities, reflecting improving risk appetite heading into the week. The move appeared momentum-driven with institutional positioning into beaten-down tech leaders rather than a single headline catalyst.",
-      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u666e\u904d\u4e0a\u63da\uff0c\u6210\u9577\u578b\u53ca\u79d1\u6280\u80a1\u9818\u8dd1\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.1%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53470.5%\uff0c\u5448\u73fe\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u683c\u5c40\u3002\u6295\u8cc7\u8005\u8f2a\u52d5\u81f3\u9ad8\u8c9d\u5854\u503c\u6a19\u7684\uff0c\u5305\u62ec\u534a\u5c0e\u9ad4\u53ca\u52a0\u5bc6\u8ca8\u5e63\u76f8\u95dc\u80a1\u4efd\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u80c3\u53e3\u6301\u7e8c\u6539\u5584\u3002\u4eca\u65e5\u5347\u5e45\u4e3b\u8981\u7531\u52d5\u80fd\u9a45\u52d5\uff0c\u6a5f\u69cb\u8cc7\u91d1\u7a4d\u6975\u4f48\u5c40\u8d85\u8dcc\u79d1\u6280\u9f8d\u982d\u80a1\uff0c\u4e26\u975e\u55ae\u4e00\u6d88\u606f\u9762\u50ac\u5316\u6240\u81f4\u3002",
+      "summary_en": "U.S. equities finished mixed but tilted positive Monday, with the NASDAQ outpacing the broader S&P 500 as investors rotated back into technology and growth names. Semiconductor and AI-adjacent stocks led the charge, reflecting ongoing confidence in the sector's earnings trajectory. The muted S&P 500 gain suggests the rally was concentrated rather than broad-based, a pattern often seen when institutional money is selectively adding risk rather than making a macro call.",
+      "summary_zh": "\u7f8e\u80a1\u9031\u4e00\u6536\u76e4\u6f32\u8dcc\u4e92\u898b\uff0c\u4f46\u6574\u9ad4\u504f\u591a\uff0c\u7d0d\u6307\u8dd1\u8d0f\u5927\u76e4\uff0c\u53cd\u6620\u5e02\u5834\u8cc7\u91d1\u91cd\u8fd4\u79d1\u6280\u53ca\u6210\u9577\u80a1\u3002\u534a\u5c0e\u9ad4\u8207AI\u76f8\u95dc\u500b\u80a1\u5f15\u9818\u5347\u52e2\uff0c\u986f\u793a\u5e02\u5834\u5c0d\u8a72\u677f\u584a\u7372\u5229\u524d\u666f\u4ecd\u5177\u4fe1\u5fc3\u3002\u6a19\u666e500\u6eab\u548c\u4e0a\u6f32\uff0c\u610f\u5473\u8457\u6b64\u6ce2\u53cd\u5f48\u96c6\u4e2d\u65bc\u7279\u5b9a\u677f\u584a\uff0c\u800c\u975e\u5168\u9762\u6027\u7684\u98a8\u96aa\u504f\u597d\u56de\u5347\u2014\u2014\u9019\u7a2e\u683c\u5c40\u901a\u5e38\u51fa\u73fe\u5728\u6a5f\u69cb\u8cc7\u91d1\u9078\u64c7\u6027\u52a0\u5009\u3001\u800c\u975e\u62bc\u6ce8\u5b8f\u89c0\u884c\u60c5\u4e4b\u969b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On Sentiment",
-      "explanation_en": "Risk-on sentiment describes a market environment where investors feel confident enough to buy higher-risk assets \u2014 growth stocks, tech, crypto miners \u2014 in pursuit of bigger gains. Today's session, with NASDAQ up 1.1% and all our top screener picks flashing bullish momentum signals, is a textbook risk-on day. When risk-on dominates, high-beta names like MARA and INTC tend to outperform defensive assets like bonds and utilities.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\u60c5\u7dd2\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u9858\u610f\u8cb7\u5165\u79d1\u6280\u80a1\u3001\u6210\u9577\u80a1\u53ca\u52a0\u5bc6\u8ca8\u5e63\u7b49\u8f03\u9ad8\u98a8\u96aa\u8cc7\u7522\u4ee5\u8ffd\u6c42\u66f4\u9ad8\u56de\u5831\u7684\u5e02\u5834\u72c0\u614b\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.1%\uff0c\u7be9\u9078\u51fa\u7684\u9ad8\u52d5\u80fd\u500b\u80a1\u5168\u9762\u4eae\u8d77\u770b\u6f32\u8a0a\u865f\uff0c\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u4ea4\u6613\u65e5\u3002\u7576\u5e02\u5834\u9032\u5165\u98a8\u96aa\u504f\u597d\u6a21\u5f0f\uff0cMARA\u3001INTC\u7b49\u9ad8\u8c9d\u5854\u503c\u80a1\u7968\u5f80\u5f80\u5927\u5e45\u8dd1\u8d0f\u50b5\u5238\u53ca\u516c\u7528\u4e8b\u696d\u7b49\u9632\u79a6\u6027\u8cc7\u7522\u3002"
+      "term": "Sector Rotation",
+      "explanation_en": "Sector rotation is when investors shift money from one area of the market to another \u2014 today's NASDAQ outperforming the S&P 500 is a classic example of capital moving toward high-growth tech while other sectors lag. This creates windows where momentum-based strategies can add alpha by riding the sector receiving the new inflows. Recognizing which sectors are in favor helps you position before the move matures.",
+      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u4e00\u500b\u5e02\u5834\u677f\u584a\u8f49\u79fb\u81f3\u53e6\u4e00\u500b\u677f\u584a\u3002\u4eca\u65e5\u7d0d\u6307\u8dd1\u8d0f\u6a19\u666e500\uff0c\u6b63\u662f\u8cc7\u91d1\u6d41\u5411\u9ad8\u6210\u9577\u79d1\u6280\u80a1\u3001\u5176\u4ed6\u677f\u584a\u76f8\u5c0d\u6eef\u6f32\u7684\u5178\u578b\u4f8b\u5b50\u3002\u9019\u7a2e\u73fe\u8c61\u70ba\u52d5\u80fd\u7b56\u7565\u5275\u9020\u4e86\u6a5f\u6703\u2014\u2014\u5728\u8cc7\u91d1\u6301\u7e8c\u6e67\u5165\u7684\u677f\u584a\u4e2d\u5361\u4f4d\uff0c\u5f80\u5f80\u80fd\u5728\u884c\u60c5\u6210\u719f\u524d\u6436\u5f97\u5148\u6a5f\u3002\u8fa8\u8b58\u54ea\u500b\u677f\u584a\u6b63\u53d7\u8cc7\u91d1\u9752\u775e\uff0c\u662f\u4e3b\u52d5\u9078\u80a1\u7684\u91cd\u8981\u80fd\u529b\u3002"
     }
   }
 }
