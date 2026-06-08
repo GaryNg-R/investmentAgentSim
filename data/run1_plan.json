@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-06-08T18:01:35.669484+00:00",
+  "saved_at": "2026-06-08T19:01:46.452341+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
         "ticker": "INTC",
-        "conviction": "medium",
-        "reasoning": "Full momentum stack (RSI 56.2, MACD bullish crossover, histogram rising, above SMA-20) with RSI in the ideal entry zone \u2014 not stretched \u2014 on a risk-on day favoring semiconductors."
+        "conviction": "high",
+        "reasoning": "Score 95 with all three bullish signals firing (MACD crossover, rising histogram, price above SMA-20) in a risk-on session where semiconductors lead; RSI at 56 leaves plenty of room before overbought territory."
       },
       {
         "action": "BUY",
-        "ticker": "ADEA",
+        "ticker": "MARA",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 57.9 and all bullish signals aligned; low share price allows meaningful position sizing with remaining cash and adds diversification away from crypto/mining names."
+        "reasoning": "Bitcoin miner with score 95 and clean bullish momentum signals is a direct beneficiary of risk-on sentiment; affordable price allows meaningful exposure within remaining cash."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Risk-on tape today with NASDAQ outpacing the S&P 500 by 2x, a classic growth-favoring session. GLXY is already in the portfolio and still scoring 95 \u2014 holding. Deploying remaining cash into INTC and ADEA, both sitting in the sweet spot of the momentum range (RSI mid-to-high 50s) with clean technical setups, filling two of the four open slots.",
+    "briefing": "Risk-on session with NASDAQ leading at +1.1% creates a good entry window for high-scoring momentum names, particularly semiconductors and crypto-adjacent equities. Deployed available cash into INTC (high conviction semiconductor) and MARA (medium conviction crypto miner) to fill two of the four open slots. All six existing positions remain intact with no stop-loss triggers apparent given the portfolio's strong +32.4% overall gain.",
     "market_education": {
-      "summary_en": "Markets rallied in risk-on fashion today, with growth and technology leading as the NASDAQ gained 1.2% versus a more modest 0.6% for the broader S&P 500. This divergence typically reflects investor confidence in higher-growth, higher-multiple companies \u2014 often fueled by easing rate expectations or strong earnings signals from tech bellwethers. Semiconductor names in particular showed broad strength, with multiple chip stocks appearing in top momentum screener results.",
-      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u5448\u73fe\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u9818\u6f32\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.2%\uff0c\u8868\u73fe\u660e\u986f\u512a\u65bc\u6a19\u666e500\u6307\u6578\u76840.6%\u6f32\u5e45\u3002\u9019\u7a2e\u5206\u5316\u8d70\u52e2\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u8005\u5c0d\u9ad8\u6210\u9577\u3001\u9ad8\u4f30\u503c\u4f01\u696d\u7684\u4fe1\u5fc3\u56de\u5347\uff0c\u5f80\u5f80\u8207\u5e02\u5834\u5c0d\u806f\u6e96\u6703\u964d\u606f\u9810\u671f\u5347\u6eab\u6216\u79d1\u6280\u9f8d\u982d\u4f01\u696d\u8ca1\u5831\u8868\u73fe\u5f37\u52c1\u6709\u95dc\u3002\u534a\u5c0e\u9ad4\u985e\u80a1\u666e\u904d\u8d70\u5f37\uff0c\u591a\u6a94\u6676\u7247\u80a1\u5728\u52d5\u80fd\u7be9\u9078\u5668\u4e2d\u540d\u5217\u524d\u8305\u3002",
+      "summary_en": "Markets moved broadly higher today with growth and technology stocks leading, as the NASDAQ gained 1.1% and the S&P 500 added 0.5% in a clear risk-on session. Investors rotated into higher-beta names including semiconductors and crypto-adjacent equities, reflecting improving risk appetite heading into the week. The move appeared momentum-driven with institutional positioning into beaten-down tech leaders rather than a single headline catalyst.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u666e\u904d\u4e0a\u63da\uff0c\u6210\u9577\u578b\u53ca\u79d1\u6280\u80a1\u9818\u8dd1\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.1%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53470.5%\uff0c\u5448\u73fe\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u683c\u5c40\u3002\u6295\u8cc7\u8005\u8f2a\u52d5\u81f3\u9ad8\u8c9d\u5854\u503c\u6a19\u7684\uff0c\u5305\u62ec\u534a\u5c0e\u9ad4\u53ca\u52a0\u5bc6\u8ca8\u5e63\u76f8\u95dc\u80a1\u4efd\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u80c3\u53e3\u6301\u7e8c\u6539\u5584\u3002\u4eca\u65e5\u5347\u5e45\u4e3b\u8981\u7531\u52d5\u80fd\u9a45\u52d5\uff0c\u6a5f\u69cb\u8cc7\u91d1\u7a4d\u6975\u4f48\u5c40\u8d85\u8dcc\u79d1\u6280\u9f8d\u982d\u80a1\uff0c\u4e26\u975e\u55ae\u4e00\u6d88\u606f\u9762\u50ac\u5316\u6240\u81f4\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-On Sentiment",
-      "explanation_en": "Risk-on is when investors feel confident and willing to buy higher-risk, higher-reward assets like tech stocks and crypto. On these days, the NASDAQ typically outperforms the S&P 500 because it has more growth companies. It's the opposite of risk-off, when investors flee to safe havens like bonds and gold.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u9858\u610f\u8cb7\u5165\u79d1\u6280\u80a1\u3001\u52a0\u5bc6\u8ca8\u5e63\u7b49\u9ad8\u98a8\u96aa\u3001\u9ad8\u5831\u916c\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u5728\u9019\u985e\u884c\u60c5\u4e2d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u7684\u6f32\u5e45\u901a\u5e38\u512a\u65bc\u6a19\u666e500\uff0c\u56e0\u70ba\u5176\u6210\u5206\u80a1\u4e2d\u6210\u9577\u578b\u4f01\u696d\u4f54\u6bd4\u66f4\u9ad8\u3002\u9019\u8207\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u76f8\u53cd\u2014\u2014\u5f8c\u8005\u662f\u6295\u8cc7\u8005\u8f49\u5411\u50b5\u5238\u3001\u9ec3\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u7684\u5e02\u6cc1\u3002"
+      "explanation_en": "Risk-on sentiment describes a market environment where investors feel confident enough to buy higher-risk assets \u2014 growth stocks, tech, crypto miners \u2014 in pursuit of bigger gains. Today's session, with NASDAQ up 1.1% and all our top screener picks flashing bullish momentum signals, is a textbook risk-on day. When risk-on dominates, high-beta names like MARA and INTC tend to outperform defensive assets like bonds and utilities.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\u60c5\u7dd2\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u9858\u610f\u8cb7\u5165\u79d1\u6280\u80a1\u3001\u6210\u9577\u80a1\u53ca\u52a0\u5bc6\u8ca8\u5e63\u7b49\u8f03\u9ad8\u98a8\u96aa\u8cc7\u7522\u4ee5\u8ffd\u6c42\u66f4\u9ad8\u56de\u5831\u7684\u5e02\u5834\u72c0\u614b\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.1%\uff0c\u7be9\u9078\u51fa\u7684\u9ad8\u52d5\u80fd\u500b\u80a1\u5168\u9762\u4eae\u8d77\u770b\u6f32\u8a0a\u865f\uff0c\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u4ea4\u6613\u65e5\u3002\u7576\u5e02\u5834\u9032\u5165\u98a8\u96aa\u504f\u597d\u6a21\u5f0f\uff0cMARA\u3001INTC\u7b49\u9ad8\u8c9d\u5854\u503c\u80a1\u7968\u5f80\u5f80\u5927\u5e45\u8dd1\u8d0f\u50b5\u5238\u53ca\u516c\u7528\u4e8b\u696d\u7b49\u9632\u79a6\u6027\u8cc7\u7522\u3002"
     }
   }
 }
