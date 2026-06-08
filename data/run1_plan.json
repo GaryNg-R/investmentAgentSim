@@ -1,38 +1,44 @@
 {
-  "saved_at": "2026-06-08T14:01:22.774808+00:00",
+  "saved_at": "2026-06-08T15:01:30.392029+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
+        "action": "SELL",
+        "ticker": "SYNA",
+        "shares": 18,
+        "reasoning": "Score dropped to 40 with MACD below signal line, price below SMA-20, and a volume surge suggesting distribution \u2014 rotating capital into higher-momentum names while the gain is still positive"
+      },
+      {
         "action": "BUY",
-        "ticker": "CBRS",
+        "ticker": "GLXY",
         "conviction": "high",
-        "reasoning": "Perfect momentum score with RSI in ideal bullish zone (56.8), MACD bullish crossover, volume surge, and price extended above SMA-20 \u2014 all signals aligned in risk-on environment."
+        "reasoning": "Score 95 with all three bullish signals confirmed \u2014 RSI 61.5 in the sweet spot, clean MACD crossover, and price 11% above SMA-20 in a risk-on tape"
+      },
+      {
+        "action": "BUY",
+        "ticker": "INTC",
+        "conviction": "high",
+        "reasoning": "Score 95 with full RSI and MACD confirmation; semiconductors are a direct beneficiary of today's tech-led risk-on move"
       },
       {
         "action": "BUY",
         "ticker": "ELF",
-        "conviction": "high",
-        "reasoning": "Perfect momentum score with RSI 63.3 in bullish zone, MACD bullish crossover, volume surge above 1.5x average \u2014 strong setup at an accessible price point that maximizes share count."
-      },
-      {
-        "action": "BUY",
-        "ticker": "USLM",
         "conviction": "medium",
-        "reasoning": "Perfect momentum score with all signals aligned, but RSI 66.7 is approaching overbought territory, warranting medium conviction despite strong technical setup."
+        "reasoning": "Score 95 with RSI 65.8 and clean MACD crossover; consumer beauty offers defensive-growth characteristics while still posting strong momentum"
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Risk-on day with NASDAQ leading at +0.8% and S&P 500 up +0.5%, supporting new momentum buys. With 4 open slots and cash available, I'm filling three with the top-scoring candidates (CBRS, ELF, USLM) \u2014 all score 100 with RSI in the bullish momentum zone and volume surges. Avoided the overbought names (TNGX 77.9, NIC 76.3, OSCR 75.8, SRAD 74.5) as chasing extended RSIs in the 75+ range typically raises reversal risk.",
+    "briefing": "Markets are strongly risk-on today with NASDAQ up 1.7% and S&P 500 up 1.1%, led by tech and semiconductors. I rotated out of SYNA, which has turned technically bearish (score 40, MACD bearish, price below SMA-20 with elevated volume), and redeployed into three score-95 names \u2014 GLXY, INTC, and ELF \u2014 all showing full bullish confirmation. This brings us to 8 positions with minimal idle cash heading into a positive tape.",
     "market_education": {
-      "summary_en": "Equity markets extended gains in a broad risk-on session, with technology and growth names leading as investor appetite for higher-risk assets remained elevated. The NASDAQ outpaced the S&P 500, a pattern typical when sentiment shifts toward cyclical and momentum-driven sectors rather than defensives. No major macro headwinds emerged to disrupt the rally, allowing momentum stocks with strong technicals to continue breaking out.",
-      "summary_zh": "\u80a1\u5e02\u5728\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u5e36\u52d5\u4e0b\u5168\u9762\u4e0a\u63da\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u9818\u6f32\u3002\u90a3\u65af\u9054\u514b\u8868\u73fe\u512a\u65bc\u6a19\u666e500\uff0c\u53cd\u6620\u8cc7\u91d1\u6301\u7e8c\u6d41\u5411\u52d5\u80fd\u5f37\u52c1\u7684\u9031\u671f\u6027\u677f\u584a\uff0c\u800c\u975e\u9632\u79a6\u578b\u8cc7\u7522\u3002\u5b8f\u89c0\u9762\u672a\u73fe\u91cd\u5927\u5229\u7a7a\uff0c\u4f7f\u6280\u8853\u9762\u5f37\u52e2\u80a1\u5f97\u4ee5\u5ef6\u7e8c\u7a81\u7834\u8d70\u52e2\uff0c\u6574\u9ad4\u5e02\u5834\u6c23\u6c1b\u6a02\u89c0\u3002",
+      "summary_en": "Equities rallied broadly on Monday as tech stocks led a risk-on session, with the NASDAQ surging 1.7% and the S&P 500 gaining 1.1%. Semiconductor and AI-linked names outperformed as investor sentiment improved following easing trade tensions and cooling inflation expectations. Steady bond yields reduced the opportunity cost of holding equities, reinforcing the rotation into growth stocks.",
+      "summary_zh": "\u9031\u4e00\u7f8e\u80a1\u5168\u9762\u8d70\u63da\uff0c\u79d1\u6280\u80a1\u9818\u6f32\u5e36\u52d5\u98a8\u96aa\u504f\u597d\u5347\u6eab\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u52c1\u53471.7%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u4e0a\u6f321.1%\u3002\u534a\u5c0e\u9ad4\u53caAI\u6982\u5ff5\u80a1\u8868\u73fe\u4eae\u773c\uff0c\u53d7\u60e0\u65bc\u8cbf\u6613\u7dca\u5f35\u5c40\u52e2\u7de9\u89e3\u53ca\u901a\u8139\u9810\u671f\u56de\u843d\uff0c\u5e02\u5834\u4fe1\u5fc3\u6301\u7e8c\u56de\u5347\u3002\u50b5\u5238\u6536\u76ca\u7387\u7dad\u6301\u7a69\u5b9a\uff0c\u964d\u4f4e\u4e86\u6301\u80a1\u6a5f\u6703\u6210\u672c\uff0c\u9032\u4e00\u6b65\u63a8\u52d5\u8cc7\u91d1\u8f2a\u52d5\u81f3\u6210\u9577\u985e\u80a1\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy of buying stocks that have been trending upward and showing strong price and volume signals, with the expectation that the trend will continue. Indicators like RSI (measuring speed of price change) and MACD (measuring trend direction and strength) help identify stocks in healthy uptrends versus those that are overextended. Today's top picks (CBRS, ELF, USLM) exemplify ideal momentum setups \u2014 RSI in the 55\u201370 bullish zone, not yet overbought, with confirming volume.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u50f9\u683c\u6301\u7e8c\u4e0a\u6f32\u3001\u6280\u8853\u8a0a\u865f\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u9810\u671f\u8da8\u52e2\u5c07\u5ef6\u7e8c\u3002RSI\uff08\u8861\u91cf\u50f9\u683c\u8b8a\u52d5\u901f\u5ea6\uff09\u8207MACD\uff08\u8861\u91cf\u8da8\u52e2\u65b9\u5411\u8207\u5f37\u5ea6\uff09\u662f\u5224\u65b7\u80a1\u7968\u662f\u5426\u8655\u65bc\u5065\u5eb7\u4e0a\u5347\u8da8\u52e2\u6216\u5df2\u904e\u5ea6\u5ef6\u4f38\u7684\u91cd\u8981\u5de5\u5177\u3002\u4eca\u65e5\u7cbe\u9078\u7684CBRS\u3001ELF\u53caUSLM\u5747\u5c6c\u6a19\u6e96\u52d5\u80fd\u4f48\u5c40\u2014\u2014RSI\u4ecb\u65bc55\u81f370\u7684\u5f37\u52e2\u5340\u9593\uff0c\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\uff0c\u4e14\u6210\u4ea4\u91cf\u540c\u6b65\u653e\u5927\u78ba\u8a8d\u8da8\u52e2\u3002"
+      "term": "Momentum Rotation",
+      "explanation_en": "Momentum rotation means selling stocks whose price trend is weakening and redeploying that capital into stocks with accelerating momentum. Today SYNA's signals deteriorated \u2014 its MACD turned bearish and price slipped below the 20-day moving average \u2014 making it a textbook candidate to exit in favor of score-95 names like GLXY, INTC, and ELF that show full technical confirmation.",
+      "explanation_zh": "\u52d5\u80fd\u8f2a\u63db\u662f\u6307\u8ce3\u51fa\u6280\u8853\u8da8\u52e2\u8f49\u5f31\u7684\u80a1\u7968\uff0c\u4e26\u5c07\u8cc7\u91d1\u91cd\u65b0\u914d\u7f6e\u81f3\u52d5\u80fd\u52a0\u901f\u4e0a\u5347\u7684\u6a19\u7684\u3002\u4eca\u5929SYNA\u7684\u6280\u8853\u6307\u6a19\u60e1\u5316\u2014\u2014MACD\u8f49\u70ba\u770b\u8dcc\u3001\u80a1\u50f9\u8dcc\u783420\u65e5\u5747\u7dda\u2014\u2014\u6210\u70ba\u5178\u578b\u7684\u51fa\u5834\u4fe1\u865f\uff0c\u8cc7\u91d1\u56e0\u6b64\u8f2a\u63db\u81f3GLXY\u3001INTC\u3001ELF\u7b49\u6280\u8853\u9762\u5168\u9762\u78ba\u8a8d\u768495\u5206\u5f37\u52e2\u80a1\u3002"
     }
   }
 }
