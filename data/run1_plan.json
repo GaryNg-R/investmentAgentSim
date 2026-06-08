@@ -1,38 +1,32 @@
 {
-  "saved_at": "2026-06-08T20:01:12.296991+00:00",
+  "saved_at": "2026-06-08T21:01:39.786808+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "MARA",
-        "conviction": "high",
-        "reasoning": "Top score of 95 with RSI in bullish momentum zone, MACD bullish crossover with rising histogram, and price above SMA-20 \u2014 crypto mining names gaining traction alongside NASDAQ outperformance today."
-      },
-      {
-        "action": "BUY",
         "ticker": "AMAT",
         "conviction": "high",
-        "reasoning": "Co-top score of 95 with clean bullish momentum signals across RSI, MACD, and price-above-SMA; semiconductor equipment is in a strong cycle and NASDAQ strength today validates the sector."
+        "reasoning": "Score 95 with full momentum trifecta \u2014 RSI in bullish zone, MACD bullish crossover, and price above SMA-20; semiconductor equipment sector continues to benefit from AI data center buildout spend."
       },
       {
         "action": "BUY",
-        "ticker": "DUOL",
+        "ticker": "MARA",
         "conviction": "medium",
-        "reasoning": "Score 90 with RSI 66.6 approaching overbought but still in valid momentum zone, MACD bullish, and price 5%+ above SMA-20 \u2014 strong growth name benefiting from tech tailwinds."
+        "reasoning": "Score 95 crypto miner with MACD crossover and RSI in bullish zone; complements existing GLXY position as a diversified crypto-momentum bet with Bitcoin's ongoing trend."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets came in neutral-to-positive today with NASDAQ leading at +0.9%, signaling continued tech appetite. With 4 open slots and $1,172 in cash, deploying into MARA and AMAT (both score 95) to capture semiconductor and crypto momentum, plus DUOL as a high-quality growth add. Existing positions \u2014 especially GLXY (score 90, still in momentum) \u2014 look healthy; no sells warranted.",
+    "briefing": "Markets closed neutral with NASDAQ outperforming at +0.9% versus S&P500's +0.3%, signaling selective tech and growth buying rather than broad risk appetite. With 4 open slots and $1,172 cash above the $500 deployment threshold, I'm putting idle capital to work in AMAT and MARA \u2014 both scoring 95 with clean momentum signals. Existing holdings look healthy and no stop-loss triggers are in danger.",
     "market_education": {
-      "summary_en": "U.S. equities finished mixed but tilted positive Monday, with the NASDAQ outpacing the broader S&P 500 as investors rotated back into technology and growth names. Semiconductor and AI-adjacent stocks led the charge, reflecting ongoing confidence in the sector's earnings trajectory. The muted S&P 500 gain suggests the rally was concentrated rather than broad-based, a pattern often seen when institutional money is selectively adding risk rather than making a macro call.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u4e00\u6536\u76e4\u6f32\u8dcc\u4e92\u898b\uff0c\u4f46\u6574\u9ad4\u504f\u591a\uff0c\u7d0d\u6307\u8dd1\u8d0f\u5927\u76e4\uff0c\u53cd\u6620\u5e02\u5834\u8cc7\u91d1\u91cd\u8fd4\u79d1\u6280\u53ca\u6210\u9577\u80a1\u3002\u534a\u5c0e\u9ad4\u8207AI\u76f8\u95dc\u500b\u80a1\u5f15\u9818\u5347\u52e2\uff0c\u986f\u793a\u5e02\u5834\u5c0d\u8a72\u677f\u584a\u7372\u5229\u524d\u666f\u4ecd\u5177\u4fe1\u5fc3\u3002\u6a19\u666e500\u6eab\u548c\u4e0a\u6f32\uff0c\u610f\u5473\u8457\u6b64\u6ce2\u53cd\u5f48\u96c6\u4e2d\u65bc\u7279\u5b9a\u677f\u584a\uff0c\u800c\u975e\u5168\u9762\u6027\u7684\u98a8\u96aa\u504f\u597d\u56de\u5347\u2014\u2014\u9019\u7a2e\u683c\u5c40\u901a\u5e38\u51fa\u73fe\u5728\u6a5f\u69cb\u8cc7\u91d1\u9078\u64c7\u6027\u52a0\u5009\u3001\u800c\u975e\u62bc\u6ce8\u5b8f\u89c0\u884c\u60c5\u4e4b\u969b\u3002",
+      "summary_en": "U.S. equities posted modest gains today with the NASDAQ leading the S&P 500 by a clear margin, a pattern typically seen when investors rotate into growth and technology names over defensive sectors. Semiconductor and AI-adjacent stocks attracted buyers as capital expenditure commitments from cloud hyperscalers continue to support the equipment supply chain. The subdued S&P 500 gain of +0.3% suggests the broader market is consolidating recent moves rather than making a fresh directional commitment.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5c0f\u5e45\u6536\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u660e\u986f\u8dd1\u8d0f\u6a19\u666e500\uff0c\u9019\u7a2e\u5206\u5316\u8d70\u52e2\u901a\u5e38\u53cd\u6620\u8cc7\u91d1\u504f\u5411\u6210\u9577\u80a1\u8207\u79d1\u6280\u677f\u584a\u3001\u800c\u975e\u9632\u79a6\u6027\u914d\u7f6e\u3002\u53d7\u96f2\u7aef\u5de8\u982d\u6301\u7e8c\u5927\u898f\u6a21\u8cc7\u672c\u652f\u51fa\u8a08\u5283\u5e36\u52d5\uff0c\u534a\u5c0e\u9ad4\u8a2d\u5099\u53caAI\u76f8\u95dc\u500b\u80a1\u5438\u5f15\u8cb7\u76e4\u9032\u5834\u3002\u6a19\u666e500\u6574\u9ad4\u6f32\u5e45\u50c50.3%\uff0c\u986f\u793a\u5927\u76e4\u5728\u8fd1\u671f\u4e0a\u6f32\u5f8c\u9032\u5165\u6574\u56fa\uff0c\u77ed\u671f\u65b9\u5411\u6709\u5f85\u660e\u78ba\u89f8\u5a92\u50ac\u5316\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Sector Rotation",
-      "explanation_en": "Sector rotation is when investors shift money from one area of the market to another \u2014 today's NASDAQ outperforming the S&P 500 is a classic example of capital moving toward high-growth tech while other sectors lag. This creates windows where momentum-based strategies can add alpha by riding the sector receiving the new inflows. Recognizing which sectors are in favor helps you position before the move matures.",
-      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u4e00\u500b\u5e02\u5834\u677f\u584a\u8f49\u79fb\u81f3\u53e6\u4e00\u500b\u677f\u584a\u3002\u4eca\u65e5\u7d0d\u6307\u8dd1\u8d0f\u6a19\u666e500\uff0c\u6b63\u662f\u8cc7\u91d1\u6d41\u5411\u9ad8\u6210\u9577\u79d1\u6280\u80a1\u3001\u5176\u4ed6\u677f\u584a\u76f8\u5c0d\u6eef\u6f32\u7684\u5178\u578b\u4f8b\u5b50\u3002\u9019\u7a2e\u73fe\u8c61\u70ba\u52d5\u80fd\u7b56\u7565\u5275\u9020\u4e86\u6a5f\u6703\u2014\u2014\u5728\u8cc7\u91d1\u6301\u7e8c\u6e67\u5165\u7684\u677f\u584a\u4e2d\u5361\u4f4d\uff0c\u5f80\u5f80\u80fd\u5728\u884c\u60c5\u6210\u719f\u524d\u6436\u5f97\u5148\u6a5f\u3002\u8fa8\u8b58\u54ea\u500b\u677f\u584a\u6b63\u53d7\u8cc7\u91d1\u9752\u775e\uff0c\u662f\u4e3b\u52d5\u9078\u80a1\u7684\u91cd\u8981\u80fd\u529b\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is the strategy of buying stocks that are already trending upward, based on the observation that rising stocks tend to keep rising for a period. Today's top picks \u2014 AMAT and MARA \u2014 were selected precisely because they show stacked momentum signals: RSI in the 55\u201370 bullish zone, a MACD bullish crossover, and price trading above the 20-day moving average. The key risk is that momentum can reverse sharply when sentiment shifts, which is why stop-losses are essential.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u6280\u8853\u9762\u5411\u597d\u7684\u500b\u80a1\u5f80\u5f80\u6703\u5ef6\u7e8c\u5347\u52e2\u4e00\u6bb5\u6642\u9593\u3002\u4eca\u65e5\u7cbe\u9078\u7684AMAT\u8207MARA\u5747\u7b26\u5408\u591a\u91cd\u52d5\u80fd\u689d\u4ef6\uff1aRSI\u843d\u572855\u81f370\u7684\u591a\u982d\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u4ee5\u53ca\u80a1\u50f9\u7ad9\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\u3002\u6b64\u7b56\u7565\u6700\u5927\u7684\u98a8\u96aa\u5728\u65bc\u5e02\u5834\u60c5\u7dd2\u4e00\u65e6\u9006\u8f49\uff0c\u52d5\u80fd\u5f80\u5f80\u6025\u901f\u6d88\u9000\uff0c\u56e0\u6b64\u56b4\u683c\u57f7\u884c\u6b62\u640d\u6a5f\u5236\u81f3\u95dc\u91cd\u8981\u3002"
     }
   }
 }
