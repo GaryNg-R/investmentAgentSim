@@ -1,32 +1,44 @@
 {
-  "saved_at": "2026-06-08T21:01:39.786808+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-06-11T19:23:18.779451+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "AMAT",
+        "ticker": "VSAT",
         "conviction": "high",
-        "reasoning": "Score 95 with full momentum trifecta \u2014 RSI in bullish zone, MACD bullish crossover, and price above SMA-20; semiconductor equipment sector continues to benefit from AI data center buildout spend."
+        "reasoning": "Top screener score (100) with volume surge, MACD bullish crossover, RSI 68.1 in ideal momentum zone, and price well above SMA-20 \u2014 best risk/reward on the board today."
       },
       {
         "action": "BUY",
-        "ticker": "MARA",
+        "ticker": "LUNR",
+        "conviction": "high",
+        "reasoning": "RSI 60.9 leaves meaningful upside before overbought territory, full MACD bullish confirmation, and space sector has strong risk-on tailwinds with NASDAQ up 2.2%."
+      },
+      {
+        "action": "BUY",
+        "ticker": "LRCX",
         "conviction": "medium",
-        "reasoning": "Score 95 crypto miner with MACD crossover and RSI in bullish zone; complements existing GLXY position as a diversified crypto-momentum bet with Bitcoin's ongoing trend."
+        "reasoning": "Lam Research is a core semiconductor equipment name with RSI 67.2 and complete MACD bullish stack \u2014 semiconductor equipment running hard on risk-on days."
+      },
+      {
+        "action": "BUY",
+        "ticker": "ASTS",
+        "conviction": "medium",
+        "reasoning": "RSI 60.0 has the most room to run among the 95-score names, MACD histogram rising, satellite broadband sector aligned with current tech momentum."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets closed neutral with NASDAQ outperforming at +0.9% versus S&P500's +0.3%, signaling selective tech and growth buying rather than broad risk appetite. With 4 open slots and $1,172 cash above the $500 deployment threshold, I'm putting idle capital to work in AMAT and MARA \u2014 both scoring 95 with clean momentum signals. Existing holdings look healthy and no stop-loss triggers are in danger.",
+    "briefing": "Strong risk-on session with NASDAQ +2.2% and S&P +1.6% \u2014 exactly the environment to deploy idle cash. We had 4 open slots and $1,172 sitting unused, so I filled all four with high-momentum names: VSAT (top score with volume surge), LUNR (space sector, RSI has room), LRCX (semiconductor equipment), and ASTS (satellite tech). No sells warranted \u2014 existing positions show no stop-loss triggers.",
     "market_education": {
-      "summary_en": "U.S. equities posted modest gains today with the NASDAQ leading the S&P 500 by a clear margin, a pattern typically seen when investors rotate into growth and technology names over defensive sectors. Semiconductor and AI-adjacent stocks attracted buyers as capital expenditure commitments from cloud hyperscalers continue to support the equipment supply chain. The subdued S&P 500 gain of +0.3% suggests the broader market is consolidating recent moves rather than making a fresh directional commitment.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5c0f\u5e45\u6536\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u660e\u986f\u8dd1\u8d0f\u6a19\u666e500\uff0c\u9019\u7a2e\u5206\u5316\u8d70\u52e2\u901a\u5e38\u53cd\u6620\u8cc7\u91d1\u504f\u5411\u6210\u9577\u80a1\u8207\u79d1\u6280\u677f\u584a\u3001\u800c\u975e\u9632\u79a6\u6027\u914d\u7f6e\u3002\u53d7\u96f2\u7aef\u5de8\u982d\u6301\u7e8c\u5927\u898f\u6a21\u8cc7\u672c\u652f\u51fa\u8a08\u5283\u5e36\u52d5\uff0c\u534a\u5c0e\u9ad4\u8a2d\u5099\u53caAI\u76f8\u95dc\u500b\u80a1\u5438\u5f15\u8cb7\u76e4\u9032\u5834\u3002\u6a19\u666e500\u6574\u9ad4\u6f32\u5e45\u50c50.3%\uff0c\u986f\u793a\u5927\u76e4\u5728\u8fd1\u671f\u4e0a\u6f32\u5f8c\u9032\u5165\u6574\u56fa\uff0c\u77ed\u671f\u65b9\u5411\u6709\u5f85\u660e\u78ba\u89f8\u5a92\u50ac\u5316\u3002",
+      "summary_en": "Markets surged broadly on June 11 in a classic risk-on session, with technology and growth names leading the advance as investor appetite for higher-risk assets recovered. Semiconductor and AI-adjacent names were among the strongest performers, reflecting continued optimism around capital expenditure on data infrastructure. The broad-based advance suggests institutional rotation back into equities rather than a narrow sector move.",
+      "summary_zh": "6\u670811\u65e5\u5e02\u5834\u51fa\u73fe\u5168\u9762\u98a8\u96aa\u504f\u597d\u56de\u5347\uff0c\u79d1\u6280\u8207\u6210\u9577\u80a1\u9818\u6f32\uff0c\u6295\u8cc7\u8005\u5c0d\u9ad8\u98a8\u96aa\u8cc7\u7522\u7684\u9700\u6c42\u660e\u986f\u589e\u52a0\u3002\u534a\u5c0e\u9ad4\u53caAI\u76f8\u95dc\u500b\u80a1\u8868\u73fe\u5c24\u70ba\u7a81\u51fa\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u6578\u64da\u57fa\u790e\u8a2d\u65bd\u8cc7\u672c\u652f\u51fa\u7684\u6301\u7e8c\u6a02\u89c0\u9810\u671f\u3002\u6b64\u6b21\u4e0a\u6f32\u5448\u73fe\u5ee3\u6cdb\u6027\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u91cd\u65b0\u6d41\u5165\u80a1\u5e02\uff0c\u800c\u975e\u55ae\u4e00\u677f\u584a\u8f2a\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is the strategy of buying stocks that are already trending upward, based on the observation that rising stocks tend to keep rising for a period. Today's top picks \u2014 AMAT and MARA \u2014 were selected precisely because they show stacked momentum signals: RSI in the 55\u201370 bullish zone, a MACD bullish crossover, and price trading above the 20-day moving average. The key risk is that momentum can reverse sharply when sentiment shifts, which is why stop-losses are essential.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u6280\u8853\u9762\u5411\u597d\u7684\u500b\u80a1\u5f80\u5f80\u6703\u5ef6\u7e8c\u5347\u52e2\u4e00\u6bb5\u6642\u9593\u3002\u4eca\u65e5\u7cbe\u9078\u7684AMAT\u8207MARA\u5747\u7b26\u5408\u591a\u91cd\u52d5\u80fd\u689d\u4ef6\uff1aRSI\u843d\u572855\u81f370\u7684\u591a\u982d\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u4ee5\u53ca\u80a1\u50f9\u7ad9\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\u3002\u6b64\u7b56\u7565\u6700\u5927\u7684\u98a8\u96aa\u5728\u65bc\u5e02\u5834\u60c5\u7dd2\u4e00\u65e6\u9006\u8f49\uff0c\u52d5\u80fd\u5f80\u5f80\u6025\u901f\u6d88\u9000\uff0c\u56e0\u6b64\u56b4\u683c\u57f7\u884c\u6b62\u640d\u6a5f\u5236\u81f3\u95dc\u91cd\u8981\u3002"
+      "explanation_en": "Momentum investing is a strategy of buying stocks that have been rising strongly and selling those that have been falling, based on the idea that trends tend to continue. Today's risk-on session is a textbook environment for momentum: the screener surfaced names with RSI in the 55\u201370 zone, MACD bullish crossovers, and prices well above their 20-day averages \u2014 all momentum signals. The key risk is that momentum can reverse sharply when sentiment shifts, so stop-losses are essential.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u5f37\u52e2\u4e0a\u6f32\u7684\u80a1\u7968\u3001\u8ce3\u51fa\u6301\u7e8c\u4e0b\u8dcc\u7684\u80a1\u7968\uff0c\u6838\u5fc3\u908f\u8f2f\u662f\u50f9\u683c\u8da8\u52e2\u5f80\u5f80\u5177\u6709\u5ef6\u7e8c\u6027\u3002\u4eca\u65e5\u98a8\u96aa\u504f\u597d\u56de\u5347\u7684\u74b0\u5883\u6b63\u662f\u52d5\u80fd\u7b56\u7565\u7684\u7406\u60f3\u5834\u666f\uff1a\u7be9\u9078\u5668\u627e\u51faRSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u4e14\u80a1\u50f9\u9ad8\u65bc20\u65e5\u5747\u7dda\u7684\u500b\u80a1\uff0c\u5747\u70ba\u5178\u578b\u52d5\u80fd\u4fe1\u865f\u3002\u7136\u800c\u52d5\u80fd\u7b56\u7565\u7684\u4e3b\u8981\u98a8\u96aa\u5728\u65bc\uff0c\u4e00\u65e6\u5e02\u5834\u60c5\u7dd2\u9006\u8f49\uff0c\u80a1\u50f9\u53ef\u80fd\u6025\u901f\u56de\u843d\uff0c\u56e0\u6b64\u8a2d\u7f6e\u6b62\u640d\u81f3\u95dc\u91cd\u8981\u3002"
     }
   }
 }
