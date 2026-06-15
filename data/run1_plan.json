@@ -1,38 +1,26 @@
 {
-  "saved_at": "2026-06-15T16:01:24.527299+00:00",
+  "saved_at": "2026-06-15T17:01:20.858144+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NVDA",
+        "ticker": "XNDU",
         "conviction": "high",
-        "reasoning": "AI GPU leader showing RSI 68.4 in ideal momentum zone with MACD bullish crossover \u2014 in a risk-on day with NASDAQ +3%, NVDA is the highest-quality name available to capture the move"
-      },
-      {
-        "action": "BUY",
-        "ticker": "SMR",
-        "conviction": "medium",
-        "reasoning": "Nuclear energy/small modular reactors sector is a thematic momentum play with RSI 68.1, MACD bullish histogram rising, and a cheap $10.93 price that allows meaningful share count from remaining cash"
-      },
-      {
-        "action": "BUY",
-        "ticker": "HIMS",
-        "conviction": "medium",
-        "reasoning": "Telehealth with RSI 66.7 in bullish zone, all three momentum signals firing, and $29.91 price allows a clean entry \u2014 healthcare growth names tend to outperform in risk-on regimes"
+        "reasoning": "Top-ranked screener score (100) with the rare volume surge signal on top of full bullish alignment \u2014 RSI in momentum zone, MACD crossover, histogram rising, and price well above SMA-20; in a strong risk-on day this is the highest-confidence entry available."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Broad market is firmly risk-on today with NASDAQ surging 3% and S&P up 1.9%, creating ideal conditions for momentum names. With 4 open slots and $619 in cash, I'm filling 3 slots with NVDA (AI/GPU), SMR (nuclear energy), and HIMS (telehealth) \u2014 all score-95 candidates in the RSI 55-70 sweet spot with clean MACD signals. Existing positions in QQQ, EAT, OLED, WT, ROAD, and NOK are held; NOK is down ~1.7% from cost but well above its stop-loss floor.",
+    "briefing": "Markets surged today in a broad risk-on rally \u2014 NASDAQ up 2.9% and S&P 500 up 1.9% \u2014 signalling strong institutional appetite for growth and tech names. With $619 in cash and 4 open slots, I deployed into XNDU, the only score-100 candidate on the screener and the sole ticker showing a volume surge alongside full momentum alignment. No existing positions triggered stop-loss or profit-target levels, so the rest of the portfolio rides the rally intact.",
     "market_education": {
-      "summary_en": "Markets rallied sharply today with the NASDAQ gaining 3% and the S&P 500 climbing 1.9%, driven by continued optimism around artificial intelligence infrastructure spending and easing macroeconomic concerns. Technology and growth stocks led the advance as investor appetite for risk returned in force, with semiconductor and AI-adjacent names posting outsized gains. The broad participation across sectors \u2014 from tech to healthcare to energy \u2014 signals a genuine risk-on rotation rather than a narrow sector squeeze.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5927\u5e45\u8d70\u9ad8\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f323%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53471.9%\uff0c\u4e3b\u8981\u53d7\u60e0\u65bc\u5e02\u5834\u5c0d\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u6295\u8cc7\u524d\u666f\u6301\u7e8c\u6a02\u89c0\uff0c\u4ee5\u53ca\u5b8f\u89c0\u7d93\u6fdf\u6182\u616e\u7de9\u89e3\u3002\u79d1\u6280\u8207\u6210\u9577\u80a1\u9818\u6f32\uff0c\u534a\u5c0e\u9ad4\u53caAI\u76f8\u95dc\u677f\u584a\u8868\u73fe\u5c24\u70ba\u7a81\u51fa\u3002\u5f9e\u79d1\u6280\u5230\u91ab\u7642\u518d\u5230\u80fd\u6e90\uff0c\u5404\u677f\u584a\u666e\u904d\u53c3\u8207\u4e0a\u6f32\uff0c\u986f\u793a\u6b64\u6b21\u53cd\u5f48\u5c6c\u65bc\u5be6\u8cea\u6027\u7684\u98a8\u96aa\u504f\u597d\u56de\u6b78\uff0c\u800c\u975e\u55ae\u4e00\u677f\u584a\u7684\u77ed\u66ab\u8ecb\u7a7a\u884c\u60c5\u3002",
+      "summary_en": "U.S. equities staged a powerful broad-based rally on June 15, 2026, with the NASDAQ leading at +2.9% as investor risk appetite returned decisively. Technology and growth sectors drove the move, consistent with a rotation back into high-beta names after a period of consolidation. No specific macro shock was in play; the session reflected accumulation by institutional buyers seeing the medium-term trend as intact.",
+      "summary_zh": "2026\u5e746\u670815\u65e5\uff0c\u7f8e\u570b\u80a1\u5e02\u51fa\u73fe\u5f37\u52c1\u5168\u9762\u53cd\u5f48\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u6f322.9%\uff0c\u986f\u793a\u6295\u8cc7\u8005\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\u3002\u79d1\u6280\u8207\u6210\u9577\u80a1\u677f\u584a\u5f15\u9818\u5347\u52e2\uff0c\u5e02\u5834\u8cc7\u91d1\u6301\u7e8c\u8f2a\u52d5\u56de\u6d41\u9ad8\u8c9d\u4ed6\u503c\u80a1\u7968\uff0c\u53cd\u6620\u6a5f\u69cb\u6295\u8cc7\u8005\u8a8d\u70ba\u4e2d\u7dda\u8da8\u52e2\u4ecd\u5c6c\u5065\u5eb7\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u672c\u6b21\u5347\u5e02\u4e26\u975e\u7531\u55ae\u4e00\u5b8f\u89c0\u50ac\u5316\u5291\u9a45\u52d5\uff0c\u800c\u662f\u8cc7\u91d1\u4e3b\u52d5\u5c0b\u627e\u52d5\u80fd\u6a19\u7684\u7684\u9ad4\u73fe\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is the strategy of buying stocks that have recently been rising and showing strong price trends, based on the idea that assets that have performed well tend to continue performing well in the short term. Traders look for signals like RSI in the 55-70 range (bullish but not overbought) and MACD crossovers to identify stocks with sustainable upward momentum. Today's risk-on market is a textbook environment for momentum strategies, which is why all top candidates share the same set of bullish technical signals.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u3001\u6280\u8853\u8d70\u52e2\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u5176\u908f\u8f2f\u5728\u65bc\u8868\u73fe\u512a\u79c0\u7684\u8cc7\u7522\u77ed\u671f\u5167\u5f80\u5f80\u5ef6\u7e8c\u5f37\u52e2\u3002\u4ea4\u6613\u8005\u900f\u904e\u89c0\u5bdfRSI\u8655\u65bc55\u81f370\u7684\u5065\u5eb7\u52d5\u80fd\u5340\u9593\uff08\u5f37\u52e2\u4f46\u672a\u904e\u71b1\uff09\u4ee5\u53caMACD\u9ec3\u91d1\u4ea4\u53c9\u7b49\u4fe1\u865f\uff0c\u7be9\u9078\u5177\u5099\u6301\u7e8c\u4e0a\u884c\u52d5\u529b\u7684\u6a19\u7684\u3002\u4eca\u65e5\u5e02\u5834\u5168\u9762\u98a8\u96aa\u504f\u597d\u56de\u6b78\uff0c\u6b63\u662f\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u767c\u63ee\u6548\u7528\u7684\u5178\u578b\u74b0\u5883\uff0c\u9019\u4e5f\u662f\u70ba\u4f55\u4eca\u65e5\u8a55\u5206\u6700\u9ad8\u7684\u5019\u9078\u80a1\u5747\u5448\u73fe\u51fa\u76f8\u540c\u4e00\u7d44\u770b\u6f32\u6280\u8853\u4fe1\u865f\u3002"
+      "term": "Volume Surge",
+      "explanation_en": "A volume surge occurs when a stock's trading volume significantly exceeds its normal average \u2014 typically more than 1.5x the 20-day average. It signals that a large number of buyers (often institutions) are stepping in with conviction, which can accelerate a price move and validate a momentum signal. Combined with bullish RSI and MACD, a volume surge is one of the strongest short-term entry signals in technical analysis.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u4ea4\u6613\u91cf\u660e\u986f\u8d85\u904e\u6b63\u5e38\u6c34\u5e73\uff0c\u901a\u5e38\u9ad8\u65bc20\u65e5\u5e73\u5747\u6210\u4ea4\u91cf\u76841.5\u500d\u4ee5\u4e0a\u3002\u9019\u4ee3\u8868\u5927\u91cf\u8cb7\u5bb6\uff08\u5f80\u5f80\u662f\u6a5f\u69cb\u6295\u8cc7\u8005\uff09\u4ee5\u9ad8\u5ea6\u78ba\u4fe1\u7684\u614b\u5ea6\u9032\u5834\uff0c\u6709\u52a9\u65bc\u52a0\u901f\u80a1\u50f9\u4e0a\u6f32\u4e26\u5370\u8b49\u52d5\u80fd\u8a0a\u865f\u7684\u53ef\u9760\u6027\u3002\u82e5\u6210\u4ea4\u91cf\u6fc0\u589e\u540c\u6642\u914d\u5408RSI\u8d70\u5f37\u53caMACD\u770b\u6f32\u4ea4\u53c9\uff0c\u5247\u662f\u6280\u8853\u5206\u6790\u4e2d\u6700\u5177\u8aaa\u670d\u529b\u7684\u77ed\u7dda\u5165\u5e02\u8a0a\u865f\u4e4b\u4e00\u3002"
     }
   }
 }
