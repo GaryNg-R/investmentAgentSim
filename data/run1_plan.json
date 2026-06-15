@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-06-15T15:01:35.046100+00:00",
+  "saved_at": "2026-06-15T16:01:24.527299+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
@@ -7,26 +7,32 @@
         "action": "BUY",
         "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "AI semiconductor bellwether with RSI 64.6 in the momentum sweet spot, rising MACD histogram, and a risk-on NASDAQ +2.5% backdrop that directly benefits chip stocks \u2014 highest quality name on the screened list."
+        "reasoning": "AI GPU leader showing RSI 68.4 in ideal momentum zone with MACD bullish crossover \u2014 in a risk-on day with NASDAQ +3%, NVDA is the highest-quality name available to capture the move"
       },
       {
         "action": "BUY",
-        "ticker": "RGTI",
+        "ticker": "SMR",
         "conviction": "medium",
-        "reasoning": "Quantum computing play scoring 95 with RSI 65.0 and rising MACD histogram; risk-on sessions amplify high-beta growth themes, and the remaining cash is enough for a small starter position alongside NVDA."
+        "reasoning": "Nuclear energy/small modular reactors sector is a thematic momentum play with RSI 68.1, MACD bullish histogram rising, and a cheap $10.93 price that allows meaningful share count from remaining cash"
+      },
+      {
+        "action": "BUY",
+        "ticker": "HIMS",
+        "conviction": "medium",
+        "reasoning": "Telehealth with RSI 66.7 in bullish zone, all three momentum signals firing, and $29.91 price allows a clean entry \u2014 healthcare growth names tend to outperform in risk-on regimes"
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Strong risk-on day with NASDAQ +2.5% and S&P +1.7% \u2014 tech and growth are leading cleanly. Deploying remaining cash into NVDA as a high-conviction AI anchor and RGTI as a quantum-computing momentum play to fill two of four open slots. Existing holdings are above stop-loss levels and held; NOK is mildly underwater at -3.1% but not actionable yet.",
+    "briefing": "Broad market is firmly risk-on today with NASDAQ surging 3% and S&P up 1.9%, creating ideal conditions for momentum names. With 4 open slots and $619 in cash, I'm filling 3 slots with NVDA (AI/GPU), SMR (nuclear energy), and HIMS (telehealth) \u2014 all score-95 candidates in the RSI 55-70 sweet spot with clean MACD signals. Existing positions in QQQ, EAT, OLED, WT, ROAD, and NOK are held; NOK is down ~1.7% from cost but well above its stop-loss floor.",
     "market_education": {
-      "summary_en": "Markets rallied broadly today in a clear risk-on session, with the NASDAQ outpacing the S&P 500 by nearly a full percentage point, signaling investor preference for growth and technology over defensive plays. This kind of spread typically emerges when macro anxieties ease \u2014 falling volatility expectations prompt money to rotate out of bonds and cash into higher-beta equities. Tech mega-caps and speculative growth names both participated, suggesting broad risk appetite rather than a narrow sector pop.",
-      "summary_zh": "\u5e02\u5834\u4eca\u65e5\u5168\u9762\u4e0a\u63da\uff0c\u98a8\u96aa\u504f\u597d\u986f\u8457\u5347\u6eab\u3002\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u6f322.5%\uff0c\u660e\u986f\u9818\u8dd1\u6a19\u666e500\u76841.7%\u5347\u5e45\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u7a4d\u6975\u5f9e\u9632\u79a6\u6027\u8cc7\u7522\u8f49\u5411\u79d1\u6280\u8207\u6210\u9577\u578b\u6a19\u7684\u3002\u9019\u985e\u8f2a\u52d5\u884c\u60c5\u901a\u5e38\u51fa\u73fe\u65bc\u5b8f\u89c0\u4e0d\u78ba\u5b9a\u6027\u964d\u4f4e\u4e4b\u969b\u2014\u2014\u5e02\u5834\u6ce2\u52d5\u9810\u671f\u4e0b\u964d\uff0c\u8cc7\u91d1\u4fbf\u5f9e\u50b5\u5238\u3001\u73fe\u91d1\u6d41\u5411\u9ad8Beta\u80a1\u7968\u3002\u79d1\u6280\u9f8d\u982d\u8207\u6295\u6a5f\u6027\u6210\u9577\u80a1\u9f4a\u6b65\u8d70\u9ad8\uff0c\u986f\u793a\u4eca\u65e5\u6f32\u52e2\u4e26\u975e\u55ae\u4e00\u677f\u584a\u884c\u60c5\uff0c\u800c\u662f\u6574\u9ad4\u98a8\u96aa\u504f\u597d\u7684\u5168\u9762\u64f4\u5f35\u3002",
+      "summary_en": "Markets rallied sharply today with the NASDAQ gaining 3% and the S&P 500 climbing 1.9%, driven by continued optimism around artificial intelligence infrastructure spending and easing macroeconomic concerns. Technology and growth stocks led the advance as investor appetite for risk returned in force, with semiconductor and AI-adjacent names posting outsized gains. The broad participation across sectors \u2014 from tech to healthcare to energy \u2014 signals a genuine risk-on rotation rather than a narrow sector squeeze.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5927\u5e45\u8d70\u9ad8\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f323%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53471.9%\uff0c\u4e3b\u8981\u53d7\u60e0\u65bc\u5e02\u5834\u5c0d\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u6295\u8cc7\u524d\u666f\u6301\u7e8c\u6a02\u89c0\uff0c\u4ee5\u53ca\u5b8f\u89c0\u7d93\u6fdf\u6182\u616e\u7de9\u89e3\u3002\u79d1\u6280\u8207\u6210\u9577\u80a1\u9818\u6f32\uff0c\u534a\u5c0e\u9ad4\u53caAI\u76f8\u95dc\u677f\u584a\u8868\u73fe\u5c24\u70ba\u7a81\u51fa\u3002\u5f9e\u79d1\u6280\u5230\u91ab\u7642\u518d\u5230\u80fd\u6e90\uff0c\u5404\u677f\u584a\u666e\u904d\u53c3\u8207\u4e0a\u6f32\uff0c\u986f\u793a\u6b64\u6b21\u53cd\u5f48\u5c6c\u65bc\u5be6\u8cea\u6027\u7684\u98a8\u96aa\u504f\u597d\u56de\u6b78\uff0c\u800c\u975e\u55ae\u4e00\u677f\u584a\u7684\u77ed\u66ab\u8ecb\u7a7a\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On",
-      "explanation_en": "A 'risk-on' market is when investors feel confident enough to buy riskier assets \u2014 growth stocks, small caps, speculative plays \u2014 instead of safe havens like bonds or gold. Today's NASDAQ outperforming the S&P 500 by nearly a full point is the textbook signal: fear has receded, and money is chasing return over safety. Active investors use risk-on days to add momentum positions, as sentiment tailwinds amplify technical signals.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u6307\u7684\u662f\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u9858\u610f\u627f\u64d4\u66f4\u9ad8\u98a8\u96aa\uff0c\u5c07\u8cc7\u91d1\u5f9e\u50b5\u5238\u3001\u9ec3\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u8f49\u79fb\u81f3\u6210\u9577\u80a1\u3001\u5c0f\u76e4\u80a1\u53ca\u6295\u6a5f\u6027\u6a19\u7684\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u9818\u8dd1\u6a19\u666e500\u8fd1\u4e00\u500b\u767e\u5206\u9ede\uff0c\u6b63\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u2014\u2014\u6050\u614c\u60c5\u7dd2\u6d88\u9000\uff0c\u5e02\u5834\u91cd\u65b0\u8ffd\u9010\u5831\u916c\u800c\u975e\u5b89\u5168\u611f\u3002\u4e3b\u52d5\u6295\u8cc7\u8005\u5584\u7528\u6b64\u985e\u884c\u60c5\u9806\u52e2\u52a0\u78bc\u52d5\u80fd\u500b\u80a1\uff0c\u56e0\u5e02\u5834\u60c5\u7dd2\u9806\u98a8\u80fd\u6709\u6548\u5f37\u5316\u6280\u8853\u6307\u6a19\u7684\u53ef\u4fe1\u5ea6\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is the strategy of buying stocks that have recently been rising and showing strong price trends, based on the idea that assets that have performed well tend to continue performing well in the short term. Traders look for signals like RSI in the 55-70 range (bullish but not overbought) and MACD crossovers to identify stocks with sustainable upward momentum. Today's risk-on market is a textbook environment for momentum strategies, which is why all top candidates share the same set of bullish technical signals.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u3001\u6280\u8853\u8d70\u52e2\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u5176\u908f\u8f2f\u5728\u65bc\u8868\u73fe\u512a\u79c0\u7684\u8cc7\u7522\u77ed\u671f\u5167\u5f80\u5f80\u5ef6\u7e8c\u5f37\u52e2\u3002\u4ea4\u6613\u8005\u900f\u904e\u89c0\u5bdfRSI\u8655\u65bc55\u81f370\u7684\u5065\u5eb7\u52d5\u80fd\u5340\u9593\uff08\u5f37\u52e2\u4f46\u672a\u904e\u71b1\uff09\u4ee5\u53caMACD\u9ec3\u91d1\u4ea4\u53c9\u7b49\u4fe1\u865f\uff0c\u7be9\u9078\u5177\u5099\u6301\u7e8c\u4e0a\u884c\u52d5\u529b\u7684\u6a19\u7684\u3002\u4eca\u65e5\u5e02\u5834\u5168\u9762\u98a8\u96aa\u504f\u597d\u56de\u6b78\uff0c\u6b63\u662f\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u767c\u63ee\u6548\u7528\u7684\u5178\u578b\u74b0\u5883\uff0c\u9019\u4e5f\u662f\u70ba\u4f55\u4eca\u65e5\u8a55\u5206\u6700\u9ad8\u7684\u5019\u9078\u80a1\u5747\u5448\u73fe\u51fa\u76f8\u540c\u4e00\u7d44\u770b\u6f32\u6280\u8853\u4fe1\u865f\u3002"
     }
   }
 }
