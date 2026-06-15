@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-06-15T18:01:12.439295+00:00",
+  "saved_at": "2026-06-15T19:01:21.504860+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "QBTS",
+        "ticker": "WOLF",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 69.9 and full MACD bullish stack; quantum computing names benefit disproportionately on risk-on NASDAQ days like today (+3%)."
-      },
-      {
-        "action": "BUY",
-        "ticker": "TEM",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 64.3, MACD bullish crossover, and rising histogram; AI-healthcare crossover theme aligns with tech-led rally and has room to run before overbought territory."
+        "reasoning": "Top-scored candidate (95) with clean bullish structure \u2014 RSI 62.2 in the momentum sweet spot, MACD bullish crossover, and price 11% above SMA-20; semiconductor exposure is well-positioned on a strong NASDAQ +3% risk-on day."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "A strong risk-on session with NASDAQ surging 3% and S&P up 1.8% gives the green light to deploy remaining cash. The portfolio already sits at +33.3% P&L with solid positions, and two slots are being filled with top-scored momentum names in quantum computing and AI healthcare. NOK, already held, is showing continued bullish signals so it remains; no stop-losses are triggered across existing positions.",
+    "briefing": "Markets had a strong risk-on session with the NASDAQ surging 3% and the S&P 500 up 1.7%, creating ideal conditions to put idle cash to work. With $619 in cash and 4 open slots, I added WOLF \u2014 the joint top-scorer with clean momentum signals and semiconductor exposure that directly benefits from tech-led rallies. No existing positions appear to be near stop-loss or profit-target triggers, so the rest of the portfolio holds.",
     "market_education": {
-      "summary_en": "Markets rallied sharply today with tech leading the charge, as growth and risk assets rotated back into favor following easing macro concerns. The NASDAQ's 3% gain reflected investor appetite for high-beta names in sectors like semiconductors, AI, and speculative tech. Broad participation across the S&P 500 at +1.8% confirmed this was not a narrow move but a genuine risk-on session driven by improving sentiment.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5927\u5e45\u4e0a\u6f32\uff0c\u79d1\u6280\u80a1\u9818\u6f32\uff0c\u96a8\u8457\u6574\u9ad4\u5b8f\u89c0\u6182\u616e\u7a0d\u7de9\uff0c\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u6210\u9577\u80a1\u8207\u98a8\u96aa\u8cc7\u7522\u3002\u90a3\u65af\u9054\u514b\u6307\u6578\u52c1\u53473%\uff0c\u53cd\u6620\u6295\u8cc7\u4eba\u5c0d\u534a\u5c0e\u9ad4\u3001\u4eba\u5de5\u667a\u6167\u53ca\u9ad8Beta\u984c\u6750\u80a1\u7684\u5f37\u70c8\u504f\u597d\u3002\u6a19\u666e500\u540c\u6b65\u4e0a\u6f321.8%\uff0c\u986f\u793a\u9019\u6ce2\u53cd\u5f48\u4e26\u975e\u5b64\u884c\uff0c\u800c\u662f\u5728\u6574\u9ad4\u5e02\u5834\u60c5\u7dd2\u6539\u5584\u4e0b\u63a8\u52d5\u7684\u5168\u9762\u6027\u98a8\u96aa\u504f\u597d\u56de\u5347\u3002",
+      "summary_en": "Equity markets rallied sharply today in a broad risk-on move, with the technology-heavy NASDAQ gaining 3.0% and the S&P 500 adding 1.7%. The move reflected renewed investor appetite for growth assets, with semiconductors and high-beta names leading. Without specific catalyst headlines available in today's feed, the signal pattern suggests macro tailwinds (easing rate fears or strong economic data) drove institutional buying across the board.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5f37\u52e2\u53cd\u5f48\uff0c\u5e02\u5834\u6574\u9ad4\u5448\u73fe\u98a8\u96aa\u504f\u597d\uff08risk-on\uff09\u683c\u5c40\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u90a3\u65af\u9054\u514b\u5927\u6f323.0%\uff0c\u6a19\u666e500\u4ea6\u4e0a\u6f321.7%\u3002\u534a\u5c0e\u9ad4\u53ca\u9ad8\u8c9d\u5854\u6210\u9577\u80a1\u5f15\u9818\u5347\u52e2\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5c0d\u98a8\u96aa\u8cc7\u7522\u7684\u9700\u6c42\u986f\u8457\u56de\u5347\u3002\u5f9e\u6280\u8853\u8a0a\u865f\u5224\u65b7\uff0c\u5e02\u5834\u53ef\u80fd\u53d7\u60e0\u65bc\u7e3d\u9ad4\u7d93\u6fdf\u6578\u64da\u6539\u5584\u6216\u806f\u6e96\u6703\u9df9\u6d3e\u9810\u671f\u964d\u6eab\uff0c\u5e36\u52d5\u6a5f\u69cb\u8cc7\u91d1\u7a4d\u6975\u4f48\u5c40\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On",
-      "explanation_en": "A 'risk-on' environment is when investors feel confident and move money into higher-risk, higher-reward assets like growth stocks, small caps, and speculative tech. Today's NASDAQ +3% and S&P +1.8% are classic risk-on signals \u2014 it's the opposite of 'risk-off,' when investors flee to bonds and defensive stocks. Identifying the risk regime helps you decide whether to buy aggressive momentum names or stay conservative.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u4eba\u4fe1\u5fc3\u5145\u8db3\uff0c\u5c07\u8cc7\u91d1\u8f49\u5411\u9ad8\u98a8\u96aa\u3001\u9ad8\u56de\u5831\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\uff0c\u5982\u6210\u9577\u80a1\u3001\u5c0f\u578b\u80a1\u53ca\u6295\u6a5f\u6027\u79d1\u6280\u80a1\u3002\u4eca\u65e5\u90a3\u65af\u9054\u514b\u5927\u6f323%\u3001\u6a19\u666e500\u4e0a\u6f321.8%\uff0c\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u3002\u8207\u4e4b\u76f8\u5c0d\u7684\u662f\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\uff0c\u5373\u6295\u8cc7\u4eba\u8f49\u5411\u516c\u50b5\u8207\u9632\u79a6\u6027\u80a1\u7968\u3002\u5224\u65b7\u7576\u524d\u5e02\u5834\u7684\u98a8\u96aa\u504f\u597d\u65b9\u5411\uff0c\u6709\u52a9\u65bc\u6c7a\u5b9a\u662f\u5426\u8ffd\u5165\u5f37\u52e2\u52d5\u80fd\u80a1\u6216\u4fdd\u6301\u4fdd\u5b88\u3002"
+      "term": "Risk-On Environment",
+      "explanation_en": "A 'risk-on' day is when investors feel confident and move money into higher-risk, higher-reward assets like growth stocks, semiconductors, and small-caps \u2014 and away from safe havens like bonds or gold. Today's NASDAQ +3% surge is a classic risk-on signal. In these conditions, momentum stocks with strong technical setups tend to outperform, which is why deploying cash into top-scored candidates like WOLF makes sense.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u60c5\u7dd2\u6a02\u89c0\u3001\u9858\u610f\u627f\u64d4\u8f03\u9ad8\u98a8\u96aa\uff0c\u8cc7\u91d1\u5f9e\u907f\u96aa\u8cc7\u7522\uff08\u5982\u50b5\u5238\u3001\u9ec3\u91d1\uff09\u6d41\u5411\u6210\u9577\u80a1\u3001\u79d1\u6280\u80a1\u7b49\u9ad8\u98a8\u96aa\u9ad8\u56de\u5831\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u4eca\u65e5\u90a3\u65af\u9054\u514b\u5927\u6f323%\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u3002\u5728\u9019\u7a2e\u74b0\u5883\u4e0b\uff0c\u52d5\u80fd\u5f37\u52c1\u3001\u6280\u8853\u5f62\u614b\u5065\u5eb7\u7684\u80a1\u7968\u5f80\u5f80\u8dd1\u8d0f\u5927\u5e02\uff0c\u56e0\u6b64\u8d81\u6a5f\u5c07\u9592\u7f6e\u73fe\u91d1\u90e8\u7f72\u81f3\u9ad8\u8a55\u5206\u5019\u9078\u6a19\u7684\uff08\u5982WOLF\uff09\u662f\u5408\u7406\u7684\u7b56\u7565\u3002"
     }
   }
 }
