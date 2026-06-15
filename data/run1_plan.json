@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-06-15T13:01:06.946715+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-06-15T14:01:17.688436+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "ANDG",
+        "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "Score 100 with all five bullish signals firing \u2014 RSI 58.9 in healthy momentum zone, MACD crossover with rising histogram, price above SMA-20, and volume surge \u2014 representing the cleanest setup on the screener today."
+        "reasoning": "Blue-chip AI semiconductor leader with all 5 momentum signals firing, healthy RSI at 61.2, and direct NASDAQ correlation on a +2.4% risk-on day \u2014 best quality pick in the screener."
+      },
+      {
+        "action": "BUY",
+        "ticker": "WOLF",
+        "conviction": "medium",
+        "reasoning": "All 5 momentum signals firing with the healthiest RSI (56.4) among top-scored candidates, leaving plenty of room to run before overbought conditions."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets drifted mildly higher in a quiet neutral session \u2014 no strong directional catalyst. With $519 cash and 4 open slots, I deployed the remaining liquid capital into ANDG, the only score-100 name showing a full five-signal confluence including MACD histogram expansion (indicating accelerating momentum) without being overbought. Existing holdings ROAD and NOK continue to show up on the screener with scores of 95 and 90 respectively, confirming those positions remain healthy; no stops were triggered.",
+    "briefing": "Strong risk-on session with NASDAQ surging 2.4% and S&P up 1.5%, clearly favoring growth and tech. Portfolio is up 33.3% overall \u2014 no current positions are near stop-loss, so no sells warranted. Using remaining cash to open two new positions: NVDA as a high-conviction mega-cap AI play, and WOLF as a semiconductor materials name with the cleanest technical setup in the screener.",
     "market_education": {
-      "summary_en": "U.S. equities edged higher in a low-volatility session, with the S&P 500 adding 0.5% and the NASDAQ up 0.3%, reflecting a balanced risk environment with no strong macro catalyst driving either direction. Sector rotation continued quietly, with momentum names in EV, semiconductors, and specialty materials maintaining their upward trends from prior sessions. The muted moves suggest institutional participants are in a holding pattern, likely awaiting the next major data release or Fed commentary to set the next directional leg.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5c0f\u5e45\u6536\u9ad8\uff0c\u8d70\u52e2\u5e73\u7a69\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.5%\uff0c\u7d0d\u65af\u9054\u514b\u4e0a\u6f320.3%\uff0c\u5e02\u5834\u6574\u9ad4\u60c5\u7dd2\u4e2d\u6027\uff0c\u672a\u898b\u660e\u78ba\u5b8f\u89c0\u50ac\u5316\u5291\u9a45\u52d5\u65b9\u5411\u3002\u677f\u584a\u8f2a\u52d5\u4f9d\u820a\u4f4e\u8abf\u9032\u884c\uff0c\u96fb\u52d5\u8eca\u3001\u534a\u5c0e\u9ad4\u53ca\u7279\u7a2e\u6750\u6599\u7b49\u52d5\u80fd\u5f37\u52c1\u677f\u584a\u5ef6\u7e8c\u524d\u671f\u5347\u52e2\u3002\u76e4\u9762\u6e05\u6de1\u986f\u793a\u6a5f\u69cb\u6295\u8cc7\u8005\u666e\u904d\u89c0\u671b\uff0c\u975c\u5f85\u4e0b\u4e00\u500b\u91cd\u8981\u6578\u64da\u6216\u806f\u5132\u5c40\u8868\u614b\uff0c\u4ee5\u78ba\u8a8d\u5e02\u5834\u4e0b\u4e00\u6b65\u8d70\u5411\u3002",
+      "summary_en": "Markets rallied broadly today in a clear risk-on session, with the NASDAQ outperforming at +2.4% as investors rotated into growth and technology names. AI-adjacent semiconductors led the charge, buoyed by continued optimism around capital spending on AI infrastructure and data centers. The S&P 500 gained 1.5%, reflecting broad participation beyond just mega-cap tech, suggesting the rally had meaningful underlying breadth.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u4e0a\u6f32\uff0c\u5e02\u5834\u60c5\u7dd2\u660e\u986f\u504f\u5411\u98a8\u96aa\u504f\u597d\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u9818\u6f322.4%\uff0c\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u6210\u70ba\u8cc7\u91d1\u8ffd\u9010\u7126\u9ede\u3002\u53d7\u4eba\u5de5\u667a\u6167\u57fa\u790e\u5efa\u8a2d\u8cc7\u672c\u652f\u51fa\u6301\u7e8c\u64f4\u5f35\u9810\u671f\u5e36\u52d5\uff0cAI\u76f8\u95dc\u534a\u5c0e\u9ad4\u65cf\u7fa4\u8868\u73fe\u6700\u70ba\u4eae\u773c\u3002\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u6f321.5%\uff0c\u986f\u793a\u6f32\u52e2\u4e26\u975e\u50c5\u9650\u65bc\u79d1\u6280\u9f8d\u982d\uff0c\u5e02\u5834\u5ee3\u5ea6\u5065\u5eb7\uff0c\u591a\u500b\u7522\u696d\u5747\u6709\u53c3\u8207\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "MACD Histogram",
-      "explanation_en": "The MACD histogram measures the distance between the MACD line and its signal line \u2014 when it's rising, momentum is accelerating, not just present. Today's top pick ANDG showed a rising histogram alongside a bullish crossover, which is a stronger signal than a crossover alone because it tells you buying pressure is building, not fading.",
-      "explanation_zh": "MACD\u67f1\u72c0\u5716\u8861\u91cf\u7684\u662fMACD\u7dda\u8207\u4fe1\u865f\u7dda\u4e4b\u9593\u7684\u8ddd\u96e2\u2014\u2014\u7576\u67f1\u72c0\u5716\u6301\u7e8c\u4e0a\u5347\uff0c\u4ee3\u8868\u52d5\u80fd\u6b63\u5728\u52a0\u901f\uff0c\u800c\u975e\u50c5\u50c5\u5b58\u5728\u3002\u4eca\u65e5\u6700\u4f73\u9078\u80a1ANDG\u5728\u91d1\u53c9\u6210\u7acb\u7684\u540c\u6642\uff0c\u67f1\u72c0\u5716\u4e5f\u6301\u7e8c\u8d70\u9ad8\uff0c\u9019\u6bd4\u55ae\u7d14\u7684\u91d1\u53c9\u8a0a\u865f\u66f4\u5177\u8aaa\u670d\u529b\uff0c\u56e0\u70ba\u5b83\u986f\u793a\u8cb7\u65b9\u529b\u9053\u6b63\u5728\u7d2f\u7a4d\u800c\u975e\u6d88\u9000\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy that buys stocks already trending upward, betting that recent price strength will continue. It relies on signals like RSI (measuring how fast a stock is moving), MACD (comparing short vs. long-term trends), and price vs. moving average to identify stocks with genuine buying pressure. Today's risk-on market rewarded momentum across the board \u2014 exactly the environment where this strategy shines.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u62bc\u6ce8\u8fd1\u671f\u5f37\u52e2\u8868\u73fe\u5c07\u5ef6\u7e8c\u3002\u6295\u8cc7\u8005\u900f\u904eRSI\uff08\u8861\u91cf\u80a1\u50f9\u6f32\u8dcc\u901f\u5ea6\uff09\u3001MACD\uff08\u6bd4\u8f03\u77ed\u671f\u8207\u9577\u671f\u8da8\u52e2\u5dee\u8ddd\uff09\u4ee5\u53ca\u80a1\u50f9\u76f8\u5c0d\u5747\u7dda\u4f4d\u7f6e\u7b49\u6280\u8853\u6307\u6a19\uff0c\u8b58\u5225\u5177\u6709\u771f\u5be6\u8cb7\u76e4\u652f\u6490\u7684\u500b\u80a1\u3002\u4eca\u65e5\u5e02\u5834\u98a8\u96aa\u504f\u597d\u5347\u6eab\uff0c\u52d5\u80fd\u5f37\u52c1\u7684\u80a1\u7968\u5168\u9762\u53d7\u60e0\uff0c\u6b63\u662f\u6b64\u7b56\u7565\u6700\u80fd\u767c\u63ee\u512a\u52e2\u7684\u5e02\u5834\u74b0\u5883\u3002"
     }
   }
 }
