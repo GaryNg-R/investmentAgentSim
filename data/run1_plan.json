@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-06-15T21:01:10.935625+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-06-16T13:01:07.329805+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
         "ticker": "HIMS",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 67.9 in the bullish momentum zone, MACD crossover, and price above SMA-20 \u2014 ideal entry on a strong risk-on day with NASDAQ surging 3.1%."
-      },
-      {
-        "action": "BUY",
-        "ticker": "YSS",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI only 57 gives more room to run than higher-RSI peers; MACD bullish crossover and rising histogram signal early-stage momentum ideal for capturing the uptrend."
+        "reasoning": "Top-tier score of 95 with RSI in bullish momentum zone, MACD histogram rising (accelerating momentum), and price extended above SMA-20 \u2014 cash is available and slot is open."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Strong risk-on session with NASDAQ +3.1% and S&P +1.7%, led by tech and growth names. Portfolio is sitting on $619 cash with 4 open slots \u2014 leaving cash idle in this environment is a missed opportunity. Added HIMS (high conviction) for its clean momentum setup and YSS (medium) for its lower RSI entry point, both scoring 95. Existing positions in NOK look stable with continued bullish signals; no stop-loss triggers visible on current data.",
+    "briefing": "Market data is unavailable today, so conditions read as neutral \u2014 no strong macro tailwind or headwind to factor in. With 4 open slots and $619 in cash, the rules call for deploying into best candidates rather than sitting idle. HIMS earns the buy with a 95 momentum score, MACD histogram rising (momentum accelerating), and RSI comfortably in the bullish zone without being overbought. Existing positions NOK continues to show strength on the screener, so the rest of the book holds.",
     "market_education": {
-      "summary_en": "Markets rallied sharply today with NASDAQ outpacing the S&P 500 by nearly 2:1, a classic sign that investors rotated into high-growth tech and small-cap names. The risk-on tone suggests market participants are pricing in a favorable macro backdrop \u2014 likely easing inflation expectations or improved sentiment around Federal Reserve policy. Tech and semiconductor names led the charge, consistent with the AI infrastructure investment cycle that has driven equity gains throughout 2025\u20132026.",
-      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u5927\u5e45\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u5e7e\u4e4e\u662f\u6a19\u666e500\u7684\u5169\u500d\uff0c\u986f\u793a\u6295\u8cc7\u8005\u7a4d\u6975\u8f2a\u52d5\u81f3\u9ad8\u6210\u9577\u79d1\u6280\u53ca\u5c0f\u578b\u80a1\u3002\u9019\u7a2e\u300c\u98a8\u96aa\u504f\u597d\u300d\u60c5\u7dd2\u901a\u5e38\u53cd\u6620\u5e02\u5834\u5c0d\u5b8f\u89c0\u74b0\u5883\u7684\u6a02\u89c0\u9810\u671f\uff0c\u53ef\u80fd\u5305\u62ec\u901a\u8139\u964d\u6eab\u8a0a\u865f\u6216\u806f\u6e96\u6703\u653f\u7b56\u8da8\u65bc\u5bec\u9b06\u7684\u9810\u671f\u3002\u79d1\u6280\u53ca\u534a\u5c0e\u9ad4\u985e\u80a1\u9818\u6f32\uff0c\u82072025\u81f32026\u5e74\u9593AI\u57fa\u5efa\u6295\u8cc7\u6d6a\u6f6e\u6301\u7e8c\u63a8\u52d5\u80a1\u5e02\u4e0a\u884c\u7684\u4e3b\u65cb\u5f8b\u4e00\u81f4\u3002",
+      "summary_en": "Today's market returned no directional data, with both NASDAQ and S&P 500 showing flat readings, suggesting either a data gap or a genuinely quiet session with no major macro catalyst driving broad movement. In the absence of clear macro direction, the session is driven by individual stock momentum and sector rotation rather than index-level forces. Investors navigating low-signal environments like this often lean on technical screeners to identify stocks with their own internal momentum independent of the broader tape.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u6578\u64da\u7f3a\u5931\uff0c\u90a3\u65af\u9054\u514b\u8207\u6a19\u666e500\u5747\u7121\u660e\u986f\u6f32\u8dcc\uff0c\u53cd\u6620\u76e4\u9762\u7f3a\u4e4f\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u6574\u9ad4\u6c23\u6c1b\u504f\u4e2d\u6027\u3002\u5728\u5b8f\u89c0\u8a0a\u865f\u4e0d\u660e\u7684\u74b0\u5883\u4e0b\uff0c\u5e02\u5834\u52d5\u80fd\u4e3b\u8981\u7531\u500b\u80a1\u8d70\u52e2\u8207\u677f\u584a\u8f2a\u52d5\u4e3b\u5c0e\uff0c\u800c\u975e\u6307\u6578\u5c64\u9762\u7684\u529b\u91cf\u3002\u9762\u5c0d\u4f4e\u4fe1\u865f\u74b0\u5883\uff0c\u6295\u8cc7\u8005\u50be\u5411\u501f\u52a9\u6280\u8853\u7be9\u9078\u5de5\u5177\uff0c\u5c0b\u627e\u5177\u5099\u7368\u7acb\u52d5\u80fd\u3001\u4e0d\u4f9d\u8cf4\u5927\u76e4\u8d70\u52e2\u7684\u5f37\u52e2\u500b\u80a1\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On Sentiment",
-      "explanation_en": "Risk-on sentiment describes market conditions where investors feel confident enough to buy higher-risk assets like growth stocks, small caps, and tech shares instead of safe havens like bonds or gold. Today's session \u2014 NASDAQ +3.1% outpacing S&P +1.7% \u2014 is a textbook risk-on day, as capital flowed toward growth and away from defensive plays. Recognizing risk-on vs risk-off helps you size positions correctly: go larger in risk-on, hold more cash or defensives in risk-off.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u5e02\u5834\u60c5\u7dd2\u6a02\u89c0\u6642\uff0c\u6295\u8cc7\u8005\u50be\u5411\u8cb7\u5165\u6210\u9577\u80a1\u3001\u5c0f\u578b\u80a1\u53ca\u79d1\u6280\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u8cc7\u7522\uff0c\u800c\u975e\u8f49\u5411\u50b5\u5238\u6216\u9ec3\u91d1\u7b49\u907f\u96aa\u5de5\u5177\u7684\u5e02\u5834\u72c0\u614b\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u6f323.1%\u3001\u9060\u8d85\u6a19\u666e500\u76841.7%\uff0c\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u884c\u60c5\u2014\u2014\u8cc7\u91d1\u6d41\u5411\u6210\u9577\u578b\u8cc7\u7522\uff0c\u64a4\u96e2\u9632\u79a6\u578b\u677f\u584a\u3002\u638c\u63e1\u98a8\u96aa\u504f\u597d\u8207\u98a8\u96aa\u898f\u907f\uff08Risk-Off\uff09\u7684\u5207\u63db\uff0c\u6709\u52a9\u65bc\u5728\u4e0d\u540c\u5e02\u6cc1\u4e0b\u9748\u6d3b\u8abf\u6574\u6301\u5009\u6bd4\u4f8b\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy of buying stocks that have been trending upward \u2014 based on the idea that assets which have been rising tend to continue rising in the near term. Indicators like RSI in the 55\u201370 bullish zone and a rising MACD histogram confirm that buying pressure is increasing, not fading. Today's buy of HIMS follows exactly this logic: strong signals across multiple momentum indicators with no overbought warning.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u57fa\u65bc\u300c\u5f37\u8005\u6046\u5f37\u300d\u7684\u5e02\u5834\u6163\u6027\u539f\u7406\u3002RSI\u8655\u65bc55\u81f370\u7684\u591a\u982d\u52d5\u80fd\u5340\u9593\u3001MACD\u67f1\u72c0\u5716\u6301\u7e8c\u8d70\u9ad8\uff0c\u5747\u4ee3\u8868\u8cb7\u76e4\u529b\u9053\u6b63\u5728\u589e\u5f37\u800c\u975e\u6d88\u9000\u3002\u4eca\u65e5\u8cb7\u5165HIMS\u6b63\u662f\u57fa\u65bc\u6b64\u908f\u8f2f\uff1a\u591a\u9805\u52d5\u80fd\u6307\u6a19\u540c\u6b65\u78ba\u8a8d\uff0c\u4e14\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u5340\u57df\uff0c\u98a8\u96aa\u76f8\u5c0d\u53ef\u63a7\u3002"
     }
   }
 }
