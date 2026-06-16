@@ -1,38 +1,44 @@
 {
-  "saved_at": "2026-06-16T14:01:17.182862+00:00",
+  "saved_at": "2026-06-16T15:01:25.182756+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
-        "action": "BUY",
-        "ticker": "INOD",
-        "conviction": "high",
-        "reasoning": "Top score (100), RSI 63 in the ideal bullish momentum zone, confirmed MACD crossover with rising histogram, price extended above SMA-20, and volume surge \u2014 cleanest setup on the board."
+        "action": "SELL",
+        "ticker": "NOK",
+        "shares": 174,
+        "reasoning": "Down -6.4% from avg cost of $14.89 with bearish MACD and price below SMA-20 \u2014 proactively exiting before the -7% auto stop-loss triggers to preserve capital for redeployment"
       },
       {
         "action": "BUY",
-        "ticker": "XE",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 67.2 still inside the bullish zone (not overbought), MACD bullish crossover confirmed, and meaningful price extension above SMA-20."
+        "ticker": "INOD",
+        "conviction": "high",
+        "reasoning": "Score 95 with RSI 61.3 in the ideal bullish momentum zone, confirmed MACD crossover, and price 6.5% above SMA-20 \u2014 clean setup with room to run"
+      },
+      {
+        "action": "BUY",
+        "ticker": "EOSE",
+        "conviction": "high",
+        "reasoning": "Score 95 with rising MACD histogram and RSI 66.9 \u2014 strong momentum alignment at an affordable price with SMA-20 acting as support below"
       },
       {
         "action": "BUY",
         "ticker": "MWH",
         "conviction": "medium",
-        "reasoning": "Score 95, RSI 67.1 in ideal range, MACD bullish crossover, and price comfortably above SMA-20 with room to run before hitting overbought territory."
+        "reasoning": "Score 95 with all three bullish signals confirmed and RSI 67.5 still below overbought \u2014 solid momentum entry before it approaches the 70 threshold"
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Market data was unavailable today so conditions are treated as neutral \u2014 a good day to be selective rather than aggressive. With four open slots and cash on hand, I'm filling three of them with the highest-quality momentum setups: INOD, XE, and MWH all show RSI in the sweet spot (62\u201368) with confirmed MACD crossovers, avoiding the large overbought cohort (WDC, STX, ALGM, etc.) where RSI is 80+. Existing holdings look stable with no stop-loss proximity visible.",
+    "briefing": "Market data is unavailable today so all decisions rest on technicals. NOK has drifted to -6.4% below avg cost with bearish MACD and a price well below its 20-day average \u2014 close enough to the -7% stop-loss that selling now captures slightly better execution than waiting for the auto-trigger. Proceeds combined with existing cash open up three slots for score-95 momentum names with RSI readings in the sweet spot between 60 and 69.",
     "market_education": {
-      "summary_en": "Market data was unavailable for today's session, with both the S&P 500 and NASDAQ reporting flat movement (+0.0%). Without specific headline catalysts, the screener showed a bifurcated landscape \u2014 a cluster of stocks with RSI in the 80\u201387 range suggesting near-term exhaustion (WDC, STX, ALGM, COHU), alongside a fresher wave of momentum names (INOD, XE, MWH) still early in their upswings. In neutral tape conditions like today, stock-specific selection driven by technical quality matters more than riding broad market beta.",
-      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u6578\u64da\u7121\u6cd5\u53d6\u5f97\uff0c\u6a19\u666e500\u8207\u90a3\u65af\u9054\u514b\u6307\u6578\u5747\u5831\u6536\u6301\u5e73\uff08+0.0%\uff09\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u500b\u80a1\u4e4b\u9593\u5448\u73fe\u660e\u986f\u5206\u5316\uff1a\u90e8\u5206\u6a19\u7684RSI\u5df2\u98c6\u5347\u81f380\u81f387\u5340\u9593\uff08\u5982WDC\u3001STX\u3001ALGM\uff09\uff0c\u77ed\u671f\u904e\u71b1\u98a8\u96aa\u4e0d\u5bb9\u5ffd\u8996\uff1b\u53e6\u4e00\u6279\u52d5\u80fd\u80a1\uff08\u5982INOD\u3001XE\u3001MWH\uff09\u5247RSI\u4ecd\u8655\u65bc55\u81f370\u7684\u7406\u60f3\u5340\u9593\uff0c\u6280\u8853\u5f62\u614b\u66f4\u70ba\u5065\u5eb7\u3002\u5728\u76e4\u9762\u65b9\u5411\u4e0d\u660e\u7684\u74b0\u5883\u4e0b\uff0c\u9078\u80a1\u7684\u6280\u8853\u8cea\u91cf\u6bd4\u8ffd\u96a8\u5927\u5e02\u8c9d\u5854\u503c\u66f4\u70ba\u95dc\u9375\u3002",
+      "summary_en": "No market direction data was available today, so the screener's technical signals drove all decisions. The top candidates continue to cluster in the RSI 60\u201369 range \u2014 the zone where momentum is confirmed but stocks aren't yet overbought. Portfolio focus shifted to pruning a deteriorating position in NOK and rotating that capital into three high-scoring setups with aligned MACD, RSI, and SMA-20 signals.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u65b9\u5411\u6578\u64da\u7121\u6cd5\u7372\u53d6\uff0c\u6240\u6709\u6c7a\u7b56\u5747\u4f9d\u8cf4\u6280\u8853\u6307\u6a19\u3002\u7be9\u9078\u5668\u4e2d\u8868\u73fe\u6700\u4f73\u7684\u5019\u9078\u80a1RSI\u96c6\u4e2d\u65bc60\u81f369\u4e4b\u9593\uff0c\u6b64\u5340\u9593\u4ee3\u8868\u52d5\u80fd\u5df2\u7372\u78ba\u8a8d\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u72c0\u614b\u3002\u6295\u8cc7\u7d44\u5408\u64cd\u4f5c\u91cd\u5fc3\u5728\u65bc\u524a\u6e1b\u6301\u7e8c\u8d70\u5f31\u7684\u8afe\u57fa\u4e9e\uff08NOK\uff09\u90e8\u4f4d\uff0c\u5c07\u8cc7\u91d1\u8f2a\u63db\u81f3\u4e09\u6a94MACD\u3001RSI\u53ca20\u65e5\u5747\u7dda\u8a0a\u865f\u5168\u9762\u4e00\u81f4\u7684\u9ad8\u8a55\u5206\u500b\u80a1\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving. A reading between 55 and 70 is often called the 'bullish momentum zone' \u2014 the stock is gaining strength without being overextended. Above 70 means overbought (risky to buy), below 40 means weakening. Today's best picks all sat in that sweet spot.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u8861\u91cf\u80a1\u50f9\u4e0a\u6f32\u7684\u901f\u5ea6\u8207\u529b\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff0c\u901a\u5e38\u88ab\u7a31\u70ba\u300c\u591a\u982d\u52d5\u80fd\u5340\u9593\u300d\uff0c\u4ee3\u8868\u80a1\u7968\u6b63\u5728\u7a69\u5065\u4e0a\u5347\uff0c\u5c1a\u672a\u904e\u5ea6\u5ef6\u4f38\u3002RSI\u8d85\u904e70\u8868\u793a\u8d85\u8cb7\uff08\u8cb7\u5165\u98a8\u96aa\u8f03\u9ad8\uff09\uff0c\u4f4e\u65bc40\u5247\u986f\u793a\u52d5\u80fd\u6e1b\u5f31\u3002\u4eca\u65e5\u7cbe\u9078\u7684\u6700\u4f73\u6a19\u7684\uff0cRSI\u5747\u843d\u5728\u9019\u4e00\u7406\u60f3\u5340\u9593\u4e4b\u5167\u3002"
+      "term": "Stop-Loss",
+      "explanation_en": "A stop-loss is a pre-set exit price that automatically sells a position once losses reach a defined threshold \u2014 here, -7% from average cost. NOK hit -6.4% today with no recovery signals in sight, making proactive selling the smarter move. Exiting just before the stop fires gives slightly better execution and frees capital faster for redeployment into stronger setups.",
+      "explanation_zh": "\u6b62\u640d\u662f\u4e00\u500b\u9810\u8a2d\u7684\u51fa\u5834\u50f9\u4f4d\uff0c\u7576\u8667\u640d\u9054\u5230\u8a2d\u5b9a\u5e45\u5ea6\u6642\u81ea\u52d5\u5e73\u5009\uff0c\u672c\u7d44\u5408\u7684\u9580\u6abb\u70ba\u6210\u672c\u50f9\u4e0b\u8dcc7%\u3002NOK\u4eca\u65e5\u5df2\u8667\u640d6.4%\u4e14\u6280\u8853\u9762\u6beb\u7121\u597d\u8f49\u8de1\u8c61\uff0c\u4e3b\u52d5\u51fa\u6e05\u512a\u65bc\u88ab\u52d5\u7b49\u5f85\u7cfb\u7d71\u89f8\u767c\u6b62\u640d\u3002\u63d0\u524d\u51fa\u5834\u4e0d\u50c5\u53ef\u7372\u5f97\u7565\u4f73\u7684\u6210\u4ea4\u50f9\u683c\uff0c\u4e5f\u80fd\u66f4\u5feb\u5c07\u8cc7\u91d1\u91cb\u653e\uff0c\u90e8\u7f72\u81f3\u66f4\u5177\u52d5\u80fd\u7684\u6a19\u7684\u3002"
     }
   }
 }
