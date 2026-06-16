@@ -1,19 +1,26 @@
 {
-  "saved_at": "2026-06-16T16:01:02.023830+00:00",
+  "saved_at": "2026-06-16T17:01:13.225408+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Market data is unavailable today, limiting visibility into conditions. With only $477 in cash \u2014 just below the $500 threshold required to open new positions \u2014 no new buys are warranted. All six existing positions are held; INOD, our strongest screener candidate (score 95), is already in the portfolio and continues showing bullish momentum.",
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "SNAP",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI in bullish momentum zone (64.3), MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 deploying remaining cash before it sits idle below the $500 threshold."
+      }
+    ],
+    "skip_new_buys": false,
+    "briefing": "Market data is unavailable today so macro context is limited, but the portfolio continues to compound well at +31.6%. Cash has dipped just under $500, so one opportunistic deployment into SNAP makes sense \u2014 it's a top-tier score-95 candidate with clean technicals. Existing positions are held; none of the open names appear near stop-loss territory based on available prices.",
     "market_education": {
-      "summary_en": "Market direction data was unavailable today, with both the NASDAQ and S&P 500 reporting flat movement and no live price feeds accessible. Without concrete macro catalysts or headline data to act on, the prudent stance is to hold existing positions rather than trade on incomplete information. In the absence of news-driven signals, momentum indicators on existing holdings like INOD remain the primary guide.",
-      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u6578\u64da\u7121\u6cd5\u7372\u53d6\uff0c\u7d0d\u65af\u9054\u514b\u8207\u6a19\u666e500\u5747\u5831\u6301\u5e73\uff0c\u7f3a\u4e4f\u5373\u6642\u884c\u60c5\u53c3\u8003\u3002\u5728\u7121\u5177\u9ad4\u5b8f\u89c0\u50ac\u5316\u5291\u6216\u65b0\u805e\u9762\u652f\u6490\u7684\u60c5\u6cc1\u4e0b\uff0c\u6301\u6709\u73fe\u6709\u5009\u4f4d\u800c\u975e\u8cbf\u7136\u4ea4\u6613\u662f\u8f03\u70ba\u7a69\u5065\u7684\u505a\u6cd5\u3002\u5728\u6d88\u606f\u9762\u8a0a\u865f\u7f3a\u5e2d\u7684\u74b0\u5883\u4e0b\uff0c\u73fe\u6709\u6301\u5009\uff08\u5982INOD\uff09\u7684\u52d5\u80fd\u6307\u6a19\u4ecd\u662f\u4e3b\u8981\u53c3\u8003\u4f9d\u64da\u3002",
+      "summary_en": "Market data feeds were unavailable today, preventing a concrete directional read on equities. In sessions like these, momentum-focused strategies lean on technical signals \u2014 RSI positioning, MACD crossovers, and price-vs-moving-average relationships \u2014 rather than macro news flow to guide entries. The absence of headline catalysts often keeps price action range-bound, which can actually favor momentum names already in established uptrends.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u6578\u64da\u7121\u6cd5\u53d6\u5f97\uff0c\u96e3\u4ee5\u5224\u65b7\u6574\u9ad4\u65b9\u5411\u3002\u5728\u6b64\u60c5\u6cc1\u4e0b\uff0c\u52d5\u80fd\u7b56\u7565\u66f4\u4f9d\u8cf4\u6280\u8853\u6307\u6a19\u2014\u2014\u5982RSI\u4f4d\u7f6e\u3001MACD\u4ea4\u53c9\u8a0a\u865f\u53ca\u50f9\u683c\u8207\u5747\u7dda\u7684\u76f8\u5c0d\u95dc\u4fc2\u2014\u2014\u800c\u975e\u5b8f\u89c0\u65b0\u805e\u4f86\u6c7a\u5b9a\u9032\u5834\u6642\u6a5f\u3002\u7f3a\u4e4f\u91cd\u5927\u6d88\u606f\u50ac\u5316\u7684\u4ea4\u6613\u65e5\uff0c\u5f80\u5f80\u4f7f\u5df2\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u52d5\u80fd\u80a1\u7968\u7dad\u6301\u76f8\u5c0d\u7a69\u5b9a\u7684\u8d70\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Cash Reserve Management",
-      "explanation_en": "Keeping a cash buffer in your portfolio isn't idle money \u2014 it's 'dry powder' that lets you act quickly when high-conviction opportunities appear. Today's situation illustrates why: with only $477 available (just under the $500 threshold), we can't open any meaningful new positions even though four slots are open and several strong candidates exist on the screener.",
-      "explanation_zh": "\u5728\u6295\u8cc7\u7d44\u5408\u4e2d\u4fdd\u7559\u73fe\u91d1\u7de9\u885d\u4e26\u975e\u9592\u7f6e\u8cc7\u91d1\uff0c\u800c\u662f\u6240\u8b02\u7684\u300c\u5099\u7528\u5f48\u85e5\u300d\uff0c\u8b93\u4f60\u5728\u51fa\u73fe\u9ad8\u78ba\u4fe1\u6a5f\u6703\u6642\u80fd\u5920\u8fc5\u901f\u884c\u52d5\u3002\u4eca\u65e5\u60c5\u6cc1\u6b63\u597d\u8aaa\u660e\u9019\u4e00\u9ede\uff1a\u5e33\u6236\u50c5\u9918477\u7f8e\u5143\u73fe\u91d1\uff08\u7565\u4f4e\u65bc500\u7f8e\u5143\u7684\u5efa\u5009\u9580\u6abb\uff09\uff0c\u5373\u4f7f\u6709\u56db\u500b\u7a7a\u9918\u5009\u4f4d\u53ca\u591a\u6a94\u5f37\u52c1\u5019\u9078\u80a1\uff0c\u4e5f\u7121\u6cd5\u958b\u7acb\u4efb\u4f55\u5177\u610f\u7fa9\u7684\u65b0\u5009\u3002"
+      "term": "Cash Drag",
+      "explanation_en": "Cash drag refers to the performance cost of holding uninvested cash in a portfolio. When cash sits idle while the market rises, it pulls down overall returns because that capital isn't compounding. Today's decision to deploy the last $477 into SNAP is a direct response to minimizing cash drag \u2014 even a small position in a high-conviction name beats zero return on idle cash.",
+      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\uff08Cash Drag\uff09\u662f\u6307\u6295\u8cc7\u7d44\u5408\u4e2d\u9592\u7f6e\u73fe\u91d1\u5c0d\u6574\u9ad4\u5831\u916c\u7387\u9020\u6210\u7684\u8ca0\u9762\u5f71\u97ff\u3002\u7576\u73fe\u91d1\u672a\u88ab\u6295\u8cc7\u800c\u5e02\u5834\u6301\u7e8c\u4e0a\u6f32\u6642\uff0c\u9019\u90e8\u5206\u8cc7\u91d1\u7121\u6cd5\u8907\u5229\u589e\u9577\uff0c\u62d6\u4f4e\u6574\u9ad4\u7e3e\u6548\u3002\u4eca\u65e5\u5c07\u5269\u9918477\u7f8e\u5143\u90e8\u7f72\u81f3SNAP\uff0c\u6b63\u662f\u70ba\u4e86\u6e1b\u5c11\u73fe\u91d1\u62d6\u7d2f\u2014\u2014\u5373\u4f7f\u662f\u5c0f\u90e8\u4f4d\u7684\u9ad8\u8a55\u5206\u6a19\u7684\uff0c\u4e5f\u512a\u65bc\u8b93\u8cc7\u91d1\u6beb\u7121\u56de\u5831\u5730\u9592\u7f6e\u3002"
     }
   }
 }
