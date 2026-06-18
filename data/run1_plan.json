@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-06-18T14:01:32.805979+00:00",
+  "saved_at": "2026-06-18T15:01:27.418477+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "ACMR",
-        "conviction": "high",
-        "reasoning": "Perfect momentum score with all 5 bullish signals confirmed \u2014 RSI 69.2 in the sweet spot, MACD crossover and rising histogram, price 9% above SMA-20 with volume surge \u2014 semiconductor equipment names are riding the AI chip buildout wave."
+        "ticker": "SMR",
+        "conviction": "medium",
+        "reasoning": "Nuclear energy plays directly into AI data center power demand; perfect score 95 technical setup (RSI 70.0, MACD bullish crossover, price well above SMA-20) in a risk-on market with $477 cash to deploy."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Risk-on session with NASDAQ +0.9% and S&P +0.8% confirming broad market strength. Cash sits just under the $500 threshold at $477 but 4 slots remain open, so deploying remaining cash into ACMR \u2014 a semiconductor equipment name with a perfect momentum score and every technical indicator aligned bullish. Existing positions across consumer, display tech, AI services, and construction continue to benefit from the rally.",
+    "briefing": "Risk-on day with NASDAQ +1.3% and S&P +1.0% gives the green light for momentum positioning. Portfolio is running strong at +31.6% P&L with 4 slots open. Cash is just under $500 so deploying into SMR \u2014 a nuclear energy micro-cap riding the AI power demand narrative with a clean technical breakout. No existing positions are triggering stop-loss or profit-target alerts.",
     "market_education": {
-      "summary_en": "U.S. equities advanced broadly on Thursday as the risk-on tone was reinforced by continued optimism around AI infrastructure spending and resilient economic data. The NASDAQ outpaced the S&P 500, with semiconductor and tech equipment names leading the charge as investors rotated back into high-growth sectors. Improving breadth across industrials and consumer discretionary further supported the move, suggesting the rally has legs beyond just mega-cap AI plays.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u56db\u5168\u9762\u4e0a\u6f32\uff0c\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u5347\u6eab\uff0c\u6295\u8cc7\u4eba\u6301\u7e8c\u770b\u597d\u4eba\u5de5\u667a\u6167\u57fa\u790e\u5efa\u8a2d\u652f\u51fa\u524d\u666f\u53ca\u97cc\u6027\u5341\u8db3\u7684\u7d93\u6fdf\u6578\u64da\u3002\u90a3\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u9818\u5148\u6a19\u666e500\uff0c\u534a\u5c0e\u9ad4\u53ca\u79d1\u6280\u8a2d\u5099\u985e\u80a1\u6210\u70ba\u6700\u5927\u8d0f\u5bb6\uff0c\u8cc7\u91d1\u7a4d\u6975\u56de\u6d41\u9ad8\u6210\u9577\u677f\u584a\u3002\u5de5\u696d\u53ca\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u985e\u80a1\u540c\u6b65\u8d70\u5f37\uff0c\u986f\u793a\u6b64\u6ce2\u6f32\u52e2\u5df2\u4e0d\u50c5\u5c40\u9650\u65bc\u5927\u578bAI\u9f8d\u982d\uff0c\u5e02\u5834\u5ee3\u5ea6\u6b63\u5728\u64f4\u5927\u3002",
+      "summary_en": "U.S. equities posted broad gains today with growth and technology stocks leading the charge, as improving risk appetite drove money out of safe havens and into higher-beta names. AI infrastructure build-out optimism continues to be the dominant theme, lifting semiconductors (MRVL, INTC, MU all scoring 95) and energy names tied to data center power demand. The NASDAQ's outperformance over the S&P 500 confirms investors are in an offense-first posture heading into the summer.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u4e0a\u6f32\uff0c\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u9818\u6f32\uff0c\u6295\u8cc7\u8005\u98a8\u96aa\u504f\u597d\u56de\u5347\uff0c\u8cc7\u91d1\u5f9e\u907f\u96aa\u8cc7\u7522\u6d41\u5411\u9ad8\u8c9d\u5854\u54c1\u7a2e\u3002\u4eba\u5de5\u667a\u6167\u57fa\u790e\u5efa\u8a2d\u6301\u7e8c\u64f4\u5f35\u7684\u6a02\u89c0\u60c5\u7dd2\u4e3b\u5c0e\u5e02\u5834\uff0c\u5e36\u52d5\u534a\u5c0e\u9ad4\uff08\u5a01\u723e\u534a\u5c0e\u9ad4\u3001\u82f1\u7279\u723e\u3001\u7f8e\u5149\u5747\u7372\u6eff\u5206\u52d5\u80fd\u8a55\u7d1a\uff09\u53ca\u6578\u64da\u4e2d\u5fc3\u76f8\u95dc\u80fd\u6e90\u6982\u5ff5\u80a1\u8d70\u5f37\u3002\u7d0d\u6307\u8dd1\u8d0f\u6a19\u666e500\u5370\u8b49\u5e02\u5834\u6574\u9ad4\u8655\u65bc\u7a4d\u6975\u9032\u653b\u72c0\u614b\uff0c\u5165\u590f\u4ee5\u4f86\u591a\u982d\u683c\u5c40\u672a\u898b\u9b06\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy where you buy stocks that have been trending upward \u2014 using signals like RSI, MACD crossovers, and price above moving averages to confirm that buyers are in control. The idea is that stocks in motion tend to stay in motion, at least in the short term. Today's top candidates (score 100) all showed this pattern: rising price, expanding volume, and MACD confirming the uptrend.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u4e26\u85c9\u7531RSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u80a1\u50f9\u7ad9\u4e0a\u79fb\u52d5\u5e73\u5747\u7dda\u7b49\u6280\u8853\u6307\u6a19\uff0c\u78ba\u8a8d\u5e02\u5834\u7531\u8cb7\u65b9\u4e3b\u5c0e\u3002\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u77ed\u671f\u5167\uff0c\u4e0a\u6f32\u8da8\u52e2\u78ba\u7acb\u7684\u80a1\u7968\u5f80\u5f80\u6703\u7e7c\u7e8c\u4e0a\u6f32\u3002\u4eca\u65e5\u8a55\u5206\u6eff\u5206\uff08100\u5206\uff09\u7684\u5019\u9078\u80a1\u5747\u7b26\u5408\u6b64\u7279\u5fb5\uff1a\u80a1\u50f9\u4e0a\u63da\u3001\u6210\u4ea4\u91cf\u653e\u5927\u3001MACD\u6307\u6a19\u540c\u6b65\u78ba\u8a8d\u591a\u982d\u8da8\u52e2\u3002"
+      "term": "Risk-On Sentiment",
+      "explanation_en": "Risk-on describes a market mood where investors feel confident enough to chase growth assets \u2014 tech, small caps, momentum stocks \u2014 rather than hiding in bonds or gold. Today's broad rally (NASDAQ +1.3%, S&P +1.0%) is a textbook risk-on session: aggressive positioning gets rewarded and stocks with strong technical momentum tend to extend their moves. Recognizing risk-on vs. risk-off helps you know when to press your winners and when to reduce exposure.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u5e02\u5834\u60c5\u7dd2\u6a02\u89c0\uff0c\u6295\u8cc7\u8005\u9858\u610f\u8ffd\u9010\u79d1\u6280\u80a1\u3001\u5c0f\u578b\u80a1\u53ca\u52d5\u80fd\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u800c\u975e\u8eb2\u5165\u50b5\u5238\u6216\u9ec3\u91d1\u7684\u5e02\u5834\u72c0\u614b\u3002\u4eca\u65e5\u5927\u76e4\u5168\u9762\u4e0a\u6f32\u2014\u2014\u7d0d\u6307\u6f321.3%\u3001\u6a19\u666e\u6f321.0%\u2014\u2014\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u884c\u60c5\uff1a\u7a4d\u6975\u591a\u982d\u7b56\u7565\u5f80\u5f80\u80fd\u7372\u8c50\u539a\u56de\u5831\uff0c\u6280\u8853\u9762\u5f37\u52c1\u7684\u52d5\u80fd\u80a1\u66f4\u6613\u5ef6\u7e8c\u5347\u52e2\u3002\u638c\u63e1\u98a8\u96aa\u504f\u597d\u8207\u98a8\u96aa\u898f\u907f\u7684\u5207\u63db\u7bc0\u594f\uff0c\u6709\u52a9\u65bc\u5224\u65b7\u4f55\u6642\u52a0\u78bc\u3001\u4f55\u6642\u6e1b\u5009\u3002"
     }
   }
 }
