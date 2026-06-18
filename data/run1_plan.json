@@ -1,19 +1,26 @@
 {
-  "saved_at": "2026-06-18T13:00:38.839849+00:00",
-  "market_direction": "risk_off",
+  "saved_at": "2026-06-18T14:01:32.805979+00:00",
+  "market_direction": "risk_on",
   "decisions": {
-    "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets sold off broadly today with the S&P 500 down 1.2% and NASDAQ falling 1.3%, triggering a risk-off environment. The screener returned zero candidates, which is the system's signal that momentum conditions are too weak to justify new entries. Cash sits just below the $500 threshold so holding is the right call \u2014 existing positions remain intact pending auto stop-loss/target enforcement.",
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "ACMR",
+        "conviction": "high",
+        "reasoning": "Perfect momentum score with all 5 bullish signals confirmed \u2014 RSI 69.2 in the sweet spot, MACD crossover and rising histogram, price 9% above SMA-20 with volume surge \u2014 semiconductor equipment names are riding the AI chip buildout wave."
+      }
+    ],
+    "skip_new_buys": false,
+    "briefing": "Risk-on session with NASDAQ +0.9% and S&P +0.8% confirming broad market strength. Cash sits just under the $500 threshold at $477 but 4 slots remain open, so deploying remaining cash into ACMR \u2014 a semiconductor equipment name with a perfect momentum score and every technical indicator aligned bullish. Existing positions across consumer, display tech, AI services, and construction continue to benefit from the rally.",
     "market_education": {
-      "summary_en": "U.S. equities declined broadly on June 18 as investors rotated out of risk assets amid renewed concerns over persistent inflation and potential Federal Reserve policy tightening. Tech-heavy NASDAQ led the decline at -1.3%, reflecting sensitivity to rate expectations, while the broader S&P 500 fell -1.2% as defensive positioning dominated. No major single catalyst was identified, but the combination of hawkish Fed rhetoric and elevated valuations weighed on sentiment across sectors.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u65bc6\u670818\u65e5\u5168\u9762\u4e0b\u8dcc\uff0c\u6295\u8cc7\u8005\u56e0\u901a\u8139\u6301\u7e8c\u9ad8\u4f01\u53ca\u806f\u5132\u5c40\u53ef\u80fd\u9032\u4e00\u6b65\u6536\u7dca\u8ca8\u5e63\u653f\u7b56\u7684\u6182\u616e\u800c\u64a4\u96e2\u98a8\u96aa\u8cc7\u7522\u3002\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u8dcc\u5e45\u6700\u5927\uff0c\u4e0b\u8dcc1.3%\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u5229\u7387\u8d70\u5411\u7684\u9ad8\u5ea6\u654f\u611f\u6027\uff0c\u6a19\u666e500\u4ea6\u8dcc1.2%\uff0c\u9632\u79a6\u6027\u90e8\u7f72\u4e3b\u5c0e\u5e02\u5834\u60c5\u7dd2\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u806f\u5132\u5c40\u504f\u9df9\u8a00\u8ad6\u52a0\u4e0a\u4f30\u503c\u504f\u9ad8\u7684\u58d3\u529b\uff0c\u4ee4\u5404\u677f\u584a\u666e\u904d\u627f\u58d3\u3002",
+      "summary_en": "U.S. equities advanced broadly on Thursday as the risk-on tone was reinforced by continued optimism around AI infrastructure spending and resilient economic data. The NASDAQ outpaced the S&P 500, with semiconductor and tech equipment names leading the charge as investors rotated back into high-growth sectors. Improving breadth across industrials and consumer discretionary further supported the move, suggesting the rally has legs beyond just mega-cap AI plays.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u56db\u5168\u9762\u4e0a\u6f32\uff0c\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u5347\u6eab\uff0c\u6295\u8cc7\u4eba\u6301\u7e8c\u770b\u597d\u4eba\u5de5\u667a\u6167\u57fa\u790e\u5efa\u8a2d\u652f\u51fa\u524d\u666f\u53ca\u97cc\u6027\u5341\u8db3\u7684\u7d93\u6fdf\u6578\u64da\u3002\u90a3\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u9818\u5148\u6a19\u666e500\uff0c\u534a\u5c0e\u9ad4\u53ca\u79d1\u6280\u8a2d\u5099\u985e\u80a1\u6210\u70ba\u6700\u5927\u8d0f\u5bb6\uff0c\u8cc7\u91d1\u7a4d\u6975\u56de\u6d41\u9ad8\u6210\u9577\u677f\u584a\u3002\u5de5\u696d\u53ca\u975e\u5fc5\u9700\u6d88\u8cbb\u54c1\u985e\u80a1\u540c\u6b65\u8d70\u5f37\uff0c\u986f\u793a\u6b64\u6ce2\u6f32\u52e2\u5df2\u4e0d\u50c5\u5c40\u9650\u65bc\u5927\u578bAI\u9f8d\u982d\uff0c\u5e02\u5834\u5ee3\u5ea6\u6b63\u5728\u64f4\u5927\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' environment is when investors become fearful and move money away from volatile assets like growth stocks toward safer ones like bonds, cash, or defensive equities. On days like today, the broad market falls because sellers outnumber buyers and confidence is low. For active traders, risk-off signals are a reason to pause new buying rather than chase positions into a falling market.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u56e0\u5e02\u5834\u60c5\u7dd2\u8da8\u65bc\u4fdd\u5b88\uff0c\u5c07\u8cc7\u91d1\u5f9e\u9ad8\u6ce2\u52d5\u6027\u8cc7\u7522\uff08\u5982\u6210\u9577\u80a1\uff09\u64a4\u51fa\uff0c\u8f49\u79fb\u81f3\u50b5\u5238\u3001\u73fe\u91d1\u6216\u9632\u79a6\u6027\u80a1\u7968\u7b49\u8f03\u5b89\u5168\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u5728\u6b64\u985e\u884c\u60c5\u4e0b\uff0c\u8ce3\u5bb6\u591a\u65bc\u8cb7\u5bb6\uff0c\u6574\u9ad4\u5e02\u5834\u8d70\u4f4e\u3002\u5c0d\u65bc\u4e3b\u52d5\u4ea4\u6613\u8005\u800c\u8a00\uff0c\u98a8\u96aa\u898f\u907f\u4fe1\u865f\u610f\u5473\u8457\u61c9\u66ab\u7de9\u958b\u65b0\u5009\uff0c\u907f\u514d\u5728\u4e0b\u8dcc\u5e02\u6cc1\u4e2d\u8ffd\u5165\u90e8\u4f4d\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing is a strategy where you buy stocks that have been trending upward \u2014 using signals like RSI, MACD crossovers, and price above moving averages to confirm that buyers are in control. The idea is that stocks in motion tend to stay in motion, at least in the short term. Today's top candidates (score 100) all showed this pattern: rising price, expanding volume, and MACD confirming the uptrend.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u6301\u7e8c\u4e0a\u6f32\u7684\u80a1\u7968\uff0c\u4e26\u85c9\u7531RSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u80a1\u50f9\u7ad9\u4e0a\u79fb\u52d5\u5e73\u5747\u7dda\u7b49\u6280\u8853\u6307\u6a19\uff0c\u78ba\u8a8d\u5e02\u5834\u7531\u8cb7\u65b9\u4e3b\u5c0e\u3002\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u77ed\u671f\u5167\uff0c\u4e0a\u6f32\u8da8\u52e2\u78ba\u7acb\u7684\u80a1\u7968\u5f80\u5f80\u6703\u7e7c\u7e8c\u4e0a\u6f32\u3002\u4eca\u65e5\u8a55\u5206\u6eff\u5206\uff08100\u5206\uff09\u7684\u5019\u9078\u80a1\u5747\u7b26\u5408\u6b64\u7279\u5fb5\uff1a\u80a1\u50f9\u4e0a\u63da\u3001\u6210\u4ea4\u91cf\u653e\u5927\u3001MACD\u6307\u6a19\u540c\u6b65\u78ba\u8a8d\u591a\u982d\u8da8\u52e2\u3002"
     }
   }
 }
