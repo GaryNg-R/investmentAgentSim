@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-06-24T20:01:33.253408+00:00",
+  "saved_at": "2026-06-24T21:01:22.601596+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "FBIN",
-        "conviction": "medium",
-        "reasoning": "Score 95 with all four bullish signals \u2014 RSI 64.7 sits in the momentum zone with room before overbought, MACD crossover confirmed, price above SMA-20, and volume surge; best use of the remaining cash before slots go idle."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today with NASDAQ -0.4% and S&P 500 -0.1%, a quiet, directionless session with no major catalyst in either direction. Cash sits at $477 \u2014 just under the $500 preference threshold \u2014 so I'm deploying one position in FBIN, the top score-95 name with every bullish signal firing and RSI leaving upside before overbought territory. All six existing positions remain untouched; no stop-loss or profit-target triggers were indicated.",
+    "briefing": "Markets drifted slightly lower today with NASDAQ off 0.4% and S&P 500 down 0.1% \u2014 a neutral, low-conviction session with no strong directional signal. Despite 4 open portfolio slots and a compelling lineup of momentum candidates (FBIN at score 100, plus eight names at 95), available cash of $477 falls just below the $500 deployment threshold, leaving us unable to act. No trades today; the priority is letting existing positions play out and recycling capital when auto-sells trigger.",
     "market_education": {
-      "summary_en": "U.S. equities drifted marginally lower on Wednesday with the NASDAQ slipping 0.4% and the S&P 500 down 0.1%, reflecting a cautious mid-week session as investors found little fresh macro news to act on. Technology stocks bore the brunt of light profit-taking, pulling the NASDAQ modestly below the broader index. With no major earnings or Fed commentary on the calendar, trading volumes stayed subdued and price action remained choppy \u2014 a classic summer lull.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u9031\u4e09\u5c0f\u5e45\u6536\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u6ed10.4%\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc0.1%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u7f3a\u4e4f\u65b0\u9bae\u5b8f\u89c0\u50ac\u5316\u5291\u4e0b\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002\u79d1\u6280\u80a1\u9762\u81e8\u6eab\u548c\u7372\u5229\u56de\u5410\u58d3\u529b\uff0c\u4ee4\u7d0d\u6307\u8dd1\u8f38\u5927\u76e4\u3002\u7531\u65bc\u7576\u65e5\u7121\u91cd\u5927\u8ca1\u5831\u6216\u806f\u5132\u5c40\u5b98\u54e1\u8868\u614b\uff0c\u6210\u4ea4\u91cf\u6574\u9ad4\u504f\u4f4e\uff0c\u8d70\u52e2\u53cd\u8986\u9707\u76ea\uff0c\u5448\u73fe\u5178\u578b\u590f\u5b63\u6de1\u5e02\u7279\u5fb5\u3002",
+      "summary_en": "U.S. equities posted a quiet, slightly negative session today, with the NASDAQ declining 0.4% and the S&P 500 slipping 0.1% \u2014 neither a decisive risk-off move nor a continuation of recent bullish momentum. The flat price action reflects broad consolidation as investors digest recent gains without a clear new catalyst. Sector rotation appeared muted, with no single theme dominating the tape.",
+      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u8d70\u52e2\u5e73\u975c\uff0c\u5c0f\u5e45\u6536\u8dcc\uff0c\u90a3\u65af\u9054\u514b\u4e0b\u8dcc0.4%\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc0.1%\uff0c\u5e02\u5834\u672a\u80fd\u5ef6\u7e8c\u8fd1\u671f\u5347\u52e2\uff0c\u4ea6\u672a\u51fa\u73fe\u660e\u986f\u7684\u907f\u96aa\u60c5\u7dd2\u3002\u6574\u9ad4\u8d70\u52e2\u53cd\u6620\u6295\u8cc7\u8005\u5728\u7f3a\u4e4f\u65b0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6b63\u6d88\u5316\u8fd1\u671f\u6f32\u5e45\uff0c\u9032\u5165\u6574\u56fa\u968e\u6bb5\u3002\u5404\u677f\u584a\u8f2a\u52d5\u8de1\u8c61\u4e0d\u660e\u986f\uff0c\u5e02\u5834\u7f3a\u4e4f\u4e3b\u7dda\u4e3b\u984c\u9a45\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price and volume trends, on the theory that assets already moving upward tend to keep rising in the near term. Indicators like RSI in the 55\u201370 bullish zone, a MACD crossover, and an above-average volume surge all confirm that buyers are in control. Today's top picks \u2014 FBIN, FND, ICLR \u2014 score highest because multiple momentum signals align at the same time, increasing the probability of continued upward movement.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u5747\u5448\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u6838\u5fc3\u908f\u8f2f\u662f\u5df2\u5728\u4e0a\u6f32\u7684\u8cc7\u7522\u5728\u77ed\u671f\u5167\u5f80\u5f80\u5177\u6709\u5ef6\u7e8c\u6027\u3002RSI\u4ecb\u65bc55\u81f370\u7684\u5f37\u52e2\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\uff0c\u4ee5\u53ca\u9ad8\u65bc\u5747\u503c\u7684\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u5747\u78ba\u8a8d\u8cb7\u65b9\u529b\u91cf\u4e3b\u5c0e\u5e02\u5834\u3002\u4eca\u65e5\u6700\u9ad8\u8a55\u5206\u5019\u9078\u80a1\u2014\u2014FBIN\u3001FND\u3001ICLR\u2014\u2014\u4e4b\u6240\u4ee5\u812b\u7a4e\u800c\u51fa\uff0c\u6b63\u662f\u56e0\u70ba\u591a\u9805\u52d5\u80fd\u6307\u6a19\u540c\u6b65\u5171\u632f\uff0c\u5927\u5e45\u63d0\u5347\u6301\u7e8c\u4e0a\u884c\u7684\u6982\u7387\u3002"
+      "term": "Cash Drag",
+      "explanation_en": "Cash drag is what happens when idle cash in your portfolio earns little to nothing while market opportunities pass by. Today, even though we have 4 open slots and high-scoring stocks like FBIN ready to deploy into, our $477 cash balance sits just below the $500 minimum needed to open a new position \u2014 so we're locked out. The fix is proactive capital recycling: trimming underperformers or taking profits before cash runs dry so you're always ready to act.",
+      "explanation_zh": "\u73fe\u91d1\u62d6\u7d2f\uff08Cash Drag\uff09\u662f\u6307\u6295\u8cc7\u7d44\u5408\u4e2d\u9592\u7f6e\u7684\u73fe\u91d1\u56e0\u6536\u76ca\u6975\u4f4e\uff0c\u5c0e\u81f4\u6574\u9ad4\u56de\u5831\u88ab\u62d6\u4f4e\u7684\u73fe\u8c61\u3002\u4eca\u65e5\uff0c\u5118\u7ba1\u7d44\u5408\u67094\u500b\u7a7a\u7f3a\u69fd\u4f4d\uff0c\u4e14FBIN\u7b49\u9ad8\u8a55\u5206\u80a1\u7968\u63d0\u4f9b\u4e86\u660e\u78ba\u7684\u9032\u5834\u6a5f\u6703\uff0c\u4f46\u53ef\u7528\u73fe\u91d1\u50c5\u5269477\u7f8e\u5143\uff0c\u4f4e\u65bc\u5efa\u5009\u6240\u9700\u7684500\u7f8e\u5143\u9580\u6abb\uff0c\u4ee4\u6211\u5011\u7121\u6cd5\u884c\u52d5\u3002\u89e3\u6c7a\u4e4b\u9053\u5728\u65bc\u4e3b\u52d5\u7ba1\u7406\u8cc7\u91d1\u5faa\u74b0\u2014\u2014\u9069\u6642\u6b62\u76c8\u6216\u6c70\u5f31\uff0c\u78ba\u4fdd\u73fe\u91d1\u96a8\u6642\u5145\u88d5\uff0c\u628a\u63e1\u5e02\u5834\u6a5f\u6703\u3002"
     }
   }
 }
