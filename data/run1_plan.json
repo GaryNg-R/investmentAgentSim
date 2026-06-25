@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-06-25T20:01:41.968188+00:00",
+  "saved_at": "2026-06-25T21:01:24.413473+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "ALGM",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI firmly in the ideal momentum zone (62.6), confirmed MACD bullish crossover, volume surge, and price breaking above SMA-20 \u2014 solid technical setup in the semiconductor analog space with room to run before overbought territory."
+        "ticker": "FRMI",
+        "conviction": "high",
+        "reasoning": "Score 100 with RSI 56.3 in the ideal bullish momentum zone, MACD crossover confirmed, volume surge, and at $8.80 it maximizes share count with the remaining ~$477 cash \u2014 best fit given capital constraints."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were mixed today \u2014 NASDAQ slipped 0.5% while the S&P 500 held flat, suggesting mild rotation away from high-multiple tech. Cash sits at $477, just shy of the $500 threshold, so buying power is limited to one move; deploying it into ALGM, the strongest sub-$100 candidate with clean momentum signals. Existing six positions remain untouched.",
+    "briefing": "Markets were largely flat today with S&P 500 barely unchanged and NASDAQ slipping 0.5%, signaling cautious but not panicked sentiment. The strongest screener hits remain semiconductor and tech-adjacent names (TER, FRMI, UCTT, ALGM) with clean RSI and MACD setups. Cash fell just below the $500 auto-fill threshold, but FRMI's low share price lets us deploy it fully and open a fifth position without overextending.",
     "market_education": {
-      "summary_en": "Today's session saw a mild divergence between the NASDAQ (-0.5%) and the S&P 500 (flat), a pattern that typically signals quiet sector rotation rather than broad market stress. Technology and growth-heavy names weighed on the NASDAQ as investors trimmed positions in high-valuation stocks amid a lack of fresh catalysts. With no major economic releases or Fed commentary scheduled, price action was largely driven by technical positioning and end-of-week rebalancing flows.",
-      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5448\u73fe\u6eab\u548c\u5206\u5316\u8d70\u52e2\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc0.5%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u5e7e\u8fd1\u6301\u5e73\uff0c\u6b64\u683c\u5c40\u901a\u5e38\u53cd\u6620\u5e02\u5834\u8f2a\u52d5\uff0c\u800c\u975e\u7cfb\u7d71\u6027\u98a8\u96aa\u5347\u6eab\u3002\u79d1\u6280\u53ca\u9ad8\u589e\u9577\u500b\u80a1\u62d6\u7d2f\u7d0d\u6307\u8868\u73fe\uff0c\u5728\u7f3a\u4e4f\u65b0\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u6295\u8cc7\u8005\u8d81\u6a5f\u8abf\u6e1b\u9ad8\u4f30\u503c\u6301\u5009\u3002\u7531\u65bc\u4eca\u65e5\u7121\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u51fa\u7210\uff0c\u4ea6\u7121\u806f\u5132\u5c40\u5b98\u54e1\u8868\u614b\uff0c\u76e4\u9762\u8d70\u52e2\u4e3b\u8981\u7531\u6280\u8853\u6027\u90e8\u4f4d\u8abf\u6574\u53ca\u5468\u672b\u524d\u7684\u8cc7\u91d1\u518d\u5e73\u8861\u4e3b\u5c0e\u3002",
+      "summary_en": "U.S. equities drifted in a narrow range on June 25, with the S&P 500 essentially flat and the NASDAQ down modestly as investors weighed mixed signals from the macro backdrop. Semiconductor and industrial names led in relative strength, suggesting rotation away from mega-cap tech toward mid-cap cyclical momentum plays. Absent a clear catalyst, volume was light and price action choppy \u2014 typical for a late-June session heading into quarter-end rebalancing.",
+      "summary_zh": "6\u670825\u65e5\u7f8e\u80a1\u7a84\u5e45\u9707\u76ea\uff0c\u6a19\u666e500\u5e7e\u8fd1\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u5c0f\u8dcc\u7d040.5%\uff0c\u5e02\u5834\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u4e0b\u9677\u5165\u89c0\u671b\u3002\u534a\u5c0e\u9ad4\u53ca\u5de5\u696d\u80a1\u76f8\u5c0d\u5f37\u52e2\uff0c\u8cc7\u91d1\u6709\u5f9e\u5927\u578b\u79d1\u6280\u80a1\u5411\u4e2d\u578b\u9031\u671f\u80a1\u8f2a\u52d5\u7684\u8de1\u8c61\u3002\u81e8\u8fd1\u5b63\u672b\uff0c\u6a5f\u69cb\u518d\u5e73\u8861\u64cd\u4f5c\u4ee4\u6210\u4ea4\u91cf\u504f\u4f4e\uff0c\u6574\u9ad4\u8d70\u52e2\u5448\u73fe\u5178\u578b\u7684\u6708\u5e95\u62c9\u92f8\u683c\u5c40\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Sector Rotation",
-      "explanation_en": "Sector rotation is when investors collectively shift money out of one area of the market and into another \u2014 for example, selling high-growth tech (NASDAQ-heavy) and buying more stable or value-oriented names. Today's NASDAQ underperformance relative to the flat S&P 500 is a textbook rotation signal. Recognizing these shifts early helps investors position in sectors that are gaining inflows rather than fighting the tide.",
-      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u96c6\u9ad4\u5c07\u8cc7\u91d1\u5f9e\u5e02\u5834\u67d0\u4e00\u9818\u57df\u8f49\u79fb\u81f3\u53e6\u4e00\u9818\u57df\uff0c\u4f8b\u5982\u6e1b\u6301\u9ad8\u589e\u9577\u79d1\u6280\u80a1\uff08\u7d0d\u6307\u6b0a\u91cd\u8f03\u5927\uff09\uff0c\u8f49\u8cb7\u66f4\u5177\u9632\u79a6\u6027\u6216\u50f9\u503c\u5c6c\u6027\u7684\u500b\u80a1\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u8dd1\u8f38\u6301\u5e73\u7684\u6a19\u666e500\uff0c\u6b63\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u8f2a\u52d5\u8a0a\u865f\u3002\u53ca\u65e9\u8b58\u5225\u6b64\u985e\u8cc7\u91d1\u6d41\u5411\uff0c\u6709\u52a9\u6295\u8cc7\u8005\u8cb7\u5165\u6b63\u5728\u5438\u5f15\u65b0\u8cc7\u91d1\u7684\u677f\u584a\uff0c\u800c\u975e\u9006\u52e2\u800c\u884c\u3002"
+      "term": "Volume Surge",
+      "explanation_en": "A volume surge occurs when a stock's trading volume jumps well above its recent average \u2014 typically defined as 1.5x or more the 20-day average. It signals that a large number of buyers (or sellers) are suddenly interested, adding conviction to a price move. When volume spikes alongside a price breakout or strong RSI, it confirms the momentum is real rather than just noise.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u66b4\u589e\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u7576\u65e5\u4ea4\u6613\u91cf\u9060\u8d85\u8fd1\u671f\u5e73\u5747\u6c34\u5e73\uff0c\u901a\u5e38\u5b9a\u7fa9\u70ba20\u65e5\u5747\u91cf\u76841.5\u500d\u4ee5\u4e0a\u3002\u9019\u4ee3\u8868\u5927\u91cf\u8cb7\u5bb6\uff08\u6216\u8ce3\u5bb6\uff09\u7a81\u7136\u6e67\u5165\uff0c\u70ba\u7576\u524d\u7684\u50f9\u683c\u8d70\u52e2\u63d0\u4f9b\u984d\u5916\u7684\u78ba\u8a8d\u3002\u7576\u6210\u4ea4\u91cf\u653e\u5927\u540c\u6642\u4f34\u96a8\u50f9\u683c\u7a81\u7834\u6216\u5f37\u52e2RSI\u8a0a\u865f\u6642\uff0c\u4ee3\u8868\u52d5\u80fd\u662f\u771f\u5be6\u7684\uff0c\u800c\u975e\u865b\u5047\u6ce2\u52d5\u3002"
     }
   }
 }
