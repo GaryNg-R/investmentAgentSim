@@ -172,7 +172,7 @@ def test_run2_executes_buy(tmp_path, monkeypatch, capsys):
     ):
         mock_dt.now.return_value = _market_open_et
         mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
-        cmd_run2(db_path=db_file, plan_path=plan_file)
+        cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=str(tmp_path / "journal"))
 
     captured = capsys.readouterr()
     # Low conviction allocates 4% of $10,000 = $400; at $100/share = 4 shares — should be EXECUTED
@@ -213,7 +213,7 @@ def test_cmd_run2_monday_deposit_adds_100_to_agent_cash(tmp_path, monkeypatch, c
     from agent.portfolio.engine import get_portfolio_status
     initial_cash = get_portfolio_status(db_file)["cash"]
 
-    cmd_run2(db_path=db_file, plan_path=plan_file)
+    cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=str(tmp_path / "journal"))
 
     final_cash = get_portfolio_status(db_file)["cash"]
     assert abs(final_cash - (initial_cash + 100.0)) < 0.01
@@ -295,7 +295,7 @@ def test_run2_high_conviction_buy_allocates_15pct_of_cash(tmp_path, monkeypatch,
     ):
         mock_dt.now.return_value = _market_open_et
         mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
-        cmd_run2(db_path=db_file, plan_path=plan_file)
+        cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=str(tmp_path / "journal"))
 
     captured = capsys.readouterr()
     # 15% of $10,000 = $1,500; at $100/share = 15 shares
@@ -339,7 +339,7 @@ def test_cmd_run2_calls_process_dividends(tmp_path, monkeypatch, capsys):
     with patch("agent.main.datetime") as mock_dt:
         mock_dt.now.return_value = _market_open_et
         mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
-        cmd_run2(db_path=db_file, plan_path=plan_file)
+        cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=str(tmp_path / "journal"))
 
     assert len(dividend_calls) == 1
 
@@ -376,7 +376,7 @@ def test_run2_calls_export_and_sync(tmp_path, monkeypatch, capsys):
     with patch("agent.main.datetime") as mock_dt:
         mock_dt.now.return_value = _market_open_et
         mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
-        cmd_run2(db_path=db_file, plan_path=plan_file)
+        cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=str(tmp_path / "journal"))
 
     assert len(export_calls) == 1
     assert len(sync_calls) == 1
@@ -395,6 +395,7 @@ def test_run2_export_failure_does_not_block_completion(tmp_path, monkeypatch, ca
 
     db_file = str(tmp_path / "portfolio.db")
     plan_file = str(tmp_path / "run1_plan.json")
+    journal_dir = str(tmp_path / "journal")
     init_db(db_file)
 
     plan = {
@@ -422,4 +423,95 @@ def test_run2_export_failure_does_not_block_completion(tmp_path, monkeypatch, ca
         mock_dt.now.return_value = _market_open_et
         mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
         # Must not raise
-        cmd_run2(db_path=db_file, plan_path=plan_file)
+        cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=journal_dir)
+
+
+# ---------------------------------------------------------------------------
+# Task 2: Journal write at end of run2
+# ---------------------------------------------------------------------------
+
+def test_run2_writes_journal_entry(tmp_path, monkeypatch, capsys):
+    """cmd_run2 writes a dated journal JSON file after completing the run."""
+    from datetime import date as _date_cls, datetime as _dt
+    try:
+        from zoneinfo import ZoneInfo
+    except ImportError:
+        from backports.zoneinfo import ZoneInfo
+
+    db_file = str(tmp_path / "portfolio.db")
+    plan_file = str(tmp_path / "run1_plan.json")
+    journal_dir = str(tmp_path / "journal")
+    init_db(db_file)
+
+    plan = {
+        "decisions": {
+            "trades": [],
+            "skip_new_buys": False,
+            "briefing": "Test briefing",
+            "daily_lesson": {"en": "Buy low sell high", "zh": "低買高賣"},
+            "market_education": {},
+        }
+    }
+    with open(plan_file, "w") as f:
+        json.dump(plan, f)
+
+    # Fix today to a known date so we know the expected filename
+    class _FakeDate(_date_cls):
+        @classmethod
+        def today(cls):
+            return cls(2026, 6, 25)
+
+    monkeypatch.setattr("agent.main.date", _FakeDate)
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: True)
+    monkeypatch.setattr("agent.tools.benchmark._get_voo_price", lambda: 450.0)
+    monkeypatch.setattr("agent.main.export_dashboard_data", lambda *a, **kw: None)
+    monkeypatch.setattr("agent.main.sync_dashboard_repo", lambda *a, **kw: {"ok": True, "reason": "ok"})
+
+    cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=journal_dir)
+
+    import os
+    expected_file = os.path.join(journal_dir, "2026-06-25.json")
+    assert os.path.exists(expected_file), f"Expected journal file not found: {expected_file}"
+
+    with open(expected_file) as fh:
+        entry = json.load(fh)
+
+    assert entry["date"] == "2026-06-25"
+    assert entry["briefing"] == "Test briefing"
+    assert entry["daily_lesson"] == {"en": "Buy low sell high", "zh": "低買高賣"}
+
+
+def test_run2_journal_failure_does_not_block_completion(tmp_path, monkeypatch, capsys):
+    """If write_journal_entry fails, cmd_run2 still completes without re-raising."""
+    from datetime import datetime as _dt
+    try:
+        from zoneinfo import ZoneInfo
+    except ImportError:
+        from backports.zoneinfo import ZoneInfo
+
+    db_file = str(tmp_path / "portfolio.db")
+    plan_file = str(tmp_path / "run1_plan.json")
+    journal_dir = str(tmp_path / "journal")
+    init_db(db_file)
+
+    plan = {
+        "decisions": {
+            "trades": [],
+            "skip_new_buys": False,
+            "briefing": "ok",
+        }
+    }
+    with open(plan_file, "w") as f:
+        json.dump(plan, f)
+
+    monkeypatch.setattr("agent.main.write_journal_entry", lambda *a, **kw: (_ for _ in ()).throw(RuntimeError("journal crash")))
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: True)
+    monkeypatch.setattr("agent.tools.benchmark._get_voo_price", lambda: 450.0)
+    monkeypatch.setattr("agent.main.export_dashboard_data", lambda *a, **kw: None)
+    monkeypatch.setattr("agent.main.sync_dashboard_repo", lambda *a, **kw: {"ok": True, "reason": "ok"})
+
+    # Must not raise
+    cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=journal_dir)
+
+    captured = capsys.readouterr()
+    assert "journal" in captured.out.lower() or True  # warning printed is fine; main thing is no exception

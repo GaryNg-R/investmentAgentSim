@@ -46,6 +46,7 @@ from agent.tools.benchmark import update_benchmark  # FEAT-002
 from agent.tools.dividends import process_dividends  # FEAT-005
 from agent.tools.dashboard_export import export_dashboard_data
 from agent.tools.git_sync import sync_dashboard_repo
+from agent.tools.journal import write_journal_entry
 
 import os as _os
 
@@ -108,7 +109,11 @@ def cmd_run1(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
         sys.exit(1)
 
 
-def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
+def cmd_run2(
+    db_path: str = DB_PATH,
+    plan_path: str = PLAN_PATH,
+    journal_dir: str = _os.path.join(_PROJECT_ROOT, "data", "journal"),
+) -> None:
     """Execute the trade plan from run1."""
     try:
         init_db(db_path)
@@ -219,7 +224,7 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
         )
         notify_run2(executed, rejected, portfolio, benchmark=benchmark, dividends=dividends)  # FEAT-002, FEAT-005
 
-        # Dashboard export — runs last, failure never propagates
+        # Dashboard export — failure never propagates
         try:
             _dash_repo = _os.environ.get(
                 "DASHBOARD_REPO_PATH",
@@ -233,6 +238,14 @@ def cmd_run2(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
                 print(f"[dashboard sync] {_sync_result['reason']}")
         except Exception as _exc:
             print(f"[dashboard export] warning: {_exc}")
+
+        # Journal write — runs last, failure never propagates
+        try:
+            _journal_result = write_journal_entry(decisions, portfolio, journal_dir, today)
+            if not _journal_result["ok"]:
+                print(f"[journal] warning: {_journal_result['reason']}")
+        except Exception as _exc:
+            print(f"[journal] warning: {_exc}")
 
     except SystemExit:
         raise
