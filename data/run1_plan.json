@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-06-25T21:01:24.413473+00:00",
+  "saved_at": "2026-06-26T06:14:58.153250+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "FRMI",
-        "conviction": "high",
-        "reasoning": "Score 100 with RSI 56.3 in the ideal bullish momentum zone, MACD crossover confirmed, volume surge, and at $8.80 it maximizes share count with the remaining ~$477 cash \u2014 best fit given capital constraints."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets were largely flat today with S&P 500 barely unchanged and NASDAQ slipping 0.5%, signaling cautious but not panicked sentiment. The strongest screener hits remain semiconductor and tech-adjacent names (TER, FRMI, UCTT, ALGM) with clean RSI and MACD setups. Cash fell just below the $500 auto-fill threshold, but FRMI's low share price lets us deploy it fully and open a fifth position without overextending.",
+    "briefing": "Market is neutral today with NASDAQ down a modest 0.5% and S&P 500 essentially flat \u2014 no strong directional signal. Cash sits at $477, just below the $500 threshold needed to trigger new buys, so despite having 4 open slots we cannot meaningfully deploy capital. Current six holdings remain intact with no stop-loss or profit target events visible; the right move is to hold and let existing momentum plays run.",
     "market_education": {
-      "summary_en": "U.S. equities drifted in a narrow range on June 25, with the S&P 500 essentially flat and the NASDAQ down modestly as investors weighed mixed signals from the macro backdrop. Semiconductor and industrial names led in relative strength, suggesting rotation away from mega-cap tech toward mid-cap cyclical momentum plays. Absent a clear catalyst, volume was light and price action choppy \u2014 typical for a late-June session heading into quarter-end rebalancing.",
-      "summary_zh": "6\u670825\u65e5\u7f8e\u80a1\u7a84\u5e45\u9707\u76ea\uff0c\u6a19\u666e500\u5e7e\u8fd1\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u5c0f\u8dcc\u7d040.5%\uff0c\u5e02\u5834\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u4e0b\u9677\u5165\u89c0\u671b\u3002\u534a\u5c0e\u9ad4\u53ca\u5de5\u696d\u80a1\u76f8\u5c0d\u5f37\u52e2\uff0c\u8cc7\u91d1\u6709\u5f9e\u5927\u578b\u79d1\u6280\u80a1\u5411\u4e2d\u578b\u9031\u671f\u80a1\u8f2a\u52d5\u7684\u8de1\u8c61\u3002\u81e8\u8fd1\u5b63\u672b\uff0c\u6a5f\u69cb\u518d\u5e73\u8861\u64cd\u4f5c\u4ee4\u6210\u4ea4\u91cf\u504f\u4f4e\uff0c\u6574\u9ad4\u8d70\u52e2\u5448\u73fe\u5178\u578b\u7684\u6708\u5e95\u62c9\u92f8\u683c\u5c40\u3002",
+      "summary_en": "U.S. equities drifted in a subdued, mixed session on June 25, 2026, with the NASDAQ slipping 0.5% as technology and growth names faced light selling pressure while the broader S&P 500 held roughly flat. The muted action reflects a market in consolidation mode, digesting recent strong gains in semiconductors and AI names without a fresh catalyst to drive the next leg. Investors appear content to wait on the sidelines ahead of upcoming macro data and Fed commentary before committing fresh capital.",
+      "summary_zh": "2026\u5e746\u670825\u65e5\uff0c\u7f8e\u80a1\u6574\u9ad4\u8d70\u52e2\u5e73\u6de1\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u5c0f\u8dcc0.5%\uff0c\u79d1\u6280\u53ca\u6210\u9577\u985e\u80a1\u627f\u53d7\u8f15\u5fae\u6cbd\u58d3\uff0c\u6a19\u666e500\u5247\u5e7e\u4e4e\u6301\u5e73\u3002\u5e02\u5834\u6574\u9ad4\u5448\u6574\u56fa\u614b\u52e2\uff0c\u8fd1\u671f\u534a\u5c0e\u9ad4\u8207\u4eba\u5de5\u667a\u80fd\u677f\u584a\u7684\u5f37\u52c1\u6f32\u5e45\u6b63\u5f85\u6d88\u5316\uff0c\u77ed\u671f\u5167\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u9a45\u52d5\u4e0b\u4e00\u6ce2\u884c\u60c5\u3002\u6295\u8cc7\u8005\u666e\u904d\u4fdd\u6301\u89c0\u671b\uff0c\u975c\u5019\u5373\u5c07\u516c\u5e03\u7684\u5b8f\u89c0\u6578\u64da\u53ca\u806f\u5132\u5c40\u5b98\u54e1\u8868\u614b\uff0c\u518d\u6c7a\u5b9a\u662f\u5426\u9032\u4e00\u6b65\u52a0\u6ce8\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Surge",
-      "explanation_en": "A volume surge occurs when a stock's trading volume jumps well above its recent average \u2014 typically defined as 1.5x or more the 20-day average. It signals that a large number of buyers (or sellers) are suddenly interested, adding conviction to a price move. When volume spikes alongside a price breakout or strong RSI, it confirms the momentum is real rather than just noise.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u66b4\u589e\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u7576\u65e5\u4ea4\u6613\u91cf\u9060\u8d85\u8fd1\u671f\u5e73\u5747\u6c34\u5e73\uff0c\u901a\u5e38\u5b9a\u7fa9\u70ba20\u65e5\u5747\u91cf\u76841.5\u500d\u4ee5\u4e0a\u3002\u9019\u4ee3\u8868\u5927\u91cf\u8cb7\u5bb6\uff08\u6216\u8ce3\u5bb6\uff09\u7a81\u7136\u6e67\u5165\uff0c\u70ba\u7576\u524d\u7684\u50f9\u683c\u8d70\u52e2\u63d0\u4f9b\u984d\u5916\u7684\u78ba\u8a8d\u3002\u7576\u6210\u4ea4\u91cf\u653e\u5927\u540c\u6642\u4f34\u96a8\u50f9\u683c\u7a81\u7834\u6216\u5f37\u52e2RSI\u8a0a\u865f\u6642\uff0c\u4ee3\u8868\u52d5\u80fd\u662f\u771f\u5be6\u7684\uff0c\u800c\u975e\u865b\u5047\u6ce2\u52d5\u3002"
+      "term": "Cash Drag",
+      "explanation_en": "Cash drag is the performance penalty a portfolio suffers from holding uninvested cash. Cash earns near-zero returns, so every dollar sitting idle falls behind stocks over time, slowly pulling down the portfolio's overall return. Today's situation is a textbook example: with $477 in cash and 4 open slots available, we're just below the $500 buy threshold \u2014 close enough to feel the drag, but not enough to act.",
+      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\uff08Cash Drag\uff09\u662f\u6307\u6295\u8cc7\u7d44\u5408\u56e0\u6301\u6709\u904e\u591a\u9592\u7f6e\u73fe\u91d1\u800c\u8499\u53d7\u7684\u8868\u73fe\u640d\u8017\u3002\u73fe\u91d1\u56de\u5831\u8fd1\u4e4e\u70ba\u96f6\uff0c\u6bcf\u4e00\u5206\u9592\u7f6e\u8cc7\u91d1\u9577\u671f\u8dd1\u8f38\u80a1\u7968\uff0c\u9010\u6f38\u62c9\u4f4e\u6574\u9ad4\u6536\u76ca\u3002\u4eca\u65e5\u60c5\u6cc1\u6b63\u662f\u5178\u578b\u4f8b\u5b50\uff1a\u5e33\u6236\u73fe\u91d1\u50c5\u9918477\u7f8e\u5143\uff0c\u4f4e\u65bc500\u7f8e\u5143\u7684\u8cb7\u5165\u9580\u6abb\uff0c\u96d6\u67094\u500b\u6301\u5009\u7a7a\u4f4d\uff0c\u537b\u7121\u6cd5\u6709\u6548\u90e8\u7f72\u8cc7\u672c\uff0c\u5f62\u6210\u8f15\u5fae\u4f46\u771f\u5be6\u7684\u73fe\u91d1\u62d6\u7d2f\u6548\u61c9\u3002"
     }
   }
 }
