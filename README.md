@@ -21,3 +21,11 @@ python -m agent.main monitor   # Check stop-loss/profit targets on open position
 python -m agent.main history   # Print trade history and portfolio summary
 python -m agent.main weekly    # Send weekly performance digest to Telegram
 ```
+
+## Knowledge & feedback loop
+
+The agent connects to an external Obsidian knowledge base through a journal-and-memory loop:
+
+- **Daily journal** — at the end of each `run2`, the agent writes a git-tracked file `data/journal/{date}.json` containing that day's daily lesson, market education summary, intended trade decisions, and an outcome snapshot (total value, cash, P&L, open positions). Because the journal is committed, the full history travels with a `git pull` and does not depend on the gitignored database.
+- **Strategy memory** — `data/strategy_memory.md` holds accumulated, plain-language lessons. On every run the agent injects this file into Claude's prompt as a STRATEGY MEMORY section, so it weighs past lessons when deciding. The memory is guidance only and never overrides the enforced risk rules. If the file is absent, the prompt is unchanged.
+- **The `trading-review` skill** — lives in the user's Obsidian vault (not in this repo). When run, it pulls this repo, captures each journal day into vault notes (glossary, market recaps, trade log), analyzes decisions against outcomes, appends distilled lessons to `data/strategy_memory.md`, and pushes — feeding the next run.
