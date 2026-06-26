@@ -513,5 +513,92 @@ def test_run2_journal_failure_does_not_block_completion(tmp_path, monkeypatch, c
     # Must not raise
     cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=journal_dir)
 
+    # cmd_run2 completes AND prints a warning about the journal failure
     captured = capsys.readouterr()
-    assert "journal" in captured.out.lower() or True  # warning printed is fine; main thing is no exception
+    assert "journal" in captured.out.lower()
+
+
+def test_run2_journal_ok_false_prints_warning(tmp_path, monkeypatch, capsys):
+    """If write_journal_entry returns ok=False, cmd_run2 completes and warns."""
+    db_file = str(tmp_path / "portfolio.db")
+    plan_file = str(tmp_path / "run1_plan.json")
+    journal_dir = str(tmp_path / "journal")
+    init_db(db_file)
+
+    plan = {
+        "decisions": {
+            "trades": [],
+            "skip_new_buys": False,
+            "briefing": "ok",
+        }
+    }
+    with open(plan_file, "w") as f:
+        json.dump(plan, f)
+
+    monkeypatch.setattr("agent.main.write_journal_entry", lambda *a, **kw: {"ok": False, "reason": "boom"})
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: True)
+    monkeypatch.setattr("agent.tools.benchmark._get_voo_price", lambda: 450.0)
+    monkeypatch.setattr("agent.main.export_dashboard_data", lambda *a, **kw: None)
+    monkeypatch.setattr("agent.main.sync_dashboard_repo", lambda *a, **kw: {"ok": True, "reason": "ok"})
+
+    # Must not raise
+    cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=journal_dir)
+
+    captured = capsys.readouterr()
+    assert "journal" in captured.out.lower()
+    assert "boom" in captured.out
+
+
+def test_run2_journal_records_intended_trades_when_market_closed(tmp_path, monkeypatch, capsys):
+    """When the market is closed, no trades execute, but the journal still records
+    the INTENDED trades from the plan (not the zeroed copy)."""
+    from datetime import date as _date, datetime as _dt
+    try:
+        from zoneinfo import ZoneInfo
+    except ImportError:
+        from backports.zoneinfo import ZoneInfo
+
+    db_file = str(tmp_path / "portfolio.db")
+    plan_file = str(tmp_path / "run1_plan.json")
+    journal_dir = str(tmp_path / "journal")
+    init_db(db_file)
+
+    intended_trades = [
+        {"action": "BUY", "ticker": "NVDA", "conviction": "high", "reasoning": "strong momentum"}
+    ]
+    plan = {
+        "decisions": {
+            "trades": intended_trades,
+            "skip_new_buys": False,
+            "briefing": "ok",
+        }
+    }
+    with open(plan_file, "w") as f:
+        json.dump(plan, f)
+
+    today_str = _date.today().isoformat()
+
+    # Saturday 10:00 ET — market closed, so cmd_run2 zeroes out the executed trades
+    _market_closed_et = _dt(2026, 4, 18, 10, 0, tzinfo=ZoneInfo("America/New_York"))  # Saturday
+    monkeypatch.setattr("agent.tools.notify.send_telegram", lambda msg: True)
+    monkeypatch.setattr("agent.tools.benchmark._get_voo_price", lambda: 450.0)
+    monkeypatch.setattr("agent.main.export_dashboard_data", lambda *a, **kw: None)
+    monkeypatch.setattr("agent.main.sync_dashboard_repo", lambda *a, **kw: {"ok": True, "reason": "ok"})
+
+    with patch("agent.main.datetime") as mock_dt:
+        mock_dt.now.return_value = _market_closed_et
+        mock_dt.side_effect = lambda *a, **kw: _dt(*a, **kw)
+        cmd_run2(db_path=db_file, plan_path=plan_file, journal_dir=journal_dir)
+
+    captured = capsys.readouterr()
+    assert "Market closed" in captured.out  # confirm the closed-market path ran
+
+    import os
+    expected_file = os.path.join(journal_dir, f"{today_str}.json")
+    assert os.path.exists(expected_file), f"Expected journal file not found: {expected_file}"
+
+    with open(expected_file) as fh:
+        entry = json.load(fh)
+
+    # Journal records the intended trades, not the execution-zeroed set
+    assert entry["trades"] == intended_trades

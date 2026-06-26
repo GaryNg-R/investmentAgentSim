@@ -143,6 +143,11 @@ def cmd_run2(
 
         decisions = payload.get("decisions", payload)
 
+        # The journal records what Claude INTENDED (the plan's trades + reasoning),
+        # independent of execution timing. Capture it before the market-hours guard
+        # below can replace `decisions` with a trades-zeroed copy.
+        journal_decisions = decisions
+
         # Guard: skip all trades outside NYSE market hours (9:30am–4:00pm ET, Mon–Fri)
         _et = ZoneInfo("America/New_York")
         _now_et = datetime.now(_et)
@@ -241,7 +246,7 @@ def cmd_run2(
 
         # Journal write — runs last, failure never propagates
         try:
-            _journal_result = write_journal_entry(decisions, portfolio, journal_dir, today)
+            _journal_result = write_journal_entry(journal_decisions, portfolio, journal_dir, today)
             if not _journal_result["ok"]:
                 print(f"[journal] warning: {_journal_result['reason']}")
         except Exception as _exc:
