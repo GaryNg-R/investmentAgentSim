@@ -55,6 +55,8 @@ def test_write_journal_entry_creates_file_with_correct_content(tmp_path):
     )
 
     assert result["ok"] is True
+    assert "path" in result
+    assert result["path"].endswith(f"{date_str}.json")
 
     expected_file = tmp_path / f"{date_str}.json"
     assert expected_file.exists(), "Expected journal file was not created."
@@ -70,20 +72,6 @@ def test_write_journal_entry_creates_file_with_correct_content(tmp_path):
     # Check that Traditional Chinese characters are preserved (not escaped)
     raw_text = expected_file.read_text(encoding="utf-8")
     assert "聯準會維持利率不變" in raw_text, "Non-ASCII characters must not be escaped."
-
-
-def test_write_journal_entry_returns_path_on_success(tmp_path):
-    """Result dict includes the path of the written file on success."""
-    result = write_journal_entry(
-        decisions=SAMPLE_DECISIONS,
-        portfolio=SAMPLE_PORTFOLIO,
-        journal_dir=str(tmp_path),
-        date_str="2026-06-25",
-    )
-
-    assert result["ok"] is True
-    assert "path" in result
-    assert result["path"].endswith("2026-06-25.json")
 
 
 def test_write_journal_entry_creates_journal_dir(tmp_path):
@@ -113,6 +101,24 @@ def test_write_journal_entry_never_raises_on_bad_dir(tmp_path):
         portfolio=SAMPLE_PORTFOLIO,
         journal_dir=bad_dir,
         date_str="2026-06-25",
+    )
+
+    assert result["ok"] is False
+    assert "reason" in result
+
+
+def test_write_journal_entry_never_raises_on_write_failure(tmp_path):
+    """Function must not raise when the directory is fine but the file write fails."""
+    date_str = "2026-06-25"
+    # Pre-create a directory whose name collides with the target file, so
+    # open-for-write hits the second try/except (IsADirectoryError).
+    os.makedirs(tmp_path / f"{date_str}.json")
+
+    result = write_journal_entry(
+        decisions=SAMPLE_DECISIONS,
+        portfolio=SAMPLE_PORTFOLIO,
+        journal_dir=str(tmp_path),
+        date_str=date_str,
     )
 
     assert result["ok"] is False
