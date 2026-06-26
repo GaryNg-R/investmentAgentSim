@@ -74,6 +74,36 @@ def test_build_prompt_requests_feat001_fields():
 
 
 # ---------------------------------------------------------------------------
+# Strategy memory injection
+# ---------------------------------------------------------------------------
+
+
+def test_build_prompt_injects_strategy_memory_when_present(tmp_path):
+    """When the memory file has content, its text and a heading appear in the prompt."""
+    memory_file = tmp_path / "strategy_memory.md"
+    sentinel = "Avoid high-conviction buys on risk-off days."
+    memory_file.write_text(sentinel, encoding="utf-8")
+
+    prompt = build_prompt(
+        SAMPLE_MARKET, SAMPLE_PORTFOLIO, SAMPLE_STOCKS, memory_path=str(memory_file)
+    )
+
+    assert sentinel in prompt
+    assert "STRATEGY MEMORY" in prompt
+
+
+def test_build_prompt_omits_memory_section_when_absent(tmp_path):
+    """When the memory file is missing, no strategy memory heading appears."""
+    missing = tmp_path / "nope.md"
+
+    prompt = build_prompt(
+        SAMPLE_MARKET, SAMPLE_PORTFOLIO, SAMPLE_STOCKS, memory_path=str(missing)
+    )
+
+    assert "STRATEGY MEMORY" not in prompt
+
+
+# ---------------------------------------------------------------------------
 # Test 1: build_prompt contains required sections
 # ---------------------------------------------------------------------------
 

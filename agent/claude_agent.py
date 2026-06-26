@@ -12,12 +12,26 @@ import subprocess
 from datetime import datetime, timezone
 
 from agent.tools.news import get_news_headlines
+from agent.tools.strategy_memory import load_strategy_memory
 
 DATA_DIR = "data"
 
+_PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DEFAULT_STRATEGY_MEMORY_PATH = os.path.join(_PROJECT_ROOT, "data", "strategy_memory.md")
 
-def build_prompt(market_direction: dict, portfolio: dict, screened_stocks: list[dict]) -> str:
-    """Build the structured text prompt to send to Claude."""
+
+def build_prompt(
+    market_direction: dict,
+    portfolio: dict,
+    screened_stocks: list[dict],
+    memory_path: str | None = None,
+) -> str:
+    """Build the structured text prompt to send to Claude.
+
+    If a strategy memory file exists (default: data/strategy_memory.md), its text is
+    injected as a STRATEGY MEMORY section so the agent can weigh lessons from past
+    performance. The memory is guidance only and never overrides the enforced risk rules.
+    """
     today = datetime.now().strftime("%Y-%m-%d")
 
     # Section 1 — Goal and context
@@ -26,6 +40,18 @@ You are an AI investment agent managing a paper trading portfolio.
 Goal: outperform the VOO ETF (S&P 500) over 1, 3, and 6 months through active stock selection.
 Focus on risk-adjusted returns — avoiding large drawdowns matters as much as capturing gains.
 Today's date: {today}"""
+
+    # Section 1b — Strategy memory (lessons from past performance), only if present
+    if memory_path is None:
+        memory_path = DEFAULT_STRATEGY_MEMORY_PATH
+    memory_text = load_strategy_memory(memory_path).strip()
+    if memory_text:
+        section1b = f"""\
+STRATEGY MEMORY — lessons learned from past performance:
+Weigh these when deciding. They are guidance, not hard rules, and never override the RISK RULES below.
+{memory_text}"""
+    else:
+        section1b = ""
 
     # Section 2 — Market direction block
     direction = market_direction.get("direction", "neutral")
@@ -143,7 +169,7 @@ Rules:
 - market_education.sources: only cite headlines from the RECENT NEWS section above
 - daily_lesson.term: must be derived from what actually happened today, not a random concept"""
 
-    parts = [p for p in [section1, section2, section3, section4, section5, section5b, section6] if p]
+    parts = [p for p in [section1, section1b, section2, section3, section4, section5, section5b, section6] if p]
     return "\n\n".join(parts)
 
 
