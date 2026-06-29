@@ -1,22 +1,28 @@
 {
   "date": "2026-06-29",
-  "briefing": "Strong risk-on session with NASDAQ +2.1% leading and S&P 500 +1.2% — growth and momentum names are in the driver's seat heading into Q2 close. Cash sits at $577 with 4 open slots, so deploying into SOFI which has the full momentum signal stack (MACD crossover, rising histogram, RSI in the sweet spot at 66.6) and benefits most from the fintech/growth bid on a day like today. Existing positions held — stop-loss and profit-target triggers are handled automatically by the risk engine.",
+  "briefing": "Risk-on day with NASDAQ up 2.1% and S&P up 1.2% — growth and momentum names are leading. I'm deploying the remaining cash into CMCSA and SOFI, both scoring 95 with clean technical setups (MACD crossovers, bullish RSI, price above SMA-20). Existing positions in EAT, OLED, WT, ROAD, and INOD are all held — no stop-loss triggers and no reason to exit in a broad up-tape. Portfolio P&L remains strong at +32.6%.",
   "daily_lesson": {
-    "term": "Window Dressing",
-    "explanation_en": "Window dressing happens at the end of a quarter when fund managers buy stocks that have been performing well — not because they just discovered them, but to make their portfolio look good in the quarterly report sent to investors. It creates artificial demand that can push prices higher in the final days of March, June, September, and December.",
-    "explanation_zh": "「粉飾櫥窗」（Window Dressing）是指基金經理在每個季度末，買入近期表現亮眼的股票，目的並非看好後市，而是希望在寄給投資人的季報中，讓持倉看起來更漂亮。這種行為在每年3月、6月、9月及12月底會製造人為需求，往往推動強勢股在季末最後幾個交易日進一步上漲。"
+    "term": "Volume Surge",
+    "explanation_en": "A volume surge happens when a stock trades significantly more shares than its recent daily average — often 1.5x or more. It signals that large investors (institutions, funds) are actively buying or selling, giving more weight to any price move. A price breakout with a volume surge is considered far more reliable than one on thin volume, because it shows conviction behind the move.",
+    "explanation_zh": "成交量激增是指某隻股票的單日成交量遠超近期日均水平（通常達1.5倍以上）。這往往代表大型機構投資者正在積極買入或賣出，令價格走勢更具說服力。若股價突破關鍵位置時伴隨成交量激增，通常被視為更可靠的信號，因為背後有資金支撐，而非虛假突破。"
   },
   "market_education": {
-    "summary_en": "Markets rallied broadly on the last trading day of Q2 2026, with tech and growth stocks leading as institutional fund managers engaged in quarter-end window dressing — buying recent winners to improve portfolio optics before reporting. The NASDAQ's outperformance (+2.1% vs S&P 500's +1.2%) reflects continued enthusiasm for AI infrastructure and fintech names, sectors that have driven outsized returns through H1. Risk-on sentiment was reinforced by stable macro signals and no major negative catalysts, giving buyers confidence to add exposure.",
-    "summary_zh": "在2026年第二季度最後一個交易日，市場普遍走強，科技及成長股領漲。機構基金經理在季末積極買入近期強勢股，以美化季報持倉結構，此舉助推了整體升勢。那斯達克指數漲幅（+2.1%）明顯優於標普500（+1.2%），反映市場對人工智能基礎設施及金融科技板塊的持續熱情——這兩大主題主導了上半年的超額回報。宏觀面穩定、無重大利空消息，令買盤信心充足，市場整體呈現明顯的風險偏好格局。",
+    "summary_en": "Markets surged today in a broad risk-on rally, with the NASDAQ gaining 2.1% led by technology and growth sectors. Improving investor sentiment around trade policy and continued AI-driven capital expenditure expectations pushed mega-cap tech higher, pulling the broader S&P 500 up 1.2%. Volume surges in select names like CMCSA and SOFI suggest institutional rotation into momentum plays as confidence in the macro backdrop strengthens.",
+    "summary_zh": "美股今日全面走強，呈現風險偏好格局，納斯達克指數上漲2.1%，科技及成長類股領漲。市場對貿易政策前景趨於樂觀，加上人工智能資本支出預期持續升溫，推動大型科技股走高，帶動標普500指數上揚1.2%。CMCSA、SOFI等個股成交量大幅放大，反映機構資金積極佈局動能股，顯示投資者對總體經濟環境信心增強。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
+      "ticker": "CMCSA",
+      "conviction": "high",
+      "reasoning": "Top-tier score 95 with the full signal stack: RSI in bullish momentum zone, MACD crossover, price above SMA-20, and a volume surge confirming institutional interest — best risk/reward among today's candidates."
+    },
+    {
+      "action": "BUY",
       "ticker": "SOFI",
       "conviction": "high",
-      "reasoning": "Score 95 with RSI 66.6 in the bullish momentum zone, MACD above signal AND histogram rising (accelerating momentum), price above SMA-20 — ideal entry in today's risk-on tape with NASDAQ +2.1%."
+      "reasoning": "Score 95 with MACD histogram rising alongside crossover signals, RSI 65.9 in the sweet spot with room before overbought, and price comfortably above SMA-20 in a risk-on tape that favors fintech growth names."
     }
   ],
   "outcomes": {

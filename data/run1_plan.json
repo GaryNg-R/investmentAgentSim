@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-06-29T20:01:16.703339+00:00",
+  "saved_at": "2026-06-29T21:01:13.311822+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
+        "ticker": "CMCSA",
+        "conviction": "high",
+        "reasoning": "Top-tier score 95 with the full signal stack: RSI in bullish momentum zone, MACD crossover, price above SMA-20, and a volume surge confirming institutional interest \u2014 best risk/reward among today's candidates."
+      },
+      {
+        "action": "BUY",
         "ticker": "SOFI",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 66.6 in the bullish momentum zone, MACD above signal AND histogram rising (accelerating momentum), price above SMA-20 \u2014 ideal entry in today's risk-on tape with NASDAQ +2.1%."
+        "reasoning": "Score 95 with MACD histogram rising alongside crossover signals, RSI 65.9 in the sweet spot with room before overbought, and price comfortably above SMA-20 in a risk-on tape that favors fintech growth names."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Strong risk-on session with NASDAQ +2.1% leading and S&P 500 +1.2% \u2014 growth and momentum names are in the driver's seat heading into Q2 close. Cash sits at $577 with 4 open slots, so deploying into SOFI which has the full momentum signal stack (MACD crossover, rising histogram, RSI in the sweet spot at 66.6) and benefits most from the fintech/growth bid on a day like today. Existing positions held \u2014 stop-loss and profit-target triggers are handled automatically by the risk engine.",
+    "briefing": "Risk-on day with NASDAQ up 2.1% and S&P up 1.2% \u2014 growth and momentum names are leading. I'm deploying the remaining cash into CMCSA and SOFI, both scoring 95 with clean technical setups (MACD crossovers, bullish RSI, price above SMA-20). Existing positions in EAT, OLED, WT, ROAD, and INOD are all held \u2014 no stop-loss triggers and no reason to exit in a broad up-tape. Portfolio P&L remains strong at +32.6%.",
     "market_education": {
-      "summary_en": "Markets rallied broadly on the last trading day of Q2 2026, with tech and growth stocks leading as institutional fund managers engaged in quarter-end window dressing \u2014 buying recent winners to improve portfolio optics before reporting. The NASDAQ's outperformance (+2.1% vs S&P 500's +1.2%) reflects continued enthusiasm for AI infrastructure and fintech names, sectors that have driven outsized returns through H1. Risk-on sentiment was reinforced by stable macro signals and no major negative catalysts, giving buyers confidence to add exposure.",
-      "summary_zh": "\u57282026\u5e74\u7b2c\u4e8c\u5b63\u5ea6\u6700\u5f8c\u4e00\u500b\u4ea4\u6613\u65e5\uff0c\u5e02\u5834\u666e\u904d\u8d70\u5f37\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u9818\u6f32\u3002\u6a5f\u69cb\u57fa\u91d1\u7d93\u7406\u5728\u5b63\u672b\u7a4d\u6975\u8cb7\u5165\u8fd1\u671f\u5f37\u52e2\u80a1\uff0c\u4ee5\u7f8e\u5316\u5b63\u5831\u6301\u5009\u7d50\u69cb\uff0c\u6b64\u8209\u52a9\u63a8\u4e86\u6574\u9ad4\u5347\u52e2\u3002\u90a3\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\uff08+2.1%\uff09\u660e\u986f\u512a\u65bc\u6a19\u666e500\uff08+1.2%\uff09\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u4eba\u5de5\u667a\u80fd\u57fa\u790e\u8a2d\u65bd\u53ca\u91d1\u878d\u79d1\u6280\u677f\u584a\u7684\u6301\u7e8c\u71b1\u60c5\u2014\u2014\u9019\u5169\u5927\u4e3b\u984c\u4e3b\u5c0e\u4e86\u4e0a\u534a\u5e74\u7684\u8d85\u984d\u56de\u5831\u3002\u5b8f\u89c0\u9762\u7a69\u5b9a\u3001\u7121\u91cd\u5927\u5229\u7a7a\u6d88\u606f\uff0c\u4ee4\u8cb7\u76e4\u4fe1\u5fc3\u5145\u8db3\uff0c\u5e02\u5834\u6574\u9ad4\u5448\u73fe\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u683c\u5c40\u3002",
+      "summary_en": "Markets surged today in a broad risk-on rally, with the NASDAQ gaining 2.1% led by technology and growth sectors. Improving investor sentiment around trade policy and continued AI-driven capital expenditure expectations pushed mega-cap tech higher, pulling the broader S&P 500 up 1.2%. Volume surges in select names like CMCSA and SOFI suggest institutional rotation into momentum plays as confidence in the macro backdrop strengthens.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u8d70\u5f37\uff0c\u5448\u73fe\u98a8\u96aa\u504f\u597d\u683c\u5c40\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f322.1%\uff0c\u79d1\u6280\u53ca\u6210\u9577\u985e\u80a1\u9818\u6f32\u3002\u5e02\u5834\u5c0d\u8cbf\u6613\u653f\u7b56\u524d\u666f\u8da8\u65bc\u6a02\u89c0\uff0c\u52a0\u4e0a\u4eba\u5de5\u667a\u80fd\u8cc7\u672c\u652f\u51fa\u9810\u671f\u6301\u7e8c\u5347\u6eab\uff0c\u63a8\u52d5\u5927\u578b\u79d1\u6280\u80a1\u8d70\u9ad8\uff0c\u5e36\u52d5\u6a19\u666e500\u6307\u6578\u4e0a\u63da1.2%\u3002CMCSA\u3001SOFI\u7b49\u500b\u80a1\u6210\u4ea4\u91cf\u5927\u5e45\u653e\u5927\uff0c\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u7a4d\u6975\u4f48\u5c40\u52d5\u80fd\u80a1\uff0c\u986f\u793a\u6295\u8cc7\u8005\u5c0d\u7e3d\u9ad4\u7d93\u6fdf\u74b0\u5883\u4fe1\u5fc3\u589e\u5f37\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Window Dressing",
-      "explanation_en": "Window dressing happens at the end of a quarter when fund managers buy stocks that have been performing well \u2014 not because they just discovered them, but to make their portfolio look good in the quarterly report sent to investors. It creates artificial demand that can push prices higher in the final days of March, June, September, and December.",
-      "explanation_zh": "\u300c\u7c89\u98fe\u6ae5\u7a97\u300d\uff08Window Dressing\uff09\u662f\u6307\u57fa\u91d1\u7d93\u7406\u5728\u6bcf\u500b\u5b63\u5ea6\u672b\uff0c\u8cb7\u5165\u8fd1\u671f\u8868\u73fe\u4eae\u773c\u7684\u80a1\u7968\uff0c\u76ee\u7684\u4e26\u975e\u770b\u597d\u5f8c\u5e02\uff0c\u800c\u662f\u5e0c\u671b\u5728\u5bc4\u7d66\u6295\u8cc7\u4eba\u7684\u5b63\u5831\u4e2d\uff0c\u8b93\u6301\u5009\u770b\u8d77\u4f86\u66f4\u6f02\u4eae\u3002\u9019\u7a2e\u884c\u70ba\u5728\u6bcf\u5e743\u6708\u30016\u6708\u30019\u6708\u53ca12\u6708\u5e95\u6703\u88fd\u9020\u4eba\u70ba\u9700\u6c42\uff0c\u5f80\u5f80\u63a8\u52d5\u5f37\u52e2\u80a1\u5728\u5b63\u672b\u6700\u5f8c\u5e7e\u500b\u4ea4\u6613\u65e5\u9032\u4e00\u6b65\u4e0a\u6f32\u3002"
+      "term": "Volume Surge",
+      "explanation_en": "A volume surge happens when a stock trades significantly more shares than its recent daily average \u2014 often 1.5x or more. It signals that large investors (institutions, funds) are actively buying or selling, giving more weight to any price move. A price breakout with a volume surge is considered far more reliable than one on thin volume, because it shows conviction behind the move.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\u662f\u6307\u67d0\u96bb\u80a1\u7968\u7684\u55ae\u65e5\u6210\u4ea4\u91cf\u9060\u8d85\u8fd1\u671f\u65e5\u5747\u6c34\u5e73\uff08\u901a\u5e38\u90541.5\u500d\u4ee5\u4e0a\uff09\u3002\u9019\u5f80\u5f80\u4ee3\u8868\u5927\u578b\u6a5f\u69cb\u6295\u8cc7\u8005\u6b63\u5728\u7a4d\u6975\u8cb7\u5165\u6216\u8ce3\u51fa\uff0c\u4ee4\u50f9\u683c\u8d70\u52e2\u66f4\u5177\u8aaa\u670d\u529b\u3002\u82e5\u80a1\u50f9\u7a81\u7834\u95dc\u9375\u4f4d\u7f6e\u6642\u4f34\u96a8\u6210\u4ea4\u91cf\u6fc0\u589e\uff0c\u901a\u5e38\u88ab\u8996\u70ba\u66f4\u53ef\u9760\u7684\u4fe1\u865f\uff0c\u56e0\u70ba\u80cc\u5f8c\u6709\u8cc7\u91d1\u652f\u6490\uff0c\u800c\u975e\u865b\u5047\u7a81\u7834\u3002"
     }
   }
 }
