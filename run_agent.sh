@@ -83,7 +83,7 @@ fi
 # Sync — push updated portfolio data back to main
 # ---------------------------------------------------------------------------
 log "--- SYNC: pushing updated data to main ---"
-git add data/portfolio.db data/run1_plan.json 2>&1 | tee -a "$LOG_FILE"
+git add data/portfolio.db data/run1_plan.json data/journal/ 2>&1 | tee -a "$LOG_FILE"
 
 if git diff --cached --quiet; then
   log "No data changes to commit"
