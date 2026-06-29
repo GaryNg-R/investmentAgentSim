@@ -1,34 +1,22 @@
 {
   "date": "2026-06-29",
-  "briefing": "Markets are firmly risk-on today — NASDAQ +1.4%, S&P +0.8% — with growth and tech leading. With 4 open slots and $577 in cash above the $500 deployment threshold, I'm filling three slots with top-scoring momentum names: Rocket Lab (RKLB) and Planet Labs (PL) as a paired space-sector thesis, and Allegro MicroSystems (ALGM) to capture semiconductor strength riding the NASDAQ surge. No existing positions are near stop-loss or profit-target levels, so all six holdings are kept intact.",
+  "briefing": "Markets are firmly risk-on today with NASDAQ leading at +1.5%, favouring growth and momentum names. With only $577 in cash I can open one more position — SOFI scores 95, sits in the ideal RSI momentum zone (61.1), and fintech typically outperforms on strong tape days. All six existing positions remain within their stop/target bands so no sells are needed.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing is a strategy that buys assets whose prices have been rising and sells those that have been falling, based on the idea that trends tend to persist for some time. Indicators like RSI and MACD help quantify momentum — today's top picks all showed RSI in the 55–70 'bullish zone' and MACD crossovers signaling accelerating upward price pressure. The risk is that momentum can reverse sharply, which is why stop-losses are essential guardrails.",
-    "explanation_zh": "動能投資策略的核心思路是「買強賣弱」——買入近期持續上漲的資產，迴避下跌的標的，因為市場趨勢往往具有慣性。RSI與MACD等技術指標可量化動能強弱：今日精選個股的RSI均落在55至70的「多頭動能區」，MACD亦出現看漲交叉，顯示上行動能正在加速。動能策略的風險在於趨勢可能急轉直下，因此設置止損是不可或缺的風險管控措施。"
+    "term": "Risk-On",
+    "explanation_en": "A 'risk-on' session is when investors feel confident and move money into higher-risk assets like growth stocks, small caps, and tech, expecting gains to outweigh potential losses. Today's NASDAQ +1.5% move is a textbook example — when fear is low and optimism is high, capital flows away from safe havens (bonds, utilities) and into momentum names. As a portfolio manager, risk-on days are when holding quality momentum picks pays off most.",
+    "explanation_zh": "「風險偏好」（Risk-On）是指當投資者信心充足時，將資金轉移至較高風險資產的市場狀態，例如成長股、小型股及科技股，預期回報將超越潛在損失。今日納斯達克大漲1.5%正是典型的風險偏好行情——當市場恐慌情緒低落、樂觀預期主導時，資金便從避險資產（如債券、公用事業股）流向動能型股票。對投資組合管理者而言，風險偏好日正是持有優質動能股最能發揮效益的時機。"
   },
   "market_education": {
-    "summary_en": "Markets advanced broadly on Monday as investor sentiment shifted firmly risk-on, with the NASDAQ outperforming at +1.4% driven by renewed appetite for growth and technology shares. Semiconductor and space-tech names led gains as institutional flows rotated back into high-beta sectors after recent consolidation. No major macro shocks hit the tape, allowing momentum strategies to work cleanly with trend-following signals confirming the move higher.",
-    "summary_zh": "週一美股大幅走高，市場情緒明顯轉為風險偏好，納斯達克指數領漲1.4%，科技及成長股買盤湧現。半導體與太空科技板塊表現突出，機構資金在近期整固後重返高貝他值股票。宏觀面未有重大衝擊，動能策略在趨勢信號配合下運作流暢，指標普遍確認漲勢延續。",
+    "summary_en": "U.S. equities rallied broadly on Monday with the NASDAQ surging 1.5% and the S&P 500 adding 0.9%, driven by renewed risk appetite as investors rotated back into growth and technology shares. Semiconductor and space-tech names led the advance, reflecting confidence that AI spending cycles remain intact and that near-term rate pressures are contained. The risk-on tone encouraged broad participation across small- and mid-cap momentum stocks, which outpaced defensive sectors.",
+    "summary_zh": "美國股市周一全面上揚，納斯達克指數大漲1.5%，標普500指數亦上升0.9%，市場風險偏好明顯回升，資金重新流入成長股及科技板塊。半導體及太空科技類股領漲，反映投資者對AI資本支出周期持續的信心，以及對短期利率壓力趨緩的樂觀預期。整體市場情緒積極，中小型動能股的升幅普遍跑贏防守性板塊。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "RKLB",
+      "ticker": "SOFI",
       "conviction": "high",
-      "reasoning": "Score 95 with RSI 62.6 in the ideal momentum zone, full MACD bullish crossover, and risk-on tape favors high-beta growth/space names — best risk/reward among affordable top-score candidates."
-    },
-    {
-      "action": "BUY",
-      "ticker": "PL",
-      "conviction": "high",
-      "reasoning": "Score 95, RSI 67.7, price well above SMA-20 with rising MACD histogram — affordable space-data name that pairs thematically with RKLB and rounds out 4 open slots."
-    },
-    {
-      "action": "BUY",
-      "ticker": "ALGM",
-      "conviction": "medium",
-      "reasoning": "Score 95 semiconductor play with RSI 69.5 just under overbought, benefiting directly from NASDAQ's 1.4% leadership today; medium conviction given RSI proximity to 70."
+      "reasoning": "Score 95 with RSI 61.1 still has meaningful upside runway in a risk-on session; fintech names benefit directly from risk appetite, and this deploys idle cash above the $500 threshold."
     }
   ],
   "outcomes": {
