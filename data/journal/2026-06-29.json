@@ -1,14 +1,14 @@
 {
   "date": "2026-06-29",
-  "briefing": "Strong risk-on session with NASDAQ surging 1.9% and S&P 500 up 1.1%, confirming growth and tech momentum. I'm deploying most of the remaining $577 cash across three high-conviction screener picks — CBRS, SOFI, and PL — all showing MACD bullish crossovers with RSI in the 55–70 optimal range. Existing holdings are left intact; none are signaling deterioration and the portfolio is up 32.6% overall.",
+  "briefing": "Strong risk-on session with NASDAQ +2.1% leading and S&P 500 +1.2% — growth and momentum names are in the driver's seat heading into Q2 close. Cash sits at $577 with 4 open slots, so deploying into SOFI which has the full momentum signal stack (MACD crossover, rising histogram, RSI in the sweet spot at 66.6) and benefits most from the fintech/growth bid on a day like today. Existing positions held — stop-loss and profit-target triggers are handled automatically by the risk engine.",
   "daily_lesson": {
-    "term": "Risk-On / Risk-Off (RORO)",
-    "explanation_en": "Risk-on describes a market environment where investors feel confident and move money into higher-risk, higher-reward assets like growth stocks, small-caps, and emerging markets. Today's NASDAQ +1.9% vs S&P 500 +1.1% split is a classic risk-on signal — when investors are optimistic, they favor volatile tech over defensive large-caps. The opposite, risk-off, sends money into bonds, gold, and dividend stocks as a safe haven.",
-    "explanation_zh": "「風險偏好」（Risk-On）是指投資者情緒樂觀、願意承擔更高風險以換取更高回報的市場狀態，資金會流向成長股、小型股等高波動資產。今日納斯達克漲幅（+1.9%）明顯高於標普500（+1.1%），正是典型的風險偏好訊號——市場看好前景時，資金傾向科技成長股而非防禦型大型股。反之，「風險規避」（Risk-Off）狀態下，資金則撤回債券、黃金等避險資產。"
+    "term": "Window Dressing",
+    "explanation_en": "Window dressing happens at the end of a quarter when fund managers buy stocks that have been performing well — not because they just discovered them, but to make their portfolio look good in the quarterly report sent to investors. It creates artificial demand that can push prices higher in the final days of March, June, September, and December.",
+    "explanation_zh": "「粉飾櫥窗」（Window Dressing）是指基金經理在每個季度末，買入近期表現亮眼的股票，目的並非看好後市，而是希望在寄給投資人的季報中，讓持倉看起來更漂亮。這種行為在每年3月、6月、9月及12月底會製造人為需求，往往推動強勢股在季末最後幾個交易日進一步上漲。"
   },
   "market_education": {
-    "summary_en": "U.S. equities rallied broadly today, with the NASDAQ outpacing the broader S&P 500 as investors rotated back into growth and technology stocks. The risk-on tone was driven by easing macro concerns, with traders pricing in a more favorable rate environment heading into the second half of 2026. Small- and mid-cap growth names led the charge, consistent with a 'risk appetite' expansion where investors move up the risk curve from defensives into higher-beta equities.",
-    "summary_zh": "美股今日全面走高，納斯達克指數漲幅達1.9%，領先大盤標普500指數的1.1%升幅，顯示資金重新流入成長股與科技板塊。市場整體呈現「風險偏好」（risk-on）情緒，投資者預期宏觀環境將於2026年下半年趨於寬鬆，紛紛從防禦性資產轉向高貝塔成長標的。中小型成長股表現突出，反映市場對景氣復甦的信心正在升溫。",
+    "summary_en": "Markets rallied broadly on the last trading day of Q2 2026, with tech and growth stocks leading as institutional fund managers engaged in quarter-end window dressing — buying recent winners to improve portfolio optics before reporting. The NASDAQ's outperformance (+2.1% vs S&P 500's +1.2%) reflects continued enthusiasm for AI infrastructure and fintech names, sectors that have driven outsized returns through H1. Risk-on sentiment was reinforced by stable macro signals and no major negative catalysts, giving buyers confidence to add exposure.",
+    "summary_zh": "在2026年第二季度最後一個交易日，市場普遍走強，科技及成長股領漲。機構基金經理在季末積極買入近期強勢股，以美化季報持倉結構，此舉助推了整體升勢。那斯達克指數漲幅（+2.1%）明顯優於標普500（+1.2%），反映市場對人工智能基礎設施及金融科技板塊的持續熱情——這兩大主題主導了上半年的超額回報。宏觀面穩定、無重大利空消息，令買盤信心充足，市場整體呈現明顯的風險偏好格局。",
     "sources": []
   },
   "trades": [
@@ -16,19 +16,7 @@
       "action": "BUY",
       "ticker": "SOFI",
       "conviction": "high",
-      "reasoning": "Score 95 with MACD bullish crossover + rising histogram and RSI 65.4 in optimal momentum zone — affordable entry allows meaningful position with limited remaining cash."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CBRS",
-      "conviction": "high",
-      "reasoning": "Score 95 with the full trifecta: RSI in bullish zone, MACD crossover, rising histogram, and price 18.5% above SMA-20 confirming strong trend — best overall signal set in today's screener."
-    },
-    {
-      "action": "BUY",
-      "ticker": "PL",
-      "conviction": "medium",
-      "reasoning": "Score 90, RSI 67.6 in sweet spot, MACD bullish crossover, and price nearly 10% above SMA-20 — affordable entry in a risk-on tape favoring growth/satellite tech names."
+      "reasoning": "Score 95 with RSI 66.6 in the bullish momentum zone, MACD above signal AND histogram rising (accelerating momentum), price above SMA-20 — ideal entry in today's risk-on tape with NASDAQ +2.1%."
     }
   ],
   "outcomes": {
