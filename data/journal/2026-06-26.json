@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-26",
+  "briefing": "Markets are essentially flat today with the S&P 500 unchanged and NASDAQ down a slight 0.2%, signaling a neutral, wait-and-see session. Cash sits at $477.14 — just below the $500 threshold that would trigger new position buys — so no new entries are warranted without selling an existing holding first. Current positions remain within the stop-loss/profit-target bands (otherwise auto-rules would have fired), so the prudent call is to hold and let them run into their respective targets.",
+  "daily_lesson": {
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag refers to the performance cost of holding uninvested cash while the market moves higher. In this portfolio, $477 sitting idle earns nothing while momentum stocks are running — but deploying too little capital into a new position also fails to move the needle meaningfully. The $500 threshold rule exists precisely to avoid making tiny, high-friction buys that generate commissions without sufficient return impact.",
+    "explanation_zh": "「現金拖累」是指持有未投資現金所帶來的機會成本——當市場上漲時，閒置現金等於放棄了潛在報酬。本組合目前有477美元現金，雖未達500美元的入場門檻，強行建立過小的倉位不但手續費比例偏高，對整體績效的貢獻也微乎其微。設定入場門檻正是為了避免「為買而買」的低效操作，確保每筆交易都有足夠規模來產生實質影響。"
+  },
+  "market_education": {
+    "summary_en": "Today's session was essentially a non-event, with the S&P 500 finishing flat and the NASDAQ slipping just 0.2%, consistent with end-of-quarter positioning and low conviction from institutional investors. With Q2 2026 ending in days, portfolio managers are squaring up books rather than adding risk, which explains muted volume and directionless price action. Tech lagged very slightly — a recurring pattern when rate-sensitive growth names see light profit-taking near quarter-end.",
+    "summary_zh": "今日市場幾乎毫無波動，標普500持平，納斯達克微跌0.2%，呈現典型的季末觀望格局。隨著2026年第二季即將結束，機構投資人正在整理帳面盈虧，而非積極增持風險部位，造成成交量低迷、走勢缺乏方向感。科技股小幅落後大市，這是季末資金獲利了結的慣常現象，在利率敏感型成長股中尤為明顯。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13155.735246181488,
+    "cash": 477.1352210044861,
+    "pnl_dollar": 3155.735246181488,
+    "pnl_pct": 31.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}

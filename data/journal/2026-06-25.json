@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-25",
+  "briefing": "Market is neutral today with NASDAQ down a modest 0.5% and S&P 500 essentially flat — no strong directional signal. Cash sits at $477, just below the $500 threshold needed to trigger new buys, so despite having 4 open slots we cannot meaningfully deploy capital. Current six holdings remain intact with no stop-loss or profit target events visible; the right move is to hold and let existing momentum plays run.",
+  "daily_lesson": {
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag is the performance penalty a portfolio suffers from holding uninvested cash. Cash earns near-zero returns, so every dollar sitting idle falls behind stocks over time, slowly pulling down the portfolio's overall return. Today's situation is a textbook example: with $477 in cash and 4 open slots available, we're just below the $500 buy threshold — close enough to feel the drag, but not enough to act.",
+    "explanation_zh": "「現金拖累」（Cash Drag）是指投資組合因持有過多閒置現金而蒙受的表現損耗。現金回報近乎為零，每一分閒置資金長期跑輸股票，逐漸拉低整體收益。今日情況正是典型例子：帳戶現金僅餘477美元，低於500美元的買入門檻，雖有4個持倉空位，卻無法有效部署資本，形成輕微但真實的現金拖累效應。"
+  },
+  "market_education": {
+    "summary_en": "U.S. equities drifted in a subdued, mixed session on June 25, 2026, with the NASDAQ slipping 0.5% as technology and growth names faced light selling pressure while the broader S&P 500 held roughly flat. The muted action reflects a market in consolidation mode, digesting recent strong gains in semiconductors and AI names without a fresh catalyst to drive the next leg. Investors appear content to wait on the sidelines ahead of upcoming macro data and Fed commentary before committing fresh capital.",
+    "summary_zh": "2026年6月25日，美股整體走勢平淡，那斯達克指數小跌0.5%，科技及成長類股承受輕微沽壓，標普500則幾乎持平。市場整體呈整固態勢，近期半導體與人工智能板塊的強勁漲幅正待消化，短期內缺乏明確催化劑驅動下一波行情。投資者普遍保持觀望，靜候即將公布的宏觀數據及聯儲局官員表態，再決定是否進一步加注。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13155.735246181488,
+    "cash": 477.1352210044861,
+    "pnl_dollar": 3155.735246181488,
+    "pnl_pct": 31.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}

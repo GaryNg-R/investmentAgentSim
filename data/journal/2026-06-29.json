@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-29",
+  "briefing": "Markets are clearly risk-on today with NASDAQ up 1% and S&P 500 up 0.6%, creating ideal conditions to deploy the remaining $577 in cash. PLTR scored a perfect 100 with volume confirmation and clean momentum setup — it's the highest-quality entry available that fits within available cash. Existing positions remain intact with no stop-loss triggers visible; the portfolio continues to outperform significantly at +32.6%.",
+  "daily_lesson": {
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price gains on the theory that winners tend to keep winning in the short term. Today's top candidates — all scoring 100 with RSI in the bullish zone (55–70), MACD crossovers, and volume surges — are textbook momentum setups. The risk is that momentum can reverse sharply when sentiment shifts, which is why RSI above 70 (overbought) is treated as a caution signal even when MACD looks good.",
+    "explanation_zh": "動能投資是一種追蹤近期強勢股票的策略，其理論基礎是「強者恆強」——短期內漲勢強勁的股票往往持續上漲。今日評分滿分的候選股（RSI處於55–70動能區、MACD出現金叉、成交量放大）均是教科書式的動能訊號。此策略的風險在於，一旦市場情緒逆轉，動能股可能急速回落，因此即使MACD看漲，RSI超過70（超買）仍應視為警示信號。"
+  },
+  "market_education": {
+    "summary_en": "U.S. equities rallied broadly on June 29 as risk appetite returned, with the NASDAQ outperforming the S&P 500, suggesting investors rotated into growth and technology names. The strength in satellite/space stocks (RKLB, ASTS, PL all scoring 100 with volume surges) points to renewed speculative enthusiasm in defense-adjacent tech sectors. AI infrastructure plays like PLTR and AMZN also saw strong momentum, reflecting continued institutional conviction in the AI buildout theme.",
+    "summary_zh": "美股於6月29日全面反彈，市場風險偏好明顯回升，納斯達克指數漲幅優於標普500，顯示資金積極輪動至成長股及科技板塊。衛星及太空概念股（RKLB、ASTS、PL均獲滿分且成交量激增）強勢表現，反映市場對國防相關科技行業的投機熱情重燃。AI基礎建設龍頭如PLTR及AMZN動能強勁，機構資金對AI建設浪潮仍維持高度信心。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "PLTR",
+      "conviction": "high",
+      "reasoning": "Perfect score 100 with all 5 bullish signals — RSI in momentum zone (61.3), MACD bullish crossover with rising histogram, price above SMA-20, and volume surge — plus strong AI/data tailwind in a risk-on session; uses remaining cash to fill an open slot."
+    }
+  ],
+  "outcomes": {
+    "total_value": 13255.735246181488,
+    "cash": 577.1352210044861,
+    "pnl_dollar": 3255.735246181488,
+    "pnl_pct": 32.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
