@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-06-29T14:01:10.999469+00:00",
+  "saved_at": "2026-06-29T15:01:20.960433+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "PLTR",
+        "ticker": "ASTS",
         "conviction": "high",
-        "reasoning": "Perfect score 100 with all 5 bullish signals \u2014 RSI in momentum zone (61.3), MACD bullish crossover with rising histogram, price above SMA-20, and volume surge \u2014 plus strong AI/data tailwind in a risk-on session; uses remaining cash to fill an open slot."
+        "reasoning": "Score 95 with RSI 67.3 in the ideal bullish momentum zone (not overbought), MACD bullish crossover with rising histogram, and price well above SMA-20 \u2014 top pick in a risk-on session favoring high-growth space tech."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SOFI",
+        "conviction": "medium",
+        "reasoning": "Score 95 with clean momentum signals and affordable price fills a slot efficiently; fintech benefits directly from risk-on sentiment and improving rate expectations."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are clearly risk-on today with NASDAQ up 1% and S&P 500 up 0.6%, creating ideal conditions to deploy the remaining $577 in cash. PLTR scored a perfect 100 with volume confirmation and clean momentum setup \u2014 it's the highest-quality entry available that fits within available cash. Existing positions remain intact with no stop-loss triggers visible; the portfolio continues to outperform significantly at +32.6%.",
+    "briefing": "Market is firmly risk-on with NASDAQ up 1.2% and S&P 500 up 0.7%, creating a favorable tailwind for growth and momentum names. With 4 open slots and $577 in cash above the $500 threshold, I'm deploying into ASTS and SOFI \u2014 both scoring 95 with RSI in the bullish zone and MACD confirming upward momentum. Existing positions in EAT, OLED, ROAD, and INOD are held as the broad risk-on environment supports our current holdings.",
     "market_education": {
-      "summary_en": "U.S. equities rallied broadly on June 29 as risk appetite returned, with the NASDAQ outperforming the S&P 500, suggesting investors rotated into growth and technology names. The strength in satellite/space stocks (RKLB, ASTS, PL all scoring 100 with volume surges) points to renewed speculative enthusiasm in defense-adjacent tech sectors. AI infrastructure plays like PLTR and AMZN also saw strong momentum, reflecting continued institutional conviction in the AI buildout theme.",
-      "summary_zh": "\u7f8e\u80a1\u65bc6\u670829\u65e5\u5168\u9762\u53cd\u5f48\uff0c\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u512a\u65bc\u6a19\u666e500\uff0c\u986f\u793a\u8cc7\u91d1\u7a4d\u6975\u8f2a\u52d5\u81f3\u6210\u9577\u80a1\u53ca\u79d1\u6280\u677f\u584a\u3002\u885b\u661f\u53ca\u592a\u7a7a\u6982\u5ff5\u80a1\uff08RKLB\u3001ASTS\u3001PL\u5747\u7372\u6eff\u5206\u4e14\u6210\u4ea4\u91cf\u6fc0\u589e\uff09\u5f37\u52e2\u8868\u73fe\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u570b\u9632\u76f8\u95dc\u79d1\u6280\u884c\u696d\u7684\u6295\u6a5f\u71b1\u60c5\u91cd\u71c3\u3002AI\u57fa\u790e\u5efa\u8a2d\u9f8d\u982d\u5982PLTR\u53caAMZN\u52d5\u80fd\u5f37\u52c1\uff0c\u6a5f\u69cb\u8cc7\u91d1\u5c0dAI\u5efa\u8a2d\u6d6a\u6f6e\u4ecd\u7dad\u6301\u9ad8\u5ea6\u4fe1\u5fc3\u3002",
+      "summary_en": "Today's risk-on session reflected broad investor confidence, with the NASDAQ outperforming as tech and growth sectors led gains. Markets appear to be pricing in a favorable macro backdrop \u2014 easing inflation fears and resilient corporate earnings have kept institutional appetite for equities elevated heading into the mid-year. This type of broad-based advance, with both large-cap and growth indices rising in unison, typically signals strong underlying demand rather than speculative short-covering.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u5448\u73fe\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u9818\u6f32\uff0c\u79d1\u6280\u53ca\u6210\u9577\u578b\u80a1\u7968\u8868\u73fe\u7a81\u51fa\u3002\u5e02\u5834\u6574\u9ad4\u53cd\u6620\u4e86\u6295\u8cc7\u8005\u5c0d\u5b8f\u89c0\u74b0\u5883\u7684\u6a02\u89c0\u9810\u671f\u2014\u2014\u901a\u8139\u58d3\u529b\u6301\u7e8c\u7de9\u548c\uff0c\u52a0\u4e0a\u4f01\u696d\u76c8\u5229\u4fdd\u6301\u97cc\u6027\uff0c\u6a5f\u69cb\u5c0d\u80a1\u7968\u8cc7\u7522\u7684\u914d\u7f6e\u9700\u6c42\u7dad\u6301\u9ad8\u4f4d\u3002\u5927\u76e4\u8207\u6210\u9577\u80a1\u9f4a\u6f32\u7684\u683c\u5c40\uff0c\u901a\u5e38\u4ee3\u8868\u5e02\u5834\u5b58\u5728\u5be6\u8cea\u6027\u8cb7\u76e4\u652f\u6490\uff0c\u800c\u975e\u55ae\u7d14\u7684\u7a7a\u982d\u56de\u88dc\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing is a strategy that buys stocks showing strong recent price gains on the theory that winners tend to keep winning in the short term. Today's top candidates \u2014 all scoring 100 with RSI in the bullish zone (55\u201370), MACD crossovers, and volume surges \u2014 are textbook momentum setups. The risk is that momentum can reverse sharply when sentiment shifts, which is why RSI above 70 (overbought) is treated as a caution signal even when MACD looks good.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u4e00\u7a2e\u8ffd\u8e64\u8fd1\u671f\u5f37\u52e2\u80a1\u7968\u7684\u7b56\u7565\uff0c\u5176\u7406\u8ad6\u57fa\u790e\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\u2014\u2014\u77ed\u671f\u5167\u6f32\u52e2\u5f37\u52c1\u7684\u80a1\u7968\u5f80\u5f80\u6301\u7e8c\u4e0a\u6f32\u3002\u4eca\u65e5\u8a55\u5206\u6eff\u5206\u7684\u5019\u9078\u80a1\uff08RSI\u8655\u65bc55\u201370\u52d5\u80fd\u5340\u3001MACD\u51fa\u73fe\u91d1\u53c9\u3001\u6210\u4ea4\u91cf\u653e\u5927\uff09\u5747\u662f\u6559\u79d1\u66f8\u5f0f\u7684\u52d5\u80fd\u8a0a\u865f\u3002\u6b64\u7b56\u7565\u7684\u98a8\u96aa\u5728\u65bc\uff0c\u4e00\u65e6\u5e02\u5834\u60c5\u7dd2\u9006\u8f49\uff0c\u52d5\u80fd\u80a1\u53ef\u80fd\u6025\u901f\u56de\u843d\uff0c\u56e0\u6b64\u5373\u4f7fMACD\u770b\u6f32\uff0cRSI\u8d85\u904e70\uff08\u8d85\u8cb7\uff09\u4ecd\u61c9\u8996\u70ba\u8b66\u793a\u4fe1\u865f\u3002"
+      "term": "Risk-On",
+      "explanation_en": "A 'risk-on' environment is when investors feel confident enough to move money into higher-risk, higher-reward assets like tech stocks, small caps, and growth names \u2014 rather than safe havens like bonds or gold. Today's NASDAQ +1.2% and S&P 500 +0.7% are classic risk-on signals. For active portfolios like ours, risk-on days are exactly when deploying cash into high-momentum candidates makes the most sense.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u5e02\u5834\u6295\u8cc7\u8005\u4fe1\u5fc3\u9ad8\u6f32\uff0c\u9858\u610f\u5c07\u8cc7\u91d1\u5f9e\u50b5\u5238\u3001\u9ec3\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\u8f49\u79fb\u81f3\u79d1\u6280\u80a1\u3001\u5c0f\u578b\u80a1\u7b49\u9ad8\u98a8\u96aa\u9ad8\u56de\u5831\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u4e0a\u6f321.2%\u3001\u6a19\u666e500\u4e0a\u6f320.7%\uff0c\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u3002\u5c0d\u65bc\u4e3b\u52d5\u7ba1\u7406\u7684\u6295\u8cc7\u7d44\u5408\u800c\u8a00\uff0c\u98a8\u96aa\u504f\u597d\u884c\u60c5\u6b63\u662f\u5c07\u9592\u7f6e\u73fe\u91d1\u90e8\u7f72\u81f3\u5f37\u52e2\u52d5\u80fd\u80a1\u7684\u6700\u4f73\u6642\u6a5f\u3002"
     }
   }
 }
