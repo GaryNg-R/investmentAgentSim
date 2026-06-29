@@ -1,14 +1,14 @@
 {
   "date": "2026-06-29",
-  "briefing": "Markets are firmly risk-on today with NASDAQ leading at +1.5%, favouring growth and momentum names. With only $577 in cash I can open one more position — SOFI scores 95, sits in the ideal RSI momentum zone (61.1), and fintech typically outperforms on strong tape days. All six existing positions remain within their stop/target bands so no sells are needed.",
+  "briefing": "Strong risk-on session with NASDAQ up 1.8% and S&P 500 up 1.1% — growth and tech names leading. With $577 in cash and 4 open slots, deploying into SOFI as the best value/momentum fit given the price point. The portfolio's existing positions in OLED, ROAD, and INOD are well-aligned with today's tone; no sell signals triggered.",
   "daily_lesson": {
-    "term": "Risk-On",
-    "explanation_en": "A 'risk-on' session is when investors feel confident and move money into higher-risk assets like growth stocks, small caps, and tech, expecting gains to outweigh potential losses. Today's NASDAQ +1.5% move is a textbook example — when fear is low and optimism is high, capital flows away from safe havens (bonds, utilities) and into momentum names. As a portfolio manager, risk-on days are when holding quality momentum picks pays off most.",
-    "explanation_zh": "「風險偏好」（Risk-On）是指當投資者信心充足時，將資金轉移至較高風險資產的市場狀態，例如成長股、小型股及科技股，預期回報將超越潛在損失。今日納斯達克大漲1.5%正是典型的風險偏好行情——當市場恐慌情緒低落、樂觀預期主導時，資金便從避險資產（如債券、公用事業股）流向動能型股票。對投資組合管理者而言，風險偏好日正是持有優質動能股最能發揮效益的時機。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing is a strategy that buys assets that have been rising and avoids those that have been falling, based on the idea that strong trends tend to continue. Indicators like RSI (Relative Strength Index) and MACD help identify whether a stock is in a healthy uptrend versus becoming overextended. Today's picks like SOFI (RSI 64) sit in the 'bullish momentum zone' — rising but not yet overbought — which is the sweet spot momentum investors target.",
+    "explanation_zh": "動能投資（Momentum Investing）是一種追漲避跌的策略，其核心邏輯是強勢趨勢往往會延續。RSI（相對強弱指數）和MACD等技術指標能幫助判斷個股是處於健康上升趨勢，還是已過度延伸。以今日選股SOFI為例，RSI為64，處於「牛市動能區間」（55–70）——上漲但尚未超買——這正是動能投資者最青睞的介入時機。"
   },
   "market_education": {
-    "summary_en": "U.S. equities rallied broadly on Monday with the NASDAQ surging 1.5% and the S&P 500 adding 0.9%, driven by renewed risk appetite as investors rotated back into growth and technology shares. Semiconductor and space-tech names led the advance, reflecting confidence that AI spending cycles remain intact and that near-term rate pressures are contained. The risk-on tone encouraged broad participation across small- and mid-cap momentum stocks, which outpaced defensive sectors.",
-    "summary_zh": "美國股市周一全面上揚，納斯達克指數大漲1.5%，標普500指數亦上升0.9%，市場風險偏好明顯回升，資金重新流入成長股及科技板塊。半導體及太空科技類股領漲，反映投資者對AI資本支出周期持續的信心，以及對短期利率壓力趨緩的樂觀預期。整體市場情緒積極，中小型動能股的升幅普遍跑贏防守性板塊。",
+    "summary_en": "Markets rallied broadly on Monday with tech leading as investor sentiment remained firmly risk-on heading into the second half of 2026. The NASDAQ outperformed the broader S&P 500, suggesting continued rotation into growth names as macro data has not shown significant deterioration. Semiconductor and fintech stocks were among the standout performers, reflecting confidence in both AI infrastructure spending and consumer credit resilience.",
+    "summary_zh": "週一美股全面上揚，科技股領漲，投資者情緒在進入2026年下半年之際持續偏向風險偏好。那斯達克指數跑贏大盤標普500，顯示市場資金持續輪動至成長型股票，宏觀數據並未顯示明顯惡化跡象。半導體及金融科技類股表現突出，反映市場對AI基礎設施支出及消費信貸韌性的信心。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "SOFI",
       "conviction": "high",
-      "reasoning": "Score 95 with RSI 61.1 still has meaningful upside runway in a risk-on session; fintech names benefit directly from risk appetite, and this deploys idle cash above the $500 threshold."
+      "reasoning": "Score 95 with RSI 64 in the ideal momentum zone, MACD bullish crossover confirmed, and at $18/share it's the best fit for remaining $577 cash — fintech names benefit from risk-on sentiment and rate optimism."
     }
   ],
   "outcomes": {
