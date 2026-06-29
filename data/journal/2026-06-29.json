@@ -1,14 +1,14 @@
 {
   "date": "2026-06-29",
-  "briefing": "Strong risk-on session with NASDAQ up 1.8% and S&P 500 up 1.1% — growth and tech names leading. With $577 in cash and 4 open slots, deploying into SOFI as the best value/momentum fit given the price point. The portfolio's existing positions in OLED, ROAD, and INOD are well-aligned with today's tone; no sell signals triggered.",
+  "briefing": "Strong risk-on session with NASDAQ surging 1.9% and S&P 500 up 1.1%, confirming growth and tech momentum. I'm deploying most of the remaining $577 cash across three high-conviction screener picks — CBRS, SOFI, and PL — all showing MACD bullish crossovers with RSI in the 55–70 optimal range. Existing holdings are left intact; none are signaling deterioration and the portfolio is up 32.6% overall.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing is a strategy that buys assets that have been rising and avoids those that have been falling, based on the idea that strong trends tend to continue. Indicators like RSI (Relative Strength Index) and MACD help identify whether a stock is in a healthy uptrend versus becoming overextended. Today's picks like SOFI (RSI 64) sit in the 'bullish momentum zone' — rising but not yet overbought — which is the sweet spot momentum investors target.",
-    "explanation_zh": "動能投資（Momentum Investing）是一種追漲避跌的策略，其核心邏輯是強勢趨勢往往會延續。RSI（相對強弱指數）和MACD等技術指標能幫助判斷個股是處於健康上升趨勢，還是已過度延伸。以今日選股SOFI為例，RSI為64，處於「牛市動能區間」（55–70）——上漲但尚未超買——這正是動能投資者最青睞的介入時機。"
+    "term": "Risk-On / Risk-Off (RORO)",
+    "explanation_en": "Risk-on describes a market environment where investors feel confident and move money into higher-risk, higher-reward assets like growth stocks, small-caps, and emerging markets. Today's NASDAQ +1.9% vs S&P 500 +1.1% split is a classic risk-on signal — when investors are optimistic, they favor volatile tech over defensive large-caps. The opposite, risk-off, sends money into bonds, gold, and dividend stocks as a safe haven.",
+    "explanation_zh": "「風險偏好」（Risk-On）是指投資者情緒樂觀、願意承擔更高風險以換取更高回報的市場狀態，資金會流向成長股、小型股等高波動資產。今日納斯達克漲幅（+1.9%）明顯高於標普500（+1.1%），正是典型的風險偏好訊號——市場看好前景時，資金傾向科技成長股而非防禦型大型股。反之，「風險規避」（Risk-Off）狀態下，資金則撤回債券、黃金等避險資產。"
   },
   "market_education": {
-    "summary_en": "Markets rallied broadly on Monday with tech leading as investor sentiment remained firmly risk-on heading into the second half of 2026. The NASDAQ outperformed the broader S&P 500, suggesting continued rotation into growth names as macro data has not shown significant deterioration. Semiconductor and fintech stocks were among the standout performers, reflecting confidence in both AI infrastructure spending and consumer credit resilience.",
-    "summary_zh": "週一美股全面上揚，科技股領漲，投資者情緒在進入2026年下半年之際持續偏向風險偏好。那斯達克指數跑贏大盤標普500，顯示市場資金持續輪動至成長型股票，宏觀數據並未顯示明顯惡化跡象。半導體及金融科技類股表現突出，反映市場對AI基礎設施支出及消費信貸韌性的信心。",
+    "summary_en": "U.S. equities rallied broadly today, with the NASDAQ outpacing the broader S&P 500 as investors rotated back into growth and technology stocks. The risk-on tone was driven by easing macro concerns, with traders pricing in a more favorable rate environment heading into the second half of 2026. Small- and mid-cap growth names led the charge, consistent with a 'risk appetite' expansion where investors move up the risk curve from defensives into higher-beta equities.",
+    "summary_zh": "美股今日全面走高，納斯達克指數漲幅達1.9%，領先大盤標普500指數的1.1%升幅，顯示資金重新流入成長股與科技板塊。市場整體呈現「風險偏好」（risk-on）情緒，投資者預期宏觀環境將於2026年下半年趨於寬鬆，紛紛從防禦性資產轉向高貝塔成長標的。中小型成長股表現突出，反映市場對景氣復甦的信心正在升溫。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,19 @@
       "action": "BUY",
       "ticker": "SOFI",
       "conviction": "high",
-      "reasoning": "Score 95 with RSI 64 in the ideal momentum zone, MACD bullish crossover confirmed, and at $18/share it's the best fit for remaining $577 cash — fintech names benefit from risk-on sentiment and rate optimism."
+      "reasoning": "Score 95 with MACD bullish crossover + rising histogram and RSI 65.4 in optimal momentum zone — affordable entry allows meaningful position with limited remaining cash."
+    },
+    {
+      "action": "BUY",
+      "ticker": "CBRS",
+      "conviction": "high",
+      "reasoning": "Score 95 with the full trifecta: RSI in bullish zone, MACD crossover, rising histogram, and price 18.5% above SMA-20 confirming strong trend — best overall signal set in today's screener."
+    },
+    {
+      "action": "BUY",
+      "ticker": "PL",
+      "conviction": "medium",
+      "reasoning": "Score 90, RSI 67.6 in sweet spot, MACD bullish crossover, and price nearly 10% above SMA-20 — affordable entry in a risk-on tape favoring growth/satellite tech names."
     }
   ],
   "outcomes": {
