@@ -1,22 +1,22 @@
 {
   "date": "2026-06-30",
-  "briefing": "Markets delivered a clean risk-on session to close out Q2, with NASDAQ up 1.4% and S&P 500 up 0.8%, validating deployment of remaining cash. RKT stands out as the sole score-95 candidate meeting all four required signals — including the volume surge that flags institutional participation rather than a random spike — making it the highest-conviction buy available. All six existing positions remain healthy with no stop-losses or profit targets imminent, so the full focus is on deploying the $577 in cash into RKT.",
+  "briefing": "Markets are moderately risk-on today with NASDAQ +1.5% and S&P500 +0.8%, likely supported by end-of-quarter positioning and continued tech momentum. BRUN is the standout candidate — it is the only score-100 pick with all four required multi-signal confirmations including a volume surge, which strategy memory flags as the strongest indication of institutional buying. Deploying remaining cash into BRUN while holding all six existing positions, which remain inside stop-loss and profit-target bounds.",
   "daily_lesson": {
     "term": "Volume Surge",
-    "explanation_en": "A volume surge happens when a stock's daily trading volume far exceeds its recent average — in this system, defined as more than 1.5x the 20-day average. It matters because large institutions (hedge funds, pension funds) can't buy quietly; their size leaves a footprint in the volume data. When a volume surge coincides with a MACD crossover and RSI in the bullish zone, it confirms that smart money is participating in the move, not just retail momentum chasing.",
-    "explanation_zh": "成交量激增是指某支股票單日成交量遠超近期平均水平——本系統定義為超過20日均量的1.5倍以上。這個信號之所以重要，在於大型機構（如對沖基金、退休基金）體量龐大，無法悄悄進場，其買盤必然在成交量數據上留下痕跡。當成交量激增與MACD金叉及RSI處於看漲區間同步出現時，代表聰明錢正在積極參與這波行情，而非僅由散戶追高所驅動，信號可信度大幅提升。"
+    "explanation_en": "A volume surge occurs when a stock's trading volume is significantly higher than its recent average — in this system, more than 1.5x the 20-day average. It is a key signal because unusually high volume on an up day suggests that large institutional investors (mutual funds, hedge funds) are actively buying, not just retail traders. When a price breakout is accompanied by a volume surge, the move is considered more reliable and sustainable than one on thin volume.",
+    "explanation_zh": "成交量激增是指某支股票的當日交易量遠高於近期平均水平——本策略定義為超過20日平均量的1.5倍。這是一個關鍵技術訊號，因為在股價上漲日出現異常放量，往往代表大型機構投資者（如共同基金、對沖基金）正在積極建倉，而非僅由散戶推動。當價格突破伴隨成交量激增時，該突破被認為更具可信度與持續性，而非曇花一現的虛假走勢。"
   },
   "market_education": {
-    "summary_en": "U.S. equities rallied on June 30 as quarter-end rebalancing flows pushed institutions back into equities to close out Q2 2026. Technology led the charge with the NASDAQ climbing 1.4%, buoyed by continued optimism around AI infrastructure spending cycles and resilient U.S. labor market readings. The S&P 500 added 0.8%, with broad risk appetite recovering as investors rotated into growth names heading into the second half of the year.",
-    "summary_zh": "美股於六月三十日以強勢收官姿態結束第二季，季末再平衡資金湧入推動整體指數上揚。那斯達克上漲1.4%，科技板塊領漲，市場對人工智慧基礎建設支出周期的樂觀情緒持續升溫，加上美國勞動市場數據維持韌性，整體風險偏好顯著改善。標普500指數收漲0.8%，資金積極轉向成長型個股，為佈局2026年下半年預作準備。",
+    "summary_en": "U.S. equities rallied on the final trading day of Q2 2026, with the NASDAQ leading at +1.5% and the S&P 500 gaining +0.8%, driven by end-of-quarter window dressing as institutional fund managers rebalance portfolios and boost holdings in outperforming names before quarter-end reporting. Tech and semiconductor names led the advance as AI-related spending expectations remained elevated. The broad risk-on tone reflected continued confidence in the economic soft-landing narrative, with no major macro surprises to disrupt sentiment.",
+    "summary_zh": "美股在2026年第二季度最後一個交易日全面上漲，那斯達克指數領漲1.5%，標普500指數上升0.8%。市場動能主要來自季末「窗口美化」操作——機構基金經理在季度末前積極調整持倉，拉抬績優股以美化報表。科技與半導體板塊領漲，反映市場對人工智能相關資本支出前景的持續樂觀預期。整體風險偏好偏強，市場對經濟「軟著陸」情境信心未減，宏觀層面亦未出現重大意外衝擊。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "RKT",
+      "ticker": "BRUN",
       "conviction": "high",
-      "reasoning": "Score 95 with all four required confirmation signals — RSI 63.1 (bullish zone, below 70), MACD crossover, price above SMA-20, and volume surge confirming institutional participation on a risk-on day; this is the only score-95 candidate that checks all four boxes from the strategy playbook."
+      "reasoning": "Top-scoring candidate (100) with all five signal confirmations — RSI in bullish zone, MACD crossover, rising histogram, price above SMA-20, and a volume surge indicating institutional participation; cash above $500 with 4 open slots on a risk-on day warrants deployment."
     }
   ],
   "outcomes": {
