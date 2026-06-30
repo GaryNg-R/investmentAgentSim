@@ -1,17 +1,24 @@
 {
   "date": "2026-06-30",
-  "briefing": "Markets posted a quiet neutral session to close out June — NASDAQ +0.7%, S&P 500 +0.3% — well below the +2% threshold that justifies deploying cash on a conviction buy. We have $577 and four open slots, but strategy memory is explicit: two neutral hold days in a row is correct behavior, not a failure. All six positions are held; the three score-100 candidates (KTOS, ONDS, RDW) each carry full multi-signal confirmation and are first in line when a genuine risk-on day arrives.",
+  "briefing": "Markets closed Q2 on a quiet positive note (NASDAQ +0.7%, S&P +0.3%) — a neutral session, not a risk-on trigger. Cash sits at $577, modestly above the $500 deployment threshold with 4 open slots. AVAV earns a one-position buy because it is the sole score-100 candidate with all four required confirmation signals including a volume surge, making this a genuine signal-driven entry rather than capital deployment for its own sake. All existing positions are held; no neutral-day exits warranted.",
   "daily_lesson": {
-    "term": "Capital Preservation",
-    "explanation_en": "Capital preservation is the discipline of protecting your portfolio value by avoiding unnecessary risk when conditions don't favor a trade. On a neutral day like today, deploying cash into new positions just to feel busy would mean accepting suboptimal entry points and a weak risk/reward ratio. Holding dry powder and waiting for a high-conviction setup is itself an active, profitable decision — the cash is doing its job by staying available for better opportunities.",
-    "explanation_zh": "資本保全（Capital Preservation）是一種在市場條件不利時避免不必要風險、主動保護投資組合價值的紀律。在今天這種中性行情下，為了「做點什麼」而貿然買入新倉，只會在入市時機不佳的情況下接受偏低的風險回報比。保留現金、靜候高確信度入市機會，本身就是一個積極且正確的決策——閒置的現金正在發揮其應有的作用，等待更好的時機出現。"
+    "term": "Volume Surge",
+    "explanation_en": "A volume surge occurs when a stock trades at 1.5x or more of its 20-day average volume. It signals that large institutional investors — funds, banks, pension managers — are actively participating in the move, not just retail traders. A price rise accompanied by a volume surge carries far more conviction than one on thin volume, because it implies broad, informed buying rather than a random intraday spike.",
+    "explanation_zh": "成交量激增是指某股票的成交量達到其20日均量的1.5倍或以上。這通常意味著大型機構投資者——基金、銀行、退休金管理人——正積極參與入市，而非僅靠散戶推動。股價在成交量激增配合下上漲，遠比在清淡成交中上揚更具說服力，因為這代表市場廣泛而知情的買盤，而非隨機的日內短暫波動。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted modestly higher on the final trading day of June as quarter-end portfolio rebalancing flows provided a mild tailwind without any major catalysts to drive conviction. Tech and growth names edged up, lifting the NASDAQ 0.7%, while the broader S&P 500 added 0.3% in lighter volume typical of a session bookending a holiday-shortened period. Markets remained in a holding pattern as investors awaited upcoming jobs data that could clarify the Federal Reserve's trajectory on interest rates.",
-    "summary_zh": "美股在六月最後一個交易日小幅收漲，季末投資組合再平衡的資金流動提供了溫和支撐，但缺乏重大催化劑驅動市場形成明確方向。科技及成長股略有上升，帶動納斯達克指數上漲0.7%，標普500指數則上揚0.3%，成交量因臨近假期而偏淡。市場整體處於觀望狀態，投資者靜候即將公布的就業數據，以研判聯儲局下一步利率政策走向。",
+    "summary_en": "U.S. equities drifted modestly higher on the final trading day of Q2 2026, with the NASDAQ rising 0.7% and the S&P 500 adding 0.3%. Quarter-end portfolio rebalancing and light summer volume kept conviction low in both directions, resulting in a broadly flat session with modest tech leadership. Investors appeared content to book Q2 gains and hold positions rather than make directional bets heading into Q3.",
+    "summary_zh": "美股在2026年第二季度最後一個交易日溫和收漲，那斯達克指數上升0.7%，標普500指數上升0.3%。季末組合再平衡及夏季清淡成交量令市場雙向動力均告不足，整體走勢偏平，科技股小幅領漲。投資者普遍選擇鎖定第二季度盈利，觀望部署，靜候第三季度開局。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "AVAV",
+      "conviction": "medium",
+      "reasoning": "The only score-100 candidate with all four confirmation signals — RSI in bullish zone (63.9), MACD crossover, price above SMA-20, and a volume surge — meeting the full multi-signal institutional participation threshold even on a neutral day."
+    }
+  ],
   "outcomes": {
     "total_value": 13255.735246181488,
     "cash": 577.1352210044861,
