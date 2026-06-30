@@ -1,22 +1,22 @@
 {
   "date": "2026-06-30",
-  "briefing": "NASDAQ +1.2% and S&P +0.6% confirm a moderate risk-on session on the final trading day of Q2 2026. With $577 in cash, 4 open slots, and a clear best candidate, deploying into NVDA makes sense — it carries the full four-signal setup and has the lowest RSI (55.9) among the score-95 tier, leaving the most room before overbought territory. Existing positions are held; a moderate risk-on day doesn't warrant trimming winners.",
+  "briefing": "Markets are in risk-on mode today (NASDAQ +1.4%, S&P +0.7%), giving a clear signal to deploy the remaining cash into a high-conviction setup. WOLF leads the screener with a perfect 95 score and all four confirmation signals — MACD crossover, rising histogram, RSI in the bullish zone at 64.3, and price 10% above SMA-20 — without being overbought. All six existing positions are held; stop-losses and profit targets continue working automatically.",
   "daily_lesson": {
-    "term": "Window Dressing",
-    "explanation_en": "Window dressing happens at the end of a quarter when fund managers buy stocks that have performed well so their portfolio looks impressive in reports sent to clients. It's not about genuine conviction — it's about appearances. This can briefly inflate prices of recent winners near quarter-end, which is worth knowing when interpreting a rally on the last trading day of March, June, September, or December.",
-    "explanation_zh": "「櫥窗粉飾」是指基金經理在季末買入近期強勢股，目的是讓投資組合在向客戶提交的報告中看起來更亮眼，而非出於真正的看好。這種行為純粹是為了形象，並非基本面驅動。在每年3月、6月、9月或12月的最後一個交易日出現的反彈，往往含有這種操作的成分，投資者解讀行情時需加以留意。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means waiting for several independent technical indicators to agree before entering a trade — for example, requiring MACD crossover, RSI in a bullish zone, and price above the SMA-20 all at once. Relying on a single indicator produces many false signals; stacking multiple signals filters out noise and suggests that institutional money, not just retail momentum, is behind a move.",
+    "explanation_zh": "多重訊號確認，是指等待多個獨立技術指標同時發出一致信號後才進場的交易原則，例如要求MACD出現黃金交叉、RSI處於多頭動能區間，且股價同步站上20日均線。單一指標容易產生大量假訊號；多重指標疊加能有效過濾雜訊，通常代表背後有機構資金而非純粹散戶追漲的支撐。"
   },
   "market_education": {
-    "summary_en": "Markets closed Q2 on a positive note, with the NASDAQ gaining 1.2% and the S&P 500 up 0.6%, supported by continued strength in AI-linked semiconductor names and easing macro concerns. End-of-quarter 'window dressing' by institutional managers — buying outperforming stocks to improve reported holdings — amplified moves in momentum names. Broad risk appetite remained intact with no major credit or geopolitical shocks to derail the session.",
-    "summary_zh": "市場以正面姿態結束第二季，納指上漲1.2%，標普500指數上升0.6%，主要受AI相關半導體股持續強勁及宏觀憂慮緩和所支撐。季末機構投資者的「櫥窗粉飾」操作——買入表現亮眼的股票以美化持倉報告——進一步放大了動能股的升幅。整體風險偏好維持穩健，市場未見重大信貸或地緣政治衝擊。",
+    "summary_en": "Equities closed June on a positive note as the S&P 500 gained 0.7% and the NASDAQ rose 1.4%, driven by continued momentum in technology and growth stocks heading into the end of Q2. Quarter-end rebalancing by institutional funds added buying pressure as managers repositioned toward outperforming sectors. Semiconductors and AI-adjacent names led the session, reflecting ongoing confidence in the technology spending cycle.",
+    "summary_zh": "美股在六月最後一個交易日以正面格局收盤，標普500上漲0.7%，納斯達克指數上揚1.4%，科技與成長股持續帶動大盤走強。季末機構資金的倉位再平衡為市場提供了額外買盤，基金經理積極增持表現強勢的板塊。半導體及AI相關類股領漲，反映市場對科技資本支出週期的持續信心。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NVDA",
+      "ticker": "WOLF",
       "conviction": "high",
-      "reasoning": "Score 95 with all four multi-signal confirmations (MACD crossover, RSI 55.9 in bullish zone with most upside room among top candidates, price above SMA-20, histogram rising) on a risk-on day; deploying remaining cash into the highest-quality name in the screener."
+      "reasoning": "Score 95 with all four required signals — RSI 64.3 (bullish zone, not overbought), MACD crossover with rising histogram, and price well above SMA-20 — on a risk-on day with $577 cash available and 4 open slots."
     }
   ],
   "outcomes": {
