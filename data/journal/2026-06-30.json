@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-30",
+  "briefing": "NASDAQ surged 2.1% today, a clear risk-on signal that calls for deploying the remaining $577 cash rather than holding dry powder. CMCSA is the only candidate with all four conviction signals firing simultaneously — RSI in the bullish zone, MACD crossover confirmed, price above SMA-20, and a volume surge indicating institutional participation. Existing positions are held; none are at stop-loss or profit-target thresholds.",
+  "daily_lesson": {
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means waiting for several independent technical indicators to align before entering a trade — for example, RSI in the bullish zone, a MACD crossover, price above the 20-day moving average, and a volume surge all happening at the same time. Each signal alone could be a false alarm, but when four point the same direction it greatly increases the probability that institutional buyers are genuinely driving the move. CMCSA today checked all four boxes, making it a high-conviction buy rather than a speculative guess.",
+    "explanation_zh": "「多重信號確認」是指在入市前，等待多個獨立技術指標同時發出買入訊號——例如RSI處於強勢區間、MACD出現黃金交叉、股價站上20日均線，以及成交量出現異常放大，四者同步亮燈。單一指標可能出現假訊號，但當四個指標一致向上時，代表機構資金正在積極介入的概率大幅提升。CMCSA今日四項條件齊備，因此屬於高確信度買入，而非博彩式投機。"
+  },
+  "market_education": {
+    "summary_en": "U.S. equities rallied sharply on June 30, with the NASDAQ gaining 2.1% and the S&P 500 adding 1.2%, driven by month-end and quarter-end rebalancing flows that typically push institutions to top up equity exposure. Broad sector participation — from tech to industrials — suggests the move was momentum-led rather than tied to a single catalyst, consistent with a 'risk-on' rotation out of defensive assets. The strength of the NASDAQ relative to the S&P 500 points to continued investor appetite for growth and innovation-linked names.",
+    "summary_zh": "美股於6月30日大幅上揚，納斯達克指數勁升2.1%，標普500指數亦漲1.2%，主要受季末及月末機構再平衡資金流入帶動。科技、工業等多個板塊同步走強，顯示此次升勢屬廣泛性動能驅動，而非單一消息刺激，市場整體呈現「風險偏好」情緒。納指跑贏標普的格局，反映投資者持續追捧成長型及創新類資產。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "CMCSA",
+      "conviction": "high",
+      "reasoning": "Score 95 with all four confirmation signals: RSI in bullish zone (60.4), MACD crossover, price above SMA-20, and volume surge — strongest multi-signal setup on a NASDAQ +2.1% risk-on day, deploying idle cash as strategy requires."
+    }
+  ],
+  "outcomes": {
+    "total_value": 13255.735246181488,
+    "cash": 577.1352210044861,
+    "pnl_dollar": 3255.735246181488,
+    "pnl_pct": 32.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
