@@ -1,22 +1,22 @@
 {
   "date": "2026-06-30",
-  "briefing": "NASDAQ gained 1.3% and S&P 500 rose 0.7%, a genuine risk-on session though below the +2% threshold for full-deployment confidence. With $577 in cash and four open slots, one medium-conviction buy into IMOS is the right call — it carries the top 95 momentum score, three solid technical signals, and sits in the semiconductor space which continues to attract institutional flow. All six existing positions are held; none are near stop-loss or profit-target levels today.",
+  "briefing": "Markets delivered a clean risk-on session to close out Q2, with NASDAQ up 1.4% and S&P 500 up 0.8%, validating deployment of remaining cash. RKT stands out as the sole score-95 candidate meeting all four required signals — including the volume surge that flags institutional participation rather than a random spike — making it the highest-conviction buy available. All six existing positions remain healthy with no stop-losses or profit targets imminent, so the full focus is on deploying the $577 in cash into RKT.",
   "daily_lesson": {
-    "term": "Risk-On Sentiment",
-    "explanation_en": "Risk-on sentiment describes a market environment where investors feel confident enough to buy higher-risk assets like growth stocks and semiconductors rather than safe havens like bonds or gold. Today's NASDAQ +1.3% reading is a classic risk-on signal — it tells us institutions are willing to take on more exposure, which is why deploying cash into a momentum stock like IMOS makes sense. Recognising the degree of risk-on (mild vs. strong) helps size your conviction: today warranted one medium-conviction buy, not an all-in deployment.",
-    "explanation_zh": "「風險偏好情緒」（Risk-On）指市場投資者信心充足，傾向買入科技成長股、半導體等高風險資產，而非債券或黃金等避險工具。今日納指上漲1.3%，正是典型的風險偏好訊號——說明機構資金願意加大風險敞口，因此將閒置現金部署至動能股IMOS是合理之舉。辨別風險偏好的強弱程度（溫和或強烈）有助於判斷買入力度：今日屬溫和偏好，適合中度信心入市，而非傾盡全力加倉。"
+    "term": "Volume Surge",
+    "explanation_en": "A volume surge happens when a stock's daily trading volume far exceeds its recent average — in this system, defined as more than 1.5x the 20-day average. It matters because large institutions (hedge funds, pension funds) can't buy quietly; their size leaves a footprint in the volume data. When a volume surge coincides with a MACD crossover and RSI in the bullish zone, it confirms that smart money is participating in the move, not just retail momentum chasing.",
+    "explanation_zh": "成交量激增是指某支股票單日成交量遠超近期平均水平——本系統定義為超過20日均量的1.5倍以上。這個信號之所以重要，在於大型機構（如對沖基金、退休基金）體量龐大，無法悄悄進場，其買盤必然在成交量數據上留下痕跡。當成交量激增與MACD金叉及RSI處於看漲區間同步出現時，代表聰明錢正在積極參與這波行情，而非僅由散戶追高所驅動，信號可信度大幅提升。"
   },
   "market_education": {
-    "summary_en": "Markets closed out Q2 2026 on a positive note, with technology and semiconductor names leading the advance as investor appetite for AI-related hardware exposure remained strong. The NASDAQ outpaced the broader S&P 500, a pattern consistent with continued rotation into high-growth sectors. Quarter-end rebalancing flows added modest tailwind to equities as institutional managers adjusted allocations ahead of the July 1 settlement date.",
-    "summary_zh": "2026年第二季末，市場收盤走高，科技及半導體股引領升勢，投資者對AI相關硬件的配置需求持續旺盛。納斯達克漲幅優於標普500，反映市場資金持續流入高增長板塊。季末再平衡操作亦為股市帶來額外支撐，機構投資者趕在7月1日結算日前調整組合配置。",
+    "summary_en": "U.S. equities rallied on June 30 as quarter-end rebalancing flows pushed institutions back into equities to close out Q2 2026. Technology led the charge with the NASDAQ climbing 1.4%, buoyed by continued optimism around AI infrastructure spending cycles and resilient U.S. labor market readings. The S&P 500 added 0.8%, with broad risk appetite recovering as investors rotated into growth names heading into the second half of the year.",
+    "summary_zh": "美股於六月三十日以強勢收官姿態結束第二季，季末再平衡資金湧入推動整體指數上揚。那斯達克上漲1.4%，科技板塊領漲，市場對人工智慧基礎建設支出周期的樂觀情緒持續升溫，加上美國勞動市場數據維持韌性，整體風險偏好顯著改善。標普500指數收漲0.8%，資金積極轉向成長型個股，為佈局2026年下半年預作準備。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "IMOS",
-      "conviction": "medium",
-      "reasoning": "Score 95 with three of four confirmation signals (MACD crossover, histogram rising, RSI 62.4 in bullish zone, price above SMA-20); semiconductor sector benefits from AI demand tailwinds, and deploying idle cash on a risk-on day with open slots is preferred over holding."
+      "ticker": "RKT",
+      "conviction": "high",
+      "reasoning": "Score 95 with all four required confirmation signals — RSI 63.1 (bullish zone, below 70), MACD crossover, price above SMA-20, and volume surge confirming institutional participation on a risk-on day; this is the only score-95 candidate that checks all four boxes from the strategy playbook."
     }
   ],
   "outcomes": {
