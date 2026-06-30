@@ -1,22 +1,22 @@
 {
   "date": "2026-06-30",
-  "briefing": "Markets are in risk-on mode today (NASDAQ +1.4%, S&P +0.7%), giving a clear signal to deploy the remaining cash into a high-conviction setup. WOLF leads the screener with a perfect 95 score and all four confirmation signals — MACD crossover, rising histogram, RSI in the bullish zone at 64.3, and price 10% above SMA-20 — without being overbought. All six existing positions are held; stop-losses and profit targets continue working automatically.",
+  "briefing": "NASDAQ gained 1.3% and S&P 500 rose 0.7%, a genuine risk-on session though below the +2% threshold for full-deployment confidence. With $577 in cash and four open slots, one medium-conviction buy into IMOS is the right call — it carries the top 95 momentum score, three solid technical signals, and sits in the semiconductor space which continues to attract institutional flow. All six existing positions are held; none are near stop-loss or profit-target levels today.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means waiting for several independent technical indicators to agree before entering a trade — for example, requiring MACD crossover, RSI in a bullish zone, and price above the SMA-20 all at once. Relying on a single indicator produces many false signals; stacking multiple signals filters out noise and suggests that institutional money, not just retail momentum, is behind a move.",
-    "explanation_zh": "多重訊號確認，是指等待多個獨立技術指標同時發出一致信號後才進場的交易原則，例如要求MACD出現黃金交叉、RSI處於多頭動能區間，且股價同步站上20日均線。單一指標容易產生大量假訊號；多重指標疊加能有效過濾雜訊，通常代表背後有機構資金而非純粹散戶追漲的支撐。"
+    "term": "Risk-On Sentiment",
+    "explanation_en": "Risk-on sentiment describes a market environment where investors feel confident enough to buy higher-risk assets like growth stocks and semiconductors rather than safe havens like bonds or gold. Today's NASDAQ +1.3% reading is a classic risk-on signal — it tells us institutions are willing to take on more exposure, which is why deploying cash into a momentum stock like IMOS makes sense. Recognising the degree of risk-on (mild vs. strong) helps size your conviction: today warranted one medium-conviction buy, not an all-in deployment.",
+    "explanation_zh": "「風險偏好情緒」（Risk-On）指市場投資者信心充足，傾向買入科技成長股、半導體等高風險資產，而非債券或黃金等避險工具。今日納指上漲1.3%，正是典型的風險偏好訊號——說明機構資金願意加大風險敞口，因此將閒置現金部署至動能股IMOS是合理之舉。辨別風險偏好的強弱程度（溫和或強烈）有助於判斷買入力度：今日屬溫和偏好，適合中度信心入市，而非傾盡全力加倉。"
   },
   "market_education": {
-    "summary_en": "Equities closed June on a positive note as the S&P 500 gained 0.7% and the NASDAQ rose 1.4%, driven by continued momentum in technology and growth stocks heading into the end of Q2. Quarter-end rebalancing by institutional funds added buying pressure as managers repositioned toward outperforming sectors. Semiconductors and AI-adjacent names led the session, reflecting ongoing confidence in the technology spending cycle.",
-    "summary_zh": "美股在六月最後一個交易日以正面格局收盤，標普500上漲0.7%，納斯達克指數上揚1.4%，科技與成長股持續帶動大盤走強。季末機構資金的倉位再平衡為市場提供了額外買盤，基金經理積極增持表現強勢的板塊。半導體及AI相關類股領漲，反映市場對科技資本支出週期的持續信心。",
+    "summary_en": "Markets closed out Q2 2026 on a positive note, with technology and semiconductor names leading the advance as investor appetite for AI-related hardware exposure remained strong. The NASDAQ outpaced the broader S&P 500, a pattern consistent with continued rotation into high-growth sectors. Quarter-end rebalancing flows added modest tailwind to equities as institutional managers adjusted allocations ahead of the July 1 settlement date.",
+    "summary_zh": "2026年第二季末，市場收盤走高，科技及半導體股引領升勢，投資者對AI相關硬件的配置需求持續旺盛。納斯達克漲幅優於標普500，反映市場資金持續流入高增長板塊。季末再平衡操作亦為股市帶來額外支撐，機構投資者趕在7月1日結算日前調整組合配置。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "WOLF",
-      "conviction": "high",
-      "reasoning": "Score 95 with all four required signals — RSI 64.3 (bullish zone, not overbought), MACD crossover with rising histogram, and price well above SMA-20 — on a risk-on day with $577 cash available and 4 open slots."
+      "ticker": "IMOS",
+      "conviction": "medium",
+      "reasoning": "Score 95 with three of four confirmation signals (MACD crossover, histogram rising, RSI 62.4 in bullish zone, price above SMA-20); semiconductor sector benefits from AI demand tailwinds, and deploying idle cash on a risk-on day with open slots is preferred over holding."
     }
   ],
   "outcomes": {
