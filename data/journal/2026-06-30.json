@@ -1,14 +1,14 @@
 {
   "date": "2026-06-30",
-  "briefing": "Markets are moderately risk-on today with NASDAQ +1.5% and S&P500 +0.8%, likely supported by end-of-quarter positioning and continued tech momentum. BRUN is the standout candidate — it is the only score-100 pick with all four required multi-signal confirmations including a volume surge, which strategy memory flags as the strongest indication of institutional buying. Deploying remaining cash into BRUN while holding all six existing positions, which remain inside stop-loss and profit-target bounds.",
+  "briefing": "NASDAQ +1.5% and S&P 500 +0.8% deliver a solid risk-on session to close out Q2 2026. BRUN is the only ticker in the screened list hitting all four required confirmation signals simultaneously, making it the clear high-conviction entry. Deploying available cash into BRUN and holding the remaining three open slots for future risk-on setups with equally strong confirmation.",
   "daily_lesson": {
-    "term": "Volume Surge",
-    "explanation_en": "A volume surge occurs when a stock's trading volume is significantly higher than its recent average — in this system, more than 1.5x the 20-day average. It is a key signal because unusually high volume on an up day suggests that large institutional investors (mutual funds, hedge funds) are actively buying, not just retail traders. When a price breakout is accompanied by a volume surge, the move is considered more reliable and sustainable than one on thin volume.",
-    "explanation_zh": "成交量激增是指某支股票的當日交易量遠高於近期平均水平——本策略定義為超過20日平均量的1.5倍。這是一個關鍵技術訊號，因為在股價上漲日出現異常放量，往往代表大型機構投資者（如共同基金、對沖基金）正在積極建倉，而非僅由散戶推動。當價格突破伴隨成交量激增時，該突破被認為更具可信度與持續性，而非曇花一現的虛假走勢。"
+    "term": "Window Dressing",
+    "explanation_en": "Window dressing happens at the end of each quarter when fund managers buy stocks that have performed well recently — even if they didn't hold them all quarter — so their reported portfolio looks full of winners. This creates artificial buying pressure that can push already-strong stocks even higher right before quarter-end. Savvy investors watch for this pattern because it can amplify momentum signals like the ones seen in today's top candidates.",
+    "explanation_zh": "「窗口裝飾」是指每季末基金經理買入近期表現亮眼的股票——即使整個季度並未持有——目的是讓披露的持倉看起來盈利豐厚。這種行為會在季末前製造人為的買盤壓力，令原本已強勢的股票進一步上漲。精明的投資者會留意這一規律，因為它往往會放大技術動能指標的信號，正如今日頂尖候選股所呈現的態勢。"
   },
   "market_education": {
-    "summary_en": "U.S. equities rallied on the final trading day of Q2 2026, with the NASDAQ leading at +1.5% and the S&P 500 gaining +0.8%, driven by end-of-quarter window dressing as institutional fund managers rebalance portfolios and boost holdings in outperforming names before quarter-end reporting. Tech and semiconductor names led the advance as AI-related spending expectations remained elevated. The broad risk-on tone reflected continued confidence in the economic soft-landing narrative, with no major macro surprises to disrupt sentiment.",
-    "summary_zh": "美股在2026年第二季度最後一個交易日全面上漲，那斯達克指數領漲1.5%，標普500指數上升0.8%。市場動能主要來自季末「窗口美化」操作——機構基金經理在季度末前積極調整持倉，拉抬績優股以美化報表。科技與半導體板塊領漲，反映市場對人工智能相關資本支出前景的持續樂觀預期。整體風險偏好偏強，市場對經濟「軟著陸」情境信心未減，宏觀層面亦未出現重大意外衝擊。",
+    "summary_en": "Markets rallied into quarter-end as institutional fund managers engaged in classic 'window dressing' — buying recent winners to improve the appearance of Q2 holdings before reporting deadlines. Tech and growth stocks led gains, pushing NASDAQ up 1.5%, as portfolio managers chased performance ahead of the June 30 close. Broader risk appetite held firm with the S&P 500 adding 0.8%, reflecting continued optimism around AI infrastructure demand and resilient consumer spending.",
+    "summary_zh": "市場於季末上揚，機構投資者積極進行「窗口裝飾」操作——在第二季報告截止前買入近期強勢股，以美化季末持倉。科技及成長股領漲，帶動納斯達克指數上升1.5%。標普500指數同步上漲0.8%，反映市場對人工智能基礎建設需求及消費者支出韌性的持續樂觀情緒。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "BRUN",
       "conviction": "high",
-      "reasoning": "Top-scoring candidate (100) with all five signal confirmations — RSI in bullish zone, MACD crossover, rising histogram, price above SMA-20, and a volume surge indicating institutional participation; cash above $500 with 4 open slots on a risk-on day warrants deployment."
+      "reasoning": "Top-ranked candidate (score 100) with all four confirmation signals: MACD crossover, RSI in bullish zone (66.9), price above SMA-20, and a volume surge — exactly the multi-signal setup the strategy requires, and cash is above threshold with slots open on a risk-on day."
     }
   ],
   "outcomes": {
