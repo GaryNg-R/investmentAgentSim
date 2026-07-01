@@ -1,14 +1,14 @@
 {
   "date": "2026-07-01",
-  "briefing": "Markets posted a flat-to-slightly-negative session to open Q3, with NASDAQ -0.3% and S&P 500 unchanged — classic neutral, no directional conviction. Despite having $577 in cash and 4 open slots, the top candidates (RGC, OSCR) score high on RSI and MACD but lack the volume surge signal that would confirm institutional participation. Strategy playbook is clear: don't force buys on neutral days without all four confirmations — hold cash and wait for the next genuine risk-on setup.",
+  "briefing": "Markets were essentially flat today — NASDAQ slipped 0.4% and the S&P 500 was unchanged, marking the start of Q3 with no clear directional conviction. With only $577 in cash (barely above the $500 threshold) and a neutral tape, the strategy calls for holding rather than forcing a position on weak conditions. All six existing positions are held as-is; waiting for a risk-on signal before deploying the remaining cash.",
   "daily_lesson": {
-    "term": "Cash Discipline",
-    "explanation_en": "Cash discipline means resisting the urge to deploy capital just because you have it available. On neutral or directionless market days, holding cash preserves buying power for high-conviction setups — where all your entry signals align — rather than tying up funds in positions entered at suboptimal timing.",
-    "explanation_zh": "資金紀律是指抵制僅因手握現金便急於入市的衝動。在市場方向不明的日子保留現金，能為高確信度的入場機會保存彈藥——即所有入市訊號同步確認之時——避免在時機欠佳時建倉，白白消耗寶貴的子彈。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off describes a market environment where investors pull back from aggressive bets and prefer to hold cash or safe assets rather than buying into uncertainty. On flat or mildly negative days like today, deploying capital can feel tempting — but risk-off discipline means waiting for confirmation that buyers are in control before entering new positions. Preserving cash on neutral days keeps you ready to act decisively when a genuine risk-on signal appears.",
+    "explanation_zh": "「Risk-Off（避險情緒）」指投資者在不確定的市場環境下傾向減少風險敞口、持有現金或安全資產。在像今天這樣的橫盤或輕微下跌日，雖然入市的衝動難免，但避險紀律要求我們等待買盤主導的確認訊號，而非倉促進場。在中性日保留現金，才能在真正的風險偏好行情出現時果斷出擊。"
   },
   "market_education": {
-    "summary_en": "Today marked the first trading session of Q3 2026, with markets treading water as investors repositioned after a strong June. The NASDAQ's mild dip reflected light profit-taking in tech following recent momentum, while the broader S&P 500 held flat on balanced buying and selling. With no major economic releases today, volume was subdued and price action lacked the conviction needed for new entries.",
-    "summary_zh": "今日為2026年第三季首個交易日，市場在經歷強勁六月後進入觀望整固階段。納斯達克指數小幅下跌，反映科技股近期升勢後出現溫和獲利回吐，而標普500指數則在買賣力量平衡下維持平盤。由於今日無重大經濟數據公布，成交量偏低，價格走勢欠缺方向性，不具備新倉入市的條件。",
+    "summary_en": "July 1 marked the first trading day of Q3 2026, and markets opened the new quarter with a cautious tone as investors reassessed positioning after a strong June rally. Technology stocks dipped slightly as the NASDAQ fell 0.4%, suggesting some profit-taking after recent gains, while the broader S&P 500 held flat as defensive sectors offset tech weakness. Quarter-start days often see portfolio rebalancing flows that can distort intraday moves, making it difficult to read genuine directional intent — a key reason to stay patient rather than chase entries.",
+    "summary_zh": "2026年7月1日為第三季首個交易日，市場在強勁的六月升勢後進入觀望整固。納指微跌0.4%，科技股出現輕微獲利回吐，而標普500指數則因防禦性板塊支撐而收平。季初的投資組合再平衡流量往往會扭曲盤中走勢，令市場方向難以判斷，故此保持耐性、靜待明確入市訊號，方為穩健之策。",
     "sources": []
   },
   "trades": [],
