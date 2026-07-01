@@ -1,24 +1,17 @@
 {
   "date": "2026-07-01",
-  "briefing": "Market is neutral today — S&P barely positive, NASDAQ slightly red — not the risk-on signal that would justify aggressive deployment. However, RGC is the one exception: it clears all four confirmation criteria including a volume surge, which is the highest-quality setup in the screener. With $577 in cash and four open slots, deploying into RGC at medium conviction is justified by the quality of the signal even on a flat tape. The remaining overbought candidates (most of the list has RSI above 70) are not worth chasing in neutral conditions.",
+  "briefing": "Today is a neutral day with NASDAQ -0.3% and S&P 500 barely positive at +0.1% — not the risk-on signal needed to deploy capital. Cash sits at $577.14, only modestly above the $500 threshold. Strategy memory is explicit: hold through neutral days and wait for a genuine risk-on setup (NASDAQ +2%+) before filling open slots. RGC is the lone score-100 candidate with all four confirmation signals and is the top priority for the next risk-on day.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Signal confirmation means requiring multiple independent technical indicators to agree before entering a trade. A single bullish signal can be a false alarm, but when RSI is in the bullish zone, MACD crosses above its signal line, price is above its 20-day average, AND volume surges all at once, it suggests real institutional buying rather than random noise. RGC today is the only candidate hitting all four — that's what separates a high-quality setup from the dozens of merely overbought stocks on the list.",
-    "explanation_zh": "訊號確認是指在進場前，要求多個獨立技術指標同時發出一致的看漲信號。單一指標出現買入信號有時只是假突破，但若RSI處於看漲區間、MACD向上穿越訊號線、股價高於20日均線，且成交量同步放大——四項條件同時成立，代表有實質機構資金介入，而非隨機雜訊。今日RGC是唯一同時滿足四項條件的個股，這正是其有別於清單上其他大量超買股票的關鍵所在。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash or liquid assets held in reserve, ready to be deployed when the right opportunity arises. Keeping dry powder is a deliberate strategy — by not forcing trades on low-conviction days, an investor preserves the ability to buy aggressively when high-conviction setups appear. Today's decision to hold $577 in cash rather than buy on a flat market is a textbook example of maintaining dry powder.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指持有備用現金或流動資產，以便在合適機會出現時迅速部署。保留乾火藥是一種主動策略——在低確信度的日子不強行入市，投資者就能在高確信度的買入機會出現時全力出擊。今天選擇持有577美元現金而非在平淡市況中買入，正是保留乾火藥的典型體現。"
   },
   "market_education": {
-    "summary_en": "Markets were mixed to open Q3 2026, with the S&P 500 managing a slim +0.2% gain while the NASDAQ slipped -0.2%, reflecting a cautious rotation between growth and value at the start of the new quarter. The divergence is consistent with investors trimming extended momentum names — nearly the entire screener shows RSI above 70 — while reallocating into more defensive positions. With no major macro catalyst, trading volumes were subdued and breadth narrow, a classic hallmark of an indecisive session.",
-    "summary_zh": "美股2026年第三季首個交易日走勢分歧，標普500勉強收升0.2%，納斯達克則小幅下跌0.2%，反映投資者在季初謹慎地從成長股轉向價值股。這種背離走勢與市場對延伸動能股的獲利了結一致——本日篩選清單中幾乎所有個股的RSI均超過70——資金正重新流向防守性配置。在缺乏重大宏觀催化劑的情況下，成交量清淡、市場廣度收窄，是典型的方向不明盤面特徵。",
+    "summary_en": "U.S. equities split on July 1 as tech-heavy NASDAQ slipped 0.3% while the broader S&P 500 managed a thin 0.1% gain, a pattern suggesting mild rotation out of growth names into defensive or value sectors. Quarter-end rebalancing flows often create this divergence as institutional investors trim high-momentum winners and rotate proceeds into laggards. Without a clear catalyst — no major Fed commentary or macro surprise — the session was largely directionless, consistent with post-quarter positioning noise rather than a meaningful trend shift.",
+    "summary_zh": "美股於7月1日出現分歧走勢，以科技股為主的納斯達克指數下跌0.3%，而標普500指數僅微升0.1%，顯示市場存在輕微從成長股輪動至防禦或價值股的跡象。季末再平衡資金流往往造成這種背離，機構投資者通常會修剪強勢股並將資金轉入表現落後的板塊。由於缺乏明確催化劑——聯儲局未有重大發言，亦無宏觀數據衝擊——整體市場方向不明，符合季末倉位調整的特性，而非趨勢性轉變。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "RGC",
-      "conviction": "medium",
-      "reasoning": "Score 100 with all four confirmation signals — MACD crossover, RSI in bullish zone (62), price above SMA-20, and volume surge — the only candidate meeting all four criteria indicating genuine institutional participation; deploying remaining cash above the $500 threshold."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13255.735246181488,
     "cash": 577.1352210044861,
