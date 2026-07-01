@@ -1,14 +1,14 @@
 {
   "date": "2026-07-01",
-  "briefing": "Markets were essentially flat today — NASDAQ slipped 0.4% and the S&P 500 was unchanged, marking the start of Q3 with no clear directional conviction. With only $577 in cash (barely above the $500 threshold) and a neutral tape, the strategy calls for holding rather than forcing a position on weak conditions. All six existing positions are held as-is; waiting for a risk-on signal before deploying the remaining cash.",
+  "briefing": "Markets are neutral-to-slightly-down today with NASDAQ -0.7% and S&P500 -0.2%, giving no risk-on signal to justify deploying the remaining $577 in cash. Per the established cadence — save dry powder through neutral days, deploy on the first genuine risk-on session — holding is the correct call. All six existing positions remain above their stop-loss levels and are held.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off describes a market environment where investors pull back from aggressive bets and prefer to hold cash or safe assets rather than buying into uncertainty. On flat or mildly negative days like today, deploying capital can feel tempting — but risk-off discipline means waiting for confirmation that buyers are in control before entering new positions. Preserving cash on neutral days keeps you ready to act decisively when a genuine risk-on signal appears.",
-    "explanation_zh": "「Risk-Off（避險情緒）」指投資者在不確定的市場環境下傾向減少風險敞口、持有現金或安全資產。在像今天這樣的橫盤或輕微下跌日，雖然入市的衝動難免，但避險紀律要求我們等待買盤主導的確認訊號，而非倉促進場。在中性日保留現金，才能在真正的風險偏好行情出現時果斷出擊。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash or liquid assets held in reserve, ready to be deployed when the right opportunity arises. Investors deliberately keep some cash on the sidelines during uncertain or neutral market days so they can act decisively when a strong signal appears — like a NASDAQ +2% risk-on session. Spending all your cash on a flat day means missing the better entry just around the corner.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者保留在手的現金或高流動性資產，等待最佳時機再行出擊。在市場方向不明朗的中性日子，刻意保留部分現金，一旦出現明確的風險偏好訊號——例如納指單日上漲逾2%——便能快速果斷部署資金。若在行情平淡時倉促入市，往往錯失隨後更佳的建倉機會。"
   },
   "market_education": {
-    "summary_en": "July 1 marked the first trading day of Q3 2026, and markets opened the new quarter with a cautious tone as investors reassessed positioning after a strong June rally. Technology stocks dipped slightly as the NASDAQ fell 0.4%, suggesting some profit-taking after recent gains, while the broader S&P 500 held flat as defensive sectors offset tech weakness. Quarter-start days often see portfolio rebalancing flows that can distort intraday moves, making it difficult to read genuine directional intent — a key reason to stay patient rather than chase entries.",
-    "summary_zh": "2026年7月1日為第三季首個交易日，市場在強勁的六月升勢後進入觀望整固。納指微跌0.4%，科技股出現輕微獲利回吐，而標普500指數則因防禦性板塊支撐而收平。季初的投資組合再平衡流量往往會扭曲盤中走勢，令市場方向難以判斷，故此保持耐性、靜待明確入市訊號，方為穩健之策。",
+    "summary_en": "Stocks drifted lower to start Q3 2026 as investors rotated cautiously after a strong June rally, with the NASDAQ underperforming amid profit-taking in momentum names. Quarter-end window-dressing flows from the prior session reversed, leaving no clear catalyst to sustain buying. The mild selloff reflects position consolidation rather than a fundamental shift, with market participants waiting for upcoming economic data to set direction.",
+    "summary_zh": "踏入2026年第三季首個交易日，市場在六月強勁上漲後出現審慎輪動，投資者趁機對強勢股獲利回吐，科技為主的納指表現相對落後。季末「窗飾效應」帶來的資金流入已於前一交易日消退，市場缺乏明確催化劑支撐買盤。整體而言，此次溫和回調屬技術性整固，投資者正靜待新一批經濟數據以確認後市方向。",
     "sources": []
   },
   "trades": [],
