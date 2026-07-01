@@ -1,14 +1,14 @@
 {
   "date": "2026-07-01",
-  "briefing": "Today is a neutral day with NASDAQ -0.3% and S&P 500 barely positive at +0.1% — not the risk-on signal needed to deploy capital. Cash sits at $577.14, only modestly above the $500 threshold. Strategy memory is explicit: hold through neutral days and wait for a genuine risk-on setup (NASDAQ +2%+) before filling open slots. RGC is the lone score-100 candidate with all four confirmation signals and is the top priority for the next risk-on day.",
+  "briefing": "Markets posted a flat-to-slightly-negative session to open Q3, with NASDAQ -0.3% and S&P 500 unchanged — classic neutral, no directional conviction. Despite having $577 in cash and 4 open slots, the top candidates (RGC, OSCR) score high on RSI and MACD but lack the volume surge signal that would confirm institutional participation. Strategy playbook is clear: don't force buys on neutral days without all four confirmations — hold cash and wait for the next genuine risk-on setup.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash or liquid assets held in reserve, ready to be deployed when the right opportunity arises. Keeping dry powder is a deliberate strategy — by not forcing trades on low-conviction days, an investor preserves the ability to buy aggressively when high-conviction setups appear. Today's decision to hold $577 in cash rather than buy on a flat market is a textbook example of maintaining dry powder.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指持有備用現金或流動資產，以便在合適機會出現時迅速部署。保留乾火藥是一種主動策略——在低確信度的日子不強行入市，投資者就能在高確信度的買入機會出現時全力出擊。今天選擇持有577美元現金而非在平淡市況中買入，正是保留乾火藥的典型體現。"
+    "term": "Cash Discipline",
+    "explanation_en": "Cash discipline means resisting the urge to deploy capital just because you have it available. On neutral or directionless market days, holding cash preserves buying power for high-conviction setups — where all your entry signals align — rather than tying up funds in positions entered at suboptimal timing.",
+    "explanation_zh": "資金紀律是指抵制僅因手握現金便急於入市的衝動。在市場方向不明的日子保留現金，能為高確信度的入場機會保存彈藥——即所有入市訊號同步確認之時——避免在時機欠佳時建倉，白白消耗寶貴的子彈。"
   },
   "market_education": {
-    "summary_en": "U.S. equities split on July 1 as tech-heavy NASDAQ slipped 0.3% while the broader S&P 500 managed a thin 0.1% gain, a pattern suggesting mild rotation out of growth names into defensive or value sectors. Quarter-end rebalancing flows often create this divergence as institutional investors trim high-momentum winners and rotate proceeds into laggards. Without a clear catalyst — no major Fed commentary or macro surprise — the session was largely directionless, consistent with post-quarter positioning noise rather than a meaningful trend shift.",
-    "summary_zh": "美股於7月1日出現分歧走勢，以科技股為主的納斯達克指數下跌0.3%，而標普500指數僅微升0.1%，顯示市場存在輕微從成長股輪動至防禦或價值股的跡象。季末再平衡資金流往往造成這種背離，機構投資者通常會修剪強勢股並將資金轉入表現落後的板塊。由於缺乏明確催化劑——聯儲局未有重大發言，亦無宏觀數據衝擊——整體市場方向不明，符合季末倉位調整的特性，而非趨勢性轉變。",
+    "summary_en": "Today marked the first trading session of Q3 2026, with markets treading water as investors repositioned after a strong June. The NASDAQ's mild dip reflected light profit-taking in tech following recent momentum, while the broader S&P 500 held flat on balanced buying and selling. With no major economic releases today, volume was subdued and price action lacked the conviction needed for new entries.",
+    "summary_zh": "今日為2026年第三季首個交易日，市場在經歷強勁六月後進入觀望整固階段。納斯達克指數小幅下跌，反映科技股近期升勢後出現溫和獲利回吐，而標普500指數則在買賣力量平衡下維持平盤。由於今日無重大經濟數據公布，成交量偏低，價格走勢欠缺方向性，不具備新倉入市的條件。",
     "sources": []
   },
   "trades": [],
