@@ -1,14 +1,14 @@
 {
   "date": "2026-07-01",
-  "briefing": "Markets pulled back mildly today with NASDAQ -0.5% and S&P 500 -0.2%, a classic neutral session at the open of Q3. Strategy memory is explicit: do not deploy cash on neutral days just to fill slots. With $577 available and 4 open positions, the right call is to hold dry powder and wait for a genuine risk-on day — ideally NASDAQ up 2% or more — before pulling the trigger on the top-scored candidates like FIG, TALO, ALSN, or NKE. Existing positions continue to run; no stop-loss or profit-target levels were breached today.",
+  "briefing": "Neutral session with NASDAQ -0.4% and S&P 500 flat — not the risk-on signal needed to justify new entries. Despite 4 open slots and $577 in cash above the $500 threshold, the playbook is clear: don't force buys on neutral days, hold dry powder, and wait for a genuine NASDAQ +2% or stronger setup. RGC stands out as the top candidate with all four conviction signals (RSI 56.6, MACD crossover, above SMA-20, volume surge), but it will keep until conditions improve.",
   "daily_lesson": {
-    "term": "Quarter-End Rebalancing",
-    "explanation_en": "At the end of every quarter, large institutional investors like pension funds and mutual funds rebalance their portfolios — selling assets that have grown too large and buying those that have shrunk. This mechanical selling often causes mild dips on the first day of a new quarter even when the underlying economy is fine. Recognizing this pattern helps you avoid mistaking routine rebalancing for a genuine market downturn.",
-    "explanation_zh": "每個季末，退休基金、共同基金等大型機構投資者會進行投資組合再平衡——賣出比重過高的資產，補入比重不足的部分。這種機械性的賣盤往往在新季首日造成溫和回落，即使基本面並無異狀。識別此規律，有助於避免將例行再平衡誤判為真正的市場下跌訊號。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder means keeping cash on hand so you can invest decisively when the right setup appears, rather than being fully deployed at all times. Today is a textbook example: we have 4 open slots and $577 in cash, but the market gave no risk-on signal — deploying on a neutral day risks buying into noise rather than genuine momentum. Patience with dry powder means when a NASDAQ +2% day arrives, we can act with conviction.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指刻意保留現金，以便在最佳入場時機果斷出手，而非隨時維持滿倉。今日是教科書式的例子：帳戶雖有4個空位且現金超過門檻，但市場未發出明確的風險偏好訊號——在中性日貿然入場，只是追逐短線噪音，而非真正的動能。耐心持有乾火藥，意味著當那斯達克漲幅達2%以上的強勢日到來時，我們能夠信心十足地出擊。"
   },
   "market_education": {
-    "summary_en": "U.S. equities opened Q3 2026 on a cautious note, with the S&P 500 slipping -0.2% and the Nasdaq dipping -0.5% as investors rotated defensively after a strong June. Quarter-end portfolio rebalancing — institutional funds trimming equity exposure to lock in H1 gains — is a recurring pattern on the first trading day of a new quarter. With no major macro catalyst today, the mild selling reflects profit-taking and positioning caution rather than a fundamental shift in trend.",
-    "summary_zh": "美股在2026年第三季首個交易日以謹慎姿態開局，標普500指數下跌0.2%，納斯達克跌0.5%，市場資金在強勢六月後轉向防守。季末再平衡效應明顯——機構基金普遍削減股票倉位，鎖定上半年收益，此乃新季初常見現象。由於今日缺乏重大宏觀催化劑，小幅調整反映的是獲利回吐與倉位觀望，而非市場趨勢的根本轉變。",
+    "summary_en": "Markets drifted sideways to start Q3 2026 as investors balanced end-of-quarter rebalancing against cautious positioning ahead of upcoming U.S. employment data. The NASDAQ slipped 0.4% on light profit-taking in technology shares following a strong June rally, while the S&P 500 held nearly flat as defensive sectors absorbed the tech weakness. With no major macro catalyst, volume stayed below average and traders broadly adopted a wait-and-see stance.",
+    "summary_zh": "2026年第三季首個交易日，市場窄幅橫行。投資者在季末再平衡操作與即將公布的美國就業數據之前普遍保持謹慎。那斯達克指數延續六月強勁反彈後的獲利回吐，小幅下滑0.4%，標普500指數則受防禦類股支撐，幾乎收平。市場缺乏明確催化劑，成交量低迷，投資者普遍觀望。",
     "sources": []
   },
   "trades": [],
