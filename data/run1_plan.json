@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-07-01T13:01:07.523902+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-07-01T14:01:09.738358+00:00",
+  "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "BRUN",
-        "conviction": "high",
-        "reasoning": "Highest score (100) with all four multi-signal confirmation criteria met: MACD crossover, RSI in bullish zone (66.9), price above SMA-20, and volume surge \u2014 exactly the institutional participation pattern the strategy requires on a risk-on day."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "A moderate risk-on session with NASDAQ +1.5% and S&P +0.8% \u2014 constructive but not the 'strong' +2% NASDAQ day; still enough signal to deploy the remaining $577 in cash. BRUN is the clear choice: it is the only score-100 candidate and the only one hitting all four confirmation signals including a volume surge, indicating genuine institutional buying rather than a random spike. All six existing positions (QQQ, EAT, OLED, WT, ROAD, INOD) are held \u2014 no reason to exit on a green day with stop-losses and profit targets already managing downside.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Markets pulled back mildly today with NASDAQ -0.5% and S&P 500 -0.2%, a classic neutral session at the open of Q3. Strategy memory is explicit: do not deploy cash on neutral days just to fill slots. With $577 available and 4 open positions, the right call is to hold dry powder and wait for a genuine risk-on day \u2014 ideally NASDAQ up 2% or more \u2014 before pulling the trigger on the top-scored candidates like FIG, TALO, ALSN, or NKE. Existing positions continue to run; no stop-loss or profit-target levels were breached today.",
     "market_education": {
-      "summary_en": "Equities opened the second half of 2026 on a positive note, with technology and growth sectors leading as investors rotated back into risk assets on the first trading day of Q3. The moderate gains reflect cautious optimism: markets are digesting a resilient economic backdrop while monitoring upcoming Fed commentary and Q2 earnings season, which kicks off in earnest this week. Breadth was healthy, with more advancers than decliners across major indices, suggesting broad participation rather than a narrow mega-cap rally.",
-      "summary_zh": "\u80a1\u5e02\u4ee5\u6b63\u9762\u59ff\u614b\u8fce\u63a52026\u5e74\u4e0b\u534a\u5e74\u958b\u5c40\uff0c\u79d1\u6280\u8207\u6210\u9577\u80a1\u677f\u584a\u9818\u6f32\uff0c\u6295\u8cc7\u8005\u65bcQ3\u9996\u500b\u4ea4\u6613\u65e5\u91cd\u8fd4\u98a8\u96aa\u8cc7\u7522\u3002\u6eab\u548c\u6f32\u5e45\u53cd\u6620\u5e02\u5834\u8b39\u614e\u6a02\u89c0\uff1a\u5728\u6d88\u5316\u97cc\u6027\u7d93\u6fdf\u6578\u64da\u7684\u540c\u6642\uff0c\u6295\u8cc7\u4eba\u5bc6\u5207\u95dc\u6ce8\u672c\u9031\u5373\u5c07\u63ed\u5e55\u7684Q2\u8ca1\u5831\u5b63\u53ca\u806f\u6e96\u6703\u5b98\u54e1\u7684\u6700\u65b0\u8b1b\u8a71\u3002\u5927\u76e4\u6f32\u8dcc\u6bd4\u826f\u597d\uff0c\u986f\u793a\u6b64\u6b21\u4e0a\u6f32\u5c6c\u5ee3\u6cdb\u6027\u8f2a\u52d5\uff0c\u800c\u975e\u5c11\u6578\u5de8\u578b\u80a1\u5e36\u52d5\u7684\u5c40\u90e8\u884c\u60c5\u3002",
+      "summary_en": "U.S. equities opened Q3 2026 on a cautious note, with the S&P 500 slipping -0.2% and the Nasdaq dipping -0.5% as investors rotated defensively after a strong June. Quarter-end portfolio rebalancing \u2014 institutional funds trimming equity exposure to lock in H1 gains \u2014 is a recurring pattern on the first trading day of a new quarter. With no major macro catalyst today, the mild selling reflects profit-taking and positioning caution rather than a fundamental shift in trend.",
+      "summary_zh": "\u7f8e\u80a1\u57282026\u5e74\u7b2c\u4e09\u5b63\u9996\u500b\u4ea4\u6613\u65e5\u4ee5\u8b39\u614e\u59ff\u614b\u958b\u5c40\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.2%\uff0c\u7d0d\u65af\u9054\u514b\u8dcc0.5%\uff0c\u5e02\u5834\u8cc7\u91d1\u5728\u5f37\u52e2\u516d\u6708\u5f8c\u8f49\u5411\u9632\u5b88\u3002\u5b63\u672b\u518d\u5e73\u8861\u6548\u61c9\u660e\u986f\u2014\u2014\u6a5f\u69cb\u57fa\u91d1\u666e\u904d\u524a\u6e1b\u80a1\u7968\u5009\u4f4d\uff0c\u9396\u5b9a\u4e0a\u534a\u5e74\u6536\u76ca\uff0c\u6b64\u4e43\u65b0\u5b63\u521d\u5e38\u898b\u73fe\u8c61\u3002\u7531\u65bc\u4eca\u65e5\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u5c0f\u5e45\u8abf\u6574\u53cd\u6620\u7684\u662f\u7372\u5229\u56de\u5410\u8207\u5009\u4f4d\u89c0\u671b\uff0c\u800c\u975e\u5e02\u5834\u8da8\u52e2\u7684\u6839\u672c\u8f49\u8b8a\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Surge",
-      "explanation_en": "A volume surge occurs when a stock's trading volume significantly exceeds its recent average \u2014 often 1.5x or more \u2014 signaling that large institutional investors (funds, banks) are actively buying or selling. When a volume surge accompanies a price breakout and bullish technical signals like a MACD crossover, it is one of the strongest confirmations that a move has real conviction behind it, not just retail noise.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u6fc0\u589e\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u4ea4\u6613\u91cf\u986f\u8457\u8d85\u904e\u8fd1\u671f\u5747\u503c\uff08\u901a\u5e38\u90541.5\u500d\u4ee5\u4e0a\uff09\uff0c\u9019\u5f80\u5f80\u610f\u5473\u8457\u5927\u578b\u6a5f\u69cb\u6295\u8cc7\u8005\uff08\u5982\u57fa\u91d1\u3001\u9280\u884c\uff09\u6b63\u7a4d\u6975\u9032\u51fa\u3002\u7576\u6210\u4ea4\u91cf\u6fc0\u589e\u4f34\u96a8\u50f9\u683c\u7a81\u7834\u53caMACD\u9ec3\u91d1\u4ea4\u53c9\u7b49\u591a\u91cd\u6280\u8853\u4fe1\u865f\u51fa\u73fe\u6642\uff0c\u9019\u662f\u5e02\u5834\u300c\u771f\u5be6\u4fe1\u5fc3\u300d\u7684\u6700\u5f37\u78ba\u8a8d\u4e4b\u4e00\uff0c\u800c\u975e\u6563\u6236\u60c5\u7dd2\u7684\u77ed\u66ab\u6ce2\u52d5\u3002"
+      "term": "Quarter-End Rebalancing",
+      "explanation_en": "At the end of every quarter, large institutional investors like pension funds and mutual funds rebalance their portfolios \u2014 selling assets that have grown too large and buying those that have shrunk. This mechanical selling often causes mild dips on the first day of a new quarter even when the underlying economy is fine. Recognizing this pattern helps you avoid mistaking routine rebalancing for a genuine market downturn.",
+      "explanation_zh": "\u6bcf\u500b\u5b63\u672b\uff0c\u9000\u4f11\u57fa\u91d1\u3001\u5171\u540c\u57fa\u91d1\u7b49\u5927\u578b\u6a5f\u69cb\u6295\u8cc7\u8005\u6703\u9032\u884c\u6295\u8cc7\u7d44\u5408\u518d\u5e73\u8861\u2014\u2014\u8ce3\u51fa\u6bd4\u91cd\u904e\u9ad8\u7684\u8cc7\u7522\uff0c\u88dc\u5165\u6bd4\u91cd\u4e0d\u8db3\u7684\u90e8\u5206\u3002\u9019\u7a2e\u6a5f\u68b0\u6027\u7684\u8ce3\u76e4\u5f80\u5f80\u5728\u65b0\u5b63\u9996\u65e5\u9020\u6210\u6eab\u548c\u56de\u843d\uff0c\u5373\u4f7f\u57fa\u672c\u9762\u4e26\u7121\u7570\u72c0\u3002\u8b58\u5225\u6b64\u898f\u5f8b\uff0c\u6709\u52a9\u65bc\u907f\u514d\u5c07\u4f8b\u884c\u518d\u5e73\u8861\u8aa4\u5224\u70ba\u771f\u6b63\u7684\u5e02\u5834\u4e0b\u8dcc\u8a0a\u865f\u3002"
     }
   }
 }
