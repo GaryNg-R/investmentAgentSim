@@ -1,14 +1,14 @@
 {
   "date": "2026-07-01",
-  "briefing": "Markets are neutral-to-slightly-down today with NASDAQ -0.7% and S&P500 -0.2%, giving no risk-on signal to justify deploying the remaining $577 in cash. Per the established cadence — save dry powder through neutral days, deploy on the first genuine risk-on session — holding is the correct call. All six existing positions remain above their stop-loss levels and are held.",
+  "briefing": "NASDAQ fell 0.7% and S&P 500 slipped 0.2%, confirming a neutral-to-weak day. Per established strategy, neutral days are hold days — cash of $577.14 sits just above the $500 threshold but deploying into new positions without a risk-on signal would be forcing trades. Existing six positions remain intact; stop-losses and profit targets continue working automatically.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash or liquid assets held in reserve, ready to be deployed when the right opportunity arises. Investors deliberately keep some cash on the sidelines during uncertain or neutral market days so they can act decisively when a strong signal appears — like a NASDAQ +2% risk-on session. Spending all your cash on a flat day means missing the better entry just around the corner.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者保留在手的現金或高流動性資產，等待最佳時機再行出擊。在市場方向不明朗的中性日子，刻意保留部分現金，一旦出現明確的風險偏好訊號——例如納指單日上漲逾2%——便能快速果斷部署資金。若在行情平淡時倉促入市，往往錯失隨後更佳的建倉機會。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off describes a market mood where investors pull back from higher-risk assets like growth stocks and move toward safety. On days like today — where major indices dip and momentum is absent — disciplined investors conserve cash rather than chase positions, waiting for a confirmed risk-on signal before deploying capital.",
+    "explanation_zh": "「Risk-Off（避險情緒）」是指市場參與者傾向從高風險資產（如成長股）撤退，轉向較安全資產的市場氛圍。在類似今日這種指數小幅下跌、動能缺失的環境下，紀律嚴明的投資者會保留現金而非追高建倉，等待明確的「Risk-On（風險偏好回升）」訊號後再行部署資金。"
   },
   "market_education": {
-    "summary_en": "Stocks drifted lower to start Q3 2026 as investors rotated cautiously after a strong June rally, with the NASDAQ underperforming amid profit-taking in momentum names. Quarter-end window-dressing flows from the prior session reversed, leaving no clear catalyst to sustain buying. The mild selloff reflects position consolidation rather than a fundamental shift, with market participants waiting for upcoming economic data to set direction.",
-    "summary_zh": "踏入2026年第三季首個交易日，市場在六月強勁上漲後出現審慎輪動，投資者趁機對強勢股獲利回吐，科技為主的納指表現相對落後。季末「窗飾效應」帶來的資金流入已於前一交易日消退，市場缺乏明確催化劑支撐買盤。整體而言，此次溫和回調屬技術性整固，投資者正靜待新一批經濟數據以確認後市方向。",
+    "summary_en": "U.S. equities drifted lower on July 1 as investors paused after a strong June rally, with profit-taking weighing on tech names and the NASDAQ underperforming the broader index. Thin holiday-week volume amplified small moves, leaving the S&P 500 roughly flat while growth stocks gave back modest gains. Markets appeared to be in a consolidation phase, with traders awaiting fresh catalysts — including upcoming jobs data and Fed commentary — before extending exposure.",
+    "summary_zh": "7月1日美股整體走低，NASDAQ下跌0.7%，標普500小跌0.2%，市場在6月強勢反彈後出現獲利回吐。假期週前後交投清淡，成交量偏低令個別波動被放大，科技股受壓相對明顯。市場進入盤整格局，投資者靜候非農就業數據及聯儲局官員言論等新催化劑，暫不急於加碼。",
     "sources": []
   },
   "trades": [],
