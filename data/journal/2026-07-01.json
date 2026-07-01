@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-01",
+  "briefing": "A moderate risk-on session with NASDAQ +1.5% and S&P +0.8% — constructive but not the 'strong' +2% NASDAQ day; still enough signal to deploy the remaining $577 in cash. BRUN is the clear choice: it is the only score-100 candidate and the only one hitting all four confirmation signals including a volume surge, indicating genuine institutional buying rather than a random spike. All six existing positions (QQQ, EAT, OLED, WT, ROAD, INOD) are held — no reason to exit on a green day with stop-losses and profit targets already managing downside.",
+  "daily_lesson": {
+    "term": "Volume Surge",
+    "explanation_en": "A volume surge occurs when a stock's trading volume significantly exceeds its recent average — often 1.5x or more — signaling that large institutional investors (funds, banks) are actively buying or selling. When a volume surge accompanies a price breakout and bullish technical signals like a MACD crossover, it is one of the strongest confirmations that a move has real conviction behind it, not just retail noise.",
+    "explanation_zh": "成交量激增是指某支股票的交易量顯著超過近期均值（通常達1.5倍以上），這往往意味著大型機構投資者（如基金、銀行）正積極進出。當成交量激增伴隨價格突破及MACD黃金交叉等多重技術信號出現時，這是市場「真實信心」的最強確認之一，而非散戶情緒的短暫波動。"
+  },
+  "market_education": {
+    "summary_en": "Equities opened the second half of 2026 on a positive note, with technology and growth sectors leading as investors rotated back into risk assets on the first trading day of Q3. The moderate gains reflect cautious optimism: markets are digesting a resilient economic backdrop while monitoring upcoming Fed commentary and Q2 earnings season, which kicks off in earnest this week. Breadth was healthy, with more advancers than decliners across major indices, suggesting broad participation rather than a narrow mega-cap rally.",
+    "summary_zh": "股市以正面姿態迎接2026年下半年開局，科技與成長股板塊領漲，投資者於Q3首個交易日重返風險資產。溫和漲幅反映市場謹慎樂觀：在消化韌性經濟數據的同時，投資人密切關注本週即將揭幕的Q2財報季及聯準會官員的最新講話。大盤漲跌比良好，顯示此次上漲屬廣泛性輪動，而非少數巨型股帶動的局部行情。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "BRUN",
+      "conviction": "high",
+      "reasoning": "Highest score (100) with all four multi-signal confirmation criteria met: MACD crossover, RSI in bullish zone (66.9), price above SMA-20, and volume surge — exactly the institutional participation pattern the strategy requires on a risk-on day."
+    }
+  ],
+  "outcomes": {
+    "total_value": 13255.735246181488,
+    "cash": 577.1352210044861,
+    "pnl_dollar": 3255.735246181488,
+    "pnl_pct": 32.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
