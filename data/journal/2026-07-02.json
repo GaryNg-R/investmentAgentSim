@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-02",
+  "briefing": "Markets drifted lower on light pre-holiday volume with NASDAQ -0.7% and S&P 500 -0.2%, a typical pattern heading into the July 4th weekend. Despite the neutral backdrop, GIS earns a perfect score of 100 with all four required confirmation signals including a volume surge, suggesting institutional buying that is independent of broader market softness. Deploying cash above the $500 threshold into this defensive consumer staples name while holding all six existing positions steady through this low-conviction session.",
+  "daily_lesson": {
+    "term": "Volume Surge",
+    "explanation_en": "A volume surge occurs when a stock trades at significantly higher volume than its recent average — typically 1.5x or more — indicating that large institutional investors are actively buying or selling. When a volume surge accompanies a bullish price move above technical levels like the SMA-20, it signals conviction behind the move rather than a random fluctuation. Today GIS showed a volume surge alongside all four bullish signals, making it the standout buy candidate even on an otherwise neutral market day.",
+    "explanation_zh": "成交量激增是指某支股票的成交量遠高於近期均值（通常超過1.5倍），意味著大型機構投資者正在積極買入或賣出。當成交量激增伴隨股價突破SMA-20等技術關鍵位時，說明這次上漲有實質資金支撐，而非隨機波動。今日GIS在成交量激增的同時，四項看多技術指標全數亮燈，即使整體市場表現偏中性，仍是最值得出手的買入標的。"
+  },
+  "market_education": {
+    "summary_en": "U.S. equities slipped modestly Thursday as traders lightened positions ahead of the Independence Day holiday weekend, with the NASDAQ falling 0.7% and the S&P 500 off 0.2%. Pre-holiday sessions typically see reduced institutional participation and thinner volume, making price moves less meaningful than on full trading days. Ongoing caution about the Fed's rate path also weighed on sentiment, as investors await fresh inflation data before the next FOMC meeting.",
+    "summary_zh": "美股週四小幅收低，投資者在獨立日長假前獲利了結、縮減部位，納斯達克指數跌0.7%，標普500指數跌0.2%。假期前交投清淡，機構參與度下降，價格波動的參考意義相對有限。市場情緒同時受聯儲局利率走向不確定性壓制，投資者靜待下一份通脹數據，以評估下次議息會議的政策走向。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "GIS",
+      "conviction": "medium",
+      "reasoning": "Score 100 with all four confirmation signals — MACD crossover, RSI 65.4 in bullish zone, price above SMA-20, and volume surge — indicating institutional accumulation; consumer staples is also a defensive sector appropriate for a slight risk-off day."
+    }
+  ],
+  "outcomes": {
+    "total_value": 13255.735246181488,
+    "cash": 577.1352210044861,
+    "pnl_dollar": 3255.735246181488,
+    "pnl_pct": 32.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
