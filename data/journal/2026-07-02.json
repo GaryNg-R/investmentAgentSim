@@ -1,14 +1,14 @@
 {
   "date": "2026-07-02",
-  "briefing": "NASDAQ fell 0.7% and S&P 500 slipped 0.1%, confirming a neutral-to-slightly-risk-off session. With $577 in cash and 4 open slots, the temptation to deploy exists — but strategy memory is clear: neutral days are hold days, not force-buy days. Waiting for a genuine risk-on signal (NASDAQ +2% or more) before adding new positions. All six existing positions remain within profit targets and above stop-losses, so no exits warranted.",
+  "briefing": "Markets are risk-off today with NASDAQ down 1.3% and S&P 500 down 0.5%, and the screener returned no candidates — this is a clear hold day. All six existing positions remain intact; stop-losses and profit targets will handle any automatic exits. Cash sits at $577 ready to deploy when risk-on conditions return.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "Risk-off is a market environment where investors reduce exposure to volatile or speculative assets — like growth stocks — and move toward safer holdings like cash, bonds, or defensive equities. It often precedes holidays, Fed announcements, or periods of uncertainty. Recognizing a risk-off day and choosing to hold cash rather than buy is a form of capital preservation.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指投資者減少持有波動性較高資產（如成長股）、轉向現金、債券或防禦性股票的市場氛圍。這種情緒常見於假期前夕、美聯儲公告前，或市場不確定性升溫時。辨別風險規避環境並選擇持有現金，而非勉強進場，正是保護本金的重要能力。"
+    "explanation_en": "A 'risk-off' day is when investors collectively move away from higher-risk assets like growth stocks and toward safer ones like bonds or cash. It often shows up as tech stocks falling more than the broader market, as seen today with NASDAQ dropping twice as much as the S&P 500. In risk-off conditions, the right move is usually to hold steady rather than open new positions — wait for the mood to shift back before buying.",
+    "explanation_zh": "「風險規避」（Risk-Off）是指投資者集體撤出高風險資產（如成長股），轉向債券或現金等避險資產的市場狀態。今日可見典型特徵：納斯達克跌幅是標普500的兩倍，科技股首當其衝。在此環境下，正確操作是按兵不動，持守現有倉位，待市場情緒回穩出現風險偏好訊號後，再考慮新建倉位。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted lower Wednesday ahead of the July 4th holiday, with the NASDAQ underperforming as light volume and pre-holiday positioning weighed on growth stocks. Tech names led the pullback, reflecting typical holiday-week risk reduction as institutional desks cut exposure before a long weekend. The S&P 500 held up better, suggesting defensive rotation rather than broad selling pressure.",
-    "summary_zh": "美國股市週三在七月四日假期前夕小幅下跌，成交量清淡，成長股承壓，那斯達克指數跌幅較大。科技股領跌，反映機構投資者在長週末前普遍降低風險敞口的傾向。標普500指數跌幅相對有限，顯示資金並非全面撤退，而是轉向防禦性資產。",
+    "summary_en": "U.S. equities retreated on July 2 in a broad risk-off session, with technology stocks leading the decline as the NASDAQ fell 1.3% and the S&P 500 slid 0.5%. Mid-year profit-taking is common ahead of the July 4th holiday weekend as institutional traders reduce exposure before thin-volume trading days. The sell-off reflects caution rather than a fundamental shift, with investors rotating toward safer assets while awaiting fresh catalysts.",
+    "summary_zh": "美國股市於7月2日全面下跌，科技股領跌，納斯達克指數下滑1.3%，標普500指數跌0.5%，呈現典型的風險規避走勢。臨近美國獨立日長假週末，機構投資者慣例於年中進行獲利回吐，壓低成交量較薄的交易日前之持倉。此次回調屬於技術性調整，並非基本面惡化，市場正等待新的催化因素以決定下一步方向。",
     "sources": []
   },
   "trades": [],
