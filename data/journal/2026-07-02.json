@@ -1,14 +1,14 @@
 {
   "date": "2026-07-02",
-  "briefing": "Market is risk-off today with NASDAQ down 1.1% and S&P 500 down 0.3%, and the screener returned no candidates. Following the established cadence of holding through low-conviction days and letting stop-losses and profit targets manage existing positions automatically — no action taken.",
+  "briefing": "Market is neutral today with NASDAQ off -0.8% and S&P 500 flat — not a risk-on setup. Despite holding $577 in cash with 4 open slots, the strategy playbook is clear: do not force buys near the $500 floor on neutral days; wait for a genuine risk-on signal before deploying. The top-scoring candidates (CAR, NKTR, AUGO) remain attractive and will be first in line when NASDAQ shows a proper bounce. All six existing positions are held — none are near stop-loss or profit targets.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly move away from riskier assets like tech stocks and toward safer ones like bonds or cash. It often shows up as the NASDAQ falling more than the S&P 500, since NASDAQ is packed with high-growth companies that investors are quickest to sell when uncertainty rises. On risk-off days, the smartest move is usually to hold existing positions and not add new ones.",
-    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者普遍撤離科技股等風險較高的資產，轉向債券或現金等避風港的市場狀態。這種情況通常表現為那斯達克跌幅大於標普500，因為那斯達克集中了大量高成長企業，市場不確定性升溫時這類股票往往最先遭到拋售。在避險日，最穩健的策略通常是持有現有部位，暫緩建立新倉。"
+    "term": "Pre-Holiday Drift",
+    "explanation_en": "Pre-holiday drift is the tendency for stock markets to lose direction and volume in the sessions just before a major holiday. With fewer institutional traders at their desks, price moves are smaller and less meaningful, momentum signals become noisy, and the risk of entering a position that reverses when full volume returns the following week is elevated.",
+    "explanation_zh": "「假期前漂移」是指股市在重大節假日前夕的交易日往往缺乏方向感且成交量萎縮的現象。由於機構投資者大量缺席，價格波動幅度偏小且參考意義有限，動量指標的噪音增加，若此時貿然建倉，假期後大量資金回流時出現反轉的風險也相對較高。"
   },
   "market_education": {
-    "summary_en": "Today's risk-off session saw the NASDAQ fall 1.1% while the broader S&P 500 shed 0.3%, reflecting a rotation out of growth and technology names. Risk-off moves of this magnitude typically signal that institutional investors are reducing exposure to higher-beta assets and moving toward defensives or cash. Without a clear catalyst to reverse the selling pressure, the prudent posture is to hold existing positions and wait for market conditions to stabilize before deploying fresh capital.",
-    "summary_zh": "今日市場呈現避險情緒，那斯達克指數下跌1.1%，標普500指數跌0.3%，顯示資金正從成長型及科技股撤出，轉向防禦性資產或現金。此類風險趨避走勢通常反映機構投資者正在降低高Beta值部位的風險敞口。在缺乏明確反彈催化劑的情況下，審慎策略是持有現有倉位，靜待市況趨穩後再部署新資金。",
+    "summary_en": "Markets drifted sideways on July 2 as investors lightened positioning ahead of the long Independence Day holiday weekend, with thin pre-holiday volume exaggerating small intraday moves. The NASDAQ slipped -0.8% on mild selling in rate-sensitive tech and growth names, while the broader S&P 500 held nearly flat, indicating sector rotation rather than a broad risk-off event. Pre-holiday sessions historically see compressed conviction and reduced institutional participation, making momentum signals less reliable for new entries.",
+    "summary_zh": "美股在7月2日呈現橫盤漂移格局，投資者趁國慶長假前夕主動降低倉位，清淡的成交量令盤中細微波動被放大。納斯達克指數下跌0.8%，對利率敏感的科技及成長股承受輕度拋壓，而標普500指數則幾近持平，反映板塊輪動而非全面避險情緒。歷史上，假期前交易日機構參與度偏低，動量信號的可靠性下降，並非追入新倉的理想時機。",
     "sources": []
   },
   "trades": [],
