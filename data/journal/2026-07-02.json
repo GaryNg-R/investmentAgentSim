@@ -1,22 +1,22 @@
 {
   "date": "2026-07-02",
-  "briefing": "Markets drifted lower on light pre-holiday volume with NASDAQ -0.7% and S&P 500 -0.2%, a typical pattern heading into the July 4th weekend. Despite the neutral backdrop, GIS earns a perfect score of 100 with all four required confirmation signals including a volume surge, suggesting institutional buying that is independent of broader market softness. Deploying cash above the $500 threshold into this defensive consumer staples name while holding all six existing positions steady through this low-conviction session.",
+  "briefing": "Market is risk-on at +0.7% across both NASDAQ and S&P 500 — not a blowout day, but clearly positive and sufficient to deploy the remaining $577 in cash. INFQ leads all candidates with a perfect 5/5 signal stack and the lowest RSI among perfect-scorers, giving the most room to run before hitting overbought territory. Existing positions are held — no stop-loss or profit-target signals warrant manual exits today.",
   "daily_lesson": {
-    "term": "Volume Surge",
-    "explanation_en": "A volume surge occurs when a stock trades at significantly higher volume than its recent average — typically 1.5x or more — indicating that large institutional investors are actively buying or selling. When a volume surge accompanies a bullish price move above technical levels like the SMA-20, it signals conviction behind the move rather than a random fluctuation. Today GIS showed a volume surge alongside all four bullish signals, making it the standout buy candidate even on an otherwise neutral market day.",
-    "explanation_zh": "成交量激增是指某支股票的成交量遠高於近期均值（通常超過1.5倍），意味著大型機構投資者正在積極買入或賣出。當成交量激增伴隨股價突破SMA-20等技術關鍵位時，說明這次上漲有實質資金支撐，而非隨機波動。今日GIS在成交量激增的同時，四項看多技術指標全數亮燈，即使整體市場表現偏中性，仍是最值得出手的買入標的。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means requiring several independent technical indicators to all agree before entering a trade — for example, MACD crossover, RSI in the bullish zone, price above the 20-day moving average, and a volume surge all firing together. Each signal alone can produce false positives, but when multiple signals align simultaneously it suggests real buying pressure rather than a random fluctuation. INFQ today hit all five criteria, which is the standard this portfolio uses for its highest-conviction buys.",
+    "explanation_zh": "多重信號確認是指在入場前要求多個獨立技術指標同時發出買入訊號，例如MACD黃金交叉、RSI處於強勢區間、股價站上20日均線，以及成交量明顯放大等條件一次齊現。單一指標容易產生假訊號，但多個指標同步確認，代表市場存在真實的買盤力道，而非隨機波動。INFQ今日同時滿足全部五項標準，正是本投資組合最高信心買進的依據。"
   },
   "market_education": {
-    "summary_en": "U.S. equities slipped modestly Thursday as traders lightened positions ahead of the Independence Day holiday weekend, with the NASDAQ falling 0.7% and the S&P 500 off 0.2%. Pre-holiday sessions typically see reduced institutional participation and thinner volume, making price moves less meaningful than on full trading days. Ongoing caution about the Fed's rate path also weighed on sentiment, as investors await fresh inflation data before the next FOMC meeting.",
-    "summary_zh": "美股週四小幅收低，投資者在獨立日長假前獲利了結、縮減部位，納斯達克指數跌0.7%，標普500指數跌0.2%。假期前交投清淡，機構參與度下降，價格波動的參考意義相對有限。市場情緒同時受聯儲局利率走向不確定性壓制，投資者靜待下一份通脹數據，以評估下次議息會議的政策走向。",
+    "summary_en": "U.S. equities closed higher on July 2 with the S&P 500 and NASDAQ each gaining roughly 0.7%, supported by continued optimism around moderating inflation data and resilient labor market readings heading into the July 4 holiday. Small- and mid-cap momentum names outperformed as investors rotated into higher-beta growth stocks following a relatively calm week for macro surprises. Trading volume was lighter than average ahead of the long weekend, which can amplify price moves in both directions for thinly traded names.",
+    "summary_zh": "美國股市於7月2日收高，標普500指數與納斯達克指數均上漲約0.7%，受通脹數據持續降溫及勞工市場韌性支撐，市場情緒在獨立紀念日長假前夕保持樂觀。小型及中型成長股表現優於大盤，投資人在宏觀面相對平靜的背景下輪動至高貝塔股票。惟長假前夕成交量偏低，部分流動性較差的股票價格波動可能因此被放大。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "GIS",
-      "conviction": "medium",
-      "reasoning": "Score 100 with all four confirmation signals — MACD crossover, RSI 65.4 in bullish zone, price above SMA-20, and volume surge — indicating institutional accumulation; consumer staples is also a defensive sector appropriate for a slight risk-off day."
+      "ticker": "INFQ",
+      "conviction": "high",
+      "reasoning": "Perfect 5/5 signal score with MACD crossover, RSI 61.7 (lowest among 100-scorers — most room before overbought), price 5.9% above SMA-20, and volume surge confirming institutional participation on a risk-on day."
     }
   ],
   "outcomes": {
