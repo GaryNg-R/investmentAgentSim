@@ -1,14 +1,14 @@
 {
   "date": "2026-07-02",
-  "briefing": "Markets are risk-off today with NASDAQ down 1.3% and S&P 500 down 0.5%, and the screener returned no candidates — this is a clear hold day. All six existing positions remain intact; stop-losses and profit targets will handle any automatic exits. Cash sits at $577 ready to deploy when risk-on conditions return.",
+  "briefing": "Markets are in risk-off mode today with NASDAQ down 1.5% and S&P 500 down 0.7%, and the screener returned zero candidates — both signals point clearly to sitting on hands. All six existing positions remain healthy and above stop-loss levels, so no exits are warranted; the plan is to hold, preserve the $577 in cash, and wait for the next risk-on setup before deploying.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors collectively move away from higher-risk assets like growth stocks and toward safer ones like bonds or cash. It often shows up as tech stocks falling more than the broader market, as seen today with NASDAQ dropping twice as much as the S&P 500. In risk-off conditions, the right move is usually to hold steady rather than open new positions — wait for the mood to shift back before buying.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指投資者集體撤出高風險資產（如成長股），轉向債券或現金等避險資產的市場狀態。今日可見典型特徵：納斯達克跌幅是標普500的兩倍，科技股首當其衝。在此環境下，正確操作是按兵不動，持守現有倉位，待市場情緒回穩出現風險偏好訊號後，再考慮新建倉位。"
+    "explanation_en": "A 'risk-off' day is when investors broadly reduce exposure to riskier assets like stocks and move into safer havens such as bonds, gold, or cash. It usually happens when fear or uncertainty spikes — bad economic news, rising rates, or geopolitical events. For active traders, risk-off days signal caution: avoid new buys and let existing stop-losses protect capital.",
+    "explanation_zh": "「避險模式」（Risk-Off）是指投資者普遍減持股票等風險資產，轉而買入國債、黃金或持有現金的市場狀態。這類情況通常由恐慌情緒或不確定性升溫所引發，例如經濟數據惡化、利率上升或地緣政治事件。對於主動交易者而言，避險日是謹慎的信號：應暫停開新倉，並依賴止損機制保護現有資本。"
   },
   "market_education": {
-    "summary_en": "U.S. equities retreated on July 2 in a broad risk-off session, with technology stocks leading the decline as the NASDAQ fell 1.3% and the S&P 500 slid 0.5%. Mid-year profit-taking is common ahead of the July 4th holiday weekend as institutional traders reduce exposure before thin-volume trading days. The sell-off reflects caution rather than a fundamental shift, with investors rotating toward safer assets while awaiting fresh catalysts.",
-    "summary_zh": "美國股市於7月2日全面下跌，科技股領跌，納斯達克指數下滑1.3%，標普500指數跌0.5%，呈現典型的風險規避走勢。臨近美國獨立日長假週末，機構投資者慣例於年中進行獲利回吐，壓低成交量較薄的交易日前之持倉。此次回調屬於技術性調整，並非基本面惡化，市場正等待新的催化因素以決定下一步方向。",
+    "summary_en": "Today's risk-off session saw the NASDAQ fall 1.5% and the S&P 500 drop 0.7%, reflecting broad investor caution as market participants pulled back from growth and technology names. Risk-off days typically emerge when macro uncertainty rises — such as concerns over interest rates, geopolitical tensions, or disappointing economic data — causing investors to rotate away from equities into safer assets like bonds, gold, or cash. With no clear bullish catalyst to counter the selling pressure, the path of least resistance was lower across most sectors.",
+    "summary_zh": "今日市場呈現避險情緒，納斯達克指數下跌1.5%，標普500指數回落0.7%，投資者普遍撤離成長股與科技類股。當宏觀不確定性升溫——例如對利率走向的憂慮、地緣政治局勢緊張或經濟數據不如預期——市場便容易出現「避險」模式，資金從股市流向國債、黃金或現金等防禦性資產。在缺乏明顯利好催化劑的情況下，大多數板塊均承壓下行。",
     "sources": []
   },
   "trades": [],
