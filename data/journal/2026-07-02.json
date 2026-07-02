@@ -1,24 +1,17 @@
 {
   "date": "2026-07-02",
-  "briefing": "Market is risk-on at +0.7% across both NASDAQ and S&P 500 — not a blowout day, but clearly positive and sufficient to deploy the remaining $577 in cash. INFQ leads all candidates with a perfect 5/5 signal stack and the lowest RSI among perfect-scorers, giving the most room to run before hitting overbought territory. Existing positions are held — no stop-loss or profit-target signals warrant manual exits today.",
+  "briefing": "Markets were mixed today — S&P 500 edged up +0.3% while NASDAQ slipped -0.2%, a classic neutral split that doesn't meet the risk-on threshold for new entries. With $577 in cash and 4 open slots, the top candidates (FIZZ, ARIS, MSTR, ECO all scoring 95 with clean 4-signal setups) are tempting, but the strategy playbook is explicit: neutral days are hold days. Existing positions are healthy and no stop-losses are triggered, so the right move is to preserve dry powder and wait for a NASDAQ +2% signal before deploying.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means requiring several independent technical indicators to all agree before entering a trade — for example, MACD crossover, RSI in the bullish zone, price above the 20-day moving average, and a volume surge all firing together. Each signal alone can produce false positives, but when multiple signals align simultaneously it suggests real buying pressure rather than a random fluctuation. INFQ today hit all five criteria, which is the standard this portfolio uses for its highest-conviction buys.",
-    "explanation_zh": "多重信號確認是指在入場前要求多個獨立技術指標同時發出買入訊號，例如MACD黃金交叉、RSI處於強勢區間、股價站上20日均線，以及成交量明顯放大等條件一次齊現。單一指標容易產生假訊號，但多個指標同步確認，代表市場存在真實的買盤力道，而非隨機波動。INFQ今日同時滿足全部五項標準，正是本投資組合最高信心買進的依據。"
+    "term": "Risk-On / Risk-Off",
+    "explanation_en": "Risk-on and risk-off describe the broad mood shift in markets from day to day. On risk-on days investors feel confident and buy growth stocks aggressively; on risk-off days they pull back into safety. A neutral day — like today with NASDAQ barely negative and S&P barely positive — sits in no-man's land where the risk/reward of new entries is unclear. The disciplined move is to wait for a clear risk-on signal before committing fresh capital.",
+    "explanation_zh": "「風險偏好」（Risk-On）與「避險情緒」（Risk-Off）描述市場每日情緒的整體轉向。風險偏好日，投資者信心充足，積極搶入成長股；避險日則撤退至保守資產。今日那斯達克微跌、標普微升，屬於方向不明的中性格局，新倉進場的風險回報比不佳。策略上應等待明確的風險偏好信號再出手，避免在模糊市況中貿然建倉。"
   },
   "market_education": {
-    "summary_en": "U.S. equities closed higher on July 2 with the S&P 500 and NASDAQ each gaining roughly 0.7%, supported by continued optimism around moderating inflation data and resilient labor market readings heading into the July 4 holiday. Small- and mid-cap momentum names outperformed as investors rotated into higher-beta growth stocks following a relatively calm week for macro surprises. Trading volume was lighter than average ahead of the long weekend, which can amplify price moves in both directions for thinly traded names.",
-    "summary_zh": "美國股市於7月2日收高，標普500指數與納斯達克指數均上漲約0.7%，受通脹數據持續降溫及勞工市場韌性支撐，市場情緒在獨立紀念日長假前夕保持樂觀。小型及中型成長股表現優於大盤，投資人在宏觀面相對平靜的背景下輪動至高貝塔股票。惟長假前夕成交量偏低，部分流動性較差的股票價格波動可能因此被放大。",
+    "summary_en": "U.S. equities drifted into a quiet, mixed session on July 2 ahead of the July 4 Independence Day holiday, with pre-holiday thin volume softening momentum across growth sectors. The NASDAQ underperformed the S&P 500 as investors rotated modestly from technology into more defensive areas, a pattern common in pre-holiday low-liquidity trading. Resilient labor market data released earlier in the week kept Fed rate-cut expectations measured, limiting the upside catalyst growth stocks need to push higher.",
+    "summary_zh": "美股7月2日（獨立日長假前夕）交投淡靜，成交量明顯偏低，科技板塊動能受壓。那斯達克指數小幅下滑，跑輸標普500，資金輕微由成長股輪動至防禦性板塊，此乃假期前流動性收窄的常見現象。本週早些時候公布的就業數據依然強勁，令聯儲局減息預期保持審慎，壓抑利率敏感型成長股的上行動力。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "INFQ",
-      "conviction": "high",
-      "reasoning": "Perfect 5/5 signal score with MACD crossover, RSI 61.7 (lowest among 100-scorers — most room before overbought), price 5.9% above SMA-20, and volume surge confirming institutional participation on a risk-on day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13255.735246181488,
     "cash": 577.1352210044861,
