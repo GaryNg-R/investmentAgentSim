@@ -1,14 +1,14 @@
 {
   "date": "2026-07-02",
-  "briefing": "Market is neutral today with NASDAQ off -0.8% and S&P 500 flat — not a risk-on setup. Despite holding $577 in cash with 4 open slots, the strategy playbook is clear: do not force buys near the $500 floor on neutral days; wait for a genuine risk-on signal before deploying. The top-scoring candidates (CAR, NKTR, AUGO) remain attractive and will be first in line when NASDAQ shows a proper bounce. All six existing positions are held — none are near stop-loss or profit targets.",
+  "briefing": "NASDAQ fell 0.8% while the S&P 500 barely moved — a neutral-to-risk-off session driven by growth and tech weakness. Following our established playbook, we hold cash through neutral days and wait for a genuine risk-on signal (NASDAQ up 2% or more) before deploying into our top-scoring candidates like CAR, NKTR, AUGO, and CRSP. Existing positions remain intact with no stop-loss or profit-target triggers expected today.",
   "daily_lesson": {
-    "term": "Pre-Holiday Drift",
-    "explanation_en": "Pre-holiday drift is the tendency for stock markets to lose direction and volume in the sessions just before a major holiday. With fewer institutional traders at their desks, price moves are smaller and less meaningful, momentum signals become noisy, and the risk of entering a position that reverses when full volume returns the following week is elevated.",
-    "explanation_zh": "「假期前漂移」是指股市在重大節假日前夕的交易日往往缺乏方向感且成交量萎縮的現象。由於機構投資者大量缺席，價格波動幅度偏小且參考意義有限，動量指標的噪音增加，若此時貿然建倉，假期後大量資金回流時出現反轉的風險也相對較高。"
+    "term": "Index Divergence",
+    "explanation_en": "Index divergence happens when major market indexes move in opposite directions on the same day — today the S&P 500 was flat while the NASDAQ dropped 0.8%. It signals that selling pressure is concentrated in specific sectors (here, tech and growth) while other parts of the market hold firm. Savvy investors use divergence as a clue about where institutional money is rotating, and whether overall risk appetite is rising or falling.",
+    "explanation_zh": "指數背離是指主要市場指數在同一天出現不同方向走勢的現象——今日標普500幾乎持平，而納斯達克卻下跌0.8%。這表明賣壓集中於特定板塊（本次為科技及成長股），而市場其他部分則相對穩健。精明的投資者會利用背離現象來判斷機構資金的輪動方向，以及整體市場的風險偏好是上升還是下降。"
   },
   "market_education": {
-    "summary_en": "Markets drifted sideways on July 2 as investors lightened positioning ahead of the long Independence Day holiday weekend, with thin pre-holiday volume exaggerating small intraday moves. The NASDAQ slipped -0.8% on mild selling in rate-sensitive tech and growth names, while the broader S&P 500 held nearly flat, indicating sector rotation rather than a broad risk-off event. Pre-holiday sessions historically see compressed conviction and reduced institutional participation, making momentum signals less reliable for new entries.",
-    "summary_zh": "美股在7月2日呈現橫盤漂移格局，投資者趁國慶長假前夕主動降低倉位，清淡的成交量令盤中細微波動被放大。納斯達克指數下跌0.8%，對利率敏感的科技及成長股承受輕度拋壓，而標普500指數則幾近持平，反映板塊輪動而非全面避險情緒。歷史上，假期前交易日機構參與度偏低，動量信號的可靠性下降，並非追入新倉的理想時機。",
+    "summary_en": "The S&P 500 closed virtually flat while the NASDAQ fell 0.8%, reflecting a split session where high-multiple technology and growth names lagged while defensive sectors provided ballast. This divergence is a classic sign of intraday rotation — institutional investors trimming exposure to rate-sensitive tech stocks and rotating into steadier names in telecom, consumer staples, and value. With no major macro catalyst to break the stalemate, most market participants chose to sit on the sidelines ahead of upcoming economic data.",
+    "summary_zh": "標普500幾乎持平收市，納斯達克則下跌0.8%，呈現出典型的分化走勢——高估值科技及成長股普遍落後，而防禦性板塊則發揮穩定作用。這種背離是盤中資金輪動的典型訊號，機構投資者正在削減對利率敏感型科技股的持倉，資金轉向電信、消費必需品及價值型股票。在缺乏重大宏觀催化劑打破僵局的情況下，大多數市場參與者選擇靜待即將公布的經濟數據，觀望氣氛主導全場。",
     "sources": []
   },
   "trades": [],
