@@ -1,14 +1,14 @@
 {
   "date": "2026-07-02",
-  "briefing": "Markets are in risk-off mode today with NASDAQ down 1.5% and S&P 500 down 0.7%, and the screener returned zero candidates — both signals point clearly to sitting on hands. All six existing positions remain healthy and above stop-loss levels, so no exits are warranted; the plan is to hold, preserve the $577 in cash, and wait for the next risk-on setup before deploying.",
+  "briefing": "Market is risk-off today with NASDAQ down 1.1% and S&P 500 down 0.3%, and the screener returned no candidates. Following the established cadence of holding through low-conviction days and letting stop-losses and profit targets manage existing positions automatically — no action taken.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly reduce exposure to riskier assets like stocks and move into safer havens such as bonds, gold, or cash. It usually happens when fear or uncertainty spikes — bad economic news, rising rates, or geopolitical events. For active traders, risk-off days signal caution: avoid new buys and let existing stop-losses protect capital.",
-    "explanation_zh": "「避險模式」（Risk-Off）是指投資者普遍減持股票等風險資產，轉而買入國債、黃金或持有現金的市場狀態。這類情況通常由恐慌情緒或不確定性升溫所引發，例如經濟數據惡化、利率上升或地緣政治事件。對於主動交易者而言，避險日是謹慎的信號：應暫停開新倉，並依賴止損機制保護現有資本。"
+    "explanation_en": "A 'risk-off' day is when investors broadly move away from riskier assets like tech stocks and toward safer ones like bonds or cash. It often shows up as the NASDAQ falling more than the S&P 500, since NASDAQ is packed with high-growth companies that investors are quickest to sell when uncertainty rises. On risk-off days, the smartest move is usually to hold existing positions and not add new ones.",
+    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者普遍撤離科技股等風險較高的資產，轉向債券或現金等避風港的市場狀態。這種情況通常表現為那斯達克跌幅大於標普500，因為那斯達克集中了大量高成長企業，市場不確定性升溫時這類股票往往最先遭到拋售。在避險日，最穩健的策略通常是持有現有部位，暫緩建立新倉。"
   },
   "market_education": {
-    "summary_en": "Today's risk-off session saw the NASDAQ fall 1.5% and the S&P 500 drop 0.7%, reflecting broad investor caution as market participants pulled back from growth and technology names. Risk-off days typically emerge when macro uncertainty rises — such as concerns over interest rates, geopolitical tensions, or disappointing economic data — causing investors to rotate away from equities into safer assets like bonds, gold, or cash. With no clear bullish catalyst to counter the selling pressure, the path of least resistance was lower across most sectors.",
-    "summary_zh": "今日市場呈現避險情緒，納斯達克指數下跌1.5%，標普500指數回落0.7%，投資者普遍撤離成長股與科技類股。當宏觀不確定性升溫——例如對利率走向的憂慮、地緣政治局勢緊張或經濟數據不如預期——市場便容易出現「避險」模式，資金從股市流向國債、黃金或現金等防禦性資產。在缺乏明顯利好催化劑的情況下，大多數板塊均承壓下行。",
+    "summary_en": "Today's risk-off session saw the NASDAQ fall 1.1% while the broader S&P 500 shed 0.3%, reflecting a rotation out of growth and technology names. Risk-off moves of this magnitude typically signal that institutional investors are reducing exposure to higher-beta assets and moving toward defensives or cash. Without a clear catalyst to reverse the selling pressure, the prudent posture is to hold existing positions and wait for market conditions to stabilize before deploying fresh capital.",
+    "summary_zh": "今日市場呈現避險情緒，那斯達克指數下跌1.1%，標普500指數跌0.3%，顯示資金正從成長型及科技股撤出，轉向防禦性資產或現金。此類風險趨避走勢通常反映機構投資者正在降低高Beta值部位的風險敞口。在缺乏明確反彈催化劑的情況下，審慎策略是持有現有倉位，靜待市況趨穩後再部署新資金。",
     "sources": []
   },
   "trades": [],
