@@ -1,14 +1,14 @@
 {
   "date": "2026-07-03",
-  "briefing": "Markets are neutral today — NASDAQ slipping -0.8% with S&P 500 flat, likely reflecting pre-holiday lightness ahead of July 4th. With only $577 in cash and no risk-on signal to justify a new entry, the strategy memory playbook is clear: hold and wait for a genuine risk-on setup. All six existing positions remain healthy and are left to run toward their profit targets via stop-loss and take-profit automation.",
+  "briefing": "Markets were mixed today with NASDAQ down 0.8% while S&P 500 held flat, signaling tech sector pressure and rotation toward defensive names. With only $577 in cash and strategy memory clearly advising against forcing buys on neutral days, holding is the correct call. All six existing positions remain intact — stop-losses and profit targets continue to manage them automatically.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors pull back from buying stocks and prefer to sit in cash or safer assets, often because market signals are ambiguous or sentiment is cautious. Even when strong-scoring candidates exist, a neutral-to-negative market day without a clear catalyst is not the right moment to deploy capital — entering on weak conviction increases the chance of getting stopped out early. Holding cash through low-signal days and waiting for a genuine risk-on signal (like a NASDAQ rally of 2%+) gives new positions a much stronger foundation.",
-    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者趨於保守、回避風險資產，傾向持有現金或防禦性資產的市場狀態，通常在市場訊號模糊或情緒偏謹慎時出現。即使當日有評分極高的候選股，若缺乏明確的催化劑、市場方向中性甚至略為偏弱，此時強行入市往往容易觸及止損而提前出局。耐心等待真正的風險偏好訊號——例如NASDAQ單日漲幅達2%以上——再出手，新倉位的成功率將大幅提升。"
+    "term": "Sector Rotation",
+    "explanation_en": "Sector rotation is when investors shift money out of one part of the market (like technology) and into another (like utilities or healthcare), without necessarily leaving the stock market entirely. Today's NASDAQ drop while S&P 500 stayed flat is a textbook example — tech sold off, but defensive stocks absorbed the flow and kept the broader index steady. Recognizing rotation helps you avoid buying into a sector that institutions are quietly exiting.",
+    "explanation_zh": "板塊輪動是指投資者將資金從市場某一板塊（如科技股）轉移至另一板塊（如公用事業或醫療保健），而非完全撤出股市。今日那斯達克下跌、標普500卻持平，正是板塊輪動的典型案例——科技股承壓，但防禦性股票承接資金流入，支撐了大盤整體表現。識別輪動動向有助於避免在機構悄然出貨時逆勢追入。"
   },
   "market_education": {
-    "summary_en": "Markets drifted into a mixed, low-energy session on July 3rd — the last trading day before the Independence Day holiday — with NASDAQ slipping -0.8% while the S&P 500 held flat. The divergence reflects modest profit-taking in technology and growth names, sectors more sensitive to sentiment shifts, while defensive and value-oriented stocks in the S&P held their ground. Pre-holiday sessions historically see reduced institutional participation and lighter volume, which amplifies small moves and makes trend signals less reliable.",
-    "summary_zh": "七月三日（美國獨立紀念日前夕）市場交投清淡，走勢分歧。NASDAQ綜合指數下跌0.8%，標普500則幾乎持平，反映出科技及成長股在長周末前遭逢輕微獲利回吐，而標普中防禦性及價值類股則維持穩定。節前交易日機構參與度通常偏低，成交量縮減，令小幅波動被放大，技術訊號的可靠性亦相對降低。",
+    "summary_en": "Today's session showed a split market: the S&P 500 finished flat while the NASDAQ shed 0.8%, reflecting profit-taking in technology and growth stocks after a strong run-up. Investors rotated into defensive sectors including utilities and telecom (note T and VZ both appearing with bullish MACD signals today), suggesting caution heading into the July 4th holiday weekend. With no major catalysts to push risk assets higher, institutional desks appeared content to hold gains and reduce tech exposure ahead of the long weekend.",
+    "summary_zh": "今日市場走勢分化：標普500收平，而那斯達克下跌0.8%，反映出科技股及成長股在前期大漲後出現獲利回吐壓力。資金流向公用事業及電信等防禦性板塊（今日T及VZ均出現MACD看漲信號），顯示市場在七月四日長假前趨於謹慎。在缺乏重大催化劑的情況下，機構資金傾向於持盈保泰、縮減科技倉位，以靜待假期後的新交易機會。",
     "sources": []
   },
   "trades": [],
