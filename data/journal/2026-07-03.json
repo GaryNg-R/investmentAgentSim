@@ -1,14 +1,14 @@
 {
   "date": "2026-07-03",
-  "briefing": "Markets are neutral today with NASDAQ down 0.8% and S&P 500 flat — this is not the risk-on environment needed to justify new entries. Despite having 4 open slots and $577 in cash (just above the $500 threshold), strategy memory is explicit: do not force buys on neutral days just to deploy capital. All 6 existing positions are held; stop-losses and profit targets remain active and will handle exits automatically.",
+  "briefing": "Markets are neutral to slightly negative today with NASDAQ off -0.8% and S&P 500 flat — a weak session heading into the July 4th holiday weekend. Despite having $577 in cash and four open slots, the strategy calls for patience on neutral days rather than deploying capital into a directionless tape. Holding all six existing positions and waiting for a clear risk-on signal before adding new names.",
   "daily_lesson": {
-    "term": "Holiday-Effect / Pre-Holiday Drift",
-    "explanation_en": "Markets often see lighter volume and directional drift in the days before a major holiday, as institutional traders reduce risk exposure rather than hold positions over a long weekend. Today's flat S&P 500 and mild NASDAQ dip on a half-day session is a textbook example — low conviction moves in either direction, making it a poor time to initiate new positions that lack a strong catalyst.",
-    "explanation_zh": "「假期效應」是指在重大假日前夕，市場成交量萎縮、走勢偏向單邊漂移的現象。機構投資者傾向於在長週末前減少持倉，避免隔夜風險。今日標普500收平、納斯達克溫和回落，正是這一效應的典型呈現——市場缺乏方向性動力，雙向信念不足，並非建立新倉的好時機。"
+    "term": "Pre-Holiday Trading",
+    "explanation_en": "Pre-holiday trading refers to the low-volume sessions that occur just before a market holiday, like the July 4th weekend. With many institutional traders absent, price moves are often exaggerated and unreliable — what looks like a breakout may just be noise from thin order books. Experienced investors often avoid initiating new positions on these days because the signals are less trustworthy than on a normal high-volume session.",
+    "explanation_zh": "假日前交易是指在市場假期（如獨立紀念日長假）前夕出現的低成交量盤面。由於大量機構投資者缺席，價格波動往往被放大且缺乏參考價值——看似突破的走勢，可能只是掛單稀薄下的雜訊。有經驗的投資者通常會在此類日子避免建立新倉位，因為這些訊號的可靠性遠不如正常高成交量日。"
   },
   "market_education": {
-    "summary_en": "U.S. equities were mixed on July 3rd, a holiday-shortened half-day session ahead of Independence Day, with the S&P 500 finishing flat and the NASDAQ slipping 0.8%. Tech and growth names faced light selling pressure as traders reduced exposure ahead of the long weekend, with thin volume amplifying intraday moves. No major macro catalyst drove the session — it was largely pre-holiday positioning and cautious risk management into the close.",
-    "summary_zh": "美股於7月3日（獨立日前夕半日交易）表現參差，標普500收平，納斯達克則下跌0.8%。科技及成長股於長週末前夕承受輕度沽壓，成交淡靜更放大了市場波幅。整個交易日缺乏重大宏觀催化劑，市況主要受假期前投資者主動降低持倉及風險管理情緒主導。",
+    "summary_en": "U.S. equities posted a mixed session on July 3rd as thin pre-holiday volume amplified intraday swings, with the NASDAQ slipping 0.8% while the S&P 500 closed flat. Tech and growth stocks faced mild selling pressure ahead of the long July 4th weekend as investors reduced risk exposure before a multi-day market closure. Low-conviction holiday trading typically produces noise rather than meaningful trend, making it a poor environment for initiating new positions.",
+    "summary_zh": "美股在7月3日出現分歧走勢，臨近獨立紀念日長假前市場交投清淡，成交量萎縮令盤中波動加劇，納斯達克指數下跌0.8%，標普500指數則收平。科技及成長股在假期前面臨溫和拋壓，投資者傾向降低風險敞口，以應對多天市場休市。假日前的低量環境通常只製造雜訊，缺乏明確趨勢，不宜貿然建立新倉位。",
     "sources": []
   },
   "trades": [],
