@@ -1,14 +1,14 @@
 {
   "date": "2026-07-03",
-  "briefing": "NASDAQ fell -0.8% today while S&P 500 was flat — a classic neutral-to-slightly-negative session with no broad risk-on signal. Per strategy memory, neutral days call for preserving dry powder rather than deploying into new positions, even with 4 open slots and $577 available. All four perfect-score candidates (CAR, NKTR, AUGO, CRSP) look genuinely strong with full signal stacks, but the right cadence is to wait for a risk-on day (NASDAQ +2% or better) before entering new positions with remaining cash.",
+  "briefing": "NASDAQ slipped -0.8% while the S&P 500 was flat — a classic neutral-to-slightly-risk-off session with no clear directional conviction. Despite $577 cash and four open slots, strategy memory is clear: this is not a risk-on setup. The four score-100 candidates (CAR, NKTR, AUGO, CRSP) all carry all four momentum signals and are genuinely compelling, but they'll still be there when the market gives a green light. Holding dry powder and waiting for NASDAQ confirmation (+2% or better) before deploying.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' or neutral session is when investors pull back from higher-risk assets like growth stocks and tech, often waiting for clearer signals before committing new capital. On days like today — Nasdaq down, volume thin before a holiday — the smart move is to hold cash rather than chase entries that lack market-wide confirmation. Patience in neutral conditions preserves capital for the next genuine risk-on surge.",
-    "explanation_zh": "「風險規避」或中性市況是指投資者暫時減少對高風險資產（如成長股、科技股）的配置，等待更明確的進場訊號。像今天這樣的行情——納斯達克下跌、假期前成交清淡——明智的做法是持有現金，而非追高缺乏大盤確認的個股。在中性市況保持耐心、守住彈藥，才能在下一波真正的風險偏好行情中把握機會。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash or liquid assets held in reserve, ready to deploy when the right opportunity appears. Keeping dry powder is a deliberate strategy — it avoids forcing trades in unfavorable conditions and ensures capital is available when high-conviction setups emerge, such as a strong risk-on day with broad market participation.",
+    "explanation_zh": "「乾火藥」（Dry Powder）在投資術語中指投資者保留的現金或高流動性資產，隨時準備在合適時機進場部署。刻意持有現金並非無所作為，而是一種主動的風險控管策略——避免在市場方向不明時強行建倉，確保資金能在真正具高勝算的行情出現時（例如那斯達克強勢上漲、市場明顯Risk-On的日子）迅速把握機會。"
   },
   "market_education": {
-    "summary_en": "U.S. markets were mixed on July 3 ahead of the Independence Day holiday, with the S&P 500 essentially flat while the Nasdaq Composite slipped roughly 0.8% as tech stocks faced mild selling pressure. Trading volume was expected to be lighter than normal ahead of the July 4 market close, reducing the signal quality of any single day's price action. Investors appear to be pausing after a strong June rally, digesting elevated valuations in growth sectors before committing fresh capital.",
-    "summary_zh": "美股在7月4日獨立日假期前夕走勢分化，標普500指數幾乎持平，而納斯達克綜合指數則因科技股承壓小跌約0.8%。由於市場提前進入假期模式，交投較為清淡，單日價格走勢的參考價值有限。在6月強勢反彈後，投資者似乎正在消化高增長板塊的估值壓力，暫緩新資金入市步伐。",
+    "summary_en": "U.S. markets opened the July 4th holiday week with a split session: the S&P 500 held flat as defensive and value sectors absorbed rotation out of technology, while the NASDAQ dipped -0.8% as profit-taking hit high-multiple growth names ahead of a shortened trading week. Volume was lighter than usual due to the pre-holiday half-day dynamic, which amplified price moves without strong institutional conviction behind them. With no major catalysts expected before markets close early on July 3rd, traders positioned cautiously rather than adding risk.",
+    "summary_zh": "美股在七月四日獨立紀念日假期前夕呈現分化走勢：標普500指數收平，防禦性板塊與價值股吸納資金輪動流入；那斯達克指數則因高估值成長股遭逢獲利了結而下滑0.8%。由於假期縮短交易日，市場成交量明顯萎縮，導致價格波動在缺乏機構明確方向感的情況下被放大。投資者普遍採取觀望態勢，傾向降低持倉風險以應對節假日流動性偏低的環境。",
     "sources": []
   },
   "trades": [],
