@@ -1,14 +1,14 @@
 {
   "date": "2026-07-03",
-  "briefing": "Markets are neutral to slightly negative today with NASDAQ off -0.8% and S&P 500 flat — a weak session heading into the July 4th holiday weekend. Despite having $577 in cash and four open slots, the strategy calls for patience on neutral days rather than deploying capital into a directionless tape. Holding all six existing positions and waiting for a clear risk-on signal before adding new names.",
+  "briefing": "NASDAQ fell -0.8% today while S&P 500 was flat — a classic neutral-to-slightly-negative session with no broad risk-on signal. Per strategy memory, neutral days call for preserving dry powder rather than deploying into new positions, even with 4 open slots and $577 available. All four perfect-score candidates (CAR, NKTR, AUGO, CRSP) look genuinely strong with full signal stacks, but the right cadence is to wait for a risk-on day (NASDAQ +2% or better) before entering new positions with remaining cash.",
   "daily_lesson": {
-    "term": "Pre-Holiday Trading",
-    "explanation_en": "Pre-holiday trading refers to the low-volume sessions that occur just before a market holiday, like the July 4th weekend. With many institutional traders absent, price moves are often exaggerated and unreliable — what looks like a breakout may just be noise from thin order books. Experienced investors often avoid initiating new positions on these days because the signals are less trustworthy than on a normal high-volume session.",
-    "explanation_zh": "假日前交易是指在市場假期（如獨立紀念日長假）前夕出現的低成交量盤面。由於大量機構投資者缺席，價格波動往往被放大且缺乏參考價值——看似突破的走勢，可能只是掛單稀薄下的雜訊。有經驗的投資者通常會在此類日子避免建立新倉位，因為這些訊號的可靠性遠不如正常高成交量日。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' or neutral session is when investors pull back from higher-risk assets like growth stocks and tech, often waiting for clearer signals before committing new capital. On days like today — Nasdaq down, volume thin before a holiday — the smart move is to hold cash rather than chase entries that lack market-wide confirmation. Patience in neutral conditions preserves capital for the next genuine risk-on surge.",
+    "explanation_zh": "「風險規避」或中性市況是指投資者暫時減少對高風險資產（如成長股、科技股）的配置，等待更明確的進場訊號。像今天這樣的行情——納斯達克下跌、假期前成交清淡——明智的做法是持有現金，而非追高缺乏大盤確認的個股。在中性市況保持耐心、守住彈藥，才能在下一波真正的風險偏好行情中把握機會。"
   },
   "market_education": {
-    "summary_en": "U.S. equities posted a mixed session on July 3rd as thin pre-holiday volume amplified intraday swings, with the NASDAQ slipping 0.8% while the S&P 500 closed flat. Tech and growth stocks faced mild selling pressure ahead of the long July 4th weekend as investors reduced risk exposure before a multi-day market closure. Low-conviction holiday trading typically produces noise rather than meaningful trend, making it a poor environment for initiating new positions.",
-    "summary_zh": "美股在7月3日出現分歧走勢，臨近獨立紀念日長假前市場交投清淡，成交量萎縮令盤中波動加劇，納斯達克指數下跌0.8%，標普500指數則收平。科技及成長股在假期前面臨溫和拋壓，投資者傾向降低風險敞口，以應對多天市場休市。假日前的低量環境通常只製造雜訊，缺乏明確趨勢，不宜貿然建立新倉位。",
+    "summary_en": "U.S. markets were mixed on July 3 ahead of the Independence Day holiday, with the S&P 500 essentially flat while the Nasdaq Composite slipped roughly 0.8% as tech stocks faced mild selling pressure. Trading volume was expected to be lighter than normal ahead of the July 4 market close, reducing the signal quality of any single day's price action. Investors appear to be pausing after a strong June rally, digesting elevated valuations in growth sectors before committing fresh capital.",
+    "summary_zh": "美股在7月4日獨立日假期前夕走勢分化，標普500指數幾乎持平，而納斯達克綜合指數則因科技股承壓小跌約0.8%。由於市場提前進入假期模式，交投較為清淡，單日價格走勢的參考價值有限。在6月強勢反彈後，投資者似乎正在消化高增長板塊的估值壓力，暫緩新資金入市步伐。",
     "sources": []
   },
   "trades": [],
