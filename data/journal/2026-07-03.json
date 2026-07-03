@@ -1,14 +1,14 @@
 {
   "date": "2026-07-03",
-  "briefing": "Market is neutral today with NASDAQ down 0.8% and S&P500 flat, pointing to tech-specific weakness rather than broad strength — not the risk-on signal needed to deploy dry powder. Cash sits at $577.14 with four open slots, but strategy memory calls for holding through neutral sessions and waiting for a genuine risk-on day (NASDAQ +2% or more) before deploying. All six existing positions are held; stop-losses and profit targets will manage exits automatically.",
+  "briefing": "Today is July 3rd — the session before the July 4th holiday — and markets reflect exactly that: NASDAQ -0.8%, S&P flat, thin pre-holiday trading with no conviction on either side. Strategy memory is clear on this pattern: do not force-deploy cash on neutral days just to fill open slots. With $577 in cash and top candidates like CAR and NKTR showing perfect scores, those setups will still be there after the holiday. The right move is to hold dry powder and wait for a genuine risk-on signal to enter.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off describes market conditions where investors become cautious and pull back from higher-risk assets — like growth tech stocks — in favor of cash or defensive holdings. Today's NASDAQ decline while the S&P500 held flat is a mild example: tech bore the selling while the broader index stayed resilient. Holding cash on neutral or risk-off days preserves capital for higher-conviction entries when the market mood shifts back to risk-on.",
-    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者趨於保守、從科技成長股等高風險資產撤退，轉而持有現金或防禦性資產的市場狀態。今日那斯達克下跌、標普500持平，正是溫和避險情緒的體現：科技股承壓，而大盤整體則相對穩健。在中性或避險市況下保留現金，是保存資本的關鍵策略，等待市場重返風險偏好時再行部署，可爭取更佳的進場時機。"
+    "term": "Pre-Holiday Effect",
+    "explanation_en": "The Pre-Holiday Effect describes the tendency for stock markets to trade with lower volume and subdued price action in the sessions immediately before major public holidays. With fewer institutional participants active, price moves become noisier and less informative — a small dip in the NASDAQ, for instance, may simply reflect traders reducing exposure before a closure rather than any change in fundamental outlook. The smart response is to recognize the signal-to-noise ratio is poor and avoid making new bets on thin data.",
+    "explanation_zh": "「假期前效應」是指股市在重大節假日前夕，往往出現成交量下滑、價格波動趨於平淡的現象。由於大型機構減少參與，市場流動性降低，短線價格變化往往只是倉位調整的雜音，而非真實的市場方向訊號。今日那斯達克的小幅回落，便很可能只是投資人在長假前的保守操作。此時應靜觀其變，不宜在低訊雜比的環境下貿然進場。"
   },
   "market_education": {
-    "summary_en": "Today's session showed a divergence between tech stocks (NASDAQ -0.8%) and the broader market (S&P500 flat), indicating selective selling pressure in growth and technology names rather than a broad market decline. With the July 4th U.S. Independence Day holiday approaching, many institutional traders are likely reducing risk exposure and lightening positions ahead of the long weekend. The absence of major catalysts kept overall market direction muted and investor sentiment cautious.",
-    "summary_zh": "今日市場出現科技股與大盤的明顯背離，那斯達克下跌0.8%，標普500則收平，顯示成長股及科技類股承受特定賣壓，並非整體市場下行。隨著美國七月四日獨立紀念日長假臨近，不少機構投資者可能正趁假期前夕降低風險、輕倉觀望。缺乏重大催化劑令市場方向不明，投資者情緒整體維持審慎保守。",
+    "summary_en": "U.S. equity markets drifted into a neutral close on July 3rd, the final session before the Independence Day holiday. The NASDAQ slipped 0.8% while the S&P 500 finished unchanged, reflecting the typical pre-holiday dynamic of light volume, reduced institutional participation, and traders squaring books before the long weekend. The split between the two indexes suggests modest rotation out of growth-oriented tech names while broader market sectors held firm — not a directional move, but calendar-driven positioning noise.",
+    "summary_zh": "美股7月3日在獨立日長假前夕收盤表現中性，那斯達克指數下跌0.8%，標普500指數則幾乎持平。這是典型的假期前效應——成交量萎縮、機構參與度下降，投資人傾向於在長假前平倉或調整持倉以降低風險。兩大指數走勢分化，反映市場資金短暫從科技成長股輪動至防禦型板塊，整體屬於日曆效應所引發的倉位調整，而非趨勢性方向訊號。",
     "sources": []
   },
   "trades": [],
