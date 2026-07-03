@@ -1,14 +1,14 @@
 {
   "date": "2026-07-03",
-  "briefing": "NASDAQ slipped -0.8% while the S&P 500 was flat — a classic neutral-to-slightly-risk-off session with no clear directional conviction. Despite $577 cash and four open slots, strategy memory is clear: this is not a risk-on setup. The four score-100 candidates (CAR, NKTR, AUGO, CRSP) all carry all four momentum signals and are genuinely compelling, but they'll still be there when the market gives a green light. Holding dry powder and waiting for NASDAQ confirmation (+2% or better) before deploying.",
+  "briefing": "NASDAQ fell 0.8% while the S&P 500 closed flat — a neutral-to-slightly-negative session typical of the holiday shortened week heading into July 4th. Strategy memory is clear: do not deploy cash on neutral days just to fill open slots. We hold our $577 in reserve and wait for a genuine risk-on signal (NASDAQ +2% or stronger) before pulling the trigger on any of the four available position slots. All six existing positions remain held; stop-losses and profit targets continue to manage them automatically.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash or liquid assets held in reserve, ready to deploy when the right opportunity appears. Keeping dry powder is a deliberate strategy — it avoids forcing trades in unfavorable conditions and ensures capital is available when high-conviction setups emerge, such as a strong risk-on day with broad market participation.",
-    "explanation_zh": "「乾火藥」（Dry Powder）在投資術語中指投資者保留的現金或高流動性資產，隨時準備在合適時機進場部署。刻意持有現金並非無所作為，而是一種主動的風險控管策略——避免在市場方向不明時強行建倉，確保資金能在真正具高勝算的行情出現時（例如那斯達克強勢上漲、市場明顯Risk-On的日子）迅速把握機會。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off is when investors pull back from riskier assets — like growth stocks — and move toward safer ones like bonds or cash. On a neutral or down day, deploying fresh capital into new positions means buying into uncertainty with no wind at your back. Waiting for a confirmed risk-on session (like a +2% NASDAQ day) means the crowd is already moving in your direction, giving new buys a better starting point.",
+    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者減少對高風險資產（如成長型股票）的配置，轉而持有現金或債券等較安全資產的市場狀態。在市場中性或下跌的交易日建立新倉，等於在沒有順風的情況下逆勢入場。反之，等待那斯達克單日上漲2%或以上的明確「風險偏好」訊號，才是入場時機——此時市場動能已轉為有利，新倉位有更好的起跑點。"
   },
   "market_education": {
-    "summary_en": "U.S. markets opened the July 4th holiday week with a split session: the S&P 500 held flat as defensive and value sectors absorbed rotation out of technology, while the NASDAQ dipped -0.8% as profit-taking hit high-multiple growth names ahead of a shortened trading week. Volume was lighter than usual due to the pre-holiday half-day dynamic, which amplified price moves without strong institutional conviction behind them. With no major catalysts expected before markets close early on July 3rd, traders positioned cautiously rather than adding risk.",
-    "summary_zh": "美股在七月四日獨立紀念日假期前夕呈現分化走勢：標普500指數收平，防禦性板塊與價值股吸納資金輪動流入；那斯達克指數則因高估值成長股遭逢獲利了結而下滑0.8%。由於假期縮短交易日，市場成交量明顯萎縮，導致價格波動在缺乏機構明確方向感的情況下被放大。投資者普遍採取觀望態勢，傾向降低持倉風險以應對節假日流動性偏低的環境。",
+    "summary_en": "U.S. markets closed mixed on July 3rd, the last trading session before the Independence Day holiday. The NASDAQ slipped 0.8% as technology shares gave back some recent gains in thin pre-holiday volume, while the S&P 500 managed to hold flat, supported by strength in defensives and energy. Light participation ahead of a long weekend often amplifies small moves, making it difficult to read genuine directional intent from a single session's price action.",
+    "summary_zh": "美國股市於7月3日獨立紀念日假期前夕呈現分歧走勢。由於假期前交投清淡，那斯達克指數下跌0.8%，科技股回吐部分近期升幅；而防禦性板塊及能源股則為標普500指數提供支撐，令其維持平盤。長週末前市場參與度偏低，往往會放大小幅波動，單日走勢難以反映真實的方向性趨勢，投資者宜審慎解讀。",
     "sources": []
   },
   "trades": [],
