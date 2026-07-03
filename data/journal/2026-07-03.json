@@ -1,14 +1,14 @@
 {
   "date": "2026-07-03",
-  "briefing": "NASDAQ fell 0.8% while the S&P 500 closed flat — a neutral-to-slightly-negative session typical of the holiday shortened week heading into July 4th. Strategy memory is clear: do not deploy cash on neutral days just to fill open slots. We hold our $577 in reserve and wait for a genuine risk-on signal (NASDAQ +2% or stronger) before pulling the trigger on any of the four available position slots. All six existing positions remain held; stop-losses and profit targets continue to manage them automatically.",
+  "briefing": "Market is neutral today with NASDAQ down 0.8% and S&P500 flat, pointing to tech-specific weakness rather than broad strength — not the risk-on signal needed to deploy dry powder. Cash sits at $577.14 with four open slots, but strategy memory calls for holding through neutral sessions and waiting for a genuine risk-on day (NASDAQ +2% or more) before deploying. All six existing positions are held; stop-losses and profit targets will manage exits automatically.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "Risk-off is when investors pull back from riskier assets — like growth stocks — and move toward safer ones like bonds or cash. On a neutral or down day, deploying fresh capital into new positions means buying into uncertainty with no wind at your back. Waiting for a confirmed risk-on session (like a +2% NASDAQ day) means the crowd is already moving in your direction, giving new buys a better starting point.",
-    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者減少對高風險資產（如成長型股票）的配置，轉而持有現金或債券等較安全資產的市場狀態。在市場中性或下跌的交易日建立新倉，等於在沒有順風的情況下逆勢入場。反之，等待那斯達克單日上漲2%或以上的明確「風險偏好」訊號，才是入場時機——此時市場動能已轉為有利，新倉位有更好的起跑點。"
+    "explanation_en": "Risk-off describes market conditions where investors become cautious and pull back from higher-risk assets — like growth tech stocks — in favor of cash or defensive holdings. Today's NASDAQ decline while the S&P500 held flat is a mild example: tech bore the selling while the broader index stayed resilient. Holding cash on neutral or risk-off days preserves capital for higher-conviction entries when the market mood shifts back to risk-on.",
+    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者趨於保守、從科技成長股等高風險資產撤退，轉而持有現金或防禦性資產的市場狀態。今日那斯達克下跌、標普500持平，正是溫和避險情緒的體現：科技股承壓，而大盤整體則相對穩健。在中性或避險市況下保留現金，是保存資本的關鍵策略，等待市場重返風險偏好時再行部署，可爭取更佳的進場時機。"
   },
   "market_education": {
-    "summary_en": "U.S. markets closed mixed on July 3rd, the last trading session before the Independence Day holiday. The NASDAQ slipped 0.8% as technology shares gave back some recent gains in thin pre-holiday volume, while the S&P 500 managed to hold flat, supported by strength in defensives and energy. Light participation ahead of a long weekend often amplifies small moves, making it difficult to read genuine directional intent from a single session's price action.",
-    "summary_zh": "美國股市於7月3日獨立紀念日假期前夕呈現分歧走勢。由於假期前交投清淡，那斯達克指數下跌0.8%，科技股回吐部分近期升幅；而防禦性板塊及能源股則為標普500指數提供支撐，令其維持平盤。長週末前市場參與度偏低，往往會放大小幅波動，單日走勢難以反映真實的方向性趨勢，投資者宜審慎解讀。",
+    "summary_en": "Today's session showed a divergence between tech stocks (NASDAQ -0.8%) and the broader market (S&P500 flat), indicating selective selling pressure in growth and technology names rather than a broad market decline. With the July 4th U.S. Independence Day holiday approaching, many institutional traders are likely reducing risk exposure and lightening positions ahead of the long weekend. The absence of major catalysts kept overall market direction muted and investor sentiment cautious.",
+    "summary_zh": "今日市場出現科技股與大盤的明顯背離，那斯達克下跌0.8%，標普500則收平，顯示成長股及科技類股承受特定賣壓，並非整體市場下行。隨著美國七月四日獨立紀念日長假臨近，不少機構投資者可能正趁假期前夕降低風險、輕倉觀望。缺乏重大催化劑令市場方向不明，投資者情緒整體維持審慎保守。",
     "sources": []
   },
   "trades": [],
