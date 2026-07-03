@@ -1,14 +1,14 @@
 {
   "date": "2026-07-03",
-  "briefing": "Today is July 3rd — the session before the July 4th holiday — and markets reflect exactly that: NASDAQ -0.8%, S&P flat, thin pre-holiday trading with no conviction on either side. Strategy memory is clear on this pattern: do not force-deploy cash on neutral days just to fill open slots. With $577 in cash and top candidates like CAR and NKTR showing perfect scores, those setups will still be there after the holiday. The right move is to hold dry powder and wait for a genuine risk-on signal to enter.",
+  "briefing": "Markets are neutral today — NASDAQ slipping -0.8% with S&P 500 flat, likely reflecting pre-holiday lightness ahead of July 4th. With only $577 in cash and no risk-on signal to justify a new entry, the strategy memory playbook is clear: hold and wait for a genuine risk-on setup. All six existing positions remain healthy and are left to run toward their profit targets via stop-loss and take-profit automation.",
   "daily_lesson": {
-    "term": "Pre-Holiday Effect",
-    "explanation_en": "The Pre-Holiday Effect describes the tendency for stock markets to trade with lower volume and subdued price action in the sessions immediately before major public holidays. With fewer institutional participants active, price moves become noisier and less informative — a small dip in the NASDAQ, for instance, may simply reflect traders reducing exposure before a closure rather than any change in fundamental outlook. The smart response is to recognize the signal-to-noise ratio is poor and avoid making new bets on thin data.",
-    "explanation_zh": "「假期前效應」是指股市在重大節假日前夕，往往出現成交量下滑、價格波動趨於平淡的現象。由於大型機構減少參與，市場流動性降低，短線價格變化往往只是倉位調整的雜音，而非真實的市場方向訊號。今日那斯達克的小幅回落，便很可能只是投資人在長假前的保守操作。此時應靜觀其變，不宜在低訊雜比的環境下貿然進場。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors pull back from buying stocks and prefer to sit in cash or safer assets, often because market signals are ambiguous or sentiment is cautious. Even when strong-scoring candidates exist, a neutral-to-negative market day without a clear catalyst is not the right moment to deploy capital — entering on weak conviction increases the chance of getting stopped out early. Holding cash through low-signal days and waiting for a genuine risk-on signal (like a NASDAQ rally of 2%+) gives new positions a much stronger foundation.",
+    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者趨於保守、回避風險資產，傾向持有現金或防禦性資產的市場狀態，通常在市場訊號模糊或情緒偏謹慎時出現。即使當日有評分極高的候選股，若缺乏明確的催化劑、市場方向中性甚至略為偏弱，此時強行入市往往容易觸及止損而提前出局。耐心等待真正的風險偏好訊號——例如NASDAQ單日漲幅達2%以上——再出手，新倉位的成功率將大幅提升。"
   },
   "market_education": {
-    "summary_en": "U.S. equity markets drifted into a neutral close on July 3rd, the final session before the Independence Day holiday. The NASDAQ slipped 0.8% while the S&P 500 finished unchanged, reflecting the typical pre-holiday dynamic of light volume, reduced institutional participation, and traders squaring books before the long weekend. The split between the two indexes suggests modest rotation out of growth-oriented tech names while broader market sectors held firm — not a directional move, but calendar-driven positioning noise.",
-    "summary_zh": "美股7月3日在獨立日長假前夕收盤表現中性，那斯達克指數下跌0.8%，標普500指數則幾乎持平。這是典型的假期前效應——成交量萎縮、機構參與度下降，投資人傾向於在長假前平倉或調整持倉以降低風險。兩大指數走勢分化，反映市場資金短暫從科技成長股輪動至防禦型板塊，整體屬於日曆效應所引發的倉位調整，而非趨勢性方向訊號。",
+    "summary_en": "Markets drifted into a mixed, low-energy session on July 3rd — the last trading day before the Independence Day holiday — with NASDAQ slipping -0.8% while the S&P 500 held flat. The divergence reflects modest profit-taking in technology and growth names, sectors more sensitive to sentiment shifts, while defensive and value-oriented stocks in the S&P held their ground. Pre-holiday sessions historically see reduced institutional participation and lighter volume, which amplifies small moves and makes trend signals less reliable.",
+    "summary_zh": "七月三日（美國獨立紀念日前夕）市場交投清淡，走勢分歧。NASDAQ綜合指數下跌0.8%，標普500則幾乎持平，反映出科技及成長股在長周末前遭逢輕微獲利回吐，而標普中防禦性及價值類股則維持穩定。節前交易日機構參與度通常偏低，成交量縮減，令小幅波動被放大，技術訊號的可靠性亦相對降低。",
     "sources": []
   },
   "trades": [],
