@@ -1,22 +1,22 @@
 {
   "date": "2026-07-06",
-  "briefing": "Moderate risk-on session with NASDAQ +1.1% and S&P 500 +0.6% clears the bar for deploying our remaining $677 cash. Buying WULF — the highest-scoring candidate with the most RSI headroom (55.1) among our score-95 group — filling one open slot and diversifying into digital assets. No manual sells warranted; existing positions continue to hold above stop-loss levels and stop/target automation handles any triggers.",
+  "briefing": "Markets are moderately risk-on with NASDAQ +1.4% and S&P 500 +0.7%, meeting the threshold for capital deployment per the strategy cadence. With $677 cash and 4 open slots, the strategy calls for filling at least one position on the first genuine risk-on signal after holding through prior neutral days. AXTI earns the high-conviction buy as the strongest multi-signal setup with the lowest RSI (56.4) among the top-scored candidates — giving it the most room to run before reaching overbought territory. All six existing positions are held; no stop-loss or profit-target triggers are visible at current prices.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing is a strategy that buys stocks showing strong, consistent technical signals — betting that assets already in motion tend to stay in motion. The 'sweet spot' is when RSI sits between 55 and 70 (bullish but not overbought), MACD has just crossed above its signal line, and price is above its 20-day moving average. Today's WULF buy illustrates this perfectly: all four signals confirmed, giving us high conviction to deploy cash on a risk-on day rather than waiting for a perfect entry that may never come.",
-    "explanation_zh": "動能投資策略是指買入技術訊號持續走強的股票，押注「強者恆強」的市場慣性。最理想的入場區間是RSI介於55至70之間（偏強但尚未超買）、MACD剛完成黃金交叉，且股價站穩20日移動平均線之上。今日買入WULF正是此策略的完美示範：四大確認訊號同步出現，在風險偏好的市場環境下，我們有充分信心積極部署現金，而非守株待兔等待一個可能永遠不會出現的完美入場點。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means requiring several independent technical indicators to agree before entering a trade — for example, MACD crossover AND RSI in bullish range AND price above the 20-day moving average all firing together. Each signal alone can produce false positives; when all four align, it suggests institutional buying rather than a random intraday spike. Today's AXTI buy meets all four criteria, which is why it earns high conviction over higher-RSI alternatives like SOFI (68.9) or BFLY (67.8) that have less upside room.",
+    "explanation_zh": "多重信號確認，是指在入市前要求多個獨立技術指標同時發出買入訊號，例如MACD黃金交叉、RSI處於強勢區間、股價站上20日均線，四項條件缺一不可。單一信號容易出現假突破；當所有信號齊聚時，往往代表有機構資金積極買入，而非單純的日內隨機波動。今日買入AXTI正符合全部四項條件，這也是它獲得高信心評級的原因，優於RSI已偏高的SOFI（68.9）或BFLY（67.8）等候選股，後者上升空間相對有限。"
   },
   "market_education": {
-    "summary_en": "Markets kicked off the week in a risk-on mood as investors returned from the Independence Day holiday, with the NASDAQ rising 1.1% and the S&P 500 gaining 0.6%, led by technology and growth stocks. The advance was broad-based and driven largely by momentum and renewed positioning rather than a single macro catalyst, as no major economic data were scheduled for release. Continued optimism around AI infrastructure spending and resilient corporate earnings expectations kept sentiment tilted toward equities over defensives.",
-    "summary_zh": "投資者在獨立日假期後回歸市場，週一整體情緒偏向風險偏好，納斯達克指數上漲1.1%、標普500指數升0.6%，由科技股及成長型股票領漲。由於當日缺乏重大宏觀數據，升勢主要由動能交易與資金重新部署驅動，而非單一基本面催化劑。市場對AI基礎建設支出持續增長及企業盈利前景的樂觀情緒，令資金持續流入股市而非防禦性資產。",
+    "summary_en": "U.S. equities advanced on July 6 with the NASDAQ leading at +1.4%, driven by continued strength in technology and semiconductor names amid resilient macroeconomic conditions. The S&P 500 added +0.7%, reflecting broad market participation beyond mega-cap stocks. Risk appetite remained elevated as investors rotated into momentum names ahead of the upcoming earnings season, with semiconductors and AI-adjacent stocks drawing the most institutional interest.",
+    "summary_zh": "美國股市於7月6日上揚，那斯達克指數領漲1.4%，在穩健宏觀經濟數據的支撐下，科技及半導體板塊持續強勢。標普500指數上漲0.7%，顯示市場漲幅已擴散至大型股以外的更廣泛領域。隨著財報季臨近，風險偏好維持高位，資金積極輪動至動能股，半導體及人工智能相關個股吸引最多機構資金關注。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "WULF",
+      "ticker": "AXTI",
       "conviction": "high",
-      "reasoning": "Score 95 with all four confirmation signals aligned (MACD bullish crossover, RSI 55.1 with ample room before overbought, rising histogram, price above SMA-20) on a risk-on day; adds crypto mining sector exposure that diversifies away from our existing tech and fintech concentration."
+      "reasoning": "All four confirmation signals align — MACD crossover, RSI 56.4 (lowest among score-95 candidates, maximum runway before overbought), price above SMA-20, rising histogram — on a risk-on day with cash above the $500 deployment threshold."
     }
   ],
   "outcomes": {
