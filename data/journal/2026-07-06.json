@@ -1,22 +1,22 @@
 {
   "date": "2026-07-06",
-  "briefing": "Markets are in moderate risk-on mode with NASDAQ +1.2% and S&P +0.7% — not a blowout day, but a solid risk-on setup. Per strategy memory, the right call is to deploy remaining cash on the first genuine risk-on signal after holding through neutral days. PS is the standout: it's the only ticker with all four confirmation signals including the critical volume surge, separating it from the 11 other score-95 candidates that lack institutional participation evidence. Deploying available cash into PS to occupy one of four open slots.",
+  "briefing": "Markets posted a moderate risk-on session with NASDAQ +0.9% and S&P 500 +0.6% — positive but below the strong +2% NASDAQ threshold from strategy memory. With $677 in cash and four open slots, deploying into DSC is the right call per the portfolio rule to fill slots when cash exceeds $500. DSC is the top-ranked candidate with all four momentum signals aligned, making it the highest-conviction entry available today.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means a stock's price move is supported by unusually high trading volume — typically more than 1.5x its 20-day average. When institutions (mutual funds, hedge funds) buy heavily, they generate large volume that shows up as a 'surge.' A price breakout on high volume is far more likely to sustain than one on thin volume, because it signals real demand, not just a temporary spike. PS triggered this signal today, which is why it scored 100 while other bullish candidates scored only 95.",
-    "explanation_zh": "成交量確認是指股價的上升走勢伴隨著異常高的交易量——通常超過20日均量的1.5倍。當機構投資者（如共同基金、對沖基金）大舉買入時，會產生大量成交，形成「成交量激增」的信號。在高成交量配合下的突破，遠比縮量上漲更具持續性，因為這代表真實需求，而非短暫拉升。PS今日觸發此信號，這正是它獲得100分、而其他看漲候選股僅得95分的關鍵所在。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means requiring several independent technical indicators to agree before entering a trade — for example, RSI in the bullish zone, a MACD crossover, rising histogram, and price above the 20-day moving average all at once. Any one signal alone can be a false positive; when multiple unrelated signals point the same direction simultaneously, the probability of a real momentum move increases significantly. DSC today hit all four criteria, which is why it earns a high-conviction rating.",
+    "explanation_zh": "多重信號確認是指要求多個獨立技術指標同時發出看漲訊號，才決定入場，例如RSI處於多頭動能區間、MACD出現黃金交叉、直方圖上升，以及股價站上20日均線需同步成立。單一指標容易出現假信號；當多個不相關的指標同時指向同一方向，動能行情的可信度便大幅提升。DSC今日四項指標全數達標，因此獲得高信念評級。"
   },
   "market_education": {
-    "summary_en": "U.S. equities climbed Monday with the NASDAQ leading at +1.2% and the S&P 500 adding 0.7%, as investor appetite for growth and technology names remained strong heading into the second half of 2026. Macro conditions stayed supportive with no fresh hawkish signals from the Fed, allowing momentum in AI infrastructure and semiconductor-adjacent names to continue building. Breadth was positive across sectors, with small- and mid-cap growth stocks joining large caps in the rally.",
-    "summary_zh": "美股周一全線上揚，納斯達克指數領漲，升幅達1.2%，標普500指數亦上升0.7%，反映投資者對成長股及科技板塊的熱情在進入2026年下半年後持續高漲。宏觀環境維持有利，聯儲局未釋出新的鷹派訊號，令人工智能基礎建設及半導體相關個股的動能得以延續。市場廣度正面，中小型成長股與大型股同步上揚，市場情緒穩定。",
+    "summary_en": "U.S. equities posted modest broad-based gains on July 6th, with the NASDAQ outpacing the S&P 500 in a risk-on session. Technology and growth-oriented sectors led, reflecting continued investor appetite for momentum names following recent cooling in rate-hike fears. The moderate magnitude of the move (+0.9% NASDAQ) suggests measured optimism rather than euphoria — a healthy environment for selective momentum entries.",
+    "summary_zh": "美國股市7月6日錄得溫和普漲，那斯達克指數表現領先標普500，市場呈現風險偏好情緒。科技及成長股板塊引領升勢，反映投資者在聯準會加息預期降溫後持續追捧動能股。那斯達克漲幅0.9%屬於溫和上揚，顯示市場情緒樂觀但未至亢奮，為精選動能股入場提供良好窗口。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "PS",
+      "ticker": "DSC",
       "conviction": "high",
-      "reasoning": "Only candidate today scoring 100 with all four confirmation signals: RSI in bullish zone (68.5), MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge — the single clearest institutional participation signal in the screener."
+      "reasoning": "Score 95 with all four multi-signal confirmation criteria met — RSI in bullish momentum zone (59.2), MACD crossover, histogram rising (institutional participation signal), and price above SMA-20 — making it the strongest technical setup in today's screener on a risk-on day with $677 cash available."
     }
   ],
   "outcomes": {
