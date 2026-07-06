@@ -1,22 +1,22 @@
 {
   "date": "2026-07-06",
-  "briefing": "Markets posted a moderate risk-on session with NASDAQ +0.9% and S&P 500 +0.6% — positive but below the strong +2% NASDAQ threshold from strategy memory. With $677 in cash and four open slots, deploying into DSC is the right call per the portfolio rule to fill slots when cash exceeds $500. DSC is the top-ranked candidate with all four momentum signals aligned, making it the highest-conviction entry available today.",
+  "briefing": "Markets posted moderate risk-on gains today — NASDAQ +1.2%, S&P 500 +0.9% — enough to justify deploying the $677 in idle cash with 4 open slots available. F (Ford) earns the buy with the strongest technical setup among score-95 candidates: all four confirming signals present and RSI at 55.4, the lowest among peers, giving the most room to run before hitting overbought territory. All six existing positions are held; no stop-losses or profit targets triggered today.",
   "daily_lesson": {
     "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means requiring several independent technical indicators to agree before entering a trade — for example, RSI in the bullish zone, a MACD crossover, rising histogram, and price above the 20-day moving average all at once. Any one signal alone can be a false positive; when multiple unrelated signals point the same direction simultaneously, the probability of a real momentum move increases significantly. DSC today hit all four criteria, which is why it earns a high-conviction rating.",
-    "explanation_zh": "多重信號確認是指要求多個獨立技術指標同時發出看漲訊號，才決定入場，例如RSI處於多頭動能區間、MACD出現黃金交叉、直方圖上升，以及股價站上20日均線需同步成立。單一指標容易出現假信號；當多個不相關的指標同時指向同一方向，動能行情的可信度便大幅提升。DSC今日四項指標全數達標，因此獲得高信念評級。"
+    "explanation_en": "Multi-signal confirmation means requiring several independent technical indicators to agree before entering a trade, rather than acting on just one. Today's buy of F checked four signals simultaneously — RSI in the bullish zone, MACD crossover, rising histogram, and price above the 20-day moving average — which together suggest institutional buying rather than a random intraday spike. The more signals that align, the higher the probability the move is real and sustainable.",
+    "explanation_zh": "多重信號確認是指在進場前要求多個獨立技術指標同時發出一致信號，而非僅憑單一指標作決策。今日買入福特（F）同時滿足四項條件：RSI處於多頭區間、MACD黃金交叉、柱狀圖持續上升，以及股價站上20日均線，四項信號共振顯示背後有機構資金介入，而非短暫的盤中波動。同時發出訊號的指標越多，行情持續的可能性越高。"
   },
   "market_education": {
-    "summary_en": "U.S. equities posted modest broad-based gains on July 6th, with the NASDAQ outpacing the S&P 500 in a risk-on session. Technology and growth-oriented sectors led, reflecting continued investor appetite for momentum names following recent cooling in rate-hike fears. The moderate magnitude of the move (+0.9% NASDAQ) suggests measured optimism rather than euphoria — a healthy environment for selective momentum entries.",
-    "summary_zh": "美國股市7月6日錄得溫和普漲，那斯達克指數表現領先標普500，市場呈現風險偏好情緒。科技及成長股板塊引領升勢，反映投資者在聯準會加息預期降溫後持續追捧動能股。那斯達克漲幅0.9%屬於溫和上揚，顯示市場情緒樂觀但未至亢奮，為精選動能股入場提供良好窗口。",
+    "summary_en": "U.S. equities advanced broadly with the NASDAQ gaining 1.2% and the S&P 500 rising 0.9%, extending the risk-on tone that has characterized markets in early July 2026. Investors appeared comfortable with the growth backdrop, rotating into cyclical and technology names as no major macro headwinds emerged. The broad-based advance across sectors suggests institutional participation rather than a narrow, sentiment-driven spike.",
+    "summary_zh": "美國股市週一全面上揚，納斯達克指數上漲1.2%，標普500指數升0.9%，延續2026年七月初以來的風險偏好格局。在宏觀面未見明顯利空的情況下，投資人信心持穩，資金輪動至週期性及科技板塊。漲勢涵蓋多個板塊，顯示機構投資者積極布局，而非單一情緒面驅動的窄幅反彈。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "DSC",
-      "conviction": "high",
-      "reasoning": "Score 95 with all four multi-signal confirmation criteria met — RSI in bullish momentum zone (59.2), MACD crossover, histogram rising (institutional participation signal), and price above SMA-20 — making it the strongest technical setup in today's screener on a risk-on day with $677 cash available."
+      "ticker": "F",
+      "conviction": "medium",
+      "reasoning": "Full 4-signal confirmation (RSI 55.4 in bullish zone, MACD crossover, histogram rising, price above SMA-20) with the most RSI headroom among score-95 candidates; deploying cash above the $500 threshold on a risk-on day per portfolio risk rules."
     }
   ],
   "outcomes": {
