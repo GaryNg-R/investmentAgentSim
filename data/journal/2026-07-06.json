@@ -1,22 +1,22 @@
 {
   "date": "2026-07-06",
-  "briefing": "Markets pushed higher on a moderate risk-on session with NASDAQ +1.1% and S&P +0.7%, creating a solid deployment window without overheating signals. QNT is the standout buy — it hits all four confirmation criteria including a volume surge that flags institutional accumulation, which the strategy memory treats as the highest-quality entry signal. All six existing positions are healthy and tracking within their profit-target and stop-loss bands, so no manual exits are warranted.",
+  "briefing": "Markets are in moderate risk-on mode today (NASDAQ +1.1%, S&P 500 +0.7%) with $677 in idle cash and four open slots — conditions that call for deploying capital into the best available setup. SEDG is the clear choice: it is the only ticker on the list with all five confirmation signals, including the institutional-grade volume surge that distinguishes genuine momentum from noise. All six existing positions are held; none appear close to their stop-loss or profit-target thresholds based on current market tone.",
   "daily_lesson": {
     "term": "Volume Surge",
-    "explanation_en": "A volume surge occurs when a stock's trading volume jumps well above its recent average — typically 1.5x or more. It signals that large institutional investors (funds, banks) are actively buying, which is far more significant than retail-driven price moves. When volume surges alongside bullish technical signals like a MACD crossover and RSI in the momentum zone, it suggests the move has conviction behind it and is less likely to be a false breakout.",
-    "explanation_zh": "成交量激增，指的是一隻股票的交易量遠高於近期平均水平——通常達到1.5倍或以上。這代表大型機構投資者（如基金、銀行）正在積極買入，其意義遠比散戶主導的價格波動更為重要。當成交量激增同時配合看漲的技術指標（例如MACD黃金交叉，以及RSI處於動能區間），便意味著這波升勢具有實質支撐，出現假突破的機會相對較低。"
+    "explanation_en": "A volume surge occurs when a stock's trading volume exceeds its 20-day average by 50% or more, and it matters because volume is the market's 'voting machine.' When price rises on heavy volume, it signals that large institutional buyers — mutual funds, hedge funds, pension funds — are actively accumulating shares, not just retail noise. A breakout accompanied by a volume surge is far more likely to sustain itself than one on thin, average volume.",
+    "explanation_zh": "成交量激增，是指某檔股票的單日成交量超過20日均量1.5倍以上。成交量之所以重要，在於它是市場的「投票機器」——當股價在大量成交的配合下上漲，代表的是基金、對沖基金等機構投資者正在積極建倉，而非散戶短線炒作。伴隨成交量激增的突破，遠比在清淡成交量下的上漲更具持續力，這也是今日選入SolarEdge（SEDG）的關鍵訊號之一。"
   },
   "market_education": {
-    "summary_en": "U.S. equities advanced broadly on July 6 as investors continued pricing in resilient economic data and fading recession fears, lifting the S&P 500 +0.7% and the tech-heavy NASDAQ +1.1%. Sector rotation remained tilted toward growth and small-caps, reflecting renewed risk appetite heading into the second half of 2026. With no major macro shocks on the tape, the session was driven by momentum continuation rather than a single catalyst.",
-    "summary_zh": "美股於7月6日全面上揚，投資者持續消化強韌的經濟數據，並淡化衰退憂慮，標普500指數上漲0.7%，以科技股為主的納斯達克指數則上漲1.1%。板塊輪動繼續偏向成長股與小型股，反映市場進入2026年下半年後風險胃納改善。由於當日未有重大宏觀衝擊，整體行情主要由動能延續所帶動，而非單一催化劑驅動。",
+    "summary_en": "U.S. equities extended their rally on July 6, 2026, with the NASDAQ gaining 1.1% and the S&P 500 adding 0.7%, driven by continued optimism around resilient corporate earnings and easing concerns over Federal Reserve rate policy. Technology and growth names led the advance as investors interpreted recent macro data as supportive of a soft-landing scenario. No major geopolitical shocks disrupted sentiment, allowing risk appetite to build steadily through the session.",
+    "summary_zh": "2026年7月6日，美國股市延續升勢，納斯達克指數上漲1.1%，標普500指數上揚0.7%。市場信心主要來自企業盈利持續穩健，以及聯儲局加息周期接近尾聲的預期。科技及成長股領漲，投資者普遍認為近期宏觀數據支持「軟著陸」情境，整體風險偏好在無重大地緣政治衝擊下穩步回升。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "QNT",
+      "ticker": "SEDG",
       "conviction": "high",
-      "reasoning": "Top-scored candidate (95) with all four multi-signal confirmations: MACD crossover, RSI 57 in bullish zone, price above SMA-20, and volume surge indicating institutional participation — deploying remaining cash on this moderate risk-on day."
+      "reasoning": "Highest-scoring candidate (100) with all five confirmation signals firing simultaneously: RSI in bullish zone, MACD crossover, rising histogram, price above SMA-20, and a volume surge confirming institutional participation — the exact multi-signal setup the strategy requires before deploying cash."
     }
   ],
   "outcomes": {
