@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-06",
+  "briefing": "Markets are mixed today with NASDAQ down 0.8% and S&P 500 flat — a neutral signal that doesn't justify deploying our remaining $577 in cash. Strategy memory is clear: don't force buys on neutral days just to deploy capital; wait for a genuine risk-on environment (NASDAQ +2%+) before adding new positions. All six existing positions remain intact with no stop-losses or profit targets triggered, so we hold and preserve dry powder for the next risk-on setup.",
+  "daily_lesson": {
+    "term": "Sector Rotation",
+    "explanation_en": "Sector rotation is when investors shift money from one area of the market to another — for example, out of high-growth tech stocks (which drive the NASDAQ) and into more stable sectors like utilities or consumer staples (which make up a larger slice of the S&P 500). It explains why one index can fall while another holds flat on the same day. Recognizing rotation helps traders avoid chasing momentum in sectors that are quietly losing institutional support.",
+    "explanation_zh": "「板塊輪動」是指投資者將資金從市場的某一領域轉移至另一領域——例如從高成長科技股（推動納指的主力）流向公用事業或必需消費品等更穩定的板塊（在標普500中佔比較大）。這正是同一天納指下跌而標普持平的原因所在。識別板塊輪動，有助於交易者避免在機構資金悄然撤離的板塊中追漲。"
+  },
+  "market_education": {
+    "summary_en": "Today's session saw a split between major indices, with the S&P 500 finishing flat while the NASDAQ slipped 0.8%, signaling mild selling pressure concentrated in tech and growth stocks. No major macro catalysts drove a directional move, leaving markets in consolidation mode after a strong stretch of gains. This divergence between the S&P and NASDAQ typically reflects sector rotation — capital quietly shifting from high-multiple tech names into more defensive or value-oriented positions.",
+    "summary_zh": "今日市場走勢分化，標普500基本收平，而納指下跌0.8%，反映科技及成長股面臨溫和拋售壓力。市場缺乏明確的宏觀催化劑，在一段強勁升勢後進入整固階段。標普與納指的背離，通常意味著資金悄然從高估值科技股輪動至防禦性或價值型板塊。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13355.735246181488,
+    "cash": 677.1352210044861,
+    "pnl_dollar": 3355.735246181488,
+    "pnl_pct": 33.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
