@@ -1,17 +1,24 @@
 {
   "date": "2026-07-06",
-  "briefing": "Markets are mixed today with NASDAQ down 0.8% and S&P 500 flat — a neutral signal that doesn't justify deploying our remaining $577 in cash. Strategy memory is clear: don't force buys on neutral days just to deploy capital; wait for a genuine risk-on environment (NASDAQ +2%+) before adding new positions. All six existing positions remain intact with no stop-losses or profit targets triggered, so we hold and preserve dry powder for the next risk-on setup.",
+  "briefing": "Markets were modestly positive today (NASDAQ +0.8%, S&P 500 +0.3%) — a neutral session, not the strong risk-on setup we'd prefer for broad deployment. With $677 in cash and 4 open slots, LEU is the one exception worth acting on: a perfect 100 score with all five signals firing including a volume surge, which our playbook treats as the institutional-participation signal that separates real moves from noise. One selective buy; the remaining cash stays dry for a stronger risk-on day.",
   "daily_lesson": {
-    "term": "Sector Rotation",
-    "explanation_en": "Sector rotation is when investors shift money from one area of the market to another — for example, out of high-growth tech stocks (which drive the NASDAQ) and into more stable sectors like utilities or consumer staples (which make up a larger slice of the S&P 500). It explains why one index can fall while another holds flat on the same day. Recognizing rotation helps traders avoid chasing momentum in sectors that are quietly losing institutional support.",
-    "explanation_zh": "「板塊輪動」是指投資者將資金從市場的某一領域轉移至另一領域——例如從高成長科技股（推動納指的主力）流向公用事業或必需消費品等更穩定的板塊（在標普500中佔比較大）。這正是同一天納指下跌而標普持平的原因所在。識別板塊輪動，有助於交易者避免在機構資金悄然撤離的板塊中追漲。"
+    "term": "Volume Surge as Institutional Signal",
+    "explanation_en": "A volume surge — when a stock trades more than 1.5× its 20-day average — suggests large institutions (funds, banks) are actively buying, not just retail traders. Today, LEU's volume surge on top of its MACD crossover and bullish RSI is the distinguishing reason it earned a buy on an otherwise neutral day; without the volume confirmation, the same price move would look speculative.",
+    "explanation_zh": "成交量急增，是指某股票的成交量超過20日均量的1.5倍，通常意味著基金、銀行等大型機構正在積極買入，而非僅由散戶推動。今日LEU在MACD金叉及RSI強勢的基礎上，同時出現成交量急增，正是在中性市場下仍決定買入的關鍵原因——若欠缺成交量佐證，相同幅度的股價上升只會顯得投機意味過重。"
   },
   "market_education": {
-    "summary_en": "Today's session saw a split between major indices, with the S&P 500 finishing flat while the NASDAQ slipped 0.8%, signaling mild selling pressure concentrated in tech and growth stocks. No major macro catalysts drove a directional move, leaving markets in consolidation mode after a strong stretch of gains. This divergence between the S&P and NASDAQ typically reflects sector rotation — capital quietly shifting from high-multiple tech names into more defensive or value-oriented positions.",
-    "summary_zh": "今日市場走勢分化，標普500基本收平，而納指下跌0.8%，反映科技及成長股面臨溫和拋售壓力。市場缺乏明確的宏觀催化劑，在一段強勁升勢後進入整固階段。標普與納指的背離，通常意味著資金悄然從高估值科技股輪動至防禦性或價值型板塊。",
+    "summary_en": "U.S. equities drifted higher on Monday with the NASDAQ gaining 0.8% and the S&P 500 adding 0.3%, as investors returned from the Independence Day holiday in a cautiously optimistic mood. Technology and growth names led modest gains while the session lacked a major directional catalyst, keeping overall volume light. The muted advance reflects typical post-holiday consolidation as markets await the next significant macro data point or Fed commentary.",
+    "summary_zh": "美國股市週一小幅收高，納斯達克指數上漲0.8%，標普500指數上漲0.3%，投資者在獨立日假期後重返市場，情緒謹慎偏樂觀。科技及成長股小幅領漲，整體成交量偏低，缺乏明確催化劑驅動。此次溫和上漲反映節後整固格局，市場正靜待下一個重要宏觀數據或聯儲局官員表態。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "LEU",
+      "conviction": "high",
+      "reasoning": "Score 100 with all five signals confirmed — MACD crossover, RSI in bullish zone (66.6), price above SMA-20, rising histogram, and a volume surge signalling institutional participation; the only candidate today meeting the full multi-signal bar from our strategy playbook."
+    }
+  ],
   "outcomes": {
     "total_value": 13355.735246181488,
     "cash": 677.1352210044861,
