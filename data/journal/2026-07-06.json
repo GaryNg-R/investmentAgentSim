@@ -1,22 +1,22 @@
 {
   "date": "2026-07-06",
-  "briefing": "Markets were modestly positive today (NASDAQ +0.8%, S&P 500 +0.3%) — a neutral session, not the strong risk-on setup we'd prefer for broad deployment. With $677 in cash and 4 open slots, LEU is the one exception worth acting on: a perfect 100 score with all five signals firing including a volume surge, which our playbook treats as the institutional-participation signal that separates real moves from noise. One selective buy; the remaining cash stays dry for a stronger risk-on day.",
+  "briefing": "Moderate risk-on session with NASDAQ +1.1% and S&P 500 +0.6% clears the bar for deploying our remaining $677 cash. Buying WULF — the highest-scoring candidate with the most RSI headroom (55.1) among our score-95 group — filling one open slot and diversifying into digital assets. No manual sells warranted; existing positions continue to hold above stop-loss levels and stop/target automation handles any triggers.",
   "daily_lesson": {
-    "term": "Volume Surge as Institutional Signal",
-    "explanation_en": "A volume surge — when a stock trades more than 1.5× its 20-day average — suggests large institutions (funds, banks) are actively buying, not just retail traders. Today, LEU's volume surge on top of its MACD crossover and bullish RSI is the distinguishing reason it earned a buy on an otherwise neutral day; without the volume confirmation, the same price move would look speculative.",
-    "explanation_zh": "成交量急增，是指某股票的成交量超過20日均量的1.5倍，通常意味著基金、銀行等大型機構正在積極買入，而非僅由散戶推動。今日LEU在MACD金叉及RSI強勢的基礎上，同時出現成交量急增，正是在中性市場下仍決定買入的關鍵原因——若欠缺成交量佐證，相同幅度的股價上升只會顯得投機意味過重。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing is a strategy that buys stocks showing strong, consistent technical signals — betting that assets already in motion tend to stay in motion. The 'sweet spot' is when RSI sits between 55 and 70 (bullish but not overbought), MACD has just crossed above its signal line, and price is above its 20-day moving average. Today's WULF buy illustrates this perfectly: all four signals confirmed, giving us high conviction to deploy cash on a risk-on day rather than waiting for a perfect entry that may never come.",
+    "explanation_zh": "動能投資策略是指買入技術訊號持續走強的股票，押注「強者恆強」的市場慣性。最理想的入場區間是RSI介於55至70之間（偏強但尚未超買）、MACD剛完成黃金交叉，且股價站穩20日移動平均線之上。今日買入WULF正是此策略的完美示範：四大確認訊號同步出現，在風險偏好的市場環境下，我們有充分信心積極部署現金，而非守株待兔等待一個可能永遠不會出現的完美入場點。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted higher on Monday with the NASDAQ gaining 0.8% and the S&P 500 adding 0.3%, as investors returned from the Independence Day holiday in a cautiously optimistic mood. Technology and growth names led modest gains while the session lacked a major directional catalyst, keeping overall volume light. The muted advance reflects typical post-holiday consolidation as markets await the next significant macro data point or Fed commentary.",
-    "summary_zh": "美國股市週一小幅收高，納斯達克指數上漲0.8%，標普500指數上漲0.3%，投資者在獨立日假期後重返市場，情緒謹慎偏樂觀。科技及成長股小幅領漲，整體成交量偏低，缺乏明確催化劑驅動。此次溫和上漲反映節後整固格局，市場正靜待下一個重要宏觀數據或聯儲局官員表態。",
+    "summary_en": "Markets kicked off the week in a risk-on mood as investors returned from the Independence Day holiday, with the NASDAQ rising 1.1% and the S&P 500 gaining 0.6%, led by technology and growth stocks. The advance was broad-based and driven largely by momentum and renewed positioning rather than a single macro catalyst, as no major economic data were scheduled for release. Continued optimism around AI infrastructure spending and resilient corporate earnings expectations kept sentiment tilted toward equities over defensives.",
+    "summary_zh": "投資者在獨立日假期後回歸市場，週一整體情緒偏向風險偏好，納斯達克指數上漲1.1%、標普500指數升0.6%，由科技股及成長型股票領漲。由於當日缺乏重大宏觀數據，升勢主要由動能交易與資金重新部署驅動，而非單一基本面催化劑。市場對AI基礎建設支出持續增長及企業盈利前景的樂觀情緒，令資金持續流入股市而非防禦性資產。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "LEU",
+      "ticker": "WULF",
       "conviction": "high",
-      "reasoning": "Score 100 with all five signals confirmed — MACD crossover, RSI in bullish zone (66.6), price above SMA-20, rising histogram, and a volume surge signalling institutional participation; the only candidate today meeting the full multi-signal bar from our strategy playbook."
+      "reasoning": "Score 95 with all four confirmation signals aligned (MACD bullish crossover, RSI 55.1 with ample room before overbought, rising histogram, price above SMA-20) on a risk-on day; adds crypto mining sector exposure that diversifies away from our existing tech and fintech concentration."
     }
   ],
   "outcomes": {
