@@ -1,14 +1,14 @@
 {
   "date": "2026-07-07",
-  "briefing": "Markets are in risk-off mode today with NASDAQ down 1.1% and S&P 500 down 0.5%, and the screener returned zero candidates as a result. Cash sits at $677 — above the $500 threshold — but without screened candidates there is nothing eligible to buy. Holding all six existing positions and preserving dry powder for the next risk-on signal.",
+  "briefing": "Market is neutral today with NASDAQ down 0.7% and S&P 500 down 0.3% — not the risk-on signal needed to justify deploying the remaining $677 in cash. Despite OCUL scoring 100 with all four confirmation signals (MACD crossover, RSI in bullish zone, price above SMA-20, volume surge), strategy memory is clear: neutral days call for patience, not forced deployment. All six existing positions are held; stop-losses and profit targets will manage exits automatically.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move money into safer havens such as government bonds or cash. It is usually triggered by fear or uncertainty — about the economy, interest rates, or global events. On risk-off days, high-growth sectors like tech tend to fall harder than the broader market, which is exactly what we see today with NASDAQ down more than the S&P 500.",
-    "explanation_zh": "「避險情緒」（Risk-Off）指投資者整體拋售高風險資產（如成長股），資金轉入政府公債或現金等避風港。這種情況通常由對經濟前景、利率走向或全球局勢的擔憂所引發。在避險日，科技與成長類股跌幅往往大於大盤——正如今天納指跌幅超過標普500所呈現的格局。"
+    "explanation_en": "Risk-off is when investors pull back from higher-risk assets like growth stocks and move toward safety — cash, bonds, or defensive sectors. On a neutral or declining day, deploying capital into new positions means buying into weakness without a clear catalyst, which increases the chance of getting stuck in a losing trade. The disciplined move is to preserve dry powder and wait for a confirmed risk-on environment before committing.",
+    "explanation_zh": "「避險情緒（Risk-Off）」是指投資者減少對高風險資產（如成長股）的敞口，轉向現金、債券或防禦性板塊的市場狀態。在中性或下跌的交易日中貿然進場，等同於在沒有明確催化劑的情況下逢跌買入，增加被套的機率。正確做法是保留充裕的備用資金（Dry Powder），等待明確的風險偏好回升訊號再行建倉。"
   },
   "market_education": {
-    "summary_en": "Today's risk-off session reflects broad investor caution, with the NASDAQ leading declines at -1.1% as growth and technology names bore the brunt of selling pressure. Risk-off moves typically occur when macro uncertainty rises — such as rate policy concerns, geopolitical headlines, or weak economic data — prompting traders to reduce exposure to higher-beta equities. When the NASDAQ falls more sharply than the S&P 500, it signals that investors are rotating out of growth stocks and into safer assets like bonds or cash.",
-    "summary_zh": "今日市場呈現避險情緒，納斯達克指數領跌1.1%，成長型及科技股首當其衝。當宏觀不確定性升溫——例如聯準會利率政策走向、地緣政治事件或經濟數據疲軟——投資者往往會減持高Beta值股票，轉向債券或現金等防禦性資產。納指跌幅明顯大於標普500，顯示市場正從成長股撤離，資金流向更為穩健的板塊。",
+    "summary_en": "U.S. equities drifted lower on Tuesday as investors weighed mixed economic signals and took profits following recent multi-week highs. Technology shares led the modest decline, with the NASDAQ slipping 0.7% as rate-sensitive growth stocks pulled back amid uncertainty over the Federal Reserve's next policy move. Broader market breadth remained narrow, with most S&P 500 sectors finishing flat to slightly negative, suggesting a consolidation phase rather than a directional shift.",
+    "summary_zh": "美股週二小幅走低，投資者在近期連續上漲後進行獲利了結，並消化喜憂參半的經濟數據。科技股領跌，那斯達克指數下滑0.7%，對利率敏感的成長股因聯準會下一步政策走向不明朗而承壓。標普500各板塊普遍持平至小跌，顯示市場正處於整理階段，方向性尚未明朗。",
     "sources": []
   },
   "trades": [],
