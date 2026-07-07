@@ -1,24 +1,17 @@
 {
   "date": "2026-07-07",
-  "briefing": "Markets are risk-on today with NASDAQ up 1.1% and S&P 500 up 0.7%, a moderate but genuine green day. With $677 in cash, 4 open slots, and SEDG scoring a perfect 100 with all multi-signal confirmation including a volume surge, deploying into it is the clear call. Existing positions in QQQ, EAT, OLED, WT, ROAD, and INOD are held — no exits warranted today.",
+  "briefing": "NASDAQ fell -1.0% and S&P 500 slipped -0.3%, making this a clear risk-off day rather than a genuine neutral. Per strategy memory, we hold dry powder through non-risk-on days and wait for NASDAQ +2%+ confirmation before deploying the remaining $677.14. The top-100-score candidates (MAAS, DOCN, VG, ALMS) remain compelling technically and will be first in line when the market turns.",
   "daily_lesson": {
-    "term": "Volume Surge",
-    "explanation_en": "A volume surge occurs when a stock's trading volume spikes significantly above its recent average — typically 1.5x or more. It matters because price moves accompanied by heavy volume signal that large institutional investors (funds, banks) are actively buying, not just retail traders. When a volume surge aligns with a MACD crossover and RSI in the bullish zone, it's one of the strongest technical buy signals available.",
-    "explanation_zh": "「成交量激增」是指某支股票的單日成交量顯著高於近期均量，通常以1.5倍為門檻。其重要性在於：若價格上漲同時伴隨大量成交，代表大型機構（如基金、銀行）正在積極買入，而非僅是散戶追高。當成交量激增同時配合MACD金叉及RSI處於強勢區間，便構成技術面上最具說服力的買入信號之一。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off is a market condition where investors reduce exposure to higher-risk assets like growth stocks and move toward safer ones like bonds or cash. On a risk-off day — like today's -1% NASDAQ session — buying aggressively can mean catching a falling knife rather than riding a trend. Experienced investors hold dry powder on these days and wait for confirmed risk-on signals before deploying capital.",
+    "explanation_zh": "「風險規避」（Risk-Off）是指投資人降低對高風險資產（如成長股）的敞口，轉向債券或現金等較安全資產的市場狀態。在今天那斯達克下跌1%這樣的風險規避日中，貿然進場買入可能是「接飛刀」，而非順勢操作。有經驗的投資人會在這類日子保留子彈，等待明確的風險偏好回升信號後再部署資金。"
   },
   "market_education": {
-    "summary_en": "U.S. equities extended their recent recovery today, with technology and growth stocks leading as investor risk appetite remained firm. The NASDAQ's 1.1% gain reflected continued confidence in AI infrastructure spending and a cooling in near-term rate-hike fears. Broad participation across sectors suggested this was not a narrow short-squeeze but genuine buying interest from institutional participants.",
-    "summary_zh": "美國股市今日延續近期反彈格局，科技與成長股引領大盤上揚，投資者風險偏好維持穩健。那斯達克指數上漲1.1%，反映市場對AI基礎設施支出前景持樂觀態度，同時對短期升息疑慮有所緩解。各板塊普遍上漲，顯示今日買盤並非單一軋空行情，而是機構資金的積極布局。",
+    "summary_en": "U.S. equities pulled back Tuesday as tech-sector selling pressure weighed on the NASDAQ, which dropped 1.0%, while the broader S&P 500 fell a more modest 0.3%, suggesting rotation rather than broad panic. The divergence between a sharper NASDAQ decline and a softer S&P 500 dip typically reflects profit-taking in high-growth names that had run ahead of fundamentals, while defensive and value sectors provided a cushion. Without a clear positive catalyst — such as a Fed pivot signal or strong earnings beat — investors chose to reduce exposure rather than add new risk heading into the week.",
+    "summary_zh": "美股週二走跌，科技股的拋售壓力拖累那斯達克指數下跌1.0%，標普500指數則相對溫和地下跌0.3%，顯示市場資金出現輪動而非全面恐慌。那斯達克跌幅明顯大於標普500，通常反映高成長股漲幅過大後的獲利了結，而防禦性及價值型類股則提供了緩衝。在缺乏明確正面催化劑（如聯準會轉向信號或強勁財報）的情況下，投資人選擇降低風險敞口，靜待更明確的方向。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "SEDG",
-      "conviction": "high",
-      "reasoning": "Top-ranked candidate with all five signals firing — RSI in bullish zone (56.3), MACD crossover with rising histogram, price above SMA-20, and a volume surge indicating institutional participation; deploys remaining cash on the highest-conviction setup available on a confirmed risk-on day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13355.735246181488,
     "cash": 677.1352210044861,

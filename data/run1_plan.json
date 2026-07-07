@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-07-07T13:01:08.720830+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-07-07T14:01:14.084062+00:00",
+  "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "SEDG",
-        "conviction": "high",
-        "reasoning": "Top-ranked candidate with all five signals firing \u2014 RSI in bullish zone (56.3), MACD crossover with rising histogram, price above SMA-20, and a volume surge indicating institutional participation; deploys remaining cash on the highest-conviction setup available on a confirmed risk-on day."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Markets are risk-on today with NASDAQ up 1.1% and S&P 500 up 0.7%, a moderate but genuine green day. With $677 in cash, 4 open slots, and SEDG scoring a perfect 100 with all multi-signal confirmation including a volume surge, deploying into it is the clear call. Existing positions in QQQ, EAT, OLED, WT, ROAD, and INOD are held \u2014 no exits warranted today.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "NASDAQ fell -1.0% and S&P 500 slipped -0.3%, making this a clear risk-off day rather than a genuine neutral. Per strategy memory, we hold dry powder through non-risk-on days and wait for NASDAQ +2%+ confirmation before deploying the remaining $677.14. The top-100-score candidates (MAAS, DOCN, VG, ALMS) remain compelling technically and will be first in line when the market turns.",
     "market_education": {
-      "summary_en": "U.S. equities extended their recent recovery today, with technology and growth stocks leading as investor risk appetite remained firm. The NASDAQ's 1.1% gain reflected continued confidence in AI infrastructure spending and a cooling in near-term rate-hike fears. Broad participation across sectors suggested this was not a narrow short-squeeze but genuine buying interest from institutional participants.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e02\u4eca\u65e5\u5ef6\u7e8c\u8fd1\u671f\u53cd\u5f48\u683c\u5c40\uff0c\u79d1\u6280\u8207\u6210\u9577\u80a1\u5f15\u9818\u5927\u76e4\u4e0a\u63da\uff0c\u6295\u8cc7\u8005\u98a8\u96aa\u504f\u597d\u7dad\u6301\u7a69\u5065\u3002\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.1%\uff0c\u53cd\u6620\u5e02\u5834\u5c0dAI\u57fa\u790e\u8a2d\u65bd\u652f\u51fa\u524d\u666f\u6301\u6a02\u89c0\u614b\u5ea6\uff0c\u540c\u6642\u5c0d\u77ed\u671f\u5347\u606f\u7591\u616e\u6709\u6240\u7de9\u89e3\u3002\u5404\u677f\u584a\u666e\u904d\u4e0a\u6f32\uff0c\u986f\u793a\u4eca\u65e5\u8cb7\u76e4\u4e26\u975e\u55ae\u4e00\u8ecb\u7a7a\u884c\u60c5\uff0c\u800c\u662f\u6a5f\u69cb\u8cc7\u91d1\u7684\u7a4d\u6975\u5e03\u5c40\u3002",
+      "summary_en": "U.S. equities pulled back Tuesday as tech-sector selling pressure weighed on the NASDAQ, which dropped 1.0%, while the broader S&P 500 fell a more modest 0.3%, suggesting rotation rather than broad panic. The divergence between a sharper NASDAQ decline and a softer S&P 500 dip typically reflects profit-taking in high-growth names that had run ahead of fundamentals, while defensive and value sectors provided a cushion. Without a clear positive catalyst \u2014 such as a Fed pivot signal or strong earnings beat \u2014 investors chose to reduce exposure rather than add new risk heading into the week.",
+      "summary_zh": "\u7f8e\u80a1\u9031\u4e8c\u8d70\u8dcc\uff0c\u79d1\u6280\u80a1\u7684\u62cb\u552e\u58d3\u529b\u62d6\u7d2f\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc1.0%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u76f8\u5c0d\u6eab\u548c\u5730\u4e0b\u8dcc0.3%\uff0c\u986f\u793a\u5e02\u5834\u8cc7\u91d1\u51fa\u73fe\u8f2a\u52d5\u800c\u975e\u5168\u9762\u6050\u614c\u3002\u90a3\u65af\u9054\u514b\u8dcc\u5e45\u660e\u986f\u5927\u65bc\u6a19\u666e500\uff0c\u901a\u5e38\u53cd\u6620\u9ad8\u6210\u9577\u80a1\u6f32\u5e45\u904e\u5927\u5f8c\u7684\u7372\u5229\u4e86\u7d50\uff0c\u800c\u9632\u79a6\u6027\u53ca\u50f9\u503c\u578b\u985e\u80a1\u5247\u63d0\u4f9b\u4e86\u7de9\u885d\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u6b63\u9762\u50ac\u5316\u5291\uff08\u5982\u806f\u6e96\u6703\u8f49\u5411\u4fe1\u865f\u6216\u5f37\u52c1\u8ca1\u5831\uff09\u7684\u60c5\u6cc1\u4e0b\uff0c\u6295\u8cc7\u4eba\u9078\u64c7\u964d\u4f4e\u98a8\u96aa\u655e\u53e3\uff0c\u975c\u5f85\u66f4\u660e\u78ba\u7684\u65b9\u5411\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Surge",
-      "explanation_en": "A volume surge occurs when a stock's trading volume spikes significantly above its recent average \u2014 typically 1.5x or more. It matters because price moves accompanied by heavy volume signal that large institutional investors (funds, banks) are actively buying, not just retail traders. When a volume surge aligns with a MACD crossover and RSI in the bullish zone, it's one of the strongest technical buy signals available.",
-      "explanation_zh": "\u300c\u6210\u4ea4\u91cf\u6fc0\u589e\u300d\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u55ae\u65e5\u6210\u4ea4\u91cf\u986f\u8457\u9ad8\u65bc\u8fd1\u671f\u5747\u91cf\uff0c\u901a\u5e38\u4ee51.5\u500d\u70ba\u9580\u6abb\u3002\u5176\u91cd\u8981\u6027\u5728\u65bc\uff1a\u82e5\u50f9\u683c\u4e0a\u6f32\u540c\u6642\u4f34\u96a8\u5927\u91cf\u6210\u4ea4\uff0c\u4ee3\u8868\u5927\u578b\u6a5f\u69cb\uff08\u5982\u57fa\u91d1\u3001\u9280\u884c\uff09\u6b63\u5728\u7a4d\u6975\u8cb7\u5165\uff0c\u800c\u975e\u50c5\u662f\u6563\u6236\u8ffd\u9ad8\u3002\u7576\u6210\u4ea4\u91cf\u6fc0\u589e\u540c\u6642\u914d\u5408MACD\u91d1\u53c9\u53caRSI\u8655\u65bc\u5f37\u52e2\u5340\u9593\uff0c\u4fbf\u69cb\u6210\u6280\u8853\u9762\u4e0a\u6700\u5177\u8aaa\u670d\u529b\u7684\u8cb7\u5165\u4fe1\u865f\u4e4b\u4e00\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "Risk-off is a market condition where investors reduce exposure to higher-risk assets like growth stocks and move toward safer ones like bonds or cash. On a risk-off day \u2014 like today's -1% NASDAQ session \u2014 buying aggressively can mean catching a falling knife rather than riding a trend. Experienced investors hold dry powder on these days and wait for confirmed risk-on signals before deploying capital.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u4eba\u964d\u4f4e\u5c0d\u9ad8\u98a8\u96aa\u8cc7\u7522\uff08\u5982\u6210\u9577\u80a1\uff09\u7684\u655e\u53e3\uff0c\u8f49\u5411\u50b5\u5238\u6216\u73fe\u91d1\u7b49\u8f03\u5b89\u5168\u8cc7\u7522\u7684\u5e02\u5834\u72c0\u614b\u3002\u5728\u4eca\u5929\u90a3\u65af\u9054\u514b\u4e0b\u8dcc1%\u9019\u6a23\u7684\u98a8\u96aa\u898f\u907f\u65e5\u4e2d\uff0c\u8cbf\u7136\u9032\u5834\u8cb7\u5165\u53ef\u80fd\u662f\u300c\u63a5\u98db\u5200\u300d\uff0c\u800c\u975e\u9806\u52e2\u64cd\u4f5c\u3002\u6709\u7d93\u9a57\u7684\u6295\u8cc7\u4eba\u6703\u5728\u9019\u985e\u65e5\u5b50\u4fdd\u7559\u5b50\u5f48\uff0c\u7b49\u5f85\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u56de\u5347\u4fe1\u865f\u5f8c\u518d\u90e8\u7f72\u8cc7\u91d1\u3002"
     }
   }
 }
