@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-07",
+  "briefing": "Markets are risk-on today with NASDAQ up 1.1% and S&P 500 up 0.7%, a moderate but genuine green day. With $677 in cash, 4 open slots, and SEDG scoring a perfect 100 with all multi-signal confirmation including a volume surge, deploying into it is the clear call. Existing positions in QQQ, EAT, OLED, WT, ROAD, and INOD are held — no exits warranted today.",
+  "daily_lesson": {
+    "term": "Volume Surge",
+    "explanation_en": "A volume surge occurs when a stock's trading volume spikes significantly above its recent average — typically 1.5x or more. It matters because price moves accompanied by heavy volume signal that large institutional investors (funds, banks) are actively buying, not just retail traders. When a volume surge aligns with a MACD crossover and RSI in the bullish zone, it's one of the strongest technical buy signals available.",
+    "explanation_zh": "「成交量激增」是指某支股票的單日成交量顯著高於近期均量，通常以1.5倍為門檻。其重要性在於：若價格上漲同時伴隨大量成交，代表大型機構（如基金、銀行）正在積極買入，而非僅是散戶追高。當成交量激增同時配合MACD金叉及RSI處於強勢區間，便構成技術面上最具說服力的買入信號之一。"
+  },
+  "market_education": {
+    "summary_en": "U.S. equities extended their recent recovery today, with technology and growth stocks leading as investor risk appetite remained firm. The NASDAQ's 1.1% gain reflected continued confidence in AI infrastructure spending and a cooling in near-term rate-hike fears. Broad participation across sectors suggested this was not a narrow short-squeeze but genuine buying interest from institutional participants.",
+    "summary_zh": "美國股市今日延續近期反彈格局，科技與成長股引領大盤上揚，投資者風險偏好維持穩健。那斯達克指數上漲1.1%，反映市場對AI基礎設施支出前景持樂觀態度，同時對短期升息疑慮有所緩解。各板塊普遍上漲，顯示今日買盤並非單一軋空行情，而是機構資金的積極布局。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "SEDG",
+      "conviction": "high",
+      "reasoning": "Top-ranked candidate with all five signals firing — RSI in bullish zone (56.3), MACD crossover with rising histogram, price above SMA-20, and a volume surge indicating institutional participation; deploys remaining cash on the highest-conviction setup available on a confirmed risk-on day."
+    }
+  ],
+  "outcomes": {
+    "total_value": 13355.735246181488,
+    "cash": 677.1352210044861,
+    "pnl_dollar": 3355.735246181488,
+    "pnl_pct": 33.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
