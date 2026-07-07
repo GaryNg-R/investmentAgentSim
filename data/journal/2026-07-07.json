@@ -1,14 +1,14 @@
 {
   "date": "2026-07-07",
-  "briefing": "Market is risk-off today with NASDAQ down 1.2% and S&P 500 down 0.4%, and the screener returned no candidates. Per strategy, we hold all six existing positions and keep the $677 cash dry — no forcing buys into a down tape. We wait for the next genuine risk-on signal before deploying.",
+  "briefing": "Markets sold off today with NASDAQ down 1.2% and the S&P 500 down 0.4%, triggering a risk-off signal. The screener returned no candidates, making new buys impossible regardless. Holding all six existing positions and preserving the $677 cash balance for a better entry point — consistent with the lesson of not forcing trades on weak-market days.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safer havens such as bonds, gold, or cash. It typically happens when fear or uncertainty rises — bad economic news, rate hike fears, or geopolitical tension. On risk-off days, active strategies should avoid new buys and protect existing gains rather than chase falling prices.",
-    "explanation_zh": "「避險情緒」（Risk-Off）是指投資人普遍拋售成長股等風險較高的資產，轉而買入債券、黃金或持有現金等避風港。這種情況通常發生在市場不確定性升溫之際，例如經濟數據不如預期、加息預期升溫或地緣政治局勢緊張。在避險日，主動投資策略應避免建立新倉，並著重保護現有獲利，而非追入下跌的股票。"
+    "explanation_en": "A 'risk-off' day is when investors collectively decide to reduce exposure to higher-risk assets like growth stocks and move toward safer ones like bonds, cash, or defensive sectors. Today's NASDAQ decline of 1.2% versus the S&P 500's milder -0.4% drop is a textbook example — tech and growth names get hit harder because they carry more risk. In these conditions, sitting on cash and waiting for the market to stabilize is often a better strategy than chasing new positions.",
+    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者集體決定降低高風險資產（如成長股）的持倉比例，轉而持有更安全的資產，例如債券、現金或防禦型股票。今日納斯達克下跌1.2%，而標普500僅跌0.4%，正是典型案例——科技股與成長股因風險溢價較高，在市場情緒轉壞時往往跌得更深。在此種市場環境下，持有現金靜待市場企穩，往往比追買新倉位更為明智。"
   },
   "market_education": {
-    "summary_en": "Today's session saw broad risk-off selling as investors rotated out of equities, with growth-heavy NASDAQ bearing the brunt at -1.2% versus the more defensive S&P 500 at -0.4%. Risk-off days typically occur when macro uncertainty rises — through weak economic data, rate concerns, or geopolitical headlines — prompting traders to reduce exposure to higher-beta assets. The divergence between NASDAQ and S&P 500 signals that technology and growth stocks faced heavier selling than value and defensive sectors.",
-    "summary_zh": "今日市場呈現避險情緒，投資人普遍減持股票倉位，以科技股為主的那斯達克指數跌幅較重，達1.2%，而防禦性較強的標普500指數則相對抗跌，僅跌0.4%。每逢宏觀不確定性升溫——無論是經濟數據疲弱、利率預期轉向，抑或地緣政治風險——市場便會出現避險拋售，資金從高貝塔值的成長型資產流出。那斯達克與標普500之間的跌幅差距，正反映科技及成長股所承受的拋壓明顯大於價值股與防禦型板塊。",
+    "summary_en": "U.S. equities pulled back broadly on July 7, with tech-heavy NASDAQ leading declines at -1.2% while the broader S&P 500 fell a more modest -0.4%, suggesting sector rotation out of growth and into defensives. This divergence between NASDAQ and S&P 500 is a classic sign of risk-off sentiment, where investors reduce exposure to high-beta growth stocks and either move to cash or shift into staples, utilities, and bonds. Without specific macro catalysts identified in today's feed, the move likely reflects a combination of profit-taking after recent gains and caution ahead of upcoming economic data.",
+    "summary_zh": "美股7月7日普遍回落，以科技股為主的納斯達克跌幅較深，達1.2%，而標普500指數跌幅相對溫和，僅下跌0.4%，顯示市場出現由成長股轉向防禦性資產的板塊輪動。這種納斯達克與標普500之間的背離走勢，是典型的避險情緒訊號——投資者減少高貝塔成長股部位，轉而持有現金或轉移至消費必需品、公用事業及債券等防禦性資產。在缺乏明確宏觀觸發因素的情況下，此次跌勢可能反映近期漲幅後的獲利回吐，以及市場在等待重要經濟數據公布前的審慎態度。",
     "sources": []
   },
   "trades": [],
