@@ -1,14 +1,14 @@
 {
   "date": "2026-07-07",
-  "briefing": "Market is neutral today with NASDAQ down 0.7% and S&P 500 down 0.3% — not the risk-on signal needed to justify deploying the remaining $677 in cash. Despite OCUL scoring 100 with all four confirmation signals (MACD crossover, RSI in bullish zone, price above SMA-20, volume surge), strategy memory is clear: neutral days call for patience, not forced deployment. All six existing positions are held; stop-losses and profit targets will manage exits automatically.",
+  "briefing": "Neutral day with NASDAQ -0.6% and S&P 500 -0.2% — not the risk-on environment needed to deploy the remaining $677 into new positions. The top candidates (DOCN, VERA, NVDA) all show clean 4-signal setups and remain on watch, but strategy memory is clear: hold through neutral days and wait for a genuine risk-on signal like NASDAQ +2% before adding. Existing positions are intact; stop-losses and profit targets will manage them automatically.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off is when investors pull back from higher-risk assets like growth stocks and move toward safety — cash, bonds, or defensive sectors. On a neutral or declining day, deploying capital into new positions means buying into weakness without a clear catalyst, which increases the chance of getting stuck in a losing trade. The disciplined move is to preserve dry powder and wait for a confirmed risk-on environment before committing.",
-    "explanation_zh": "「避險情緒（Risk-Off）」是指投資者減少對高風險資產（如成長股）的敞口，轉向現金、債券或防禦性板塊的市場狀態。在中性或下跌的交易日中貿然進場，等同於在沒有明確催化劑的情況下逢跌買入，增加被套的機率。正確做法是保留充裕的備用資金（Dry Powder），等待明確的風險偏好回升訊號再行建倉。"
+    "term": "Consolidation Day",
+    "explanation_en": "A consolidation day is when markets move sideways or drift slightly lower after a strong rally — prices 'consolidate' recent gains before the next move. It is not a warning sign; it is healthy. The risk for traders is overreacting by selling winners or chasing new positions into weakening momentum. The correct response is patience: let existing positions breathe and wait for the next directional signal.",
+    "explanation_zh": "整理日是指市場在一段強勁上漲後橫盤震盪或小幅回落的交易日——股價在「整固」近期漲幅，等待下一波方向性突破。整理日本身並非警告訊號，反而是健康的市場行為。交易者常犯的錯誤是在此時過度反應，急於停利出場或追入動能減弱的新部位。正確做法是保持耐心：讓現有持倉自然運作，等待下一個明確的方向性信號。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted lower on Tuesday as investors weighed mixed economic signals and took profits following recent multi-week highs. Technology shares led the modest decline, with the NASDAQ slipping 0.7% as rate-sensitive growth stocks pulled back amid uncertainty over the Federal Reserve's next policy move. Broader market breadth remained narrow, with most S&P 500 sectors finishing flat to slightly negative, suggesting a consolidation phase rather than a directional shift.",
-    "summary_zh": "美股週二小幅走低，投資者在近期連續上漲後進行獲利了結，並消化喜憂參半的經濟數據。科技股領跌，那斯達克指數下滑0.7%，對利率敏感的成長股因聯準會下一步政策走向不明朗而承壓。標普500各板塊普遍持平至小跌，顯示市場正處於整理階段，方向性尚未明朗。",
+    "summary_en": "U.S. equities drifted lower on Monday as investors took a cautious stance heading into the second half of earnings season, with the NASDAQ slipping 0.6% as high-growth tech names faced mild selling pressure after a strong multi-week rally. The S&P 500 held up better, off only 0.2%, suggesting defensive rotation rather than outright risk-off sentiment. No major macro catalysts drove the move — it was largely a consolidation session after recent gains.",
+    "summary_zh": "美國股市週一小幅回落，投資者在財報季下半場開始前保持觀望態度。那斯達克指數下跌0.6%，高增長科技股在近期大幅上漲後承壓整理。標普500指數跌幅較溫和，僅下跌0.2%，顯示市場以防禦性輪動為主，而非全面避險。整體而言，今日走勢屬於技術性整理，缺乏重大宏觀催化劑。",
     "sources": []
   },
   "trades": [],
