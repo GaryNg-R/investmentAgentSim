@@ -1,14 +1,14 @@
 {
   "date": "2026-07-08",
-  "briefing": "Markets posted a mild pullback today (NASDAQ -0.3%, S&P 500 -0.5%), confirming a neutral tape with no real directional catalyst. Per learned strategy, neutral days call for patience — $677 in cash stays dry until a genuine risk-on signal (NASDAQ +2%+) appears, at which point PENG, MTZ, BIDU, or TNGX are the top candidates given their perfect multi-signal confirmation. All six existing positions remain intact, with automated stop-losses and profit targets doing the monitoring work.",
+  "briefing": "Both NASDAQ (-0.6%) and S&P 500 (-0.8%) are in negative territory today, marking a neutral-to-risk-off session. Despite having $677 cash and 4 open slots, strategy memory is clear: do not deploy on neutral market days — hold dry powder and wait for a genuine risk-on signal (NASDAQ +2% or better) before entering new positions. All six existing positions are held; no stop-loss or profit-target triggers are apparent from the current data.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "Risk-off describes a market mood where investors become cautious and pull back from higher-risk assets like growth stocks, preferring to hold cash or safer assets instead. On days like today — where the major indexes drift slightly negative with no clear bullish catalyst — deploying new capital into momentum names increases the chance of buying into weakness. The strategy of waiting for a strong risk-on signal before buying is a practical way to avoid that trap.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指投資者情緒趨於謹慎、減少對高風險資產（如成長股）配置、轉而持有現金或避險資產的市場狀態。在今天這樣的行情下——主要指數小幅下跌且缺乏明確多頭催化劑——貿然追入動能股，容易在弱勢中接盤。因此，等待明確的風險偏好（Risk-On）信號再進場，是控制買入成本風險的實用策略。"
+    "explanation_en": "A 'risk-off' day is when investors pull back from higher-risk assets like growth stocks and move toward safer holdings like cash or bonds. Even if your stock watchlist looks strong technically, entering new positions on a risk-off day means you're swimming against the market current — it raises the chance of an immediate drawdown right after you buy. Waiting for a risk-on day (when the broad market is clearly trending up) gives your new positions a tailwind instead of a headwind.",
+    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者撤出股票等風險資產、轉向現金或債券等避風港的市場狀態。即使個股技術面看似強勁，在市場整體走弱時入市，等同於逆流而行，建倉後短期回調的風險大幅上升。等待市場重拾升勢的「風險偏好」（Risk-On）時機，才能讓新倉位順勢而為，事半功倍。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted lower on Wednesday as investors paused following a strong recent rally, with no major catalysts to extend gains. Rotation out of technology names weighed on the NASDAQ slightly more than the broader S&P 500, consistent with profit-taking after an extended run. Treasury yields remained stable, suggesting the pullback reflected consolidation rather than renewed macro fear.",
-    "summary_zh": "美國股市週三小幅下跌，投資者在近期強勁反彈後選擇觀望，市場缺乏明確的上漲催化劑。科技股的獲利了結令那斯達克指數承壓略高於標普500，走勢符合多頭行情高位整固的典型模式。公債殖利率維持平穩，顯示此次回調屬技術性調整，而非宏觀基本面惡化所致。",
+    "summary_en": "U.S. equities pulled back modestly on Tuesday as both the S&P 500 and NASDAQ slipped below their recent highs, reflecting a brief pause after weeks of strong gains driven by AI optimism and resilient earnings. Sector rotation appeared to be a factor, with energy names surging (OXY, PARR, SM all showing RSI above 80) while broader tech cooled. Without a specific macro catalyst to push markets higher, investors appear to be locking in profits near resistance levels ahead of upcoming economic data.",
+    "summary_zh": "美國股市週二小幅回落，標普500及那斯達克指數雙雙從近期高位退步，顯示市場在AI熱潮及穩健財報驅動的數週強勁升勢後進入短暫整固。板塊輪動跡象明顯，能源股（OXY、PARR、SM等RSI均超過80）逆市走強，而科技板塊整體降溫。在缺乏明確宏觀催化劑的背景下，投資者似乎趁阻力位附近獲利回吐，靜候即將公布的經濟數據。",
     "sources": []
   },
   "trades": [],
