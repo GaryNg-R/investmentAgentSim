@@ -1,14 +1,14 @@
 {
   "date": "2026-07-08",
-  "briefing": "Both NASDAQ (-0.6%) and S&P 500 (-0.8%) are in negative territory today, marking a neutral-to-risk-off session. Despite having $677 cash and 4 open slots, strategy memory is clear: do not deploy on neutral market days — hold dry powder and wait for a genuine risk-on signal (NASDAQ +2% or better) before entering new positions. All six existing positions are held; no stop-loss or profit-target triggers are apparent from the current data.",
+  "briefing": "Markets are risk-off today with NASDAQ down 1.0% and S&P 500 down 0.9%, and the screener returned zero candidates — consistent with a day to sit on hands. All six existing positions are held; stop-losses and profit targets remain the only active exit mechanisms. Strategy memory is clear: two neutral/risk-off days in a row with no compelling setup is correct behavior, not a failure.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors pull back from higher-risk assets like growth stocks and move toward safer holdings like cash or bonds. Even if your stock watchlist looks strong technically, entering new positions on a risk-off day means you're swimming against the market current — it raises the chance of an immediate drawdown right after you buy. Waiting for a risk-on day (when the broad market is clearly trending up) gives your new positions a tailwind instead of a headwind.",
-    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者撤出股票等風險資產、轉向現金或債券等避風港的市場狀態。即使個股技術面看似強勁，在市場整體走弱時入市，等同於逆流而行，建倉後短期回調的風險大幅上升。等待市場重拾升勢的「風險偏好」（Risk-On）時機，才能讓新倉位順勢而為，事半功倍。"
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like stocks and move into safer ones like government bonds or cash. It often happens when there is uncertainty, fear, or bad economic news in the market. On risk-off days, even good individual stocks can get dragged lower because the selling is broad and indiscriminate.",
+    "explanation_zh": "「風險規避」（Risk-Off）是指投資者普遍拋售股票等風險較高的資產，轉而持有國債或現金等避險資產的市場狀態。這類情緒通常由不確定性、恐慌情緒或負面經濟數據所觸發。在風險規避的交易日，即使基本面良好的個股也可能因整體拋售而受到拖累，因為市場的賣壓是全面且無差別的。"
   },
   "market_education": {
-    "summary_en": "U.S. equities pulled back modestly on Tuesday as both the S&P 500 and NASDAQ slipped below their recent highs, reflecting a brief pause after weeks of strong gains driven by AI optimism and resilient earnings. Sector rotation appeared to be a factor, with energy names surging (OXY, PARR, SM all showing RSI above 80) while broader tech cooled. Without a specific macro catalyst to push markets higher, investors appear to be locking in profits near resistance levels ahead of upcoming economic data.",
-    "summary_zh": "美國股市週二小幅回落，標普500及那斯達克指數雙雙從近期高位退步，顯示市場在AI熱潮及穩健財報驅動的數週強勁升勢後進入短暫整固。板塊輪動跡象明顯，能源股（OXY、PARR、SM等RSI均超過80）逆市走強，而科技板塊整體降溫。在缺乏明確宏觀催化劑的背景下，投資者似乎趁阻力位附近獲利回吐，靜候即將公布的經濟數據。",
+    "summary_en": "Today's broad market pullback reflects a classic risk-off session where investors rotated away from equities into safer assets such as bonds and cash. Both the NASDAQ and S&P 500 declined roughly 1%, suggesting the selling pressure was broad-based rather than sector-specific. On risk-off days, momentum screeners tend to go quiet because the conditions that produce high-scoring breakout candidates — rising volume, positive price action, strong sector tailwinds — simply aren't present.",
+    "summary_zh": "今日市場出現典型的風險規避走勢，投資者將資金從股市撤出，轉向債券及現金等避險資產。納斯達克指數與標普500指數均下跌約1%，跌勢涵蓋多個板塊，顯示並非單一產業的問題。在風險規避的交易日，動能選股系統通常難以找到高分候選標的，因為推動突破行情所需的成交量放大、價格上升與板塊順風等條件均不具備。",
     "sources": []
   },
   "trades": [],
