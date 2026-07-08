@@ -1,14 +1,14 @@
 {
   "date": "2026-07-08",
-  "briefing": "Markets are risk-off today with NASDAQ down 1.0% and S&P 500 down 0.9%, and the screener returned zero candidates — consistent with a day to sit on hands. All six existing positions are held; stop-losses and profit targets remain the only active exit mechanisms. Strategy memory is clear: two neutral/risk-off days in a row with no compelling setup is correct behavior, not a failure.",
+  "briefing": "Market is neutral to slightly negative today — NASDAQ -0.1%, S&P 500 -0.4% — with no meaningful catalyst driving direction. Per strategy memory, we do not force new buys on neutral days just to deploy $677 cash, even with 4 open slots. The top-scoring candidates (PENG, AKAM, AVGO, ANET, NVDA at 95) remain compelling but will be better entries on the first genuine risk-on session. Existing positions are left untouched; stop-losses and profit targets manage them automatically.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like stocks and move into safer ones like government bonds or cash. It often happens when there is uncertainty, fear, or bad economic news in the market. On risk-off days, even good individual stocks can get dragged lower because the selling is broad and indiscriminate.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指投資者普遍拋售股票等風險較高的資產，轉而持有國債或現金等避險資產的市場狀態。這類情緒通常由不確定性、恐慌情緒或負面經濟數據所觸發。在風險規避的交易日，即使基本面良好的個股也可能因整體拋售而受到拖累，因為市場的賣壓是全面且無差別的。"
+    "term": "Neutral Market / Consolidation",
+    "explanation_en": "A neutral or consolidating market is one where buyers and sellers are roughly balanced — prices drift sideways or tick slightly in either direction with no strong trend. For an active portfolio, this is often the right time to hold cash and avoid chasing weak setups, because entering on a neutral day offers poor risk/reward compared to a confirmed risk-on day with volume and breadth behind it.",
+    "explanation_zh": "所謂中性市場或整固市況，是指多空雙方力量大致均衡，價格在窄幅區間橫行，缺乏明確方向。對於主動管理的投資組合而言，此時持有現金、不追逐弱勢入市訊號往往是更理智的選擇——在中性日入場的風險回報比遠不如在成交量配合、板塊輪動明確的強勢風險偏好日進場來得划算。"
   },
   "market_education": {
-    "summary_en": "Today's broad market pullback reflects a classic risk-off session where investors rotated away from equities into safer assets such as bonds and cash. Both the NASDAQ and S&P 500 declined roughly 1%, suggesting the selling pressure was broad-based rather than sector-specific. On risk-off days, momentum screeners tend to go quiet because the conditions that produce high-scoring breakout candidates — rising volume, positive price action, strong sector tailwinds — simply aren't present.",
-    "summary_zh": "今日市場出現典型的風險規避走勢，投資者將資金從股市撤出，轉向債券及現金等避險資產。納斯達克指數與標普500指數均下跌約1%，跌勢涵蓋多個板塊，顯示並非單一產業的問題。在風險規避的交易日，動能選股系統通常難以找到高分候選標的，因為推動突破行情所需的成交量放大、價格上升與板塊順風等條件均不具備。",
+    "summary_en": "U.S. equities drifted lower Wednesday as investors digested mixed signals heading into the Q2 earnings season. The S&P 500 shed 0.4% while the NASDAQ was nearly flat at -0.1%, reflecting sector rotation rather than a broad risk-off move — energy and utilities held firm while tech treaded water. No single headline dominated; the market appears to be in a consolidation phase after recent gains, with traders watching for guidance from the Federal Reserve and upcoming CPI data before committing to new directional bets.",
+    "summary_zh": "週三美股小幅走低，投資者在第二季業績公佈季前審慎觀望。標普500指數跌0.4%，納斯達克指數幾近持平，跌幅僅0.1%，反映的是板塊輪動而非全面避險情緒——能源與公用事業股相對穩健，科技股則橫盤整理。市場並無單一主導消息面，技術面上近期升勢後的整固態勢明顯，交易員普遍靜待聯儲局最新表態及即將公佈的消費者物價指數數據，再部署新方向性倉位。",
     "sources": []
   },
   "trades": [],
