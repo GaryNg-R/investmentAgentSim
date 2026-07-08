@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-08",
+  "briefing": "Markets are in risk-off mode today with NASDAQ down 1.2% and S&P 500 down 0.4%. The screener returned no candidates, which is the correct signal to stand pat. All six existing positions are being held — exiting strong holdings on a single down day would be reactive, not strategic. Dry powder stays ready for the next risk-on setup.",
+  "daily_lesson": {
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors collectively move away from higher-risk investments like growth stocks and toward safer assets like bonds or cash. You can spot it when NASDAQ (which holds more speculative tech names) drops significantly more than the broader S&P 500 — exactly what happened today. In risk-off conditions, the smart move is to avoid adding new positions and let your existing stop-losses and profit targets do their job.",
+    "explanation_zh": "「風險規避」（Risk-Off）是指投資者集體從高風險資產（如成長股）撤退，轉向債券或現金等避險資產的市場狀態。當你看到那斯達克跌幅遠超標普500時，就是典型的風險規避訊號——今天正是如此。在這種環境下，明智的做法是避免建立新倉位，讓現有的止損與止盈機制自動運作，靜待市場情緒回穩。"
+  },
+  "market_education": {
+    "summary_en": "U.S. equities pulled back Wednesday as investors rotated out of risk assets amid renewed caution over the pace of Federal Reserve rate cuts and lingering uncertainty around global trade policy. Tech stocks led losses, dragging the NASDAQ down 1.2%, while defensive sectors held up better and cushioned the broader S&P 500 decline to just 0.4%. The divergence between NASDAQ and S&P 500 suggests the selling was concentrated in high-multiple growth names rather than broad capitulation.",
+    "summary_zh": "美股週三普遍回落，投資者對聯準會降息步伐放緩及全球貿易政策不確定性感到憂慮，資金從風險資產撤出。科技股首當其衝，那斯達克指數跌幅達1.2%，而防禦性板塊表現相對穩健，使標普500指數跌幅收窄至0.4%。那斯達克與標普500之間的表現分化顯示，拋售主要集中於高估值成長股，而非全面性的市場恐慌。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13355.735246181488,
+    "cash": 677.1352210044861,
+    "pnl_dollar": 3355.735246181488,
+    "pnl_pct": 33.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
