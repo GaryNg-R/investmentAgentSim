@@ -1,14 +1,14 @@
 {
   "date": "2026-07-08",
-  "briefing": "Markets are in risk-off mode today with NASDAQ down 1.2% and S&P 500 down 0.4%. The screener returned no candidates, which is the correct signal to stand pat. All six existing positions are being held — exiting strong holdings on a single down day would be reactive, not strategic. Dry powder stays ready for the next risk-on setup.",
+  "briefing": "Markets posted a mild pullback today (NASDAQ -0.3%, S&P 500 -0.5%), confirming a neutral tape with no real directional catalyst. Per learned strategy, neutral days call for patience — $677 in cash stays dry until a genuine risk-on signal (NASDAQ +2%+) appears, at which point PENG, MTZ, BIDU, or TNGX are the top candidates given their perfect multi-signal confirmation. All six existing positions remain intact, with automated stop-losses and profit targets doing the monitoring work.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors collectively move away from higher-risk investments like growth stocks and toward safer assets like bonds or cash. You can spot it when NASDAQ (which holds more speculative tech names) drops significantly more than the broader S&P 500 — exactly what happened today. In risk-off conditions, the smart move is to avoid adding new positions and let your existing stop-losses and profit targets do their job.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指投資者集體從高風險資產（如成長股）撤退，轉向債券或現金等避險資產的市場狀態。當你看到那斯達克跌幅遠超標普500時，就是典型的風險規避訊號——今天正是如此。在這種環境下，明智的做法是避免建立新倉位，讓現有的止損與止盈機制自動運作，靜待市場情緒回穩。"
+    "explanation_en": "Risk-off describes a market mood where investors become cautious and pull back from higher-risk assets like growth stocks, preferring to hold cash or safer assets instead. On days like today — where the major indexes drift slightly negative with no clear bullish catalyst — deploying new capital into momentum names increases the chance of buying into weakness. The strategy of waiting for a strong risk-on signal before buying is a practical way to avoid that trap.",
+    "explanation_zh": "「風險規避」（Risk-Off）是指投資者情緒趨於謹慎、減少對高風險資產（如成長股）配置、轉而持有現金或避險資產的市場狀態。在今天這樣的行情下——主要指數小幅下跌且缺乏明確多頭催化劑——貿然追入動能股，容易在弱勢中接盤。因此，等待明確的風險偏好（Risk-On）信號再進場，是控制買入成本風險的實用策略。"
   },
   "market_education": {
-    "summary_en": "U.S. equities pulled back Wednesday as investors rotated out of risk assets amid renewed caution over the pace of Federal Reserve rate cuts and lingering uncertainty around global trade policy. Tech stocks led losses, dragging the NASDAQ down 1.2%, while defensive sectors held up better and cushioned the broader S&P 500 decline to just 0.4%. The divergence between NASDAQ and S&P 500 suggests the selling was concentrated in high-multiple growth names rather than broad capitulation.",
-    "summary_zh": "美股週三普遍回落，投資者對聯準會降息步伐放緩及全球貿易政策不確定性感到憂慮，資金從風險資產撤出。科技股首當其衝，那斯達克指數跌幅達1.2%，而防禦性板塊表現相對穩健，使標普500指數跌幅收窄至0.4%。那斯達克與標普500之間的表現分化顯示，拋售主要集中於高估值成長股，而非全面性的市場恐慌。",
+    "summary_en": "U.S. equities drifted lower on Wednesday as investors paused following a strong recent rally, with no major catalysts to extend gains. Rotation out of technology names weighed on the NASDAQ slightly more than the broader S&P 500, consistent with profit-taking after an extended run. Treasury yields remained stable, suggesting the pullback reflected consolidation rather than renewed macro fear.",
+    "summary_zh": "美國股市週三小幅下跌，投資者在近期強勁反彈後選擇觀望，市場缺乏明確的上漲催化劑。科技股的獲利了結令那斯達克指數承壓略高於標普500，走勢符合多頭行情高位整固的典型模式。公債殖利率維持平穩，顯示此次回調屬技術性調整，而非宏觀基本面惡化所致。",
     "sources": []
   },
   "trades": [],
