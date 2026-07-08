@@ -1,14 +1,14 @@
 {
   "date": "2026-07-08",
-  "briefing": "Market is neutral today — NASDAQ -0.3% and S&P 500 -0.5% — falling well short of the risk-on threshold needed to justify new entries. Per learned strategy, $677 in cash is being preserved for deployment on the next genuine risk-on day rather than forced into a flat tape with no edge. All 6 existing positions are held; stop-losses and profit targets will handle exits automatically.",
+  "briefing": "Markets were essentially flat today — NASDAQ unchanged, S&P 500 down a modest 0.3% — a classic neutral session with no clear directional catalyst. While we have $677 in cash and four open slots, strategy memory is clear: don't deploy capital on neutral days without a risk-on signal. Top candidates like VNET, RAPP, ANET, and NVDA all score 95 and show strong MACD/RSI signals, but none have a volume surge confirming institutional participation. Holding dry powder for the first genuine risk-on day.",
   "daily_lesson": {
-    "term": "Risk-Off Sentiment",
-    "explanation_en": "Risk-off sentiment describes a market mood where investors pull back from buying new positions and prefer holding cash, waiting for clearer upside signals. On neutral or slightly negative days like today, deploying capital into new stocks risks entering at short-term weakness with no momentum tailwind behind you. The disciplined response is to preserve dry powder and wait for a clear risk-on signal — such as NASDAQ up 2% or more — before committing.",
-    "explanation_zh": "「風險規避情緒」（Risk-Off Sentiment）指的是市場投資人偏向謹慎、傾向持有現金而非積極加倉的心態。在今天這種指數小跌、方向不明的行情下，貿然買進新部位等同於在缺乏動能支撐的情況下追高，風險報酬比並不划算。正確做法是保留彈藥，靜待明確的風險偏好回升訊號——例如那斯達克單日上漲2%以上——再考慮部署資金，這才是資金管理的紀律所在。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to keeping cash reserves available so you can act decisively when a high-conviction opportunity appears. Rather than rushing to invest idle cash on a dull market day, disciplined investors wait for a clear risk-on signal — like a strong NASDAQ rally — before deploying capital. The cost of waiting a day or two is small compared to entering a position at the wrong time.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是投資術語，指保留現金儲備以便在最佳時機果斷出手。有紀律的投資者不會因為手上有閒置現金就急著在平淡的市場日入場，而是等待明確的風險偏好訊號——例如那斯達克強勁上漲——才部署資金。多等一兩天的機會成本遠小於在錯誤時機貿然買入的代價。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted modestly lower on Wednesday as investors paused following several weeks of gains, with both the S&P 500 and NASDAQ closing slightly in the red on thin conviction and light volume. No single macro catalyst dominated the session; rather, a combination of profit-taking in technology names and cautious positioning ahead of upcoming earnings season weighed on sentiment. Treasury yields held relatively steady, suggesting the market is in a wait-and-see mode rather than experiencing genuine risk aversion.",
-    "summary_zh": "美股週三小幅收跌，標普500指數下跌0.5%、那斯達克指數跌0.3%，市場在近期一段漲勢後出現技術性休整，成交量清淡，缺乏明確方向。盤中並無重大催化劑主導走勢，主要是科技類股遭逢獲利了結賣壓，加上財報季即將到來，投資人趨於觀望保守。美債殖利率保持穩定，顯示此次回調屬短期獲利了結性質，而非系統性風險擔憂所致。",
+    "summary_en": "U.S. equities drifted sideways on Wednesday as investors adopted a wait-and-see posture ahead of upcoming economic data. The NASDAQ closed essentially flat while the S&P 500 edged down 0.3%, reflecting a lack of strong catalysts to push markets in either direction. Trading volume was light, typical of a consolidation session where neither bulls nor bears had conviction.",
+    "summary_zh": "美股周三整體橫向整理，投資人靜待即將公布的經濟數據，市場缺乏明確方向。那斯達克指數幾乎持平，標普500小幅下跌0.3%，反映出多空雙方均無強烈做多或做空的意願。成交量清淡，典型的盤整格局，市場正在蓄勢待發，等待下一個具方向性的觸媒出現。",
     "sources": []
   },
   "trades": [],
