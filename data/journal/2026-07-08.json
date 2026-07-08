@@ -1,14 +1,14 @@
 {
   "date": "2026-07-08",
-  "briefing": "Market is neutral to slightly negative today — NASDAQ -0.1%, S&P 500 -0.4% — with no meaningful catalyst driving direction. Per strategy memory, we do not force new buys on neutral days just to deploy $677 cash, even with 4 open slots. The top-scoring candidates (PENG, AKAM, AVGO, ANET, NVDA at 95) remain compelling but will be better entries on the first genuine risk-on session. Existing positions are left untouched; stop-losses and profit targets manage them automatically.",
+  "briefing": "Market is neutral today — NASDAQ -0.3% and S&P 500 -0.5% — falling well short of the risk-on threshold needed to justify new entries. Per learned strategy, $677 in cash is being preserved for deployment on the next genuine risk-on day rather than forced into a flat tape with no edge. All 6 existing positions are held; stop-losses and profit targets will handle exits automatically.",
   "daily_lesson": {
-    "term": "Neutral Market / Consolidation",
-    "explanation_en": "A neutral or consolidating market is one where buyers and sellers are roughly balanced — prices drift sideways or tick slightly in either direction with no strong trend. For an active portfolio, this is often the right time to hold cash and avoid chasing weak setups, because entering on a neutral day offers poor risk/reward compared to a confirmed risk-on day with volume and breadth behind it.",
-    "explanation_zh": "所謂中性市場或整固市況，是指多空雙方力量大致均衡，價格在窄幅區間橫行，缺乏明確方向。對於主動管理的投資組合而言，此時持有現金、不追逐弱勢入市訊號往往是更理智的選擇——在中性日入場的風險回報比遠不如在成交量配合、板塊輪動明確的強勢風險偏好日進場來得划算。"
+    "term": "Risk-Off Sentiment",
+    "explanation_en": "Risk-off sentiment describes a market mood where investors pull back from buying new positions and prefer holding cash, waiting for clearer upside signals. On neutral or slightly negative days like today, deploying capital into new stocks risks entering at short-term weakness with no momentum tailwind behind you. The disciplined response is to preserve dry powder and wait for a clear risk-on signal — such as NASDAQ up 2% or more — before committing.",
+    "explanation_zh": "「風險規避情緒」（Risk-Off Sentiment）指的是市場投資人偏向謹慎、傾向持有現金而非積極加倉的心態。在今天這種指數小跌、方向不明的行情下，貿然買進新部位等同於在缺乏動能支撐的情況下追高，風險報酬比並不划算。正確做法是保留彈藥，靜待明確的風險偏好回升訊號——例如那斯達克單日上漲2%以上——再考慮部署資金，這才是資金管理的紀律所在。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted lower Wednesday as investors digested mixed signals heading into the Q2 earnings season. The S&P 500 shed 0.4% while the NASDAQ was nearly flat at -0.1%, reflecting sector rotation rather than a broad risk-off move — energy and utilities held firm while tech treaded water. No single headline dominated; the market appears to be in a consolidation phase after recent gains, with traders watching for guidance from the Federal Reserve and upcoming CPI data before committing to new directional bets.",
-    "summary_zh": "週三美股小幅走低，投資者在第二季業績公佈季前審慎觀望。標普500指數跌0.4%，納斯達克指數幾近持平，跌幅僅0.1%，反映的是板塊輪動而非全面避險情緒——能源與公用事業股相對穩健，科技股則橫盤整理。市場並無單一主導消息面，技術面上近期升勢後的整固態勢明顯，交易員普遍靜待聯儲局最新表態及即將公佈的消費者物價指數數據，再部署新方向性倉位。",
+    "summary_en": "U.S. equities drifted modestly lower on Wednesday as investors paused following several weeks of gains, with both the S&P 500 and NASDAQ closing slightly in the red on thin conviction and light volume. No single macro catalyst dominated the session; rather, a combination of profit-taking in technology names and cautious positioning ahead of upcoming earnings season weighed on sentiment. Treasury yields held relatively steady, suggesting the market is in a wait-and-see mode rather than experiencing genuine risk aversion.",
+    "summary_zh": "美股週三小幅收跌，標普500指數下跌0.5%、那斯達克指數跌0.3%，市場在近期一段漲勢後出現技術性休整，成交量清淡，缺乏明確方向。盤中並無重大催化劑主導走勢，主要是科技類股遭逢獲利了結賣壓，加上財報季即將到來，投資人趨於觀望保守。美債殖利率保持穩定，顯示此次回調屬短期獲利了結性質，而非系統性風險擔憂所致。",
     "sources": []
   },
   "trades": [],
