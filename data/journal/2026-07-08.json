@@ -1,14 +1,14 @@
 {
   "date": "2026-07-08",
-  "briefing": "Markets posted a mixed, directionless session today — the S&P 500 dipped slightly (-0.3%) while the NASDAQ barely held positive (+0.2%). Several top candidates (HUT, CORZ, BHVN) are showing strong momentum scores and volume surges, but today's neutral tape does not provide the risk-on confirmation the strategy requires before deploying the remaining $677 in cash. Holding all six positions and preserving dry powder for the next genuine risk-on session.",
+  "briefing": "Market was neutral today — NASDAQ barely positive at +0.2% while S&P 500 slipped -0.3%, a mixed divergence that does not meet the risk-on threshold for deploying cash. Strategy memory is explicit: do not force buys on neutral days just to deploy idle capital. Cash stays at $677 waiting for a genuine risk-on signal (NASDAQ +2%+ day) before entering any of the high-scoring candidates like HUT, CORZ, or ANET.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash reserves held back intentionally so an investor can deploy capital at the right moment rather than forcing trades in unfavorable conditions. Keeping cash available gives you the flexibility to buy high-conviction opportunities when they appear — like a strong risk-on day — instead of being fully invested during uncertain periods. Today we kept $677 in dry powder rather than buying on a neutral tape, waiting for the market to signal a clearer uptrend.",
-    "explanation_zh": "「備用資金」（Dry Powder）是指投資者刻意保留的現金儲備，目的是在市場出現更佳機會時才集中入市，而非在市況不明朗時勉強建倉。保留現金讓投資者在出現強烈做多信號時能夠快速行動，例如納斯達克大漲2%以上的進攻日。今日市場方向中性，我們選擇保留677美元備用資金，等待更明確的多頭信號再行動，而非在信心不足時倉促入市。"
+    "term": "Index Divergence",
+    "explanation_en": "Index divergence occurs when two major stock indices — like the NASDAQ and S&P 500 — move in opposite directions on the same day. It typically signals sector rotation, where investors are selling some types of stocks (e.g. industrials) while buying others (e.g. tech), rather than a broad market move up or down. A divergent day without a clear directional trend is called 'neutral' and is often a reason to hold cash rather than put new money to work.",
+    "explanation_zh": "指數背離是指那斯達克與標普500等主要股市指數在同一天出現方向相反的走勢。這通常意味著市場出現板塊輪動——投資者賣出某些類型的股票（如工業股），同時買入另一些（如科技股），而非整體市場的上漲或下跌。這種缺乏明確方向的「中性日」，往往是持有現金、等待更強進場信號的最佳時機。"
   },
   "market_education": {
-    "summary_en": "U.S. equities traded in a narrow, indecisive range on July 8, with the S&P 500 edging lower (-0.3%) while the tech-heavy NASDAQ eked out a small gain (+0.2%), reflecting a split between defensive positioning in the broader market and continued resilience in mega-cap technology names. The divergence suggests investors are selectively rotating into high-quality growth without broadly embracing risk, a pattern often seen mid-week ahead of key macro data releases. Crypto-adjacent equities (HUT, CORZ, WULF) stood out with volume surges, likely driven by continued institutional accumulation in the Bitcoin mining sector independent of the overall market tone.",
-    "summary_zh": "美國股市7月8日窄幅整理，走勢分化——標普500指數小幅收跌0.3%，而以科技股為主的納斯達克指數則微升0.2%，反映市場在防禦性佈局與科技龍頭韌性之間拉鋸。這種分化格局顯示，投資者在尚未全面擁抱風險的情況下，選擇性地流入優質成長股，常見於重要宏觀數據公布前的觀望期。加密貨幣礦業相關個股（HUT、CORZ、WULF）錄得成交量激增，主要受比特幣挖礦板塊機構持續吸籌帶動，走勢相對獨立於大盤方向。",
+    "summary_en": "U.S. equities showed a bifurcated session today, with the tech-heavy NASDAQ eking out a fractional gain of +0.2% while the broader S&P 500 slipped -0.3%, reflecting mixed investor sentiment ahead of upcoming earnings season. The divergence suggests modest rotation out of cyclicals and into selective technology names, but without a clear catalyst to drive conviction. Trading volumes were subdued, consistent with a consolidation day rather than a directional move.",
+    "summary_zh": "今日美股走勢分歧，以科技股為主的那斯達克指數微漲0.2%，而涵蓋範圍更廣的標普500指數則小跌0.3%，反映市場在財報季來臨前情緒複雜。這種分化走勢顯示資金在周期股與科技股之間進行小幅輪動，但缺乏明確催化劑支撐方向性突破。整體成交量偏低，市場進入盤整格局。",
     "sources": []
   },
   "trades": [],
