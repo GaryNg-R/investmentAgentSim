@@ -1,14 +1,14 @@
 {
   "date": "2026-07-09",
-  "briefing": "Markets extended gains today with NASDAQ up 1.3% and S&P 500 up 0.8%, a moderate risk-on session that justifies deploying our remaining $677 cash. CHRN is the clear standout — it's the only candidate scoring 100 with all five momentum signals confirmed including a volume surge, signaling genuine institutional interest rather than noise. With 4 open slots and cash sitting above $500, holding idle capital on a risk-on day would leave performance on the table; CHRN earns the buy at high conviction.",
+  "briefing": "Markets are in risk-on mode with NASDAQ up 1.3% and S&P 500 up 0.8%, providing a clear signal to deploy the remaining $677 in cash. CHRN is the standout candidate with a perfect 100 score and all four confirmation signals aligned — the strongest technical setup in the screener. Existing positions (QQQ, EAT, OLED, WT, ROAD, INOD) remain in bullish territory with no exit signals, so we hold and let profit targets and stop-losses manage them.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means waiting until several independent indicators all point in the same direction before entering a trade. Instead of acting on just one signal like a rising RSI or a MACD crossover, you look for all of them to align simultaneously — ideally with a volume surge that shows real money is moving. Today's CHRN buy is a textbook example: RSI bullish, MACD crossed up, histogram rising, price above SMA-20, and a volume spike all fired at once.",
-    "explanation_zh": "多重信號確認，是指在入場交易前，等待多個獨立技術指標同步指向同一方向。投資人不應只依賴單一指標（如RSI上升或MACD黃金交叉），而應等待多個條件同時成立——尤其是成交量放大，代表有真實大資金介入。今日買入CHRN正是教科書式的多重信號確認：RSI處於強勢區間、MACD向上穿越信號線、柱狀圖持續走高、股價站上20日均線，且成交量同步暴增，五項指標齊發。"
+    "term": "Technical Confluence",
+    "explanation_en": "Technical confluence occurs when multiple independent indicators all point in the same direction at the same time — such as a bullish MACD crossover, an RSI in the momentum zone, price above its moving average, and a volume surge all appearing together. When signals converge like this, it suggests broad agreement among different types of market participants (trend followers, momentum traders, volume-based algorithms), making the setup higher-probability than any single signal alone. CHRN today is a textbook example: all four criteria aligned, earning it a perfect score.",
+    "explanation_zh": "技術共振（Technical Confluence）是指多個獨立的技術指標同時指向同一方向，例如MACD看漲交叉、RSI處於動能區間、價格位於均線上方，以及成交量放大同步出現。當多個信號共振時，代表趨勢追蹤者、動能交易者和量化策略等不同市場參與者達成共識，其勝率遠高於單一指標的參考價值。今日CHRN正是典型案例：四大確認條件齊備，獲得滿分評級。"
   },
   "market_education": {
-    "summary_en": "Equities broadly advanced today as investor sentiment remained constructive, with technology and growth names leading the move higher. The NASDAQ outpaced the S&P 500 (up 1.3% vs 0.8%), a typical pattern on risk-on days when market participants rotate into higher-beta sectors. Breadth was positive and volume in trending names like CHRN confirmed that buyers — not just algorithmic noise — were driving the session.",
-    "summary_zh": "美股今日普遍上漲，市場情緒保持樂觀，科技及成長股領漲。那斯達克指數升幅（+1.3%）超越標普500（+0.8%），此為風險偏好日的典型特徵，市場資金傾向輪動至高貝塔板塊。今日上漲個股市場廣度較佳，CHRN等趨勢股成交量明顯放大，顯示資金為真實買盤驅動，而非演算法短線波動。",
+    "summary_en": "U.S. equities advanced broadly today with the NASDAQ gaining 1.3% and the S&P 500 up 0.8%, driven by continued optimism around AI infrastructure spending and resilient corporate earnings expectations heading into Q2 reporting season. Technology and semiconductor names led the session, with investors rotating into higher-beta growth stocks as risk appetite improved. No major macro headwinds emerged to challenge the bullish tone, leaving momentum-driven strategies in a favorable position.",
+    "summary_zh": "美國股市今日普遍上漲，納斯達克指數漲幅達1.3%，標普500亦上升0.8%，主要受人工智能基礎建設支出持續擴大及企業盈利預期穩健所帶動。科技股與半導體類股領漲，投資者在市場風險偏好提升的背景下積極買入高貝塔成長股。宏觀面未見明顯利空，整體動能策略仍處於有利環境。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "CHRN",
       "conviction": "high",
-      "reasoning": "Perfect score 100 with all five signals firing simultaneously — RSI bullish zone (67.1), MACD crossover, MACD histogram rising, price well above SMA-20 ($20.52 vs $18.26), and volume surge confirming institutional participation — exactly the multi-signal setup the strategy requires before deploying cash."
+      "reasoning": "Perfect 100-score with all four multi-signal confirmation criteria met — RSI in bullish zone (65.7), MACD bullish crossover with rising histogram, price well above SMA-20, and a volume surge indicating institutional participation on a risk-on day."
     }
   ],
   "outcomes": {
