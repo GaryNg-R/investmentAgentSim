@@ -1,22 +1,22 @@
 {
   "date": "2026-07-09",
-  "briefing": "Moderate risk-on day (NASDAQ +0.8%, S&P +0.6%) — solid but not the strong +2% signal that warrants full deployment. With $677 cash above the $500 threshold and 4 open slots, strategy memory calls for at least one buy. ORCL clears all four technical gates and offers enterprise AI exposure without chasing an overbought RSI, so one high-conviction entry is the right move; remaining small cash reserve sits ready for a stronger signal tomorrow.",
+  "briefing": "Markets are in mild risk-on territory with NASDAQ +0.9% and S&P 500 +0.6% — positive but not euphoric, which suits disciplined deployment rather than aggressive loading. With $677 in cash and 4 open slots, the rules strongly favor putting capital to work rather than sitting idle. ICHR scores 95 with all four required confirmation signals and offers direct exposure to semiconductor equipment demand driven by the AI infrastructure buildout — best risk-adjusted fit for the available cash.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Relying on a single indicator — like RSI alone — can produce false signals. Multi-signal confirmation means requiring several independent technical indicators (e.g. MACD crossover + RSI in the bullish zone + rising histogram + price above SMA-20) to agree before entering a trade. When all four align, it suggests momentum is real and backed by market participation, not just noise.",
-    "explanation_zh": "單獨依賴一項技術指標（例如只看RSI）容易產生假訊號。「多重訊號確認」是指要求數個獨立的技術指標同時發出一致的買進訊號，例如MACD金叉、RSI處於多頭動能區間、柱狀體上升，以及股價站穩20日均線之上，四項條件全部成立，代表趨勢由真實的市場力道驅動，而非短暫雜訊，此時進場的成功率相對較高。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing is a strategy that targets stocks showing strong, sustained upward price trends backed by technical confirmation — rising RSI, MACD bullish crossovers, and price holding above key moving averages. The logic is that institutional buying pressure tends to persist for a period once it starts, making recent winners statistically more likely to keep winning in the near term. Today's ICHR buy illustrates the approach: we required all four signals to align before committing, which filters out random spikes and focuses only on setups with genuine institutional participation.",
+    "explanation_zh": "動能投資策略是指買入具備持續上升趨勢並獲技術指標確認的股票——包括RSI持續走高、MACD出現看漲交叉，以及股價穩守關鍵均線之上。其邏輯在於，一旦機構資金開始持續買入，這股力道往往會延續一段時間，令近期強勢股在短期內繼續跑贏的概率較高。今日買入ICHR正是典型示範：我們要求四項技術信號同時成立方才入市，有效過濾隨機波動，只鎖定具真實機構資金參與的交易機會。"
   },
   "market_education": {
-    "summary_en": "Equities drifted higher in a low-drama session as cooling inflation expectations kept rate-cut hopes alive heading into the next Fed meeting. Technology names led, buoyed by continued capital commitments to AI data-center buildouts from major cloud providers. Breadth was positive but unspectacular, suggesting broad participation without the kind of institutional urgency that accompanies a true breakout day.",
-    "summary_zh": "股市在平靜氣氛中小幅走高，因通脹預期持續降溫，市場對聯準會降息的期待升溫。科技股領漲，主要受惠於大型雲端業者持續加碼AI資料中心投資的題材支撐。盤面雖呈現正面廣度，但缺乏機構資金積極進場的力道，整體走勢溫和上揚，不具明顯突破格局。",
+    "summary_en": "U.S. equities posted modest gains on Wednesday, with the NASDAQ rising 0.9% and the S&P 500 adding 0.6%, as investor sentiment remained constructive around technology and semiconductor names. Institutional buyers continued rotating into momentum-driven growth stocks, particularly those tied to AI infrastructure and chip manufacturing capacity expansion. The advance was broad but measured — reflecting underlying confidence rather than the speculative excess that often signals a near-term top.",
+    "summary_zh": "美國股市週三小幅收漲，那斯達克指數上升0.9%，標普500指數上升0.6%，投資者情緒對科技及半導體類股持續正面。機構資金持續流入具動能的成長股，尤其是與人工智能基礎設施及晶片產能擴張相關的個股。此次上漲面廣但力度審慎，反映市場具備信心基礎，而非泡沫式的投機追高，整體風險偏好穩健可持續。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ORCL",
+      "ticker": "ICHR",
       "conviction": "high",
-      "reasoning": "Score 95 with all four confirmation signals — MACD crossover, RSI 63.3 in healthy bullish zone, rising histogram, and price 3.6% above SMA-20 — plus strong AI/cloud infrastructure tailwinds; $677 cash deploys cleanly into ~4 shares."
+      "reasoning": "All four confirmation signals present — RSI 59.6 in the bullish zone, MACD bullish crossover, histogram rising, price well above SMA-20 — and semiconductor equipment is a direct beneficiary of ongoing AI chip fab expansion; deploying available cash on a risk-on day per strategy cadence."
     }
   ],
   "outcomes": {
