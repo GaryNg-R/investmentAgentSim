@@ -1,22 +1,22 @@
 {
   "date": "2026-07-09",
-  "briefing": "Markets are mildly risk-on today with NASDAQ up 1.2% and S&P 500 up 0.7% — not a strong surge, but a clear green signal. With $677 in cash and 4 open slots, the strategy calls for deploying into a high-conviction name rather than sitting idle. BTDR earns all four confirmation signals and is the cleanest setup on the screener at a price that fits remaining cash.",
+  "briefing": "Markets extended gains today with NASDAQ up 1.3% and S&P 500 up 0.8%, a moderate risk-on session that justifies deploying our remaining $677 cash. CHRN is the clear standout — it's the only candidate scoring 100 with all five momentum signals confirmed including a volume surge, signaling genuine institutional interest rather than noise. With 4 open slots and cash sitting above $500, holding idle capital on a risk-on day would leave performance on the table; CHRN earns the buy at high conviction.",
   "daily_lesson": {
     "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means requiring several independent indicators to align before entering a trade, rather than acting on just one signal. Today's BTDR buy required RSI in the bullish zone, a MACD crossover, a rising histogram, and price above the 20-day moving average — all four together. This stacking of evidence filters out false positives and increases the probability that a move has real momentum behind it, not just noise.",
-    "explanation_zh": "多重訊號確認是指在進場交易前，要求多個獨立技術指標同步發出信號，而非僅依賴單一指標。今日買入BTDR的依據包括：RSI處於多頭動能區、MACD出現黃金交叉、柱狀圖持續走升，以及股價站穩20日均線之上，四項指標全數到位。這種疊加確認的方式可有效過濾假信號，提高判斷行情確有真實動能而非短暫雜訊的準確率。"
+    "explanation_en": "Multi-signal confirmation means waiting until several independent indicators all point in the same direction before entering a trade. Instead of acting on just one signal like a rising RSI or a MACD crossover, you look for all of them to align simultaneously — ideally with a volume surge that shows real money is moving. Today's CHRN buy is a textbook example: RSI bullish, MACD crossed up, histogram rising, price above SMA-20, and a volume spike all fired at once.",
+    "explanation_zh": "多重信號確認，是指在入場交易前，等待多個獨立技術指標同步指向同一方向。投資人不應只依賴單一指標（如RSI上升或MACD黃金交叉），而應等待多個條件同時成立——尤其是成交量放大，代表有真實大資金介入。今日買入CHRN正是教科書式的多重信號確認：RSI處於強勢區間、MACD向上穿越信號線、柱狀圖持續走高、股價站上20日均線，且成交量同步暴增，五項指標齊發。"
   },
   "market_education": {
-    "summary_en": "U.S. equities climbed modestly today as tech and growth names led the advance, with the NASDAQ outpacing the broader S&P 500 in a mild risk-on session. Investors rotated into momentum names across semiconductors, fintech, and AI infrastructure, consistent with a market environment where rate fears have eased and earnings expectations remain stable. The session reflected selective buying rather than a broad rally, suggesting the market is digesting recent gains rather than charging higher.",
-    "summary_zh": "美股今日小幅上揚，科技與成長類股引領漲勢，那斯達克指數表現優於大盤，整體呈現溫和風險偏好情緒。投資人資金流入半導體、金融科技及人工智能基礎建設等動能標的，反映出當前市場對升息風險的擔憂已趨緩，企業獲利預期亦保持穩定。此次上漲屬選擇性買盤，而非全面性大漲，顯示市場正消化近期漲幅，暫未進入加速突破模式。",
+    "summary_en": "Equities broadly advanced today as investor sentiment remained constructive, with technology and growth names leading the move higher. The NASDAQ outpaced the S&P 500 (up 1.3% vs 0.8%), a typical pattern on risk-on days when market participants rotate into higher-beta sectors. Breadth was positive and volume in trending names like CHRN confirmed that buyers — not just algorithmic noise — were driving the session.",
+    "summary_zh": "美股今日普遍上漲，市場情緒保持樂觀，科技及成長股領漲。那斯達克指數升幅（+1.3%）超越標普500（+0.8%），此為風險偏好日的典型特徵，市場資金傾向輪動至高貝塔板塊。今日上漲個股市場廣度較佳，CHRN等趨勢股成交量明顯放大，顯示資金為真實買盤驅動，而非演算法短線波動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "BTDR",
+      "ticker": "CHRN",
       "conviction": "high",
-      "reasoning": "Score 95 with all four confirmation signals — RSI 59.5 in bullish momentum zone, MACD crossover, rising histogram, and price above SMA-20 — on a risk-on day; affordable price allows a meaningful position within remaining cash."
+      "reasoning": "Perfect score 100 with all five signals firing simultaneously — RSI bullish zone (67.1), MACD crossover, MACD histogram rising, price well above SMA-20 ($20.52 vs $18.26), and volume surge confirming institutional participation — exactly the multi-signal setup the strategy requires before deploying cash."
     }
   ],
   "outcomes": {
