@@ -1,14 +1,14 @@
 {
   "date": "2026-07-09",
-  "briefing": "Markets are neutral today with NASDAQ barely positive (+0.2%) and S&P slightly negative (-0.3%) — not a risk-on setup. Despite having 4 open slots and $677 in cash, strategy memory is clear: on neutral days, hold and wait for a genuine risk-on signal rather than forcing deployment. The top candidates (HUT, CORZ, ANET) all score 100 with strong multi-signal confirmation, making them the priority queue for the next strong NASDAQ day.",
+  "briefing": "Market posted mild gains today (NASDAQ +0.7%, S&P 500 +0.4%) — a neutral session, not a risk-on signal. Strategy memory is clear: the right cadence is to hold cash through neutral days and wait for NASDAQ +2%+ before deploying. Despite having 4 open slots and $677 in cash, forcing entries on a low-conviction day risks poor fills. All six positions remain held with stop-losses and profit targets active.",
   "daily_lesson": {
-    "term": "Risk-On / Risk-Off",
-    "explanation_en": "Risk-on and risk-off describe the market's overall appetite for taking chances. On 'risk-on' days, investors buy growth stocks, small caps, and volatile assets — those are the days to deploy capital into high-momentum plays. On 'risk-off' or neutral days like today, money flows toward safety and conviction is low, making it smarter to hold cash and wait for a clearer signal rather than buying into uncertainty.",
-    "explanation_zh": "「Risk-On（風險偏好）」與「Risk-Off（風險規避）」描述市場整體對承擔風險的意願。在「風險偏好」日，投資者積極買入成長股、小型股及波動性較高的資產，這類日子才是部署資金、追入強勢動能股的好時機。反之，在今天這種中性或「風險規避」的交易日，資金流向避險資產，市場信心不足，持現等待更明確的入市訊號，往往比倉促買入更為明智。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash reserves held back specifically to deploy when a high-quality opportunity arises. Keeping dry powder on neutral or low-conviction days — rather than chasing marginal setups — lets you enter with full size and confidence when a genuine risk-on signal appears, improving your average entry quality and overall return.",
+    "explanation_zh": "「乾火藥」指刻意保留的現金儲備，專用於把握高確信度的進場機會。在市況中性或訊號不明朗時保留現金，而非勉強追入邊緣機會，可讓投資者在真正的風險偏好訊號出現時以充足資金果斷入市，從而提升平均進場質素及整體回報。"
   },
   "market_education": {
-    "summary_en": "U.S. equities ended mixed on July 9 as investors remained cautious ahead of upcoming earnings and inflation data, with tech holding slight gains on continued AI infrastructure enthusiasm while broader markets dipped on rotation into defensive sectors. The NASDAQ's slim outperformance (+0.2% vs. S&P's -0.3%) reflects selective risk appetite — traders are bidding AI-adjacent names like networking and compute stocks while trimming cyclical exposure. Without a clear macro catalyst, volume was subdued and breadth was negative, hallmarks of a consolidation session rather than a directional move.",
-    "summary_zh": "7月9日美股收盤表現分歧，投資者在等待企業財報及通脹數據公布前保持觀望，科技股受惠於人工智能基礎建設題材，納斯達克指數微升0.2%，但標普500指數則因資金輪動至防禦性板塊而小跌0.3%。納指的相對強勢反映市場選擇性地追逐科技個股，包括網絡設備及算力股，同時削減周期性倉位。整體成交量偏低、市場廣度負面，顯示這是一個整固性交易日，而非趨勢性行情。",
+    "summary_en": "U.S. equities drifted modestly higher on July 9, with the NASDAQ up 0.7% and the S&P 500 gaining 0.4%, supported by continued strength in semiconductor and AI-related names as investors maintained a cautiously constructive tone heading into mid-year earnings season. Broad sector rotation within technology kept indices in positive territory, though the absence of a major catalyst limited upside conviction. Trading volumes were moderate, suggesting institutions were not aggressively adding risk on either side.",
+    "summary_zh": "美國股市7月9日溫和收漲，那斯達克指數上漲0.7%，標普500指數升0.4%，半導體及人工智能相關個股繼續提振大市，投資者在進入年中財報季前維持審慎樂觀的態度。科技板塊內部資金輪動令指數保持正面，惟缺乏重大催化劑限制了升幅。成交量處於溫和水準，顯示機構投資者並未積極加倉。",
     "sources": []
   },
   "trades": [],
