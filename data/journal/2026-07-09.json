@@ -1,22 +1,22 @@
 {
   "date": "2026-07-09",
-  "briefing": "Moderate risk-on day (NASDAQ +1.2%, S&P 500 +0.8%) — below the 'strong' +2% threshold but clearly positive. With $677 cash and four open slots, deploying into ALGM, the top semiconductor candidate with all four required signals confirmed. Existing six positions held — no stop-loss concerns and momentum remains intact across the board.",
+  "briefing": "Markets are mildly risk-on today with NASDAQ up 1.2% and S&P 500 up 0.7% — not a strong surge, but a clear green signal. With $677 in cash and 4 open slots, the strategy calls for deploying into a high-conviction name rather than sitting idle. BTDR earns all four confirmation signals and is the cleanest setup on the screener at a price that fits remaining cash.",
   "daily_lesson": {
     "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means requiring several independent technical indicators to align before entering a trade, not just one. Today's top candidates like ALGM scored 95 because they showed a MACD bullish crossover, rising histogram, RSI in the 55–70 sweet spot, AND price above the 20-day moving average — all four together. Stacking signals filters out random noise and improves the odds that institutional money is behind the move.",
-    "explanation_zh": "多重信號確認，是指在進場前要求多個獨立技術指標同時發出買入訊號，而非僅憑單一指標決策。今日評分95的候選股（如ALGM）之所以入選，正是因為同時滿足四項條件：MACD黃金交叉、動量柱狀圖上升、RSI處於55至70的強勢甜蜜區，以及股價站穩20日均線之上。多重條件疊加，能有效過濾市場雜訊，提高交易背後有機構資金支撐的可信度。"
+    "explanation_en": "Multi-signal confirmation means requiring several independent indicators to align before entering a trade, rather than acting on just one signal. Today's BTDR buy required RSI in the bullish zone, a MACD crossover, a rising histogram, and price above the 20-day moving average — all four together. This stacking of evidence filters out false positives and increases the probability that a move has real momentum behind it, not just noise.",
+    "explanation_zh": "多重訊號確認是指在進場交易前，要求多個獨立技術指標同步發出信號，而非僅依賴單一指標。今日買入BTDR的依據包括：RSI處於多頭動能區、MACD出現黃金交叉、柱狀圖持續走升，以及股價站穩20日均線之上，四項指標全數到位。這種疊加確認的方式可有效過濾假信號，提高判斷行情確有真實動能而非短暫雜訊的準確率。"
   },
   "market_education": {
-    "summary_en": "Markets pushed higher today with NASDAQ gaining 1.2% and S&P 500 up 0.8%, reflecting broad risk appetite as investors rotated into growth and technology sectors. Semiconductor names led the advance, driven by continued AI infrastructure demand and improving supply chain visibility. The moderate but sustained bid across indices suggests institutional buyers are accumulating rather than chasing, a constructive backdrop for momentum strategies.",
-    "summary_zh": "今日市場整體走高，納斯達克指數上漲1.2%，標普500指數升0.8%，顯示投資者風險偏好回升，資金流入成長股及科技板塊。半導體類股領漲，受惠於人工智能基礎設施需求持續旺盛及供應鏈前景改善。各大指數溫和而穩健的升勢，顯示機構資金處於積極布局狀態，而非追高，為動能投資策略提供了有利環境。",
+    "summary_en": "U.S. equities climbed modestly today as tech and growth names led the advance, with the NASDAQ outpacing the broader S&P 500 in a mild risk-on session. Investors rotated into momentum names across semiconductors, fintech, and AI infrastructure, consistent with a market environment where rate fears have eased and earnings expectations remain stable. The session reflected selective buying rather than a broad rally, suggesting the market is digesting recent gains rather than charging higher.",
+    "summary_zh": "美股今日小幅上揚，科技與成長類股引領漲勢，那斯達克指數表現優於大盤，整體呈現溫和風險偏好情緒。投資人資金流入半導體、金融科技及人工智能基礎建設等動能標的，反映出當前市場對升息風險的擔憂已趨緩，企業獲利預期亦保持穩定。此次上漲屬選擇性買盤，而非全面性大漲，顯示市場正消化近期漲幅，暫未進入加速突破模式。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ALGM",
+      "ticker": "BTDR",
       "conviction": "high",
-      "reasoning": "Score 95 with all four multi-signal criteria met (MACD crossover, rising histogram, RSI 57.9 in bullish zone, price 8% above SMA-20) in a risk-on day; semiconductor sector aligns with NASDAQ leadership and leaves RSI room to run before overbought."
+      "reasoning": "Score 95 with all four confirmation signals — RSI 59.5 in bullish momentum zone, MACD crossover, rising histogram, and price above SMA-20 — on a risk-on day; affordable price allows a meaningful position within remaining cash."
     }
   ],
   "outcomes": {
