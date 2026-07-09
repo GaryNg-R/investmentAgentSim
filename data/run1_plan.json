@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-07-09T15:01:23.100262+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-07-09T16:01:25.416095+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "FRVO",
-        "conviction": "low",
-        "reasoning": "Best risk-adjusted entry on a neutral day \u2014 RSI 55.5 puts it earliest in the bullish momentum zone with maximum runway, full four-signal confirmation (MACD crossover, histogram rising, price above SMA-20), and share price allows full cash deployment within the $677 available."
+        "ticker": "ORCL",
+        "conviction": "high",
+        "reasoning": "Score 95 with all four confirmation signals \u2014 MACD crossover, RSI 63.3 in healthy bullish zone, rising histogram, and price 3.6% above SMA-20 \u2014 plus strong AI/cloud infrastructure tailwinds; $677 cash deploys cleanly into ~4 shares."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were muted today \u2014 NASDAQ +0.5% and S&P 500 +0.4% \u2014 a textbook neutral session with no strong directional signal. The strategy memory warns against forcing buys on neutral days, but the risk rules require deploying cash above $500 into open slots, so one measured low-conviction buy on FRVO is warranted: it has the most RSI runway (55.5, early in the bullish zone) and full signal confirmation. All six existing positions are held; no stop-losses or profit targets appear at risk based on current portfolio data.",
+    "briefing": "Moderate risk-on day (NASDAQ +0.8%, S&P +0.6%) \u2014 solid but not the strong +2% signal that warrants full deployment. With $677 cash above the $500 threshold and 4 open slots, strategy memory calls for at least one buy. ORCL clears all four technical gates and offers enterprise AI exposure without chasing an overbought RSI, so one high-conviction entry is the right move; remaining small cash reserve sits ready for a stronger signal tomorrow.",
     "market_education": {
-      "summary_en": "U.S. equities drifted modestly higher on July 9 in a low-volatility session, with the S&P 500 gaining 0.4% and the NASDAQ rising 0.5%, as investors took a wait-and-see posture ahead of upcoming earnings and macro data. Semiconductor and AI-adjacent names remained broadly firm, continuing the sector's multi-week recovery trend, while broader market breadth was thin with no dominant catalyst. The muted action reflected a market digesting recent gains rather than adding new risk exposure.",
-      "summary_zh": "\u7f8e\u80a17\u67089\u65e5\u5ef6\u7e8c\u6eab\u548c\u4e0a\u6f32\u683c\u5c40\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u63da0.4%\uff0c\u7d0d\u65af\u9054\u514b\u53470.5%\uff0c\u6210\u4ea4\u91cf\u504f\u6de1\uff0c\u5e02\u5834\u6574\u9ad4\u7dad\u6301\u89c0\u671b\u60c5\u7dd2\uff0c\u7b49\u5f85\u5373\u5c07\u516c\u5e03\u7684\u4f01\u696d\u8ca1\u5831\u53ca\u7e3d\u9ad4\u7d93\u6fdf\u6578\u64da\u3002\u534a\u5c0e\u9ad4\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u677f\u584a\u666e\u904d\u504f\u5f37\uff0c\u5ef6\u7e8c\u904e\u53bb\u6578\u9031\u7684\u56de\u5347\u8da8\u52e2\uff0c\u4f46\u5e02\u5834\u5ee3\u5ea6\u4e0d\u4f73\uff0c\u7f3a\u4e4f\u660e\u78ba\u9a45\u52d5\u56e0\u7d20\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u6b64\u6b21\u5347\u5e45\u53cd\u6620\u5e02\u5834\u5728\u6d88\u5316\u8fd1\u671f\u6f32\u5e45\u5f8c\u7684\u6574\u56fa\uff0c\u800c\u975e\u65b0\u4e00\u8f2a\u9032\u53d6\u5f0f\u5165\u5e02\u3002",
+      "summary_en": "Equities drifted higher in a low-drama session as cooling inflation expectations kept rate-cut hopes alive heading into the next Fed meeting. Technology names led, buoyed by continued capital commitments to AI data-center buildouts from major cloud providers. Breadth was positive but unspectacular, suggesting broad participation without the kind of institutional urgency that accompanies a true breakout day.",
+      "summary_zh": "\u80a1\u5e02\u5728\u5e73\u975c\u6c23\u6c1b\u4e2d\u5c0f\u5e45\u8d70\u9ad8\uff0c\u56e0\u901a\u8139\u9810\u671f\u6301\u7e8c\u964d\u6eab\uff0c\u5e02\u5834\u5c0d\u806f\u6e96\u6703\u964d\u606f\u7684\u671f\u5f85\u5347\u6eab\u3002\u79d1\u6280\u80a1\u9818\u6f32\uff0c\u4e3b\u8981\u53d7\u60e0\u65bc\u5927\u578b\u96f2\u7aef\u696d\u8005\u6301\u7e8c\u52a0\u78bcAI\u8cc7\u6599\u4e2d\u5fc3\u6295\u8cc7\u7684\u984c\u6750\u652f\u6490\u3002\u76e4\u9762\u96d6\u5448\u73fe\u6b63\u9762\u5ee3\u5ea6\uff0c\u4f46\u7f3a\u4e4f\u6a5f\u69cb\u8cc7\u91d1\u7a4d\u6975\u9032\u5834\u7684\u529b\u9053\uff0c\u6574\u9ad4\u8d70\u52e2\u6eab\u548c\u4e0a\u63da\uff0c\u4e0d\u5177\u660e\u986f\u7a81\u7834\u683c\u5c40\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "RSI Momentum Zone",
-      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving on a 0\u2013100 scale. A reading between 55 and 70 is considered the 'bullish momentum zone' \u2014 the stock has clear upward momentum but is not yet overbought, leaving room for further gains. Stocks entering this zone early (like FRVO at 55.5) offer better risk-adjusted entries than those already deep into it (like SYNA at 69.4), because there is more price runway before a pullback becomes likely.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u8861\u91cf\u80a1\u50f9\u4e0a\u5347\u6216\u4e0b\u8dcc\u7684\u901f\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff0c\u901a\u5e38\u88ab\u8996\u70ba\u300c\u770b\u6f32\u52d5\u80fd\u5340\u9593\u300d\u2014\u2014\u4ee3\u8868\u80a1\u7968\u5177\u6709\u6e05\u6670\u7684\u4e0a\u5347\u8da8\u52e2\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u72c0\u614b\uff0c\u4ecd\u6709\u9032\u4e00\u6b65\u4e0a\u6f32\u7684\u7a7a\u9593\u3002\u82e5\u80a1\u7968RSI\u525b\u9032\u5165\u6b64\u5340\u9593\uff08\u5982FRVO\u768455.5\uff09\uff0c\u5176\u98a8\u96aa\u56de\u5831\u901a\u5e38\u512a\u65bc\u5df2\u63a5\u8fd170\u7684\u6a19\u7684\uff08\u5982SYNA\u768469.4\uff09\uff0c\u56e0\u70ba\u56de\u8abf\u98a8\u96aa\u76f8\u5c0d\u8f03\u4f4e\uff0c\u4e0a\u5347\u7a7a\u9593\u66f4\u5927\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Relying on a single indicator \u2014 like RSI alone \u2014 can produce false signals. Multi-signal confirmation means requiring several independent technical indicators (e.g. MACD crossover + RSI in the bullish zone + rising histogram + price above SMA-20) to agree before entering a trade. When all four align, it suggests momentum is real and backed by market participation, not just noise.",
+      "explanation_zh": "\u55ae\u7368\u4f9d\u8cf4\u4e00\u9805\u6280\u8853\u6307\u6a19\uff08\u4f8b\u5982\u53ea\u770bRSI\uff09\u5bb9\u6613\u7522\u751f\u5047\u8a0a\u865f\u3002\u300c\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u300d\u662f\u6307\u8981\u6c42\u6578\u500b\u7368\u7acb\u7684\u6280\u8853\u6307\u6a19\u540c\u6642\u767c\u51fa\u4e00\u81f4\u7684\u8cb7\u9032\u8a0a\u865f\uff0c\u4f8b\u5982MACD\u91d1\u53c9\u3001RSI\u8655\u65bc\u591a\u982d\u52d5\u80fd\u5340\u9593\u3001\u67f1\u72c0\u9ad4\u4e0a\u5347\uff0c\u4ee5\u53ca\u80a1\u50f9\u7ad9\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\uff0c\u56db\u9805\u689d\u4ef6\u5168\u90e8\u6210\u7acb\uff0c\u4ee3\u8868\u8da8\u52e2\u7531\u771f\u5be6\u7684\u5e02\u5834\u529b\u9053\u9a45\u52d5\uff0c\u800c\u975e\u77ed\u66ab\u96dc\u8a0a\uff0c\u6b64\u6642\u9032\u5834\u7684\u6210\u529f\u7387\u76f8\u5c0d\u8f03\u9ad8\u3002"
     }
   }
 }

@@ -1,22 +1,22 @@
 {
   "date": "2026-07-09",
-  "briefing": "Markets were muted today — NASDAQ +0.5% and S&P 500 +0.4% — a textbook neutral session with no strong directional signal. The strategy memory warns against forcing buys on neutral days, but the risk rules require deploying cash above $500 into open slots, so one measured low-conviction buy on FRVO is warranted: it has the most RSI runway (55.5, early in the bullish zone) and full signal confirmation. All six existing positions are held; no stop-losses or profit targets appear at risk based on current portfolio data.",
+  "briefing": "Moderate risk-on day (NASDAQ +0.8%, S&P +0.6%) — solid but not the strong +2% signal that warrants full deployment. With $677 cash above the $500 threshold and 4 open slots, strategy memory calls for at least one buy. ORCL clears all four technical gates and offers enterprise AI exposure without chasing an overbought RSI, so one high-conviction entry is the right move; remaining small cash reserve sits ready for a stronger signal tomorrow.",
   "daily_lesson": {
-    "term": "RSI Momentum Zone",
-    "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving on a 0–100 scale. A reading between 55 and 70 is considered the 'bullish momentum zone' — the stock has clear upward momentum but is not yet overbought, leaving room for further gains. Stocks entering this zone early (like FRVO at 55.5) offer better risk-adjusted entries than those already deep into it (like SYNA at 69.4), because there is more price runway before a pullback becomes likely.",
-    "explanation_zh": "相對強弱指數（RSI）以0至100衡量股價上升或下跌的速度。RSI介於55至70之間，通常被視為「看漲動能區間」——代表股票具有清晰的上升趨勢，但尚未進入超買狀態，仍有進一步上漲的空間。若股票RSI剛進入此區間（如FRVO的55.5），其風險回報通常優於已接近70的標的（如SYNA的69.4），因為回調風險相對較低，上升空間更大。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Relying on a single indicator — like RSI alone — can produce false signals. Multi-signal confirmation means requiring several independent technical indicators (e.g. MACD crossover + RSI in the bullish zone + rising histogram + price above SMA-20) to agree before entering a trade. When all four align, it suggests momentum is real and backed by market participation, not just noise.",
+    "explanation_zh": "單獨依賴一項技術指標（例如只看RSI）容易產生假訊號。「多重訊號確認」是指要求數個獨立的技術指標同時發出一致的買進訊號，例如MACD金叉、RSI處於多頭動能區間、柱狀體上升，以及股價站穩20日均線之上，四項條件全部成立，代表趨勢由真實的市場力道驅動，而非短暫雜訊，此時進場的成功率相對較高。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted modestly higher on July 9 in a low-volatility session, with the S&P 500 gaining 0.4% and the NASDAQ rising 0.5%, as investors took a wait-and-see posture ahead of upcoming earnings and macro data. Semiconductor and AI-adjacent names remained broadly firm, continuing the sector's multi-week recovery trend, while broader market breadth was thin with no dominant catalyst. The muted action reflected a market digesting recent gains rather than adding new risk exposure.",
-    "summary_zh": "美股7月9日延續溫和上漲格局，標普500指數上揚0.4%，納斯達克升0.5%，成交量偏淡，市場整體維持觀望情緒，等待即將公布的企業財報及總體經濟數據。半導體及人工智能相關板塊普遍偏強，延續過去數週的回升趨勢，但市場廣度不佳，缺乏明確驅動因素。整體而言，此次升幅反映市場在消化近期漲幅後的整固，而非新一輪進取式入市。",
+    "summary_en": "Equities drifted higher in a low-drama session as cooling inflation expectations kept rate-cut hopes alive heading into the next Fed meeting. Technology names led, buoyed by continued capital commitments to AI data-center buildouts from major cloud providers. Breadth was positive but unspectacular, suggesting broad participation without the kind of institutional urgency that accompanies a true breakout day.",
+    "summary_zh": "股市在平靜氣氛中小幅走高，因通脹預期持續降溫，市場對聯準會降息的期待升溫。科技股領漲，主要受惠於大型雲端業者持續加碼AI資料中心投資的題材支撐。盤面雖呈現正面廣度，但缺乏機構資金積極進場的力道，整體走勢溫和上揚，不具明顯突破格局。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FRVO",
-      "conviction": "low",
-      "reasoning": "Best risk-adjusted entry on a neutral day — RSI 55.5 puts it earliest in the bullish momentum zone with maximum runway, full four-signal confirmation (MACD crossover, histogram rising, price above SMA-20), and share price allows full cash deployment within the $677 available."
+      "ticker": "ORCL",
+      "conviction": "high",
+      "reasoning": "Score 95 with all four confirmation signals — MACD crossover, RSI 63.3 in healthy bullish zone, rising histogram, and price 3.6% above SMA-20 — plus strong AI/cloud infrastructure tailwinds; $677 cash deploys cleanly into ~4 shares."
     }
   ],
   "outcomes": {
