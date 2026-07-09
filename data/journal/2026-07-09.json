@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-09",
+  "briefing": "Markets are neutral today with NASDAQ barely positive (+0.2%) and S&P slightly negative (-0.3%) — not a risk-on setup. Despite having 4 open slots and $677 in cash, strategy memory is clear: on neutral days, hold and wait for a genuine risk-on signal rather than forcing deployment. The top candidates (HUT, CORZ, ANET) all score 100 with strong multi-signal confirmation, making them the priority queue for the next strong NASDAQ day.",
+  "daily_lesson": {
+    "term": "Risk-On / Risk-Off",
+    "explanation_en": "Risk-on and risk-off describe the market's overall appetite for taking chances. On 'risk-on' days, investors buy growth stocks, small caps, and volatile assets — those are the days to deploy capital into high-momentum plays. On 'risk-off' or neutral days like today, money flows toward safety and conviction is low, making it smarter to hold cash and wait for a clearer signal rather than buying into uncertainty.",
+    "explanation_zh": "「Risk-On（風險偏好）」與「Risk-Off（風險規避）」描述市場整體對承擔風險的意願。在「風險偏好」日，投資者積極買入成長股、小型股及波動性較高的資產，這類日子才是部署資金、追入強勢動能股的好時機。反之，在今天這種中性或「風險規避」的交易日，資金流向避險資產，市場信心不足，持現等待更明確的入市訊號，往往比倉促買入更為明智。"
+  },
+  "market_education": {
+    "summary_en": "U.S. equities ended mixed on July 9 as investors remained cautious ahead of upcoming earnings and inflation data, with tech holding slight gains on continued AI infrastructure enthusiasm while broader markets dipped on rotation into defensive sectors. The NASDAQ's slim outperformance (+0.2% vs. S&P's -0.3%) reflects selective risk appetite — traders are bidding AI-adjacent names like networking and compute stocks while trimming cyclical exposure. Without a clear macro catalyst, volume was subdued and breadth was negative, hallmarks of a consolidation session rather than a directional move.",
+    "summary_zh": "7月9日美股收盤表現分歧，投資者在等待企業財報及通脹數據公布前保持觀望，科技股受惠於人工智能基礎建設題材，納斯達克指數微升0.2%，但標普500指數則因資金輪動至防禦性板塊而小跌0.3%。納指的相對強勢反映市場選擇性地追逐科技個股，包括網絡設備及算力股，同時削減周期性倉位。整體成交量偏低、市場廣度負面，顯示這是一個整固性交易日，而非趨勢性行情。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13355.735246181488,
+    "cash": 677.1352210044861,
+    "pnl_dollar": 3355.735246181488,
+    "pnl_pct": 33.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
