@@ -1,19 +1,26 @@
 {
-  "saved_at": "2026-07-09T14:01:27.988011+00:00",
+  "saved_at": "2026-07-09T15:01:23.100262+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "FRVO",
+        "conviction": "low",
+        "reasoning": "Best risk-adjusted entry on a neutral day \u2014 RSI 55.5 puts it earliest in the bullish momentum zone with maximum runway, full four-signal confirmation (MACD crossover, histogram rising, price above SMA-20), and share price allows full cash deployment within the $677 available."
+      }
+    ],
     "skip_new_buys": false,
-    "briefing": "Market posted mild gains today (NASDAQ +0.7%, S&P 500 +0.4%) \u2014 a neutral session, not a risk-on signal. Strategy memory is clear: the right cadence is to hold cash through neutral days and wait for NASDAQ +2%+ before deploying. Despite having 4 open slots and $677 in cash, forcing entries on a low-conviction day risks poor fills. All six positions remain held with stop-losses and profit targets active.",
+    "briefing": "Markets were muted today \u2014 NASDAQ +0.5% and S&P 500 +0.4% \u2014 a textbook neutral session with no strong directional signal. The strategy memory warns against forcing buys on neutral days, but the risk rules require deploying cash above $500 into open slots, so one measured low-conviction buy on FRVO is warranted: it has the most RSI runway (55.5, early in the bullish zone) and full signal confirmation. All six existing positions are held; no stop-losses or profit targets appear at risk based on current portfolio data.",
     "market_education": {
-      "summary_en": "U.S. equities drifted modestly higher on July 9, with the NASDAQ up 0.7% and the S&P 500 gaining 0.4%, supported by continued strength in semiconductor and AI-related names as investors maintained a cautiously constructive tone heading into mid-year earnings season. Broad sector rotation within technology kept indices in positive territory, though the absence of a major catalyst limited upside conviction. Trading volumes were moderate, suggesting institutions were not aggressively adding risk on either side.",
-      "summary_zh": "\u7f8e\u570b\u80a1\u5e027\u67089\u65e5\u6eab\u548c\u6536\u6f32\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.7%\uff0c\u6a19\u666e500\u6307\u6578\u53470.4%\uff0c\u534a\u5c0e\u9ad4\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u500b\u80a1\u7e7c\u7e8c\u63d0\u632f\u5927\u5e02\uff0c\u6295\u8cc7\u8005\u5728\u9032\u5165\u5e74\u4e2d\u8ca1\u5831\u5b63\u524d\u7dad\u6301\u5be9\u614e\u6a02\u89c0\u7684\u614b\u5ea6\u3002\u79d1\u6280\u677f\u584a\u5167\u90e8\u8cc7\u91d1\u8f2a\u52d5\u4ee4\u6307\u6578\u4fdd\u6301\u6b63\u9762\uff0c\u60df\u7f3a\u4e4f\u91cd\u5927\u50ac\u5316\u5291\u9650\u5236\u4e86\u5347\u5e45\u3002\u6210\u4ea4\u91cf\u8655\u65bc\u6eab\u548c\u6c34\u6e96\uff0c\u986f\u793a\u6a5f\u69cb\u6295\u8cc7\u8005\u4e26\u672a\u7a4d\u6975\u52a0\u5009\u3002",
+      "summary_en": "U.S. equities drifted modestly higher on July 9 in a low-volatility session, with the S&P 500 gaining 0.4% and the NASDAQ rising 0.5%, as investors took a wait-and-see posture ahead of upcoming earnings and macro data. Semiconductor and AI-adjacent names remained broadly firm, continuing the sector's multi-week recovery trend, while broader market breadth was thin with no dominant catalyst. The muted action reflected a market digesting recent gains rather than adding new risk exposure.",
+      "summary_zh": "\u7f8e\u80a17\u67089\u65e5\u5ef6\u7e8c\u6eab\u548c\u4e0a\u6f32\u683c\u5c40\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u63da0.4%\uff0c\u7d0d\u65af\u9054\u514b\u53470.5%\uff0c\u6210\u4ea4\u91cf\u504f\u6de1\uff0c\u5e02\u5834\u6574\u9ad4\u7dad\u6301\u89c0\u671b\u60c5\u7dd2\uff0c\u7b49\u5f85\u5373\u5c07\u516c\u5e03\u7684\u4f01\u696d\u8ca1\u5831\u53ca\u7e3d\u9ad4\u7d93\u6fdf\u6578\u64da\u3002\u534a\u5c0e\u9ad4\u53ca\u4eba\u5de5\u667a\u80fd\u76f8\u95dc\u677f\u584a\u666e\u904d\u504f\u5f37\uff0c\u5ef6\u7e8c\u904e\u53bb\u6578\u9031\u7684\u56de\u5347\u8da8\u52e2\uff0c\u4f46\u5e02\u5834\u5ee3\u5ea6\u4e0d\u4f73\uff0c\u7f3a\u4e4f\u660e\u78ba\u9a45\u52d5\u56e0\u7d20\u3002\u6574\u9ad4\u800c\u8a00\uff0c\u6b64\u6b21\u5347\u5e45\u53cd\u6620\u5e02\u5834\u5728\u6d88\u5316\u8fd1\u671f\u6f32\u5e45\u5f8c\u7684\u6574\u56fa\uff0c\u800c\u975e\u65b0\u4e00\u8f2a\u9032\u53d6\u5f0f\u5165\u5e02\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "Dry powder refers to cash reserves held back specifically to deploy when a high-quality opportunity arises. Keeping dry powder on neutral or low-conviction days \u2014 rather than chasing marginal setups \u2014 lets you enter with full size and confidence when a genuine risk-on signal appears, improving your average entry quality and overall return.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\u6307\u523b\u610f\u4fdd\u7559\u7684\u73fe\u91d1\u5132\u5099\uff0c\u5c08\u7528\u65bc\u628a\u63e1\u9ad8\u78ba\u4fe1\u5ea6\u7684\u9032\u5834\u6a5f\u6703\u3002\u5728\u5e02\u6cc1\u4e2d\u6027\u6216\u8a0a\u865f\u4e0d\u660e\u6717\u6642\u4fdd\u7559\u73fe\u91d1\uff0c\u800c\u975e\u52c9\u5f37\u8ffd\u5165\u908a\u7de3\u6a5f\u6703\uff0c\u53ef\u8b93\u6295\u8cc7\u8005\u5728\u771f\u6b63\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u51fa\u73fe\u6642\u4ee5\u5145\u8db3\u8cc7\u91d1\u679c\u65b7\u5165\u5e02\uff0c\u5f9e\u800c\u63d0\u5347\u5e73\u5747\u9032\u5834\u8cea\u7d20\u53ca\u6574\u9ad4\u56de\u5831\u3002"
+      "term": "RSI Momentum Zone",
+      "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving on a 0\u2013100 scale. A reading between 55 and 70 is considered the 'bullish momentum zone' \u2014 the stock has clear upward momentum but is not yet overbought, leaving room for further gains. Stocks entering this zone early (like FRVO at 55.5) offer better risk-adjusted entries than those already deep into it (like SYNA at 69.4), because there is more price runway before a pullback becomes likely.",
+      "explanation_zh": "\u76f8\u5c0d\u5f37\u5f31\u6307\u6578\uff08RSI\uff09\u4ee50\u81f3100\u8861\u91cf\u80a1\u50f9\u4e0a\u5347\u6216\u4e0b\u8dcc\u7684\u901f\u5ea6\u3002RSI\u4ecb\u65bc55\u81f370\u4e4b\u9593\uff0c\u901a\u5e38\u88ab\u8996\u70ba\u300c\u770b\u6f32\u52d5\u80fd\u5340\u9593\u300d\u2014\u2014\u4ee3\u8868\u80a1\u7968\u5177\u6709\u6e05\u6670\u7684\u4e0a\u5347\u8da8\u52e2\uff0c\u4f46\u5c1a\u672a\u9032\u5165\u8d85\u8cb7\u72c0\u614b\uff0c\u4ecd\u6709\u9032\u4e00\u6b65\u4e0a\u6f32\u7684\u7a7a\u9593\u3002\u82e5\u80a1\u7968RSI\u525b\u9032\u5165\u6b64\u5340\u9593\uff08\u5982FRVO\u768455.5\uff09\uff0c\u5176\u98a8\u96aa\u56de\u5831\u901a\u5e38\u512a\u65bc\u5df2\u63a5\u8fd170\u7684\u6a19\u7684\uff08\u5982SYNA\u768469.4\uff09\uff0c\u56e0\u70ba\u56de\u8abf\u98a8\u96aa\u76f8\u5c0d\u8f03\u4f4e\uff0c\u4e0a\u5347\u7a7a\u9593\u66f4\u5927\u3002"
     }
   }
 }

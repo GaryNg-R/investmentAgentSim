@@ -1,17 +1,24 @@
 {
   "date": "2026-07-09",
-  "briefing": "Market posted mild gains today (NASDAQ +0.7%, S&P 500 +0.4%) — a neutral session, not a risk-on signal. Strategy memory is clear: the right cadence is to hold cash through neutral days and wait for NASDAQ +2%+ before deploying. Despite having 4 open slots and $677 in cash, forcing entries on a low-conviction day risks poor fills. All six positions remain held with stop-losses and profit targets active.",
+  "briefing": "Markets were muted today — NASDAQ +0.5% and S&P 500 +0.4% — a textbook neutral session with no strong directional signal. The strategy memory warns against forcing buys on neutral days, but the risk rules require deploying cash above $500 into open slots, so one measured low-conviction buy on FRVO is warranted: it has the most RSI runway (55.5, early in the bullish zone) and full signal confirmation. All six existing positions are held; no stop-losses or profit targets appear at risk based on current portfolio data.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash reserves held back specifically to deploy when a high-quality opportunity arises. Keeping dry powder on neutral or low-conviction days — rather than chasing marginal setups — lets you enter with full size and confidence when a genuine risk-on signal appears, improving your average entry quality and overall return.",
-    "explanation_zh": "「乾火藥」指刻意保留的現金儲備，專用於把握高確信度的進場機會。在市況中性或訊號不明朗時保留現金，而非勉強追入邊緣機會，可讓投資者在真正的風險偏好訊號出現時以充足資金果斷入市，從而提升平均進場質素及整體回報。"
+    "term": "RSI Momentum Zone",
+    "explanation_en": "The Relative Strength Index (RSI) measures how fast a stock's price is moving on a 0–100 scale. A reading between 55 and 70 is considered the 'bullish momentum zone' — the stock has clear upward momentum but is not yet overbought, leaving room for further gains. Stocks entering this zone early (like FRVO at 55.5) offer better risk-adjusted entries than those already deep into it (like SYNA at 69.4), because there is more price runway before a pullback becomes likely.",
+    "explanation_zh": "相對強弱指數（RSI）以0至100衡量股價上升或下跌的速度。RSI介於55至70之間，通常被視為「看漲動能區間」——代表股票具有清晰的上升趨勢，但尚未進入超買狀態，仍有進一步上漲的空間。若股票RSI剛進入此區間（如FRVO的55.5），其風險回報通常優於已接近70的標的（如SYNA的69.4），因為回調風險相對較低，上升空間更大。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted modestly higher on July 9, with the NASDAQ up 0.7% and the S&P 500 gaining 0.4%, supported by continued strength in semiconductor and AI-related names as investors maintained a cautiously constructive tone heading into mid-year earnings season. Broad sector rotation within technology kept indices in positive territory, though the absence of a major catalyst limited upside conviction. Trading volumes were moderate, suggesting institutions were not aggressively adding risk on either side.",
-    "summary_zh": "美國股市7月9日溫和收漲，那斯達克指數上漲0.7%，標普500指數升0.4%，半導體及人工智能相關個股繼續提振大市，投資者在進入年中財報季前維持審慎樂觀的態度。科技板塊內部資金輪動令指數保持正面，惟缺乏重大催化劑限制了升幅。成交量處於溫和水準，顯示機構投資者並未積極加倉。",
+    "summary_en": "U.S. equities drifted modestly higher on July 9 in a low-volatility session, with the S&P 500 gaining 0.4% and the NASDAQ rising 0.5%, as investors took a wait-and-see posture ahead of upcoming earnings and macro data. Semiconductor and AI-adjacent names remained broadly firm, continuing the sector's multi-week recovery trend, while broader market breadth was thin with no dominant catalyst. The muted action reflected a market digesting recent gains rather than adding new risk exposure.",
+    "summary_zh": "美股7月9日延續溫和上漲格局，標普500指數上揚0.4%，納斯達克升0.5%，成交量偏淡，市場整體維持觀望情緒，等待即將公布的企業財報及總體經濟數據。半導體及人工智能相關板塊普遍偏強，延續過去數週的回升趨勢，但市場廣度不佳，缺乏明確驅動因素。整體而言，此次升幅反映市場在消化近期漲幅後的整固，而非新一輪進取式入市。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "FRVO",
+      "conviction": "low",
+      "reasoning": "Best risk-adjusted entry on a neutral day — RSI 55.5 puts it earliest in the bullish momentum zone with maximum runway, full four-signal confirmation (MACD crossover, histogram rising, price above SMA-20), and share price allows full cash deployment within the $677 available."
+    }
+  ],
   "outcomes": {
     "total_value": 13355.735246181488,
     "cash": 677.1352210044861,
