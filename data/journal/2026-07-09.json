@@ -1,22 +1,22 @@
 {
   "date": "2026-07-09",
-  "briefing": "Markets are in mild risk-on territory with NASDAQ +0.9% and S&P 500 +0.6% — positive but not euphoric, which suits disciplined deployment rather than aggressive loading. With $677 in cash and 4 open slots, the rules strongly favor putting capital to work rather than sitting idle. ICHR scores 95 with all four required confirmation signals and offers direct exposure to semiconductor equipment demand driven by the AI infrastructure buildout — best risk-adjusted fit for the available cash.",
+  "briefing": "Moderate risk-on day (NASDAQ +1.2%, S&P 500 +0.8%) — below the 'strong' +2% threshold but clearly positive. With $677 cash and four open slots, deploying into ALGM, the top semiconductor candidate with all four required signals confirmed. Existing six positions held — no stop-loss concerns and momentum remains intact across the board.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing is a strategy that targets stocks showing strong, sustained upward price trends backed by technical confirmation — rising RSI, MACD bullish crossovers, and price holding above key moving averages. The logic is that institutional buying pressure tends to persist for a period once it starts, making recent winners statistically more likely to keep winning in the near term. Today's ICHR buy illustrates the approach: we required all four signals to align before committing, which filters out random spikes and focuses only on setups with genuine institutional participation.",
-    "explanation_zh": "動能投資策略是指買入具備持續上升趨勢並獲技術指標確認的股票——包括RSI持續走高、MACD出現看漲交叉，以及股價穩守關鍵均線之上。其邏輯在於，一旦機構資金開始持續買入，這股力道往往會延續一段時間，令近期強勢股在短期內繼續跑贏的概率較高。今日買入ICHR正是典型示範：我們要求四項技術信號同時成立方才入市，有效過濾隨機波動，只鎖定具真實機構資金參與的交易機會。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means requiring several independent technical indicators to align before entering a trade, not just one. Today's top candidates like ALGM scored 95 because they showed a MACD bullish crossover, rising histogram, RSI in the 55–70 sweet spot, AND price above the 20-day moving average — all four together. Stacking signals filters out random noise and improves the odds that institutional money is behind the move.",
+    "explanation_zh": "多重信號確認，是指在進場前要求多個獨立技術指標同時發出買入訊號，而非僅憑單一指標決策。今日評分95的候選股（如ALGM）之所以入選，正是因為同時滿足四項條件：MACD黃金交叉、動量柱狀圖上升、RSI處於55至70的強勢甜蜜區，以及股價站穩20日均線之上。多重條件疊加，能有效過濾市場雜訊，提高交易背後有機構資金支撐的可信度。"
   },
   "market_education": {
-    "summary_en": "U.S. equities posted modest gains on Wednesday, with the NASDAQ rising 0.9% and the S&P 500 adding 0.6%, as investor sentiment remained constructive around technology and semiconductor names. Institutional buyers continued rotating into momentum-driven growth stocks, particularly those tied to AI infrastructure and chip manufacturing capacity expansion. The advance was broad but measured — reflecting underlying confidence rather than the speculative excess that often signals a near-term top.",
-    "summary_zh": "美國股市週三小幅收漲，那斯達克指數上升0.9%，標普500指數上升0.6%，投資者情緒對科技及半導體類股持續正面。機構資金持續流入具動能的成長股，尤其是與人工智能基礎設施及晶片產能擴張相關的個股。此次上漲面廣但力度審慎，反映市場具備信心基礎，而非泡沫式的投機追高，整體風險偏好穩健可持續。",
+    "summary_en": "Markets pushed higher today with NASDAQ gaining 1.2% and S&P 500 up 0.8%, reflecting broad risk appetite as investors rotated into growth and technology sectors. Semiconductor names led the advance, driven by continued AI infrastructure demand and improving supply chain visibility. The moderate but sustained bid across indices suggests institutional buyers are accumulating rather than chasing, a constructive backdrop for momentum strategies.",
+    "summary_zh": "今日市場整體走高，納斯達克指數上漲1.2%，標普500指數升0.8%，顯示投資者風險偏好回升，資金流入成長股及科技板塊。半導體類股領漲，受惠於人工智能基礎設施需求持續旺盛及供應鏈前景改善。各大指數溫和而穩健的升勢，顯示機構資金處於積極布局狀態，而非追高，為動能投資策略提供了有利環境。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ICHR",
+      "ticker": "ALGM",
       "conviction": "high",
-      "reasoning": "All four confirmation signals present — RSI 59.6 in the bullish zone, MACD bullish crossover, histogram rising, price well above SMA-20 — and semiconductor equipment is a direct beneficiary of ongoing AI chip fab expansion; deploying available cash on a risk-on day per strategy cadence."
+      "reasoning": "Score 95 with all four multi-signal criteria met (MACD crossover, rising histogram, RSI 57.9 in bullish zone, price 8% above SMA-20) in a risk-on day; semiconductor sector aligns with NASDAQ leadership and leaves RSI room to run before overbought."
     }
   ],
   "outcomes": {
