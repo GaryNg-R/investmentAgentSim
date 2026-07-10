@@ -1,14 +1,14 @@
 {
   "date": "2026-07-10",
-  "briefing": "Markets were flat today with NASDAQ up 0.3% and S&P 500 up 0.4% — a neutral session with no strong directional conviction. Cash sits at $677 with 4 open slots and excellent score-95 candidates available (EQPT, ALM, GGAL, BETA), but the strategy playbook is clear: hold dry powder through neutral sessions and deploy only on genuine risk-on days (NASDAQ +2% or more). All six existing positions remain healthy with no stop-loss or profit-target triggers, so no action is warranted today.",
+  "briefing": "Markets are neutral today — S&P 500 +0.4%, NASDAQ +0.3% — not enough directional conviction to justify new entries. Despite sitting on $677.14 cash with 4 open slots, strategy memory is clear: do not force buys on neutral days just to deploy capital. CAVA, AAP, and BETA all score 100 with perfect 5-signal setups and will remain strong candidates when the market turns risk-on. All six existing positions remain healthy; holding and waiting for the next risk-on signal.",
   "daily_lesson": {
-    "term": "Neutral Market",
-    "explanation_en": "A neutral market is one where prices drift sideways without a strong upward or downward trend — today's +0.3% to +0.4% move is a classic example. For momentum investors, neutral days signal holding existing positions but avoiding new entries, since there is no broad institutional tailwind to carry new buys higher. Deploying capital on a neutral day risks tying up funds in a position that goes nowhere, when a stronger risk-on day may arrive soon.",
-    "explanation_zh": "中性市場是指價格缺乏明確方向、在窄幅區間橫向整理的市場狀態，今日納斯達克漲0.3%、標普500漲0.4%即為典型案例。對動能投資者而言，中性交易日的正確策略是持有現有倉位、暫緩新開倉，因為市場缺乏機構資金推動力，難以帶動新進部位持續走高。在中性日貿然進場，資金可能被套在原地踏步的個股中，反而錯失等待更強風險偏好日出手的機會。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-Off describes a market environment where investors reduce exposure to higher-risk assets — like growth stocks and small caps — because the broad market lacks conviction or upward momentum. Even when individual stocks have perfect technical setups, entering on a neutral or directionless day means you're buying without the market tailwind that helps momentum names move. The discipline is to wait: preserve cash, let the setup mature, and deploy only when the market itself confirms the move.",
+    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者因市場缺乏動能或方向不明，主動降低對高風險資產（如成長股、小型股）敞口的市場環境。即便個別股票的技術信號再完美，在大盤橫盤震盪時進場，等於在沒有市場順風的情況下買入動能股，成功率大幅降低。正確的紀律是耐心等待：保留現金，讓技術形態繼續成熟，待大盤出現明確Risk-On信號時再部署資金，勝算才會真正提升。"
   },
   "market_education": {
-    "summary_en": "U.S. equity markets drifted marginally higher Thursday, with the S&P 500 gaining 0.4% and the NASDAQ adding 0.3%, reflecting cautious positioning amid a lack of major catalysts. Investors appeared to be in a wait-and-see mode ahead of upcoming earnings reports and any fresh Federal Reserve commentary on the rate outlook. Market breadth was modest, suggesting that institutional participants were not committing fresh capital with any conviction in either direction.",
-    "summary_zh": "美國股市週四小幅收高，標普500指數上漲0.4%，納斯達克指數上漲0.3%，整體走勢溫和，缺乏明確的市場催化劑。在即將公布的企業財報及聯準會官員最新表態出爐前，投資人普遍持觀望態度，不急於新建倉位。市場廣度表現平淡，顯示機構資金尚未積極進場布局，多空雙方均缺乏強烈的進場意願。",
+    "summary_en": "Markets drifted modestly higher today with the S&P 500 gaining 0.4% and the NASDAQ rising 0.3%, reflecting a quiet consolidation session with no major catalysts. Trading volumes were subdued as investors showed little urgency to add risk exposure, a pattern typical of mid-week summer trading when institutional desks hold back ahead of upcoming macro data. The session is best characterized as a pause rather than a directional move — neither bulls nor bears gained meaningful ground.",
+    "summary_zh": "美股今日小幅收漲，標普500指數漲0.4%，納斯達克指數漲0.3%，整體呈現橫盤整理格局，缺乏明確催化劑推動方向。成交量偏淡，機構投資者在重要宏觀數據公布前普遍觀望，這是夏季中段常見的市場行為模式。本日走勢既非強勢突破，亦非顯著回調，多空雙方均未取得明顯優勢，市場靜待下一個明確方向訊號。",
     "sources": []
   },
   "trades": [],
