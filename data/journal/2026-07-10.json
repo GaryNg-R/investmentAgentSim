@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-10",
+  "briefing": "NASDAQ +1.3% and S&P 500 +0.8% deliver a solid risk-on session, clearing the threshold to deploy idle cash. CHRN is the only candidate meeting all four multi-signal confirmation criteria (MACD crossover, RSI 55–70, price above SMA-20, volume surge) and carries the highest composite score of 100, making it the clear choice. All six existing positions remain healthy with no stop-loss or profit-target triggers evident, so no sells are warranted today.",
+  "daily_lesson": {
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means waiting until several independent technical indicators all point in the same direction before entering a trade. Rather than buying on a single signal (like RSI alone), requiring agreement from MACD, RSI, price-vs-SMA, and volume reduces false entries and increases the probability that a move has real momentum behind it. CHRN's score of 100 today reflects exactly this — five separate signals all aligned bullishly.",
+    "explanation_zh": "多重訊號確認，是指在進場買股前，等待多個獨立技術指標同時指向同一方向。相比僅靠單一指標（如RSI）就出手，要求MACD、RSI、均線位置與成交量四者同步確認，能有效降低假突破的風險，提高捕捉真實動能的勝率。今日CHRN獲得滿分100，正是因為五項訊號全部同步看多，是教科書式的多重訊號確認案例。"
+  },
+  "market_education": {
+    "summary_en": "U.S. equities advanced broadly on July 10, with the NASDAQ leading at +1.3% as technology and growth names extended their recent momentum. Risk appetite strengthened following continued resilience in labor market data and easing concerns around near-term Fed policy moves, allowing investors to rotate back into higher-beta sectors. The broad-based advance — with both large-cap (S&P 500 +0.8%) and growth indices rising in tandem — signals institutional participation rather than a narrow speculative squeeze.",
+    "summary_zh": "美國股市7月10日普遍上漲，那斯達克指數領漲，升幅達1.3%，科技與成長型股票延續近期升勢。勞動市場數據持續穩健，加上市場對聯準會短期政策走向的憂慮有所緩解，帶動風險偏好回升，資金重新流入高貝塔板塊。標普500指數同步上漲0.8%，大型股與成長股齊升，顯示此輪行情有機構資金參與支撐，並非單純投機性拉升。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "CHRN",
+      "conviction": "high",
+      "reasoning": "Top-scored candidate (100) with all five bullish signals confirmed: RSI in momentum zone, MACD crossover, rising histogram, price above SMA-20, and volume surge — the strongest multi-signal setup in today's screener on a risk-on day with $677 in deployable cash."
+    }
+  ],
+  "outcomes": {
+    "total_value": 13355.735246181488,
+    "cash": 677.1352210044861,
+    "pnl_dollar": 3355.735246181488,
+    "pnl_pct": 33.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
