@@ -1,14 +1,14 @@
 {
   "date": "2026-07-10",
-  "briefing": "Today was a flat, directionless session with NASDAQ at exactly +0.0% and S&P barely +0.2% — no risk-on signal to justify deploying cash. Despite having $677 available and 4 open slots, the strategy memory is explicit: do not force buys on neutral days just to deploy capital, but instead wait for a genuine risk-on session (NASDAQ +2% or more). The top-scoring candidates — EQPT, CCC, CRCL — all show strong momentum signals and will remain on the watchlist for the next strong up day.",
+  "briefing": "Markets drifted slightly lower today with NASDAQ -0.4% and S&P 500 -0.1% — a classic neutral session with no clear directional catalyst. Despite having $677 in cash and 4 open slots, strategy memory is explicit: preserve dry powder through neutral days and deploy on the next genuine risk-on signal (NASDAQ +2%+). Existing positions show no stop-loss concerns, so the right move is to hold everything and wait.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash reserves held intentionally on the sideline, waiting to be deployed when the right opportunity appears. Rather than investing every available dollar immediately, experienced traders preserve cash so they can act decisively when conditions are clearly favorable — like a strong risk-on day with NASDAQ up 2% or more. Sitting on cash during flat or uncertain markets isn't inaction; it's discipline.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是投資術語，指刻意保留在場外的現金儲備，等待合適時機再行部署。有經驗的交易者不會急於把每一分錢立即投入市場，而是保留現金，以便在條件明確有利時——例如納指大漲2%以上的強勢做多日——能夠果斷出手。在橫盤或方向不明的市場中持有現金，並非消極被動，而是紀律的體現。"
+    "explanation_en": "Dry powder refers to cash or liquid assets held in reserve, ready to deploy when a clear opportunity arises. Experienced investors deliberately hold dry powder through low-conviction market days so they can act decisively when conditions favor strong entries — such as a broad risk-on rally. Deploying cash just to avoid sitting idle often leads to buying at suboptimal moments.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留的現金或流動資產，隨時準備在適當時機迅速進場。有經驗的投資者會刻意在市場方向不明時持現觀望，以便在市況明確轉強（如大盤出現風險偏好上升的走勢）時果斷出手。若僅為避免現金閒置而倉促入市，往往容易在時機欠佳時高位接貨。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted sideways on July 10th as investors paused ahead of the next round of earnings reports and Federal Reserve commentary, with neither sector leadership nor macro catalysts strong enough to push the major indices decisively in either direction. The S&P 500 eked out a fractional gain of 0.2% while the NASDAQ closed flat, reflecting balanced positioning between bulls holding recent gains and bears cautious about stretched valuations in large-cap tech. Volume was subdued across the board, suggesting institutional players were in wait-and-see mode rather than adding risk.",
-    "summary_zh": "美股於7月10日整體橫盤整理，投資人在等待下一輪財報季及聯儲局官員發言期間普遍觀望，缺乏明確的板塊輪動或宏觀催化因素推動指數突破。標普500指數微漲0.2%，納斯達克指數則持平收場，反映多空雙方力量均衡——多頭守住近期漲幅，空頭則對大型科技股估值偏高保持警惕。全日成交量偏低，顯示機構資金傾向靜待訊號而非主動加倉。",
+    "summary_en": "U.S. equities treaded water on Thursday as investors paused ahead of upcoming earnings reports and macroeconomic data, leaving the S&P 500 down just 0.1% and the NASDAQ off 0.4%. The mild weakness reflected a lack of fresh catalysts rather than active selling, with institutional money rotating quietly within sectors rather than making directional bets. Without a clear bullish or bearish driver, markets settled into a holding pattern typical of mid-earnings-season caution.",
+    "summary_zh": "美國股市週四陷入膠著，投資者在即將到來的企業財報及宏觀數據公布前選擇按兵不動，標普500指數微跌0.1%，納斯達克指數下跌0.4%。此次小幅回落更多反映催化劑缺失，而非主動拋售，機構資金在板塊內部悄然輪動，未有明確方向性佈局。在財報季中段，市場進入觀望模式，等待更清晰的指引。",
     "sources": []
   },
   "trades": [],
