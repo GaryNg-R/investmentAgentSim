@@ -1,14 +1,14 @@
 {
   "date": "2026-07-10",
-  "briefing": "Markets drifted slightly lower today with NASDAQ -0.4% and S&P 500 -0.1% — a classic neutral session with no clear directional catalyst. Despite having $677 in cash and 4 open slots, strategy memory is explicit: preserve dry powder through neutral days and deploy on the next genuine risk-on signal (NASDAQ +2%+). Existing positions show no stop-loss concerns, so the right move is to hold everything and wait.",
+  "briefing": "Markets were flat today — NASDAQ unchanged, S&P 500 up just 0.2% — a textbook neutral session with no catalyst to justify new entries. Per our strategy, we do not force buys on neutral days just to deploy the $677 in cash; we hold and wait for the next genuine risk-on signal. All 6 existing positions are held and managed by their automatic stop-loss and profit-target rules.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash or liquid assets held in reserve, ready to deploy when a clear opportunity arises. Experienced investors deliberately hold dry powder through low-conviction market days so they can act decisively when conditions favor strong entries — such as a broad risk-on rally. Deploying cash just to avoid sitting idle often leads to buying at suboptimal moments.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留的現金或流動資產，隨時準備在適當時機迅速進場。有經驗的投資者會刻意在市場方向不明時持現觀望，以便在市況明確轉強（如大盤出現風險偏好上升的走勢）時果斷出手。若僅為避免現金閒置而倉促入市，往往容易在時機欠佳時高位接貨。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' stance means choosing not to open new positions when market conditions lack clear upside momentum. On neutral days — like today — deploying cash into new stocks creates exposure without sufficient reward, since a flat market offers no wind at your back. Disciplined investors preserve dry powder for genuine risk-on setups (e.g., NASDAQ +2%+) where the odds of a profitable entry are meaningfully higher.",
+    "explanation_zh": "「避險模式」（Risk-Off）是指在市況缺乏明確上升動力時，選擇不開設新倉位的策略。在今天這類橫盤交易日，貿然入市只會增加持倉風險，卻換不到相應回報，因為平淡的市場走勢無法為新倉提供助力。有紀律的投資者會保留現金，等待真正的入市訊號（如納斯達克單日升幅達2%以上），在勝算更高的時機才部署資金。"
   },
   "market_education": {
-    "summary_en": "U.S. equities treaded water on Thursday as investors paused ahead of upcoming earnings reports and macroeconomic data, leaving the S&P 500 down just 0.1% and the NASDAQ off 0.4%. The mild weakness reflected a lack of fresh catalysts rather than active selling, with institutional money rotating quietly within sectors rather than making directional bets. Without a clear bullish or bearish driver, markets settled into a holding pattern typical of mid-earnings-season caution.",
-    "summary_zh": "美國股市週四陷入膠著，投資者在即將到來的企業財報及宏觀數據公布前選擇按兵不動，標普500指數微跌0.1%，納斯達克指數下跌0.4%。此次小幅回落更多反映催化劑缺失，而非主動拋售，機構資金在板塊內部悄然輪動，未有明確方向性佈局。在財報季中段，市場進入觀望模式，等待更清晰的指引。",
+    "summary_en": "U.S. equities drifted sideways on July 10 as investors took a breather following recent gains, with the S&P 500 adding a token 0.2% and the NASDAQ finishing flat. The lack of major economic data releases or corporate catalysts left traders on the sidelines, resulting in subdued volume and tight intraday ranges. The session reflected a market in consolidation mode, neither willing to push higher nor giving back prior gains.",
+    "summary_zh": "美股於7月10日呈現橫盤整理格局，標普500指數小升0.2%，納斯達克指數則收平，市場在近期漲勢後進入休整。當日缺乏重要經濟數據或企業催化劑，機構資金普遍觀望，成交量溫和，盤中波幅收窄。整體走勢反映市場正處於消化階段，既無動力向上突破，亦未見明顯獲利回吐。",
     "sources": []
   },
   "trades": [],
