@@ -1,24 +1,17 @@
 {
   "date": "2026-07-10",
-  "briefing": "NASDAQ +1.3% and S&P 500 +0.8% deliver a solid risk-on session, clearing the threshold to deploy idle cash. CHRN is the only candidate meeting all four multi-signal confirmation criteria (MACD crossover, RSI 55–70, price above SMA-20, volume surge) and carries the highest composite score of 100, making it the clear choice. All six existing positions remain healthy with no stop-loss or profit-target triggers evident, so no sells are warranted today.",
+  "briefing": "Today was a flat, directionless session with NASDAQ at exactly +0.0% and S&P barely +0.2% — no risk-on signal to justify deploying cash. Despite having $677 available and 4 open slots, the strategy memory is explicit: do not force buys on neutral days just to deploy capital, but instead wait for a genuine risk-on session (NASDAQ +2% or more). The top-scoring candidates — EQPT, CCC, CRCL — all show strong momentum signals and will remain on the watchlist for the next strong up day.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means waiting until several independent technical indicators all point in the same direction before entering a trade. Rather than buying on a single signal (like RSI alone), requiring agreement from MACD, RSI, price-vs-SMA, and volume reduces false entries and increases the probability that a move has real momentum behind it. CHRN's score of 100 today reflects exactly this — five separate signals all aligned bullishly.",
-    "explanation_zh": "多重訊號確認，是指在進場買股前，等待多個獨立技術指標同時指向同一方向。相比僅靠單一指標（如RSI）就出手，要求MACD、RSI、均線位置與成交量四者同步確認，能有效降低假突破的風險，提高捕捉真實動能的勝率。今日CHRN獲得滿分100，正是因為五項訊號全部同步看多，是教科書式的多重訊號確認案例。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash reserves held intentionally on the sideline, waiting to be deployed when the right opportunity appears. Rather than investing every available dollar immediately, experienced traders preserve cash so they can act decisively when conditions are clearly favorable — like a strong risk-on day with NASDAQ up 2% or more. Sitting on cash during flat or uncertain markets isn't inaction; it's discipline.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是投資術語，指刻意保留在場外的現金儲備，等待合適時機再行部署。有經驗的交易者不會急於把每一分錢立即投入市場，而是保留現金，以便在條件明確有利時——例如納指大漲2%以上的強勢做多日——能夠果斷出手。在橫盤或方向不明的市場中持有現金，並非消極被動，而是紀律的體現。"
   },
   "market_education": {
-    "summary_en": "U.S. equities advanced broadly on July 10, with the NASDAQ leading at +1.3% as technology and growth names extended their recent momentum. Risk appetite strengthened following continued resilience in labor market data and easing concerns around near-term Fed policy moves, allowing investors to rotate back into higher-beta sectors. The broad-based advance — with both large-cap (S&P 500 +0.8%) and growth indices rising in tandem — signals institutional participation rather than a narrow speculative squeeze.",
-    "summary_zh": "美國股市7月10日普遍上漲，那斯達克指數領漲，升幅達1.3%，科技與成長型股票延續近期升勢。勞動市場數據持續穩健，加上市場對聯準會短期政策走向的憂慮有所緩解，帶動風險偏好回升，資金重新流入高貝塔板塊。標普500指數同步上漲0.8%，大型股與成長股齊升，顯示此輪行情有機構資金參與支撐，並非單純投機性拉升。",
+    "summary_en": "U.S. equities drifted sideways on July 10th as investors paused ahead of the next round of earnings reports and Federal Reserve commentary, with neither sector leadership nor macro catalysts strong enough to push the major indices decisively in either direction. The S&P 500 eked out a fractional gain of 0.2% while the NASDAQ closed flat, reflecting balanced positioning between bulls holding recent gains and bears cautious about stretched valuations in large-cap tech. Volume was subdued across the board, suggesting institutional players were in wait-and-see mode rather than adding risk.",
+    "summary_zh": "美股於7月10日整體橫盤整理，投資人在等待下一輪財報季及聯儲局官員發言期間普遍觀望，缺乏明確的板塊輪動或宏觀催化因素推動指數突破。標普500指數微漲0.2%，納斯達克指數則持平收場，反映多空雙方力量均衡——多頭守住近期漲幅，空頭則對大型科技股估值偏高保持警惕。全日成交量偏低，顯示機構資金傾向靜待訊號而非主動加倉。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "CHRN",
-      "conviction": "high",
-      "reasoning": "Top-scored candidate (100) with all five bullish signals confirmed: RSI in momentum zone, MACD crossover, rising histogram, price above SMA-20, and volume surge — the strongest multi-signal setup in today's screener on a risk-on day with $677 in deployable cash."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13355.735246181488,
     "cash": 677.1352210044861,
