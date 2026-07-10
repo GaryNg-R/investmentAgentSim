@@ -1,14 +1,14 @@
 {
   "date": "2026-07-10",
-  "briefing": "Markets are neutral today — S&P 500 +0.4%, NASDAQ +0.3% — not enough directional conviction to justify new entries. Despite sitting on $677.14 cash with 4 open slots, strategy memory is clear: do not force buys on neutral days just to deploy capital. CAVA, AAP, and BETA all score 100 with perfect 5-signal setups and will remain strong candidates when the market turns risk-on. All six existing positions remain healthy; holding and waiting for the next risk-on signal.",
+  "briefing": "Market is neutral today with NASDAQ up just 0.3% and S&P 500 up 0.4% — not the risk-on signal needed to justify new entries. Despite having $677 in cash and 4 open slots, strategy memory is clear: neutral days call for patience, not deployment. Holding dry powder to deploy on the first genuine risk-on session, likely targeting the score-100 candidates (CEPU, BETA, AAP, CAVA) when conditions confirm.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-Off describes a market environment where investors reduce exposure to higher-risk assets — like growth stocks and small caps — because the broad market lacks conviction or upward momentum. Even when individual stocks have perfect technical setups, entering on a neutral or directionless day means you're buying without the market tailwind that helps momentum names move. The discipline is to wait: preserve cash, let the setup mature, and deploy only when the market itself confirms the move.",
-    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者因市場缺乏動能或方向不明，主動降低對高風險資產（如成長股、小型股）敞口的市場環境。即便個別股票的技術信號再完美，在大盤橫盤震盪時進場，等於在沒有市場順風的情況下買入動能股，成功率大幅降低。正確的紀律是耐心等待：保留現金，讓技術形態繼續成熟，待大盤出現明確Risk-On信號時再部署資金，勝算才會真正提升。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to keeping cash reserves available so you can act decisively when a high-quality opportunity appears. Rather than forcing trades on low-conviction days, disciplined investors hold cash and wait for confirmed market strength — then deploy quickly. Today's hold is a textbook example: the candidates are good, but the market hasn't given the green light.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指保留現金備用，以便在優質機會出現時能迅速出手。有紀律的投資者不會在低確信度的市場環境中強行建倉，而是持幣觀望，等待市場明確轉強後再快速部署資金。今日選擇持有現金正是這一原則的實踐：候選標的固然優質，但市場尚未給出入場訊號。"
   },
   "market_education": {
-    "summary_en": "Markets drifted modestly higher today with the S&P 500 gaining 0.4% and the NASDAQ rising 0.3%, reflecting a quiet consolidation session with no major catalysts. Trading volumes were subdued as investors showed little urgency to add risk exposure, a pattern typical of mid-week summer trading when institutional desks hold back ahead of upcoming macro data. The session is best characterized as a pause rather than a directional move — neither bulls nor bears gained meaningful ground.",
-    "summary_zh": "美股今日小幅收漲，標普500指數漲0.4%，納斯達克指數漲0.3%，整體呈現橫盤整理格局，缺乏明確催化劑推動方向。成交量偏淡，機構投資者在重要宏觀數據公布前普遍觀望，這是夏季中段常見的市場行為模式。本日走勢既非強勢突破，亦非顯著回調，多空雙方均未取得明顯優勢，市場靜待下一個明確方向訊號。",
+    "summary_en": "U.S. equities drifted sideways Thursday as investors absorbed mixed signals: modest economic data gave no clear direction for Fed policy, while sector rotation kept gains narrow and breadth thin. Without a catalyst to drive broad conviction, institutional buyers stayed on the sidelines, resulting in a low-volume, directionless session. This kind of range-bound tape often precedes a sharper directional move in either direction.",
+    "summary_zh": "美股週四窄幅整理，投資者消化參差不齊的經濟數據，對聯準會政策方向缺乏明確預期。板塊輪動令漲幅集中，市場廣度偏窄，機構資金觀望情緒明顯，全日成交量清淡。此類整理行情往往是下一波明確方向啟動前的醞釀期，需密切留意突破訊號。",
     "sources": []
   },
   "trades": [],
