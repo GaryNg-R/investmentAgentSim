@@ -1,14 +1,14 @@
 {
   "date": "2026-07-10",
-  "briefing": "Markets were essentially flat today — NASDAQ +0.2%, S&P 500 +0.3% — with no directional conviction. Despite holding $677 in cash with 4 open slots, strategy memory is clear: neutral days are not the time to force deployment. PLBL stands out as the top candidate with all four multi-signal confirmations including a volume surge, but it will be a stronger buy on a genuine risk-on day. Holding dry powder and letting existing positions run.",
+  "briefing": "Markets were flat today with NASDAQ up 0.3% and S&P 500 up 0.4% — a neutral session with no strong directional conviction. Cash sits at $677 with 4 open slots and excellent score-95 candidates available (EQPT, ALM, GGAL, BETA), but the strategy playbook is clear: hold dry powder through neutral sessions and deploy only on genuine risk-on days (NASDAQ +2% or more). All six existing positions remain healthy with no stop-loss or profit-target triggers, so no action is warranted today.",
   "daily_lesson": {
-    "term": "Cash as a Position",
-    "explanation_en": "Holding cash is an active investment decision, not a failure to act. On neutral or low-conviction market days, keeping dry powder means you preserve capital and flexibility to buy aggressively when a genuine risk-on signal appears — such as NASDAQ up 2% or more. Forced buying on weak days often means overpaying just before a pullback.",
-    "explanation_zh": "持有現金本身就是一種主動的投資決策，而非消極等待。在市場方向不明的橫盤日，保留充足現金代表你保持了靈活性，能夠在真正的風險偏好訊號出現時（例如納指單日上漲2%以上）果斷進場。在弱勢日強行買入，往往意味著在回調前高位建倉，得不償失。"
+    "term": "Neutral Market",
+    "explanation_en": "A neutral market is one where prices drift sideways without a strong upward or downward trend — today's +0.3% to +0.4% move is a classic example. For momentum investors, neutral days signal holding existing positions but avoiding new entries, since there is no broad institutional tailwind to carry new buys higher. Deploying capital on a neutral day risks tying up funds in a position that goes nowhere, when a stronger risk-on day may arrive soon.",
+    "explanation_zh": "中性市場是指價格缺乏明確方向、在窄幅區間橫向整理的市場狀態，今日納斯達克漲0.3%、標普500漲0.4%即為典型案例。對動能投資者而言，中性交易日的正確策略是持有現有倉位、暫緩新開倉，因為市場缺乏機構資金推動力，難以帶動新進部位持續走高。在中性日貿然進場，資金可能被套在原地踏步的個股中，反而錯失等待更強風險偏好日出手的機會。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted marginally higher on Thursday with the S&P 500 gaining 0.3% and the NASDAQ adding 0.2%, reflecting a low-conviction summer session with no major catalysts. Trading volume was subdued and sector rotation was muted, suggesting institutional participants were largely on the sidelines. The session reinforced a cautious wait-and-see posture ahead of upcoming macro data.",
-    "summary_zh": "美國股市週四小幅收高，標普500指數上漲0.3%，納斯達克指數上升0.2%，整體走勢缺乏明確方向，顯示市場進入夏季低量整理階段。板塊輪動疲弱，機構資金普遍按兵不動，等待更多宏觀數據指引。市場呈現觀望情緒，短線趨勢方向未明。",
+    "summary_en": "U.S. equity markets drifted marginally higher Thursday, with the S&P 500 gaining 0.4% and the NASDAQ adding 0.3%, reflecting cautious positioning amid a lack of major catalysts. Investors appeared to be in a wait-and-see mode ahead of upcoming earnings reports and any fresh Federal Reserve commentary on the rate outlook. Market breadth was modest, suggesting that institutional participants were not committing fresh capital with any conviction in either direction.",
+    "summary_zh": "美國股市週四小幅收高，標普500指數上漲0.4%，納斯達克指數上漲0.3%，整體走勢溫和，缺乏明確的市場催化劑。在即將公布的企業財報及聯準會官員最新表態出爐前，投資人普遍持觀望態度，不急於新建倉位。市場廣度表現平淡，顯示機構資金尚未積極進場布局，多空雙方均缺乏強烈的進場意願。",
     "sources": []
   },
   "trades": [],
