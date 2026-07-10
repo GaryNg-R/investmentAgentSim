@@ -1,14 +1,14 @@
 {
   "date": "2026-07-10",
-  "briefing": "Markets were flat today — NASDAQ unchanged, S&P 500 up just 0.2% — a textbook neutral session with no catalyst to justify new entries. Per our strategy, we do not force buys on neutral days just to deploy the $677 in cash; we hold and wait for the next genuine risk-on signal. All 6 existing positions are held and managed by their automatic stop-loss and profit-target rules.",
+  "briefing": "Markets were barely moved today — NASDAQ +0.2% and S&P 500 +0.3% qualify as a neutral session. With $677 in cash and 4 open slots, the temptation is to deploy into the top-scoring candidates (EQPT, ALM, CCC all scoring 95), but the strategy memory is clear: neutral days are hold days. The right call is to keep powder dry and wait for a genuine risk-on signal before entering new positions. Existing positions in QQQ, EAT, OLED, WT, ROAD, and INOD are held intact.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' stance means choosing not to open new positions when market conditions lack clear upside momentum. On neutral days — like today — deploying cash into new stocks creates exposure without sufficient reward, since a flat market offers no wind at your back. Disciplined investors preserve dry powder for genuine risk-on setups (e.g., NASDAQ +2%+) where the odds of a profitable entry are meaningfully higher.",
-    "explanation_zh": "「避險模式」（Risk-Off）是指在市況缺乏明確上升動力時，選擇不開設新倉位的策略。在今天這類橫盤交易日，貿然入市只會增加持倉風險，卻換不到相應回報，因為平淡的市場走勢無法為新倉提供助力。有紀律的投資者會保留現金，等待真正的入市訊號（如納斯達克單日升幅達2%以上），在勝算更高的時機才部署資金。"
+    "term": "Entry Timing",
+    "explanation_en": "Entry timing refers to the discipline of waiting for the right market conditions before committing capital to a new trade. Even when you have strong candidates and available cash, entering on a flat, low-conviction day increases the risk of buying into a position that immediately stalls or reverses. Experienced traders wait for confirming signals — like a breakout day or risk-on surge — to improve their probability of success from the moment of entry.",
+    "explanation_zh": "進場時機指的是在合適的市場環境下才出手建倉的紀律。即便候選股票技術面良好、帳戶又有閒置資金，在市場氣氛低迷的平淡日子進場，往往會提高買入後立即陷入盤整甚至回調的風險。有經驗的投資者會等待確認訊號——例如突破行情或風險偏好明顯回升——才下單，以提高從進場起點開始的成功概率。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted sideways on July 10 as investors took a breather following recent gains, with the S&P 500 adding a token 0.2% and the NASDAQ finishing flat. The lack of major economic data releases or corporate catalysts left traders on the sidelines, resulting in subdued volume and tight intraday ranges. The session reflected a market in consolidation mode, neither willing to push higher nor giving back prior gains.",
-    "summary_zh": "美股於7月10日呈現橫盤整理格局，標普500指數小升0.2%，納斯達克指數則收平，市場在近期漲勢後進入休整。當日缺乏重要經濟數據或企業催化劑，機構資金普遍觀望，成交量溫和，盤中波幅收窄。整體走勢反映市場正處於消化階段，既無動力向上突破，亦未見明顯獲利回吐。",
+    "summary_en": "Today's session saw the S&P 500 and NASDAQ drift slightly higher in a low-conviction move, likely driven by a lack of major catalysts rather than genuine buying enthusiasm. In the absence of strong macro data releases or earnings surprises, traders often sit on their hands, causing indices to flatline near prior closes. This type of price action — tight range, low volume, minor gains — is sometimes called 'digestion,' where markets consolidate recent gains before deciding the next direction.",
+    "summary_zh": "今日美股市場呈現低迷走勢，標普500指數與那斯達克指數僅小幅收漲，缺乏明顯的催化因素。在無重大宏觀數據或企業財報的情況下，市場參與者普遍觀望，導致指數窄幅震盪。這類「消化行情」通常意味著市場在整固近期漲幅，靜待下一個明確方向出現。",
     "sources": []
   },
   "trades": [],
