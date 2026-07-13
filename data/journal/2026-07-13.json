@@ -1,14 +1,14 @@
 {
   "date": "2026-07-13",
-  "briefing": "NASDAQ -0.7% and S&P 500 -0.3% today — a mildly cautious, not risk-on session. With no volume-surge confirmation on any top-scored candidate and no strong risk-on signal (NASDAQ +2%+), held all 6 existing positions and kept the $777 cash on the sidelines rather than forcing new buys.",
+  "briefing": "Markets pulled back today with NASDAQ down 1.1% and S&P 500 down 0.5%, putting us in risk-off mode with no new candidates screened. We're holding all 6 existing positions and keeping the $777 cash on the sidelines rather than forcing a buy into weakness.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors turn cautious and pull back from riskier assets like growth stocks, even without a major shock — often just a mild pullback like today's -0.7% NASDAQ move. The disciplined move is to hold steady and wait for stronger confirming signals (like a volume surge alongside momentum indicators) before committing new cash, rather than deploying capital just because it's sitting idle.",
-    "explanation_zh": "「風險趨避」（Risk-Off）是指投資人轉趨保守、減少持有風險較高資產（如成長股）的日子，未必需要重大衝擊事件觸發，像今天納斯達克僅下跌0.7%這樣溫和的回檔就可能是訊號。穩健的做法是按兵不動，等待更強而有力的確認訊號（例如成交量放大配合動能指標轉強）再進場，而不是因為現金閒置就勉強進場。"
+    "explanation_en": "A 'risk-off' day is when investors broadly sell higher-risk assets like growth stocks and move toward safety, often causing indices like NASDAQ to fall more than the broader S&P 500. The right response is usually to hold existing positions and avoid chasing new trades until conditions stabilize, rather than trying to catch a falling knife.",
+    "explanation_zh": "「避險」（Risk-Off）是指投資人普遍拋售成長股等高風險資產、轉向較安全的資產，這通常會讓納斯達克等指數跌幅大於標普500等大盤指數。正確的做法通常是持有現有部位並避免追逐新交易，直到市況穩定，而不是急於「接刀子」進場抄底。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted lower today, with NASDAQ underperforming the S&P 500, suggesting mild profit-taking or caution rather than a decisive shift in sentiment. No major catalyst news was available to explain the move, which is consistent with a quiet, low-conviction trading day. In these conditions it's often better to wait for clearer confirmation than to chase moves.",
-    "summary_zh": "今日大盤普遍走低，納斯達克指數跌幅大於標普500指數，顯示市場可能只是溫和獲利了結，而非情緒出現重大轉向。目前沒有明顯的重大消息面催化因素可以解釋今日走勢，符合觀望性質、交投清淡的一日。在這種情況下，等待更明確的訊號往往比追高殺低更為穩健。",
+    "summary_en": "Broad equity indices declined today, with tech-heavy NASDAQ underperforming the S&P 500, a pattern typically seen when investors rotate out of higher-risk growth names during periods of uncertainty. No specific news catalyst was provided in today's screen, so the move appears to reflect broader risk-off sentiment rather than a single company-specific event. In these conditions, our screener correctly returned no qualifying candidates, since momentum-based buy signals are unreliable during broad market pullbacks.",
+    "summary_zh": "今日大盤普遍下跌，科技股為主的納斯達克指數跌幅（-1.1%）大於標普500指數（-0.5%），這種走勢通常反映投資人在不確定時期減碼高風險成長股。今日並無提供具體新聞事件作為觸發因素，顯示這次下跌較可能反映整體避險情緒而非個別公司消息。在這種市況下，選股系統未篩選出任何合格標的是正確的，因為動能買入訊號在大盤回檔期間可信度較低。",
     "sources": []
   },
   "trades": [],
