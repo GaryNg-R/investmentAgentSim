@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-13",
+  "briefing": "Markets were neutral today (NASDAQ +0.3%, S&P 500 +0.4%) with no strong risk-on signal. Per past lessons, we're holding both cash and all 6 existing positions rather than forcing new buys on a low-conviction day, even though several screened candidates (CEPU, BETA, AAP, CAVA) show strong multi-signal setups worth watching if momentum strengthens.",
+  "daily_lesson": {
+    "term": "Patience / Opportunity Cost",
+    "explanation_en": "Sometimes the best move is no move at all. Holding cash on a neutral day isn't wasted opportunity — it preserves capital and flexibility for when a genuinely strong buy signal appears, rather than chasing mediocre setups just to stay 'fully invested'.",
+    "explanation_zh": "有時候最好的操作就是「不操作」。在方向不明的日子持有現金並非浪費機會，而是保留資本與靈活性，等待真正強勁的買入訊號出現，而不是為了「全額投入」而勉強追逐平庸的機會。"
+  },
+  "market_education": {
+    "summary_en": "Major indices drifted modestly higher today without a clear catalyst, with the S&P 500 and NASDAQ both posting sub-1% gains that reflect low-conviction, directionless trading rather than a strong risk-on move.",
+    "summary_zh": "今日大盤溫和上揚但缺乏明確催化因素，標普500與納指升幅均低於1%，反映市場方向不明、交投觀望氣氛濃厚，而非明顯的風險偏好上升行情。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13455.735246181488,
+    "cash": 777.1352210044861,
+    "pnl_dollar": 3455.735246181488,
+    "pnl_pct": 34.55735246181489,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}

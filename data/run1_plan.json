@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-07-10T21:01:11.605601+00:00",
+  "saved_at": "2026-07-13T13:00:50.788630+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Market is neutral today with NASDAQ up just 0.3% and S&P 500 up 0.4% \u2014 not the risk-on signal needed to justify new entries. Despite having $677 in cash and 4 open slots, strategy memory is clear: neutral days call for patience, not deployment. Holding dry powder to deploy on the first genuine risk-on session, likely targeting the score-100 candidates (CEPU, BETA, AAP, CAVA) when conditions confirm.",
+    "briefing": "Markets were neutral today (NASDAQ +0.3%, S&P 500 +0.4%) with no strong risk-on signal. Per past lessons, we're holding both cash and all 6 existing positions rather than forcing new buys on a low-conviction day, even though several screened candidates (CEPU, BETA, AAP, CAVA) show strong multi-signal setups worth watching if momentum strengthens.",
     "market_education": {
-      "summary_en": "U.S. equities drifted sideways Thursday as investors absorbed mixed signals: modest economic data gave no clear direction for Fed policy, while sector rotation kept gains narrow and breadth thin. Without a catalyst to drive broad conviction, institutional buyers stayed on the sidelines, resulting in a low-volume, directionless session. This kind of range-bound tape often precedes a sharper directional move in either direction.",
-      "summary_zh": "\u7f8e\u80a1\u9031\u56db\u7a84\u5e45\u6574\u7406\uff0c\u6295\u8cc7\u8005\u6d88\u5316\u53c3\u5dee\u4e0d\u9f4a\u7684\u7d93\u6fdf\u6578\u64da\uff0c\u5c0d\u806f\u6e96\u6703\u653f\u7b56\u65b9\u5411\u7f3a\u4e4f\u660e\u78ba\u9810\u671f\u3002\u677f\u584a\u8f2a\u52d5\u4ee4\u6f32\u5e45\u96c6\u4e2d\uff0c\u5e02\u5834\u5ee3\u5ea6\u504f\u7a84\uff0c\u6a5f\u69cb\u8cc7\u91d1\u89c0\u671b\u60c5\u7dd2\u660e\u986f\uff0c\u5168\u65e5\u6210\u4ea4\u91cf\u6e05\u6de1\u3002\u6b64\u985e\u6574\u7406\u884c\u60c5\u5f80\u5f80\u662f\u4e0b\u4e00\u6ce2\u660e\u78ba\u65b9\u5411\u555f\u52d5\u524d\u7684\u919e\u91c0\u671f\uff0c\u9700\u5bc6\u5207\u7559\u610f\u7a81\u7834\u8a0a\u865f\u3002",
+      "summary_en": "Major indices drifted modestly higher today without a clear catalyst, with the S&P 500 and NASDAQ both posting sub-1% gains that reflect low-conviction, directionless trading rather than a strong risk-on move.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6eab\u548c\u4e0a\u63da\u4f46\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u56e0\u7d20\uff0c\u6a19\u666e500\u8207\u7d0d\u6307\u5347\u5e45\u5747\u4f4e\u65bc1%\uff0c\u53cd\u6620\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u3001\u4ea4\u6295\u89c0\u671b\u6c23\u6c1b\u6fc3\u539a\uff0c\u800c\u975e\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u4e0a\u5347\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "Dry powder refers to keeping cash reserves available so you can act decisively when a high-quality opportunity appears. Rather than forcing trades on low-conviction days, disciplined investors hold cash and wait for confirmed market strength \u2014 then deploy quickly. Today's hold is a textbook example: the candidates are good, but the market hasn't given the green light.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u662f\u6307\u4fdd\u7559\u73fe\u91d1\u5099\u7528\uff0c\u4ee5\u4fbf\u5728\u512a\u8cea\u6a5f\u6703\u51fa\u73fe\u6642\u80fd\u8fc5\u901f\u51fa\u624b\u3002\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u4e0d\u6703\u5728\u4f4e\u78ba\u4fe1\u5ea6\u7684\u5e02\u5834\u74b0\u5883\u4e2d\u5f37\u884c\u5efa\u5009\uff0c\u800c\u662f\u6301\u5e63\u89c0\u671b\uff0c\u7b49\u5f85\u5e02\u5834\u660e\u78ba\u8f49\u5f37\u5f8c\u518d\u5feb\u901f\u90e8\u7f72\u8cc7\u91d1\u3002\u4eca\u65e5\u9078\u64c7\u6301\u6709\u73fe\u91d1\u6b63\u662f\u9019\u4e00\u539f\u5247\u7684\u5be6\u8e10\uff1a\u5019\u9078\u6a19\u7684\u56fa\u7136\u512a\u8cea\uff0c\u4f46\u5e02\u5834\u5c1a\u672a\u7d66\u51fa\u5165\u5834\u8a0a\u865f\u3002"
+      "term": "Patience / Opportunity Cost",
+      "explanation_en": "Sometimes the best move is no move at all. Holding cash on a neutral day isn't wasted opportunity \u2014 it preserves capital and flexibility for when a genuinely strong buy signal appears, rather than chasing mediocre setups just to stay 'fully invested'.",
+      "explanation_zh": "\u6709\u6642\u5019\u6700\u597d\u7684\u64cd\u4f5c\u5c31\u662f\u300c\u4e0d\u64cd\u4f5c\u300d\u3002\u5728\u65b9\u5411\u4e0d\u660e\u7684\u65e5\u5b50\u6301\u6709\u73fe\u91d1\u4e26\u975e\u6d6a\u8cbb\u6a5f\u6703\uff0c\u800c\u662f\u4fdd\u7559\u8cc7\u672c\u8207\u9748\u6d3b\u6027\uff0c\u7b49\u5f85\u771f\u6b63\u5f37\u52c1\u7684\u8cb7\u5165\u8a0a\u865f\u51fa\u73fe\uff0c\u800c\u4e0d\u662f\u70ba\u4e86\u300c\u5168\u984d\u6295\u5165\u300d\u800c\u52c9\u5f37\u8ffd\u9010\u5e73\u5eb8\u7684\u6a5f\u6703\u3002"
     }
   }
 }
