@@ -1,17 +1,24 @@
 {
   "date": "2026-07-13",
-  "briefing": "Markets were neutral today (NASDAQ +0.3%, S&P 500 +0.4%) with no strong risk-on signal. Per past lessons, we're holding both cash and all 6 existing positions rather than forcing new buys on a low-conviction day, even though several screened candidates (CEPU, BETA, AAP, CAVA) show strong multi-signal setups worth watching if momentum strengthens.",
+  "briefing": "Markets were mildly negative today (NASDAQ -0.8%, S&P 500 -0.2%), a neutral-to-soft session rather than a clear risk-on or risk-off signal. Existing positions were held since none hit stop-loss or profit-target levels, and one new position was added in TMDX, which showed complete multi-signal confirmation despite the broader market softness.",
   "daily_lesson": {
-    "term": "Patience / Opportunity Cost",
-    "explanation_en": "Sometimes the best move is no move at all. Holding cash on a neutral day isn't wasted opportunity — it preserves capital and flexibility for when a genuinely strong buy signal appears, rather than chasing mediocre setups just to stay 'fully invested'.",
-    "explanation_zh": "有時候最好的操作就是「不操作」。在方向不明的日子持有現金並非浪費機會，而是保留資本與靈活性，等待真正強勁的買入訊號出現，而不是為了「全額投入」而勉強追逐平庸的機會。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators — like a MACD crossover, RSI in a healthy range, price above its moving average, and a volume surge — all line up together. Relying on just one signal can be misleading, but when four or five agree, it suggests real institutional buying interest rather than random noise.",
+    "explanation_zh": "多重信號確認是指只有當多個獨立技術指標（例如MACD黃金交叉、RSI處於健康區間、股價高於均線、以及成交量放大）同時出現時才進行交易。單一信號容易造成誤判，但當四、五個信號同時符合時，通常代表有真實的機構資金進場，而非隨機波動。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today without a clear catalyst, with the S&P 500 and NASDAQ both posting sub-1% gains that reflect low-conviction, directionless trading rather than a strong risk-on move.",
-    "summary_zh": "今日大盤溫和上揚但缺乏明確催化因素，標普500與納指升幅均低於1%，反映市場方向不明、交投觀望氣氛濃厚，而非明顯的風險偏好上升行情。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ underperforming the S&P 500, consistent with a quiet, directionless trading session rather than any major catalyst-driven move. Broad breadth was mixed, with select stocks like TMDX, STLA, and PFE bucking the trend on strong volume and momentum signals. Without a clear macro driver, the modest pullback looks like routine consolidation after recent gains rather than the start of a deeper correction.",
+    "summary_zh": "今日主要指數溫和走低，納斯達克表現遜於標普500指數，屬於缺乏明確催化劑的清淡交易日。市場廣度好壞參半，但TMDX、STLA、PFE等個股憑藉強勁成交量及動能信號逆勢走強。在沒有明顯宏觀因素帶動下，今日小幅回檔較像是近期漲勢後的常規整理，而非深度回調的開端。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "TMDX",
+      "conviction": "high",
+      "reasoning": "Full institutional-grade signal confirmation (MACD bullish crossover, rising histogram, RSI 69.3 in bullish zone, price above SMA-20, volume surge) on the top-scored candidate."
+    }
+  ],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
