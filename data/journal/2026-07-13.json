@@ -1,14 +1,14 @@
 {
   "date": "2026-07-13",
-  "briefing": "Markets sold off today with NASDAQ down 1.5% and S&P 500 down 0.8%, a clear risk-off signal. No new candidates were screened, so we're holding all 6 existing positions and letting stop-loss/profit-target rules handle exits automatically.",
+  "briefing": "Markets were risk-off today with NASDAQ down 1.5% and the S&P 500 down 0.7%; no new candidates were screened, so we held all six existing positions and kept cash in reserve rather than forcing a buy.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety. On days like this, it's often better to hold existing positions and avoid chasing new trades until conditions stabilize.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指投資者普遍拋售增長股等高風險資產，轉而尋求較安全的資產。在這種日子，通常較好的做法是持有現有倉位，避免在市況穩定前追入新交易。"
+    "explanation_en": "'Risk-off' describes a market mood where investors sell riskier assets like growth stocks and move toward safer holdings or cash. On days like today, disciplined investors avoid chasing new positions and instead hold steady, letting stop-losses and profit targets manage existing trades automatically.",
+    "explanation_zh": "「避險模式」（Risk-Off）是指投資人賣出成長股等風險較高的資產，轉向現金或更安全的資產。在這樣的日子，有紀律的投資人不會追加新倉位，而是保持現有部位不動，讓停損與獲利了結機制自動運作。"
   },
   "market_education": {
-    "summary_en": "Broad-based selling hit tech-heavy indices harder than the S&P 500, with NASDAQ underperforming by roughly double, suggesting investors rotated out of higher-beta growth names. No specific headline drove today's move based on the data available.",
-    "summary_zh": "今日大市普遍下跌，以科技股為主的納指跌幅約為標普500指數的兩倍，反映投資者正從高波動性的增長股中撤資。根據現有數據，今日未見特定消息面新聞主導市況。",
+    "summary_en": "Broad indices pulled back today, with tech-heavy NASDAQ underperforming the S&P 500, consistent with a risk-off rotation out of growth names. No specific news catalysts were provided in today's screening data to pinpoint an exact cause. Days like this often reflect broader sentiment shifts (rate expectations, macro data, or profit-taking) rather than company-specific news.",
+    "summary_zh": "今日大盤普遍回落，科技股較多的納斯達克指數跌幅大於標普500，反映市場資金從成長股轉向避險。今日篩選資料中未提供具體新聞來源以確認明確導火線。這類下跌日通常反映整體市場情緒轉變（如利率預期、總體經濟數據或獲利了結），而非個別公司消息。",
     "sources": []
   },
   "trades": [],
