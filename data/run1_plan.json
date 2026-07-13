@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-07-13T17:00:39.945723+00:00",
+  "saved_at": "2026-07-13T18:00:25.688301+00:00",
   "market_direction": "risk_off",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets turned risk-off today with the NASDAQ down 1.3% and the S&P 500 down 0.7%; no new candidates were screened under these conditions. We're holding all six existing positions and keeping the $777 in cash on the sidelines rather than forcing a buy.",
+    "briefing": "Markets sold off today with NASDAQ down 1.5% and S&P 500 down 0.8%, a clear risk-off signal. No new candidates were screened, so we're holding all 6 existing positions and letting stop-loss/profit-target rules handle exits automatically.",
     "market_education": {
-      "summary_en": "Broad indices pulled back today, with tech-heavy NASDAQ underperforming the S&P 500, a pattern typical of a risk-off session where investors rotate out of higher-beta growth names. Without specific verified headlines available for today, the move looks consistent with routine profit-taking or macro caution rather than a company-specific shock. No screened news sources were provided today to cite directly.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u56de\u843d\uff0c\u79d1\u6280\u80a1\u8f03\u591a\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u6307\u6578\uff0c\u5c6c\u65bc\u5178\u578b\u7684\u300c\u98a8\u96aa\u8da8\u907f\u300d\u8d70\u52e2\uff0c\u53cd\u6620\u6295\u8cc7\u4eba\u5f9e\u9ad8\u6ce2\u52d5\u7684\u6210\u9577\u80a1\u64a4\u51fa\u3002\u7531\u65bc\u4eca\u65e5\u672a\u63d0\u4f9b\u5177\u9ad4\u53ef\u67e5\u8b49\u7684\u65b0\u805e\u6a19\u984c\uff0c\u6b64\u6ce2\u52d5\u8f03\u53ef\u80fd\u662f\u4f8b\u884c\u7372\u5229\u4e86\u7d50\u6216\u7e3d\u9ad4\u7d93\u6fdf\u7591\u616e\u6240\u81f4\uff0c\u800c\u975e\u500b\u5225\u516c\u53f8\u4e8b\u4ef6\u3002",
+      "summary_en": "Broad-based selling hit tech-heavy indices harder than the S&P 500, with NASDAQ underperforming by roughly double, suggesting investors rotated out of higher-beta growth names. No specific headline drove today's move based on the data available.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0b\u8dcc\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u6307\u8dcc\u5e45\u7d04\u70ba\u6a19\u666e500\u6307\u6578\u7684\u5169\u500d\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u6b63\u5f9e\u9ad8\u6ce2\u52d5\u6027\u7684\u589e\u9577\u80a1\u4e2d\u64a4\u8cc7\u3002\u6839\u64da\u73fe\u6709\u6578\u64da\uff0c\u4eca\u65e5\u672a\u898b\u7279\u5b9a\u6d88\u606f\u9762\u65b0\u805e\u4e3b\u5c0e\u5e02\u6cc1\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and tech shares in favor of safety, often causing indices like the NASDAQ to fall more than the broader S&P 500. On days like this, it's usually better to hold existing positions and avoid adding new risk rather than chasing a falling market.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u8da8\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u4eba\u666e\u904d\u62cb\u552e\u6210\u9577\u80a1\u3001\u79d1\u6280\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff0c\u8f49\u5411\u66f4\u5b89\u5168\u7684\u8cc7\u7522\uff0c\u9019\u4e5f\u662f\u70ba\u4f55\u7d0d\u65af\u9054\u514b\u6307\u6578\u5e38\u5e38\u6bd4\u6a19\u666e500\u6307\u6578\u8dcc\u5f97\u66f4\u591a\u3002\u5728\u9019\u6a23\u7684\u65e5\u5b50\u88e1\uff0c\u901a\u5e38\u6700\u597d\u6301\u6709\u73fe\u6709\u90e8\u4f4d\u3001\u907f\u514d\u8ffd\u52a0\u65b0\u7684\u98a8\u96aa\u90e8\u4f4d\uff0c\u800c\u4e0d\u662f\u5728\u4e0b\u8dcc\u5e02\u5834\u4e2d\u8ffd\u9ad8\u3002"
+      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety. On days like this, it's often better to hold existing positions and avoid chasing new trades until conditions stabilize.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u62cb\u552e\u589e\u9577\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u8f49\u800c\u5c0b\u6c42\u8f03\u5b89\u5168\u7684\u8cc7\u7522\u3002\u5728\u9019\u7a2e\u65e5\u5b50\uff0c\u901a\u5e38\u8f03\u597d\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u5009\u4f4d\uff0c\u907f\u514d\u5728\u5e02\u6cc1\u7a69\u5b9a\u524d\u8ffd\u5165\u65b0\u4ea4\u6613\u3002"
     }
   }
 }
