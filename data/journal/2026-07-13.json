@@ -1,24 +1,17 @@
 {
   "date": "2026-07-13",
-  "briefing": "Markets were mildly negative today (NASDAQ -0.8%, S&P 500 -0.2%), a neutral-to-soft session rather than a clear risk-on or risk-off signal. Existing positions were held since none hit stop-loss or profit-target levels, and one new position was added in TMDX, which showed complete multi-signal confirmation despite the broader market softness.",
+  "briefing": "NASDAQ -0.7% and S&P 500 -0.3% today — a mildly cautious, not risk-on session. With no volume-surge confirmation on any top-scored candidate and no strong risk-on signal (NASDAQ +2%+), held all 6 existing positions and kept the $777 cash on the sidelines rather than forcing new buys.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators — like a MACD crossover, RSI in a healthy range, price above its moving average, and a volume surge — all line up together. Relying on just one signal can be misleading, but when four or five agree, it suggests real institutional buying interest rather than random noise.",
-    "explanation_zh": "多重信號確認是指只有當多個獨立技術指標（例如MACD黃金交叉、RSI處於健康區間、股價高於均線、以及成交量放大）同時出現時才進行交易。單一信號容易造成誤判，但當四、五個信號同時符合時，通常代表有真實的機構資金進場，而非隨機波動。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors turn cautious and pull back from riskier assets like growth stocks, even without a major shock — often just a mild pullback like today's -0.7% NASDAQ move. The disciplined move is to hold steady and wait for stronger confirming signals (like a volume surge alongside momentum indicators) before committing new cash, rather than deploying capital just because it's sitting idle.",
+    "explanation_zh": "「風險趨避」（Risk-Off）是指投資人轉趨保守、減少持有風險較高資產（如成長股）的日子，未必需要重大衝擊事件觸發，像今天納斯達克僅下跌0.7%這樣溫和的回檔就可能是訊號。穩健的做法是按兵不動，等待更強而有力的確認訊號（例如成交量放大配合動能指標轉強）再進場，而不是因為現金閒置就勉強進場。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ underperforming the S&P 500, consistent with a quiet, directionless trading session rather than any major catalyst-driven move. Broad breadth was mixed, with select stocks like TMDX, STLA, and PFE bucking the trend on strong volume and momentum signals. Without a clear macro driver, the modest pullback looks like routine consolidation after recent gains rather than the start of a deeper correction.",
-    "summary_zh": "今日主要指數溫和走低，納斯達克表現遜於標普500指數，屬於缺乏明確催化劑的清淡交易日。市場廣度好壞參半，但TMDX、STLA、PFE等個股憑藉強勁成交量及動能信號逆勢走強。在沒有明顯宏觀因素帶動下，今日小幅回檔較像是近期漲勢後的常規整理，而非深度回調的開端。",
+    "summary_en": "Broad indices drifted lower today, with NASDAQ underperforming the S&P 500, suggesting mild profit-taking or caution rather than a decisive shift in sentiment. No major catalyst news was available to explain the move, which is consistent with a quiet, low-conviction trading day. In these conditions it's often better to wait for clearer confirmation than to chase moves.",
+    "summary_zh": "今日大盤普遍走低，納斯達克指數跌幅大於標普500指數，顯示市場可能只是溫和獲利了結，而非情緒出現重大轉向。目前沒有明顯的重大消息面催化因素可以解釋今日走勢，符合觀望性質、交投清淡的一日。在這種情況下，等待更明確的訊號往往比追高殺低更為穩健。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "TMDX",
-      "conviction": "high",
-      "reasoning": "Full institutional-grade signal confirmation (MACD bullish crossover, rising histogram, RSI 69.3 in bullish zone, price above SMA-20, volume surge) on the top-scored candidate."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
