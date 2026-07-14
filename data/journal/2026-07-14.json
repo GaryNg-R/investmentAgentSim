@@ -1,24 +1,17 @@
 {
   "date": "2026-07-14",
-  "briefing": "Markets were neutral today with NASDAQ +1.0% and S&P 500 +0.4% — not a strong risk-on signal, but with $777 in cash and 4 open slots we deployed a modest medium-conviction position in BLSH, the top-scoring candidate, rather than let cash sit idle. All six existing positions were held unchanged as none showed reason to exit.",
+  "briefing": "Markets were mildly positive today (NASDAQ +0.9%, S&P 500 +0.4%) but this is a neutral, not a risk-on, session. Following the lesson from late June, we're holding our 6 positions and keeping the $777 cash reserve rather than forcing new buys into open slots — we'll deploy on a genuine risk-on day (NASDAQ +2% or more) with full multi-signal confirmation.",
   "daily_lesson": {
-    "term": "Cash Drag",
-    "explanation_en": "Cash drag is the opportunity cost of holding uninvested cash in a portfolio instead of putting it to work — even a small, well-chosen position can outperform sitting in cash over time. Today, with cash above the reserve threshold and open slots available, deploying a portion into a strong candidate helps avoid missing out on further gains while still keeping most positions untouched.",
-    "explanation_zh": "「現金拖累」(Cash Drag)是指組合持有太多未投資現金所產生的機會成本——即使只是小額但選股得宜的倉位,長遠回報也可能跑贏現金。今日現金水平已超過保留門檻且尚有空置倉位,故將部分資金投入表現強勁的candidate,既可避免錯失潛在升幅,亦維持大部分現有持倉不變。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. On a neutral market day like today, holding cash instead of forcing a purchase preserves flexibility and avoids buying into weak setups — the goal is to have capital ready for genuinely high-conviction moments, not to keep it always fully invested.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留在場邊、隨時可動用的現金。在今天這種中性市況下，寧願持有現金而非勉強買入，可以保持靈活性，避免在訊號不強時貿然進場。目標是在真正高把握的機會出現時有資金可用，而不是時刻都要把資金全數投入市場。"
   },
   "market_education": {
-    "summary_en": "Broad markets drifted modestly higher today, with the NASDAQ outpacing the S&P 500, consistent with a mild risk-on tilt toward growth and tech names rather than a broad-based rally. No major macro catalyst stood out, suggesting the move was driven by incremental buying rather than a single news event. Trading stayed within a normal range, reflecting a market in a holding pattern rather than a decisive trend.",
-    "summary_zh": "今日大盤溫和上揚,納指升幅跑贏標普500指數,反映市場資金略為傾向科技及成長股,而非全面普漲。今日未見重大宏觀消息帶動,顯示今次升勢較多屬於資金持續小幅買入所致,而非單一新聞事件觸發。整體波動維持在正常區間,顯示市場仍處於觀望格局,未見明確方向。",
+    "summary_en": "Both major indices posted modest gains today, with the NASDAQ slightly outperforming the S&P 500, suggesting continued but unenthusiastic buying interest in growth and tech names. There was no single dominant catalyst driving the move — it reads more as steady drift than a decisive risk-on rally. Without a stronger signal, institutional participation appears mixed rather than broadly convicted.",
+    "summary_zh": "今日兩大指數皆錄得溫和升幅，納指升0.9%，標普500升0.4%，反映科技及成長股仍有買盤支持，但力度不算強勁。市場並無明顯單一催化劑帶動，走勢較似溫和上揚多於全面風險偏好回歸。在缺乏更強烈訊號下，機構參與程度顯得參差，未見一致的強烈信心。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "BLSH",
-      "conviction": "medium",
-      "reasoning": "Top-scoring candidate (95) with RSI 62.1 in the bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20, deploying idle cash above the $500 threshold into an open slot."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
