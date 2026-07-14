@@ -1,17 +1,24 @@
 {
   "date": "2026-07-14",
-  "briefing": "Markets were modestly positive but not decisively risk-on today (NASDAQ +0.8%, S&P 500 +0.3%). Per prior lessons, this doesn't meet the bar for deploying idle cash into new positions, so we're holding all 6 existing positions and sitting on the $777 cash for a clearer risk-on signal.",
+  "briefing": "Markets were mildly positive today with NASDAQ +1.0% and S&P 500 +0.4%, a neutral-to-slightly-bullish tape rather than a strong risk-on day. Rather than deploying cash broadly, we made one targeted buy in SEZL, the single candidate showing complete multi-signal confirmation including a volume surge, and held the rest of the portfolio and cash steady.",
   "daily_lesson": {
-    "term": "Patience",
-    "explanation_en": "Not every day with available cash calls for a trade. When market signals are mild rather than strongly positive, disciplined investors wait for clearer confirmation instead of forcing capital into the market just because it's sitting idle.",
-    "explanation_zh": "並非每次有閒置現金就該進場交易。當市場訊號溫和而非明確轉強時，有紀律的投資人會耐心等待更清楚的確認訊號，而不是為了不讓現金閒置而勉強進場。"
+    "term": "Volume Confirmation",
+    "explanation_en": "A price move backed by a surge in trading volume is more likely to reflect real institutional buying rather than noise. When RSI, MACD, and moving averages all align AND volume spikes above average, it's a stronger signal that big money is actually behind the move, which is why SEZL stood out among today's candidates.",
+    "explanation_zh": "若價格上漲同時伴隨成交量放大,通常代表這是真正的機構買盤,而非隨機雜訊。當RSI、MACD與均線訊號一致,且成交量明顯高於平均時,代表大戶資金確實進場,這也是SEZL在今日候選股中脫穎而出的原因。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today, with the NASDAQ outpacing the S&P 500, suggesting mild risk appetite without a strong directional catalyst. Trading stayed within a narrow range typical of a consolidation day rather than a breakout. No major market-moving headlines were available in today's feed to pinpoint a specific driver.",
-    "summary_zh": "今日主要指數溫和上揚，納斯達克表現優於標普500，顯示市場風險偏好略為回升，但未見明顯的方向性催化劑。成交區間偏窄，較符合盤整格局而非突破走勢。今日資訊來源中並無重大新聞可具體說明推動因素。",
+    "summary_en": "Broad indices posted modest gains today, with the NASDAQ outperforming the S&P 500, suggesting continued but not accelerating risk appetite among investors. No single dominant catalyst stands out; the move looks more like steady grinding upside than a reaction to a specific headline. Volume and breadth remained unremarkable across most of the market, reinforcing a neutral rather than euphoric tone.",
+    "summary_zh": "今日大盤溫和上揚,納斯達克指數表現優於標普500指數,顯示市場風險偏好持續但未見加速。今日走勢並無單一明顯催化因素,較像是穩步走高而非對特定新聞的反應。多數個股成交量與市場寬度並無異常,整體氣氛偏向中性而非過熱。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "SEZL",
+      "conviction": "medium",
+      "reasoning": "SEZL is the only candidate with full multi-signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge — matching the institutional-participation setup from past lessons."
+    }
+  ],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
