@@ -1,22 +1,22 @@
 {
   "date": "2026-07-14",
-  "briefing": "Markets were mildly positive today with NASDAQ +1.0% and S&P 500 +0.4%, a neutral-to-slightly-bullish tape rather than a strong risk-on day. Rather than deploying cash broadly, we made one targeted buy in SEZL, the single candidate showing complete multi-signal confirmation including a volume surge, and held the rest of the portfolio and cash steady.",
+  "briefing": "Markets were mildly positive today (NASDAQ +1.1%, S&P 500 +0.4%), not a strong risk-on signal but enough to justify deploying some of the $777 idle cash rather than sitting fully out. Added a medium-conviction position in NVDA, which shows full bullish technical confirmation (RSI, MACD, price vs SMA-20). Existing 6 positions held unchanged, letting stop-loss/profit-target rules manage them automatically.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "A price move backed by a surge in trading volume is more likely to reflect real institutional buying rather than noise. When RSI, MACD, and moving averages all align AND volume spikes above average, it's a stronger signal that big money is actually behind the move, which is why SEZL stood out among today's candidates.",
-    "explanation_zh": "若價格上漲同時伴隨成交量放大,通常代表這是真正的機構買盤,而非隨機雜訊。當RSI、MACD與均線訊號一致,且成交量明顯高於平均時,代表大戶資金確實進場,這也是SEZL在今日候選股中脫穎而出的原因。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD, and price relative to moving averages, on the idea that stocks moving up tend to keep moving up in the near term. Today's buy decision relied on exactly these signals lining up together, which is considered a stronger, more reliable confirmation than any single indicator alone.",
+    "explanation_zh": "動量投資是指買入已經呈現上升趨勢的股票，依據RSI、MACD及股價相對移動平均線等訊號，認為短期內上升中的股票會傾向持續上升。今日的買入決定正是依賴這幾項訊號同時出現，比單一指標更能提供可靠的確認。"
   },
   "market_education": {
-    "summary_en": "Broad indices posted modest gains today, with the NASDAQ outperforming the S&P 500, suggesting continued but not accelerating risk appetite among investors. No single dominant catalyst stands out; the move looks more like steady grinding upside than a reaction to a specific headline. Volume and breadth remained unremarkable across most of the market, reinforcing a neutral rather than euphoric tone.",
-    "summary_zh": "今日大盤溫和上揚,納斯達克指數表現優於標普500指數,顯示市場風險偏好持續但未見加速。今日走勢並無單一明顯催化因素,較像是穩步走高而非對特定新聞的反應。多數個股成交量與市場寬度並無異常,整體氣氛偏向中性而非過熱。",
+    "summary_en": "The NASDAQ rose 1.1% and the S&P 500 gained 0.4% in a broadly neutral-to-mildly-positive session, with no single dominant catalyst driving the move. Trading activity reflected steady, moderate risk appetite rather than a sharp risk-on or risk-off shift. No specific news headlines were available for today's session to cite directly.",
+    "summary_zh": "納指今日上升1.1%，標普500則上升0.4%，市況整體屬於中性偏正面，並無單一主導因素推動大市。今日交易反映的是穩定溫和的風險偏好，而非明顯的風險偏好轉變。今日並未有可供引用的具體新聞標題。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "SEZL",
+      "ticker": "NVDA",
       "conviction": "medium",
-      "reasoning": "SEZL is the only candidate with full multi-signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge — matching the institutional-participation setup from past lessons."
+      "reasoning": "Bullish RSI zone, MACD bullish crossover with rising histogram, and price above SMA-20 on a mildly positive NASDAQ day support a measured deployment of idle cash into a top-scored, well-established name."
     }
   ],
   "outcomes": {
