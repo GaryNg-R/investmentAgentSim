@@ -1,22 +1,22 @@
 {
   "date": "2026-07-14",
-  "briefing": "Markets were mildly positive today (NASDAQ +1.1%, S&P 500 +0.4%), not a strong risk-on signal but enough to justify deploying some of the $777 idle cash rather than sitting fully out. Added a medium-conviction position in NVDA, which shows full bullish technical confirmation (RSI, MACD, price vs SMA-20). Existing 6 positions held unchanged, letting stop-loss/profit-target rules manage them automatically.",
+  "briefing": "Markets were neutral today with NASDAQ +1.0% and S&P 500 +0.4% — not a strong risk-on signal, but with $777 in cash and 4 open slots we deployed a modest medium-conviction position in BLSH, the top-scoring candidate, rather than let cash sit idle. All six existing positions were held unchanged as none showed reason to exit.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD, and price relative to moving averages, on the idea that stocks moving up tend to keep moving up in the near term. Today's buy decision relied on exactly these signals lining up together, which is considered a stronger, more reliable confirmation than any single indicator alone.",
-    "explanation_zh": "動量投資是指買入已經呈現上升趨勢的股票，依據RSI、MACD及股價相對移動平均線等訊號，認為短期內上升中的股票會傾向持續上升。今日的買入決定正是依賴這幾項訊號同時出現，比單一指標更能提供可靠的確認。"
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag is the opportunity cost of holding uninvested cash in a portfolio instead of putting it to work — even a small, well-chosen position can outperform sitting in cash over time. Today, with cash above the reserve threshold and open slots available, deploying a portion into a strong candidate helps avoid missing out on further gains while still keeping most positions untouched.",
+    "explanation_zh": "「現金拖累」(Cash Drag)是指組合持有太多未投資現金所產生的機會成本——即使只是小額但選股得宜的倉位,長遠回報也可能跑贏現金。今日現金水平已超過保留門檻且尚有空置倉位,故將部分資金投入表現強勁的candidate,既可避免錯失潛在升幅,亦維持大部分現有持倉不變。"
   },
   "market_education": {
-    "summary_en": "The NASDAQ rose 1.1% and the S&P 500 gained 0.4% in a broadly neutral-to-mildly-positive session, with no single dominant catalyst driving the move. Trading activity reflected steady, moderate risk appetite rather than a sharp risk-on or risk-off shift. No specific news headlines were available for today's session to cite directly.",
-    "summary_zh": "納指今日上升1.1%，標普500則上升0.4%，市況整體屬於中性偏正面，並無單一主導因素推動大市。今日交易反映的是穩定溫和的風險偏好，而非明顯的風險偏好轉變。今日並未有可供引用的具體新聞標題。",
+    "summary_en": "Broad markets drifted modestly higher today, with the NASDAQ outpacing the S&P 500, consistent with a mild risk-on tilt toward growth and tech names rather than a broad-based rally. No major macro catalyst stood out, suggesting the move was driven by incremental buying rather than a single news event. Trading stayed within a normal range, reflecting a market in a holding pattern rather than a decisive trend.",
+    "summary_zh": "今日大盤溫和上揚,納指升幅跑贏標普500指數,反映市場資金略為傾向科技及成長股,而非全面普漲。今日未見重大宏觀消息帶動,顯示今次升勢較多屬於資金持續小幅買入所致,而非單一新聞事件觸發。整體波動維持在正常區間,顯示市場仍處於觀望格局,未見明確方向。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NVDA",
+      "ticker": "BLSH",
       "conviction": "medium",
-      "reasoning": "Bullish RSI zone, MACD bullish crossover with rising histogram, and price above SMA-20 on a mildly positive NASDAQ day support a measured deployment of idle cash into a top-scored, well-established name."
+      "reasoning": "Top-scoring candidate (95) with RSI 62.1 in the bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20, deploying idle cash above the $500 threshold into an open slot."
     }
   ],
   "outcomes": {
