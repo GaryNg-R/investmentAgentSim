@@ -1,19 +1,26 @@
 {
-  "saved_at": "2026-07-14T13:00:34.333730+00:00",
-  "market_direction": "risk_off",
+  "saved_at": "2026-07-14T14:01:12.020774+00:00",
+  "market_direction": "neutral",
   "decisions": {
-    "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets sold off broadly today with NASDAQ down 1.6% and the S&P 500 down 0.8%, putting conditions in risk-off territory. The screener returned no qualifying candidates under risk-off rules, so no new positions were opened; existing holdings are being held through the pullback per strategy guidance.",
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "FIG",
+        "conviction": "high",
+        "reasoning": "FIG shows all four confirming signals \u2014 bullish RSI, MACD crossover, price above SMA-20, and a volume surge \u2014 the institutional-participation pattern that has worked well historically."
+      }
+    ],
+    "skip_new_buys": false,
+    "briefing": "Markets were neutral today (NASDAQ +0.6%, S&P 500 +0.3%) with no broad risk-on signal, so we held back from deploying most of our remaining cash. FIG stood out with full multi-signal confirmation (RSI, MACD, price/SMA, volume), so we took one high-conviction position while leaving existing holdings untouched.",
     "market_education": {
-      "summary_en": "Broad-based selling hit tech-heavy indices harder than the wider market today, with NASDAQ down 1.6% versus the S&P 500's 0.8% decline, suggesting growth and high-multiple names bore the brunt of the risk-off move. No specific news catalyst is confirmed in today's available data, so this reads as a general de-risking session rather than a reaction to a single headline. In risk-off conditions like this, capital preservation takes priority over chasing new entries.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u4e0b\u8dcc\uff0c\u79d1\u6280\u80a1\u96c6\u4e2d\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\uff081.6%\uff09\u5927\u65bc\u6a19\u666e500\u6307\u6578\uff080.8%\uff09\uff0c\u986f\u793a\u6210\u9577\u80a1\u8207\u9ad8\u4f30\u503c\u80a1\u7968\u5728\u9019\u6ce2\u907f\u96aa\u60c5\u7dd2\u4e2d\u9996\u7576\u5176\u885d\u3002\u76ee\u524d\u672a\u6709\u660e\u78ba\u6d88\u606f\u9762\u50ac\u5316\u5291\u53ef\u4f9b\u5f15\u7528\uff0c\u8f03\u53ef\u80fd\u662f\u5e02\u5834\u6574\u9ad4\u964d\u4f4e\u98a8\u96aa\u90e8\u4f4d\u6240\u81f4\uff0c\u800c\u975e\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u89f8\u767c\u3002\u5728\u9019\u7a2erisk-off\u74b0\u5883\u4e0b\uff0c\u4fdd\u672c\u512a\u5148\u65bc\u8ffd\u9010\u65b0\u5009\u4f4d\u3002",
+      "summary_en": "Both major indices posted modest gains today, with the NASDAQ slightly outpacing the S&P 500, reflecting a mild risk-on tone without a clear catalyst. Trading stayed within a narrow range as investors awaited more decisive economic or earnings news. Overall sentiment remained cautiously constructive rather than strongly bullish.",
+      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5169\u5927\u6307\u6578\u5747\u9304\u5f97\u6eab\u548c\u5347\u5e45\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u7565\u9ad8\u65bc\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u5e36\u6709\u8f15\u5fae\u7684risk-on\u6c23\u6c1b\uff0c\u4f46\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u3002\u5927\u5e02\u5728\u7a84\u5e45\u5340\u9593\u5167\u6ce2\u52d5\uff0c\u6295\u8cc7\u8005\u4ecd\u5728\u7b49\u5f85\u66f4\u5177\u65b9\u5411\u6027\u7684\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u6d88\u606f\u3002\u6574\u9ad4\u5e02\u5834\u60c5\u7dd2\u4fdd\u6301\u5be9\u614e\u6a02\u89c0\uff0c\u5c1a\u672a\u5f62\u6210\u5f37\u70c8\u7684\u4e0a\u5347\u8da8\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and shift toward safety, often shrinking gaps between winners and losers. The smart move on these days isn't to panic-sell good holdings or force new buys just to deploy cash \u2014 it's to sit tight, let existing stop-losses and profit targets do their job, and wait for clearer signals before adding new risk.",
-      "explanation_zh": "\u300crisk-off\u300d\uff08\u907f\u96aa\uff09\u6307\u6295\u8cc7\u4eba\u666e\u904d\u62cb\u552e\u6210\u9577\u80a1\u7b49\u98a8\u96aa\u6027\u8cc7\u7522\u3001\u8f49\u5411\u5b89\u5168\u8cc7\u7522\u7684\u5e02\u6cc1\u3002\u9019\u7a2e\u65e5\u5b50\u6700\u8070\u660e\u7684\u505a\u6cd5\u4e0d\u662f\u6050\u614c\u6027\u8ce3\u51fa\u512a\u8cea\u6301\u80a1\uff0c\u4e5f\u4e0d\u662f\u70ba\u4e86\u7528\u6389\u73fe\u91d1\u800c\u52c9\u5f37\u8cb7\u5165\uff0c\u800c\u662f\u6309\u5175\u4e0d\u52d5\uff0c\u8b93\u65e2\u6709\u7684\u505c\u640d\u8207\u7372\u5229\u4e86\u7d50\u6a5f\u5236\u81ea\u52d5\u904b\u4f5c\uff0c\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u8a0a\u865f\u518d\u589e\u52a0\u98a8\u96aa\u90e8\u4f4d\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Multi-signal confirmation means only taking a high-conviction trade when several independent technical indicators agree \u2014 for example, bullish RSI, a MACD crossover, price above its moving average, and a volume surge all pointing the same direction. Relying on just one signal is more likely to produce false positives, while stacking signals suggests broader, more reliable buying interest.",
+      "explanation_zh": "\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u6709\u5728\u591a\u500b\u7368\u7acb\u6280\u8853\u6307\u6a19\u540c\u6642\u767c\u51fa\u4e00\u81f4\u8a0a\u865f\u6642\u624d\u9032\u884c\u9ad8\u4fe1\u5fc3\u4ea4\u6613\uff0c\u4f8b\u5982RSI\u8655\u65bc\u504f\u591a\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u5176\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u51fa\u73fe\u653e\u5927\u7b49\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u3002\u53ea\u4f9d\u8cf4\u55ae\u4e00\u8a0a\u865f\u8f03\u5bb9\u6613\u51fa\u73fe\u8aa4\u5224\uff0c\u800c\u591a\u9805\u8a0a\u865f\u758a\u52a0\u5247\u986f\u793a\u66f4\u5ee3\u6cdb\u3001\u66f4\u53ef\u9760\u7684\u8cb7\u76e4\u529b\u91cf\u3002"
     }
   }
 }
