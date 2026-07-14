@@ -1,24 +1,17 @@
 {
   "date": "2026-07-14",
-  "briefing": "Markets drifted higher today with NASDAQ +0.9% and S&P 500 +0.4% — a neutral-to-mildly-positive session. With cash above the deploy threshold and a strong multi-signal candidate available (ERAS), we added one new high-conviction position while holding all existing positions unchanged.",
+  "briefing": "Markets were modestly positive but not decisively risk-on today (NASDAQ +0.8%, S&P 500 +0.3%). Per prior lessons, this doesn't meet the bar for deploying idle cash into new positions, so we're holding all 6 existing positions and sitting on the $777 cash for a clearer risk-on signal.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "When multiple technical signals — like a MACD bullish crossover, RSI in the healthy 55-70 zone, price above its moving average, and a volume surge — all align together, it's a stronger sign of real buying interest than any single indicator alone. Waiting for this kind of confirmation helps filter out random noise and reduces the chance of chasing a false breakout.",
-    "explanation_zh": "當多個技術訊號同時出現——例如MACD黃金交叉、RSI處於55至70的健康區間、股價高於移動平均線，以及成交量放大——這比單一指標更能反映真實的買盤力量。等待這種多重訊號確認有助於過濾市場雜訊，減少追高假突破的風險。"
+    "term": "Patience",
+    "explanation_en": "Not every day with available cash calls for a trade. When market signals are mild rather than strongly positive, disciplined investors wait for clearer confirmation instead of forcing capital into the market just because it's sitting idle.",
+    "explanation_zh": "並非每次有閒置現金就該進場交易。當市場訊號溫和而非明確轉強時，有紀律的投資人會耐心等待更清楚的確認訊號，而不是為了不讓現金閒置而勉強進場。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted modest gains today, with the NASDAQ slightly outperforming the S&P 500, suggesting continued but unspectacular risk appetite among investors. There was no major catalyst driving outsized moves, consistent with a steady grind-higher session rather than a sharp risk-on rally. Broad participation across tech and cyclical names supported the gains.",
-    "summary_zh": "今日大盤溫和上揚，納斯達克指數升0.9%，標普500指數升0.4%，反映投資人風險偏好持續但未見明顯亢奮。市場缺乏重大催化因素，屬於穩步向上而非急速風險偏好升溫的格局，科技股與週期性股份普遍支持升勢。",
+    "summary_en": "Major indices drifted modestly higher today, with the NASDAQ outpacing the S&P 500, suggesting mild risk appetite without a strong directional catalyst. Trading stayed within a narrow range typical of a consolidation day rather than a breakout. No major market-moving headlines were available in today's feed to pinpoint a specific driver.",
+    "summary_zh": "今日主要指數溫和上揚，納斯達克表現優於標普500，顯示市場風險偏好略為回升，但未見明顯的方向性催化劑。成交區間偏窄，較符合盤整格局而非突破走勢。今日資訊來源中並無重大新聞可具體說明推動因素。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "ERAS",
-      "conviction": "high",
-      "reasoning": "Full four-signal confirmation (RSI 59.3 bullish zone with room to run, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) on a mildly risk-on day, and cash is above the $500 deploy threshold with open slots available."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
