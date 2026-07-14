@@ -1,17 +1,24 @@
 {
   "date": "2026-07-14",
-  "briefing": "Markets were mildly positive today (NASDAQ +0.9%, S&P 500 +0.4%) but this is a neutral, not a risk-on, session. Following the lesson from late June, we're holding our 6 positions and keeping the $777 cash reserve rather than forcing new buys into open slots — we'll deploy on a genuine risk-on day (NASDAQ +2% or more) with full multi-signal confirmation.",
+  "briefing": "Markets were neutral today with NASDAQ +0.9% and S&P 500 +0.4% — no strong risk-on or risk-off signal. With $777 in cash and 4 open slots, we deployed into SEZL, the highest-scoring candidate with full multi-signal confirmation, while continuing to hold existing positions through the quiet session.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. On a neutral market day like today, holding cash instead of forcing a purchase preserves flexibility and avoids buying into weak setups — the goal is to have capital ready for genuinely high-conviction moments, not to keep it always fully invested.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留在場邊、隨時可動用的現金。在今天這種中性市況下，寧願持有現金而非勉強買入，可以保持靈活性，避免在訊號不強時貿然進場。目標是在真正高把握的機會出現時有資金可用，而不是時刻都要把資金全數投入市場。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "When multiple technical indicators — like RSI, MACD, price vs. moving average, and volume — all point the same direction at once, it's a stronger signal than any single indicator alone. Traders use this 'confirmation' to filter out noise and avoid acting on a single false signal.",
+    "explanation_zh": "當多個技術指標——例如RSI、MACD、股價與均線的關係,以及成交量——同時指向同一方向時,這比單一指標更具參考價值。交易者利用這種「訊號確認」來過濾雜訊,避免因單一錯誤訊號而做出錯誤決策。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted modest gains today, with the NASDAQ slightly outperforming the S&P 500, suggesting continued but unenthusiastic buying interest in growth and tech names. There was no single dominant catalyst driving the move — it reads more as steady drift than a decisive risk-on rally. Without a stronger signal, institutional participation appears mixed rather than broadly convicted.",
-    "summary_zh": "今日兩大指數皆錄得溫和升幅，納指升0.9%，標普500升0.4%，反映科技及成長股仍有買盤支持，但力度不算強勁。市場並無明顯單一催化劑帶動，走勢較似溫和上揚多於全面風險偏好回歸。在缺乏更強烈訊號下，機構參與程度顯得參差，未見一致的強烈信心。",
+    "summary_en": "Broad indices posted modest gains today, with the NASDAQ slightly outpacing the S&P 500, reflecting a generally calm, low-conviction trading session rather than any major catalyst-driven move. Momentum names with strong technical setups, like several in today's screener, continued attracting volume even as the broader tape stayed range-bound. Without a clear risk-on or risk-off trigger, most of the day's price action reflected stock-specific technical strength rather than macro news.",
+    "summary_zh": "今日大盤走勢溫和,那斯達克指數漲幅略高於標普500指數,反映市場整體處於平靜、觀望氣氛,並未出現重大消息面催化劑。部分具備強勁技術面訊號的動能股,即使大盤呈區間震盪,仍持續吸引資金流入。在缺乏明確風險偏好或避險訊號的情況下,今日多數股價表現主要來自個股技術面強度,而非總體經濟消息。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "SEZL",
+      "conviction": "medium",
+      "reasoning": "Top-scoring candidate (100) with full signal confirmation — RSI 65.9 in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and volume surge — justifying deployment of available cash into an open slot per risk rules even on a neutral-breadth day."
+    }
+  ],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
