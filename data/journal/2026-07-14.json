@@ -1,22 +1,22 @@
 {
   "date": "2026-07-14",
-  "briefing": "Markets were neutral today (NASDAQ +0.6%, S&P 500 +0.3%) with no broad risk-on signal, so we held back from deploying most of our remaining cash. FIG stood out with full multi-signal confirmation (RSI, MACD, price/SMA, volume), so we took one high-conviction position while leaving existing holdings untouched.",
+  "briefing": "Markets drifted higher today with NASDAQ +0.9% and S&P 500 +0.4% — a neutral-to-mildly-positive session. With cash above the deploy threshold and a strong multi-signal candidate available (ERAS), we added one new high-conviction position while holding all existing positions unchanged.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only taking a high-conviction trade when several independent technical indicators agree — for example, bullish RSI, a MACD crossover, price above its moving average, and a volume surge all pointing the same direction. Relying on just one signal is more likely to produce false positives, while stacking signals suggests broader, more reliable buying interest.",
-    "explanation_zh": "多重訊號確認是指只有在多個獨立技術指標同時發出一致訊號時才進行高信心交易，例如RSI處於偏多區間、MACD出現黃金交叉、股價高於其移動平均線，以及成交量出現放大等訊號同時出現。只依賴單一訊號較容易出現誤判，而多項訊號疊加則顯示更廣泛、更可靠的買盤力量。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "When multiple technical signals — like a MACD bullish crossover, RSI in the healthy 55-70 zone, price above its moving average, and a volume surge — all align together, it's a stronger sign of real buying interest than any single indicator alone. Waiting for this kind of confirmation helps filter out random noise and reduces the chance of chasing a false breakout.",
+    "explanation_zh": "當多個技術訊號同時出現——例如MACD黃金交叉、RSI處於55至70的健康區間、股價高於移動平均線，以及成交量放大——這比單一指標更能反映真實的買盤力量。等待這種多重訊號確認有助於過濾市場雜訊，減少追高假突破的風險。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted modest gains today, with the NASDAQ slightly outpacing the S&P 500, reflecting a mild risk-on tone without a clear catalyst. Trading stayed within a narrow range as investors awaited more decisive economic or earnings news. Overall sentiment remained cautiously constructive rather than strongly bullish.",
-    "summary_zh": "今日美股兩大指數均錄得溫和升幅，納斯達克指數升幅略高於標普500指數，反映市場帶有輕微的risk-on氣氛，但缺乏明確催化劑。大市在窄幅區間內波動，投資者仍在等待更具方向性的經濟數據或財報消息。整體市場情緒保持審慎樂觀，尚未形成強烈的上升趨勢。",
+    "summary_en": "Both major indices posted modest gains today, with the NASDAQ slightly outperforming the S&P 500, suggesting continued but unspectacular risk appetite among investors. There was no major catalyst driving outsized moves, consistent with a steady grind-higher session rather than a sharp risk-on rally. Broad participation across tech and cyclical names supported the gains.",
+    "summary_zh": "今日大盤溫和上揚，納斯達克指數升0.9%，標普500指數升0.4%，反映投資人風險偏好持續但未見明顯亢奮。市場缺乏重大催化因素，屬於穩步向上而非急速風險偏好升溫的格局，科技股與週期性股份普遍支持升勢。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FIG",
+      "ticker": "ERAS",
       "conviction": "high",
-      "reasoning": "FIG shows all four confirming signals — bullish RSI, MACD crossover, price above SMA-20, and a volume surge — the institutional-participation pattern that has worked well historically."
+      "reasoning": "Full four-signal confirmation (RSI 59.3 bullish zone with room to run, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) on a mildly risk-on day, and cash is above the $500 deploy threshold with open slots available."
     }
   ],
   "outcomes": {
