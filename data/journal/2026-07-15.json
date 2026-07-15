@@ -1,30 +1,17 @@
 {
   "date": "2026-07-15",
-  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.1%), not a strong risk-on signal, so we're being selective rather than aggressive. We used two of the four open slots on the strongest technically-confirmed candidates (MANE, CWK) while holding back some cash since this isn't the kind of decisive risk-on day that warrants full deployment. Existing positions are left alone to let stop-loss and profit targets work automatically.",
+  "briefing": "Markets were flat today with NASDAQ and S&P 500 both essentially unchanged (0.0%), showing no clear directional conviction. Despite several strong-scoring candidates (MANE, MAAS, HTFL, CWK) showing bullish technical setups, we're holding cash rather than forcing new buys on a neutral day. Per prior lessons, we'll wait for a genuine risk-on signal (NASDAQ +2% or more) before deploying the remaining $777 in cash into new positions.",
   "daily_lesson": {
-    "term": "Technical Confirmation",
-    "explanation_en": "Technical confirmation means looking for multiple supporting signals — like RSI in a healthy range, a MACD bullish crossover, and price trading above a moving average — before entering a trade, rather than acting on just one indicator. This reduces the chance of chasing a false signal, especially on days when the broader market itself isn't giving a clear direction.",
-    "explanation_zh": "技術面確認是指在進場前尋找多個支持訊號，例如RSI處於健康區間、MACD出現黃金交叉、股價站上均線等，而不是僅憑單一指標做決定。這樣可以降低追高買進假訊號的風險，尤其是在大盤本身方向不明確的日子。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off simply means investors are being cautious and holding back from making new bets when the market lacks clear direction. Instead of chasing every stock with a good-looking chart, a disciplined investor waits for stronger confirmation — like a broad market rally — before committing fresh cash. Patience on flat days protects capital for when real opportunities appear.",
+    "explanation_zh": "「風險規避」（Risk-Off）是指在市場缺乏明確方向時，投資者選擇保持謹慎、不輕易加碼新倉位。與其追逐每一隻圖表看似不錯的股票，有紀律的投資者會等待更強的確認訊號（例如大盤全面上揚）才投入新資金。在平淡的交易日保持耐性，能為日後真正的機會保留實力。"
   },
   "market_education": {
-    "summary_en": "Broad market indices were essentially flat today, with the NASDAQ up just 0.2% and the S&P 500 up 0.1%, indicating a lack of strong directional conviction from investors. Without a major catalyst, trading stayed range-bound as market participants awaited clearer signals. Individual stocks with strong technical setups, like several names in our screened list, still showed bullish momentum even as the broader indices stayed muted.",
-    "summary_zh": "大盤今日表現平淡，納斯達克僅上升0.2%，標普500指數上升0.1%，反映投資人缺乏明確方向。由於沒有重大消息面催化，市場維持區間震盪，等待更清晰的訊號。不過部分個股（如篩選名單中的數檔股票）技術面仍呈現偏多動能，即使大盤走勢平淡。",
+    "summary_en": "Broad market indices closed essentially flat today, with no major catalyst driving direction in either the NASDAQ or S&P 500. Trading appears range-bound as investors await clearer signals before committing new capital. This kind of directionless session often precedes a bigger move once a catalyst emerges.",
+    "summary_zh": "今日大盤走勢持平，納斯達克指數與標普500指數均未見明顯升跌，市場缺乏明確方向。投資者似乎在等待更清晰的訊號才願意加碼新倉位，形成區間震盪格局。這類缺乏方向性的交易日，往往是市場醞釀下一波較大波動的前奏。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "MANE",
-      "conviction": "medium",
-      "reasoning": "Top-scored candidate with RSI 66.4 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, but market is only neutral so sizing at medium conviction."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CWK",
-      "conviction": "medium",
-      "reasoning": "Second-highest scored candidate showing the same full bullish technical confirmation (RSI, MACD crossover, rising histogram, price above SMA-20) for a diversified entry outside real estate/tech-heavy holdings."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
