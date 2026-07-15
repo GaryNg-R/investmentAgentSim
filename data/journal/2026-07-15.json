@@ -1,17 +1,30 @@
 {
   "date": "2026-07-15",
-  "briefing": "Markets were flat today with NASDAQ and S&P 500 both essentially unchanged (0.0%), showing no clear directional conviction. Despite several strong-scoring candidates (MANE, MAAS, HTFL, CWK) showing bullish technical setups, we're holding cash rather than forcing new buys on a neutral day. Per prior lessons, we'll wait for a genuine risk-on signal (NASDAQ +2% or more) before deploying the remaining $777 in cash into new positions.",
+  "briefing": "Market is neutral today (NASDAQ +0.5%, S&P 500 +0.3%). With $777 cash and 4 open slots, we deployed a portion into MAAS and CBRE, two of our highest-scoring candidates with confirmed bullish momentum, while leaving room to preserve dry powder rather than fully maxing out on a non-risk-on day.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off simply means investors are being cautious and holding back from making new bets when the market lacks clear direction. Instead of chasing every stock with a good-looking chart, a disciplined investor waits for stronger confirmation — like a broad market rally — before committing fresh cash. Patience on flat days protects capital for when real opportunities appear.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指在市場缺乏明確方向時，投資者選擇保持謹慎、不輕易加碼新倉位。與其追逐每一隻圖表看似不錯的股票，有紀律的投資者會等待更強的確認訊號（例如大盤全面上揚）才投入新資金。在平淡的交易日保持耐性，能為日後真正的機會保留實力。"
+    "term": "Momentum Indicators (RSI & MACD)",
+    "explanation_en": "RSI (Relative Strength Index) and MACD (Moving Average Convergence Divergence) are tools traders use to spot stocks with building upward momentum. A stock with RSI in the 55-70 range and a bullish MACD crossover, like today's picks, suggests buyers are gaining control without the stock being dangerously overbought yet.",
+    "explanation_zh": "RSI（相對強弱指標）和MACD（指數平滑異同移動平均線）是交易者用來尋找具有上升動能股票的工具。當一檔股票的RSI落在55至70區間並出現MACD黃金交叉時，如同今日選中的標的，代表買方力道正在增強，且尚未進入危險的超買區域。"
   },
   "market_education": {
-    "summary_en": "Broad market indices closed essentially flat today, with no major catalyst driving direction in either the NASDAQ or S&P 500. Trading appears range-bound as investors await clearer signals before committing new capital. This kind of directionless session often precedes a bigger move once a catalyst emerges.",
-    "summary_zh": "今日大盤走勢持平，納斯達克指數與標普500指數均未見明顯升跌，市場缺乏明確方向。投資者似乎在等待更清晰的訊號才願意加碼新倉位，形成區間震盪格局。這類缺乏方向性的交易日，往往是市場醞釀下一波較大波動的前奏。",
+    "summary_en": "Markets drifted modestly higher today with the NASDAQ up 0.5% and the S&P 500 up 0.3%, a quiet, low-volatility session without a clear catalyst. Trading stayed range-bound as investors await more decisive economic or earnings signals before committing to a stronger directional move. The mild gains suggest steady but cautious risk appetite rather than aggressive buying.",
+    "summary_zh": "今日大盤走勢溫和向上，納斯達克指數上漲0.5%，標普500指數上漲0.3%，屬於波動較低、缺乏明確催化劑的交易日。市場維持區間震盪，投資人似乎在等待更明確的經濟數據或財報訊號才會加大方向性押注。溫和的漲幅顯示市場風險偏好穩健但仍偏謹慎。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "MAAS",
+      "conviction": "medium",
+      "reasoning": "Top-scoring candidate (95) with RSI 56.7 in the bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20."
+    },
+    {
+      "action": "BUY",
+      "ticker": "CBRE",
+      "conviction": "medium",
+      "reasoning": "Score 95 with confirmed MACD crossover and price above SMA-20, RSI 59.2 leaves room before overbought, diversifies away from existing small/mid-cap tilt."
+    }
+  ],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
