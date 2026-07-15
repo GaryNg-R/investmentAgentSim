@@ -1,19 +1,32 @@
 {
-  "saved_at": "2026-07-15T14:01:03.999594+00:00",
+  "saved_at": "2026-07-15T15:01:22.741060+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Market direction is flat and neutral today with no reliable data on catalysts, so this isn't the risk-on setup our strategy waits for. Holding all 6 existing positions and keeping the $777 cash in reserve rather than forcing a buy into an unconfirmed session.",
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "KRMN",
+        "conviction": "high",
+        "reasoning": "RSI 62.5 sits safely in the bullish zone with all five signals confirmed (MACD crossover, rising histogram, price above SMA-20, volume surge), indicating genuine institutional buying."
+      },
+      {
+        "action": "BUY",
+        "ticker": "CIGI",
+        "conviction": "medium",
+        "reasoning": "Full five-signal confirmation matches the high-conviction checklist, though RSI 69.9 is near overbought so sized as medium conviction."
+      }
+    ],
+    "skip_new_buys": false,
+    "briefing": "Market data was unavailable today with NASDAQ and S&P both flat, so we avoided reading too much into the macro tape. Two stock-specific setups (KRMN, CIGI) cleared every technical box on the checklist, so we deployed part of the idle cash into them while holding the rest in reserve until a clearer market signal emerges.",
     "market_education": {
-      "summary_en": "No market-moving headlines were available today, and both the NASDAQ and S&P 500 showed 0.0% moves, indicating a quiet, directionless session. Without a clear catalyst or volume-backed signal, institutional participation appears limited today. This kind of flat, low-information day is best treated as a pause rather than a trend change.",
-      "summary_zh": "\u4eca\u65e5\u672a\u6709\u660e\u986f\u7684\u5e02\u5834\u6d88\u606f\uff0c\u7d0d\u6307\u53ca\u6a19\u666e500\u6307\u6578\u5747\u9304\u5f970.0%\u7684\u8b8a\u52d5\uff0c\u53cd\u6620\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u3001\u4ea4\u6295\u6de1\u975c\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u6216\u6210\u4ea4\u91cf\u652f\u6301\u7684\u60c5\u6cc1\u4e0b\uff0c\u6a5f\u69cb\u53c3\u8207\u5ea6\u4f3c\u4e4e\u6709\u9650\u3002\u9019\u985e\u5e73\u6de1\u3001\u7f3a\u4e4f\u8cc7\u8a0a\u7684\u4ea4\u6613\u65e5\u61c9\u8996\u70ba\u77ed\u66ab\u505c\u9813\uff0c\u800c\u975e\u8da8\u52e2\u9006\u8f49\u3002",
+      "summary_en": "No reliable market-moving headlines were available today, and index-level data for NASDAQ and S&P 500 came back flat, making it a genuinely quiet session at the macro level. Today's trade decisions were driven entirely by stock-specific technical signals rather than broad market direction. This is a reminder that individual stock momentum can diverge from the overall index even on data-light days.",
+      "summary_zh": "\u4eca\u65e5\u672a\u80fd\u53d6\u5f97\u53ef\u9760\u7684\u5e02\u5834\u6d88\u606f\u4f86\u6e90\uff0c\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u6578\u64da\u4ea6\u986f\u793a\u6301\u5e73\uff0c\u5c6c\u65bc\u5b8f\u89c0\u5c64\u9762\u76f8\u5c0d\u5e73\u975c\u7684\u4e00\u65e5\u3002\u4eca\u65e5\u7684\u4ea4\u6613\u6c7a\u5b9a\u5b8c\u5168\u57fa\u65bc\u500b\u80a1\u7684\u6280\u8853\u6307\u6a19\u8a0a\u865f\uff0c\u800c\u975e\u5927\u76e4\u8d70\u52e2\u3002\u9019\u63d0\u9192\u6211\u5011\uff0c\u5373\u4f7f\u5728\u7f3a\u4e4f\u5e02\u5834\u6578\u64da\u7684\u65e5\u5b50\uff0c\u500b\u5225\u80a1\u7968\u7684\u52d5\u80fd\u4ecd\u53ef\u80fd\u8207\u5927\u76e4\u8868\u73fe\u812b\u7bc0\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "A risk-off stance means staying cautious and avoiding new positions when the market gives no clear signal, rather than trading just to stay active. Sitting in cash on an unclear day protects capital for when a genuine opportunity appears.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u6307\u5728\u5e02\u5834\u8a0a\u865f\u4e0d\u660e\u6717\u6642\u4fdd\u6301\u8b39\u614e\uff0c\u907f\u514d\u5efa\u7acb\u65b0\u5009\u4f4d\uff0c\u800c\u975e\u70ba\u6c42\u4ea4\u6613\u800c\u4ea4\u6613\u3002\u5728\u65b9\u5411\u4e0d\u660e\u7684\u65e5\u5b50\u6301\u6709\u73fe\u91d1\uff0c\u53ef\u4fdd\u7559\u8cc7\u672c\uff0c\u975c\u5f85\u771f\u6b63\u7684\u5165\u5e02\u6a5f\u6703\u51fa\u73fe\u3002"
+      "term": "Signal Confirmation",
+      "explanation_en": "Signal confirmation means only acting on a trade idea when multiple independent indicators \u2014 like RSI, MACD, moving averages, and volume \u2014 all point the same direction at once. A single bullish indicator can be noise, but five aligning together is much stronger evidence of real buying interest.",
+      "explanation_zh": "\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u6709\u5728\u591a\u500b\u7368\u7acb\u6307\u6a19\uff08\u5982RSI\u3001MACD\u3001\u79fb\u52d5\u5e73\u5747\u7dda\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642\uff0c\u624d\u63a1\u53d6\u4ea4\u6613\u884c\u52d5\u3002\u55ae\u4e00\u770b\u6f32\u6307\u6a19\u53ef\u80fd\u53ea\u662f\u96dc\u8a0a\uff0c\u4f46\u4e94\u500b\u6307\u6a19\u540c\u6642\u543b\u5408\uff0c\u5247\u66f4\u80fd\u8b49\u660e\u5e02\u5834\u5b58\u5728\u771f\u5be6\u7684\u8cb7\u76e4\u8208\u8da3\u3002"
     }
   }
 }

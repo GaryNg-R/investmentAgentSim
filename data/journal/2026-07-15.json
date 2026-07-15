@@ -1,17 +1,30 @@
 {
   "date": "2026-07-15",
-  "briefing": "Market direction is flat and neutral today with no reliable data on catalysts, so this isn't the risk-on setup our strategy waits for. Holding all 6 existing positions and keeping the $777 cash in reserve rather than forcing a buy into an unconfirmed session.",
+  "briefing": "Market data was unavailable today with NASDAQ and S&P both flat, so we avoided reading too much into the macro tape. Two stock-specific setups (KRMN, CIGI) cleared every technical box on the checklist, so we deployed part of the idle cash into them while holding the rest in reserve until a clearer market signal emerges.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A risk-off stance means staying cautious and avoiding new positions when the market gives no clear signal, rather than trading just to stay active. Sitting in cash on an unclear day protects capital for when a genuine opportunity appears.",
-    "explanation_zh": "「風險規避」（Risk-Off）指在市場訊號不明朗時保持謹慎，避免建立新倉位，而非為求交易而交易。在方向不明的日子持有現金，可保留資本，靜待真正的入市機會出現。"
+    "term": "Signal Confirmation",
+    "explanation_en": "Signal confirmation means only acting on a trade idea when multiple independent indicators — like RSI, MACD, moving averages, and volume — all point the same direction at once. A single bullish indicator can be noise, but five aligning together is much stronger evidence of real buying interest.",
+    "explanation_zh": "訊號確認是指只有在多個獨立指標（如RSI、MACD、移動平均線及成交量）同時指向同一方向時，才採取交易行動。單一看漲指標可能只是雜訊，但五個指標同時吻合，則更能證明市場存在真實的買盤興趣。"
   },
   "market_education": {
-    "summary_en": "No market-moving headlines were available today, and both the NASDAQ and S&P 500 showed 0.0% moves, indicating a quiet, directionless session. Without a clear catalyst or volume-backed signal, institutional participation appears limited today. This kind of flat, low-information day is best treated as a pause rather than a trend change.",
-    "summary_zh": "今日未有明顯的市場消息，納指及標普500指數均錄得0.0%的變動，反映市場方向不明、交投淡靜。在缺乏明確催化劑或成交量支持的情況下，機構參與度似乎有限。這類平淡、缺乏資訊的交易日應視為短暫停頓，而非趨勢逆轉。",
+    "summary_en": "No reliable market-moving headlines were available today, and index-level data for NASDAQ and S&P 500 came back flat, making it a genuinely quiet session at the macro level. Today's trade decisions were driven entirely by stock-specific technical signals rather than broad market direction. This is a reminder that individual stock momentum can diverge from the overall index even on data-light days.",
+    "summary_zh": "今日未能取得可靠的市場消息來源，納斯達克及標普500指數數據亦顯示持平，屬於宏觀層面相對平靜的一日。今日的交易決定完全基於個股的技術指標訊號，而非大盤走勢。這提醒我們，即使在缺乏市場數據的日子，個別股票的動能仍可能與大盤表現脫節。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "KRMN",
+      "conviction": "high",
+      "reasoning": "RSI 62.5 sits safely in the bullish zone with all five signals confirmed (MACD crossover, rising histogram, price above SMA-20, volume surge), indicating genuine institutional buying."
+    },
+    {
+      "action": "BUY",
+      "ticker": "CIGI",
+      "conviction": "medium",
+      "reasoning": "Full five-signal confirmation matches the high-conviction checklist, though RSI 69.9 is near overbought so sized as medium conviction."
+    }
+  ],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
