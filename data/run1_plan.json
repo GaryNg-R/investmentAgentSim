@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-07-14T21:01:10.989391+00:00",
+  "saved_at": "2026-07-15T13:01:28.209918+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
         "ticker": "SEZL",
+        "conviction": "high",
+        "reasoning": "Full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) marks genuine institutional-grade momentum despite a flat broad market."
+      },
+      {
+        "action": "BUY",
+        "ticker": "TRVI",
         "conviction": "medium",
-        "reasoning": "Top-scoring candidate (100) with full signal confirmation \u2014 RSI 65.9 in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and volume surge \u2014 justifying deployment of available cash into an open slot per risk rules even on a neutral-breadth day."
+        "reasoning": "Same full multi-signal confirmation as SEZL but with a safer RSI of 55.4, leaving more room to run before overbought."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were neutral today with NASDAQ +0.9% and S&P 500 +0.4% \u2014 no strong risk-on or risk-off signal. With $777 in cash and 4 open slots, we deployed into SEZL, the highest-scoring candidate with full multi-signal confirmation, while continuing to hold existing positions through the quiet session.",
+    "briefing": "The broader market was flat today (NASDAQ and S&P both ~0.0%, no clear catalyst reported), so per past lessons we avoided forcing trades to deploy idle cash. However, SEZL and TRVI both showed complete multi-signal confirmation (RSI, MACD crossover, rising histogram, price above SMA-20, volume surge), a genuine high-conviction setup independent of the market's overall direction, so we added modest new positions in those two.",
     "market_education": {
-      "summary_en": "Broad indices posted modest gains today, with the NASDAQ slightly outpacing the S&P 500, reflecting a generally calm, low-conviction trading session rather than any major catalyst-driven move. Momentum names with strong technical setups, like several in today's screener, continued attracting volume even as the broader tape stayed range-bound. Without a clear risk-on or risk-off trigger, most of the day's price action reflected stock-specific technical strength rather than macro news.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c,\u90a3\u65af\u9054\u514b\u6307\u6578\u6f32\u5e45\u7565\u9ad8\u65bc\u6a19\u666e500\u6307\u6578,\u53cd\u6620\u5e02\u5834\u6574\u9ad4\u8655\u65bc\u5e73\u975c\u3001\u89c0\u671b\u6c23\u6c1b,\u4e26\u672a\u51fa\u73fe\u91cd\u5927\u6d88\u606f\u9762\u50ac\u5316\u5291\u3002\u90e8\u5206\u5177\u5099\u5f37\u52c1\u6280\u8853\u9762\u8a0a\u865f\u7684\u52d5\u80fd\u80a1,\u5373\u4f7f\u5927\u76e4\u5448\u5340\u9593\u9707\u76ea,\u4ecd\u6301\u7e8c\u5438\u5f15\u8cc7\u91d1\u6d41\u5165\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u98a8\u96aa\u504f\u597d\u6216\u907f\u96aa\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b,\u4eca\u65e5\u591a\u6578\u80a1\u50f9\u8868\u73fe\u4e3b\u8981\u4f86\u81ea\u500b\u80a1\u6280\u8853\u9762\u5f37\u5ea6,\u800c\u975e\u7e3d\u9ad4\u7d93\u6fdf\u6d88\u606f\u3002",
+      "summary_en": "No significant market-moving news was available today, and both the NASDAQ and S&P 500 were essentially flat. Without a clear catalyst, broad indices traded sideways while a handful of individual stocks like SEZL and TRVI showed strong stock-specific momentum on heavy volume. This kind of divergence \u2014 a quiet index but active leadership names \u2014 is common and doesn't require a market-wide narrative to justify selective buying.",
+      "summary_zh": "\u4eca\u65e5\u672a\u898b\u660e\u986f\u7684\u5e02\u5834\u6d88\u606f\uff0c\u7d0d\u6307\u8207\u6a19\u666e500\u5927\u81f4\u6301\u5e73\uff0c\u672a\u898b\u6e05\u6670\u7684\u6f32\u8dcc\u50ac\u5316\u5291\u3002\u5728\u5927\u76e4\u6a6b\u76e4\u6574\u7406\u4e4b\u969b\uff0c\u90e8\u5206\u500b\u80a1\u5982SEZL\u53caTRVI\u6191\u85c9\u5f37\u52c1\u7684\u500b\u80a1\u52d5\u80fd\u53ca\u653e\u91cf\u8868\u73fe\u9006\u52e2\u8d70\u5f37\uff0c\u9019\u7a2e\u300c\u5927\u76e4\u975c\u3001\u500b\u80a1\u65fa\u300d\u7684\u5206\u6b67\u5728\u5e02\u5834\u4e0a\u4e26\u4e0d\u7f55\u898b\uff0c\u5373\u4f7f\u6c92\u6709\u6574\u9ad4\u5e02\u5834\u6558\u4e8b\u652f\u6301\uff0c\u4ecd\u53ef\u4f5c\u70ba\u9078\u80a1\u8cb7\u5165\u7684\u4f9d\u64da\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Multi-Signal Confirmation",
-      "explanation_en": "When multiple technical indicators \u2014 like RSI, MACD, price vs. moving average, and volume \u2014 all point the same direction at once, it's a stronger signal than any single indicator alone. Traders use this 'confirmation' to filter out noise and avoid acting on a single false signal.",
-      "explanation_zh": "\u7576\u591a\u500b\u6280\u8853\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u8207\u5747\u7dda\u7684\u95dc\u4fc2,\u4ee5\u53ca\u6210\u4ea4\u91cf\u2014\u2014\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642,\u9019\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u5177\u53c3\u8003\u50f9\u503c\u3002\u4ea4\u6613\u8005\u5229\u7528\u9019\u7a2e\u300c\u8a0a\u865f\u78ba\u8a8d\u300d\u4f86\u904e\u6ffe\u96dc\u8a0a,\u907f\u514d\u56e0\u55ae\u4e00\u932f\u8aa4\u8a0a\u865f\u800c\u505a\u51fa\u932f\u8aa4\u6c7a\u7b56\u3002"
+      "explanation_en": "Multi-signal confirmation means only acting on a stock when several independent indicators \u2014 like RSI, MACD crossover, price versus moving average, and volume \u2014 all point the same direction at once. This reduces the chance of chasing a random price blip and increases confidence that real buying interest (often institutional) is behind the move.",
+      "explanation_zh": "\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u5728\u591a\u500b\u7368\u7acb\u6307\u6a19\uff08\u4f8b\u5982RSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u76f8\u5c0d\u5747\u7dda\u4f4d\u7f6e\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642\u624d\u9032\u884c\u8cb7\u8ce3\u3002\u9019\u6a23\u53ef\u4ee5\u964d\u4f4e\u8ffd\u9010\u96a8\u6a5f\u50f9\u683c\u6ce2\u52d5\u7684\u98a8\u96aa\uff0c\u4e26\u63d0\u9ad8\u80cc\u5f8c\u5b58\u5728\u771f\u5be6\uff08\u751a\u81f3\u662f\u6a5f\u69cb\uff09\u8cb7\u76e4\u652f\u6301\u7684\u4fe1\u5fc3\u3002"
     }
   }
 }
