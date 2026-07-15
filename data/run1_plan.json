@@ -1,32 +1,19 @@
 {
-  "saved_at": "2026-07-15T18:01:41.883968+00:00",
+  "saved_at": "2026-07-15T19:01:31.418664+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "MAAS",
-        "conviction": "medium",
-        "reasoning": "Top-scoring candidate (95) with RSI 56.7 in the bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20."
-      },
-      {
-        "action": "BUY",
-        "ticker": "CBRE",
-        "conviction": "medium",
-        "reasoning": "Score 95 with confirmed MACD crossover and price above SMA-20, RSI 59.2 leaves room before overbought, diversifies away from existing small/mid-cap tilt."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "Market is neutral today (NASDAQ +0.5%, S&P 500 +0.3%). With $777 cash and 4 open slots, we deployed a portion into MAAS and CBRE, two of our highest-scoring candidates with confirmed bullish momentum, while leaving room to preserve dry powder rather than fully maxing out on a non-risk-on day.",
+    "briefing": "Markets were neutral today (NASDAQ +0.3%, S&P 500 +0.2%) with no candidate showing the full multi-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge) our strategy requires for new buys. Holding cash and existing positions rather than forcing a trade into a low-conviction session.",
     "market_education": {
-      "summary_en": "Markets drifted modestly higher today with the NASDAQ up 0.5% and the S&P 500 up 0.3%, a quiet, low-volatility session without a clear catalyst. Trading stayed range-bound as investors await more decisive economic or earnings signals before committing to a stronger directional move. The mild gains suggest steady but cautious risk appetite rather than aggressive buying.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c\u5411\u4e0a\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.5%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.3%\uff0c\u5c6c\u65bc\u6ce2\u52d5\u8f03\u4f4e\u3001\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u7684\u4ea4\u6613\u65e5\u3002\u5e02\u5834\u7dad\u6301\u5340\u9593\u9707\u76ea\uff0c\u6295\u8cc7\u4eba\u4f3c\u4e4e\u5728\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u8a0a\u865f\u624d\u6703\u52a0\u5927\u65b9\u5411\u6027\u62bc\u6ce8\u3002\u6eab\u548c\u7684\u6f32\u5e45\u986f\u793a\u5e02\u5834\u98a8\u96aa\u504f\u597d\u7a69\u5065\u4f46\u4ecd\u504f\u8b39\u614e\u3002",
+      "summary_en": "Major indices drifted in a narrow, low-volatility range today, with the NASDAQ up 0.3% and the S&P 500 up 0.2%. The muted move suggests investors were in a wait-and-see mode without a strong catalyst to push markets decisively in either direction. Trading activity appeared moderate, consistent with a market pausing to digest recent gains rather than reacting to fresh news.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u7a84\u5e45\u9707\u76ea\uff0c\u6ce2\u52d5\u4e0d\u5927\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.3%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.2%\u3002\u9019\u7a2e\u6eab\u548c\u7684\u6f32\u5e45\u986f\u793a\u6295\u8cc7\u4eba\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u50ac\u5316\u5291\u4f86\u63a8\u52d5\u65b9\u5411\u6027\u8d70\u52e2\u3002\u6210\u4ea4\u91cf\u7dad\u6301\u4e2d\u7b49\u6c34\u5e73\uff0c\u53cd\u6620\u5e02\u5834\u6b63\u5728\u6d88\u5316\u8fd1\u671f\u6f32\u5e45\uff0c\u800c\u975e\u5c0d\u7a81\u767c\u6d88\u606f\u505a\u51fa\u53cd\u61c9\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Indicators (RSI & MACD)",
-      "explanation_en": "RSI (Relative Strength Index) and MACD (Moving Average Convergence Divergence) are tools traders use to spot stocks with building upward momentum. A stock with RSI in the 55-70 range and a bullish MACD crossover, like today's picks, suggests buyers are gaining control without the stock being dangerously overbought yet.",
-      "explanation_zh": "RSI\uff08\u76f8\u5c0d\u5f37\u5f31\u6307\u6a19\uff09\u548cMACD\uff08\u6307\u6578\u5e73\u6ed1\u7570\u540c\u79fb\u52d5\u5e73\u5747\u7dda\uff09\u662f\u4ea4\u6613\u8005\u7528\u4f86\u5c0b\u627e\u5177\u6709\u4e0a\u5347\u52d5\u80fd\u80a1\u7968\u7684\u5de5\u5177\u3002\u7576\u4e00\u6a94\u80a1\u7968\u7684RSI\u843d\u572855\u81f370\u5340\u9593\u4e26\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u6642\uff0c\u5982\u540c\u4eca\u65e5\u9078\u4e2d\u7684\u6a19\u7684\uff0c\u4ee3\u8868\u8cb7\u65b9\u529b\u9053\u6b63\u5728\u589e\u5f37\uff0c\u4e14\u5c1a\u672a\u9032\u5165\u5371\u96aa\u7684\u8d85\u8cb7\u5340\u57df\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "Dry powder refers to cash a portfolio keeps on the sidelines, ready to deploy when a genuinely strong opportunity appears. On a neutral day like today, holding cash instead of forcing a purchase preserves that flexibility for when market signals are more compelling.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u6295\u8cc7\u7d44\u5408\u4fdd\u7559\u5728\u5834\u908a\u3001\u96a8\u6642\u53ef\u52d5\u7528\u7684\u73fe\u91d1\u3002\u5728\u50cf\u4eca\u5929\u9019\u6a23\u65b9\u5411\u4e0d\u660e\u7684\u4e2d\u6027\u5e02\u5834\u4e2d\uff0c\u8207\u5176\u52c9\u5f37\u8cb7\u9032\uff0c\u4e0d\u5982\u4fdd\u7559\u73fe\u91d1\uff0c\u7b49\u5f85\u66f4\u660e\u78ba\u3001\u66f4\u5177\u8aaa\u670d\u529b\u7684\u9032\u5834\u8a0a\u865f\u51fa\u73fe\u3002"
     }
   }
 }

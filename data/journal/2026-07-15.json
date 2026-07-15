@@ -1,30 +1,17 @@
 {
   "date": "2026-07-15",
-  "briefing": "Market is neutral today (NASDAQ +0.5%, S&P 500 +0.3%). With $777 cash and 4 open slots, we deployed a portion into MAAS and CBRE, two of our highest-scoring candidates with confirmed bullish momentum, while leaving room to preserve dry powder rather than fully maxing out on a non-risk-on day.",
+  "briefing": "Markets were neutral today (NASDAQ +0.3%, S&P 500 +0.2%) with no candidate showing the full multi-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge) our strategy requires for new buys. Holding cash and existing positions rather than forcing a trade into a low-conviction session.",
   "daily_lesson": {
-    "term": "Momentum Indicators (RSI & MACD)",
-    "explanation_en": "RSI (Relative Strength Index) and MACD (Moving Average Convergence Divergence) are tools traders use to spot stocks with building upward momentum. A stock with RSI in the 55-70 range and a bullish MACD crossover, like today's picks, suggests buyers are gaining control without the stock being dangerously overbought yet.",
-    "explanation_zh": "RSI（相對強弱指標）和MACD（指數平滑異同移動平均線）是交易者用來尋找具有上升動能股票的工具。當一檔股票的RSI落在55至70區間並出現MACD黃金交叉時，如同今日選中的標的，代表買方力道正在增強，且尚未進入危險的超買區域。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash a portfolio keeps on the sidelines, ready to deploy when a genuinely strong opportunity appears. On a neutral day like today, holding cash instead of forcing a purchase preserves that flexibility for when market signals are more compelling.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資組合保留在場邊、隨時可動用的現金。在像今天這樣方向不明的中性市場中，與其勉強買進，不如保留現金，等待更明確、更具說服力的進場訊號出現。"
   },
   "market_education": {
-    "summary_en": "Markets drifted modestly higher today with the NASDAQ up 0.5% and the S&P 500 up 0.3%, a quiet, low-volatility session without a clear catalyst. Trading stayed range-bound as investors await more decisive economic or earnings signals before committing to a stronger directional move. The mild gains suggest steady but cautious risk appetite rather than aggressive buying.",
-    "summary_zh": "今日大盤走勢溫和向上，納斯達克指數上漲0.5%，標普500指數上漲0.3%，屬於波動較低、缺乏明確催化劑的交易日。市場維持區間震盪，投資人似乎在等待更明確的經濟數據或財報訊號才會加大方向性押注。溫和的漲幅顯示市場風險偏好穩健但仍偏謹慎。",
+    "summary_en": "Major indices drifted in a narrow, low-volatility range today, with the NASDAQ up 0.3% and the S&P 500 up 0.2%. The muted move suggests investors were in a wait-and-see mode without a strong catalyst to push markets decisively in either direction. Trading activity appeared moderate, consistent with a market pausing to digest recent gains rather than reacting to fresh news.",
+    "summary_zh": "今日大盤走勢窄幅震盪，波動不大，納斯達克指數上漲0.3%，標普500指數上漲0.2%。這種溫和的漲幅顯示投資人普遍採取觀望態度，市場缺乏明確的催化劑來推動方向性走勢。成交量維持中等水平，反映市場正在消化近期漲幅，而非對突發消息做出反應。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "MAAS",
-      "conviction": "medium",
-      "reasoning": "Top-scoring candidate (95) with RSI 56.7 in the bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CBRE",
-      "conviction": "medium",
-      "reasoning": "Score 95 with confirmed MACD crossover and price above SMA-20, RSI 59.2 leaves room before overbought, diversifies away from existing small/mid-cap tilt."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
