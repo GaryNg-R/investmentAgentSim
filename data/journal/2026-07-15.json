@@ -1,30 +1,17 @@
 {
   "date": "2026-07-15",
-  "briefing": "The broader market was flat today (NASDAQ and S&P both ~0.0%, no clear catalyst reported), so per past lessons we avoided forcing trades to deploy idle cash. However, SEZL and TRVI both showed complete multi-signal confirmation (RSI, MACD crossover, rising histogram, price above SMA-20, volume surge), a genuine high-conviction setup independent of the market's overall direction, so we added modest new positions in those two.",
+  "briefing": "Market direction is flat and neutral today with no reliable data on catalysts, so this isn't the risk-on setup our strategy waits for. Holding all 6 existing positions and keeping the $777 cash in reserve rather than forcing a buy into an unconfirmed session.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a stock when several independent indicators — like RSI, MACD crossover, price versus moving average, and volume — all point the same direction at once. This reduces the chance of chasing a random price blip and increases confidence that real buying interest (often institutional) is behind the move.",
-    "explanation_zh": "多重訊號確認是指只在多個獨立指標（例如RSI、MACD黃金交叉、股價相對均線位置及成交量）同時指向同一方向時才進行買賣。這樣可以降低追逐隨機價格波動的風險，並提高背後存在真實（甚至是機構）買盤支持的信心。"
+    "term": "Risk-Off",
+    "explanation_en": "A risk-off stance means staying cautious and avoiding new positions when the market gives no clear signal, rather than trading just to stay active. Sitting in cash on an unclear day protects capital for when a genuine opportunity appears.",
+    "explanation_zh": "「風險規避」（Risk-Off）指在市場訊號不明朗時保持謹慎，避免建立新倉位，而非為求交易而交易。在方向不明的日子持有現金，可保留資本，靜待真正的入市機會出現。"
   },
   "market_education": {
-    "summary_en": "No significant market-moving news was available today, and both the NASDAQ and S&P 500 were essentially flat. Without a clear catalyst, broad indices traded sideways while a handful of individual stocks like SEZL and TRVI showed strong stock-specific momentum on heavy volume. This kind of divergence — a quiet index but active leadership names — is common and doesn't require a market-wide narrative to justify selective buying.",
-    "summary_zh": "今日未見明顯的市場消息，納指與標普500大致持平，未見清晰的漲跌催化劑。在大盤橫盤整理之際，部分個股如SEZL及TRVI憑藉強勁的個股動能及放量表現逆勢走強，這種「大盤靜、個股旺」的分歧在市場上並不罕見，即使沒有整體市場敘事支持，仍可作為選股買入的依據。",
+    "summary_en": "No market-moving headlines were available today, and both the NASDAQ and S&P 500 showed 0.0% moves, indicating a quiet, directionless session. Without a clear catalyst or volume-backed signal, institutional participation appears limited today. This kind of flat, low-information day is best treated as a pause rather than a trend change.",
+    "summary_zh": "今日未有明顯的市場消息，納指及標普500指數均錄得0.0%的變動，反映市場方向不明、交投淡靜。在缺乏明確催化劑或成交量支持的情況下，機構參與度似乎有限。這類平淡、缺乏資訊的交易日應視為短暫停頓，而非趨勢逆轉。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "SEZL",
-      "conviction": "high",
-      "reasoning": "Full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) marks genuine institutional-grade momentum despite a flat broad market."
-    },
-    {
-      "action": "BUY",
-      "ticker": "TRVI",
-      "conviction": "medium",
-      "reasoning": "Same full multi-signal confirmation as SEZL but with a safer RSI of 55.4, leaving more room to run before overbought."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
