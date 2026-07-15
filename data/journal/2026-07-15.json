@@ -1,28 +1,28 @@
 {
   "date": "2026-07-15",
-  "briefing": "Market data was unavailable today with NASDAQ and S&P both flat, so we avoided reading too much into the macro tape. Two stock-specific setups (KRMN, CIGI) cleared every technical box on the checklist, so we deployed part of the idle cash into them while holding the rest in reserve until a clearer market signal emerges.",
+  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.1%), not a strong risk-on signal, so we're being selective rather than aggressive. We used two of the four open slots on the strongest technically-confirmed candidates (MANE, CWK) while holding back some cash since this isn't the kind of decisive risk-on day that warrants full deployment. Existing positions are left alone to let stop-loss and profit targets work automatically.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Signal confirmation means only acting on a trade idea when multiple independent indicators — like RSI, MACD, moving averages, and volume — all point the same direction at once. A single bullish indicator can be noise, but five aligning together is much stronger evidence of real buying interest.",
-    "explanation_zh": "訊號確認是指只有在多個獨立指標（如RSI、MACD、移動平均線及成交量）同時指向同一方向時，才採取交易行動。單一看漲指標可能只是雜訊，但五個指標同時吻合，則更能證明市場存在真實的買盤興趣。"
+    "term": "Technical Confirmation",
+    "explanation_en": "Technical confirmation means looking for multiple supporting signals — like RSI in a healthy range, a MACD bullish crossover, and price trading above a moving average — before entering a trade, rather than acting on just one indicator. This reduces the chance of chasing a false signal, especially on days when the broader market itself isn't giving a clear direction.",
+    "explanation_zh": "技術面確認是指在進場前尋找多個支持訊號，例如RSI處於健康區間、MACD出現黃金交叉、股價站上均線等，而不是僅憑單一指標做決定。這樣可以降低追高買進假訊號的風險，尤其是在大盤本身方向不明確的日子。"
   },
   "market_education": {
-    "summary_en": "No reliable market-moving headlines were available today, and index-level data for NASDAQ and S&P 500 came back flat, making it a genuinely quiet session at the macro level. Today's trade decisions were driven entirely by stock-specific technical signals rather than broad market direction. This is a reminder that individual stock momentum can diverge from the overall index even on data-light days.",
-    "summary_zh": "今日未能取得可靠的市場消息來源，納斯達克及標普500指數數據亦顯示持平，屬於宏觀層面相對平靜的一日。今日的交易決定完全基於個股的技術指標訊號，而非大盤走勢。這提醒我們，即使在缺乏市場數據的日子，個別股票的動能仍可能與大盤表現脫節。",
+    "summary_en": "Broad market indices were essentially flat today, with the NASDAQ up just 0.2% and the S&P 500 up 0.1%, indicating a lack of strong directional conviction from investors. Without a major catalyst, trading stayed range-bound as market participants awaited clearer signals. Individual stocks with strong technical setups, like several names in our screened list, still showed bullish momentum even as the broader indices stayed muted.",
+    "summary_zh": "大盤今日表現平淡，納斯達克僅上升0.2%，標普500指數上升0.1%，反映投資人缺乏明確方向。由於沒有重大消息面催化，市場維持區間震盪，等待更清晰的訊號。不過部分個股（如篩選名單中的數檔股票）技術面仍呈現偏多動能，即使大盤走勢平淡。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "KRMN",
-      "conviction": "high",
-      "reasoning": "RSI 62.5 sits safely in the bullish zone with all five signals confirmed (MACD crossover, rising histogram, price above SMA-20, volume surge), indicating genuine institutional buying."
+      "ticker": "MANE",
+      "conviction": "medium",
+      "reasoning": "Top-scored candidate with RSI 66.4 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, but market is only neutral so sizing at medium conviction."
     },
     {
       "action": "BUY",
-      "ticker": "CIGI",
+      "ticker": "CWK",
       "conviction": "medium",
-      "reasoning": "Full five-signal confirmation matches the high-conviction checklist, though RSI 69.9 is near overbought so sized as medium conviction."
+      "reasoning": "Second-highest scored candidate showing the same full bullish technical confirmation (RSI, MACD crossover, rising histogram, price above SMA-20) for a diversified entry outside real estate/tech-heavy holdings."
     }
   ],
   "outcomes": {
