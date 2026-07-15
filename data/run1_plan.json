@@ -1,19 +1,32 @@
 {
-  "saved_at": "2026-07-15T19:01:31.418664+00:00",
+  "saved_at": "2026-07-15T20:01:25.109868+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "MANE",
+        "conviction": "high",
+        "reasoning": "Full 4-signal confirmation (RSI 58 bullish zone, MACD crossover, price above SMA-20, volume surge) signals genuine institutional buying, not just a neutral-day filler."
+      },
+      {
+        "action": "BUY",
+        "ticker": "CWK",
+        "conviction": "high",
+        "reasoning": "Same full 4-signal setup as MANE with healthy RSI 59.1, offering diversification away from existing holdings while deploying idle cash above the $500 threshold."
+      }
+    ],
     "skip_new_buys": false,
-    "briefing": "Markets were neutral today (NASDAQ +0.3%, S&P 500 +0.2%) with no candidate showing the full multi-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge) our strategy requires for new buys. Holding cash and existing positions rather than forcing a trade into a low-conviction session.",
+    "briefing": "Market was neutral today (NASDAQ +0.6%, S&P500 +0.4%), but MANE and CWK stood out with all four confirming signals \u2014 MACD crossover, bullish-zone RSI, price above SMA-20, and volume surge \u2014 so we deployed some of the $777 cash into these two rather than forcing buys across all open slots. Existing positions were left untouched since neutral days aren't a reason to exit winners; ROAD is now below its avg cost near the stop-loss line and will be handled automatically if it triggers.",
     "market_education": {
-      "summary_en": "Major indices drifted in a narrow, low-volatility range today, with the NASDAQ up 0.3% and the S&P 500 up 0.2%. The muted move suggests investors were in a wait-and-see mode without a strong catalyst to push markets decisively in either direction. Trading activity appeared moderate, consistent with a market pausing to digest recent gains rather than reacting to fresh news.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u7a84\u5e45\u9707\u76ea\uff0c\u6ce2\u52d5\u4e0d\u5927\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.3%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.2%\u3002\u9019\u7a2e\u6eab\u548c\u7684\u6f32\u5e45\u986f\u793a\u6295\u8cc7\u4eba\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u50ac\u5316\u5291\u4f86\u63a8\u52d5\u65b9\u5411\u6027\u8d70\u52e2\u3002\u6210\u4ea4\u91cf\u7dad\u6301\u4e2d\u7b49\u6c34\u5e73\uff0c\u53cd\u6620\u5e02\u5834\u6b63\u5728\u6d88\u5316\u8fd1\u671f\u6f32\u5e45\uff0c\u800c\u975e\u5c0d\u7a81\u767c\u6d88\u606f\u505a\u51fa\u53cd\u61c9\u3002",
+      "summary_en": "Major indices drifted modestly higher today with NASDAQ up 0.6% and the S&P 500 up 0.4%, a quiet, directionless session rather than a strong risk-on move. Without a clear macro catalyst, price action was driven mainly by stock-specific momentum rather than broad sector rotation. Several individual names showed strong multi-signal technical setups even as the index-level trend stayed flat.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u6307\u53470.6%\uff0c\u6a19\u666e500\u53470.4%\uff0c\u5c6c\u65bc\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u7684\u5e73\u6de1\u4ea4\u6613\u65e5\uff0c\u672a\u898b\u5f37\u70c8\u7684\u98a8\u96aa\u504f\u597d\u5347\u6eab\u3002\u5728\u6c92\u6709\u660e\u986f\u5b8f\u89c0\u50ac\u5316\u5291\u5e36\u52d5\u4e0b\uff0c\u8d70\u52e2\u4e3b\u8981\u7531\u500b\u80a1\u5c64\u9762\u7684\u52d5\u80fd\u4e3b\u5c0e\uff0c\u800c\u975e\u677f\u584a\u8f2a\u52d5\u3002\u90e8\u5206\u500b\u80a1\u5728\u6280\u8853\u6307\u6a19\u4e0a\u5448\u73fe\u591a\u91cd\u78ba\u8a8d\u7684\u5f37\u52e2\u8a0a\u865f\uff0c\u5373\u4f7f\u5927\u5e02\u6574\u9ad4\u8da8\u52e2\u4ecd\u7136\u6301\u5e73\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "Dry powder refers to cash a portfolio keeps on the sidelines, ready to deploy when a genuinely strong opportunity appears. On a neutral day like today, holding cash instead of forcing a purchase preserves that flexibility for when market signals are more compelling.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u6295\u8cc7\u7d44\u5408\u4fdd\u7559\u5728\u5834\u908a\u3001\u96a8\u6642\u53ef\u52d5\u7528\u7684\u73fe\u91d1\u3002\u5728\u50cf\u4eca\u5929\u9019\u6a23\u65b9\u5411\u4e0d\u660e\u7684\u4e2d\u6027\u5e02\u5834\u4e2d\uff0c\u8207\u5176\u52c9\u5f37\u8cb7\u9032\uff0c\u4e0d\u5982\u4fdd\u7559\u73fe\u91d1\uff0c\u7b49\u5f85\u66f4\u660e\u78ba\u3001\u66f4\u5177\u8aaa\u670d\u529b\u7684\u9032\u5834\u8a0a\u865f\u51fa\u73fe\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Momentum confirmation means waiting for several technical signals to align \u2014 like a MACD crossover, healthy RSI, price above its moving average, and a volume surge \u2014 before trusting that a stock's upward move is real. A single signal can be noise, but four aligning together suggests genuine buying interest rather than a random price blip.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u76f8\u4fe1\u80a1\u7968\u5347\u52e2\u5c6c\u5be6\u4e4b\u524d\uff0c\u7b49\u5f85\u591a\u500b\u6280\u8853\u6307\u6a19\u540c\u6642\u51fa\u73fe\u4e00\u81f4\u8a0a\u865f\uff0c\u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u5065\u5eb7\u7684RSI\u6c34\u5e73\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u3002\u55ae\u4e00\u8a0a\u865f\u53ef\u80fd\u53ea\u662f\u5e02\u5834\u96dc\u8a0a\uff0c\u4f46\u56db\u9805\u8a0a\u865f\u540c\u6642\u51fa\u73fe\uff0c\u5f80\u5f80\u4ee3\u8868\u771f\u6b63\u7684\u8cb7\u76e4\u8208\u8da3\uff0c\u800c\u975e\u96a8\u6a5f\u7684\u77ed\u66ab\u6ce2\u52d5\u3002"
     }
   }
 }

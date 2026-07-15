@@ -1,17 +1,30 @@
 {
   "date": "2026-07-15",
-  "briefing": "Markets were neutral today (NASDAQ +0.3%, S&P 500 +0.2%) with no candidate showing the full multi-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge) our strategy requires for new buys. Holding cash and existing positions rather than forcing a trade into a low-conviction session.",
+  "briefing": "Market was neutral today (NASDAQ +0.6%, S&P500 +0.4%), but MANE and CWK stood out with all four confirming signals — MACD crossover, bullish-zone RSI, price above SMA-20, and volume surge — so we deployed some of the $777 cash into these two rather than forcing buys across all open slots. Existing positions were left untouched since neutral days aren't a reason to exit winners; ROAD is now below its avg cost near the stop-loss line and will be handled automatically if it triggers.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash a portfolio keeps on the sidelines, ready to deploy when a genuinely strong opportunity appears. On a neutral day like today, holding cash instead of forcing a purchase preserves that flexibility for when market signals are more compelling.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資組合保留在場邊、隨時可動用的現金。在像今天這樣方向不明的中性市場中，與其勉強買進，不如保留現金，等待更明確、更具說服力的進場訊號出現。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for several technical signals to align — like a MACD crossover, healthy RSI, price above its moving average, and a volume surge — before trusting that a stock's upward move is real. A single signal can be noise, but four aligning together suggests genuine buying interest rather than a random price blip.",
+    "explanation_zh": "動能確認是指在相信股票升勢屬實之前，等待多個技術指標同時出現一致訊號，例如MACD黃金交叉、健康的RSI水平、股價高於移動平均線，以及成交量放大。單一訊號可能只是市場雜訊，但四項訊號同時出現，往往代表真正的買盤興趣，而非隨機的短暫波動。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted in a narrow, low-volatility range today, with the NASDAQ up 0.3% and the S&P 500 up 0.2%. The muted move suggests investors were in a wait-and-see mode without a strong catalyst to push markets decisively in either direction. Trading activity appeared moderate, consistent with a market pausing to digest recent gains rather than reacting to fresh news.",
-    "summary_zh": "今日大盤走勢窄幅震盪，波動不大，納斯達克指數上漲0.3%，標普500指數上漲0.2%。這種溫和的漲幅顯示投資人普遍採取觀望態度，市場缺乏明確的催化劑來推動方向性走勢。成交量維持中等水平，反映市場正在消化近期漲幅，而非對突發消息做出反應。",
+    "summary_en": "Major indices drifted modestly higher today with NASDAQ up 0.6% and the S&P 500 up 0.4%, a quiet, directionless session rather than a strong risk-on move. Without a clear macro catalyst, price action was driven mainly by stock-specific momentum rather than broad sector rotation. Several individual names showed strong multi-signal technical setups even as the index-level trend stayed flat.",
+    "summary_zh": "今日大市溫和上揚，納指升0.6%，標普500升0.4%，屬於缺乏明確方向的平淡交易日，未見強烈的風險偏好升溫。在沒有明顯宏觀催化劑帶動下，走勢主要由個股層面的動能主導，而非板塊輪動。部分個股在技術指標上呈現多重確認的強勢訊號，即使大市整體趨勢仍然持平。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "MANE",
+      "conviction": "high",
+      "reasoning": "Full 4-signal confirmation (RSI 58 bullish zone, MACD crossover, price above SMA-20, volume surge) signals genuine institutional buying, not just a neutral-day filler."
+    },
+    {
+      "action": "BUY",
+      "ticker": "CWK",
+      "conviction": "high",
+      "reasoning": "Same full 4-signal setup as MANE with healthy RSI 59.1, offering diversification away from existing holdings while deploying idle cash above the $500 threshold."
+    }
+  ],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
