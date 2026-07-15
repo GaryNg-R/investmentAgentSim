@@ -1,28 +1,22 @@
 {
   "date": "2026-07-15",
-  "briefing": "Market was neutral today (NASDAQ +0.6%, S&P500 +0.4%), but MANE and CWK stood out with all four confirming signals — MACD crossover, bullish-zone RSI, price above SMA-20, and volume surge — so we deployed some of the $777 cash into these two rather than forcing buys across all open slots. Existing positions were left untouched since neutral days aren't a reason to exit winners; ROAD is now below its avg cost near the stop-loss line and will be handled automatically if it triggers.",
+  "briefing": "NASDAQ +0.6% and S&P 500 +0.4% was a quiet, neutral session with no strong risk-on catalyst, so we held back from deploying broadly. We added one high-conviction single-stock pick, CBRE, which showed all four confirming signals at once, while leaving the rest of cash in reserve for a clearer risk-on setup. ROAD is trading roughly 9% below its average cost and is near the automatic stop-loss threshold.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for several technical signals to align — like a MACD crossover, healthy RSI, price above its moving average, and a volume surge — before trusting that a stock's upward move is real. A single signal can be noise, but four aligning together suggests genuine buying interest rather than a random price blip.",
-    "explanation_zh": "動能確認是指在相信股票升勢屬實之前，等待多個技術指標同時出現一致訊號，例如MACD黃金交叉、健康的RSI水平、股價高於移動平均線，以及成交量放大。單一訊號可能只是市場雜訊，但四項訊號同時出現，往往代表真正的買盤興趣，而非隨機的短暫波動。"
+    "term": "Stop-Loss",
+    "explanation_en": "A stop-loss is a predetermined price level at which a losing position is automatically sold to limit further losses, in this portfolio's case set at -7% from the average purchase price. It removes emotion from the decision to cut a loser, since the sale happens automatically once the threshold is breached rather than waiting and hoping the stock recovers.",
+    "explanation_zh": "停損是指當持股虧損達到預先設定的價格水平時,自動賣出以限制進一步損失,本投資組合的設定為平均成本下跌7%。停損機制能在觸及門檻時自動執行賣出,避免投資人因情緒因素遲遲不願認賠,一直期待股價回升。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today with NASDAQ up 0.6% and the S&P 500 up 0.4%, a quiet, directionless session rather than a strong risk-on move. Without a clear macro catalyst, price action was driven mainly by stock-specific momentum rather than broad sector rotation. Several individual names showed strong multi-signal technical setups even as the index-level trend stayed flat.",
-    "summary_zh": "今日大市溫和上揚，納指升0.6%，標普500升0.4%，屬於缺乏明確方向的平淡交易日，未見強烈的風險偏好升溫。在沒有明顯宏觀催化劑帶動下，走勢主要由個股層面的動能主導，而非板塊輪動。部分個股在技術指標上呈現多重確認的強勢訊號，即使大市整體趨勢仍然持平。",
+    "summary_en": "Major indices drifted modestly higher today with the NASDAQ up 0.6% and the S&P 500 up 0.4%, a pattern consistent with a quiet, directionless trading session rather than any single dominant headline. No major market-moving news was available in today's feed to point to a specific catalyst. Price action stayed broadly range-bound, with strength concentrated in a handful of individual names showing fresh volume and momentum signals rather than a market-wide rally.",
+    "summary_zh": "今日大盤走勢溫和向上,那斯達克指數上漲0.6%,標普500指數上漲0.4%,屬於缺乏明確催化劑的清淡交易日。今日新聞來源中並無重大市場消息可供引用。價格波動整體維持區間震盪,升勢主要集中在少數個股,這些個股出現成交量放大及動能轉強的訊號,而非全面性的普漲行情。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "MANE",
-      "conviction": "high",
-      "reasoning": "Full 4-signal confirmation (RSI 58 bullish zone, MACD crossover, price above SMA-20, volume surge) signals genuine institutional buying, not just a neutral-day filler."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CWK",
-      "conviction": "high",
-      "reasoning": "Same full 4-signal setup as MANE with healthy RSI 59.1, offering diversification away from existing holdings while deploying idle cash above the $500 threshold."
+      "ticker": "CBRE",
+      "conviction": "medium",
+      "reasoning": "Full multi-signal confirmation (MACD bullish crossover, RSI 57.8 in bullish zone, price above SMA-20, volume surge) shows institutional participation even though the broader market is only neutral today."
     }
   ],
   "outcomes": {
