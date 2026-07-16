@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-07-16T20:00:31.610978+00:00",
+  "saved_at": "2026-07-16T21:00:27.552094+00:00",
   "market_direction": "risk_off",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets pulled back today with NASDAQ down 1.5% and the S&P 500 down 0.5%, a risk-off session with no qualifying candidates on the screener. We're holding all 6 existing positions and keeping the remaining cash in reserve rather than forcing new buys into weakness.",
+    "briefing": "Markets were risk-off today with NASDAQ down 1.5% and S&P 500 down 0.5%, so no new candidates were screened. Holding all 6 existing positions and keeping the $777.14 cash in reserve until a genuine risk-on setup appears.",
     "market_education": {
-      "summary_en": "Broad indices declined today, with the NASDAQ underperforming the S&P 500, suggesting growth and tech names bore the brunt of selling pressure. On risk-off days like this, momentum-based screeners typically surface few or no qualifying candidates since fewer stocks are showing bullish technical setups. Staying patient and preserving cash for a stronger setup is the more disciplined approach than chasing a down day.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u4e0b\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\uff0c\u986f\u793a\u79d1\u6280\u80a1\u53ca\u6210\u9577\u80a1\u627f\u53d7\u8f03\u5927\u8ce3\u58d3\u3002\u5728\u9019\u985e\u98a8\u96aa\u8da8\u907f\u7684\u4ea4\u6613\u65e5\uff0c\u52d5\u80fd\u7be9\u9078\u6a5f\u5236\u901a\u5e38\u96e3\u4ee5\u627e\u5230\u7b26\u5408\u689d\u4ef6\u7684\u8cb7\u5165\u6a19\u7684\uff0c\u56e0\u70ba\u5448\u73fe\u591a\u982d\u6280\u8853\u5f62\u614b\u7684\u80a1\u7968\u6e1b\u5c11\u3002\u8207\u5176\u5728\u4e0b\u8dcc\u65e5\u52c9\u5f37\u9032\u5834\uff0c\u4e0d\u5982\u8010\u5fc3\u6301\u6709\u73fe\u91d1\uff0c\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u9032\u5834\u8a0a\u865f\u3002",
+      "summary_en": "Broad market weakness today pulled both major indices lower, with tech-heavy NASDAQ underperforming the S&P 500, consistent with a risk-off rotation out of growth names. No specific catalyst headlines were provided in today's screening data. In risk-off conditions like this, staying disciplined and avoiding forced trades is usually more valuable than chasing action.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u504f\u5f31\uff0c\u79d1\u6280\u80a1\u4e3b\u5c0e\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u8cc7\u91d1\u6b63\u5f9e\u589e\u9577\u80a1\u64a4\u51fa\uff0c\u5448\u73fe\u907f\u96aa\u60c5\u7dd2\u3002\u4eca\u65e5\u7be9\u9078\u8cc7\u6599\u4e2d\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u3002\u5728\u9019\u7a2e\u907f\u96aa\u5e02\u6cc1\u4e0b\uff0c\u4fdd\u6301\u7d00\u5f8b\u3001\u907f\u514d\u5f37\u884c\u4ea4\u6613\uff0c\u901a\u5e38\u6bd4\u76f2\u76ee\u9032\u5834\u66f4\u70ba\u91cd\u8981\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks in favor of safer holdings, often triggered by economic uncertainty or negative news. On these days, it's usually wiser to hold existing positions and avoid new purchases rather than trying to catch a falling market.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u8da8\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u4eba\u666e\u904d\u62cb\u552e\u6210\u9577\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff0c\u8f49\u5411\u8f03\u5b89\u5168\u7684\u6301\u80a1\uff0c\u901a\u5e38\u7531\u7d93\u6fdf\u4e0d\u78ba\u5b9a\u6027\u6216\u8ca0\u9762\u6d88\u606f\u6240\u89f8\u767c\u3002\u5728\u9019\u985e\u4ea4\u6613\u65e5\uff0c\u660e\u667a\u7684\u505a\u6cd5\u901a\u5e38\u662f\u6301\u6709\u73fe\u6709\u90e8\u4f4d\u3001\u907f\u514d\u65b0\u589e\u8cb7\u5165\uff0c\u800c\u975e\u5617\u8a66\u5728\u4e0b\u8dcc\u5e02\u5834\u4e2d\u6436\u9032\u3002"
+      "explanation_en": "A 'risk-off' day is when investors sell riskier assets like growth stocks and move toward safety, causing broad declines like today's NASDAQ and S&P 500 drop. The smart move on these days is often to hold steady rather than chase new trades, since volatility tends to punish impulsive entries.",
+      "explanation_zh": "\u300c\u907f\u96aa\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u62cb\u552e\u589e\u9577\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff0c\u8f49\u5411\u8f03\u5b89\u5168\u7684\u9078\u64c7\uff0c\u5c0e\u81f4\u50cf\u4eca\u5929\u7d0d\u65af\u9054\u514b\u548c\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0b\u8dcc\u7684\u60c5\u6cc1\u3002\u5728\u9019\u7a2e\u65e5\u5b50\uff0c\u6bd4\u8f03\u7a69\u59a5\u7684\u505a\u6cd5\u901a\u5e38\u662f\u6301\u80a1\u89c0\u671b\uff0c\u800c\u975e\u8ffd\u9010\u65b0\u7684\u4ea4\u6613\uff0c\u56e0\u70ba\u5e02\u6cc1\u6ce2\u52d5\u6642\u885d\u52d5\u9032\u5834\u5bb9\u6613\u5403\u8667\u3002"
     }
   }
 }
