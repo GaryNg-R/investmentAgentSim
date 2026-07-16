@@ -1,19 +1,26 @@
 {
-  "saved_at": "2026-07-16T16:01:16.349842+00:00",
+  "saved_at": "2026-07-16T17:01:24.157102+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets drifted lower today with NASDAQ -0.7% and S&P 500 -0.2% \u2014 a neutral, low-conviction session. None of the top-scoring candidates showed the full four-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge) used for high-conviction entries, so we held cash and existing positions rather than forcing a buy.",
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "LRN",
+        "conviction": "medium",
+        "reasoning": "Strong multi-signal confirmation (RSI 60.7 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20) makes it the top candidate despite a neutral/slightly negative broader market."
+      }
+    ],
+    "skip_new_buys": false,
+    "briefing": "Markets were neutral to slightly negative today (NASDAQ -0.9%, S&P 500 -0.3%), not a strong risk-on setup, so we made one measured buy in our top-scoring candidate rather than fully deploying the open cash across all four available slots.",
     "market_education": {
-      "summary_en": "Major indices slipped modestly today, with the NASDAQ underperforming the S&P 500, reflecting a mild pullback in growth and tech-heavy names rather than any single catalyst. Trading volumes and momentum signals across the screened universe were unremarkable, consistent with a consolidation day after recent gains. No major scheduled data releases or earnings surprises appear to have driven the move.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5c0f\u5e45\u56de\u843d\uff0c\u7d0d\u6307\u8dcc\u5e450.7%\uff0c\u8dd1\u8f38\u6a19\u666e500\u76840.2%\u8dcc\u5e45\uff0c\u53cd\u6620\u79d1\u6280\u53ca\u6210\u9577\u80a1\u7565\u70ba\u964d\u6eab\uff0c\u800c\u975e\u53d7\u55ae\u4e00\u4e8b\u4ef6\u89f8\u767c\u3002\u7be9\u9078\u80a1\u7968\u6c60\u4e2d\u7684\u91cf\u80fd\u8207\u52d5\u80fd\u8a0a\u865f\u666e\u904d\u5e73\u6de1\uff0c\u7b26\u5408\u8fd1\u671f\u6f32\u52e2\u5f8c\u7684\u6574\u7406\u683c\u5c40\uff0c\u5e02\u5834\u4ea6\u672a\u898b\u91cd\u5927\u6578\u64da\u6216\u696d\u7e3e\u610f\u5916\u3002",
+      "summary_en": "Broader indices drifted lower today with NASDAQ down 0.9% and the S&P 500 down 0.3%, reflecting a generally cautious, directionless session rather than a sharp risk-off move. Despite the soft tape, several individual names like LRN, GT, and ARCB showed strong bullish technical setups, showing that stock-specific momentum can diverge from index-level weakness. This kind of environment calls for selective stock picking rather than broad market timing.",
+      "summary_zh": "\u5927\u76e4\u4eca\u65e5\u6574\u9ad4\u8d70\u5f31\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.9%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.3%\uff0c\u5c6c\u65bc\u65b9\u5411\u4e0d\u660e\u7684\u89c0\u671b\u683c\u5c40\uff0c\u800c\u975e\u6025\u901f\u7684\u98a8\u96aa\u898f\u907f\u8ce3\u58d3\u3002\u5118\u7ba1\u5927\u76e4\u75b2\u5f31\uff0c\u500b\u5225\u80a1\u7968\u5982LRN\u3001GT\u3001ARCB\u4ecd\u5c55\u73fe\u5f37\u52c1\u7684\u6280\u8853\u9762\u8cb7\u9032\u8a0a\u865f\uff0c\u986f\u793a\u500b\u80a1\u52d5\u80fd\u53ef\u4ee5\u8207\u5927\u76e4\u8d70\u52e2\u812b\u9264\u3002\u9019\u7a2e\u74b0\u5883\u66f4\u9069\u5408\u7cbe\u9078\u500b\u80a1\uff0c\u800c\u975e\u55ae\u7d14\u8ffd\u8e64\u5927\u76e4\u65b9\u5411\u9032\u5834\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "A risk-off day is when investors pull back from riskier assets like growth stocks amid uncertainty, even without a specific negative headline. The prudent response is patience \u2014 holding cash and existing positions rather than chasing weak setups, and waiting for clearer bullish confirmation before committing new capital.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u6307\u6295\u8cc7\u8005\u5728\u4e0d\u660e\u6717\u74b0\u5883\u4e0b\u6e1b\u5c11\u6301\u6709\u6210\u9577\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u5373\u4f7f\u6c92\u6709\u660e\u78ba\u7684\u8ca0\u9762\u6d88\u606f\u3002\u6b64\u6642\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u662f\u4fdd\u6301\u8010\u6027\uff0c\u6301\u6709\u73fe\u91d1\u53ca\u73fe\u6709\u5009\u4f4d\uff0c\u907f\u514d\u8ffd\u9010\u8a0a\u865f\u4e0d\u660e\u78ba\u7684\u80a1\u7968\uff0c\u5f85\u66f4\u6e05\u6670\u7684\u770b\u6f32\u78ba\u8a8d\u51fa\u73fe\u5f8c\u624d\u52a0\u78bc\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already showing upward price and indicator trends (like RSI in a healthy bullish range and MACD crossovers), betting that the trend continues in the near term. It works best when confirmed by multiple signals together, since any single indicator alone can give false signals.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u50f9\u683c\u8207\u6280\u8853\u6307\u6a19\u5df2\u7d93\u5448\u73fe\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff08\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u7684\u591a\u982d\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff09\uff0c\u8ced\u9019\u80a1\u8da8\u52e2\u6703\u5728\u77ed\u671f\u5167\u5ef6\u7e8c\u3002\u7576\u591a\u500b\u8a0a\u865f\u540c\u6642\u78ba\u8a8d\u6642\u6548\u679c\u6700\u597d\uff0c\u56e0\u70ba\u55ae\u4e00\u6307\u6a19\u5f88\u5bb9\u6613\u51fa\u73fe\u5047\u8a0a\u865f\u3002"
     }
   }
 }

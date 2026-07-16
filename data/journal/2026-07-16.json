@@ -1,17 +1,24 @@
 {
   "date": "2026-07-16",
-  "briefing": "Markets drifted lower today with NASDAQ -0.7% and S&P 500 -0.2% — a neutral, low-conviction session. None of the top-scoring candidates showed the full four-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge) used for high-conviction entries, so we held cash and existing positions rather than forcing a buy.",
+  "briefing": "Markets were neutral to slightly negative today (NASDAQ -0.9%, S&P 500 -0.3%), not a strong risk-on setup, so we made one measured buy in our top-scoring candidate rather than fully deploying the open cash across all four available slots.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A risk-off day is when investors pull back from riskier assets like growth stocks amid uncertainty, even without a specific negative headline. The prudent response is patience — holding cash and existing positions rather than chasing weak setups, and waiting for clearer bullish confirmation before committing new capital.",
-    "explanation_zh": "「風險規避」（Risk-Off）指投資者在不明朗環境下減少持有成長股等高風險資產，即使沒有明確的負面消息。此時較穩健的做法是保持耐性，持有現金及現有倉位，避免追逐訊號不明確的股票，待更清晰的看漲確認出現後才加碼。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing upward price and indicator trends (like RSI in a healthy bullish range and MACD crossovers), betting that the trend continues in the near term. It works best when confirmed by multiple signals together, since any single indicator alone can give false signals.",
+    "explanation_zh": "動能投資是指買入價格與技術指標已經呈現上升趨勢的股票（例如RSI處於健康的多頭區間、MACD出現黃金交叉），賭這股趨勢會在短期內延續。當多個訊號同時確認時效果最好，因為單一指標很容易出現假訊號。"
   },
   "market_education": {
-    "summary_en": "Major indices slipped modestly today, with the NASDAQ underperforming the S&P 500, reflecting a mild pullback in growth and tech-heavy names rather than any single catalyst. Trading volumes and momentum signals across the screened universe were unremarkable, consistent with a consolidation day after recent gains. No major scheduled data releases or earnings surprises appear to have driven the move.",
-    "summary_zh": "今日大盤小幅回落，納指跌幅0.7%，跑輸標普500的0.2%跌幅，反映科技及成長股略為降溫，而非受單一事件觸發。篩選股票池中的量能與動能訊號普遍平淡，符合近期漲勢後的整理格局，市場亦未見重大數據或業績意外。",
+    "summary_en": "Broader indices drifted lower today with NASDAQ down 0.9% and the S&P 500 down 0.3%, reflecting a generally cautious, directionless session rather than a sharp risk-off move. Despite the soft tape, several individual names like LRN, GT, and ARCB showed strong bullish technical setups, showing that stock-specific momentum can diverge from index-level weakness. This kind of environment calls for selective stock picking rather than broad market timing.",
+    "summary_zh": "大盤今日整體走弱，納斯達克指數下跌0.9%，標普500指數下跌0.3%，屬於方向不明的觀望格局，而非急速的風險規避賣壓。儘管大盤疲弱，個別股票如LRN、GT、ARCB仍展現強勁的技術面買進訊號，顯示個股動能可以與大盤走勢脫鉤。這種環境更適合精選個股，而非單純追蹤大盤方向進場。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "LRN",
+      "conviction": "medium",
+      "reasoning": "Strong multi-signal confirmation (RSI 60.7 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20) makes it the top candidate despite a neutral/slightly negative broader market."
+    }
+  ],
   "outcomes": {
     "total_value": 13455.735246181488,
     "cash": 777.1352210044861,
