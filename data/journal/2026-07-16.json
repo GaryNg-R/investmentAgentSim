@@ -1,14 +1,14 @@
 {
   "date": "2026-07-16",
-  "briefing": "Markets pulled back today with NASDAQ -1.4% and S&P 500 -0.6%, a risk-off session with no new candidates to consider. Holding all 6 existing positions unchanged and keeping cash on the sidelines rather than forcing a buy into weakness.",
+  "briefing": "Markets pulled back today with NASDAQ down 1.5% and the S&P 500 down 0.5%, a risk-off session with no qualifying candidates on the screener. We're holding all 6 existing positions and keeping the remaining cash in reserve rather than forcing new buys into weakness.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors pull back from higher-risk assets like growth and tech stocks and move toward safer holdings, often due to economic uncertainty or negative sentiment. On these days, it's usually better to hold steady and avoid chasing new positions rather than reacting emotionally to the dip.",
-    "explanation_zh": "「避險」日子是指投資者因經濟不確定或負面情緒，而減持增長股、科技股等高風險資產，轉向較安全的投資。在這類日子，通常較好的做法是持穩不動，避免因股價下跌而情緒化地追買新股份。"
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks in favor of safer holdings, often triggered by economic uncertainty or negative news. On these days, it's usually wiser to hold existing positions and avoid new purchases rather than trying to catch a falling market.",
+    "explanation_zh": "「風險趨避」（Risk-Off）是指投資人普遍拋售成長股等風險較高的資產，轉向較安全的持股，通常由經濟不確定性或負面消息所觸發。在這類交易日，明智的做法通常是持有現有部位、避免新增買入，而非嘗試在下跌市場中搶進。"
   },
   "market_education": {
-    "summary_en": "Broad indices fell today, led by a sharper NASDAQ decline of -1.4% versus -0.6% for the S&P 500, indicating growth and tech names underperformed more defensive sectors. Risk-off days like this typically reflect investors rotating out of higher-beta assets amid uncertainty. No stock-specific headlines are available today to explain the individual moves.",
-    "summary_zh": "今日大市普遍下跌，納斯達克指數跌幅較大，錄得-1.4%，標普500則跌-0.6%，反映增長及科技股表現遜於防守性板塊。此類避險日子通常顯示投資者在不確定因素下，將資金由高波動性資產轉移。今日暫無個股相關頭條新聞可解釋個別股份走勢。",
+    "summary_en": "Broad indices declined today, with the NASDAQ underperforming the S&P 500, suggesting growth and tech names bore the brunt of selling pressure. On risk-off days like this, momentum-based screeners typically surface few or no qualifying candidates since fewer stocks are showing bullish technical setups. Staying patient and preserving cash for a stronger setup is the more disciplined approach than chasing a down day.",
+    "summary_zh": "今日大盤下跌，納斯達克指數跌幅大於標普500，顯示科技股及成長股承受較大賣壓。在這類風險趨避的交易日，動能篩選機制通常難以找到符合條件的買入標的，因為呈現多頭技術形態的股票減少。與其在下跌日勉強進場，不如耐心持有現金，等待更明確的進場訊號。",
     "sources": []
   },
   "trades": [],
