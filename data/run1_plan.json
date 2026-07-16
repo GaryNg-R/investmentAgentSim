@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-07-15T21:01:48.382786+00:00",
+  "saved_at": "2026-07-16T13:00:59.801980+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "CBRE",
-        "conviction": "medium",
-        "reasoning": "Full multi-signal confirmation (MACD bullish crossover, RSI 57.8 in bullish zone, price above SMA-20, volume surge) shows institutional participation even though the broader market is only neutral today."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "NASDAQ +0.6% and S&P 500 +0.4% was a quiet, neutral session with no strong risk-on catalyst, so we held back from deploying broadly. We added one high-conviction single-stock pick, CBRE, which showed all four confirming signals at once, while leaving the rest of cash in reserve for a clearer risk-on setup. ROAD is trading roughly 9% below its average cost and is near the automatic stop-loss threshold.",
+    "briefing": "Markets were neutral today with NASDAQ +0.6% and S&P 500 +0.4% \u2014 no strong risk-on signal to justify deploying the remaining $777 cash. Per lessons from late June, holding through neutral days and waiting for a genuine multi-signal setup (MACD crossover + bullish RSI + volume surge + price above SMA-20) is the right cadence rather than forcing a buy just to fill open slots.",
     "market_education": {
-      "summary_en": "Major indices drifted modestly higher today with the NASDAQ up 0.6% and the S&P 500 up 0.4%, a pattern consistent with a quiet, directionless trading session rather than any single dominant headline. No major market-moving news was available in today's feed to point to a specific catalyst. Price action stayed broadly range-bound, with strength concentrated in a handful of individual names showing fresh volume and momentum signals rather than a market-wide rally.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c\u5411\u4e0a,\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f320.6%,\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.4%,\u5c6c\u65bc\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u7684\u6e05\u6de1\u4ea4\u6613\u65e5\u3002\u4eca\u65e5\u65b0\u805e\u4f86\u6e90\u4e2d\u4e26\u7121\u91cd\u5927\u5e02\u5834\u6d88\u606f\u53ef\u4f9b\u5f15\u7528\u3002\u50f9\u683c\u6ce2\u52d5\u6574\u9ad4\u7dad\u6301\u5340\u9593\u9707\u76ea,\u5347\u52e2\u4e3b\u8981\u96c6\u4e2d\u5728\u5c11\u6578\u500b\u80a1,\u9019\u4e9b\u500b\u80a1\u51fa\u73fe\u6210\u4ea4\u91cf\u653e\u5927\u53ca\u52d5\u80fd\u8f49\u5f37\u7684\u8a0a\u865f,\u800c\u975e\u5168\u9762\u6027\u7684\u666e\u6f32\u884c\u60c5\u3002",
+      "summary_en": "Both major indices posted modest gains today, with the NASDAQ up 0.6% and the S&P 500 up 0.4%, reflecting a broadly steady but unremarkable trading session without a clear catalyst.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u6eab\u548c\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53470.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53470.4%\uff0c\u53cd\u6620\u5e02\u5834\u6c23\u6c1b\u5e73\u7a69\uff0c\u66ab\u6642\u672a\u898b\u660e\u986f\u7684\u5229\u597d\u6216\u5229\u6de1\u6d88\u606f\u4e3b\u5c0e\u8d70\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Stop-Loss",
-      "explanation_en": "A stop-loss is a predetermined price level at which a losing position is automatically sold to limit further losses, in this portfolio's case set at -7% from the average purchase price. It removes emotion from the decision to cut a loser, since the sale happens automatically once the threshold is breached rather than waiting and hoping the stock recovers.",
-      "explanation_zh": "\u505c\u640d\u662f\u6307\u7576\u6301\u80a1\u8667\u640d\u9054\u5230\u9810\u5148\u8a2d\u5b9a\u7684\u50f9\u683c\u6c34\u5e73\u6642,\u81ea\u52d5\u8ce3\u51fa\u4ee5\u9650\u5236\u9032\u4e00\u6b65\u640d\u5931,\u672c\u6295\u8cc7\u7d44\u5408\u7684\u8a2d\u5b9a\u70ba\u5e73\u5747\u6210\u672c\u4e0b\u8dcc7%\u3002\u505c\u640d\u6a5f\u5236\u80fd\u5728\u89f8\u53ca\u9580\u6abb\u6642\u81ea\u52d5\u57f7\u884c\u8ce3\u51fa,\u907f\u514d\u6295\u8cc7\u4eba\u56e0\u60c5\u7dd2\u56e0\u7d20\u9072\u9072\u4e0d\u9858\u8a8d\u8ce0,\u4e00\u76f4\u671f\u5f85\u80a1\u50f9\u56de\u5347\u3002"
+      "term": "Patience / Selective Entry",
+      "explanation_en": "On a neutral day, the smartest move is often no move at all. Waiting for multiple confirming signals (trend, momentum, and volume all agreeing) before buying reduces the chance of chasing a weak or random price move.",
+      "explanation_zh": "\u5728\u5e02\u6cc1\u4e2d\u6027\u7684\u65e5\u5b50\uff0c\u6700\u8070\u660e\u7684\u505a\u6cd5\u5f80\u5f80\u662f\u6309\u5175\u4e0d\u52d5\u3002\u7b49\u5f85\u591a\u500b\u8a0a\u865f\uff08\u8da8\u52e2\u3001\u52d5\u80fd\u3001\u6210\u4ea4\u91cf\uff09\u540c\u6642\u78ba\u8a8d\u5f8c\u624d\u5165\u5e02\uff0c\u53ef\u4ee5\u6e1b\u4f4e\u8ffd\u9010\u865b\u5047\u6216\u96a8\u6a5f\u5347\u52e2\u7684\u98a8\u96aa\u3002"
     }
   }
 }

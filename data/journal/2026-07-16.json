@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-16",
+  "briefing": "Markets were neutral today with NASDAQ +0.6% and S&P 500 +0.4% — no strong risk-on signal to justify deploying the remaining $777 cash. Per lessons from late June, holding through neutral days and waiting for a genuine multi-signal setup (MACD crossover + bullish RSI + volume surge + price above SMA-20) is the right cadence rather than forcing a buy just to fill open slots.",
+  "daily_lesson": {
+    "term": "Patience / Selective Entry",
+    "explanation_en": "On a neutral day, the smartest move is often no move at all. Waiting for multiple confirming signals (trend, momentum, and volume all agreeing) before buying reduces the chance of chasing a weak or random price move.",
+    "explanation_zh": "在市況中性的日子，最聰明的做法往往是按兵不動。等待多個訊號（趨勢、動能、成交量）同時確認後才入市，可以減低追逐虛假或隨機升勢的風險。"
+  },
+  "market_education": {
+    "summary_en": "Both major indices posted modest gains today, with the NASDAQ up 0.6% and the S&P 500 up 0.4%, reflecting a broadly steady but unremarkable trading session without a clear catalyst.",
+    "summary_zh": "今日大市表現溫和，納斯達克指數上升0.6%，標普500指數上升0.4%，反映市場氣氛平穩，暫時未見明顯的利好或利淡消息主導走勢。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13455.735246181488,
+    "cash": 777.1352210044861,
+    "pnl_dollar": 3455.735246181488,
+    "pnl_pct": 34.55735246181489,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
