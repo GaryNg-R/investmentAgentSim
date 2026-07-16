@@ -1,14 +1,14 @@
 {
   "date": "2026-07-16",
-  "briefing": "Markets were mildly negative today with NASDAQ -0.6% and S&P 500 -0.1%, a neutral-to-soft session with no clear risk-on signal. Per strategy lessons, we're holding our $777 cash rather than forcing a buy into a lukewarm tape, and letting the 6 existing positions ride under their automatic stop-loss/profit-target rules.",
+  "briefing": "Markets drifted lower today with NASDAQ -0.7% and S&P 500 -0.2% — a neutral, low-conviction session. None of the top-scoring candidates showed the full four-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge) used for high-conviction entries, so we held cash and existing positions rather than forcing a buy.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors pull back from riskier bets (like growth stocks) in favor of caution, often without any single bad news event triggering it. On days like this, disciplined investors avoid chasing trades and instead hold cash, waiting for clearer signals before committing new capital.",
-    "explanation_zh": "「避險」（Risk-Off）是指投資人在缺乏明確利空消息的情況下，仍選擇減少對成長股等高風險資產的曝險，轉為保守觀望。在這樣的日子裡，有紀律的投資人會避免追高，選擇持有現金，等待更明確的訊號再進場。"
+    "explanation_en": "A risk-off day is when investors pull back from riskier assets like growth stocks amid uncertainty, even without a specific negative headline. The prudent response is patience — holding cash and existing positions rather than chasing weak setups, and waiting for clearer bullish confirmation before committing new capital.",
+    "explanation_zh": "「風險規避」（Risk-Off）指投資者在不明朗環境下減少持有成長股等高風險資產，即使沒有明確的負面消息。此時較穩健的做法是保持耐性，持有現金及現有倉位，避免追逐訊號不明確的股票，待更清晰的看漲確認出現後才加碼。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted slightly lower today without a single dominant catalyst, reflecting a quiet consolidation phase after recent gains. NASDAQ underperformed the S&P 500 slightly, suggesting mild profit-taking in growth names rather than a broad risk-off move. With no strong momentum signals confirmed by volume and multi-indicator alignment, conditions favored patience over new commitments.",
-    "summary_zh": "今日大盤指數普遍小幅下滑，未見單一明確的催化因素，反映近期升勢後的整理階段。納斯達克表現略遜於標普500指數，顯示成長股出現輕微獲利了結，而非全面性的避險拋售。由於缺乏成交量與多項技術指標共同確認的強勁動能訊號，目前情勢較適合按兵不動，而非貿然加碼。",
+    "summary_en": "Major indices slipped modestly today, with the NASDAQ underperforming the S&P 500, reflecting a mild pullback in growth and tech-heavy names rather than any single catalyst. Trading volumes and momentum signals across the screened universe were unremarkable, consistent with a consolidation day after recent gains. No major scheduled data releases or earnings surprises appear to have driven the move.",
+    "summary_zh": "今日大盤小幅回落，納指跌幅0.7%，跑輸標普500的0.2%跌幅，反映科技及成長股略為降溫，而非受單一事件觸發。篩選股票池中的量能與動能訊號普遍平淡，符合近期漲勢後的整理格局，市場亦未見重大數據或業績意外。",
     "sources": []
   },
   "trades": [],
