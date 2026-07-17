@@ -1,14 +1,14 @@
 {
   "date": "2026-07-17",
-  "briefing": "NASDAQ fell 1.5% and the S&P 500 fell 0.5% today, a clear risk-off session with no new stock candidates cleared by the screener. We're holding all 6 existing positions unchanged and keeping the $777 cash reserve on the sidelines rather than forcing a buy.",
+  "briefing": "Markets pulled back today with NASDAQ down 1.7% and the S&P 500 down 0.8%, a broad risk-off session. No new candidates cleared the screener under these conditions, so we held all six existing positions and kept cash on the sidelines rather than forcing a buy.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and tech shares, often moving money into safer holdings. It doesn't mean panic — it's a normal part of market cycles, and the right response is usually to hold quality positions rather than chase or sell in a hurry.",
-    "explanation_zh": "「風險規避」（Risk-Off）指投資者普遍拋售成長股、科技股等風險較高的資產，資金轉向較安全的選擇。這不代表市場恐慌，而是市場週期中常見的現象；正確做法通常是持有優質倉位，而非倉促追高或拋售。"
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, causing indexes like the NASDAQ to fall more than steadier ones. On these days, it's often better to sit tight with existing holdings and avoid adding new positions until conditions stabilize.",
+    "explanation_zh": "「避險」（Risk-Off）是指投資者普遍拋售成長股等風險性資產、轉向較安全資產的市況，因此像納指這類波動較大的指數跌幅會更明顯。在這種日子，通常較好的做法是持有現有部位觀望，暫緩加碼新倉，直到市況穩定。"
   },
   "market_education": {
-    "summary_en": "Markets pulled back broadly today, with tech-heavy NASDAQ underperforming the S&P 500, a pattern typical of risk-off sessions where investors rotate away from higher-beta growth names. No specific news catalysts were available in today's feed to pinpoint a single driver. Given the lack of confirming bullish signals, the screener correctly returned no qualified buy candidates.",
-    "summary_zh": "今日大市普遍回落，以科技股為主的納斯達克指數跌幅大於標普500指數，反映典型的「風險規避」（risk-off）格局，即資金從高波動的成長股撤出。今日新聞源未提供具體消息面驅動因素。由於缺乏確認性的看多訊號，篩選系統今日未有推薦任何新買入標的，屬合理結果。",
+    "summary_en": "Both the NASDAQ and S&P 500 fell today, with tech-heavy NASDAQ underperforming, a pattern typical of a risk-off session where investors rotate out of growth and momentum names into safer assets. Days like this often follow renewed concerns about interest rates, inflation data, or broader macroeconomic uncertainty weighing on investor sentiment. Without a specific confirmed catalyst reported today, the move looks like a general de-risking across equities rather than a reaction to a single company or sector event.",
+    "summary_zh": "今日納指與標普500指數同步下跌，納指跌幅較大，反映典型的「避險」情緒，即投資者從成長股與強勢股撤出，轉向較安全的資產。這類走勢通常與市場對利率、通脹數據或宏觀經濟不確定性的憂慮升溫有關。由於今日未見具體明確的觸發事件，此次回調較像是整體股市的風險收縮，而非單一公司或產業事件所致。",
     "sources": []
   },
   "trades": [],
