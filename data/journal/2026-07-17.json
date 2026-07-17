@@ -1,14 +1,14 @@
 {
   "date": "2026-07-17",
-  "briefing": "Markets pulled back today with NASDAQ -1.1% and S&P 500 -0.8%, putting us in risk-off mode with no new candidates to consider. We're holding all 6 existing positions unchanged and keeping cash in reserve rather than forcing trades into a weak tape.",
+  "briefing": "Markets pulled back today with NASDAQ down 1.2% and S&P 500 down 0.9%, a risk-off session with no qualifying candidates on the screener. We're holding all 6 existing positions and keeping the $777 cash reserve on the sidelines rather than forcing a buy into weakness.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, causing indices like the NASDAQ to fall more than the broader market. The right response is usually to hold existing positions and avoid chasing new trades until conditions stabilize.",
-    "explanation_zh": "「風險趨避」（Risk-Off）是指投資人普遍賣出成長股等風險較高的資產、轉向較安全的資產，導致納斯達克等指數跌幅大於大盤。正確的做法通常是持有現有部位，並在市況穩定之前避免追加新的交易。"
+    "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like growth stocks, causing indices like the NASDAQ to fall more than safer benchmarks. The smart move is often to avoid forcing new trades and instead protect what you already hold.",
+    "explanation_zh": "「Risk-Off」（避險）是指投資人普遍減少持有風險較高的資產（例如成長股），導致像納斯達克這類指數跌幅大於較穩健的指標。此時明智的做法通常是不勉強進行新交易，而是專注於保護現有的持倉。"
   },
   "market_education": {
-    "summary_en": "Broad indices declined today, with the NASDAQ underperforming the S&P 500, suggesting growth and tech names faced more selling pressure than the broader market. No specific headline data was available for today's session to pinpoint the exact catalyst. In risk-off conditions like this, it's common for previously high-flying sectors to see sharper pullbacks than defensive ones.",
-    "summary_zh": "今日大盤下跌，納斯達克指數跌幅（-1.1%）大於標普500指數（-0.8%），顯示成長股與科技股所承受的賣壓較大盤更為明顯。今日沒有具體新聞標題可供參考以確定確切的下跌原因。在這種風險趨避的市況下，先前漲幅較大的類股通常會出現更明顯的回檔。",
+    "summary_en": "Broad indices declined today, with the tech-heavy NASDAQ underperforming the S&P 500, a pattern typical of risk-off sessions where investors rotate out of higher-beta growth names. No stock-specific news was available to explain the move, suggesting it reflects a broader shift in risk appetite rather than a single catalyst. On days like this, sitting on cash and letting existing stop-losses and profit targets work automatically is generally safer than chasing new entries.",
+    "summary_zh": "今日大盤全面回落，科技股較多的納斯達克指數跌幅（-1.2%）大於標普500指數（-0.9%），呈現典型的「risk-off」（避險）格局，資金傾向撤出波動較大的成長股。目前並無具體個股消息可解釋此次下跌，顯示這較可能是市場整體風險偏好轉弱所致，而非單一事件驅動。在這種情況下，持有現金、讓既有的停損停利機制自動運作，通常比勉強進場更為穩健。",
     "sources": []
   },
   "trades": [],

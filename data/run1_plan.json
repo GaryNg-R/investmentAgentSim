@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-07-17T18:00:33.969548+00:00",
+  "saved_at": "2026-07-17T19:00:32.884254+00:00",
   "market_direction": "risk_off",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets pulled back today with NASDAQ -1.1% and S&P 500 -0.8%, putting us in risk-off mode with no new candidates to consider. We're holding all 6 existing positions unchanged and keeping cash in reserve rather than forcing trades into a weak tape.",
+    "briefing": "Markets pulled back today with NASDAQ down 1.2% and S&P 500 down 0.9%, a risk-off session with no qualifying candidates on the screener. We're holding all 6 existing positions and keeping the $777 cash reserve on the sidelines rather than forcing a buy into weakness.",
     "market_education": {
-      "summary_en": "Broad indices declined today, with the NASDAQ underperforming the S&P 500, suggesting growth and tech names faced more selling pressure than the broader market. No specific headline data was available for today's session to pinpoint the exact catalyst. In risk-off conditions like this, it's common for previously high-flying sectors to see sharper pullbacks than defensive ones.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u4e0b\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\uff08-1.1%\uff09\u5927\u65bc\u6a19\u666e500\u6307\u6578\uff08-0.8%\uff09\uff0c\u986f\u793a\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u6240\u627f\u53d7\u7684\u8ce3\u58d3\u8f03\u5927\u76e4\u66f4\u70ba\u660e\u986f\u3002\u4eca\u65e5\u6c92\u6709\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u53c3\u8003\u4ee5\u78ba\u5b9a\u78ba\u5207\u7684\u4e0b\u8dcc\u539f\u56e0\u3002\u5728\u9019\u7a2e\u98a8\u96aa\u8da8\u907f\u7684\u5e02\u6cc1\u4e0b\uff0c\u5148\u524d\u6f32\u5e45\u8f03\u5927\u7684\u985e\u80a1\u901a\u5e38\u6703\u51fa\u73fe\u66f4\u660e\u986f\u7684\u56de\u6a94\u3002",
+      "summary_en": "Broad indices declined today, with the tech-heavy NASDAQ underperforming the S&P 500, a pattern typical of risk-off sessions where investors rotate out of higher-beta growth names. No stock-specific news was available to explain the move, suggesting it reflects a broader shift in risk appetite rather than a single catalyst. On days like this, sitting on cash and letting existing stop-losses and profit targets work automatically is generally safer than chasing new entries.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5168\u9762\u56de\u843d\uff0c\u79d1\u6280\u80a1\u8f03\u591a\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\uff08-1.2%\uff09\u5927\u65bc\u6a19\u666e500\u6307\u6578\uff08-0.9%\uff09\uff0c\u5448\u73fe\u5178\u578b\u7684\u300crisk-off\u300d\uff08\u907f\u96aa\uff09\u683c\u5c40\uff0c\u8cc7\u91d1\u50be\u5411\u64a4\u51fa\u6ce2\u52d5\u8f03\u5927\u7684\u6210\u9577\u80a1\u3002\u76ee\u524d\u4e26\u7121\u5177\u9ad4\u500b\u80a1\u6d88\u606f\u53ef\u89e3\u91cb\u6b64\u6b21\u4e0b\u8dcc\uff0c\u986f\u793a\u9019\u8f03\u53ef\u80fd\u662f\u5e02\u5834\u6574\u9ad4\u98a8\u96aa\u504f\u597d\u8f49\u5f31\u6240\u81f4\uff0c\u800c\u975e\u55ae\u4e00\u4e8b\u4ef6\u9a45\u52d5\u3002\u5728\u9019\u7a2e\u60c5\u6cc1\u4e0b\uff0c\u6301\u6709\u73fe\u91d1\u3001\u8b93\u65e2\u6709\u7684\u505c\u640d\u505c\u5229\u6a5f\u5236\u81ea\u52d5\u904b\u4f5c\uff0c\u901a\u5e38\u6bd4\u52c9\u5f37\u9032\u5834\u66f4\u70ba\u7a69\u5065\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, causing indices like the NASDAQ to fall more than the broader market. The right response is usually to hold existing positions and avoid chasing new trades until conditions stabilize.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u8da8\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u4eba\u666e\u904d\u8ce3\u51fa\u6210\u9577\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\u3001\u8f49\u5411\u8f03\u5b89\u5168\u7684\u8cc7\u7522\uff0c\u5c0e\u81f4\u7d0d\u65af\u9054\u514b\u7b49\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u5927\u76e4\u3002\u6b63\u78ba\u7684\u505a\u6cd5\u901a\u5e38\u662f\u6301\u6709\u73fe\u6709\u90e8\u4f4d\uff0c\u4e26\u5728\u5e02\u6cc1\u7a69\u5b9a\u4e4b\u524d\u907f\u514d\u8ffd\u52a0\u65b0\u7684\u4ea4\u6613\u3002"
+      "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like growth stocks, causing indices like the NASDAQ to fall more than safer benchmarks. The smart move is often to avoid forcing new trades and instead protect what you already hold.",
+      "explanation_zh": "\u300cRisk-Off\u300d\uff08\u907f\u96aa\uff09\u662f\u6307\u6295\u8cc7\u4eba\u666e\u904d\u6e1b\u5c11\u6301\u6709\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff08\u4f8b\u5982\u6210\u9577\u80a1\uff09\uff0c\u5c0e\u81f4\u50cf\u7d0d\u65af\u9054\u514b\u9019\u985e\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u8f03\u7a69\u5065\u7684\u6307\u6a19\u3002\u6b64\u6642\u660e\u667a\u7684\u505a\u6cd5\u901a\u5e38\u662f\u4e0d\u52c9\u5f37\u9032\u884c\u65b0\u4ea4\u6613\uff0c\u800c\u662f\u5c08\u6ce8\u65bc\u4fdd\u8b77\u73fe\u6709\u7684\u6301\u5009\u3002"
     }
   }
 }
