@@ -1,14 +1,14 @@
 {
   "date": "2026-07-17",
-  "briefing": "Markets sold off broadly today with NASDAQ down 1.4% and the S&P 500 down 1.0%, putting conditions in risk-off territory. No candidates cleared the screen, so we're holding all six existing positions and keeping the $777 cash reserve on the sidelines rather than forcing a buy.",
+  "briefing": "Markets sold off broadly today with NASDAQ down 1.4% and the S&P 500 down 1.0%, putting conditions in risk-off territory. No new candidates were screened, so we're holding all 6 existing positions and sitting on cash rather than forcing a buy.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, often causing indices like the NASDAQ to fall more than the S&P 500. The correct response isn't to panic-sell your holdings or panic-buy dips, but to hold steady and let your existing rules (stop-losses, profit targets) do their job.",
-    "explanation_zh": "「risk-off」(風險規避)是指投資者普遍拋售成長股等高風險資產,轉向較安全的資產,這通常令納斯達克指數跌幅大於標普500指數。正確做法不是恐慌性拋售持股,也不是趁低吸納,而是保持不動,讓既定的停損及獲利了結機制自動運作。"
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like stocks and move toward safer holdings, causing indices like the NASDAQ and S&P 500 to fall together. The right response isn't to panic-sell your existing holdings, but to pause new buying and let your stop-losses and profit targets manage risk automatically.",
+    "explanation_zh": "「避險」（Risk-Off）日子是指投資者普遍拋售股票等高風險資產，轉投更安全的資產，導致納指及標普500等指數同步下跌。正確做法並非恐慌性拋售現有持股，而是暫停新增買入，讓止蝕位及獲利了結機制自動管理風險。"
   },
   "market_education": {
-    "summary_en": "Both major indices fell today, with the NASDAQ underperforming the S&P 500, suggesting growth and tech names bore the brunt of the selling. Broad-based declines like this often reflect shifting risk sentiment rather than any single company-specific event. Without confirmed headline sources for today, the safest read is that investors rotated away from risk assets across the board.",
-    "summary_zh": "今日大市普遍下跌,納斯達克指數跌幅大於標普500指數,顯示成長股及科技股承受較大賣壓。這種全面性下跌通常反映市場風險胃納轉弱,而非單一公司事件所致。由於今日未有確認的新聞來源,較穩妥的解讀是投資者今日整體撤離風險資產。",
+    "summary_en": "Broad-based selling hit both the NASDAQ and S&P 500 today, with tech-heavy growth names leading declines as investors rotated away from risk assets. Moves of this size across both major indices typically reflect a shift in sentiment around interest rate expectations, inflation data, or corporate earnings concerns rather than a single isolated event. Without a specific catalyst confirmed in verified reporting, the safest read is a broad risk-off day rather than a stock-specific issue.",
+    "summary_zh": "今日大市普遍下跌，納指及標普500指數同步走弱，科技股領跌，反映資金從高風險資產撤離。當兩大指數同步出現此等跌幅時，通常與市場對利率預期、通脹數據或企業盈利前景的憂慮有關，而非單一事件觸發。由於暫未有確實可核實的消息來源指出具體導火線，較合理的解讀是今日屬於整體避險情緒升溫，而非個別股份的問題。",
     "sources": []
   },
   "trades": [],
