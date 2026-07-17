@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-17",
+  "briefing": "NASDAQ fell 1.5% and the S&P 500 fell 0.5% today, a clear risk-off session with no new stock candidates cleared by the screener. We're holding all 6 existing positions unchanged and keeping the $777 cash reserve on the sidelines rather than forcing a buy.",
+  "daily_lesson": {
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and tech shares, often moving money into safer holdings. It doesn't mean panic — it's a normal part of market cycles, and the right response is usually to hold quality positions rather than chase or sell in a hurry.",
+    "explanation_zh": "「風險規避」（Risk-Off）指投資者普遍拋售成長股、科技股等風險較高的資產，資金轉向較安全的選擇。這不代表市場恐慌，而是市場週期中常見的現象；正確做法通常是持有優質倉位，而非倉促追高或拋售。"
+  },
+  "market_education": {
+    "summary_en": "Markets pulled back broadly today, with tech-heavy NASDAQ underperforming the S&P 500, a pattern typical of risk-off sessions where investors rotate away from higher-beta growth names. No specific news catalysts were available in today's feed to pinpoint a single driver. Given the lack of confirming bullish signals, the screener correctly returned no qualified buy candidates.",
+    "summary_zh": "今日大市普遍回落，以科技股為主的納斯達克指數跌幅大於標普500指數，反映典型的「風險規避」（risk-off）格局，即資金從高波動的成長股撤出。今日新聞源未提供具體消息面驅動因素。由於缺乏確認性的看多訊號，篩選系統今日未有推薦任何新買入標的，屬合理結果。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13455.735246181488,
+    "cash": 777.1352210044861,
+    "pnl_dollar": 3455.735246181488,
+    "pnl_pct": 34.55735246181489,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}

@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-07-16T21:00:27.552094+00:00",
+  "saved_at": "2026-07-17T13:00:35.732683+00:00",
   "market_direction": "risk_off",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets were risk-off today with NASDAQ down 1.5% and S&P 500 down 0.5%, so no new candidates were screened. Holding all 6 existing positions and keeping the $777.14 cash in reserve until a genuine risk-on setup appears.",
+    "briefing": "NASDAQ fell 1.5% and the S&P 500 fell 0.5% today, a clear risk-off session with no new stock candidates cleared by the screener. We're holding all 6 existing positions unchanged and keeping the $777 cash reserve on the sidelines rather than forcing a buy.",
     "market_education": {
-      "summary_en": "Broad market weakness today pulled both major indices lower, with tech-heavy NASDAQ underperforming the S&P 500, consistent with a risk-off rotation out of growth names. No specific catalyst headlines were provided in today's screening data. In risk-off conditions like this, staying disciplined and avoiding forced trades is usually more valuable than chasing action.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u504f\u5f31\uff0c\u79d1\u6280\u80a1\u4e3b\u5c0e\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u8cc7\u91d1\u6b63\u5f9e\u589e\u9577\u80a1\u64a4\u51fa\uff0c\u5448\u73fe\u907f\u96aa\u60c5\u7dd2\u3002\u4eca\u65e5\u7be9\u9078\u8cc7\u6599\u4e2d\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u3002\u5728\u9019\u7a2e\u907f\u96aa\u5e02\u6cc1\u4e0b\uff0c\u4fdd\u6301\u7d00\u5f8b\u3001\u907f\u514d\u5f37\u884c\u4ea4\u6613\uff0c\u901a\u5e38\u6bd4\u76f2\u76ee\u9032\u5834\u66f4\u70ba\u91cd\u8981\u3002",
+      "summary_en": "Markets pulled back broadly today, with tech-heavy NASDAQ underperforming the S&P 500, a pattern typical of risk-off sessions where investors rotate away from higher-beta growth names. No specific news catalysts were available in today's feed to pinpoint a single driver. Given the lack of confirming bullish signals, the screener correctly returned no qualified buy candidates.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u56de\u843d\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5178\u578b\u7684\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08risk-off\uff09\u683c\u5c40\uff0c\u5373\u8cc7\u91d1\u5f9e\u9ad8\u6ce2\u52d5\u7684\u6210\u9577\u80a1\u64a4\u51fa\u3002\u4eca\u65e5\u65b0\u805e\u6e90\u672a\u63d0\u4f9b\u5177\u9ad4\u6d88\u606f\u9762\u9a45\u52d5\u56e0\u7d20\u3002\u7531\u65bc\u7f3a\u4e4f\u78ba\u8a8d\u6027\u7684\u770b\u591a\u8a0a\u865f\uff0c\u7be9\u9078\u7cfb\u7d71\u4eca\u65e5\u672a\u6709\u63a8\u85a6\u4efb\u4f55\u65b0\u8cb7\u5165\u6a19\u7684\uff0c\u5c6c\u5408\u7406\u7d50\u679c\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors sell riskier assets like growth stocks and move toward safety, causing broad declines like today's NASDAQ and S&P 500 drop. The smart move on these days is often to hold steady rather than chase new trades, since volatility tends to punish impulsive entries.",
-      "explanation_zh": "\u300c\u907f\u96aa\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u62cb\u552e\u589e\u9577\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff0c\u8f49\u5411\u8f03\u5b89\u5168\u7684\u9078\u64c7\uff0c\u5c0e\u81f4\u50cf\u4eca\u5929\u7d0d\u65af\u9054\u514b\u548c\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0b\u8dcc\u7684\u60c5\u6cc1\u3002\u5728\u9019\u7a2e\u65e5\u5b50\uff0c\u6bd4\u8f03\u7a69\u59a5\u7684\u505a\u6cd5\u901a\u5e38\u662f\u6301\u80a1\u89c0\u671b\uff0c\u800c\u975e\u8ffd\u9010\u65b0\u7684\u4ea4\u6613\uff0c\u56e0\u70ba\u5e02\u6cc1\u6ce2\u52d5\u6642\u885d\u52d5\u9032\u5834\u5bb9\u6613\u5403\u8667\u3002"
+      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and tech shares, often moving money into safer holdings. It doesn't mean panic \u2014 it's a normal part of market cycles, and the right response is usually to hold quality positions rather than chase or sell in a hurry.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u6307\u6295\u8cc7\u8005\u666e\u904d\u62cb\u552e\u6210\u9577\u80a1\u3001\u79d1\u6280\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff0c\u8cc7\u91d1\u8f49\u5411\u8f03\u5b89\u5168\u7684\u9078\u64c7\u3002\u9019\u4e0d\u4ee3\u8868\u5e02\u5834\u6050\u614c\uff0c\u800c\u662f\u5e02\u5834\u9031\u671f\u4e2d\u5e38\u898b\u7684\u73fe\u8c61\uff1b\u6b63\u78ba\u505a\u6cd5\u901a\u5e38\u662f\u6301\u6709\u512a\u8cea\u5009\u4f4d\uff0c\u800c\u975e\u5009\u4fc3\u8ffd\u9ad8\u6216\u62cb\u552e\u3002"
     }
   }
 }
