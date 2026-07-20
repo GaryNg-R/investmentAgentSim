@@ -1,22 +1,22 @@
 {
   "date": "2026-07-20",
-  "briefing": "Markets were mildly positive today (NASDAQ +0.8%, S&P +0.4%) but not a strong risk-on signal, so I made one measured medium-conviction buy in NU to use some of the $877 cash on hand rather than forcing a full deployment. Existing positions were held unchanged since neutral days should let profit targets and stop-losses do the work.",
+  "briefing": "Markets were neutral today with NASDAQ +0.5% and S&P 500 +0.2%. With cash above the $500 threshold and 4 open slots, we made one measured buy in IREN, a top-scoring momentum candidate, while continuing to hold our six existing positions and letting stop-loss/profit-target rules manage them automatically.",
   "daily_lesson": {
-    "term": "Position Sizing",
-    "explanation_en": "Position sizing means deciding how much money to put into a single trade based on your conviction and the market environment, not just whether you have cash available. On a neutral day like today, sizing a new buy smaller than usual balances the risk rule of deploying idle cash against the discipline of not overcommitting without a clear risk-on signal.",
-    "explanation_zh": "部位規模（Position Sizing）是指根據信心程度與市場環境，決定投入單一交易的資金多寡，而不是單純因為手上有現金就滿倉買入。像今天這種中性市場，將新買入的部位規模控制得比平常小，可以在「善用閒置現金」與「沒有明確風險偏好訊號時不過度加碼」之間取得平衡。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that stocks moving strongly in one direction tend to keep moving that way for a while. Today's buy decision was based on multiple bullish signals — RSI in a healthy range, a MACD crossover, and price above its moving average — all pointing the same direction.",
+    "explanation_zh": "動量投資是指買入正處於上升趨勢的股票，理念是股價強勢上升的股票，短期內往往會延續同一方向。今日的買入決定正是基於多項看漲訊號——RSI處於健康區間、MACD出現黃金交叉，以及股價高於移動平均線——三者方向一致。"
   },
   "market_education": {
-    "summary_en": "Both major indices closed modestly higher today, with the Nasdaq slightly outpacing the S&P 500, consistent with a broadly neutral-to-mildly-positive session rather than a decisive risk-on move. No standout catalyst was evident in the screened data, suggesting the gains reflect general market drift rather than a specific news event. Given the lack of a strong signal, position sizing stayed conservative today.",
-    "summary_zh": "今日兩大指數皆溫和收高，納指升幅略優於標普500，屬於中性偏多的走勢，而非明確的風險偏好轉強訊號。從篩選數據中未見特別突出的催化因素，顯示今日漲幅較可能反映大盤整體的自然波動，而非單一新聞事件所致。由於缺乏強烈訊號，今日的加碼規模維持保守。",
+    "summary_en": "Both major indices closed modestly higher today, with NASDAQ outperforming the S&P 500, suggesting mild risk appetite without a strong directional catalyst. No major market-moving headlines stood out in today's session. Trading stayed within a narrow range typical of a consolidation day after recent volatility.",
+    "summary_zh": "今日大盤溫和上揚，納指升0.5%，標普500升0.2%，反映市場風險胃納略為回升，惟未見明顯主導消息。今日盤中波幅收窄，屬近期波動後的整固格局。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NU",
+      "ticker": "IREN",
       "conviction": "medium",
-      "reasoning": "RSI 61 in bullish zone with MACD crossover and price above SMA-20, and it diversifies the portfolio into fintech away from the crypto-miner cluster dominating the candidate list."
+      "reasoning": "Top-scored candidate (95) with RSI 63.3 in the bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, offering diversification into AI/data-center infrastructure."
     }
   ],
   "outcomes": {

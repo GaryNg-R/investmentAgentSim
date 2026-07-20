@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-07-20T16:01:38.750302+00:00",
+  "saved_at": "2026-07-20T17:01:20.916071+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NU",
+        "ticker": "IREN",
         "conviction": "medium",
-        "reasoning": "RSI 61 in bullish zone with MACD crossover and price above SMA-20, and it diversifies the portfolio into fintech away from the crypto-miner cluster dominating the candidate list."
+        "reasoning": "Top-scored candidate (95) with RSI 63.3 in the bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, offering diversification into AI/data-center infrastructure."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were mildly positive today (NASDAQ +0.8%, S&P +0.4%) but not a strong risk-on signal, so I made one measured medium-conviction buy in NU to use some of the $877 cash on hand rather than forcing a full deployment. Existing positions were held unchanged since neutral days should let profit targets and stop-losses do the work.",
+    "briefing": "Markets were neutral today with NASDAQ +0.5% and S&P 500 +0.2%. With cash above the $500 threshold and 4 open slots, we made one measured buy in IREN, a top-scoring momentum candidate, while continuing to hold our six existing positions and letting stop-loss/profit-target rules manage them automatically.",
     "market_education": {
-      "summary_en": "Both major indices closed modestly higher today, with the Nasdaq slightly outpacing the S&P 500, consistent with a broadly neutral-to-mildly-positive session rather than a decisive risk-on move. No standout catalyst was evident in the screened data, suggesting the gains reflect general market drift rather than a specific news event. Given the lack of a strong signal, position sizing stayed conservative today.",
-      "summary_zh": "\u4eca\u65e5\u5169\u5927\u6307\u6578\u7686\u6eab\u548c\u6536\u9ad8\uff0c\u7d0d\u6307\u5347\u5e45\u7565\u512a\u65bc\u6a19\u666e500\uff0c\u5c6c\u65bc\u4e2d\u6027\u504f\u591a\u7684\u8d70\u52e2\uff0c\u800c\u975e\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u8f49\u5f37\u8a0a\u865f\u3002\u5f9e\u7be9\u9078\u6578\u64da\u4e2d\u672a\u898b\u7279\u5225\u7a81\u51fa\u7684\u50ac\u5316\u56e0\u7d20\uff0c\u986f\u793a\u4eca\u65e5\u6f32\u5e45\u8f03\u53ef\u80fd\u53cd\u6620\u5927\u76e4\u6574\u9ad4\u7684\u81ea\u7136\u6ce2\u52d5\uff0c\u800c\u975e\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u6240\u81f4\u3002\u7531\u65bc\u7f3a\u4e4f\u5f37\u70c8\u8a0a\u865f\uff0c\u4eca\u65e5\u7684\u52a0\u78bc\u898f\u6a21\u7dad\u6301\u4fdd\u5b88\u3002",
+      "summary_en": "Both major indices closed modestly higher today, with NASDAQ outperforming the S&P 500, suggesting mild risk appetite without a strong directional catalyst. No major market-moving headlines stood out in today's session. Trading stayed within a narrow range typical of a consolidation day after recent volatility.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u6307\u53470.5%\uff0c\u6a19\u666e500\u53470.2%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u7565\u70ba\u56de\u5347\uff0c\u60df\u672a\u898b\u660e\u986f\u4e3b\u5c0e\u6d88\u606f\u3002\u4eca\u65e5\u76e4\u4e2d\u6ce2\u5e45\u6536\u7a84\uff0c\u5c6c\u8fd1\u671f\u6ce2\u52d5\u5f8c\u7684\u6574\u56fa\u683c\u5c40\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Position Sizing",
-      "explanation_en": "Position sizing means deciding how much money to put into a single trade based on your conviction and the market environment, not just whether you have cash available. On a neutral day like today, sizing a new buy smaller than usual balances the risk rule of deploying idle cash against the discipline of not overcommitting without a clear risk-on signal.",
-      "explanation_zh": "\u90e8\u4f4d\u898f\u6a21\uff08Position Sizing\uff09\u662f\u6307\u6839\u64da\u4fe1\u5fc3\u7a0b\u5ea6\u8207\u5e02\u5834\u74b0\u5883\uff0c\u6c7a\u5b9a\u6295\u5165\u55ae\u4e00\u4ea4\u6613\u7684\u8cc7\u91d1\u591a\u5be1\uff0c\u800c\u4e0d\u662f\u55ae\u7d14\u56e0\u70ba\u624b\u4e0a\u6709\u73fe\u91d1\u5c31\u6eff\u5009\u8cb7\u5165\u3002\u50cf\u4eca\u5929\u9019\u7a2e\u4e2d\u6027\u5e02\u5834\uff0c\u5c07\u65b0\u8cb7\u5165\u7684\u90e8\u4f4d\u898f\u6a21\u63a7\u5236\u5f97\u6bd4\u5e73\u5e38\u5c0f\uff0c\u53ef\u4ee5\u5728\u300c\u5584\u7528\u9592\u7f6e\u73fe\u91d1\u300d\u8207\u300c\u6c92\u6709\u660e\u78ba\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u6642\u4e0d\u904e\u5ea6\u52a0\u78bc\u300d\u4e4b\u9593\u53d6\u5f97\u5e73\u8861\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that stocks moving strongly in one direction tend to keep moving that way for a while. Today's buy decision was based on multiple bullish signals \u2014 RSI in a healthy range, a MACD crossover, and price above its moving average \u2014 all pointing the same direction.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u6b63\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u7406\u5ff5\u662f\u80a1\u50f9\u5f37\u52e2\u4e0a\u5347\u7684\u80a1\u7968\uff0c\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u540c\u4e00\u65b9\u5411\u3002\u4eca\u65e5\u7684\u8cb7\u5165\u6c7a\u5b9a\u6b63\u662f\u57fa\u65bc\u591a\u9805\u770b\u6f32\u8a0a\u865f\u2014\u2014RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff0c\u4ee5\u53ca\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\u2014\u2014\u4e09\u8005\u65b9\u5411\u4e00\u81f4\u3002"
     }
   }
 }
