@@ -1,14 +1,14 @@
 {
   "date": "2026-07-20",
-  "briefing": "Markets were mildly positive today (NASDAQ +0.5%, S&P 500 +0.2%) but this isn't the strong risk-on signal (NASDAQ +2%+) that past experience shows is worth deploying fresh cash into. Several screened tickers show strong RSI/MACD/SMA signals but lack the volume-surge confirmation needed for high-conviction entries, so we're holding all 6 existing positions and keeping $877.14 in reserve for a clearer setup.",
+  "briefing": "Markets were flat and mixed today (NASDAQ +0.2%, S&P 500 -0.1%), with no clear risk-on signal. Despite having $877 in cash and 4 open slots, none of today's top candidates showed the volume-confirmed, multi-signal setup our strategy requires, so we held cash and let existing positions ride.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Price and indicator signals like RSI or MACD crossovers are more reliable when accompanied by a surge in trading volume, since higher volume shows real institutional participation rather than a random price blip. Today's top candidates show bullish RSI and MACD patterns but no confirmed volume surge, so a cautious trader waits rather than chasing the signal alone. This patience helps avoid entries that fizzle out on thin conviction.",
-    "explanation_zh": "價格及技術指標(如RSI或MACD黃金交叉)訊號,若伴隨成交量明顯放大,可信度會更高,因為量增反映真正的機構資金參與,而非偶然的價格波動。今日多隻候選股雖呈現RSI及MACD偏多訊號,但未見成交量明顯放大確認,故審慎的交易者會選擇觀望,而非單憑訊號貿然進場。這種耐性有助避免因訊心不足而失敗的交易。"
+    "term": "Patience",
+    "explanation_en": "Patience means resisting the urge to trade just because cash or open slots are available. Even when several stocks look technically promising, a disciplined investor waits for strong, multi-signal confirmation (like a volume surge alongside momentum indicators) before committing capital, rather than forcing a trade on a lukewarm day.",
+    "explanation_zh": "耐心是指不因為手上有現金或空餘倉位就勉強進場交易。即使有幾檔股票技術面看似不錯,有紀律的投資者仍會等待多重訊號確認(例如成交量激增配合動能指標),才願意投入資金,而不是在市況平淡時勉強出手。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted small gains today, with the NASDAQ slightly outpacing the S&P 500, suggesting mild risk appetite without a clear catalyst driving the move. This kind of low-conviction, broad-based drift is common on days without major economic data or earnings surprises. Without a decisive move, momentum traders typically wait for stronger confirmation before committing new capital.",
-    "summary_zh": "今日兩大指數皆錄得小幅升幅,納指升幅略高於標普500指數,顯示市場風險偏好溫和,惟未見明顯催化因素帶動。此類缺乏重大經濟數據或業績驚喜的橫行走勢頗為常見。在方向未明朗之前,動能交易者通常會等待更強確認訊號才願意投入新資金。",
+    "summary_en": "Major indices traded in a narrow range today, with the NASDAQ inching up 0.2% while the S&P 500 slipped 0.1%, reflecting a lack of strong directional conviction among investors. Momentum names in mining, crypto-adjacent, and small-cap growth sectors showed technical strength, but broader market breadth stayed muted. Without a clear catalyst, traders appeared to be in a wait-and-see posture heading into the next batch of economic data.",
+    "summary_zh": "今日大盤走勢窄幅震盪,納指微升0.2%,標普500則小跌0.1%,反映投資人缺乏明確方向。礦業、加密貨幣相關及小型成長股的技術面表現較強,但大盤整體參與度仍然有限。在缺乏明確催化劑的情況下,市場似乎正靜待下一批經濟數據公布。",
     "sources": []
   },
   "trades": [],
