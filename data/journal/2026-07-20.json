@@ -1,17 +1,24 @@
 {
   "date": "2026-07-20",
-  "briefing": "Markets were mildly positive today (NASDAQ +0.5%, S&P 500 +0.3%) but this doesn't rise to the risk-on threshold (NASDAQ +2%+) that past lessons say should trigger deploying remaining cash. With $877.14 in cash and 4 open slots, we're holding rather than forcing a buy into a merely neutral tape — waiting for a genuine risk-on setup with multi-signal confirmation (MACD crossover, RSI 55-70, price above SMA-20, and volume surge together) before committing fresh capital.",
+  "briefing": "Markets were flat today (NASDAQ +0.3%, S&P500 +0.1%), a neutral session with no broad risk-on signal. AGX stood out from the screener with full multi-signal confirmation including a volume surge, so we added a single high-conviction position while leaving the rest of our open cash on the sidelines.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash kept in reserve rather than fully invested, so you have the flexibility to act decisively when a strong opportunity appears. Holding cash on a quiet, neutral day isn't wasted capital — it's positioning yourself to deploy quickly when signals actually line up.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留現金而非全數投入市場,以便在真正出現良好機會時能迅速把握。在平靜、方向不明的交易日持有現金並非浪費資本，而是為日後訊號明確時做好準備。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading volume, which suggests real institutional buying rather than a random blip. A stock rising on strong volume alongside other bullish signals (like MACD and RSI) is a much stronger buy signal than the same price move on light volume.",
+    "explanation_zh": "「成交量確認」是指價格變動伴隨著高於平常的成交量，顯示是真正的機構買盤，而非隨機波動。當股票在放量的同時，配合其他利好訊號（如MACD和RSI）一同上升，這比在淡靜成交量下的相同升幅更具參考價值，是更強的買入訊號。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted modest gains today, with the NASDAQ up 0.5% and the S&P 500 up 0.3%, reflecting a calm, directionless session rather than a strong trend in either direction. There's no major catalyst driving today's move — it looks like routine trading activity rather than a reaction to a specific headline. Days like this are typically best spent holding existing positions rather than chasing marginal gains.",
-    "summary_zh": "今日大市表現溫和向上，納斯達克指數升0.5%，標普500指數升0.3%，市況相對平靜，未見明顯單邊走勢。今日未見有重大消息或事件推動大市，較似是日常交投而非對特定新聞的反應。此類日子一般以持貨觀望為佳，毋須追高買入。",
+    "summary_en": "Major indices were essentially flat today, with the NASDAQ up 0.3% and the S&P 500 up 0.1%, reflecting a lack of strong directional catalysts in the session. Without major economic data or earnings surprises driving broad moves, trading stayed range-bound and stock-specific signals mattered more than macro themes. This kind of quiet, low-volatility day is common between major news events.",
+    "summary_zh": "今日大市走勢平穩，納斯達克指數升0.3%，標普500指數升0.1%，反映市場缺乏強烈的方向性催化劑。由於沒有重大經濟數據或業績意外帶動大市，交投在區間內徘徊，個股訊號比宏觀主題更具參考價值。這種波動較低的平靜交易日在重大消息公佈之間頗為常見。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "AGX",
+      "conviction": "high",
+      "reasoning": "Only candidate with all four confirming signals (RSI bullish zone, MACD bullish crossover, rising histogram, volume surge) plus top momentum score of 100, meeting the high-conviction bar even on an otherwise neutral market day."
+    }
+  ],
   "outcomes": {
     "total_value": 13555.735246181488,
     "cash": 877.1352210044861,
