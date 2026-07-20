@@ -1,14 +1,14 @@
 {
   "date": "2026-07-20",
-  "briefing": "Markets pulled back today with NASDAQ down 1.4% and the S&P 500 down 1.0%, putting conditions in risk-off territory. No candidates were screened for new buys, and per strategy, existing positions are held through this low-conviction day rather than sold on broad market weakness.",
+  "briefing": "Markets were mildly positive today (NASDAQ +0.5%, S&P 500 +0.3%) but this doesn't rise to the risk-on threshold (NASDAQ +2%+) that past lessons say should trigger deploying remaining cash. With $877.14 in cash and 4 open slots, we're holding rather than forcing a buy into a merely neutral tape — waiting for a genuine risk-on setup with multi-signal confirmation (MACD crossover, RSI 55-70, price above SMA-20, and volume surge together) before committing fresh capital.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "\"Risk-off\" describes a market mood where investors sell riskier assets like growth stocks and move toward safer holdings or cash, often triggered by uncertainty about the economy or upcoming events. On risk-off days, it's usually wiser to hold existing positions and wait rather than chase new trades, since broad declines aren't necessarily tied to any one stock's fundamentals.",
-    "explanation_zh": "「風險趨避」（Risk-off）是指投資人因對經濟前景或即將發生的事件感到不確定，而拋售成長股等高風險資產、轉向較安全的資產或現金的市場氛圍。在風險趨避的日子裡，通常較明智的做法是持有現有部位並耐心等待，而非追逐新交易，因為大盤普遍下跌未必與個別股票的基本面有關。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash kept in reserve rather than fully invested, so you have the flexibility to act decisively when a strong opportunity appears. Holding cash on a quiet, neutral day isn't wasted capital — it's positioning yourself to deploy quickly when signals actually line up.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留現金而非全數投入市場,以便在真正出現良好機會時能迅速把握。在平靜、方向不明的交易日持有現金並非浪費資本，而是為日後訊號明確時做好準備。"
   },
   "market_education": {
-    "summary_en": "Broad-based selling pushed both the NASDAQ and S&P 500 lower today, with tech-heavy NASDAQ underperforming as investors rotated away from risk assets. Days like this often reflect profit-taking or caution ahead of upcoming economic data or earnings rather than company-specific news. Without confirmed headlines to cite, the move looks like a general risk-off shift across the market rather than a single catalyst.",
-    "summary_zh": "今日大盤普遍走弱，那斯達克指數下跌1.4%，標普500指數下跌1.0%，科技股表現尤其疲弱，反映投資人資金從風險資產撤出。這類走勢往往源於獲利了結或對即將公布的經濟數據、財報保持觀望，而非單一公司的特定消息。由於缺乏明確新聞headline可供引用，此次下跌看來是市場整體風險偏好轉弱所致。",
+    "summary_en": "Both major indices posted modest gains today, with the NASDAQ up 0.5% and the S&P 500 up 0.3%, reflecting a calm, directionless session rather than a strong trend in either direction. There's no major catalyst driving today's move — it looks like routine trading activity rather than a reaction to a specific headline. Days like this are typically best spent holding existing positions rather than chasing marginal gains.",
+    "summary_zh": "今日大市表現溫和向上，納斯達克指數升0.5%，標普500指數升0.3%，市況相對平靜，未見明顯單邊走勢。今日未見有重大消息或事件推動大市，較似是日常交投而非對特定新聞的反應。此類日子一般以持貨觀望為佳，毋須追高買入。",
     "sources": []
   },
   "trades": [],

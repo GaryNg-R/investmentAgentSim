@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-07-20T13:00:39.110061+00:00",
-  "market_direction": "risk_off",
+  "saved_at": "2026-07-20T14:01:16.805514+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets pulled back today with NASDAQ down 1.4% and the S&P 500 down 1.0%, putting conditions in risk-off territory. No candidates were screened for new buys, and per strategy, existing positions are held through this low-conviction day rather than sold on broad market weakness.",
+    "skip_new_buys": false,
+    "briefing": "Markets were mildly positive today (NASDAQ +0.5%, S&P 500 +0.3%) but this doesn't rise to the risk-on threshold (NASDAQ +2%+) that past lessons say should trigger deploying remaining cash. With $877.14 in cash and 4 open slots, we're holding rather than forcing a buy into a merely neutral tape \u2014 waiting for a genuine risk-on setup with multi-signal confirmation (MACD crossover, RSI 55-70, price above SMA-20, and volume surge together) before committing fresh capital.",
     "market_education": {
-      "summary_en": "Broad-based selling pushed both the NASDAQ and S&P 500 lower today, with tech-heavy NASDAQ underperforming as investors rotated away from risk assets. Days like this often reflect profit-taking or caution ahead of upcoming economic data or earnings rather than company-specific news. Without confirmed headlines to cite, the move looks like a general risk-off shift across the market rather than a single catalyst.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u8d70\u5f31\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc1.4%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc1.0%\uff0c\u79d1\u6280\u80a1\u8868\u73fe\u5c24\u5176\u75b2\u5f31\uff0c\u53cd\u6620\u6295\u8cc7\u4eba\u8cc7\u91d1\u5f9e\u98a8\u96aa\u8cc7\u7522\u64a4\u51fa\u3002\u9019\u985e\u8d70\u52e2\u5f80\u5f80\u6e90\u65bc\u7372\u5229\u4e86\u7d50\u6216\u5c0d\u5373\u5c07\u516c\u5e03\u7684\u7d93\u6fdf\u6578\u64da\u3001\u8ca1\u5831\u4fdd\u6301\u89c0\u671b\uff0c\u800c\u975e\u55ae\u4e00\u516c\u53f8\u7684\u7279\u5b9a\u6d88\u606f\u3002\u7531\u65bc\u7f3a\u4e4f\u660e\u78ba\u65b0\u805eheadline\u53ef\u4f9b\u5f15\u7528\uff0c\u6b64\u6b21\u4e0b\u8dcc\u770b\u4f86\u662f\u5e02\u5834\u6574\u9ad4\u98a8\u96aa\u504f\u597d\u8f49\u5f31\u6240\u81f4\u3002",
+      "summary_en": "Both major indices posted modest gains today, with the NASDAQ up 0.5% and the S&P 500 up 0.3%, reflecting a calm, directionless session rather than a strong trend in either direction. There's no major catalyst driving today's move \u2014 it looks like routine trading activity rather than a reaction to a specific headline. Days like this are typically best spent holding existing positions rather than chasing marginal gains.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u6eab\u548c\u5411\u4e0a\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53470.5%\uff0c\u6a19\u666e500\u6307\u6578\u53470.3%\uff0c\u5e02\u6cc1\u76f8\u5c0d\u5e73\u975c\uff0c\u672a\u898b\u660e\u986f\u55ae\u908a\u8d70\u52e2\u3002\u4eca\u65e5\u672a\u898b\u6709\u91cd\u5927\u6d88\u606f\u6216\u4e8b\u4ef6\u63a8\u52d5\u5927\u5e02\uff0c\u8f03\u4f3c\u662f\u65e5\u5e38\u4ea4\u6295\u800c\u975e\u5c0d\u7279\u5b9a\u65b0\u805e\u7684\u53cd\u61c9\u3002\u6b64\u985e\u65e5\u5b50\u4e00\u822c\u4ee5\u6301\u8ca8\u89c0\u671b\u70ba\u4f73\uff0c\u6bcb\u9808\u8ffd\u9ad8\u8cb7\u5165\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "\"Risk-off\" describes a market mood where investors sell riskier assets like growth stocks and move toward safer holdings or cash, often triggered by uncertainty about the economy or upcoming events. On risk-off days, it's usually wiser to hold existing positions and wait rather than chase new trades, since broad declines aren't necessarily tied to any one stock's fundamentals.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u8da8\u907f\u300d\uff08Risk-off\uff09\u662f\u6307\u6295\u8cc7\u4eba\u56e0\u5c0d\u7d93\u6fdf\u524d\u666f\u6216\u5373\u5c07\u767c\u751f\u7684\u4e8b\u4ef6\u611f\u5230\u4e0d\u78ba\u5b9a\uff0c\u800c\u62cb\u552e\u6210\u9577\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\u3001\u8f49\u5411\u8f03\u5b89\u5168\u7684\u8cc7\u7522\u6216\u73fe\u91d1\u7684\u5e02\u5834\u6c1b\u570d\u3002\u5728\u98a8\u96aa\u8da8\u907f\u7684\u65e5\u5b50\u88e1\uff0c\u901a\u5e38\u8f03\u660e\u667a\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u90e8\u4f4d\u4e26\u8010\u5fc3\u7b49\u5f85\uff0c\u800c\u975e\u8ffd\u9010\u65b0\u4ea4\u6613\uff0c\u56e0\u70ba\u5927\u76e4\u666e\u904d\u4e0b\u8dcc\u672a\u5fc5\u8207\u500b\u5225\u80a1\u7968\u7684\u57fa\u672c\u9762\u6709\u95dc\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "Dry powder refers to cash kept in reserve rather than fully invested, so you have the flexibility to act decisively when a strong opportunity appears. Holding cash on a quiet, neutral day isn't wasted capital \u2014 it's positioning yourself to deploy quickly when signals actually line up.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u6295\u8cc7\u8005\u4fdd\u7559\u73fe\u91d1\u800c\u975e\u5168\u6578\u6295\u5165\u5e02\u5834,\u4ee5\u4fbf\u5728\u771f\u6b63\u51fa\u73fe\u826f\u597d\u6a5f\u6703\u6642\u80fd\u8fc5\u901f\u628a\u63e1\u3002\u5728\u5e73\u975c\u3001\u65b9\u5411\u4e0d\u660e\u7684\u4ea4\u6613\u65e5\u6301\u6709\u73fe\u91d1\u4e26\u975e\u6d6a\u8cbb\u8cc7\u672c\uff0c\u800c\u662f\u70ba\u65e5\u5f8c\u8a0a\u865f\u660e\u78ba\u6642\u505a\u597d\u6e96\u5099\u3002"
     }
   }
 }
