@@ -1,22 +1,22 @@
 {
   "date": "2026-07-20",
-  "briefing": "Markets were flat today (NASDAQ +0.3%, S&P500 +0.1%), a neutral session with no broad risk-on signal. AGX stood out from the screener with full multi-signal confirmation including a volume surge, so we added a single high-conviction position while leaving the rest of our open cash on the sidelines.",
+  "briefing": "Markets were mildly positive today (NASDAQ +0.8%, S&P +0.4%) but not a strong risk-on signal, so I made one measured medium-conviction buy in NU to use some of the $877 cash on hand rather than forcing a full deployment. Existing positions were held unchanged since neutral days should let profit targets and stop-losses do the work.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading volume, which suggests real institutional buying rather than a random blip. A stock rising on strong volume alongside other bullish signals (like MACD and RSI) is a much stronger buy signal than the same price move on light volume.",
-    "explanation_zh": "「成交量確認」是指價格變動伴隨著高於平常的成交量，顯示是真正的機構買盤，而非隨機波動。當股票在放量的同時，配合其他利好訊號（如MACD和RSI）一同上升，這比在淡靜成交量下的相同升幅更具參考價值，是更強的買入訊號。"
+    "term": "Position Sizing",
+    "explanation_en": "Position sizing means deciding how much money to put into a single trade based on your conviction and the market environment, not just whether you have cash available. On a neutral day like today, sizing a new buy smaller than usual balances the risk rule of deploying idle cash against the discipline of not overcommitting without a clear risk-on signal.",
+    "explanation_zh": "部位規模（Position Sizing）是指根據信心程度與市場環境，決定投入單一交易的資金多寡，而不是單純因為手上有現金就滿倉買入。像今天這種中性市場，將新買入的部位規模控制得比平常小，可以在「善用閒置現金」與「沒有明確風險偏好訊號時不過度加碼」之間取得平衡。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the NASDAQ up 0.3% and the S&P 500 up 0.1%, reflecting a lack of strong directional catalysts in the session. Without major economic data or earnings surprises driving broad moves, trading stayed range-bound and stock-specific signals mattered more than macro themes. This kind of quiet, low-volatility day is common between major news events.",
-    "summary_zh": "今日大市走勢平穩，納斯達克指數升0.3%，標普500指數升0.1%，反映市場缺乏強烈的方向性催化劑。由於沒有重大經濟數據或業績意外帶動大市，交投在區間內徘徊，個股訊號比宏觀主題更具參考價值。這種波動較低的平靜交易日在重大消息公佈之間頗為常見。",
+    "summary_en": "Both major indices closed modestly higher today, with the Nasdaq slightly outpacing the S&P 500, consistent with a broadly neutral-to-mildly-positive session rather than a decisive risk-on move. No standout catalyst was evident in the screened data, suggesting the gains reflect general market drift rather than a specific news event. Given the lack of a strong signal, position sizing stayed conservative today.",
+    "summary_zh": "今日兩大指數皆溫和收高，納指升幅略優於標普500，屬於中性偏多的走勢，而非明確的風險偏好轉強訊號。從篩選數據中未見特別突出的催化因素，顯示今日漲幅較可能反映大盤整體的自然波動，而非單一新聞事件所致。由於缺乏強烈訊號，今日的加碼規模維持保守。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AGX",
-      "conviction": "high",
-      "reasoning": "Only candidate with all four confirming signals (RSI bullish zone, MACD bullish crossover, rising histogram, volume surge) plus top momentum score of 100, meeting the high-conviction bar even on an otherwise neutral market day."
+      "ticker": "NU",
+      "conviction": "medium",
+      "reasoning": "RSI 61 in bullish zone with MACD crossover and price above SMA-20, and it diversifies the portfolio into fintech away from the crypto-miner cluster dominating the candidate list."
     }
   ],
   "outcomes": {
