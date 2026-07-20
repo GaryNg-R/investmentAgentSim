@@ -1,24 +1,17 @@
 {
   "date": "2026-07-20",
-  "briefing": "Markets were flat to slightly negative today (NASDAQ ~0.0%, S&P 500 -0.2%), a neutral day with no broad risk-on signal. We held our six existing positions and added one high-conviction buy, VSXY, which was the only candidate showing all four bullish confirmation signals at once.",
+  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.0%, S&P 500 -0.2%), a neutral session with no clear risk-on catalyst. Despite several high-scoring candidates (IREN, CIFR, NUVB, VSXY, PTON) showing full multi-signal confirmation, we're holding cash and existing positions rather than forcing a buy, per the lesson that capital deployment should wait for a genuine risk-on trigger rather than a neutral day.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Rather than buying on a single bullish clue, disciplined traders look for several indicators — like RSI, MACD, price versus moving average, and volume — to all line up together. When multiple independent signals agree, it lowers the odds of a false start and points to genuine institutional buying interest, as with VSXY today.",
-    "explanation_zh": "有紀律的交易者不會只憑單一利多訊號進場，而是會等待多項指標——例如RSI、MACD、股價與均線的關係、成交量——同時發出一致訊號。當多個獨立指標互相印證時，代表假訊號的機率較低，也更可能反映真實的機構買盤，就像今日的VSXY一樣。"
+    "term": "Patience (Sitting on Cash)",
+    "explanation_en": "Sometimes the best move is no move at all. Even when you have cash available and stocks that look technically strong, it can pay to wait for a clearer market signal (like a strong up day) before committing new money, rather than buying just because you can.",
+    "explanation_zh": "有時候，最好的操作就是按兵不動。即使手上有現金、也有技術面看起來不錯的股票，等待更明確的市場訊號（例如大盤明顯上漲的一天）再進場，往往比單純因為「有錢可以買」就出手更為穩健。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially flat, with the S&P 500 dipping a modest 0.2% and the NASDAQ roughly unchanged, indicating a lack of strong directional conviction among investors today. Trading activity across most sectors was muted, consistent with a wait-and-see posture ahead of upcoming economic data and earnings. In the absence of a clear catalyst, individual stock momentum — rather than broad market direction — drove today's standout movers like VSXY.",
-    "summary_zh": "今日大盤走勢大致持平，標普500指數小跌0.2%，納指幾乎沒有變化，反映投資人普遍缺乏明確方向感。大部分板塊交投淡靜，市場呈現觀望氣氛，等待即將公布的經濟數據與企業財報。在缺乏明確催化劑的情況下，個股動能（而非大盤走勢）主導了今日如VSXY等表現突出的股票。",
+    "summary_en": "Major indices traded essentially flat today, with the S&P 500 dipping modestly and the NASDAQ roughly unchanged. There was no single dominant catalyst driving the tape, suggesting investors are in a wait-and-see mode after recent gains. Volume and volatility remained subdued, consistent with a consolidation phase rather than a directional breakout.",
+    "summary_zh": "今日大盤走勢大致持平，標普500指數小幅下跌，納指則幾乎沒有變動。市場缺乏明確的主導消息面，顯示投資者在近期漲勢後轉為觀望。成交量與波動度均維持在較低水平，符合盤整格局而非明確的方向性突破。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "VSXY",
-      "conviction": "high",
-      "reasoning": "VSXY shows full multi-signal confirmation (RSI 65.7 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge), matching our highest-conviction setup even though the broader market is neutral."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13555.735246181488,
     "cash": 877.1352210044861,
