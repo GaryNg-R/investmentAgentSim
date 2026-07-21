@@ -1,28 +1,28 @@
 {
   "date": "2026-07-21",
-  "briefing": "Markets were flat today (NASDAQ -0.0%, S&P500 -0.2%), a neutral session with no clear directional catalyst. Rather than force capital to work on a weak signal, we selectively bought IREN and NUVB, the two names showing the strongest four-signal technical confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) while leaving remaining cash and slots in reserve.",
+  "briefing": "Markets were mildly positive today (NASDAQ +0.8%, S&P500 +0.5%) without a strong risk-on signal. With cash above the $500 threshold and 4 open slots, we added two high-quality momentum names (DOCN, MU) that show full technical confirmation, while holding all existing positions steady.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "When multiple independent technical indicators — like RSI, MACD, price vs. moving average, and trading volume — all point the same bullish direction at once, it's a stronger and more reliable signal than any single indicator alone. This convergence often suggests real institutional buying interest rather than random noise, which is why traders wait for several signals to align before committing capital.",
-    "explanation_zh": "當多個獨立的技術指標——例如RSI、MACD、股價與均線的關係、以及成交量——同時指向同一個看漲方向時，這比單一指標更具參考價值與可靠性。這種訊號同步出現，往往代表背後有真正的機構買盤，而非隨機波動，因此交易者通常會等待多項訊號一致後才進場。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD, and volume, on the theory that stocks moving up tend to keep moving up in the near term. Today's buys were chosen because they showed multiple confirming bullish signals at once, not just one indicator in isolation.",
+    "explanation_zh": "動能投資是指買入已經呈上升趨勢的股票，依據RSI、MACD和成交量等訊號進行判斷，理論基礎是股價上漲的股票短期內往往會持續上漲。今天選擇的買入標的，是因為同時出現多個看漲訊號的確認，而不僅僅依賴單一指標。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially unchanged today, with the S&P 500 slipping a modest 0.2% and the NASDAQ roughly flat, reflecting a lack of strong catalysts on either side. Trading stayed range-bound as investors appeared to digest recent gains without fresh macro or earnings news to push prices decisively higher or lower. This kind of low-volatility, directionless session is common between major economic data releases or earnings reports.",
-    "summary_zh": "今日大盤走勢平淡，標普500指數微跌0.2%，納指則幾乎持平，反映市場缺乏明確的方向性利多或利空消息。投資人似乎在消化近期漲勢，缺乏新的總經數據或財報催化劑帶動股價大幅波動。這種低波動、方向不明的交投在重大經濟數據或財報公布之間頗為常見。",
+    "summary_en": "Broader indices posted modest gains today, with the NASDAQ outperforming the S&P 500 slightly, reflecting continued but unspectacular risk appetite. No major macro catalyst drove the move; it appears to be a continuation of steady sector-level buying rather than a broad market shift. Individual stocks with strong technical setups, like DOCN and MU, outperformed the broader indices.",
+    "summary_zh": "今日大盤溫和上漲，納斯達克指數表現略優於標普500指數，反映市場風險偏好持續但不算強勁。今天沒有重大總體經濟消息帶動大盤，這波上漲較像是個股與板塊層面的穩定買盤，而非全面性的市場轉向。像DOCN和MU這類技術面強勁的個股，表現優於大盤指數。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "IREN",
-      "conviction": "high",
-      "reasoning": "Full four-signal confirmation (RSI 62 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) matches the institutional-participation pattern from prior lessons."
+      "ticker": "DOCN",
+      "conviction": "medium",
+      "reasoning": "Top-scoring candidate with full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) fills an open slot with available cash above the $500 threshold."
     },
     {
       "action": "BUY",
-      "ticker": "NUVB",
+      "ticker": "MU",
       "conviction": "medium",
-      "reasoning": "Same full four-signal confirmation as IREN but in an uncorrelated sector (biotech), adding diversification away from existing crypto/tech-heavy exposure."
+      "reasoning": "Established large-cap semiconductor showing the same five-signal bullish confluence, adding diversification away from existing holdings while deploying idle cash."
     }
   ],
   "outcomes": {
