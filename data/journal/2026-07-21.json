@@ -1,34 +1,28 @@
 {
   "date": "2026-07-21",
-  "briefing": "Markets rallied today with NASDAQ +1.1% and S&P 500 +0.7%, a clear risk-on signal. With 4 open slots and cash above the $500 threshold, we deployed into RGC (full technical confirmation), plus NBIS and MU as medium-conviction adds to diversify beyond a single low-priced speculative name.",
+  "briefing": "Markets are modestly risk-on today with NASDAQ +1.2% and S&P 500 +0.8%, a positive but not exceptionally strong signal. With $877 in cash and 4 open portfolio slots, we deployed into two of the strongest-scoring, non-overbought momentum names (MU, NBIS) while keeping the rest of our winners untouched and holding back some cash as a buffer given the moderate (not extreme) risk-on signal.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the idea that strength tends to continue in the short term. Traders look for confirming signals — like RSI in a healthy range, a bullish MACD crossover, and price above key moving averages — before buying, rather than relying on just one indicator.",
-    "explanation_zh": "動能投資是指買入已經呈現上漲趨勢的股票，基於短期內強勢股票傾向延續漲勢的邏輯。交易者通常會尋找多項技術指標同時確認，例如RSI處於健康區間、MACD出現黃金交叉、股價站上關鍵均線，而非僅依賴單一指標。"
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that stocks moving strongly in one direction tend to keep moving that way for a while. Today's picks were chosen because they showed multiple bullish technical signals together — like price above their moving average and a bullish MACD crossover — rather than just one signal alone.",
+    "explanation_zh": "動能投資是指買入正在上升趨勢中的股票,理論基礎是強勢股票往往會延續其原有走勢一段時間。今日選股是因為它們同時出現多項看漲技術訊號,例如股價高於移動平均線及MACD黃金交叉,而非僅憑單一訊號做出決定。"
   },
   "market_education": {
-    "summary_en": "Broad-based buying lifted tech and semiconductor names today, pushing the NASDAQ up 1.1% and the S&P 500 up 0.7%. Stocks with bullish technical setups — rising RSI, MACD crossovers, and prices above key moving averages — led the advance. No single dominant news catalyst appeared in today's data, suggesting the move reflected sector-wide risk appetite rather than a specific headline.",
-    "summary_zh": "今日科技股與半導體股全面走強，帶動納斯達克指數上漲1.1%，標普500指數上漲0.7%。RSI走升、MACD出現黃金交叉、股價站上主要均線等技術面轉強的動能股表現領先大盤。今日數據並未顯示明確的單一新聞催化劑，顯示此次上漲較可能是由板塊性風險偏好回升所帶動，而非個別消息面驅動。",
+    "summary_en": "Broad equity indices advanced today, with the NASDAQ outpacing the S&P 500, suggesting growth and tech-heavy names led the rally. Momentum screens showed a wide swath of stocks with bullish MACD crossovers and rising histograms, indicating broad-based buying interest rather than a narrow move. No single catalyst headline was available today, so the move appears consistent with continued risk appetite in growth sectors.",
+    "summary_zh": "今日大盤普遍上揚,納斯達克指數升幅領先標普500指數,顯示成長股與科技股帶動今日漲勢。動能篩選顯示大量股票出現MACD黃金交叉及柱狀圖走高,反映買盤相對廣泛而非集中於個別股票。今日並無特定重大新聞觸發此波動,走勢與市場對成長股持續的風險偏好一致。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "RGC",
-      "conviction": "high",
-      "reasoning": "Highest score (100) with full multi-signal confirmation: RSI 69.4 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge."
+      "ticker": "MU",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 63.5 in healthy bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 confirm sustained momentum in a risk-on tape."
     },
     {
       "action": "BUY",
       "ticker": "NBIS",
       "conviction": "medium",
-      "reasoning": "Score 95 with RSI 64.6 in the bullish zone, MACD bullish crossover with rising histogram, and price well above SMA-20 on a risk-on day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "MU",
-      "conviction": "medium",
-      "reasoning": "Established semiconductor name with score 95, RSI 62.4 still below overbought, and confirmed bullish MACD crossover, offering a more stable way to deploy cash alongside the speculative RGC pick."
+      "reasoning": "Top-scored candidate with RSI 65.5 still below overbought, bullish MACD crossover and rising histogram, offering diversification into AI infrastructure away from existing holdings."
     }
   ],
   "outcomes": {
