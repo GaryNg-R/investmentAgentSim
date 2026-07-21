@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-07-21T14:01:35.877284+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-07-21T15:01:36.142702+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "DOCN",
+        "ticker": "RGC",
+        "conviction": "high",
+        "reasoning": "Highest score (100) with full multi-signal confirmation: RSI 69.4 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge."
+      },
+      {
+        "action": "BUY",
+        "ticker": "NBIS",
         "conviction": "medium",
-        "reasoning": "Top-scoring candidate with full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) fills an open slot with available cash above the $500 threshold."
+        "reasoning": "Score 95 with RSI 64.6 in the bullish zone, MACD bullish crossover with rising histogram, and price well above SMA-20 on a risk-on day."
       },
       {
         "action": "BUY",
         "ticker": "MU",
         "conviction": "medium",
-        "reasoning": "Established large-cap semiconductor showing the same five-signal bullish confluence, adding diversification away from existing holdings while deploying idle cash."
+        "reasoning": "Established semiconductor name with score 95, RSI 62.4 still below overbought, and confirmed bullish MACD crossover, offering a more stable way to deploy cash alongside the speculative RGC pick."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were mildly positive today (NASDAQ +0.8%, S&P500 +0.5%) without a strong risk-on signal. With cash above the $500 threshold and 4 open slots, we added two high-quality momentum names (DOCN, MU) that show full technical confirmation, while holding all existing positions steady.",
+    "briefing": "Markets rallied today with NASDAQ +1.1% and S&P 500 +0.7%, a clear risk-on signal. With 4 open slots and cash above the $500 threshold, we deployed into RGC (full technical confirmation), plus NBIS and MU as medium-conviction adds to diversify beyond a single low-priced speculative name.",
     "market_education": {
-      "summary_en": "Broader indices posted modest gains today, with the NASDAQ outperforming the S&P 500 slightly, reflecting continued but unspectacular risk appetite. No major macro catalyst drove the move; it appears to be a continuation of steady sector-level buying rather than a broad market shift. Individual stocks with strong technical setups, like DOCN and MU, outperformed the broader indices.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6eab\u548c\u4e0a\u6f32\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8868\u73fe\u7565\u512a\u65bc\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u4f46\u4e0d\u7b97\u5f37\u52c1\u3002\u4eca\u5929\u6c92\u6709\u91cd\u5927\u7e3d\u9ad4\u7d93\u6fdf\u6d88\u606f\u5e36\u52d5\u5927\u76e4\uff0c\u9019\u6ce2\u4e0a\u6f32\u8f03\u50cf\u662f\u500b\u80a1\u8207\u677f\u584a\u5c64\u9762\u7684\u7a69\u5b9a\u8cb7\u76e4\uff0c\u800c\u975e\u5168\u9762\u6027\u7684\u5e02\u5834\u8f49\u5411\u3002\u50cfDOCN\u548cMU\u9019\u985e\u6280\u8853\u9762\u5f37\u52c1\u7684\u500b\u80a1\uff0c\u8868\u73fe\u512a\u65bc\u5927\u76e4\u6307\u6578\u3002",
+      "summary_en": "Broad-based buying lifted tech and semiconductor names today, pushing the NASDAQ up 1.1% and the S&P 500 up 0.7%. Stocks with bullish technical setups \u2014 rising RSI, MACD crossovers, and prices above key moving averages \u2014 led the advance. No single dominant news catalyst appeared in today's data, suggesting the move reflected sector-wide risk appetite rather than a specific headline.",
+      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u80a1\u8207\u534a\u5c0e\u9ad4\u80a1\u5168\u9762\u8d70\u5f37\uff0c\u5e36\u52d5\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.1%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.7%\u3002RSI\u8d70\u5347\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u4e3b\u8981\u5747\u7dda\u7b49\u6280\u8853\u9762\u8f49\u5f37\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u9818\u5148\u5927\u76e4\u3002\u4eca\u65e5\u6578\u64da\u4e26\u672a\u986f\u793a\u660e\u78ba\u7684\u55ae\u4e00\u65b0\u805e\u50ac\u5316\u5291\uff0c\u986f\u793a\u6b64\u6b21\u4e0a\u6f32\u8f03\u53ef\u80fd\u662f\u7531\u677f\u584a\u6027\u98a8\u96aa\u504f\u597d\u56de\u5347\u6240\u5e36\u52d5\uff0c\u800c\u975e\u500b\u5225\u6d88\u606f\u9762\u9a45\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD, and volume, on the theory that stocks moving up tend to keep moving up in the near term. Today's buys were chosen because they showed multiple confirming bullish signals at once, not just one indicator in isolation.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u4f9d\u64daRSI\u3001MACD\u548c\u6210\u4ea4\u91cf\u7b49\u8a0a\u865f\u9032\u884c\u5224\u65b7\uff0c\u7406\u8ad6\u57fa\u790e\u662f\u80a1\u50f9\u4e0a\u6f32\u7684\u80a1\u7968\u77ed\u671f\u5167\u5f80\u5f80\u6703\u6301\u7e8c\u4e0a\u6f32\u3002\u4eca\u5929\u9078\u64c7\u7684\u8cb7\u5165\u6a19\u7684\uff0c\u662f\u56e0\u70ba\u540c\u6642\u51fa\u73fe\u591a\u500b\u770b\u6f32\u8a0a\u865f\u7684\u78ba\u8a8d\uff0c\u800c\u4e0d\u50c5\u50c5\u4f9d\u8cf4\u55ae\u4e00\u6307\u6a19\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the idea that strength tends to continue in the short term. Traders look for confirming signals \u2014 like RSI in a healthy range, a bullish MACD crossover, and price above key moving averages \u2014 before buying, rather than relying on just one indicator.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5448\u73fe\u4e0a\u6f32\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u57fa\u65bc\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u7968\u50be\u5411\u5ef6\u7e8c\u6f32\u52e2\u7684\u908f\u8f2f\u3002\u4ea4\u6613\u8005\u901a\u5e38\u6703\u5c0b\u627e\u591a\u9805\u6280\u8853\u6307\u6a19\u540c\u6642\u78ba\u8a8d\uff0c\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u95dc\u9375\u5747\u7dda\uff0c\u800c\u975e\u50c5\u4f9d\u8cf4\u55ae\u4e00\u6307\u6a19\u3002"
     }
   }
 }

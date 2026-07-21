@@ -1,28 +1,34 @@
 {
   "date": "2026-07-21",
-  "briefing": "Markets were mildly positive today (NASDAQ +0.8%, S&P500 +0.5%) without a strong risk-on signal. With cash above the $500 threshold and 4 open slots, we added two high-quality momentum names (DOCN, MU) that show full technical confirmation, while holding all existing positions steady.",
+  "briefing": "Markets rallied today with NASDAQ +1.1% and S&P 500 +0.7%, a clear risk-on signal. With 4 open slots and cash above the $500 threshold, we deployed into RGC (full technical confirmation), plus NBIS and MU as medium-conviction adds to diversify beyond a single low-priced speculative name.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD, and volume, on the theory that stocks moving up tend to keep moving up in the near term. Today's buys were chosen because they showed multiple confirming bullish signals at once, not just one indicator in isolation.",
-    "explanation_zh": "動能投資是指買入已經呈上升趨勢的股票，依據RSI、MACD和成交量等訊號進行判斷，理論基礎是股價上漲的股票短期內往往會持續上漲。今天選擇的買入標的，是因為同時出現多個看漲訊號的確認，而不僅僅依賴單一指標。"
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the idea that strength tends to continue in the short term. Traders look for confirming signals — like RSI in a healthy range, a bullish MACD crossover, and price above key moving averages — before buying, rather than relying on just one indicator.",
+    "explanation_zh": "動能投資是指買入已經呈現上漲趨勢的股票，基於短期內強勢股票傾向延續漲勢的邏輯。交易者通常會尋找多項技術指標同時確認，例如RSI處於健康區間、MACD出現黃金交叉、股價站上關鍵均線，而非僅依賴單一指標。"
   },
   "market_education": {
-    "summary_en": "Broader indices posted modest gains today, with the NASDAQ outperforming the S&P 500 slightly, reflecting continued but unspectacular risk appetite. No major macro catalyst drove the move; it appears to be a continuation of steady sector-level buying rather than a broad market shift. Individual stocks with strong technical setups, like DOCN and MU, outperformed the broader indices.",
-    "summary_zh": "今日大盤溫和上漲，納斯達克指數表現略優於標普500指數，反映市場風險偏好持續但不算強勁。今天沒有重大總體經濟消息帶動大盤，這波上漲較像是個股與板塊層面的穩定買盤，而非全面性的市場轉向。像DOCN和MU這類技術面強勁的個股，表現優於大盤指數。",
+    "summary_en": "Broad-based buying lifted tech and semiconductor names today, pushing the NASDAQ up 1.1% and the S&P 500 up 0.7%. Stocks with bullish technical setups — rising RSI, MACD crossovers, and prices above key moving averages — led the advance. No single dominant news catalyst appeared in today's data, suggesting the move reflected sector-wide risk appetite rather than a specific headline.",
+    "summary_zh": "今日科技股與半導體股全面走強，帶動納斯達克指數上漲1.1%，標普500指數上漲0.7%。RSI走升、MACD出現黃金交叉、股價站上主要均線等技術面轉強的動能股表現領先大盤。今日數據並未顯示明確的單一新聞催化劑，顯示此次上漲較可能是由板塊性風險偏好回升所帶動，而非個別消息面驅動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "DOCN",
+      "ticker": "RGC",
+      "conviction": "high",
+      "reasoning": "Highest score (100) with full multi-signal confirmation: RSI 69.4 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge."
+    },
+    {
+      "action": "BUY",
+      "ticker": "NBIS",
       "conviction": "medium",
-      "reasoning": "Top-scoring candidate with full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) fills an open slot with available cash above the $500 threshold."
+      "reasoning": "Score 95 with RSI 64.6 in the bullish zone, MACD bullish crossover with rising histogram, and price well above SMA-20 on a risk-on day."
     },
     {
       "action": "BUY",
       "ticker": "MU",
       "conviction": "medium",
-      "reasoning": "Established large-cap semiconductor showing the same five-signal bullish confluence, adding diversification away from existing holdings while deploying idle cash."
+      "reasoning": "Established semiconductor name with score 95, RSI 62.4 still below overbought, and confirmed bullish MACD crossover, offering a more stable way to deploy cash alongside the speculative RGC pick."
     }
   ],
   "outcomes": {
