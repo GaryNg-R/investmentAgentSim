@@ -1,28 +1,28 @@
 {
   "date": "2026-07-21",
-  "briefing": "Markets were broadly risk-on today with NASDAQ +1.4% and S&P 500 +0.9%. With $877 in cash and 4 open slots, we deployed into NBIS and ACMR, both showing full multi-signal bullish confirmation (RSI, MACD crossover, rising histogram, price above SMA-20).",
+  "briefing": "Markets are modestly risk-on today with NASDAQ +1.3% and S&P 500 +0.9%. We deployed a portion of idle cash into ACMR and UCTT, the two top-scoring candidates showing all four confirmation signals (MACD crossover, bullish RSI, price above SMA-20, volume surge), while holding the rest of the portfolio steady.",
   "daily_lesson": {
     "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI in a bullish range, a MACD crossover, and price above its moving average — to all line up before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move.",
-    "explanation_zh": "動能確認是指在買入前，等待多個技術訊號同時出現，例如RSI處於偏多區間、MACD黃金交叉、股價站上均線等，而不是只憑單一訊號就進場。這樣可以降低追高到假訊號或曇花一現行情的風險。"
+    "explanation_en": "Momentum confirmation means checking that multiple independent indicators — like MACD, RSI, price trend, and trading volume — all point the same bullish direction before buying, rather than relying on just one signal. This reduces the chance of chasing a false or short-lived move.",
+    "explanation_zh": "「動能確認」是指在買入前，同時檢查多個獨立指標（例如MACD、RSI、價格趨勢及成交量）是否一致指向看漲方向，而不是單靠一個訊號做決定。這樣可以減少追入假訊號或短暫波動的風險。"
   },
   "market_education": {
-    "summary_en": "Both major indices advanced today, with the NASDAQ outpacing the S&P 500, suggesting continued investor appetite for growth and technology names. Broad-based buying across momentum names indicates risk appetite remains healthy. No single catalyst dominated; the move looks like a continuation of the recent risk-on trend.",
-    "summary_zh": "今日大盤普遍上揚，納斯達克指數漲幅超越標普500指數，顯示投資人對科技與成長股的胃口依然強勁。動能股普遍獲得資金追捧，反映市場風險偏好持續健康。今日並無單一明顯的市場催化劑，這波漲勢看起來是近期風險偏好升溫趨勢的延續。",
+    "summary_en": "Broad market gains today reflect continued risk appetite across tech and semiconductor-adjacent names, with NASDAQ outperforming the S&P 500. Several stocks in the screened universe showed synchronized bullish momentum signals (MACD crossovers, rising volume), suggesting sector-wide institutional buying rather than isolated moves. No single dominant catalyst was identified in today's data, consistent with a steady grind-higher risk-on session rather than a news-driven spike.",
+    "summary_zh": "今日大市延續風險偏好情緒，納指升1.3%，標普500升0.9%，升幅由科技及半導體相關股份帶動。篩選名單中多隻股票同時出現MACD黃金交叉及成交量放大等看漲訊號，反映機構資金正全面流入相關板塊，而非個別股份的偶發波動。今日並無特別重大新聞觸發，屬於穩步向好的風險偏好交易日。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NBIS",
+      "ticker": "ACMR",
       "conviction": "high",
-      "reasoning": "All four bullish signals align (RSI 68.9, MACD crossover, rising histogram, price above SMA-20) confirming strong institutional momentum."
+      "reasoning": "Full signal confirmation (RSI 68.9, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "ACMR",
-      "conviction": "medium",
-      "reasoning": "Full bullish signal confirmation with RSI 64.5 in the healthy momentum zone, adding semiconductor equipment exposure distinct from existing holdings."
+      "ticker": "UCTT",
+      "conviction": "high",
+      "reasoning": "Identical full multi-signal confirmation to ACMR with strong volume surge, indicating institutional participation."
     }
   ],
   "outcomes": {
