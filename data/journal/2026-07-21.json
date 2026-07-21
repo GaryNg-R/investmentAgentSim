@@ -1,28 +1,22 @@
 {
   "date": "2026-07-21",
-  "briefing": "Markets are modestly risk-on today with NASDAQ +1.2% and S&P 500 +0.8%, a positive but not exceptionally strong signal. With $877 in cash and 4 open portfolio slots, we deployed into two of the strongest-scoring, non-overbought momentum names (MU, NBIS) while keeping the rest of our winners untouched and holding back some cash as a buffer given the moderate (not extreme) risk-on signal.",
+  "briefing": "NASDAQ +1.4% and S&P 500 +0.9% confirm a risk-on session, so we deployed part of the idle cash into NBIS, the top-scored candidate with confirmed MACD, RSI, and trend signals. Existing positions (QQQ, EAT, OLED, WT, ROAD, INOD) are being held since none show stop-loss or profit-target triggers and the market doesn't warrant trimming winners on a green day.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that stocks moving strongly in one direction tend to keep moving that way for a while. Today's picks were chosen because they showed multiple bullish technical signals together — like price above their moving average and a bullish MACD crossover — rather than just one signal alone.",
-    "explanation_zh": "動能投資是指買入正在上升趨勢中的股票,理論基礎是強勢股票往往會延續其原有走勢一段時間。今日選股是因為它們同時出現多項看漲技術訊號,例如股價高於移動平均線及MACD黃金交叉,而非僅憑單一訊號做出決定。"
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Traders often confirm momentum using indicators like MACD (trend direction) and RSI (strength of the move) before buying in.",
+    "explanation_zh": "動能投資是指買入近期表現強勢、持續上漲的股票,原理是短期內強勢股票的漲勢往往會延續。交易者通常會用MACD(趨勢方向)和RSI(漲勢強度)等指標來確認動能後再進場買入。"
   },
   "market_education": {
-    "summary_en": "Broad equity indices advanced today, with the NASDAQ outpacing the S&P 500, suggesting growth and tech-heavy names led the rally. Momentum screens showed a wide swath of stocks with bullish MACD crossovers and rising histograms, indicating broad-based buying interest rather than a narrow move. No single catalyst headline was available today, so the move appears consistent with continued risk appetite in growth sectors.",
-    "summary_zh": "今日大盤普遍上揚,納斯達克指數升幅領先標普500指數,顯示成長股與科技股帶動今日漲勢。動能篩選顯示大量股票出現MACD黃金交叉及柱狀圖走高,反映買盤相對廣泛而非集中於個別股票。今日並無特定重大新聞觸發此波動,走勢與市場對成長股持續的風險偏好一致。",
+    "summary_en": "Broad indices moved higher today, with the NASDAQ outpacing the S&P 500, signaling stronger buying interest in growth and tech-adjacent names. Momentum names showing MACD crossovers and rising RSI, like NBIS, are seeing increased participation as investors rotate into names confirming bullish technical setups. No major negative catalysts were evident in today's screened data, consistent with a broad risk-on tone.",
+    "summary_zh": "今日大盤走高,納斯達克指數漲幅領先標普500指數,反映科技與成長股買盤較為強勁。像NBIS這類出現MACD黃金交叉、RSI走升的動能股,吸引更多資金追捧,顯示市場偏向風險偏好情緒。今日篩選數據中未見明顯利空消息,整體氣氛偏向風險偏好。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "MU",
-      "conviction": "medium",
-      "reasoning": "Score 95 with RSI 63.5 in healthy bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 confirm sustained momentum in a risk-on tape."
-    },
-    {
-      "action": "BUY",
       "ticker": "NBIS",
       "conviction": "medium",
-      "reasoning": "Top-scored candidate with RSI 65.5 still below overbought, bullish MACD crossover and rising histogram, offering diversification into AI infrastructure away from existing holdings."
+      "reasoning": "Top-scoring candidate with MACD bullish crossover, RSI 68.2 in the bullish zone, and price above SMA-20, fitting the risk-on tape and filling an open slot with idle cash above the $500 threshold."
     }
   ],
   "outcomes": {
