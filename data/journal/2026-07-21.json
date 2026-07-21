@@ -1,22 +1,28 @@
 {
   "date": "2026-07-21",
-  "briefing": "NASDAQ +1.4% and S&P 500 +0.9% confirm a risk-on session, so we deployed part of the idle cash into NBIS, the top-scored candidate with confirmed MACD, RSI, and trend signals. Existing positions (QQQ, EAT, OLED, WT, ROAD, INOD) are being held since none show stop-loss or profit-target triggers and the market doesn't warrant trimming winners on a green day.",
+  "briefing": "Markets were broadly risk-on today with NASDAQ +1.4% and S&P 500 +0.9%. With $877 in cash and 4 open slots, we deployed into NBIS and ACMR, both showing full multi-signal bullish confirmation (RSI, MACD crossover, rising histogram, price above SMA-20).",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Traders often confirm momentum using indicators like MACD (trend direction) and RSI (strength of the move) before buying in.",
-    "explanation_zh": "動能投資是指買入近期表現強勢、持續上漲的股票,原理是短期內強勢股票的漲勢往往會延續。交易者通常會用MACD(趨勢方向)和RSI(漲勢強度)等指標來確認動能後再進場買入。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI in a bullish range, a MACD crossover, and price above its moving average — to all line up before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move.",
+    "explanation_zh": "動能確認是指在買入前，等待多個技術訊號同時出現，例如RSI處於偏多區間、MACD黃金交叉、股價站上均線等，而不是只憑單一訊號就進場。這樣可以降低追高到假訊號或曇花一現行情的風險。"
   },
   "market_education": {
-    "summary_en": "Broad indices moved higher today, with the NASDAQ outpacing the S&P 500, signaling stronger buying interest in growth and tech-adjacent names. Momentum names showing MACD crossovers and rising RSI, like NBIS, are seeing increased participation as investors rotate into names confirming bullish technical setups. No major negative catalysts were evident in today's screened data, consistent with a broad risk-on tone.",
-    "summary_zh": "今日大盤走高,納斯達克指數漲幅領先標普500指數,反映科技與成長股買盤較為強勁。像NBIS這類出現MACD黃金交叉、RSI走升的動能股,吸引更多資金追捧,顯示市場偏向風險偏好情緒。今日篩選數據中未見明顯利空消息,整體氣氛偏向風險偏好。",
+    "summary_en": "Both major indices advanced today, with the NASDAQ outpacing the S&P 500, suggesting continued investor appetite for growth and technology names. Broad-based buying across momentum names indicates risk appetite remains healthy. No single catalyst dominated; the move looks like a continuation of the recent risk-on trend.",
+    "summary_zh": "今日大盤普遍上揚，納斯達克指數漲幅超越標普500指數，顯示投資人對科技與成長股的胃口依然強勁。動能股普遍獲得資金追捧，反映市場風險偏好持續健康。今日並無單一明顯的市場催化劑，這波漲勢看起來是近期風險偏好升溫趨勢的延續。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
       "ticker": "NBIS",
+      "conviction": "high",
+      "reasoning": "All four bullish signals align (RSI 68.9, MACD crossover, rising histogram, price above SMA-20) confirming strong institutional momentum."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ACMR",
       "conviction": "medium",
-      "reasoning": "Top-scoring candidate with MACD bullish crossover, RSI 68.2 in the bullish zone, and price above SMA-20, fitting the risk-on tape and filling an open slot with idle cash above the $500 threshold."
+      "reasoning": "Full bullish signal confirmation with RSI 64.5 in the healthy momentum zone, adding semiconductor equipment exposure distinct from existing holdings."
     }
   ],
   "outcomes": {
