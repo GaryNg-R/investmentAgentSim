@@ -1,0 +1,66 @@
+{
+  "date": "2026-07-21",
+  "briefing": "Markets were flat today (NASDAQ -0.0%, S&P500 -0.2%), a neutral session with no clear directional catalyst. Rather than force capital to work on a weak signal, we selectively bought IREN and NUVB, the two names showing the strongest four-signal technical confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) while leaving remaining cash and slots in reserve.",
+  "daily_lesson": {
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "When multiple independent technical indicators — like RSI, MACD, price vs. moving average, and trading volume — all point the same bullish direction at once, it's a stronger and more reliable signal than any single indicator alone. This convergence often suggests real institutional buying interest rather than random noise, which is why traders wait for several signals to align before committing capital.",
+    "explanation_zh": "當多個獨立的技術指標——例如RSI、MACD、股價與均線的關係、以及成交量——同時指向同一個看漲方向時，這比單一指標更具參考價值與可靠性。這種訊號同步出現，往往代表背後有真正的機構買盤，而非隨機波動，因此交易者通常會等待多項訊號一致後才進場。"
+  },
+  "market_education": {
+    "summary_en": "Major indices were essentially unchanged today, with the S&P 500 slipping a modest 0.2% and the NASDAQ roughly flat, reflecting a lack of strong catalysts on either side. Trading stayed range-bound as investors appeared to digest recent gains without fresh macro or earnings news to push prices decisively higher or lower. This kind of low-volatility, directionless session is common between major economic data releases or earnings reports.",
+    "summary_zh": "今日大盤走勢平淡，標普500指數微跌0.2%，納指則幾乎持平，反映市場缺乏明確的方向性利多或利空消息。投資人似乎在消化近期漲勢，缺乏新的總經數據或財報催化劑帶動股價大幅波動。這種低波動、方向不明的交投在重大經濟數據或財報公布之間頗為常見。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "IREN",
+      "conviction": "high",
+      "reasoning": "Full four-signal confirmation (RSI 62 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) matches the institutional-participation pattern from prior lessons."
+    },
+    {
+      "action": "BUY",
+      "ticker": "NUVB",
+      "conviction": "medium",
+      "reasoning": "Same full four-signal confirmation as IREN but in an uncorrelated sector (biotech), adding diversification away from existing crypto/tech-heavy exposure."
+    }
+  ],
+  "outcomes": {
+    "total_value": 13555.735246181488,
+    "cash": 877.1352210044861,
+    "pnl_dollar": 3555.735246181488,
+    "pnl_pct": 35.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}

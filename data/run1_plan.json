@@ -1,19 +1,32 @@
 {
-  "saved_at": "2026-07-20T21:01:21.491216+00:00",
+  "saved_at": "2026-07-21T13:01:36.425625+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "IREN",
+        "conviction": "high",
+        "reasoning": "Full four-signal confirmation (RSI 62 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) matches the institutional-participation pattern from prior lessons."
+      },
+      {
+        "action": "BUY",
+        "ticker": "NUVB",
+        "conviction": "medium",
+        "reasoning": "Same full four-signal confirmation as IREN but in an uncorrelated sector (biotech), adding diversification away from existing crypto/tech-heavy exposure."
+      }
+    ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat to slightly negative today (NASDAQ -0.0%, S&P 500 -0.2%), a neutral session with no clear risk-on catalyst. Despite several high-scoring candidates (IREN, CIFR, NUVB, VSXY, PTON) showing full multi-signal confirmation, we're holding cash and existing positions rather than forcing a buy, per the lesson that capital deployment should wait for a genuine risk-on trigger rather than a neutral day.",
+    "briefing": "Markets were flat today (NASDAQ -0.0%, S&P500 -0.2%), a neutral session with no clear directional catalyst. Rather than force capital to work on a weak signal, we selectively bought IREN and NUVB, the two names showing the strongest four-signal technical confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) while leaving remaining cash and slots in reserve.",
     "market_education": {
-      "summary_en": "Major indices traded essentially flat today, with the S&P 500 dipping modestly and the NASDAQ roughly unchanged. There was no single dominant catalyst driving the tape, suggesting investors are in a wait-and-see mode after recent gains. Volume and volatility remained subdued, consistent with a consolidation phase rather than a directional breakout.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u6301\u5e73\uff0c\u6a19\u666e500\u6307\u6578\u5c0f\u5e45\u4e0b\u8dcc\uff0c\u7d0d\u6307\u5247\u5e7e\u4e4e\u6c92\u6709\u8b8a\u52d5\u3002\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u4e3b\u5c0e\u6d88\u606f\u9762\uff0c\u986f\u793a\u6295\u8cc7\u8005\u5728\u8fd1\u671f\u6f32\u52e2\u5f8c\u8f49\u70ba\u89c0\u671b\u3002\u6210\u4ea4\u91cf\u8207\u6ce2\u52d5\u5ea6\u5747\u7dad\u6301\u5728\u8f03\u4f4e\u6c34\u5e73\uff0c\u7b26\u5408\u76e4\u6574\u683c\u5c40\u800c\u975e\u660e\u78ba\u7684\u65b9\u5411\u6027\u7a81\u7834\u3002",
+      "summary_en": "Major indices were essentially unchanged today, with the S&P 500 slipping a modest 0.2% and the NASDAQ roughly flat, reflecting a lack of strong catalysts on either side. Trading stayed range-bound as investors appeared to digest recent gains without fresh macro or earnings news to push prices decisively higher or lower. This kind of low-volatility, directionless session is common between major economic data releases or earnings reports.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc0.2%\uff0c\u7d0d\u6307\u5247\u5e7e\u4e4e\u6301\u5e73\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u5229\u591a\u6216\u5229\u7a7a\u6d88\u606f\u3002\u6295\u8cc7\u4eba\u4f3c\u4e4e\u5728\u6d88\u5316\u8fd1\u671f\u6f32\u52e2\uff0c\u7f3a\u4e4f\u65b0\u7684\u7e3d\u7d93\u6578\u64da\u6216\u8ca1\u5831\u50ac\u5316\u5291\u5e36\u52d5\u80a1\u50f9\u5927\u5e45\u6ce2\u52d5\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u3001\u65b9\u5411\u4e0d\u660e\u7684\u4ea4\u6295\u5728\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u516c\u5e03\u4e4b\u9593\u9817\u70ba\u5e38\u898b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Patience (Sitting on Cash)",
-      "explanation_en": "Sometimes the best move is no move at all. Even when you have cash available and stocks that look technically strong, it can pay to wait for a clearer market signal (like a strong up day) before committing new money, rather than buying just because you can.",
-      "explanation_zh": "\u6709\u6642\u5019\uff0c\u6700\u597d\u7684\u64cd\u4f5c\u5c31\u662f\u6309\u5175\u4e0d\u52d5\u3002\u5373\u4f7f\u624b\u4e0a\u6709\u73fe\u91d1\u3001\u4e5f\u6709\u6280\u8853\u9762\u770b\u8d77\u4f86\u4e0d\u932f\u7684\u80a1\u7968\uff0c\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u5e02\u5834\u8a0a\u865f\uff08\u4f8b\u5982\u5927\u76e4\u660e\u986f\u4e0a\u6f32\u7684\u4e00\u5929\uff09\u518d\u9032\u5834\uff0c\u5f80\u5f80\u6bd4\u55ae\u7d14\u56e0\u70ba\u300c\u6709\u9322\u53ef\u4ee5\u8cb7\u300d\u5c31\u51fa\u624b\u66f4\u70ba\u7a69\u5065\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "When multiple independent technical indicators \u2014 like RSI, MACD, price vs. moving average, and trading volume \u2014 all point the same bullish direction at once, it's a stronger and more reliable signal than any single indicator alone. This convergence often suggests real institutional buying interest rather than random noise, which is why traders wait for several signals to align before committing capital.",
+      "explanation_zh": "\u7576\u591a\u500b\u7368\u7acb\u7684\u6280\u8853\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u8207\u5747\u7dda\u7684\u95dc\u4fc2\u3001\u4ee5\u53ca\u6210\u4ea4\u91cf\u2014\u2014\u540c\u6642\u6307\u5411\u540c\u4e00\u500b\u770b\u6f32\u65b9\u5411\u6642\uff0c\u9019\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u5177\u53c3\u8003\u50f9\u503c\u8207\u53ef\u9760\u6027\u3002\u9019\u7a2e\u8a0a\u865f\u540c\u6b65\u51fa\u73fe\uff0c\u5f80\u5f80\u4ee3\u8868\u80cc\u5f8c\u6709\u771f\u6b63\u7684\u6a5f\u69cb\u8cb7\u76e4\uff0c\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\uff0c\u56e0\u6b64\u4ea4\u6613\u8005\u901a\u5e38\u6703\u7b49\u5f85\u591a\u9805\u8a0a\u865f\u4e00\u81f4\u5f8c\u624d\u9032\u5834\u3002"
     }
   }
 }
