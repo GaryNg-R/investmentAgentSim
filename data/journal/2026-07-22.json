@@ -1,22 +1,22 @@
 {
   "date": "2026-07-22",
-  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.3%, S&P500 +0.0%) with no clear risk-on signal. Rather than force capital to work, only NG met the full multi-signal bar including a volume surge, so we added a modest position there and held the rest of the portfolio unchanged.",
+  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.3%, S&P500 +0.0%), a neutral session with no clear directional signal. Rather than force full deployment, I made one modest, well-confirmed buy (NU) to put some idle cash to work while holding the rest in reserve for a genuine risk-on day. All six existing positions are held unchanged.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading activity, which suggests real institutional interest rather than a random blip. A stock can look technically bullish on price alone, but without a volume surge, the signal is weaker and less trustworthy. Today, that distinction was the deciding factor between an otherwise similar set of bullish candidates.",
-    "explanation_zh": "成交量確認是指觀察價格變動是否伴隨著高於平常的交易量，這代表背後有實質的機構買盤支撐，而非偶然的價格波動。一檔股票單看價格可能呈現技術面看漲，但若缺乏成交量放大確認，訊號的可信度就會降低。今日在多個技術面相似的看漲候選股中，這正是決定是否進場的關鍵因素。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing upward price strength, confirmed by indicators like RSI (measuring speed of price moves) and MACD (measuring trend direction). Today's buy was chosen because it showed several of these bullish signals lining up at once, not just one isolated indicator.",
+    "explanation_zh": "動能投資是指買入價格已展現上漲力道的股票,並透過RSI(衡量價格變動速度)和MACD(衡量趨勢方向)等指標加以確認。今天選擇買入的標的,是因為多個看漲訊號同時出現,而非僅憑單一指標做決定。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially flat today, with the NASDAQ dipping 0.3% and the S&P 500 unchanged, reflecting a lack of strong directional conviction among investors. Without a clear catalyst pushing markets higher or lower, trading stayed range-bound and cautious. This kind of quiet, low-volatility session often precedes a bigger move once new information arrives.",
-    "summary_zh": "今日大盤走勢大致持平，納斯達克指數微跌0.3%，標普500指數則持平收盤，反映投資人缺乏明確方向的信心。市場在缺乏強力催化因素的情況下呈現區間震盪、觀望氣氛濃厚。這種低波動的平靜盤整，往往是醞釀下一波較大行情的前奏。",
+    "summary_en": "Today was a quiet, directionless session with the NASDAQ down 0.3% and the S&P 500 essentially flat, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a strong risk-on or risk-off trigger, it made sense to be selective rather than aggressive with new capital. Existing winners were left alone since low-conviction, sideways days aren't a reason to exit positions that are already working.",
+    "summary_zh": "今天市場走勢平淡,納指下跌0.3%,標普500指數幾乎持平,顯示投資人正處於觀望狀態,並未對任何重大消息作出明顯反應。在缺乏明確的風險偏好訊號下,選擇性佈局比大舉加碼更為合理。現有的獲利部位維持不動,因為橫盤整理的中性行情並非出場的理由。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NG",
+      "ticker": "NU",
       "conviction": "medium",
-      "reasoning": "Only top-scoring candidate with full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge), justifying a selective buy despite a neutral broader market."
+      "reasoning": "Strong multi-signal confirmation (RSI 63.3 bullish zone, MACD bullish crossover, histogram rising, price above SMA-20) adds fintech diversification while cash sits well above the $500 threshold with open slots."
     }
   ],
   "outcomes": {
