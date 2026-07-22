@@ -1,14 +1,14 @@
 {
   "date": "2026-07-22",
-  "briefing": "Market was flat-to-slightly-negative today (NASDAQ -0.6%, S&P500 -0.1%) with no strong directional signal, but two candidates, CACI and RPM, showed full institutional-grade momentum confirmation. With 4 open slots and cash above the $500 threshold, we deployed into these two high-conviction names while leaving the rest of the cash in reserve.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.6%, S&P 500 -0.1%), a neutral session with no clear directional catalyst. With cash comfortably above the $500 threshold and four open slots, we deployed into CACI and RPM, the two candidates showing full multi-signal confirmation (bullish RSI, MACD crossover, rising momentum, price above SMA-20, and volume surge) rather than sitting idle.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "A volume surge means a stock is trading far more shares than usual, often signaling that large institutional investors are actively buying or selling — not just retail noise. When a price move is backed by high volume alongside other bullish signals like a MACD crossover, it's considered a stronger, more reliable signal than the same price move on light volume.",
-    "explanation_zh": "「成交量激增」指股票的成交量遠高於平常水平，往往顯示有大型機構投資者積極買賣，而非單純散戶的短期波動。當股價上升同時伴隨大成交量及其他利好訊號（如MACD黃金交叉），這通常被視為比低成交量下的同等升幅更強、更可靠的訊號。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying on a single bullish sign, it's safer to wait until several indicators agree — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all these line up together, it suggests real buying interest rather than random noise, which is why CACI and RPM were chosen today even though the overall market was flat.",
+    "explanation_zh": "與其只憑單一利好訊號進場,不如等待多個指標同時確認——例如RSI處於健康區間、MACD黃金交叉、股價站上均線,以及成交量放大。當這些訊號同時出現時,代表的是真實的買盤力道,而非隨機波動,這也是為何在大盤持平的今天,仍選擇買入CACI和RPM的原因。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with the NASDAQ down 0.6% and the S&P 500 down 0.1%, reflecting a lack of strong directional catalysts rather than any specific negative news. Trading stayed range-bound as investors appeared to digest recent gains without a clear new driver. Individual stocks like CACI and RPM bucked the broader trend, showing strong volume-backed momentum even as the overall market was flat.",
-    "summary_zh": "今日大市個別發展，納指下跌0.6%，標普500則微跌0.1%，反映市場缺乏明確的方向性催化劑，而非受特定利淡消息拖累。大市呈現區間整固格局，投資者似乎在消化早前升幅，暫未見新的驅動力。不過個別股份如CACI及RPM逆市走強，成交量明顯放大，動能訊號強勁。",
+    "summary_en": "Major indexes drifted slightly lower today with no major macro catalyst driving the move, consistent with a quiet consolidation session after recent gains. Trading was mixed across sectors, and the modest declines in both NASDAQ and S&P 500 suggest profit-taking rather than a shift in broader sentiment. Individual stocks with strong technical setups, like CACI and RPM, continued to attract volume even as the broader market paused.",
+    "summary_zh": "今日大盤小幅回落，NASDAQ跌0.6%、標普500跌0.1%，並無重大總體經濟消息帶動，較似是近期漲勢後的整固階段。各板塊表現參差，兩大指數的溫和下跌反映的是獲利了結，而非市場情緒的根本轉變。像CACI和RPM這類技術面強勁的個股，即使大盤停滯不前，仍持續吸引資金流入。",
     "sources": []
   },
   "trades": [
@@ -16,13 +16,13 @@
       "action": "BUY",
       "ticker": "CACI",
       "conviction": "high",
-      "reasoning": "Top-scored candidate with full multi-signal confirmation (RSI in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) indicating institutional participation."
+      "reasoning": "Top-scored candidate with full signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge, indicating strong institutional participation."
     },
     {
       "action": "BUY",
       "ticker": "RPM",
-      "conviction": "high",
-      "reasoning": "Matches all four high-conviction criteria plus rising MACD histogram, and open slots plus cash above $500 favor deploying into the strongest setups rather than sitting idle."
+      "conviction": "medium",
+      "reasoning": "Same full multi-signal confirmation as CACI with RSI near the upper end of the bullish zone, offering a second high-quality opportunity to deploy idle cash into open slots."
     }
   ],
   "outcomes": {

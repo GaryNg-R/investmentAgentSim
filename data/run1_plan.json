@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-07-22T20:01:56.623100+00:00",
+  "saved_at": "2026-07-22T21:01:21.746464+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "CACI",
         "conviction": "high",
-        "reasoning": "Top-scored candidate with full multi-signal confirmation (RSI in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) indicating institutional participation."
+        "reasoning": "Top-scored candidate with full signal confirmation \u2014 bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge, indicating strong institutional participation."
       },
       {
         "action": "BUY",
         "ticker": "RPM",
-        "conviction": "high",
-        "reasoning": "Matches all four high-conviction criteria plus rising MACD histogram, and open slots plus cash above $500 favor deploying into the strongest setups rather than sitting idle."
+        "conviction": "medium",
+        "reasoning": "Same full multi-signal confirmation as CACI with RSI near the upper end of the bullish zone, offering a second high-quality opportunity to deploy idle cash into open slots."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Market was flat-to-slightly-negative today (NASDAQ -0.6%, S&P500 -0.1%) with no strong directional signal, but two candidates, CACI and RPM, showed full institutional-grade momentum confirmation. With 4 open slots and cash above the $500 threshold, we deployed into these two high-conviction names while leaving the rest of the cash in reserve.",
+    "briefing": "Markets were roughly flat today (NASDAQ -0.6%, S&P 500 -0.1%), a neutral session with no clear directional catalyst. With cash comfortably above the $500 threshold and four open slots, we deployed into CACI and RPM, the two candidates showing full multi-signal confirmation (bullish RSI, MACD crossover, rising momentum, price above SMA-20, and volume surge) rather than sitting idle.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today with the NASDAQ down 0.6% and the S&P 500 down 0.1%, reflecting a lack of strong directional catalysts rather than any specific negative news. Trading stayed range-bound as investors appeared to digest recent gains without a clear new driver. Individual stocks like CACI and RPM bucked the broader trend, showing strong volume-backed momentum even as the overall market was flat.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u500b\u5225\u767c\u5c55\uff0c\u7d0d\u6307\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u5247\u5fae\u8dcc0.1%\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\uff0c\u800c\u975e\u53d7\u7279\u5b9a\u5229\u6de1\u6d88\u606f\u62d6\u7d2f\u3002\u5927\u5e02\u5448\u73fe\u5340\u9593\u6574\u56fa\u683c\u5c40\uff0c\u6295\u8cc7\u8005\u4f3c\u4e4e\u5728\u6d88\u5316\u65e9\u524d\u5347\u5e45\uff0c\u66ab\u672a\u898b\u65b0\u7684\u9a45\u52d5\u529b\u3002\u4e0d\u904e\u500b\u5225\u80a1\u4efd\u5982CACI\u53caRPM\u9006\u5e02\u8d70\u5f37\uff0c\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\uff0c\u52d5\u80fd\u8a0a\u865f\u5f37\u52c1\u3002",
+      "summary_en": "Major indexes drifted slightly lower today with no major macro catalyst driving the move, consistent with a quiet consolidation session after recent gains. Trading was mixed across sectors, and the modest declines in both NASDAQ and S&P 500 suggest profit-taking rather than a shift in broader sentiment. Individual stocks with strong technical setups, like CACI and RPM, continued to attract volume even as the broader market paused.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5c0f\u5e45\u56de\u843d\uff0cNASDAQ\u8dcc0.6%\u3001\u6a19\u666e500\u8dcc0.1%\uff0c\u4e26\u7121\u91cd\u5927\u7e3d\u9ad4\u7d93\u6fdf\u6d88\u606f\u5e36\u52d5\uff0c\u8f03\u4f3c\u662f\u8fd1\u671f\u6f32\u52e2\u5f8c\u7684\u6574\u56fa\u968e\u6bb5\u3002\u5404\u677f\u584a\u8868\u73fe\u53c3\u5dee\uff0c\u5169\u5927\u6307\u6578\u7684\u6eab\u548c\u4e0b\u8dcc\u53cd\u6620\u7684\u662f\u7372\u5229\u4e86\u7d50\uff0c\u800c\u975e\u5e02\u5834\u60c5\u7dd2\u7684\u6839\u672c\u8f49\u8b8a\u3002\u50cfCACI\u548cRPM\u9019\u985e\u6280\u8853\u9762\u5f37\u52c1\u7684\u500b\u80a1\uff0c\u5373\u4f7f\u5927\u76e4\u505c\u6eef\u4e0d\u524d\uff0c\u4ecd\u6301\u7e8c\u5438\u5f15\u8cc7\u91d1\u6d41\u5165\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Confirmation",
-      "explanation_en": "A volume surge means a stock is trading far more shares than usual, often signaling that large institutional investors are actively buying or selling \u2014 not just retail noise. When a price move is backed by high volume alongside other bullish signals like a MACD crossover, it's considered a stronger, more reliable signal than the same price move on light volume.",
-      "explanation_zh": "\u300c\u6210\u4ea4\u91cf\u6fc0\u589e\u300d\u6307\u80a1\u7968\u7684\u6210\u4ea4\u91cf\u9060\u9ad8\u65bc\u5e73\u5e38\u6c34\u5e73\uff0c\u5f80\u5f80\u986f\u793a\u6709\u5927\u578b\u6a5f\u69cb\u6295\u8cc7\u8005\u7a4d\u6975\u8cb7\u8ce3\uff0c\u800c\u975e\u55ae\u7d14\u6563\u6236\u7684\u77ed\u671f\u6ce2\u52d5\u3002\u7576\u80a1\u50f9\u4e0a\u5347\u540c\u6642\u4f34\u96a8\u5927\u6210\u4ea4\u91cf\u53ca\u5176\u4ed6\u5229\u597d\u8a0a\u865f\uff08\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\uff09\uff0c\u9019\u901a\u5e38\u88ab\u8996\u70ba\u6bd4\u4f4e\u6210\u4ea4\u91cf\u4e0b\u7684\u540c\u7b49\u5347\u5e45\u66f4\u5f37\u3001\u66f4\u53ef\u9760\u7684\u8a0a\u865f\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Instead of buying on a single bullish sign, it's safer to wait until several indicators agree \u2014 like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all these line up together, it suggests real buying interest rather than random noise, which is why CACI and RPM were chosen today even though the overall market was flat.",
+      "explanation_zh": "\u8207\u5176\u53ea\u6191\u55ae\u4e00\u5229\u597d\u8a0a\u865f\u9032\u5834,\u4e0d\u5982\u7b49\u5f85\u591a\u500b\u6307\u6a19\u540c\u6642\u78ba\u8a8d\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda,\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u3002\u7576\u9019\u4e9b\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u6642,\u4ee3\u8868\u7684\u662f\u771f\u5be6\u7684\u8cb7\u76e4\u529b\u9053,\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5,\u9019\u4e5f\u662f\u70ba\u4f55\u5728\u5927\u76e4\u6301\u5e73\u7684\u4eca\u5929,\u4ecd\u9078\u64c7\u8cb7\u5165CACI\u548cRPM\u7684\u539f\u56e0\u3002"
     }
   }
 }
