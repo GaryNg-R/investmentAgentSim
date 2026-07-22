@@ -1,14 +1,14 @@
 {
   "date": "2026-07-22",
-  "briefing": "Markets were flat and directionless today (NASDAQ -0.2%, S&P500 +0.0%), showing no clear risk-on signal despite several candidates like CME and RKLB flashing strong multi-signal setups. Per the lesson from prior neutral days, we're holding cash and existing positions rather than forcing a buy, saving dry powder for a genuine risk-on move.",
+  "briefing": "NASDAQ and S&P 500 both drifted slightly lower today (-0.3% and -0.1%), a neutral session with no clear risk-on catalyst. Even though $877 in cash and 4 open slots are available, and several candidates (DELL, NVDA, CME, AA, HPE, WEGZY, NFLX) score 95 on momentum, none show the volume-surge confirmation our past reviews require for high-conviction entries on a flat day, so we're holding and waiting for a genuine risk-on signal rather than forcing a buy.",
   "daily_lesson": {
-    "term": "Consolidation",
-    "explanation_en": "Consolidation is when a market or stock trades sideways within a narrow range, without a clear upward or downward trend. It often happens after a big move, as investors pause to digest information before deciding the next direction — patience during these periods is usually rewarded over forcing trades.",
-    "explanation_zh": "盤整（Consolidation）是指市場或股票在一個狹窄區間內橫盤震盪，沒有明顯的上升或下降趨勢。這通常發生在大幅波動之後，投資人在決定下一步方向前先消化資訊——在這段期間保持耐心，通常比強行進場更有利。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off means investors choose caution over chasing new opportunities when market signals aren't strongly positive. Today, despite having cash and open portfolio slots, we held off on new buys because the market lacked the clear bullish momentum (like a NASDAQ rally of 2%+) that past experience shows is needed for high-conviction entries.",
+    "explanation_zh": "「避險模式」（Risk-Off）指的是當市場訊號不夠強烈時，投資者選擇謹慎而非追逐新機會。今天儘管我們仍有現金及空餘持倉額度，但由於市場缺乏過往經驗顯示高勝算所需的明確上升動能（例如納指單日上漲2%以上），因此選擇不新增買入。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially flat today, with the NASDAQ dipping slightly and the S&P 500 unchanged, reflecting a lack of strong catalysts to push markets in either direction. Trading volume and volatility appear muted, consistent with a consolidation phase rather than a clear trend. Without fresh news driving conviction, investors appear to be in a wait-and-see mode.",
-    "summary_zh": "今日大盤走勢大致持平，納斯達克指數微跌0.2%，標普500指數則持平收盤，反映市場缺乏明確的推動因素。成交量與波動性均顯得平淡，較符合盤整格局而非明確趨勢。在缺乏重大消息面刺激下，投資人似乎採取觀望態度。",
+    "summary_en": "Major indices were essentially flat today, with the NASDAQ down 0.3% and the S&P 500 down 0.1%, reflecting a lack of strong directional conviction among investors. No major economic data or headline catalysts drove the session, leaving stocks to trade in a narrow range as market participants awaited clearer signals. This kind of low-volatility, directionless day is common between major news events and earnings releases.",
+    "summary_zh": "今日大盤走勢平淡，納斯達克指數下跌0.3%，標普500指數下跌0.1%，反映市場缺乏明確方向。今天並無重大經濟數據或消息面催化劑帶動盤勢，個股多在窄幅區間內整理，投資者靜待更清晰的訊號。這種低波動、無明確方向的交易日，在重大消息或財報公佈之間頗為常見。",
     "sources": []
   },
   "trades": [],

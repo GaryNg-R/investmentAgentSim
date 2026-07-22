@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-07-22T14:01:25.923995+00:00",
+  "saved_at": "2026-07-22T15:01:21.797716+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets were flat and directionless today (NASDAQ -0.2%, S&P500 +0.0%), showing no clear risk-on signal despite several candidates like CME and RKLB flashing strong multi-signal setups. Per the lesson from prior neutral days, we're holding cash and existing positions rather than forcing a buy, saving dry powder for a genuine risk-on move.",
+    "briefing": "NASDAQ and S&P 500 both drifted slightly lower today (-0.3% and -0.1%), a neutral session with no clear risk-on catalyst. Even though $877 in cash and 4 open slots are available, and several candidates (DELL, NVDA, CME, AA, HPE, WEGZY, NFLX) score 95 on momentum, none show the volume-surge confirmation our past reviews require for high-conviction entries on a flat day, so we're holding and waiting for a genuine risk-on signal rather than forcing a buy.",
     "market_education": {
-      "summary_en": "Major indices traded essentially flat today, with the NASDAQ dipping slightly and the S&P 500 unchanged, reflecting a lack of strong catalysts to push markets in either direction. Trading volume and volatility appear muted, consistent with a consolidation phase rather than a clear trend. Without fresh news driving conviction, investors appear to be in a wait-and-see mode.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.2%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u6301\u5e73\u6536\u76e4\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u63a8\u52d5\u56e0\u7d20\u3002\u6210\u4ea4\u91cf\u8207\u6ce2\u52d5\u6027\u5747\u986f\u5f97\u5e73\u6de1\uff0c\u8f03\u7b26\u5408\u76e4\u6574\u683c\u5c40\u800c\u975e\u660e\u78ba\u8da8\u52e2\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u6d88\u606f\u9762\u523a\u6fc0\u4e0b\uff0c\u6295\u8cc7\u4eba\u4f3c\u4e4e\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002",
+      "summary_en": "Major indices were essentially flat today, with the NASDAQ down 0.3% and the S&P 500 down 0.1%, reflecting a lack of strong directional conviction among investors. No major economic data or headline catalysts drove the session, leaving stocks to trade in a narrow range as market participants awaited clearer signals. This kind of low-volatility, directionless day is common between major news events and earnings releases.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.3%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.1%\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u4eca\u5929\u4e26\u7121\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u6d88\u606f\u9762\u50ac\u5316\u5291\u5e36\u52d5\u76e4\u52e2\uff0c\u500b\u80a1\u591a\u5728\u7a84\u5e45\u5340\u9593\u5167\u6574\u7406\uff0c\u6295\u8cc7\u8005\u975c\u5f85\u66f4\u6e05\u6670\u7684\u8a0a\u865f\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u3001\u7121\u660e\u78ba\u65b9\u5411\u7684\u4ea4\u6613\u65e5\uff0c\u5728\u91cd\u5927\u6d88\u606f\u6216\u8ca1\u5831\u516c\u4f48\u4e4b\u9593\u9817\u70ba\u5e38\u898b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Consolidation",
-      "explanation_en": "Consolidation is when a market or stock trades sideways within a narrow range, without a clear upward or downward trend. It often happens after a big move, as investors pause to digest information before deciding the next direction \u2014 patience during these periods is usually rewarded over forcing trades.",
-      "explanation_zh": "\u76e4\u6574\uff08Consolidation\uff09\u662f\u6307\u5e02\u5834\u6216\u80a1\u7968\u5728\u4e00\u500b\u72f9\u7a84\u5340\u9593\u5167\u6a6b\u76e4\u9707\u76ea\uff0c\u6c92\u6709\u660e\u986f\u7684\u4e0a\u5347\u6216\u4e0b\u964d\u8da8\u52e2\u3002\u9019\u901a\u5e38\u767c\u751f\u5728\u5927\u5e45\u6ce2\u52d5\u4e4b\u5f8c\uff0c\u6295\u8cc7\u4eba\u5728\u6c7a\u5b9a\u4e0b\u4e00\u6b65\u65b9\u5411\u524d\u5148\u6d88\u5316\u8cc7\u8a0a\u2014\u2014\u5728\u9019\u6bb5\u671f\u9593\u4fdd\u6301\u8010\u5fc3\uff0c\u901a\u5e38\u6bd4\u5f37\u884c\u9032\u5834\u66f4\u6709\u5229\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "Risk-off means investors choose caution over chasing new opportunities when market signals aren't strongly positive. Today, despite having cash and open portfolio slots, we held off on new buys because the market lacked the clear bullish momentum (like a NASDAQ rally of 2%+) that past experience shows is needed for high-conviction entries.",
+      "explanation_zh": "\u300c\u907f\u96aa\u6a21\u5f0f\u300d\uff08Risk-Off\uff09\u6307\u7684\u662f\u7576\u5e02\u5834\u8a0a\u865f\u4e0d\u5920\u5f37\u70c8\u6642\uff0c\u6295\u8cc7\u8005\u9078\u64c7\u8b39\u614e\u800c\u975e\u8ffd\u9010\u65b0\u6a5f\u6703\u3002\u4eca\u5929\u5118\u7ba1\u6211\u5011\u4ecd\u6709\u73fe\u91d1\u53ca\u7a7a\u9918\u6301\u5009\u984d\u5ea6\uff0c\u4f46\u7531\u65bc\u5e02\u5834\u7f3a\u4e4f\u904e\u5f80\u7d93\u9a57\u986f\u793a\u9ad8\u52dd\u7b97\u6240\u9700\u7684\u660e\u78ba\u4e0a\u5347\u52d5\u80fd\uff08\u4f8b\u5982\u7d0d\u6307\u55ae\u65e5\u4e0a\u6f322%\u4ee5\u4e0a\uff09\uff0c\u56e0\u6b64\u9078\u64c7\u4e0d\u65b0\u589e\u8cb7\u5165\u3002"
     }
   }
 }
