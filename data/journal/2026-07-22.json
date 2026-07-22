@@ -1,17 +1,24 @@
 {
   "date": "2026-07-22",
-  "briefing": "NASDAQ and S&P 500 both drifted slightly lower today (-0.3% and -0.1%), a neutral session with no clear risk-on catalyst. Even though $877 in cash and 4 open slots are available, and several candidates (DELL, NVDA, CME, AA, HPE, WEGZY, NFLX) score 95 on momentum, none show the volume-surge confirmation our past reviews require for high-conviction entries on a flat day, so we're holding and waiting for a genuine risk-on signal rather than forcing a buy.",
+  "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.2%), so we held our six existing positions rather than force new buys. WEGZY stood out with full multi-signal confirmation (bullish RSI, MACD crossover, rising momentum, and a volume surge), so we added a medium-conviction position while keeping the rest of our cash in reserve for a clearer risk-on signal.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off means investors choose caution over chasing new opportunities when market signals aren't strongly positive. Today, despite having cash and open portfolio slots, we held off on new buys because the market lacked the clear bullish momentum (like a NASDAQ rally of 2%+) that past experience shows is needed for high-conviction entries.",
-    "explanation_zh": "「避險模式」（Risk-Off）指的是當市場訊號不夠強烈時，投資者選擇謹慎而非追逐新機會。今天儘管我們仍有現金及空餘持倉額度，但由於市場缺乏過往經驗顯示高勝算所需的明確上升動能（例如納指單日上漲2%以上），因此選擇不新增買入。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying on a single bullish indicator, experienced traders look for several signals to line up together — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When multiple signals agree, it's stronger evidence of real buying interest rather than random noise.",
+    "explanation_zh": "有經驗的交易者不會單憑一個看漲訊號就進場，而是尋找多個訊號同時出現——例如RSI處於健康區間、MACD黃金交叉、股價高於均線，以及成交量放大。當多個訊號一致時，代表背後有真實的買盤支持，而非單純的隨機波動。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the NASDAQ down 0.3% and the S&P 500 down 0.1%, reflecting a lack of strong directional conviction among investors. No major economic data or headline catalysts drove the session, leaving stocks to trade in a narrow range as market participants awaited clearer signals. This kind of low-volatility, directionless day is common between major news events and earnings releases.",
-    "summary_zh": "今日大盤走勢平淡，納斯達克指數下跌0.3%，標普500指數下跌0.1%，反映市場缺乏明確方向。今天並無重大經濟數據或消息面催化劑帶動盤勢，個股多在窄幅區間內整理，投資者靜待更清晰的訊號。這種低波動、無明確方向的交易日，在重大消息或財報公佈之間頗為常見。",
+    "summary_en": "Major indices were essentially flat today, with the S&P 500 edging up slightly and the Nasdaq unchanged, reflecting a lack of strong directional catalysts. Without major news driving sentiment, trading stayed range-bound as investors awaited clearer signals. This kind of quiet session often precedes a bigger move once new information arrives.",
+    "summary_zh": "今日大盤走勢平淡，標普500小幅上升，納指則持平，市場缺乏明顯的方向性催化劑。在沒有重大消息帶動氣氛下，交易大致在區間內遊走，投資者仍在等待更明確的訊號。這類淡靜的交易日，往往是醞釀下一波較大行情的前奏。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "WEGZY",
+      "conviction": "medium",
+      "reasoning": "Only candidate with all four confirmation signals (RSI bullish zone, MACD bullish crossover, MACD histogram rising, price above SMA-20, and volume surge), a genuine high-conviction setup despite a neutral overall market."
+    }
+  ],
   "outcomes": {
     "total_value": 13555.735246181488,
     "cash": 877.1352210044861,
