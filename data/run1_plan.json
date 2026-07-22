@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-07-22T19:01:27.092415+00:00",
+  "saved_at": "2026-07-22T20:01:56.623100+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NU",
-        "conviction": "medium",
-        "reasoning": "Strong multi-signal confirmation (RSI 63.3 bullish zone, MACD bullish crossover, histogram rising, price above SMA-20) adds fintech diversification while cash sits well above the $500 threshold with open slots."
+        "ticker": "CACI",
+        "conviction": "high",
+        "reasoning": "Top-scored candidate with full multi-signal confirmation (RSI in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) indicating institutional participation."
+      },
+      {
+        "action": "BUY",
+        "ticker": "RPM",
+        "conviction": "high",
+        "reasoning": "Matches all four high-conviction criteria plus rising MACD histogram, and open slots plus cash above $500 favor deploying into the strongest setups rather than sitting idle."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.3%, S&P500 +0.0%), a neutral session with no clear directional signal. Rather than force full deployment, I made one modest, well-confirmed buy (NU) to put some idle cash to work while holding the rest in reserve for a genuine risk-on day. All six existing positions are held unchanged.",
+    "briefing": "Market was flat-to-slightly-negative today (NASDAQ -0.6%, S&P500 -0.1%) with no strong directional signal, but two candidates, CACI and RPM, showed full institutional-grade momentum confirmation. With 4 open slots and cash above the $500 threshold, we deployed into these two high-conviction names while leaving the rest of the cash in reserve.",
     "market_education": {
-      "summary_en": "Today was a quiet, directionless session with the NASDAQ down 0.3% and the S&P 500 essentially flat, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a strong risk-on or risk-off trigger, it made sense to be selective rather than aggressive with new capital. Existing winners were left alone since low-conviction, sideways days aren't a reason to exit positions that are already working.",
-      "summary_zh": "\u4eca\u5929\u5e02\u5834\u8d70\u52e2\u5e73\u6de1,\u7d0d\u6307\u4e0b\u8dcc0.3%,\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u6301\u5e73,\u986f\u793a\u6295\u8cc7\u4eba\u6b63\u8655\u65bc\u89c0\u671b\u72c0\u614b,\u4e26\u672a\u5c0d\u4efb\u4f55\u91cd\u5927\u6d88\u606f\u4f5c\u51fa\u660e\u986f\u53cd\u61c9\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u4e0b,\u9078\u64c7\u6027\u4f48\u5c40\u6bd4\u5927\u8209\u52a0\u78bc\u66f4\u70ba\u5408\u7406\u3002\u73fe\u6709\u7684\u7372\u5229\u90e8\u4f4d\u7dad\u6301\u4e0d\u52d5,\u56e0\u70ba\u6a6b\u76e4\u6574\u7406\u7684\u4e2d\u6027\u884c\u60c5\u4e26\u975e\u51fa\u5834\u7684\u7406\u7531\u3002",
+      "summary_en": "Major indices drifted slightly lower today with the NASDAQ down 0.6% and the S&P 500 down 0.1%, reflecting a lack of strong directional catalysts rather than any specific negative news. Trading stayed range-bound as investors appeared to digest recent gains without a clear new driver. Individual stocks like CACI and RPM bucked the broader trend, showing strong volume-backed momentum even as the overall market was flat.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u500b\u5225\u767c\u5c55\uff0c\u7d0d\u6307\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u5247\u5fae\u8dcc0.1%\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\uff0c\u800c\u975e\u53d7\u7279\u5b9a\u5229\u6de1\u6d88\u606f\u62d6\u7d2f\u3002\u5927\u5e02\u5448\u73fe\u5340\u9593\u6574\u56fa\u683c\u5c40\uff0c\u6295\u8cc7\u8005\u4f3c\u4e4e\u5728\u6d88\u5316\u65e9\u524d\u5347\u5e45\uff0c\u66ab\u672a\u898b\u65b0\u7684\u9a45\u52d5\u529b\u3002\u4e0d\u904e\u500b\u5225\u80a1\u4efd\u5982CACI\u53caRPM\u9006\u5e02\u8d70\u5f37\uff0c\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\uff0c\u52d5\u80fd\u8a0a\u865f\u5f37\u52c1\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already showing upward price strength, confirmed by indicators like RSI (measuring speed of price moves) and MACD (measuring trend direction). Today's buy was chosen because it showed several of these bullish signals lining up at once, not just one isolated indicator.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u50f9\u683c\u5df2\u5c55\u73fe\u4e0a\u6f32\u529b\u9053\u7684\u80a1\u7968,\u4e26\u900f\u904eRSI(\u8861\u91cf\u50f9\u683c\u8b8a\u52d5\u901f\u5ea6)\u548cMACD(\u8861\u91cf\u8da8\u52e2\u65b9\u5411)\u7b49\u6307\u6a19\u52a0\u4ee5\u78ba\u8a8d\u3002\u4eca\u5929\u9078\u64c7\u8cb7\u5165\u7684\u6a19\u7684,\u662f\u56e0\u70ba\u591a\u500b\u770b\u6f32\u8a0a\u865f\u540c\u6642\u51fa\u73fe,\u800c\u975e\u50c5\u6191\u55ae\u4e00\u6307\u6a19\u505a\u6c7a\u5b9a\u3002"
+      "term": "Volume Confirmation",
+      "explanation_en": "A volume surge means a stock is trading far more shares than usual, often signaling that large institutional investors are actively buying or selling \u2014 not just retail noise. When a price move is backed by high volume alongside other bullish signals like a MACD crossover, it's considered a stronger, more reliable signal than the same price move on light volume.",
+      "explanation_zh": "\u300c\u6210\u4ea4\u91cf\u6fc0\u589e\u300d\u6307\u80a1\u7968\u7684\u6210\u4ea4\u91cf\u9060\u9ad8\u65bc\u5e73\u5e38\u6c34\u5e73\uff0c\u5f80\u5f80\u986f\u793a\u6709\u5927\u578b\u6a5f\u69cb\u6295\u8cc7\u8005\u7a4d\u6975\u8cb7\u8ce3\uff0c\u800c\u975e\u55ae\u7d14\u6563\u6236\u7684\u77ed\u671f\u6ce2\u52d5\u3002\u7576\u80a1\u50f9\u4e0a\u5347\u540c\u6642\u4f34\u96a8\u5927\u6210\u4ea4\u91cf\u53ca\u5176\u4ed6\u5229\u597d\u8a0a\u865f\uff08\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\uff09\uff0c\u9019\u901a\u5e38\u88ab\u8996\u70ba\u6bd4\u4f4e\u6210\u4ea4\u91cf\u4e0b\u7684\u540c\u7b49\u5347\u5e45\u66f4\u5f37\u3001\u66f4\u53ef\u9760\u7684\u8a0a\u865f\u3002"
     }
   }
 }

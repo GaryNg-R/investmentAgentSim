@@ -1,22 +1,28 @@
 {
   "date": "2026-07-22",
-  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.3%, S&P500 +0.0%), a neutral session with no clear directional signal. Rather than force full deployment, I made one modest, well-confirmed buy (NU) to put some idle cash to work while holding the rest in reserve for a genuine risk-on day. All six existing positions are held unchanged.",
+  "briefing": "Market was flat-to-slightly-negative today (NASDAQ -0.6%, S&P500 -0.1%) with no strong directional signal, but two candidates, CACI and RPM, showed full institutional-grade momentum confirmation. With 4 open slots and cash above the $500 threshold, we deployed into these two high-conviction names while leaving the rest of the cash in reserve.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing upward price strength, confirmed by indicators like RSI (measuring speed of price moves) and MACD (measuring trend direction). Today's buy was chosen because it showed several of these bullish signals lining up at once, not just one isolated indicator.",
-    "explanation_zh": "動能投資是指買入價格已展現上漲力道的股票,並透過RSI(衡量價格變動速度)和MACD(衡量趨勢方向)等指標加以確認。今天選擇買入的標的,是因為多個看漲訊號同時出現,而非僅憑單一指標做決定。"
+    "term": "Volume Confirmation",
+    "explanation_en": "A volume surge means a stock is trading far more shares than usual, often signaling that large institutional investors are actively buying or selling — not just retail noise. When a price move is backed by high volume alongside other bullish signals like a MACD crossover, it's considered a stronger, more reliable signal than the same price move on light volume.",
+    "explanation_zh": "「成交量激增」指股票的成交量遠高於平常水平，往往顯示有大型機構投資者積極買賣，而非單純散戶的短期波動。當股價上升同時伴隨大成交量及其他利好訊號（如MACD黃金交叉），這通常被視為比低成交量下的同等升幅更強、更可靠的訊號。"
   },
   "market_education": {
-    "summary_en": "Today was a quiet, directionless session with the NASDAQ down 0.3% and the S&P 500 essentially flat, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a strong risk-on or risk-off trigger, it made sense to be selective rather than aggressive with new capital. Existing winners were left alone since low-conviction, sideways days aren't a reason to exit positions that are already working.",
-    "summary_zh": "今天市場走勢平淡,納指下跌0.3%,標普500指數幾乎持平,顯示投資人正處於觀望狀態,並未對任何重大消息作出明顯反應。在缺乏明確的風險偏好訊號下,選擇性佈局比大舉加碼更為合理。現有的獲利部位維持不動,因為橫盤整理的中性行情並非出場的理由。",
+    "summary_en": "Major indices drifted slightly lower today with the NASDAQ down 0.6% and the S&P 500 down 0.1%, reflecting a lack of strong directional catalysts rather than any specific negative news. Trading stayed range-bound as investors appeared to digest recent gains without a clear new driver. Individual stocks like CACI and RPM bucked the broader trend, showing strong volume-backed momentum even as the overall market was flat.",
+    "summary_zh": "今日大市個別發展，納指下跌0.6%，標普500則微跌0.1%，反映市場缺乏明確的方向性催化劑，而非受特定利淡消息拖累。大市呈現區間整固格局，投資者似乎在消化早前升幅，暫未見新的驅動力。不過個別股份如CACI及RPM逆市走強，成交量明顯放大，動能訊號強勁。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NU",
-      "conviction": "medium",
-      "reasoning": "Strong multi-signal confirmation (RSI 63.3 bullish zone, MACD bullish crossover, histogram rising, price above SMA-20) adds fintech diversification while cash sits well above the $500 threshold with open slots."
+      "ticker": "CACI",
+      "conviction": "high",
+      "reasoning": "Top-scored candidate with full multi-signal confirmation (RSI in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) indicating institutional participation."
+    },
+    {
+      "action": "BUY",
+      "ticker": "RPM",
+      "conviction": "high",
+      "reasoning": "Matches all four high-conviction criteria plus rising MACD histogram, and open slots plus cash above $500 favor deploying into the strongest setups rather than sitting idle."
     }
   ],
   "outcomes": {
