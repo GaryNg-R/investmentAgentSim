@@ -1,28 +1,22 @@
 {
   "date": "2026-07-22",
-  "briefing": "Markets were flat today (NASDAQ -0.1%, S&P 500 +0.2%) with no clear risk-on or risk-off signal. Added two medium-conviction, multi-signal-confirmed positions to use some of the 4 open slots while keeping the rest of the cash in reserve since there wasn't a strong broad-market catalyst to justify full deployment.",
+  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.3%, S&P500 +0.0%) with no clear risk-on signal. Rather than force capital to work, only NG met the full multi-signal bar including a volume surge, so we added a modest position there and held the rest of the portfolio unchanged.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means checking several technical signals together — like a MACD crossover, RSI in the bullish 55-70 range, and price above its 20-day average — before buying, instead of relying on just one indicator. This helps filter out random price noise and increases confidence that a real uptrend is forming.",
-    "explanation_zh": "動能確認是指在買入前同時檢查多項技術指標，例如MACD黃金交叉、RSI處於55-70的多頭區間，以及股價站上20日均線，而不是只依賴單一指標。這樣可以過濾隨機的價格雜訊，提高判斷真實上升趨勢的信心。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading activity, which suggests real institutional interest rather than a random blip. A stock can look technically bullish on price alone, but without a volume surge, the signal is weaker and less trustworthy. Today, that distinction was the deciding factor between an otherwise similar set of bullish candidates.",
+    "explanation_zh": "成交量確認是指觀察價格變動是否伴隨著高於平常的交易量，這代表背後有實質的機構買盤支撐，而非偶然的價格波動。一檔股票單看價格可能呈現技術面看漲，但若缺乏成交量放大確認，訊號的可信度就會降低。今日在多個技術面相似的看漲候選股中，這正是決定是否進場的關鍵因素。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the NASDAQ dipping slightly and the S&P 500 edging up, suggesting investors were in a wait-and-see mode rather than reacting to a major catalyst. Several individual stocks still showed strong technical momentum even though the broad market was directionless. No major market-moving headlines were available in today's feed to cite.",
-    "summary_zh": "今日大盤走勢平淡，納指微跌、標普小漲，顯示投資人普遍處於觀望狀態，未見明顯的市場催化劑。儘管大盤方向不明，部分個股仍展現強勁的技術動能。今日資訊中並未提供可引用的重大新聞標題。",
+    "summary_en": "Major indices traded essentially flat today, with the NASDAQ dipping 0.3% and the S&P 500 unchanged, reflecting a lack of strong directional conviction among investors. Without a clear catalyst pushing markets higher or lower, trading stayed range-bound and cautious. This kind of quiet, low-volatility session often precedes a bigger move once new information arrives.",
+    "summary_zh": "今日大盤走勢大致持平，納斯達克指數微跌0.3%，標普500指數則持平收盤，反映投資人缺乏明確方向的信心。市場在缺乏強力催化因素的情況下呈現區間震盪、觀望氣氛濃厚。這種低波動的平靜盤整，往往是醞釀下一波較大行情的前奏。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CME",
+      "ticker": "NG",
       "conviction": "medium",
-      "reasoning": "Score 95 with full signal confirmation (RSI 61.9 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20) and diversifies away from tech-heavy holdings into financial exchanges."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CACI",
-      "conviction": "medium",
-      "reasoning": "Score 95 with confirmed uptrend (RSI 59.7, MACD crossover, rising histogram, price above SMA-20) adds defense/IT services exposure uncorrelated with current portfolio."
+      "reasoning": "Only top-scoring candidate with full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge), justifying a selective buy despite a neutral broader market."
     }
   ],
   "outcomes": {
