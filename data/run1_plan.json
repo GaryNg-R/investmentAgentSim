@@ -1,44 +1,19 @@
 {
-  "saved_at": "2026-07-22T13:01:16.186797+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-07-22T14:01:25.923995+00:00",
+  "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "ACMR",
-        "conviction": "high",
-        "reasoning": "Score 100 with full signal confirmation (RSI 68.9, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day."
-      },
-      {
-        "action": "BUY",
-        "ticker": "UCTT",
-        "conviction": "high",
-        "reasoning": "Score 100 with identical full signal confirmation to ACMR, indicating strong institutional participation."
-      },
-      {
-        "action": "BUY",
-        "ticker": "SIND",
-        "conviction": "high",
-        "reasoning": "Score 100 with all five bullish signals present including volume surge, fitting the multi-signal confirmation rule from strategy memory."
-      },
-      {
-        "action": "BUY",
-        "ticker": "DOCN",
-        "conviction": "medium",
-        "reasoning": "Score 95 with the four core confirmation signals (RSI bullish zone, MACD crossover, price above SMA-20, volume surge), fills the last open slot on a risk-on day."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Markets were risk-on today with NASDAQ +1.3% and S&P 500 +0.9%. With 4 open slots and cash above the $500 threshold, we deployed into the four best multi-signal-confirmed momentum candidates while holding all existing positions.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Markets were flat and directionless today (NASDAQ -0.2%, S&P500 +0.0%), showing no clear risk-on signal despite several candidates like CME and RKLB flashing strong multi-signal setups. Per the lesson from prior neutral days, we're holding cash and existing positions rather than forcing a buy, saving dry powder for a genuine risk-on move.",
     "market_education": {
-      "summary_en": "Broad market strength lifted both the NASDAQ and S&P 500 today, with tech and growth names leading gains. Momentum indicators across a wide range of stocks showed bullish crossovers and rising volume, suggesting broad participation rather than a narrow rally. No specific news catalysts were available in today's data feed.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5168\u9762\u8d70\u5f37,\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u63da,\u79d1\u6280\u80a1\u53ca\u6210\u9577\u80a1\u9818\u6f32\u3002\u591a\u96bb\u80a1\u7968\u540c\u6b65\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u6210\u4ea4\u91cf\u653e\u5927,\u986f\u793a\u9019\u6ce2\u5347\u52e2\u53c3\u8207\u9762\u8f03\u5ee3,\u4e26\u975e\u500b\u5225\u677f\u584a\u5e36\u52d5\u3002\u4eca\u65e5\u6578\u64da\u4f86\u6e90\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u4e8b\u4ef6\u4f5c\u70ba\u6f32\u52e2\u7684\u89e3\u91cb\u3002",
+      "summary_en": "Major indices traded essentially flat today, with the NASDAQ dipping slightly and the S&P 500 unchanged, reflecting a lack of strong catalysts to push markets in either direction. Trading volume and volatility appear muted, consistent with a consolidation phase rather than a clear trend. Without fresh news driving conviction, investors appear to be in a wait-and-see mode.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.2%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u6301\u5e73\u6536\u76e4\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u63a8\u52d5\u56e0\u7d20\u3002\u6210\u4ea4\u91cf\u8207\u6ce2\u52d5\u6027\u5747\u986f\u5f97\u5e73\u6de1\uff0c\u8f03\u7b26\u5408\u76e4\u6574\u683c\u5c40\u800c\u975e\u660e\u78ba\u8da8\u52e2\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u6d88\u606f\u9762\u523a\u6fc0\u4e0b\uff0c\u6295\u8cc7\u4eba\u4f3c\u4e4e\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that stocks moving up tend to keep moving up in the near term. Today we looked for stocks confirmed by multiple technical signals together \u2014 RSI, MACD, price versus moving average, and trading volume \u2014 rather than relying on just one indicator.",
-      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u7406\u8ad6\u57fa\u790e\u662f\u77ed\u671f\u5167\u4e0a\u6f32\u7684\u80a1\u7968\u50be\u5411\u65bc\u6301\u7e8c\u4e0a\u6f32\u3002\u4eca\u5929\u6211\u5011\u5c0b\u627e\u7684\u662f\u540c\u6642\u7372\u5f97\u591a\u9805\u6280\u8853\u6307\u6a19\u78ba\u8a8d\u7684\u80a1\u7968\u2014\u2014\u5305\u62ecRSI\u3001MACD\u3001\u80a1\u50f9\u8207\u79fb\u52d5\u5e73\u5747\u7dda\u7684\u95dc\u4fc2,\u4ee5\u53ca\u6210\u4ea4\u91cf\u2014\u2014\u800c\u4e0d\u662f\u55ae\u9760\u4e00\u500b\u6307\u6a19\u505a\u5224\u65b7\u3002"
+      "term": "Consolidation",
+      "explanation_en": "Consolidation is when a market or stock trades sideways within a narrow range, without a clear upward or downward trend. It often happens after a big move, as investors pause to digest information before deciding the next direction \u2014 patience during these periods is usually rewarded over forcing trades.",
+      "explanation_zh": "\u76e4\u6574\uff08Consolidation\uff09\u662f\u6307\u5e02\u5834\u6216\u80a1\u7968\u5728\u4e00\u500b\u72f9\u7a84\u5340\u9593\u5167\u6a6b\u76e4\u9707\u76ea\uff0c\u6c92\u6709\u660e\u986f\u7684\u4e0a\u5347\u6216\u4e0b\u964d\u8da8\u52e2\u3002\u9019\u901a\u5e38\u767c\u751f\u5728\u5927\u5e45\u6ce2\u52d5\u4e4b\u5f8c\uff0c\u6295\u8cc7\u4eba\u5728\u6c7a\u5b9a\u4e0b\u4e00\u6b65\u65b9\u5411\u524d\u5148\u6d88\u5316\u8cc7\u8a0a\u2014\u2014\u5728\u9019\u6bb5\u671f\u9593\u4fdd\u6301\u8010\u5fc3\uff0c\u901a\u5e38\u6bd4\u5f37\u884c\u9032\u5834\u66f4\u6709\u5229\u3002"
     }
   }
 }
