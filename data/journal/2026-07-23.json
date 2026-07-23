@@ -1,14 +1,14 @@
 {
   "date": "2026-07-23",
-  "briefing": "Markets were neutral today with NASDAQ down 0.6% and S&P 500 down 0.1%, showing no clear risk-on signal despite several high-scoring candidates (CACI, RPM, CRK) with full technical confirmation. Consistent with lessons learned, holding cash and existing positions rather than forcing new buys on a flat/slightly negative day — will deploy the 4 open slots when a genuine risk-on setup (NASDAQ +2% or more) emerges.",
+  "briefing": "NASDAQ fell 1.8% and the S&P 500 fell 1.0% today, a clear risk-off signal, and the screener returned no qualifying candidates. With no new buy targets available, we're holding all six existing positions and keeping the $877 cash on hand rather than forcing a trade.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors pull back from aggressive bets because the broad market lacks clear upward momentum, even if some individual stocks look attractive. The lesson is to separate stock-specific signals from overall market conditions — a great-looking candidate isn't enough reason to buy if the broader market itself isn't confirming strength.",
-    "explanation_zh": "「risk-off」（風險趨避）是指當大盤缺乏明確上升動能時，投資人傾向減少積極押注，即使某些個股看起來很有吸引力。這堂課的重點是要分辨「個股訊號」與「整體市場狀況」的不同——即使某檔股票技術面再強，若大盤本身未顯示走強跡象，也不足以構成買入的理由。"
+    "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like stocks, often moving toward cash or safer holdings amid uncertainty. On days like today, it's normal for a stock screener to find zero attractive candidates, since the very signals that indicate strength (rising volume, upward momentum) tend to disappear across the board — the smart move is usually to hold steady rather than force a new trade.",
+    "explanation_zh": "「風險趨避」(Risk-Off)是指投資人在不確定氣氛下,普遍減少持有股票等風險性資產,轉向現金或更穩健的標的。像今天這樣的日子,選股工具找不到任何理想標的其實很正常,因為代表強勢的訊號(如成交量放大、動能向上)在全面下跌時往往同時消失——此時較明智的做法通常是按兵不動,而非勉強進場。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted slightly lower today, with NASDAQ off 0.6% and the S&P 500 roughly flat at -0.1%, reflecting a lack of strong directional conviction among investors. No major catalyst pushed markets sharply in either direction, consistent with a consolidation phase after recent moves. Several individual stocks still showed strong bullish technical setups, but broad-market weakness argues for patience rather than aggressive deployment of cash.",
-    "summary_zh": "今日大盤走勢偏軟，NASDAQ下跌0.6%，標普500指數大致持平，收跌0.1%，反映投資人普遍缺乏明確方向感。市場並無重大消息面催化劑帶動大幅波動，較符合近期漲勢後的整理格局。儘管部分個股技術面仍呈現強勢多頭訊號，但大盤偏弱的背景下，選擇耐心觀望較為審慎，暫不宜積極動用現金加碼。",
+    "summary_en": "Broad-based selling hit the market today, with the NASDAQ down 1.8% and the S&P 500 down 1.0%, indicating a risk-off shift in investor sentiment. No specific news headlines were provided for today's session, so the move likely reflects a combination of profit-taking after recent gains and general macro caution rather than a single catalyst. This kind of broad weakness is also why the momentum screener came up empty — few stocks show the volume and trend strength needed to qualify as buy candidates on a down day.",
+    "summary_zh": "今日市場普遍走弱,納斯達克指數下跌1.8%,標普500指數下跌1.0%,反映投資人情緒轉趨保守。由於今日沒有提供具體新聞標題,這波下跌較可能是近期漲勢後的獲利了結,加上總體經濟不確定性所致,而非單一事件驅動。這種全面走弱的格局,也是選股篩選機制今日未能篩出任何合格候選股的原因——在下跌日,能同時展現量能與趨勢強度的個股寥寥無幾。",
     "sources": []
   },
   "trades": [],
