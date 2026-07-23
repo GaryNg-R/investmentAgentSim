@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-23",
+  "briefing": "Markets were neutral today with NASDAQ down 0.6% and S&P 500 down 0.1%, showing no clear risk-on signal despite several high-scoring candidates (CACI, RPM, CRK) with full technical confirmation. Consistent with lessons learned, holding cash and existing positions rather than forcing new buys on a flat/slightly negative day — will deploy the 4 open slots when a genuine risk-on setup (NASDAQ +2% or more) emerges.",
+  "daily_lesson": {
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors pull back from aggressive bets because the broad market lacks clear upward momentum, even if some individual stocks look attractive. The lesson is to separate stock-specific signals from overall market conditions — a great-looking candidate isn't enough reason to buy if the broader market itself isn't confirming strength.",
+    "explanation_zh": "「risk-off」（風險趨避）是指當大盤缺乏明確上升動能時，投資人傾向減少積極押注，即使某些個股看起來很有吸引力。這堂課的重點是要分辨「個股訊號」與「整體市場狀況」的不同——即使某檔股票技術面再強，若大盤本身未顯示走強跡象，也不足以構成買入的理由。"
+  },
+  "market_education": {
+    "summary_en": "Broad indices drifted slightly lower today, with NASDAQ off 0.6% and the S&P 500 roughly flat at -0.1%, reflecting a lack of strong directional conviction among investors. No major catalyst pushed markets sharply in either direction, consistent with a consolidation phase after recent moves. Several individual stocks still showed strong bullish technical setups, but broad-market weakness argues for patience rather than aggressive deployment of cash.",
+    "summary_zh": "今日大盤走勢偏軟，NASDAQ下跌0.6%，標普500指數大致持平，收跌0.1%，反映投資人普遍缺乏明確方向感。市場並無重大消息面催化劑帶動大幅波動，較符合近期漲勢後的整理格局。儘管部分個股技術面仍呈現強勢多頭訊號，但大盤偏弱的背景下，選擇耐心觀望較為審慎，暫不宜積極動用現金加碼。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13555.735246181488,
+    "cash": 877.1352210044861,
+    "pnl_dollar": 3555.735246181488,
+    "pnl_pct": 35.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
