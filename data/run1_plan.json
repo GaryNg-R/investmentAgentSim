@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-08-04T15:01:24.123336+00:00",
+  "saved_at": "2026-08-04T16:01:15.864302+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "SKHY",
-        "conviction": "high",
-        "reasoning": "Score 95 with RSI 57.9 well within the bullish zone (not overbought), MACD bullish crossover with rising histogram, and price above SMA-20 signal healthy continued momentum."
-      },
-      {
-        "action": "BUY",
-        "ticker": "MU",
+        "ticker": "PFE",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 62.4 still in bullish zone, confirmed MACD crossover and rising histogram, price above SMA-20 on a risk-on day."
+        "reasoning": "Strong risk-on day (NASDAQ +2%) plus PFE's high score, bullish RSI (68.1, not overbought), MACD bullish crossover with rising histogram, and price above SMA-20 justify deploying the small remaining cash balance."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are risk-on today with NASDAQ +1.6% and S&P 500 +1.1%. With 4 open slots and cash above the $500 threshold, deployed into SKHY and MU, both scoring 95 with healthy (non-overbought) RSI and confirmed MACD bullish crossovers. Existing 6 positions are held unchanged as none triggered stop-loss or profit-target conditions.",
+    "briefing": "Markets rallied hard today with NASDAQ +2.0% and S&P 500 +1.4%, a clear risk-on signal. With only $89 cash and 3 open slots, we're taking a small position in PFE (strong momentum signals, not overbought) rather than holding idle cash on a strong up day; existing positions are held unchanged.",
     "market_education": {
-      "summary_en": "Both major indices advanced today, with the NASDAQ outpacing the S&P 500, indicating broad-based risk appetite favoring growth and technology names. No specific news headlines were provided in today's data feed to attribute the move to a single catalyst. The breadth of gains across sectors suggests a general improvement in market sentiment rather than a single-stock driven rally.",
-      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u4e3b\u8981\u6307\u6578\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u9818\u5148\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u5347\u6eab\uff0c\u8cc7\u91d1\u50be\u5411\u6d41\u5165\u79d1\u6280\u53ca\u6210\u9577\u80a1\u3002\u4eca\u65e5\u6578\u64da\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u5f15\u7528\uff0c\u6545\u7121\u6cd5\u6b78\u56e0\u65bc\u55ae\u4e00\u4e8b\u4ef6\u3002\u5f9e\u6f32\u5e45\u5206\u5e03\u4f86\u770b\uff0c\u6b64\u6b21\u4e0a\u6f32\u5c6c\u65bc\u8f03\u5168\u9762\u6027\u7684\u5e02\u5834\u60c5\u7dd2\u6539\u5584\uff0c\u800c\u975e\u55ae\u4e00\u500b\u80a1\u5e36\u52d5\u3002",
+      "summary_en": "Broad indices posted strong gains today, with NASDAQ leading at +2.0% and the S&P 500 up 1.4%, signaling a risk-on shift in investor sentiment. No specific news headlines were provided for today's session, so this move reflects broad-based buying across growth and momentum names. Multiple screened tickers showed bullish technical confirmation (MACD crossovers, rising histograms, prices above their 20-day averages), consistent with a market-wide rally rather than an isolated sector move.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8868\u73fe\u5f37\u52c1\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f322.0%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f321.4%\uff0c\u986f\u793a\u6295\u8cc7\u8005\u60c5\u7dd2\u8f49\u70ba\u98a8\u96aa\u504f\u597d\uff08risk-on\uff09\u3002\u7531\u65bc\u4eca\u65e5\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u982d\u689d\uff0c\u6b64\u6b21\u4e0a\u6f32\u53cd\u6620\u7684\u662f\u6210\u9577\u80a1\u8207\u52d5\u80fd\u80a1\u7684\u5168\u9762\u8cb7\u76e4\uff0c\u800c\u975e\u55ae\u4e00\u6d88\u606f\u9762\u4e8b\u4ef6\u3002\u591a\u652f\u7be9\u9078\u51fa\u7684\u80a1\u7968\u5747\u51fa\u73fe\u6280\u8853\u9762\u8f49\u5f37\u8a0a\u865f\uff08MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u67f1\u72c0\u5716\u4e0a\u5347\u3001\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\uff09\uff0c\u986f\u793a\u9019\u662f\u4e00\u6ce2\u8f03\u70ba\u5168\u9762\u6027\u7684\u5e02\u5834\u53cd\u5f48\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "MACD Crossover",
-      "explanation_en": "A MACD (Moving Average Convergence Divergence) bullish crossover happens when a stock's short-term momentum line crosses above its signal line, often signaling the start of an upward trend. Combined with a rising histogram, it suggests momentum is not just positive but accelerating, which is why both of today's buy candidates showed this pattern.",
-      "explanation_zh": "MACD\uff08\u6307\u6578\u5e73\u6ed1\u7570\u540c\u79fb\u52d5\u5e73\u5747\u7dda\uff09\u9ec3\u91d1\u4ea4\u53c9\u662f\u6307\u80a1\u7968\u7684\u77ed\u671f\u52d5\u80fd\u7dda\u5411\u4e0a\u7a7f\u8d8a\u8a0a\u865f\u7dda\uff0c\u901a\u5e38\u9810\u793a\u4e0a\u5347\u8da8\u52e2\u7684\u958b\u59cb\u3002\u82e5\u540c\u6642\u4f34\u96a8\u67f1\u72c0\u5716\u6301\u7e8c\u653e\u5927\uff0c\u4ee3\u8868\u52d5\u80fd\u4e0d\u50c5\u70ba\u6b63\uff0c\u4e14\u6b63\u5728\u52a0\u901f\uff0c\u9019\u4e5f\u662f\u4eca\u65e5\u5169\u6a94\u8cb7\u5165\u6a19\u7684\u5171\u540c\u5448\u73fe\u7684\u6280\u8853\u578b\u614b\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like a MACD crossover, healthy (not overbought) RSI, price above a key moving average, and ideally volume support \u2014 to align before buying, rather than chasing a single bullish signal. It helps filter out random spikes from genuine, sustained buying interest.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\uff0c\u7b49\u5f85\u591a\u500b\u6280\u8853\u8a0a\u865f\uff08\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u5065\u5eb7\u800c\u975e\u8d85\u8cb7\u7684RSI\u3001\u80a1\u50f9\u7ad9\u4e0a\u95dc\u9375\u5747\u7dda\uff0c\u7406\u60f3\u60c5\u6cc1\u4e0b\u9084\u6709\u6210\u4ea4\u91cf\u652f\u6301\uff09\u540c\u6642\u51fa\u73fe\uff0c\u800c\u4e0d\u662f\u50c5\u6191\u55ae\u4e00\u5229\u591a\u8a0a\u865f\u5c31\u9032\u5834\u3002\u9019\u6709\u52a9\u65bc\u904e\u6ffe\u5076\u767c\u6027\u7684\u50f9\u683c\u6ce2\u52d5\uff0c\u627e\u51fa\u771f\u6b63\u5177\u6301\u7e8c\u6027\u7684\u8cb7\u76e4\u52d5\u80fd\u3002"
     }
   }
 }

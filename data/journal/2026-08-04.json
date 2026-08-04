@@ -1,28 +1,22 @@
 {
   "date": "2026-08-04",
-  "briefing": "Markets are risk-on today with NASDAQ +1.6% and S&P 500 +1.1%. With 4 open slots and cash above the $500 threshold, deployed into SKHY and MU, both scoring 95 with healthy (non-overbought) RSI and confirmed MACD bullish crossovers. Existing 6 positions are held unchanged as none triggered stop-loss or profit-target conditions.",
+  "briefing": "Markets rallied hard today with NASDAQ +2.0% and S&P 500 +1.4%, a clear risk-on signal. With only $89 cash and 3 open slots, we're taking a small position in PFE (strong momentum signals, not overbought) rather than holding idle cash on a strong up day; existing positions are held unchanged.",
   "daily_lesson": {
-    "term": "MACD Crossover",
-    "explanation_en": "A MACD (Moving Average Convergence Divergence) bullish crossover happens when a stock's short-term momentum line crosses above its signal line, often signaling the start of an upward trend. Combined with a rising histogram, it suggests momentum is not just positive but accelerating, which is why both of today's buy candidates showed this pattern.",
-    "explanation_zh": "MACD（指數平滑異同移動平均線）黃金交叉是指股票的短期動能線向上穿越訊號線，通常預示上升趨勢的開始。若同時伴隨柱狀圖持續放大，代表動能不僅為正，且正在加速，這也是今日兩檔買入標的共同呈現的技術型態。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, healthy (not overbought) RSI, price above a key moving average, and ideally volume support — to align before buying, rather than chasing a single bullish signal. It helps filter out random spikes from genuine, sustained buying interest.",
+    "explanation_zh": "動能確認是指在買入前，等待多個技術訊號（如MACD黃金交叉、健康而非超買的RSI、股價站上關鍵均線，理想情況下還有成交量支持）同時出現，而不是僅憑單一利多訊號就進場。這有助於過濾偶發性的價格波動，找出真正具持續性的買盤動能。"
   },
   "market_education": {
-    "summary_en": "Both major indices advanced today, with the NASDAQ outpacing the S&P 500, indicating broad-based risk appetite favoring growth and technology names. No specific news headlines were provided in today's data feed to attribute the move to a single catalyst. The breadth of gains across sectors suggests a general improvement in market sentiment rather than a single-stock driven rally.",
-    "summary_zh": "今日美股主要指數普遍上揚，納斯達克指數升幅領先標普500指數，反映市場風險偏好升溫，資金傾向流入科技及成長股。今日數據未提供具體新聞標題可供引用，故無法歸因於單一事件。從漲幅分布來看，此次上漲屬於較全面性的市場情緒改善，而非單一個股帶動。",
+    "summary_en": "Broad indices posted strong gains today, with NASDAQ leading at +2.0% and the S&P 500 up 1.4%, signaling a risk-on shift in investor sentiment. No specific news headlines were provided for today's session, so this move reflects broad-based buying across growth and momentum names. Multiple screened tickers showed bullish technical confirmation (MACD crossovers, rising histograms, prices above their 20-day averages), consistent with a market-wide rally rather than an isolated sector move.",
+    "summary_zh": "今日大盤表現強勁，納斯達克指數上漲2.0%，標普500指數上漲1.4%，顯示投資者情緒轉為風險偏好（risk-on）。由於今日未提供具體新聞頭條，此次上漲反映的是成長股與動能股的全面買盤，而非單一消息面事件。多支篩選出的股票均出現技術面轉強訊號（MACD黃金交叉、柱狀圖上升、股價站上20日均線），顯示這是一波較為全面性的市場反彈。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "SKHY",
-      "conviction": "high",
-      "reasoning": "Score 95 with RSI 57.9 well within the bullish zone (not overbought), MACD bullish crossover with rising histogram, and price above SMA-20 signal healthy continued momentum."
-    },
-    {
-      "action": "BUY",
-      "ticker": "MU",
+      "ticker": "PFE",
       "conviction": "medium",
-      "reasoning": "Score 95 with RSI 62.4 still in bullish zone, confirmed MACD crossover and rising histogram, price above SMA-20 on a risk-on day."
+      "reasoning": "Strong risk-on day (NASDAQ +2%) plus PFE's high score, bullish RSI (68.1, not overbought), MACD bullish crossover with rising histogram, and price above SMA-20 justify deploying the small remaining cash balance."
     }
   ],
   "outcomes": {
