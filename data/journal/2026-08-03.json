@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-03",
+  "briefing": "Broad market data was unavailable today (NASDAQ/S&P flat), so rather than force trades off an unclear macro signal, we deployed a portion of idle cash into two individual stocks showing full technical confirmation (SLS, PLBL) and left the rest for a clearer risk-on day.",
+  "daily_lesson": {
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the idea that stocks moving up tend to keep moving up in the short term. Today's picks (SLS, PLBL) were chosen because multiple technical indicators — RSI, MACD, price vs. moving average, and volume — all pointed the same bullish direction at once.",
+    "explanation_zh": "動能投資是指買入已經呈現強勁上升價格及成交量趨勢的股票，其理念是短期內上升中的股票往往會延續升勢。今日選中的SLS及PLBL,是因為多項技術指標(RSI、MACD、股價與移動平均線的關係、成交量)同時指向同一個看漲方向。"
+  },
+  "market_education": {
+    "summary_en": "Index-level data wasn't available today, so no reliable read on the overall market direction. Instead of trading on the broad market, we focused on individual stocks showing strong, confirmed technical momentum. This kind of bottom-up stock picking can work even when the macro picture is murky.",
+    "summary_zh": "今日大盤數據暫時無法取得，因此無法準確判斷大市走向。與其憑不明朗的宏觀訊號進行交易,我們改為聚焦於個別股票的強勁技術動能訊號。即使大市方向不明，這種由下而上的選股策略仍然可行。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "SLS",
+      "conviction": "high",
+      "reasoning": "Highest-scoring candidate (100) with all five bullish signals confirmed: RSI in the sweet zone, MACD crossover with rising histogram, price above SMA-20, and a volume surge indicating institutional buying."
+    },
+    {
+      "action": "BUY",
+      "ticker": "PLBL",
+      "conviction": "medium",
+      "reasoning": "Strong four-signal confirmation (RSI 55.4, MACD crossover, price above SMA-20, volume surge) with the most room left before overbought, but sized medium given today's unclear broad-market direction."
+    }
+  ],
+  "outcomes": {
+    "total_value": 13655.735246181488,
+    "cash": 977.1352210044861,
+    "pnl_dollar": 3655.735246181488,
+    "pnl_pct": 36.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
