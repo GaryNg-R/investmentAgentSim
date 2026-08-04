@@ -1,28 +1,28 @@
 {
   "date": "2026-08-04",
-  "briefing": "NASDAQ jumped +2.1% and S&P 500 +1.5% today, a clear risk-on session, so we deployed idle cash into two of the strongest momentum names with full four-signal confirmation. Existing positions were left untouched to let profit targets and stop-losses continue working automatically.",
+  "briefing": "Markets are risk-on today with NASDAQ +1.3% and S&P 500 +0.8%. With $977 in cash and 4 open slots, we're deploying into ARM and MU, both showing full multi-signal confirmation (bullish RSI, MACD crossover, volume surge) without being overbought, while holding the existing six positions unchanged.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means checking multiple independent signals — like RSI, MACD crossovers, price relative to moving averages, and volume — before trusting a stock's upward move. When several signals align at once (as with today's buys), it suggests real buying interest rather than random noise, which lowers the risk of chasing a false breakout.",
-    "explanation_zh": "動能確認是指在信任股價升勢前,同時檢視多個獨立指標,例如RSI、MACD交叉訊號、股價與均線的關係,以及成交量。當多個訊號同時出現(如今日的買入決定),代表市場有真實的買盤支持,而非隨機波動,有助降低追高「假突破」的風險。"
+    "term": "RSI Bullish Zone (Multi-Signal Confirmation)",
+    "explanation_en": "When a stock's RSI sits between 55 and 70, it's rising with strong momentum but hasn't hit \"overbought\" territory yet — a sweet spot compared to stocks with RSI above 70. Combining this with a bullish MACD crossover and a volume surge gives much higher confidence a rally has real institutional backing, not just a short-term spike.",
+    "explanation_zh": "當一檔股票的RSI（相對強弱指標）介於55至70之間，代表它正處於強勁上升動能，但尚未進入「超買」區域（RSI高於70）——這是相對理想的買點。若同時出現MACD黃金交叉與成交量放大，則更能確認此波上漲背後有機構資金支持，而非短暫的投機性拉抬。"
   },
   "market_education": {
-    "summary_en": "Markets rallied broadly today with the NASDAQ leading gains at +2.1% and the S&P 500 up +1.5%, indicating strong risk appetite across both growth and broader market sectors. Volume surges across several momentum names suggest institutional buyers were active rather than just retail speculation. This kind of broad-based strength, rather than a single-stock move, typically reflects a shift in overall market sentiment.",
-    "summary_zh": "今日大市普遍上揚,納斯達克指數領漲,升幅達2.1%,標普500指數亦上升1.5%,顯示市場風險胃納明顯增強,增長股及大盤股同步走強。多隻具動能的股份出現成交量顯著放大,反映機構資金活躍進場,而非單純散戶炒作。這種全面性而非個別股份的升勢,通常反映整體市場情緒的轉向。",
+    "summary_en": "Broad indices advanced today, led by strength in tech and semiconductor names, with the NASDAQ outpacing the S&P 500. Several momentum candidates showed coordinated volume surges alongside bullish MACD crossovers, suggesting institutional buying rather than isolated speculative moves. No single headline catalyst was identified in today's data feed, so the move looks more like broad-based sector rotation into growth and semis.",
+    "summary_zh": "今日大盤上揚，科技股與半導體類股表現領先，納指漲幅超越標普500指數。多隻具動能的候選股同時出現成交量放大及MACD黃金交叉訊號，顯示可能有機構資金進場，而非單純散戶炒作。今日數據中未見明確的單一新聞觸發因素，此波上漲較像是資金廣泛輪動至成長股與半導體板塊所致。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "SLS",
+      "ticker": "ARM",
       "conviction": "high",
-      "reasoning": "Highest score (100) with full multi-signal confirmation — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge — on a strong risk-on day."
+      "reasoning": "RSI 68.1 in the healthy bullish zone with MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge — full multi-signal confirmation on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "PLBL",
-      "conviction": "medium",
-      "reasoning": "RSI 55.4 leaves room to run before overbought, with MACD crossover, price above SMA-20, and volume surge confirming institutional participation."
+      "ticker": "MU",
+      "conviction": "high",
+      "reasoning": "Score 100 with RSI 60.5 (not overbought), bullish MACD crossover, rising histogram, price above SMA-20, and volume surge confirm institutional buying interest."
     }
   ],
   "outcomes": {
