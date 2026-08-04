@@ -1,33 +1,33 @@
 {
   "date": "2026-08-04",
-  "briefing": "Markets are risk-on today with NASDAQ +1.3% and S&P 500 +0.8%. With $977 in cash and 4 open slots, we're deploying into ARM and MU, both showing full multi-signal confirmation (bullish RSI, MACD crossover, volume surge) without being overbought, while holding the existing six positions unchanged.",
+  "briefing": "Markets are risk-on today with NASDAQ +1.6% and S&P 500 +1.1%. With 4 open slots and cash above the $500 threshold, deployed into SKHY and MU, both scoring 95 with healthy (non-overbought) RSI and confirmed MACD bullish crossovers. Existing 6 positions are held unchanged as none triggered stop-loss or profit-target conditions.",
   "daily_lesson": {
-    "term": "RSI Bullish Zone (Multi-Signal Confirmation)",
-    "explanation_en": "When a stock's RSI sits between 55 and 70, it's rising with strong momentum but hasn't hit \"overbought\" territory yet — a sweet spot compared to stocks with RSI above 70. Combining this with a bullish MACD crossover and a volume surge gives much higher confidence a rally has real institutional backing, not just a short-term spike.",
-    "explanation_zh": "當一檔股票的RSI（相對強弱指標）介於55至70之間，代表它正處於強勁上升動能，但尚未進入「超買」區域（RSI高於70）——這是相對理想的買點。若同時出現MACD黃金交叉與成交量放大，則更能確認此波上漲背後有機構資金支持，而非短暫的投機性拉抬。"
+    "term": "MACD Crossover",
+    "explanation_en": "A MACD (Moving Average Convergence Divergence) bullish crossover happens when a stock's short-term momentum line crosses above its signal line, often signaling the start of an upward trend. Combined with a rising histogram, it suggests momentum is not just positive but accelerating, which is why both of today's buy candidates showed this pattern.",
+    "explanation_zh": "MACD（指數平滑異同移動平均線）黃金交叉是指股票的短期動能線向上穿越訊號線，通常預示上升趨勢的開始。若同時伴隨柱狀圖持續放大，代表動能不僅為正，且正在加速，這也是今日兩檔買入標的共同呈現的技術型態。"
   },
   "market_education": {
-    "summary_en": "Broad indices advanced today, led by strength in tech and semiconductor names, with the NASDAQ outpacing the S&P 500. Several momentum candidates showed coordinated volume surges alongside bullish MACD crossovers, suggesting institutional buying rather than isolated speculative moves. No single headline catalyst was identified in today's data feed, so the move looks more like broad-based sector rotation into growth and semis.",
-    "summary_zh": "今日大盤上揚，科技股與半導體類股表現領先，納指漲幅超越標普500指數。多隻具動能的候選股同時出現成交量放大及MACD黃金交叉訊號，顯示可能有機構資金進場，而非單純散戶炒作。今日數據中未見明確的單一新聞觸發因素，此波上漲較像是資金廣泛輪動至成長股與半導體板塊所致。",
+    "summary_en": "Both major indices advanced today, with the NASDAQ outpacing the S&P 500, indicating broad-based risk appetite favoring growth and technology names. No specific news headlines were provided in today's data feed to attribute the move to a single catalyst. The breadth of gains across sectors suggests a general improvement in market sentiment rather than a single-stock driven rally.",
+    "summary_zh": "今日美股主要指數普遍上揚，納斯達克指數升幅領先標普500指數，反映市場風險偏好升溫，資金傾向流入科技及成長股。今日數據未提供具體新聞標題可供引用，故無法歸因於單一事件。從漲幅分布來看，此次上漲屬於較全面性的市場情緒改善，而非單一個股帶動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ARM",
+      "ticker": "SKHY",
       "conviction": "high",
-      "reasoning": "RSI 68.1 in the healthy bullish zone with MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge — full multi-signal confirmation on a risk-on day."
+      "reasoning": "Score 95 with RSI 57.9 well within the bullish zone (not overbought), MACD bullish crossover with rising histogram, and price above SMA-20 signal healthy continued momentum."
     },
     {
       "action": "BUY",
       "ticker": "MU",
-      "conviction": "high",
-      "reasoning": "Score 100 with RSI 60.5 (not overbought), bullish MACD crossover, rising histogram, price above SMA-20, and volume surge confirm institutional buying interest."
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 62.4 still in bullish zone, confirmed MACD crossover and rising histogram, price above SMA-20 on a risk-on day."
     }
   ],
   "outcomes": {
     "total_value": 13655.735246181488,
-    "cash": 977.1352210044861,
+    "cash": 89.28500127792358,
     "pnl_dollar": 3655.735246181488,
     "pnl_pct": 36.55735246181488,
     "positions": [
@@ -60,6 +60,11 @@
         "ticker": "INOD",
         "shares": 23.0,
         "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
       }
     ]
   }
