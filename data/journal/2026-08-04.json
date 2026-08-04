@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-04",
+  "briefing": "NASDAQ jumped +2.1% and S&P 500 +1.5% today, a clear risk-on session, so we deployed idle cash into two of the strongest momentum names with full four-signal confirmation. Existing positions were left untouched to let profit targets and stop-losses continue working automatically.",
+  "daily_lesson": {
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means checking multiple independent signals — like RSI, MACD crossovers, price relative to moving averages, and volume — before trusting a stock's upward move. When several signals align at once (as with today's buys), it suggests real buying interest rather than random noise, which lowers the risk of chasing a false breakout.",
+    "explanation_zh": "動能確認是指在信任股價升勢前,同時檢視多個獨立指標,例如RSI、MACD交叉訊號、股價與均線的關係,以及成交量。當多個訊號同時出現(如今日的買入決定),代表市場有真實的買盤支持,而非隨機波動,有助降低追高「假突破」的風險。"
+  },
+  "market_education": {
+    "summary_en": "Markets rallied broadly today with the NASDAQ leading gains at +2.1% and the S&P 500 up +1.5%, indicating strong risk appetite across both growth and broader market sectors. Volume surges across several momentum names suggest institutional buyers were active rather than just retail speculation. This kind of broad-based strength, rather than a single-stock move, typically reflects a shift in overall market sentiment.",
+    "summary_zh": "今日大市普遍上揚,納斯達克指數領漲,升幅達2.1%,標普500指數亦上升1.5%,顯示市場風險胃納明顯增強,增長股及大盤股同步走強。多隻具動能的股份出現成交量顯著放大,反映機構資金活躍進場,而非單純散戶炒作。這種全面性而非個別股份的升勢,通常反映整體市場情緒的轉向。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "SLS",
+      "conviction": "high",
+      "reasoning": "Highest score (100) with full multi-signal confirmation — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge — on a strong risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "PLBL",
+      "conviction": "medium",
+      "reasoning": "RSI 55.4 leaves room to run before overbought, with MACD crossover, price above SMA-20, and volume surge confirming institutional participation."
+    }
+  ],
+  "outcomes": {
+    "total_value": 13655.735246181488,
+    "cash": 977.1352210044861,
+    "pnl_dollar": 3655.735246181488,
+    "pnl_pct": 36.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      }
+    ]
+  }
+}
