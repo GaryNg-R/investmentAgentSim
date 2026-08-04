@@ -1,24 +1,17 @@
 {
   "date": "2026-08-04",
-  "briefing": "Markets rallied sharply today with NASDAQ +2.7% and S&P 500 +1.9%, a clear risk-on signal. Cash is low ($89.29) so we're deploying it into PFE, the top-scoring candidate with clean bullish signals and no overbought warning, while holding all 7 existing positions.",
+  "briefing": "NASDAQ +2.6% and S&P 500 +1.8% today mark a strong risk-on session, but with only $89.29 cash on hand (well below the $500 deployment threshold), there isn't enough capital to open a meaningful new position even though 3 slots are open. Holding all 7 existing positions unchanged and letting the automatic stop-loss/profit-target rules manage them.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of buying just because RSI is overbought or a stock is jumping, look for several signals lining up together — like RSI in a healthy bullish range, a MACD crossover, and price above its moving average. When multiple independent signals agree, it's a stronger, more reliable buy setup than chasing a single overbought spike.",
-    "explanation_zh": "買入決定不應只憑RSI超買或股價急升,而應觀察多個指標是否同時配合,例如RSI處於健康的偏好區間、MACD出現黃金交叉,以及股價高於平均線。當多個獨立訊號同時確認,買入訊號會比單純追逐超買急升股份更可靠。"
+    "term": "Cash Constraint",
+    "explanation_en": "Even on a strong risk-on day, a portfolio with very little uninvested cash simply can't chase every opportunity — there's no capital left to deploy. Disciplined investors avoid forcing trades they can't properly size, and instead wait for cash to free up (via sells or deposits) before adding new positions.",
+    "explanation_zh": "即使今日大市造好，若組合內現金極少，也無法追逐每個機會，因為根本沒有資金可運用。有紀律的投資者不會勉強做出資金規模不足的交易，而是等待現金（透過賣出或注資）釋放後，才再開新倉。"
   },
   "market_education": {
-    "summary_en": "Broad market strength today, with NASDAQ up 2.7% and the S&P 500 up 1.9%, points to a risk-on session where investors rotated into growth and momentum names. Most screened candidates are now showing overbought RSI readings above 70, suggesting the rally has been running hot across many sectors. PFE stands out with healthier, less-stretched technicals (RSI 61.5) rather than joining the overbought crowd.",
-    "summary_zh": "今日大市造好,納指升2.7%,標普500升1.9%,反映市場處於「risk-on」(風險偏好)氣氛,資金流向增長及動能股。不過篩選名單中大部分候選股RSI已升穿70,屬超買區,顯示今輪升浪部分股份已略為過熱。相對而言,輝瑞(PFE)技術指標較為健康(RSI 61.5),未見超買,故成為今日首選。",
+    "summary_en": "Markets rallied broadly today, with the NASDAQ up 2.6% and the S&P 500 up 1.8%, reflecting a risk-on tone across equities. No specific news headlines were provided for today's session, so this move reflects general market data rather than a single catalyst. Broad-based gains like this often signal improving investor sentiment toward growth and technology names.",
+    "summary_zh": "今日大市普遍上揚，納斯達克指數升2.6%，標普500指數升1.8%，反映投資者風險胃納增加。今日未提供具體新聞標題，故此升勢反映的是整體市場數據而非單一事件推動。這類廣泛上漲通常顯示投資者對增長型及科技股的信心正在改善。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "PFE",
-      "conviction": "high",
-      "reasoning": "Strong risk-on day (NASDAQ +2.7%) plus PFE is the only candidate with full multi-signal confirmation (RSI 61.5 bullish zone, MACD bullish crossover, price above SMA-20) rather than being overbought like most of the list."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13655.735246181488,
     "cash": 89.28500127792358,

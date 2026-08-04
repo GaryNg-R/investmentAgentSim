@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-08-04T19:01:00.126619+00:00",
+  "saved_at": "2026-08-04T20:00:51.277243+00:00",
   "market_direction": "risk_on",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "PFE",
-        "conviction": "high",
-        "reasoning": "Strong risk-on day (NASDAQ +2.7%) plus PFE is the only candidate with full multi-signal confirmation (RSI 61.5 bullish zone, MACD bullish crossover, price above SMA-20) rather than being overbought like most of the list."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Markets rallied sharply today with NASDAQ +2.7% and S&P 500 +1.9%, a clear risk-on signal. Cash is low ($89.29) so we're deploying it into PFE, the top-scoring candidate with clean bullish signals and no overbought warning, while holding all 7 existing positions.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "NASDAQ +2.6% and S&P 500 +1.8% today mark a strong risk-on session, but with only $89.29 cash on hand (well below the $500 deployment threshold), there isn't enough capital to open a meaningful new position even though 3 slots are open. Holding all 7 existing positions unchanged and letting the automatic stop-loss/profit-target rules manage them.",
     "market_education": {
-      "summary_en": "Broad market strength today, with NASDAQ up 2.7% and the S&P 500 up 1.9%, points to a risk-on session where investors rotated into growth and momentum names. Most screened candidates are now showing overbought RSI readings above 70, suggesting the rally has been running hot across many sectors. PFE stands out with healthier, less-stretched technicals (RSI 61.5) rather than joining the overbought crowd.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u9020\u597d,\u7d0d\u6307\u53472.7%,\u6a19\u666e500\u53471.9%,\u53cd\u6620\u5e02\u5834\u8655\u65bc\u300crisk-on\u300d(\u98a8\u96aa\u504f\u597d)\u6c23\u6c1b,\u8cc7\u91d1\u6d41\u5411\u589e\u9577\u53ca\u52d5\u80fd\u80a1\u3002\u4e0d\u904e\u7be9\u9078\u540d\u55ae\u4e2d\u5927\u90e8\u5206\u5019\u9078\u80a1RSI\u5df2\u5347\u7a7f70,\u5c6c\u8d85\u8cb7\u5340,\u986f\u793a\u4eca\u8f2a\u5347\u6d6a\u90e8\u5206\u80a1\u4efd\u5df2\u7565\u70ba\u904e\u71b1\u3002\u76f8\u5c0d\u800c\u8a00,\u8f1d\u745e(PFE)\u6280\u8853\u6307\u6a19\u8f03\u70ba\u5065\u5eb7(RSI 61.5),\u672a\u898b\u8d85\u8cb7,\u6545\u6210\u70ba\u4eca\u65e5\u9996\u9078\u3002",
+      "summary_en": "Markets rallied broadly today, with the NASDAQ up 2.6% and the S&P 500 up 1.8%, reflecting a risk-on tone across equities. No specific news headlines were provided for today's session, so this move reflects general market data rather than a single catalyst. Broad-based gains like this often signal improving investor sentiment toward growth and technology names.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53472.6%\uff0c\u6a19\u666e500\u6307\u6578\u53471.8%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u80c3\u7d0d\u589e\u52a0\u3002\u4eca\u65e5\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\uff0c\u6545\u6b64\u5347\u52e2\u53cd\u6620\u7684\u662f\u6574\u9ad4\u5e02\u5834\u6578\u64da\u800c\u975e\u55ae\u4e00\u4e8b\u4ef6\u63a8\u52d5\u3002\u9019\u985e\u5ee3\u6cdb\u4e0a\u6f32\u901a\u5e38\u986f\u793a\u6295\u8cc7\u8005\u5c0d\u589e\u9577\u578b\u53ca\u79d1\u6280\u80a1\u7684\u4fe1\u5fc3\u6b63\u5728\u6539\u5584\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Instead of buying just because RSI is overbought or a stock is jumping, look for several signals lining up together \u2014 like RSI in a healthy bullish range, a MACD crossover, and price above its moving average. When multiple independent signals agree, it's a stronger, more reliable buy setup than chasing a single overbought spike.",
-      "explanation_zh": "\u8cb7\u5165\u6c7a\u5b9a\u4e0d\u61c9\u53ea\u6191RSI\u8d85\u8cb7\u6216\u80a1\u50f9\u6025\u5347,\u800c\u61c9\u89c0\u5bdf\u591a\u500b\u6307\u6a19\u662f\u5426\u540c\u6642\u914d\u5408,\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u7684\u504f\u597d\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9,\u4ee5\u53ca\u80a1\u50f9\u9ad8\u65bc\u5e73\u5747\u7dda\u3002\u7576\u591a\u500b\u7368\u7acb\u8a0a\u865f\u540c\u6642\u78ba\u8a8d,\u8cb7\u5165\u8a0a\u865f\u6703\u6bd4\u55ae\u7d14\u8ffd\u9010\u8d85\u8cb7\u6025\u5347\u80a1\u4efd\u66f4\u53ef\u9760\u3002"
+      "term": "Cash Constraint",
+      "explanation_en": "Even on a strong risk-on day, a portfolio with very little uninvested cash simply can't chase every opportunity \u2014 there's no capital left to deploy. Disciplined investors avoid forcing trades they can't properly size, and instead wait for cash to free up (via sells or deposits) before adding new positions.",
+      "explanation_zh": "\u5373\u4f7f\u4eca\u65e5\u5927\u5e02\u9020\u597d\uff0c\u82e5\u7d44\u5408\u5167\u73fe\u91d1\u6975\u5c11\uff0c\u4e5f\u7121\u6cd5\u8ffd\u9010\u6bcf\u500b\u6a5f\u6703\uff0c\u56e0\u70ba\u6839\u672c\u6c92\u6709\u8cc7\u91d1\u53ef\u904b\u7528\u3002\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u4e0d\u6703\u52c9\u5f37\u505a\u51fa\u8cc7\u91d1\u898f\u6a21\u4e0d\u8db3\u7684\u4ea4\u6613\uff0c\u800c\u662f\u7b49\u5f85\u73fe\u91d1\uff08\u900f\u904e\u8ce3\u51fa\u6216\u6ce8\u8cc7\uff09\u91cb\u653e\u5f8c\uff0c\u624d\u518d\u958b\u65b0\u5009\u3002"
     }
   }
 }
