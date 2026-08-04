@@ -1,24 +1,17 @@
 {
   "date": "2026-08-04",
-  "briefing": "Markets rallied hard today with NASDAQ +2.0% and S&P 500 +1.4%, a clear risk-on signal. With only $89 cash and 3 open slots, we're taking a small position in PFE (strong momentum signals, not overbought) rather than holding idle cash on a strong up day; existing positions are held unchanged.",
+  "briefing": "Market is strongly risk-on today (NASDAQ +2.2%, S&P 500 +1.7%), and existing holdings should be left alone to run per prior lessons. No new buys today because available cash ($89.29) is far below the $500 threshold needed to open a meaningful new position, even though 3 slots are open.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, healthy (not overbought) RSI, price above a key moving average, and ideally volume support — to align before buying, rather than chasing a single bullish signal. It helps filter out random spikes from genuine, sustained buying interest.",
-    "explanation_zh": "動能確認是指在買入前，等待多個技術訊號（如MACD黃金交叉、健康而非超買的RSI、股價站上關鍵均線，理想情況下還有成交量支持）同時出現，而不是僅憑單一利多訊號就進場。這有助於過濾偶發性的價格波動，找出真正具持續性的買盤動能。"
+    "term": "Cash Reserves",
+    "explanation_en": "Even when the market is rallying and you have open slots in your portfolio, you can't act on new opportunities if your cash balance is too small to fund a meaningful position. Keeping a reasonable cash buffer (or trimming a position) ensures you can actually deploy capital when good setups appear.",
+    "explanation_zh": "即使市場上漲、投資組合仍有空位，如果現金水平太低，也無法把握新的入市機會。保持一定的現金儲備（或適時減持部分持股），才能確保有能力在出現好機會時真正投入資金。"
   },
   "market_education": {
-    "summary_en": "Broad indices posted strong gains today, with NASDAQ leading at +2.0% and the S&P 500 up 1.4%, signaling a risk-on shift in investor sentiment. No specific news headlines were provided for today's session, so this move reflects broad-based buying across growth and momentum names. Multiple screened tickers showed bullish technical confirmation (MACD crossovers, rising histograms, prices above their 20-day averages), consistent with a market-wide rally rather than an isolated sector move.",
-    "summary_zh": "今日大盤表現強勁，納斯達克指數上漲2.0%，標普500指數上漲1.4%，顯示投資者情緒轉為風險偏好（risk-on）。由於今日未提供具體新聞頭條，此次上漲反映的是成長股與動能股的全面買盤，而非單一消息面事件。多支篩選出的股票均出現技術面轉強訊號（MACD黃金交叉、柱狀圖上升、股價站上20日均線），顯示這是一波較為全面性的市場反彈。",
+    "summary_en": "Broad indices rallied sharply today, with the NASDAQ outperforming the S&P 500, suggesting strength concentrated in growth and tech-oriented names. No specific news headlines were provided for today's session, so this reflects the price action data only rather than a confirmed catalyst.",
+    "summary_zh": "今日大盤明顯上漲，納斯達克指數升幅超過標普500指數，反映資金傾向流入科技及成長型股份。由於今日未提供具體新聞標題，此總結僅根據價格走勢數據，未能確認明確的市場催化因素。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "PFE",
-      "conviction": "medium",
-      "reasoning": "Strong risk-on day (NASDAQ +2%) plus PFE's high score, bullish RSI (68.1, not overbought), MACD bullish crossover with rising histogram, and price above SMA-20 justify deploying the small remaining cash balance."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13655.735246181488,
     "cash": 89.28500127792358,
