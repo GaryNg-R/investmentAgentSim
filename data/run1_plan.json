@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-04T20:00:51.277243+00:00",
+  "saved_at": "2026-08-04T21:00:57.468588+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "NASDAQ +2.6% and S&P 500 +1.8% today mark a strong risk-on session, but with only $89.29 cash on hand (well below the $500 deployment threshold), there isn't enough capital to open a meaningful new position even though 3 slots are open. Holding all 7 existing positions unchanged and letting the automatic stop-loss/profit-target rules manage them.",
+    "skip_new_buys": false,
+    "briefing": "NASDAQ +2.6% and S&P 500 +1.8% made today a clear risk-on day, but cash is only $89.29 \u2014 far below what's needed to open a new position \u2014 so no new buys are possible despite 3 open slots. Holding all 7 existing positions, which are up +36.6% overall; strong performers should keep running rather than being trimmed on a bullish day.",
     "market_education": {
-      "summary_en": "Markets rallied broadly today, with the NASDAQ up 2.6% and the S&P 500 up 1.8%, reflecting a risk-on tone across equities. No specific news headlines were provided for today's session, so this move reflects general market data rather than a single catalyst. Broad-based gains like this often signal improving investor sentiment toward growth and technology names.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53472.6%\uff0c\u6a19\u666e500\u6307\u6578\u53471.8%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u80c3\u7d0d\u589e\u52a0\u3002\u4eca\u65e5\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\uff0c\u6545\u6b64\u5347\u52e2\u53cd\u6620\u7684\u662f\u6574\u9ad4\u5e02\u5834\u6578\u64da\u800c\u975e\u55ae\u4e00\u4e8b\u4ef6\u63a8\u52d5\u3002\u9019\u985e\u5ee3\u6cdb\u4e0a\u6f32\u901a\u5e38\u986f\u793a\u6295\u8cc7\u8005\u5c0d\u589e\u9577\u578b\u53ca\u79d1\u6280\u80a1\u7684\u4fe1\u5fc3\u6b63\u5728\u6539\u5584\u3002",
+      "summary_en": "Broad indices rallied today, with the NASDAQ up 2.6% and the S&P 500 up 1.8%, indicating a risk-on tone across equities. No specific news headlines were provided for today's session, so this move reflects general market data rather than a single catalyst. The portfolio's existing holdings benefited from this broad-based strength.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u9020\u597d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53472.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53471.8%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u5347\u6eab\u3002\u7531\u65bc\u4eca\u65e5\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\uff0c\u9019\u6b21\u5347\u5e45\u4e3b\u8981\u53cd\u6620\u6574\u9ad4\u5e02\u5834\u6578\u64da\uff0c\u800c\u975e\u55ae\u4e00\u4e8b\u4ef6\u6240\u81f4\u3002\u73fe\u6709\u6301\u5009\u4ea6\u53d7\u60e0\u65bc\u9019\u6b21\u666e\u904d\u6027\u7684\u5347\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Cash Constraint",
-      "explanation_en": "Even on a strong risk-on day, a portfolio with very little uninvested cash simply can't chase every opportunity \u2014 there's no capital left to deploy. Disciplined investors avoid forcing trades they can't properly size, and instead wait for cash to free up (via sells or deposits) before adding new positions.",
-      "explanation_zh": "\u5373\u4f7f\u4eca\u65e5\u5927\u5e02\u9020\u597d\uff0c\u82e5\u7d44\u5408\u5167\u73fe\u91d1\u6975\u5c11\uff0c\u4e5f\u7121\u6cd5\u8ffd\u9010\u6bcf\u500b\u6a5f\u6703\uff0c\u56e0\u70ba\u6839\u672c\u6c92\u6709\u8cc7\u91d1\u53ef\u904b\u7528\u3002\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u4e0d\u6703\u52c9\u5f37\u505a\u51fa\u8cc7\u91d1\u898f\u6a21\u4e0d\u8db3\u7684\u4ea4\u6613\uff0c\u800c\u662f\u7b49\u5f85\u73fe\u91d1\uff08\u900f\u904e\u8ce3\u51fa\u6216\u6ce8\u8cc7\uff09\u91cb\u653e\u5f8c\uff0c\u624d\u518d\u958b\u65b0\u5009\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "\"Dry powder\" refers to cash kept in reserve to take advantage of good buying opportunities. Today was a strong risk-on day, but with only $89.29 in cash, the portfolio couldn't add new positions even though 3 slots were open \u2014 a reminder that having too little cash on hand can mean missing out on favorable market moves.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u9810\u7559\u73fe\u91d1\u4ee5\u628a\u63e1\u826f\u597d\u7684\u8cb7\u5165\u6a5f\u6703\u3002\u4eca\u65e5\u5927\u5e02\u9020\u597d\uff0c\u4f46\u7531\u65bc\u73fe\u91d1\u53ea\u526989.29\u7f8e\u5143\uff0c\u5373\u4f7f\u67093\u500b\u6301\u5009\u7a7a\u4f4d\uff0c\u4e5f\u7121\u6cd5\u65b0\u589e\u6295\u8cc7\u90e8\u4f4d\u2014\u2014\u63d0\u9192\u6295\u8cc7\u8005\u73fe\u91d1\u4e0d\u8db3\u6642\uff0c\u53ef\u80fd\u6703\u932f\u5931\u6709\u5229\u7684\u5165\u5e02\u6642\u6a5f\u3002"
     }
   }
 }

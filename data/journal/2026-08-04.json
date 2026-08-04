@@ -1,14 +1,14 @@
 {
   "date": "2026-08-04",
-  "briefing": "NASDAQ +2.6% and S&P 500 +1.8% today mark a strong risk-on session, but with only $89.29 cash on hand (well below the $500 deployment threshold), there isn't enough capital to open a meaningful new position even though 3 slots are open. Holding all 7 existing positions unchanged and letting the automatic stop-loss/profit-target rules manage them.",
+  "briefing": "NASDAQ +2.6% and S&P 500 +1.8% made today a clear risk-on day, but cash is only $89.29 — far below what's needed to open a new position — so no new buys are possible despite 3 open slots. Holding all 7 existing positions, which are up +36.6% overall; strong performers should keep running rather than being trimmed on a bullish day.",
   "daily_lesson": {
-    "term": "Cash Constraint",
-    "explanation_en": "Even on a strong risk-on day, a portfolio with very little uninvested cash simply can't chase every opportunity — there's no capital left to deploy. Disciplined investors avoid forcing trades they can't properly size, and instead wait for cash to free up (via sells or deposits) before adding new positions.",
-    "explanation_zh": "即使今日大市造好，若組合內現金極少，也無法追逐每個機會，因為根本沒有資金可運用。有紀律的投資者不會勉強做出資金規模不足的交易，而是等待現金（透過賣出或注資）釋放後，才再開新倉。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept in reserve to take advantage of good buying opportunities. Today was a strong risk-on day, but with only $89.29 in cash, the portfolio couldn't add new positions even though 3 slots were open — a reminder that having too little cash on hand can mean missing out on favorable market moves.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指預留現金以把握良好的買入機會。今日大市造好，但由於現金只剩89.29美元，即使有3個持倉空位，也無法新增投資部位——提醒投資者現金不足時，可能會錯失有利的入市時機。"
   },
   "market_education": {
-    "summary_en": "Markets rallied broadly today, with the NASDAQ up 2.6% and the S&P 500 up 1.8%, reflecting a risk-on tone across equities. No specific news headlines were provided for today's session, so this move reflects general market data rather than a single catalyst. Broad-based gains like this often signal improving investor sentiment toward growth and technology names.",
-    "summary_zh": "今日大市普遍上揚，納斯達克指數升2.6%，標普500指數升1.8%，反映投資者風險胃納增加。今日未提供具體新聞標題，故此升勢反映的是整體市場數據而非單一事件推動。這類廣泛上漲通常顯示投資者對增長型及科技股的信心正在改善。",
+    "summary_en": "Broad indices rallied today, with the NASDAQ up 2.6% and the S&P 500 up 1.8%, indicating a risk-on tone across equities. No specific news headlines were provided for today's session, so this move reflects general market data rather than a single catalyst. The portfolio's existing holdings benefited from this broad-based strength.",
+    "summary_zh": "今日大市造好，納斯達克指數上升2.6%，標普500指數上升1.8%，反映市場風險偏好升溫。由於今日未提供具體新聞標題，這次升幅主要反映整體市場數據，而非單一事件所致。現有持倉亦受惠於這次普遍性的升勢。",
     "sources": []
   },
   "trades": [],
