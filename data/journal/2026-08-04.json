@@ -1,22 +1,22 @@
 {
   "date": "2026-08-04",
-  "briefing": "Markets rallied broadly today with NASDAQ +2.6% and S&P 500 +1.8%, a clear risk-on signal. With only $89 in cash, I deployed the remainder into PFE, the top-ranked candidate showing a clean bullish setup, and left the existing 7 positions untouched since none showed data warranting action.",
+  "briefing": "Markets rallied sharply today with NASDAQ +2.7% and S&P 500 +1.9%, a clear risk-on signal. Cash is low ($89.29) so we're deploying it into PFE, the top-scoring candidate with clean bullish signals and no overbought warning, while holding all 7 existing positions.",
   "daily_lesson": {
-    "term": "MACD Crossover",
-    "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often seen as an early sign of upward momentum building. Traders combine it with other signals like RSI and moving averages to confirm the trend is genuine rather than a short-lived blip.",
-    "explanation_zh": "MACD黃金交叉是指股票的MACD線向上穿越訊號線,通常被視為上升動能開始形成的早期訊號。交易者會結合RSI及移動平均線等其他指標一併確認,以判斷趨勢是否真實,而非短暫的價格波動。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying just because RSI is overbought or a stock is jumping, look for several signals lining up together — like RSI in a healthy bullish range, a MACD crossover, and price above its moving average. When multiple independent signals agree, it's a stronger, more reliable buy setup than chasing a single overbought spike.",
+    "explanation_zh": "買入決定不應只憑RSI超買或股價急升,而應觀察多個指標是否同時配合,例如RSI處於健康的偏好區間、MACD出現黃金交叉,以及股價高於平均線。當多個獨立訊號同時確認,買入訊號會比單純追逐超買急升股份更可靠。"
   },
   "market_education": {
-    "summary_en": "Broad risk appetite returned today, with the NASDAQ climbing 2.6% and the S&P 500 up 1.8%, suggesting investors rotated back into growth and technology names after recent caution. No single catalyst is confirmed from the data available, but the breadth of the move across both indices points to a market-wide sentiment shift rather than a sector-specific event. This kind of synchronized rally often reflects easing macro concerns or reduced uncertainty around upcoming economic data.",
-    "summary_zh": "今日市場風險胃納明顯回升,納斯達克指數上漲2.6%,標普500指數上漲1.8%,顯示投資者在近期審慎情緒後重新流入成長及科技股。目前數據未能確認單一催化因素,但兩大指數同步上揚,反映的較可能是全市場情緒轉變,而非個別板塊事件。這類同步上漲走勢,往往反映宏觀憂慮緩解或市場對即將公布的經濟數據不確定性降低。",
+    "summary_en": "Broad market strength today, with NASDAQ up 2.7% and the S&P 500 up 1.9%, points to a risk-on session where investors rotated into growth and momentum names. Most screened candidates are now showing overbought RSI readings above 70, suggesting the rally has been running hot across many sectors. PFE stands out with healthier, less-stretched technicals (RSI 61.5) rather than joining the overbought crowd.",
+    "summary_zh": "今日大市造好,納指升2.7%,標普500升1.9%,反映市場處於「risk-on」(風險偏好)氣氛,資金流向增長及動能股。不過篩選名單中大部分候選股RSI已升穿70,屬超買區,顯示今輪升浪部分股份已略為過熱。相對而言,輝瑞(PFE)技術指標較為健康(RSI 61.5),未見超買,故成為今日首選。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
       "ticker": "PFE",
-      "conviction": "medium",
-      "reasoning": "Highest-scoring candidate (95) with RSI in the bullish 55-70 zone, a MACD bullish crossover, rising histogram, and price above SMA-20, fitting a risk-on day (NASDAQ +2.6%)."
+      "conviction": "high",
+      "reasoning": "Strong risk-on day (NASDAQ +2.7%) plus PFE is the only candidate with full multi-signal confirmation (RSI 61.5 bullish zone, MACD bullish crossover, price above SMA-20) rather than being overbought like most of the list."
     }
   ],
   "outcomes": {
