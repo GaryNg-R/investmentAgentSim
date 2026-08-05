@@ -1,14 +1,14 @@
 {
   "date": "2026-08-05",
-  "briefing": "Market was neutral today (NASDAQ +0.4%, S&P 500 +0.6%) with no strong risk-on signal. Cash on hand ($89.29) is far below the $500 deployment threshold, so no new buys were made despite 3 open slots — holding existing positions and waiting for a genuine high-conviction setup.",
+  "briefing": "Market was flat and directionless today (NASDAQ +0.1%, S&P 500 +0.3%), and with only $89.29 in cash left, there isn't enough to responsibly open a new position anyway. Held all 7 existing positions and stayed on the sidelines rather than forcing a low-conviction trade.",
   "daily_lesson": {
-    "term": "Patience",
-    "explanation_en": "Not every trading day calls for action — sometimes the right move is to do nothing and let your existing positions play out. Forcing a trade just to 'use' available cash or slots, especially on a neutral day, adds risk without a real edge; waiting for a clear, multi-signal setup usually pays off better.",
-    "explanation_zh": "並非每個交易日都需要進場操作——有時候最好的策略就是按兵不動，讓現有持股自然發展。在市場方向不明的日子裡，為了「用掉」現金額度或空缺倉位而勉強交易，只會增加風險卻沒有真正優勢；耐心等待訊號齊備的高勝率機會，通常成效更佳。"
+    "term": "Opportunity Cost",
+    "explanation_en": "Opportunity cost is what you give up by choosing one action over another — here, holding cash instead of buying means missing any gains those stocks might make, but it also avoids the risk of buying into a low-conviction setup just to 'stay busy'. With cash well below a meaningful position size and the market showing no strong signal, sitting still was the more disciplined choice.",
+    "explanation_zh": "機會成本是指選擇某個行動而放棄的其他潛在收益——今日選擇持有現金而非買入,意味著放棄了這些股票可能帶來的升幅,但同時也避免了在缺乏明確訊號下勉強進場的風險。由於現金遠低於有意義的建倉規模,加上市場未見強烈訊號,按兵不動是較為紀律的做法。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today, with the Nasdaq up 0.4% and the S&P 500 up 0.6%, in a quiet, low-conviction session. There was no single dominant catalyst driving the move, suggesting investors were digesting recent data without a clear directional bias. This kind of narrow, broad-based grind higher is typical of a consolidation phase rather than a strong trend day.",
-    "summary_zh": "今日大盤溫和上揚，那斯達克指數上漲0.4%，標普500指數上漲0.6%，屬於缺乏明確方向的清淡交易日。市場未見單一主導消息面，顯示投資人仍在消化近期數據，尚未形成明顯方向。這種窄幅齊漲的走勢，較符合盤整格局，而非強勢趨勢日。",
+    "summary_en": "Major indices traded essentially sideways today, with the S&P 500 edging up 0.3% and the Nasdaq nearly flat at +0.1%, reflecting a lack of strong directional catalysts in either direction. Without a clear risk-on or risk-off signal, institutional flows appear to have been mixed and low-conviction. No single sector or headline dominated the tape, consistent with a consolidation day after recent gains.",
+    "summary_zh": "今日主要指數走勢大致橫盤整理,標普500指數微升0.3%,納指僅升0.1%,顯示市場缺乏明顯的方向性催化劑。在沒有清晰的risk-on或risk-off訊號下,資金流向顯得較為分散且信心不足。市場暫未見單一板塊或重大消息主導盤面,較符合近期升勢後的整固格局。",
     "sources": []
   },
   "trades": [],
