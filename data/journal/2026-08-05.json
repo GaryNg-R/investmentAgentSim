@@ -1,14 +1,14 @@
 {
   "date": "2026-08-05",
-  "briefing": "Markets were neutral today (NASDAQ -0.4%, S&P 500 -0.1%) with no clear risk-on signal. Cash is only $89.29, well below the $500 threshold needed to open a new position, so no buys are possible regardless of candidate strength. Holding all 7 existing positions and letting stop-loss/profit-target rules manage them automatically.",
+  "briefing": "Markets were mixed and directionless today — NASDAQ dipped 0.3% while the S&P 500 edged up 0.1%. With only $89.29 in cash and no genuine risk-on signal, we're holding all 7 positions steady and waiting for a clearer setup before deploying capital.",
   "daily_lesson": {
-    "term": "Cash Drag",
-    "explanation_en": "Cash drag happens when idle cash in a portfolio can't be productively invested — here, only $89.29 is available, far short of the $500 needed to open a new position. Rather than force a trade with insufficient capital, the disciplined approach is to hold and let cash build until a real opportunity and threshold are both met.",
-    "explanation_zh": "「現金拖累」是指投資組合中閒置的現金無法有效運用的情況——目前現金僅有89.29美元，遠低於開新倉所需的500美元門檻。與其勉強用不足的資金交易，更穩健的做法是持有現金，等待資金累積到位、同時出現真正的投資機會時再出手。"
+    "term": "Sideways Market",
+    "explanation_en": "A sideways market is when prices move within a narrow range without a clear upward or downward trend, often signaling indecision among investors. During these periods, it's often wiser to hold existing positions and preserve cash rather than force new trades, since there's no strong signal confirming which direction the market will break next.",
+    "explanation_zh": "橫盤市場是指價格在一個狹窄區間內波動，沒有明顯的上升或下降趨勢，通常反映投資者猶豫不決。在這段時期，持有現有倉位、保留現金往往比勉強進行新交易更明智，因為市場尚未出現明確突破方向的訊號。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a quiet, directionless session rather than any major catalyst. Without a strong risk-on or risk-off signal, the prudent move is to avoid forcing trades and instead wait for clearer confirmation. This kind of low-volatility, mixed-signal day is common and doesn't require portfolio action.",
-    "summary_zh": "今日大盤走勢平淡，納指下跌0.4%，標普500下跌0.1%，未見明顯的利多或利空消息帶動。在缺乏明確風險偏好訊號的情況下，最穩健的做法是按兵不動，等待更清晰的市場方向確認。這類低波動、訊號不明的交易日相當常見，毋須貿然進出。",
+    "summary_en": "Today's action was a classic sideways, low-conviction session: the NASDAQ slipped slightly while the S&P 500 was roughly flat, showing no clear sector or macro catalyst pushing markets in either direction. Trading volumes and momentum signals across the screened list were mixed, with several names extending overbought rallies while broader indices consolidated. Without a strong directional signal, chasing new positions here would add risk without a clear edge.",
+    "summary_zh": "今日大市呈現橫盤整理格局，缺乏明確方向：納指微跌0.3%，標普500則幾乎持平，反映市場暫時沒有明顯的宏觀或板塊催化劑。個股方面訊號分歧，部分股份持續超買式上升，但大盤整體處於盤整階段。在缺乏清晰方向的情況下，貿然加倉並非審慎之舉。",
     "sources": []
   },
   "trades": [],

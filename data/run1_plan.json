@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-05T16:00:45.803332+00:00",
+  "saved_at": "2026-08-05T17:00:58.880983+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets were neutral today (NASDAQ -0.4%, S&P 500 -0.1%) with no clear risk-on signal. Cash is only $89.29, well below the $500 threshold needed to open a new position, so no buys are possible regardless of candidate strength. Holding all 7 existing positions and letting stop-loss/profit-target rules manage them automatically.",
+    "skip_new_buys": false,
+    "briefing": "Markets were mixed and directionless today \u2014 NASDAQ dipped 0.3% while the S&P 500 edged up 0.1%. With only $89.29 in cash and no genuine risk-on signal, we're holding all 7 positions steady and waiting for a clearer setup before deploying capital.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a quiet, directionless session rather than any major catalyst. Without a strong risk-on or risk-off signal, the prudent move is to avoid forcing trades and instead wait for clearer confirmation. This kind of low-volatility, mixed-signal day is common and doesn't require portfolio action.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u6307\u4e0b\u8dcc0.4%\uff0c\u6a19\u666e500\u4e0b\u8dcc0.1%\uff0c\u672a\u898b\u660e\u986f\u7684\u5229\u591a\u6216\u5229\u7a7a\u6d88\u606f\u5e36\u52d5\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b\uff0c\u6700\u7a69\u5065\u7684\u505a\u6cd5\u662f\u6309\u5175\u4e0d\u52d5\uff0c\u7b49\u5f85\u66f4\u6e05\u6670\u7684\u5e02\u5834\u65b9\u5411\u78ba\u8a8d\u3002\u9019\u985e\u4f4e\u6ce2\u52d5\u3001\u8a0a\u865f\u4e0d\u660e\u7684\u4ea4\u6613\u65e5\u76f8\u7576\u5e38\u898b\uff0c\u6bcb\u9808\u8cbf\u7136\u9032\u51fa\u3002",
+      "summary_en": "Today's action was a classic sideways, low-conviction session: the NASDAQ slipped slightly while the S&P 500 was roughly flat, showing no clear sector or macro catalyst pushing markets in either direction. Trading volumes and momentum signals across the screened list were mixed, with several names extending overbought rallies while broader indices consolidated. Without a strong directional signal, chasing new positions here would add risk without a clear edge.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u5448\u73fe\u6a6b\u76e4\u6574\u7406\u683c\u5c40\uff0c\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff1a\u7d0d\u6307\u5fae\u8dcc0.3%\uff0c\u6a19\u666e500\u5247\u5e7e\u4e4e\u6301\u5e73\uff0c\u53cd\u6620\u5e02\u5834\u66ab\u6642\u6c92\u6709\u660e\u986f\u7684\u5b8f\u89c0\u6216\u677f\u584a\u50ac\u5316\u5291\u3002\u500b\u80a1\u65b9\u9762\u8a0a\u865f\u5206\u6b67\uff0c\u90e8\u5206\u80a1\u4efd\u6301\u7e8c\u8d85\u8cb7\u5f0f\u4e0a\u5347\uff0c\u4f46\u5927\u76e4\u6574\u9ad4\u8655\u65bc\u76e4\u6574\u968e\u6bb5\u3002\u5728\u7f3a\u4e4f\u6e05\u6670\u65b9\u5411\u7684\u60c5\u6cc1\u4e0b\uff0c\u8cbf\u7136\u52a0\u5009\u4e26\u975e\u5be9\u614e\u4e4b\u8209\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Cash Drag",
-      "explanation_en": "Cash drag happens when idle cash in a portfolio can't be productively invested \u2014 here, only $89.29 is available, far short of the $500 needed to open a new position. Rather than force a trade with insufficient capital, the disciplined approach is to hold and let cash build until a real opportunity and threshold are both met.",
-      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\u662f\u6307\u6295\u8cc7\u7d44\u5408\u4e2d\u9592\u7f6e\u7684\u73fe\u91d1\u7121\u6cd5\u6709\u6548\u904b\u7528\u7684\u60c5\u6cc1\u2014\u2014\u76ee\u524d\u73fe\u91d1\u50c5\u670989.29\u7f8e\u5143\uff0c\u9060\u4f4e\u65bc\u958b\u65b0\u5009\u6240\u9700\u7684500\u7f8e\u5143\u9580\u6abb\u3002\u8207\u5176\u52c9\u5f37\u7528\u4e0d\u8db3\u7684\u8cc7\u91d1\u4ea4\u6613\uff0c\u66f4\u7a69\u5065\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u91d1\uff0c\u7b49\u5f85\u8cc7\u91d1\u7d2f\u7a4d\u5230\u4f4d\u3001\u540c\u6642\u51fa\u73fe\u771f\u6b63\u7684\u6295\u8cc7\u6a5f\u6703\u6642\u518d\u51fa\u624b\u3002"
+      "term": "Sideways Market",
+      "explanation_en": "A sideways market is when prices move within a narrow range without a clear upward or downward trend, often signaling indecision among investors. During these periods, it's often wiser to hold existing positions and preserve cash rather than force new trades, since there's no strong signal confirming which direction the market will break next.",
+      "explanation_zh": "\u6a6b\u76e4\u5e02\u5834\u662f\u6307\u50f9\u683c\u5728\u4e00\u500b\u72f9\u7a84\u5340\u9593\u5167\u6ce2\u52d5\uff0c\u6c92\u6709\u660e\u986f\u7684\u4e0a\u5347\u6216\u4e0b\u964d\u8da8\u52e2\uff0c\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u8005\u7336\u8c6b\u4e0d\u6c7a\u3002\u5728\u9019\u6bb5\u6642\u671f\uff0c\u6301\u6709\u73fe\u6709\u5009\u4f4d\u3001\u4fdd\u7559\u73fe\u91d1\u5f80\u5f80\u6bd4\u52c9\u5f37\u9032\u884c\u65b0\u4ea4\u6613\u66f4\u660e\u667a\uff0c\u56e0\u70ba\u5e02\u5834\u5c1a\u672a\u51fa\u73fe\u660e\u78ba\u7a81\u7834\u65b9\u5411\u7684\u8a0a\u865f\u3002"
     }
   }
 }
