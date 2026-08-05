@@ -1,14 +1,14 @@
 {
   "date": "2026-08-05",
-  "briefing": "NASDAQ jumped +2.6% and the S&P 500 +1.8% in a broad risk-on session, but with only $89.29 in cash we don't have enough dry powder to responsibly fund a new position even among strong candidates like DORM and PFE. Held positions look healthy given the overall +36.6% portfolio gain, so we're holding everything as-is and letting stop-loss/profit-target rules manage the existing 7 positions.",
+  "briefing": "Market was neutral today (NASDAQ +0.4%, S&P 500 +0.6%) with no strong risk-on signal. Cash on hand ($89.29) is far below the $500 deployment threshold, so no new buys were made despite 3 open slots — holding existing positions and waiting for a genuine high-conviction setup.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on hand and ready to invest. Even on a strong risk-on day with attractive momentum candidates available, having too little dry powder ($89.29 here) means you can't take advantage of the opportunity — a reminder that cash management matters as much as stock selection.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指隨時可動用嘅現金儲備。即使今日市況造好、出現唔少具吸引力嘅動能股候選，但手頭現金太少（僅89.29美元），亦難以把握機會——呢個提醒我哋現金管理同揀股一樣重要。"
+    "term": "Patience",
+    "explanation_en": "Not every trading day calls for action — sometimes the right move is to do nothing and let your existing positions play out. Forcing a trade just to 'use' available cash or slots, especially on a neutral day, adds risk without a real edge; waiting for a clear, multi-signal setup usually pays off better.",
+    "explanation_zh": "並非每個交易日都需要進場操作——有時候最好的策略就是按兵不動，讓現有持股自然發展。在市場方向不明的日子裡，為了「用掉」現金額度或空缺倉位而勉強交易，只會增加風險卻沒有真正優勢；耐心等待訊號齊備的高勝率機會，通常成效更佳。"
   },
   "market_education": {
-    "summary_en": "Markets rallied broadly today with the NASDAQ up 2.6% and the S&P 500 up 1.8%, a classic risk-on move where investors rotate into growth and momentum names. Several screened candidates like DORM and PFE showed clean bullish setups (MACD crossovers, price above SMA-20, and in DORM's case a volume surge), reflecting broad participation rather than an isolated spike. No specific news catalysts were available in today's feed, so the move appears driven by general market sentiment rather than a single headline.",
-    "summary_zh": "今日大市普遍造好，納指升2.6%，標普500升1.8%，屬於典型的「風險偏好」（risk-on）行情，資金流向增長及動能股。多隻篩選名單中的股票如DORM、PFE均出現看漲訊號（MACD黃金交叉、股價高於20日均線，DORM更伴隨成交量放大），顯示升勢由多隻股份帶動，並非單一股份炒作。今日未有具體新聞來源可供引用，故是次升勢較大機會由整體市場情緒帶動，而非個別消息刺激。",
+    "summary_en": "Major indices drifted modestly higher today, with the Nasdaq up 0.4% and the S&P 500 up 0.6%, in a quiet, low-conviction session. There was no single dominant catalyst driving the move, suggesting investors were digesting recent data without a clear directional bias. This kind of narrow, broad-based grind higher is typical of a consolidation phase rather than a strong trend day.",
+    "summary_zh": "今日大盤溫和上揚，那斯達克指數上漲0.4%，標普500指數上漲0.6%，屬於缺乏明確方向的清淡交易日。市場未見單一主導消息面，顯示投資人仍在消化近期數據，尚未形成明顯方向。這種窄幅齊漲的走勢，較符合盤整格局，而非強勢趨勢日。",
     "sources": []
   },
   "trades": [],
