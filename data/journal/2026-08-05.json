@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-05",
+  "briefing": "NASDAQ jumped +2.6% and the S&P 500 +1.8% in a broad risk-on session, but with only $89.29 in cash we don't have enough dry powder to responsibly fund a new position even among strong candidates like DORM and PFE. Held positions look healthy given the overall +36.6% portfolio gain, so we're holding everything as-is and letting stop-loss/profit-target rules manage the existing 7 positions.",
+  "daily_lesson": {
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on hand and ready to invest. Even on a strong risk-on day with attractive momentum candidates available, having too little dry powder ($89.29 here) means you can't take advantage of the opportunity — a reminder that cash management matters as much as stock selection.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指隨時可動用嘅現金儲備。即使今日市況造好、出現唔少具吸引力嘅動能股候選，但手頭現金太少（僅89.29美元），亦難以把握機會——呢個提醒我哋現金管理同揀股一樣重要。"
+  },
+  "market_education": {
+    "summary_en": "Markets rallied broadly today with the NASDAQ up 2.6% and the S&P 500 up 1.8%, a classic risk-on move where investors rotate into growth and momentum names. Several screened candidates like DORM and PFE showed clean bullish setups (MACD crossovers, price above SMA-20, and in DORM's case a volume surge), reflecting broad participation rather than an isolated spike. No specific news catalysts were available in today's feed, so the move appears driven by general market sentiment rather than a single headline.",
+    "summary_zh": "今日大市普遍造好，納指升2.6%，標普500升1.8%，屬於典型的「風險偏好」（risk-on）行情，資金流向增長及動能股。多隻篩選名單中的股票如DORM、PFE均出現看漲訊號（MACD黃金交叉、股價高於20日均線，DORM更伴隨成交量放大），顯示升勢由多隻股份帶動，並非單一股份炒作。今日未有具體新聞來源可供引用，故是次升勢較大機會由整體市場情緒帶動，而非個別消息刺激。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13655.735246181488,
+    "cash": 89.28500127792358,
+    "pnl_dollar": 3655.735246181488,
+    "pnl_pct": 36.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
