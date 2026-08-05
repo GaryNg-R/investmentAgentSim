@@ -1,14 +1,14 @@
 {
   "date": "2026-08-05",
-  "briefing": "Markets were mixed and directionless today — NASDAQ dipped 0.3% while the S&P 500 edged up 0.1%. With only $89.29 in cash and no genuine risk-on signal, we're holding all 7 positions steady and waiting for a clearer setup before deploying capital.",
+  "briefing": "Markets were mixed and directionless today (NASDAQ -0.5%, S&P 500 +0.1%), with no clear risk-on signal. Cash on hand ($89.29) is well below the $500 deployment threshold, so no new positions were opened despite 3 open slots. Existing 7 positions are held unchanged; stop-loss and profit-target rules remain active in the background.",
   "daily_lesson": {
-    "term": "Sideways Market",
-    "explanation_en": "A sideways market is when prices move within a narrow range without a clear upward or downward trend, often signaling indecision among investors. During these periods, it's often wiser to hold existing positions and preserve cash rather than force new trades, since there's no strong signal confirming which direction the market will break next.",
-    "explanation_zh": "橫盤市場是指價格在一個狹窄區間內波動，沒有明顯的上升或下降趨勢，通常反映投資者猶豫不決。在這段時期，持有現有倉位、保留現金往往比勉強進行新交易更明智，因為市場尚未出現明確突破方向的訊號。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors pull back from adding new positions because market signals aren't strong enough to justify the risk. It doesn't mean panic-selling — it just means staying disciplined and waiting for clearer confirmation before committing more capital.",
+    "explanation_zh": "「風險規避」（Risk-Off）是指投資者在市場訊號不夠明確時,選擇不增持新倉位。這並非恐慌性拋售,而是保持紀律,待訊號更清晰時才再投入資金。"
   },
   "market_education": {
-    "summary_en": "Today's action was a classic sideways, low-conviction session: the NASDAQ slipped slightly while the S&P 500 was roughly flat, showing no clear sector or macro catalyst pushing markets in either direction. Trading volumes and momentum signals across the screened list were mixed, with several names extending overbought rallies while broader indices consolidated. Without a strong directional signal, chasing new positions here would add risk without a clear edge.",
-    "summary_zh": "今日大市呈現橫盤整理格局，缺乏明確方向：納指微跌0.3%，標普500則幾乎持平，反映市場暫時沒有明顯的宏觀或板塊催化劑。個股方面訊號分歧，部分股份持續超買式上升，但大盤整體處於盤整階段。在缺乏清晰方向的情況下，貿然加倉並非審慎之舉。",
+    "summary_en": "Today's action was mixed and largely rangebound, with the S&P 500 essentially flat while the NASDAQ slipped modestly. No single catalyst drove the divergence; it reflects a market digesting recent gains rather than reacting to a specific shock. With no strong directional signal, this was a low-conviction, wait-and-see session.",
+    "summary_zh": "今日大市方向不明,標普500指數幾乎持平,納指則輕微回落。今次分歧並非由單一事件觸發,反而反映市場在消化近期升幅後進入觀望狀態。由於缺乏明確方向訊號,今日屬於低信心、按兵不動的交易日。",
     "sources": []
   },
   "trades": [],
