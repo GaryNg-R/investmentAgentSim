@@ -1,14 +1,14 @@
 {
   "date": "2026-08-05",
-  "briefing": "Market was flat and directionless today (NASDAQ +0.1%, S&P 500 +0.3%), and with only $89.29 in cash left, there isn't enough to responsibly open a new position anyway. Held all 7 existing positions and stayed on the sidelines rather than forcing a low-conviction trade.",
+  "briefing": "Markets were neutral today (NASDAQ -0.4%, S&P 500 -0.1%) with no clear risk-on signal. Cash is only $89.29, well below the $500 threshold needed to open a new position, so no buys are possible regardless of candidate strength. Holding all 7 existing positions and letting stop-loss/profit-target rules manage them automatically.",
   "daily_lesson": {
-    "term": "Opportunity Cost",
-    "explanation_en": "Opportunity cost is what you give up by choosing one action over another — here, holding cash instead of buying means missing any gains those stocks might make, but it also avoids the risk of buying into a low-conviction setup just to 'stay busy'. With cash well below a meaningful position size and the market showing no strong signal, sitting still was the more disciplined choice.",
-    "explanation_zh": "機會成本是指選擇某個行動而放棄的其他潛在收益——今日選擇持有現金而非買入,意味著放棄了這些股票可能帶來的升幅,但同時也避免了在缺乏明確訊號下勉強進場的風險。由於現金遠低於有意義的建倉規模,加上市場未見強烈訊號,按兵不動是較為紀律的做法。"
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag happens when idle cash in a portfolio can't be productively invested — here, only $89.29 is available, far short of the $500 needed to open a new position. Rather than force a trade with insufficient capital, the disciplined approach is to hold and let cash build until a real opportunity and threshold are both met.",
+    "explanation_zh": "「現金拖累」是指投資組合中閒置的現金無法有效運用的情況——目前現金僅有89.29美元，遠低於開新倉所需的500美元門檻。與其勉強用不足的資金交易，更穩健的做法是持有現金，等待資金累積到位、同時出現真正的投資機會時再出手。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially sideways today, with the S&P 500 edging up 0.3% and the Nasdaq nearly flat at +0.1%, reflecting a lack of strong directional catalysts in either direction. Without a clear risk-on or risk-off signal, institutional flows appear to have been mixed and low-conviction. No single sector or headline dominated the tape, consistent with a consolidation day after recent gains.",
-    "summary_zh": "今日主要指數走勢大致橫盤整理,標普500指數微升0.3%,納指僅升0.1%,顯示市場缺乏明顯的方向性催化劑。在沒有清晰的risk-on或risk-off訊號下,資金流向顯得較為分散且信心不足。市場暫未見單一板塊或重大消息主導盤面,較符合近期升勢後的整固格局。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a quiet, directionless session rather than any major catalyst. Without a strong risk-on or risk-off signal, the prudent move is to avoid forcing trades and instead wait for clearer confirmation. This kind of low-volatility, mixed-signal day is common and doesn't require portfolio action.",
+    "summary_zh": "今日大盤走勢平淡，納指下跌0.4%，標普500下跌0.1%，未見明顯的利多或利空消息帶動。在缺乏明確風險偏好訊號的情況下，最穩健的做法是按兵不動，等待更清晰的市場方向確認。這類低波動、訊號不明的交易日相當常見，毋須貿然進出。",
     "sources": []
   },
   "trades": [],
