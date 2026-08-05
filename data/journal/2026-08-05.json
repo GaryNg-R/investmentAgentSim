@@ -1,14 +1,14 @@
 {
   "date": "2026-08-05",
-  "briefing": "Markets were mixed and directionless today (NASDAQ -0.5%, S&P 500 +0.1%), with no clear risk-on signal. Cash on hand ($89.29) is well below the $500 deployment threshold, so no new positions were opened despite 3 open slots. Existing 7 positions are held unchanged; stop-loss and profit-target rules remain active in the background.",
+  "briefing": "Markets were mixed and essentially flat today (NASDAQ -0.6%, S&P 500 +0.0%), showing no clear risk-on signal. With only $89.29 in cash — well below the $500 threshold needed for a new position — and no forced-buy setup present, the agent held all 7 existing positions and made no new trades.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors pull back from adding new positions because market signals aren't strong enough to justify the risk. It doesn't mean panic-selling — it just means staying disciplined and waiting for clearer confirmation before committing more capital.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指投資者在市場訊號不夠明確時,選擇不增持新倉位。這並非恐慌性拋售,而是保持紀律,待訊號更清晰時才再投入資金。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines rather than invested, ready to deploy when a strong opportunity appears. Today the portfolio had almost no spare cash and the market gave no strong signal, so the disciplined move was to hold existing positions rather than force a trade.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是投資者保留在場邊、尚未投入市場的現金，待出現理想機會時再部署。今天投資組合幾乎沒有閒置現金，市場亦未釋出明確訊號，因此紀律性的做法是繼續持有現有部位，而非勉強進行交易。"
   },
   "market_education": {
-    "summary_en": "Today's action was mixed and largely rangebound, with the S&P 500 essentially flat while the NASDAQ slipped modestly. No single catalyst drove the divergence; it reflects a market digesting recent gains rather than reacting to a specific shock. With no strong directional signal, this was a low-conviction, wait-and-see session.",
-    "summary_zh": "今日大市方向不明,標普500指數幾乎持平,納指則輕微回落。今次分歧並非由單一事件觸發,反而反映市場在消化近期升幅後進入觀望狀態。由於缺乏明確方向訊號,今日屬於低信心、按兵不動的交易日。",
+    "summary_en": "Major indices traded in a narrow range today, with the NASDAQ slipping slightly and the S&P 500 essentially unchanged, reflecting a lack of strong conviction from investors in either direction. Without a clear catalyst pushing markets higher or lower, trading stayed quiet and directionless. This kind of low-volatility, sideways action is common between major economic data releases or earnings catalysts.",
+    "summary_zh": "今日主要指數窄幅波動，納指小幅下跌，標普500指數則幾乎持平，反映市場對後市方向缺乏明確信心。在沒有重大利多或利空消息的推動下，成交氣氛偏向觀望。這種低波動、橫盤整理的走勢，在缺乏重大經濟數據或財報公布的空檔期頗為常見。",
     "sources": []
   },
   "trades": [],
