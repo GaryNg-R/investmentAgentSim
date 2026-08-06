@@ -1,14 +1,14 @@
 {
   "date": "2026-08-06",
-  "briefing": "Markets were flat today (NASDAQ -0.1%, S&P500 -0.2%), consistent with a neutral, low-conviction session. Cash on hand ($89.29) is well below the $500 deployment threshold, so no new buys were placed even though 3 slots are open, and existing positions were held through the quiet session per strategy guidance to not exit winners on neutral days.",
+  "briefing": "Markets were flat and directionless today (NASDAQ +0.0%, S&P 500 -0.1%), giving no clear risk-on signal. With only $89.29 in cash — well under the $500 deployment threshold — and no compelling reason to force a trade, we held all 7 existing positions and skipped new buys.",
   "daily_lesson": {
-    "term": "Consolidation",
-    "explanation_en": "Consolidation is when a stock or index trades sideways in a narrow range after a period of gains or losses, as buyers and sellers reach a temporary balance. It often signals the market is pausing to digest recent moves before choosing its next direction, rather than reversing trend outright.",
-    "explanation_zh": "整理（Consolidation）是指股票或指數在經歷一段漲跌後，於狹窄區間內橫盤震盪，買賣雙方力量暫時達到平衡的現象。這通常代表市場正在消化先前的走勢、尋找下一步方向，而非立即反轉趨勢。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash held in reserve, ready to deploy when a strong opportunity appears. Today our cash balance was below the threshold needed to open a new position, and the market gave no strong risk-on signal, so the disciplined move was to hold that cash rather than force a trade.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是留存備用、等待良機出手的現金。今日我們的現金餘額低於開新倉所需的門檻，市場也沒有明確的風險偏好訊號，因此紀律性的做法是保留現金，而非勉強進行交易。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.1% and the S&P 500 down 0.2%, a pattern typical of a consolidation phase after recent gains. No major catalysts were evident in today's screened data to explain a directional move. Trading was quiet across the board, with most momentum candidates in the pool already extended (overbought RSI readings above 70), suggesting the recent rally is pausing rather than reversing.",
-    "summary_zh": "今日大盤走勢平淡，納斯達克指數下跌0.1%，標普500指數下跌0.2%，屬於近期漲勢後常見的整理格局。今日篩選資料中並無明顯的重大消息面催化劑可解釋方向性走勢。整體交投清淡，觀察名單中多數動能股的RSI已處於超買區（高於70），顯示近期升勢可能正在喘息，而非反轉向下。",
+    "summary_en": "Major indices traded essentially flat today, with the S&P 500 slipping slightly and the NASDAQ unchanged, reflecting a lack of strong catalysts on either side. Without clear directional conviction, institutional flows stayed muted rather than pushing decisively into risk assets or defensive positions. This kind of low-volatility, range-bound session is common in the absence of major economic data or earnings surprises.",
+    "summary_zh": "今日大盤走勢大致持平，標普500指數微跌，納斯達克指數則幾乎持平，反映市場缺乏明確的推動因素。在方向不明朗的情況下，機構資金並未大幅流入風險資產或防禦性板塊。這種低波動、區間震盪的走勢，通常出現在缺乏重大經濟數據或財報驚喜的時候。",
     "sources": []
   },
   "trades": [],
