@@ -1,14 +1,14 @@
 {
   "date": "2026-08-06",
-  "briefing": "Markets traded flat today (NASDAQ -0.0%, S&P 500 -0.2%) with no clear directional signal. Cash is only $89.29, well below the $500 threshold needed to fund a new position, so we're holding all 7 existing positions rather than forcing a trade.",
+  "briefing": "Markets were flat today with NASDAQ and S&P 500 both down just 0.1%, showing no clear directional signal. Cash on hand is only $89.29, well below the $500 threshold needed to open a new position, so no buys were made. Existing positions were left untouched since the market gave no reason to exit strong holds on a neutral day.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" means keeping cash on hand instead of investing it all, so you have flexibility to act when a strong opportunity appears. Today, with only $89 in cash and a neutral market, it's better to preserve that flexibility than force a trade just to stay fully invested.",
-    "explanation_zh": "「乾火藥」(Dry Powder)指的是保留現金而非全數投入市場,以便在出現絕佳機會時能靈活出手。今日現金僅剩89美元且市場中性,與其為了投入資金而勉強交易,不如保留彈性,等待更明確的進場訊號。"
+    "term": "Cash Reserve",
+    "explanation_en": "Sometimes the best move is no move at all — with only $89.29 in cash, there simply wasn't enough capital to open a meaningful new position, even though 3 portfolio slots were open. Holding cash and waiting for a stronger setup (or more capital) avoids forcing a low-quality trade just to stay busy.",
+    "explanation_zh": "有時候最好的操作就是按兵不動——目前現金僅有89.29美元，即使還有3個投資組合空位，也沒有足夠資金開立有意義的新倉位。持有現金並等待更佳時機（或更多資金），比為了「有動作」而勉強交易更為明智。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the S&P 500 slipping a modest 0.2% and the Nasdaq roughly unchanged. There was no dominant catalyst driving broad market direction, consistent with a low-conviction, wait-and-see session. Without a clear trend, it's a day for holding steady rather than chasing new positions.",
-    "summary_zh": "今日大盤走勢平淡,標普500指數微跌0.2%,納斯達克指數幾乎持平。市場缺乏明顯的推動因素,呈現觀望氣氛,投資人傾向按兵不動而非追高。",
+    "summary_en": "Major indices traded essentially flat today, with the NASDAQ and S&P 500 each dipping about 0.1%. There was no dominant catalyst driving the session, reflecting a market pausing to digest recent moves rather than reacting to fresh news. Low-volatility, directionless days like this are common between earnings cycles or major macro data releases.",
+    "summary_zh": "今日大市表現大致持平，納斯達克及標普500指數均僅微跌約0.1%。市場缺乏明顯的主導因素，反映投資者在消化近期走勢，而非對重大新聞作出反應。這種低波動、方向不明的交易日在業績公佈期或重要宏觀數據公佈之間頗為常見。",
     "sources": []
   },
   "trades": [],
