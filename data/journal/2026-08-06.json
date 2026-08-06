@@ -1,14 +1,14 @@
 {
   "date": "2026-08-06",
-  "briefing": "Markets were flat today (NASDAQ +0.4%, S&P 500 +0.1%) with no clear risk-on signal. Cash on hand ($89.29) is far below the $500 threshold needed to add a new position responsibly, so we're holding all 7 existing positions and letting stop-loss/profit-target rules manage them automatically.",
+  "briefing": "Markets were flat today (NASDAQ -0.1%, S&P500 -0.2%), consistent with a neutral, low-conviction session. Cash on hand ($89.29) is well below the $500 deployment threshold, so no new buys were placed even though 3 slots are open, and existing positions were held through the quiet session per strategy guidance to not exit winners on neutral days.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' stance means avoiding new, uncertain bets when market signals are weak or cash reserves are too thin to invest responsibly. Today's neutral market and low available cash ($89.29) both argue for patience — forcing a trade just to 'do something' often leads to worse outcomes than waiting for a clearer setup.",
-    "explanation_zh": "「風險規避」(Risk-Off)是指當市場訊號不明朗、或可動用現金不足以穩健投資時,選擇避免新增不確定的注碼。今日大市走勢中性,加上可用現金僅89.29美元,兩者都顯示宜保持耐性——為求「有所行動」而勉強交易,結果往往比等待更清晰的時機更差。"
+    "term": "Consolidation",
+    "explanation_en": "Consolidation is when a stock or index trades sideways in a narrow range after a period of gains or losses, as buyers and sellers reach a temporary balance. It often signals the market is pausing to digest recent moves before choosing its next direction, rather than reversing trend outright.",
+    "explanation_zh": "整理（Consolidation）是指股票或指數在經歷一段漲跌後，於狹窄區間內橫盤震盪，買賣雙方力量暫時達到平衡的現象。這通常代表市場正在消化先前的走勢、尋找下一步方向，而非立即反轉趨勢。"
   },
   "market_education": {
-    "summary_en": "Major indices traded largely sideways today, with the NASDAQ edging up 0.4% and the S&P 500 up just 0.1%, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Momentum names like SITM and INTC continue to show bullish technical setups, but broad market breadth remains muted. Without a strong directional signal, it's a day for patience rather than new capital deployment.",
-    "summary_zh": "今日大市走勢大致橫盤,納指僅升0.4%,標普500更只升0.1%,反映投資者觀望氣氛濃厚,未見明顯催化因素帶動方向。雖然SITM、INTC等動能股技術走勢仍偏多,惟大市廣度未見顯著擴闊。在缺乏明確方向訊號下,今日宜按兵不動,而非貿然加碼。",
+    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.1% and the S&P 500 down 0.2%, a pattern typical of a consolidation phase after recent gains. No major catalysts were evident in today's screened data to explain a directional move. Trading was quiet across the board, with most momentum candidates in the pool already extended (overbought RSI readings above 70), suggesting the recent rally is pausing rather than reversing.",
+    "summary_zh": "今日大盤走勢平淡，納斯達克指數下跌0.1%，標普500指數下跌0.2%，屬於近期漲勢後常見的整理格局。今日篩選資料中並無明顯的重大消息面催化劑可解釋方向性走勢。整體交投清淡，觀察名單中多數動能股的RSI已處於超買區（高於70），顯示近期升勢可能正在喘息，而非反轉向下。",
     "sources": []
   },
   "trades": [],
