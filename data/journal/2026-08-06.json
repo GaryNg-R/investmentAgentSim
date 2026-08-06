@@ -1,14 +1,14 @@
 {
   "date": "2026-08-06",
-  "briefing": "Markets were mildly negative today with NASDAQ down 0.8% and the S&P 500 down 0.2%, a neutral-to-slightly-risk-off session. Cash on hand ($89.29) is well below the $500 threshold needed to responsibly open a new position, so per the lesson to avoid forcing buys on non risk-on days, we're holding all 7 existing positions and skipping new buys.",
+  "briefing": "Market data was unavailable today and conditions read neutral (NASDAQ/S&P +0.0%), so there's no genuine risk-on signal to act on. Cash on hand ($89.29) is well below the $500 deployment threshold anyway, so no new buys are being forced — holding all 7 existing positions and letting stop-loss/profit-target rules handle exits automatically.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "Risk-off refers to a market mood where investors become more cautious, preferring to hold cash rather than add new stock positions, especially when there's no clear bullish signal. On days like today, with only mild index moves and thin cash reserves, the disciplined move is to protect existing gains and wait for stronger confirmation before deploying more capital.",
-    "explanation_zh": "「風險趨避」(Risk-Off)是指投資人轉趨謹慎、傾向持有現金而非加碼股票的市場氛圍,尤其是在缺乏明確看多訊號的時候。像今天這種指數僅小幅波動、且可用現金有限的情況下,較有紀律的做法是先保護現有獲利,等待更明確的訊號出現後再考慮投入更多資金。"
+    "explanation_en": "Risk-Off describes a defensive posture where an investor avoids adding new positions, typically because there's not enough conviction, data, or capital to justify the risk. Today that meant holding cash and existing holdings steady rather than forcing a trade just to stay active.",
+    "explanation_zh": "「Risk-Off」（避險模式）指投資者採取防守性策略，避免新增持倉，通常係因為信心、數據或資金不足以支持風險。今日就係將現金同現有持倉維持不變，唔會為咗「有交易」而勉強落單。"
   },
   "market_education": {
-    "summary_en": "Major U.S. indices drifted lower today, with the Nasdaq underperforming the S&P 500 as investors took a more cautious stance after recent gains. No major catalyst headlines were available in today's feed to pin the move to a single cause, which is itself consistent with routine, low-conviction profit-taking rather than a fundamental shift. With volatility contained and no clear risk-on trigger, sitting on cash and letting existing positions run is the more prudent path.",
-    "summary_zh": "美股主要指數今日普遍走弱,納斯達克指數表現遜於標普500指數,顯示投資人在近期漲勢過後轉趨審慎。今日新聞來源中並無重大消息可解釋此次波動,反映這較可能是例行性獲利了結,而非基本面出現轉變。由於市場波動度維持平穩、且未見明顯的風險偏好訊號,持有現金、讓現有部位持續運作會是較穩健的做法。",
+    "summary_en": "No reliable market data or news feed was available for today's session, so index moves are showing as flat (+0.0%) placeholders rather than real price action. Without confirmed data, it's safer to assume a neutral, uneventful session than to infer a trend that isn't there. Trading decisions today are therefore driven by portfolio state (low cash) rather than market signals.",
+    "summary_zh": "今日未能取得可靠嘅市場數據或新聞來源，所以指數變動顯示為持平（+0.0%）嘅佔位數字，並非真實價格走勢。喺數據未能確認嘅情況下，假設市況中性、平淡會比胡亂推測趨勢更穩妥。因此今日嘅交易決定主要係基於投資組合狀況（現金偏低），而非市場訊號。",
     "sources": []
   },
   "trades": [],
