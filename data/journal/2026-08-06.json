@@ -1,14 +1,14 @@
 {
   "date": "2026-08-06",
-  "briefing": "Markets were flat and directionless today (NASDAQ +0.0%, S&P 500 -0.1%), giving no clear risk-on signal. With only $89.29 in cash — well under the $500 deployment threshold — and no compelling reason to force a trade, we held all 7 existing positions and skipped new buys.",
+  "briefing": "Markets traded flat today (NASDAQ -0.0%, S&P 500 -0.2%) with no clear directional signal. Cash is only $89.29, well below the $500 threshold needed to fund a new position, so we're holding all 7 existing positions rather than forcing a trade.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash held in reserve, ready to deploy when a strong opportunity appears. Today our cash balance was below the threshold needed to open a new position, and the market gave no strong risk-on signal, so the disciplined move was to hold that cash rather than force a trade.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是留存備用、等待良機出手的現金。今日我們的現金餘額低於開新倉所需的門檻，市場也沒有明確的風險偏好訊號，因此紀律性的做法是保留現金，而非勉強進行交易。"
+    "explanation_en": "\"Dry powder\" means keeping cash on hand instead of investing it all, so you have flexibility to act when a strong opportunity appears. Today, with only $89 in cash and a neutral market, it's better to preserve that flexibility than force a trade just to stay fully invested.",
+    "explanation_zh": "「乾火藥」(Dry Powder)指的是保留現金而非全數投入市場,以便在出現絕佳機會時能靈活出手。今日現金僅剩89美元且市場中性,與其為了投入資金而勉強交易,不如保留彈性,等待更明確的進場訊號。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially flat today, with the S&P 500 slipping slightly and the NASDAQ unchanged, reflecting a lack of strong catalysts on either side. Without clear directional conviction, institutional flows stayed muted rather than pushing decisively into risk assets or defensive positions. This kind of low-volatility, range-bound session is common in the absence of major economic data or earnings surprises.",
-    "summary_zh": "今日大盤走勢大致持平，標普500指數微跌，納斯達克指數則幾乎持平，反映市場缺乏明確的推動因素。在方向不明朗的情況下，機構資金並未大幅流入風險資產或防禦性板塊。這種低波動、區間震盪的走勢，通常出現在缺乏重大經濟數據或財報驚喜的時候。",
+    "summary_en": "Major indices were essentially flat today, with the S&P 500 slipping a modest 0.2% and the Nasdaq roughly unchanged. There was no dominant catalyst driving broad market direction, consistent with a low-conviction, wait-and-see session. Without a clear trend, it's a day for holding steady rather than chasing new positions.",
+    "summary_zh": "今日大盤走勢平淡,標普500指數微跌0.2%,納斯達克指數幾乎持平。市場缺乏明顯的推動因素,呈現觀望氣氛,投資人傾向按兵不動而非追高。",
     "sources": []
   },
   "trades": [],
