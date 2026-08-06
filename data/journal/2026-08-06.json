@@ -1,14 +1,14 @@
 {
   "date": "2026-08-06",
-  "briefing": "Market data was unavailable today and conditions read neutral (NASDAQ/S&P +0.0%), so there's no genuine risk-on signal to act on. Cash on hand ($89.29) is well below the $500 deployment threshold anyway, so no new buys are being forced — holding all 7 existing positions and letting stop-loss/profit-target rules handle exits automatically.",
+  "briefing": "Markets were flat today (NASDAQ +0.4%, S&P 500 +0.1%) with no clear risk-on signal. Cash on hand ($89.29) is far below the $500 threshold needed to add a new position responsibly, so we're holding all 7 existing positions and letting stop-loss/profit-target rules manage them automatically.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "Risk-Off describes a defensive posture where an investor avoids adding new positions, typically because there's not enough conviction, data, or capital to justify the risk. Today that meant holding cash and existing holdings steady rather than forcing a trade just to stay active.",
-    "explanation_zh": "「Risk-Off」（避險模式）指投資者採取防守性策略，避免新增持倉，通常係因為信心、數據或資金不足以支持風險。今日就係將現金同現有持倉維持不變，唔會為咗「有交易」而勉強落單。"
+    "explanation_en": "A 'risk-off' stance means avoiding new, uncertain bets when market signals are weak or cash reserves are too thin to invest responsibly. Today's neutral market and low available cash ($89.29) both argue for patience — forcing a trade just to 'do something' often leads to worse outcomes than waiting for a clearer setup.",
+    "explanation_zh": "「風險規避」(Risk-Off)是指當市場訊號不明朗、或可動用現金不足以穩健投資時,選擇避免新增不確定的注碼。今日大市走勢中性,加上可用現金僅89.29美元,兩者都顯示宜保持耐性——為求「有所行動」而勉強交易,結果往往比等待更清晰的時機更差。"
   },
   "market_education": {
-    "summary_en": "No reliable market data or news feed was available for today's session, so index moves are showing as flat (+0.0%) placeholders rather than real price action. Without confirmed data, it's safer to assume a neutral, uneventful session than to infer a trend that isn't there. Trading decisions today are therefore driven by portfolio state (low cash) rather than market signals.",
-    "summary_zh": "今日未能取得可靠嘅市場數據或新聞來源，所以指數變動顯示為持平（+0.0%）嘅佔位數字，並非真實價格走勢。喺數據未能確認嘅情況下，假設市況中性、平淡會比胡亂推測趨勢更穩妥。因此今日嘅交易決定主要係基於投資組合狀況（現金偏低），而非市場訊號。",
+    "summary_en": "Major indices traded largely sideways today, with the NASDAQ edging up 0.4% and the S&P 500 up just 0.1%, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Momentum names like SITM and INTC continue to show bullish technical setups, but broad market breadth remains muted. Without a strong directional signal, it's a day for patience rather than new capital deployment.",
+    "summary_zh": "今日大市走勢大致橫盤,納指僅升0.4%,標普500更只升0.1%,反映投資者觀望氣氛濃厚,未見明顯催化因素帶動方向。雖然SITM、INTC等動能股技術走勢仍偏多,惟大市廣度未見顯著擴闊。在缺乏明確方向訊號下,今日宜按兵不動,而非貿然加碼。",
     "sources": []
   },
   "trades": [],

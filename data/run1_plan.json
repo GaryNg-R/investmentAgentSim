@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-06T14:00:53.454525+00:00",
+  "saved_at": "2026-08-06T15:01:13.033499+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Market data was unavailable today and conditions read neutral (NASDAQ/S&P +0.0%), so there's no genuine risk-on signal to act on. Cash on hand ($89.29) is well below the $500 deployment threshold anyway, so no new buys are being forced \u2014 holding all 7 existing positions and letting stop-loss/profit-target rules handle exits automatically.",
+    "briefing": "Markets were flat today (NASDAQ +0.4%, S&P 500 +0.1%) with no clear risk-on signal. Cash on hand ($89.29) is far below the $500 threshold needed to add a new position responsibly, so we're holding all 7 existing positions and letting stop-loss/profit-target rules manage them automatically.",
     "market_education": {
-      "summary_en": "No reliable market data or news feed was available for today's session, so index moves are showing as flat (+0.0%) placeholders rather than real price action. Without confirmed data, it's safer to assume a neutral, uneventful session than to infer a trend that isn't there. Trading decisions today are therefore driven by portfolio state (low cash) rather than market signals.",
-      "summary_zh": "\u4eca\u65e5\u672a\u80fd\u53d6\u5f97\u53ef\u9760\u5605\u5e02\u5834\u6578\u64da\u6216\u65b0\u805e\u4f86\u6e90\uff0c\u6240\u4ee5\u6307\u6578\u8b8a\u52d5\u986f\u793a\u70ba\u6301\u5e73\uff08+0.0%\uff09\u5605\u4f54\u4f4d\u6578\u5b57\uff0c\u4e26\u975e\u771f\u5be6\u50f9\u683c\u8d70\u52e2\u3002\u55ba\u6578\u64da\u672a\u80fd\u78ba\u8a8d\u5605\u60c5\u6cc1\u4e0b\uff0c\u5047\u8a2d\u5e02\u6cc1\u4e2d\u6027\u3001\u5e73\u6de1\u6703\u6bd4\u80e1\u4e82\u63a8\u6e2c\u8da8\u52e2\u66f4\u7a69\u59a5\u3002\u56e0\u6b64\u4eca\u65e5\u5605\u4ea4\u6613\u6c7a\u5b9a\u4e3b\u8981\u4fc2\u57fa\u65bc\u6295\u8cc7\u7d44\u5408\u72c0\u6cc1\uff08\u73fe\u91d1\u504f\u4f4e\uff09\uff0c\u800c\u975e\u5e02\u5834\u8a0a\u865f\u3002",
+      "summary_en": "Major indices traded largely sideways today, with the NASDAQ edging up 0.4% and the S&P 500 up just 0.1%, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Momentum names like SITM and INTC continue to show bullish technical setups, but broad market breadth remains muted. Without a strong directional signal, it's a day for patience rather than new capital deployment.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u5927\u81f4\u6a6b\u76e4,\u7d0d\u6307\u50c5\u53470.4%,\u6a19\u666e500\u66f4\u53ea\u53470.1%,\u53cd\u6620\u6295\u8cc7\u8005\u89c0\u671b\u6c23\u6c1b\u6fc3\u539a,\u672a\u898b\u660e\u986f\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u65b9\u5411\u3002\u96d6\u7136SITM\u3001INTC\u7b49\u52d5\u80fd\u80a1\u6280\u8853\u8d70\u52e2\u4ecd\u504f\u591a,\u60df\u5927\u5e02\u5ee3\u5ea6\u672a\u898b\u986f\u8457\u64f4\u95ca\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u8a0a\u865f\u4e0b,\u4eca\u65e5\u5b9c\u6309\u5175\u4e0d\u52d5,\u800c\u975e\u8cbf\u7136\u52a0\u78bc\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "Risk-Off describes a defensive posture where an investor avoids adding new positions, typically because there's not enough conviction, data, or capital to justify the risk. Today that meant holding cash and existing holdings steady rather than forcing a trade just to stay active.",
-      "explanation_zh": "\u300cRisk-Off\u300d\uff08\u907f\u96aa\u6a21\u5f0f\uff09\u6307\u6295\u8cc7\u8005\u63a1\u53d6\u9632\u5b88\u6027\u7b56\u7565\uff0c\u907f\u514d\u65b0\u589e\u6301\u5009\uff0c\u901a\u5e38\u4fc2\u56e0\u70ba\u4fe1\u5fc3\u3001\u6578\u64da\u6216\u8cc7\u91d1\u4e0d\u8db3\u4ee5\u652f\u6301\u98a8\u96aa\u3002\u4eca\u65e5\u5c31\u4fc2\u5c07\u73fe\u91d1\u540c\u73fe\u6709\u6301\u5009\u7dad\u6301\u4e0d\u8b8a\uff0c\u5514\u6703\u70ba\u5497\u300c\u6709\u4ea4\u6613\u300d\u800c\u52c9\u5f37\u843d\u55ae\u3002"
+      "explanation_en": "A 'risk-off' stance means avoiding new, uncertain bets when market signals are weak or cash reserves are too thin to invest responsibly. Today's neutral market and low available cash ($89.29) both argue for patience \u2014 forcing a trade just to 'do something' often leads to worse outcomes than waiting for a clearer setup.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d(Risk-Off)\u662f\u6307\u7576\u5e02\u5834\u8a0a\u865f\u4e0d\u660e\u6717\u3001\u6216\u53ef\u52d5\u7528\u73fe\u91d1\u4e0d\u8db3\u4ee5\u7a69\u5065\u6295\u8cc7\u6642,\u9078\u64c7\u907f\u514d\u65b0\u589e\u4e0d\u78ba\u5b9a\u7684\u6ce8\u78bc\u3002\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u4e2d\u6027,\u52a0\u4e0a\u53ef\u7528\u73fe\u91d1\u50c589.29\u7f8e\u5143,\u5169\u8005\u90fd\u986f\u793a\u5b9c\u4fdd\u6301\u8010\u6027\u2014\u2014\u70ba\u6c42\u300c\u6709\u6240\u884c\u52d5\u300d\u800c\u52c9\u5f37\u4ea4\u6613,\u7d50\u679c\u5f80\u5f80\u6bd4\u7b49\u5f85\u66f4\u6e05\u6670\u7684\u6642\u6a5f\u66f4\u5dee\u3002"
     }
   }
 }
