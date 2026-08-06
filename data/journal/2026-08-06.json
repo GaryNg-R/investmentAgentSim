@@ -1,14 +1,14 @@
 {
   "date": "2026-08-06",
-  "briefing": "Markets were flat today with NASDAQ and S&P 500 both down just 0.1%, showing no clear directional signal. Cash on hand is only $89.29, well below the $500 threshold needed to open a new position, so no buys were made. Existing positions were left untouched since the market gave no reason to exit strong holds on a neutral day.",
+  "briefing": "Markets were neutral today with NASDAQ -0.1% and S&P 500 -0.2%, showing no clear risk-on signal. Cash on hand ($89.29) is well below the $500 deployment threshold, so no new buys were made despite 3 open slots. Existing 7 positions are held unchanged, letting automatic stop-loss and profit-target rules manage exits.",
   "daily_lesson": {
-    "term": "Cash Reserve",
-    "explanation_en": "Sometimes the best move is no move at all — with only $89.29 in cash, there simply wasn't enough capital to open a meaningful new position, even though 3 portfolio slots were open. Holding cash and waiting for a stronger setup (or more capital) avoids forcing a low-quality trade just to stay busy.",
-    "explanation_zh": "有時候最好的操作就是按兵不動——目前現金僅有89.29美元，即使還有3個投資組合空位，也沒有足夠資金開立有意義的新倉位。持有現金並等待更佳時機（或更多資金），比為了「有動作」而勉強交易更為明智。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors avoid adding new positions because market signals are unclear or weak, preferring to protect capital rather than chase uncertain gains. Today's neutral market and limited cash reinforced a wait-and-see approach rather than forcing a trade.",
+    "explanation_zh": "「風險規避」（Risk-Off）是指在市場訊號不明朗時，投資者選擇不增加新持倉，寧願保留資金也不冒然進場。今日大市走勢中性，加上可用現金有限，因此採取觀望策略，不勉強交易。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially flat today, with the NASDAQ and S&P 500 each dipping about 0.1%. There was no dominant catalyst driving the session, reflecting a market pausing to digest recent moves rather than reacting to fresh news. Low-volatility, directionless days like this are common between earnings cycles or major macro data releases.",
-    "summary_zh": "今日大市表現大致持平，納斯達克及標普500指數均僅微跌約0.1%。市場缺乏明顯的主導因素，反映投資者在消化近期走勢，而非對重大新聞作出反應。這種低波動、方向不明的交易日在業績公佈期或重要宏觀數據公佈之間頗為常見。",
+    "summary_en": "Major indices drifted slightly lower today in quiet, directionless trading, with NASDAQ down 0.1% and the S&P 500 down 0.2%. There was no dominant catalyst driving the move, consistent with a market in a holding pattern awaiting fresh economic or earnings data. Low volatility sessions like this often precede a more decisive directional move once new information arrives.",
+    "summary_zh": "今日大市走勢平淡，納斯達克指數微跌0.1%，標普500指數跌0.2%，缺乏明確的主導消息刺激。市場似乎在等待新的經濟數據或企業盈利消息，暫時處於觀望狀態。這種低波動的交易日往往是市場醞釀下一步方向的前奏。",
     "sources": []
   },
   "trades": [],
