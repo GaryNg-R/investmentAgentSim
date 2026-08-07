@@ -1,14 +1,14 @@
 {
   "date": "2026-08-07",
-  "briefing": "Market is mildly risk-on today (NASDAQ +1.0%, S&P500 +0.5%), but cash on hand is only $89.29 — well below the $500 threshold needed to open a meaningful new position, so no buys are feasible despite 3 open slots. All 7 existing positions are held; none have hit the automatic -7% stop-loss or +12% profit-target thresholds, so no discretionary sells are warranted.",
+  "briefing": "NASDAQ +1.3% and S&P 500 +0.6% signal a risk-on day, but portfolio cash is only $89.29 — far below the $500 threshold needed to responsibly open a new position, even with 3 slots open. Holding all 7 existing positions and letting stop-loss/profit-target rules manage them automatically.",
   "daily_lesson": {
-    "term": "Cash Drag",
-    "explanation_en": "Cash drag happens when a portfolio holds cash that's too small to deploy into a new position, so it sits idle instead of earning returns. Today's $89 cash balance is well under the $500 minimum needed to open a new trade, so the agent held steady rather than forcing a small, poorly-sized buy. Waiting for cash to build up (e.g. via a sell or dividend) is often better than breaking position-sizing discipline.",
-    "explanation_zh": "「閒置現金拖累」(Cash Drag)是指投資組合中持有的現金太少,無法用來開立新倉位,因此只能閒置而無法產生回報。今日現金餘額僅89美元,遠低於開立新倉所需的500美元門檻,因此代理人選擇維持現有部位,而非勉強做一筆規模過小的交易。等待現金累積(例如透過賣出或股息)通常比破壞倉位規模紀律更為明智。"
+    "term": "Cash Management",
+    "explanation_en": "Even on a bullish day, a portfolio can't chase every opportunity if it doesn't have enough cash on hand — here, only $89 was available, well short of the $500 minimum needed to size a new position responsibly. Staying disciplined about position sizing, rather than forcing a trade with insufficient capital, protects the portfolio from over-concentration in tiny, poorly-sized bets.",
+    "explanation_zh": "即使在市場向好的日子，若現金儲備不足，投資組合亦無法把握每個機會——今日可用現金僅89美元，遠低於建立新倉位所需的500美元門檻。堅持紀律，不因現金不足而勉強落注，有助避免組合過度集中於規模過小、配置欠佳的持倉。"
   },
   "market_education": {
-    "summary_en": "Equities drifted higher today with the NASDAQ outpacing the S&P 500, consistent with a mild risk-on tone across tech and growth names. No major catalyst news was available in today's feed to pin the move to a specific headline. Broad participation without extreme moves suggests steady buying rather than a sharp reaction to a single event.",
-    "summary_zh": "今日股市溫和上揚,納斯達克指數升幅領先標普500指數,反映科技及成長股偏向風險偏好的氣氛。今日新聞資料中未見明顯的重大消息可解釋此走勢。市場升幅溫和且參與面廣,顯示資金持續流入而非對單一事件的劇烈反應。",
+    "summary_en": "Markets traded higher today with the NASDAQ outpacing the S&P 500, consistent with a broad risk-on tone favoring growth and tech names. No specific news catalysts were provided for today's session, so this move appears driven by general market sentiment rather than a single headline event. Investors continued to favor equities over safer assets given the positive breadth across major indices.",
+    "summary_zh": "今日大市造好，納指升幅跑贏標普500指數，反映市場整體風險偏好偏向增長型及科技股。今日交易時段未有提供具體新聞觸發因素，故此走勢較大機會是受整體市場情緒帶動,而非單一消息刺激。在主要指數普遍向好下，投資者繼續傾向持有股票多於避險資產。",
     "sources": []
   },
   "trades": [],
