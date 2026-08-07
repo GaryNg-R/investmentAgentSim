@@ -1,14 +1,14 @@
 {
   "date": "2026-08-07",
-  "briefing": "Markets were neutral today (NASDAQ +1.0%, S&P 500 +0.4%), below the +2% NASDAQ threshold that has historically signaled a genuine risk-on setup worth deploying capital into. Cash is only $89.29, well under the $500 buy threshold, so no new positions were opened. The 7 existing positions are held unchanged, letting stop-loss and profit-target rules manage them automatically.",
+  "briefing": "Markets were mildly positive today with NASDAQ +1.0% and S&P 500 +0.5%, but this is a neutral session, not the risk-on breakout (NASDAQ +2%+) needed for high-conviction buys. Cash is only $89.29, far below the $500 deployment threshold, so no new positions were opened. Existing 7 positions are held unchanged, letting stop-loss/profit-target rules manage them automatically.",
   "daily_lesson": {
-    "term": "FOMO (Fear of Missing Out)",
-    "explanation_en": "FOMO is the urge to buy into a rally just because prices are ticking up, even without strong confirming signals like a big volume surge or a sharp index move. Disciplined investors wait for genuine risk-on setups rather than chasing every green day, which helps avoid buying near short-term tops.",
-    "explanation_zh": "FOMO（錯失恐懼症）是指單純因為股價上升就急於追入，而未有留意成交量爆發或大市急升等確認訊號。有紀律的投資者會耐心等待真正的「風險偏好」市況才出手，而非見漲就追，這樣有助避免在短期高位追高被套。"
+    "term": "Cash Discipline",
+    "explanation_en": "Sometimes the best move is no move — with only $89.29 in cash and a merely neutral market, forcing a trade just to stay 'active' would mean chasing a weak signal. Waiting for a genuine risk-on setup with multiple confirming signals protects capital and avoids buying into noise.",
+    "explanation_zh": "有時候最好的操作就是不操作——現金僅餘89.29美元，加上市況只屬中性，若勉強交易只會追逐不明確的訊號。耐心等待多重訊號確認的真正「風險偏好」時機，才能保護本金，避免在雜訊中盲目進場。"
   },
   "market_education": {
-    "summary_en": "Markets drifted modestly higher today, with the Nasdaq (+1.0%) outpacing the S&P 500 (+0.4%) in a broad but low-conviction advance. No major catalyst-driven headlines were available for today's session, suggesting the move reflected routine trading flow rather than a specific news event. Without a stronger signal, such as a 2%+ index surge paired with multiple bullish indicators, it's a day for discipline rather than chasing performance.",
-    "summary_zh": "今日大市溫和上揚，納斯達克指數升1.0%，升幅跑贏標普500指數的0.4%，但屬於低確信度的普遍性上揚。今日交易時段暫未見有重大新聞事件推動，顯示今次升勢較大machine可能只是日常資金流動所致，而非受特定消息刺激。在未見更強烈訊號（例如指數單日急升逾2%並伴隨多項牛市指標）確認之前，投資者宜保持紀律，避免盲目追高。",
+    "summary_en": "Broad indices drifted modestly higher today, with NASDAQ outpacing the S&P 500, but the move lacked the volume and breadth typically seen on strong risk-on days. Without confirmed multi-signal breakouts (MACD crossover plus volume surge plus RSI strength) across the top candidates, the gains looked more like routine drift than a decisive shift in sentiment. This kept the tone cautious rather than aggressive.",
+    "summary_zh": "今日大盤溫和上揚，納指升幅略勝標普500，惟升勢缺乏明顯的成交量配合及市場廣度，未見典型的「風險偏好」行情特徵。由於頭部候選股未能同時出現MACD黃金交叉、成交量放大及RSI走強等多重訊號確認，今日升勢較似屬常規波動，而非市場情緒的明確轉向，因此策略上維持審慎取態。",
     "sources": []
   },
   "trades": [],
