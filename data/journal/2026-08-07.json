@@ -1,14 +1,14 @@
 {
   "date": "2026-08-07",
-  "briefing": "NASDAQ +1.3% and S&P 500 +0.6% signal a risk-on day, but portfolio cash is only $89.29 — far below the $500 threshold needed to responsibly open a new position, even with 3 slots open. Holding all 7 existing positions and letting stop-loss/profit-target rules manage them automatically.",
+  "briefing": "Markets were neutral today (NASDAQ +1.0%, S&P 500 +0.4%), below the +2% NASDAQ threshold that has historically signaled a genuine risk-on setup worth deploying capital into. Cash is only $89.29, well under the $500 buy threshold, so no new positions were opened. The 7 existing positions are held unchanged, letting stop-loss and profit-target rules manage them automatically.",
   "daily_lesson": {
-    "term": "Cash Management",
-    "explanation_en": "Even on a bullish day, a portfolio can't chase every opportunity if it doesn't have enough cash on hand — here, only $89 was available, well short of the $500 minimum needed to size a new position responsibly. Staying disciplined about position sizing, rather than forcing a trade with insufficient capital, protects the portfolio from over-concentration in tiny, poorly-sized bets.",
-    "explanation_zh": "即使在市場向好的日子，若現金儲備不足，投資組合亦無法把握每個機會——今日可用現金僅89美元，遠低於建立新倉位所需的500美元門檻。堅持紀律，不因現金不足而勉強落注，有助避免組合過度集中於規模過小、配置欠佳的持倉。"
+    "term": "FOMO (Fear of Missing Out)",
+    "explanation_en": "FOMO is the urge to buy into a rally just because prices are ticking up, even without strong confirming signals like a big volume surge or a sharp index move. Disciplined investors wait for genuine risk-on setups rather than chasing every green day, which helps avoid buying near short-term tops.",
+    "explanation_zh": "FOMO（錯失恐懼症）是指單純因為股價上升就急於追入，而未有留意成交量爆發或大市急升等確認訊號。有紀律的投資者會耐心等待真正的「風險偏好」市況才出手，而非見漲就追，這樣有助避免在短期高位追高被套。"
   },
   "market_education": {
-    "summary_en": "Markets traded higher today with the NASDAQ outpacing the S&P 500, consistent with a broad risk-on tone favoring growth and tech names. No specific news catalysts were provided for today's session, so this move appears driven by general market sentiment rather than a single headline event. Investors continued to favor equities over safer assets given the positive breadth across major indices.",
-    "summary_zh": "今日大市造好，納指升幅跑贏標普500指數，反映市場整體風險偏好偏向增長型及科技股。今日交易時段未有提供具體新聞觸發因素，故此走勢較大機會是受整體市場情緒帶動,而非單一消息刺激。在主要指數普遍向好下，投資者繼續傾向持有股票多於避險資產。",
+    "summary_en": "Markets drifted modestly higher today, with the Nasdaq (+1.0%) outpacing the S&P 500 (+0.4%) in a broad but low-conviction advance. No major catalyst-driven headlines were available for today's session, suggesting the move reflected routine trading flow rather than a specific news event. Without a stronger signal, such as a 2%+ index surge paired with multiple bullish indicators, it's a day for discipline rather than chasing performance.",
+    "summary_zh": "今日大市溫和上揚，納斯達克指數升1.0%，升幅跑贏標普500指數的0.4%，但屬於低確信度的普遍性上揚。今日交易時段暫未見有重大新聞事件推動，顯示今次升勢較大machine可能只是日常資金流動所致，而非受特定消息刺激。在未見更強烈訊號（例如指數單日急升逾2%並伴隨多項牛市指標）確認之前，投資者宜保持紀律，避免盲目追高。",
     "sources": []
   },
   "trades": [],
