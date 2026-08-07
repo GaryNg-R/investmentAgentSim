@@ -1,14 +1,14 @@
 {
   "date": "2026-08-07",
-  "briefing": "Markets were mildly positive today (NASDAQ +1.0%, S&P 500 +0.4%) but this is a neutral, low-conviction session, not a clear risk-on setup. With only $89.29 in cash and existing positions performing well (+36.6% overall), we're holding steady rather than forcing a trade — waiting for genuine multi-signal confirmation before deploying limited capital.",
+  "briefing": "NASDAQ rose +1.3% and the S&P 500 +0.6% today in a risk-on session, but with only $89.29 in cash left, there isn't enough capital to responsibly open a new position even with 3 slots open. Holding all 7 existing positions — including ROAD, which still shows strong bullish momentum (RSI 69.1, MACD crossover) — and waiting for cash to rebuild before deploying into new candidates.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on hand rather than fully invested, so you can act quickly when a strong opportunity appears. With cash currently very limited and today's market only mildly positive, the disciplined move is to preserve what little capital remains rather than force a marginal trade.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留現金而非全數投入市場，以便在出現真正具吸引力的機會時能迅速把握。現時現金水平已相當有限，加上今日市況只屬溫和向好，較審慎的做法是保留僅餘資金，而非勉強進行邊際交易。"
+    "explanation_en": "\"Dry powder\" refers to cash kept in reserve that hasn't been invested yet. Even on a risk-on day with open portfolio slots, it's often better to hold cash and wait rather than force a trade when the amount available ($89.29 here) is too small to build a meaningful position.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指尚未投資、留作儲備的現金。即使在風險偏好的日子且投資組合仍有空位，若可用現金（此處僅89.29美元）太少不足以建立有意義的持倉，寧可持有現金耐心等待，也不應勉強交易。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted modestly higher today, with the NASDAQ outpacing the S&P 500, consistent with a mild continuation of recent risk appetite rather than any major catalyst. Trading stayed range-bound without the kind of volume surge or breadth expansion that typically signals a decisive move. Overall, today reads as a consolidation day within an ongoing uptrend.",
-    "summary_zh": "今日大盤溫和上揚，納指升幅跑贏標普500指數，延續近期市場的溫和風險偏好，並無重大單一消息主導。成交量與市場廣度均未見明顯放大，未見任何具決定性的突破訊號。整體而言，今日走勢屬於升勢中的整固階段。",
+    "summary_en": "Broad market indexes advanced today, with the NASDAQ outpacing the S&P 500, consistent with a risk-on tone where investors favored growth and tech-heavy names. No single catalyst headline is available for today's session, so the move reflects general positive sentiment rather than a specific news event. Momentum in the screened candidate pool remained strong, with several names showing bullish MACD crossovers and rising volume.",
+    "summary_zh": "今日大市普遍上揚，納斯達克指數升幅跑贏標普500指數，反映市場偏向風險偏好，資金傾向流入科技及成長股。今日暫無特定新聞觸發因素，升勢較多反映整體正面情緒而非單一事件帶動。篩選池中多隻股票的動能訊號依然強勁，MACD金叉及成交量放大的情況持續出現。",
     "sources": []
   },
   "trades": [],
