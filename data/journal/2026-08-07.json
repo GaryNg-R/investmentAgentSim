@@ -1,14 +1,14 @@
 {
   "date": "2026-08-07",
-  "briefing": "Market was neutral (NASDAQ +0.7%, S&P500 +0.3%) with cash at just $89.29, well below the $500 deployment threshold, so no new buys were made. All 7 existing positions were held since none hit stop-loss or profit-target levels, consistent with letting winners run through neutral sessions.",
+  "briefing": "Market is mildly risk-on today (NASDAQ +1.0%, S&P500 +0.5%), but cash on hand is only $89.29 — well below the $500 threshold needed to open a meaningful new position, so no buys are feasible despite 3 open slots. All 7 existing positions are held; none have hit the automatic -7% stop-loss or +12% profit-target thresholds, so no discretionary sells are warranted.",
   "daily_lesson": {
-    "term": "Overbought Signal",
-    "explanation_en": "When a stock's RSI climbs above 70, it's considered 'overbought' — meaning the price has risen quickly and may be due for a pause or pullback, even if the underlying trend is still positive. Many of today's top-scoring candidates were deep in overbought territory, which is a reason to be cautious about chasing them at current prices.",
-    "explanation_zh": "當股票的RSI（相對強弱指標）升穿70，即被視為「超買」，意味股價短期升幅過急，隨時面臨回調風險，即使長期趨勢仍然向好。今日不少高分候選股份的RSI已處於超買水平，故此時追入須格外謹慎。"
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag happens when a portfolio holds cash that's too small to deploy into a new position, so it sits idle instead of earning returns. Today's $89 cash balance is well under the $500 minimum needed to open a new trade, so the agent held steady rather than forcing a small, poorly-sized buy. Waiting for cash to build up (e.g. via a sell or dividend) is often better than breaking position-sizing discipline.",
+    "explanation_zh": "「閒置現金拖累」(Cash Drag)是指投資組合中持有的現金太少,無法用來開立新倉位,因此只能閒置而無法產生回報。今日現金餘額僅89美元,遠低於開立新倉所需的500美元門檻,因此代理人選擇維持現有部位,而非勉強做一筆規模過小的交易。等待現金累積(例如透過賣出或股息)通常比破壞倉位規模紀律更為明智。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted modest gains today, with the NASDAQ outpacing the S&P 500, suggesting mild risk appetite without a decisive directional catalyst. Many of the top-scoring screener candidates show RSI readings above 70, indicating they are already extended after recent rallies. With no fresh capital available to deploy, the market's neutral tone reinforced a hold-steady approach rather than chasing overbought names.",
-    "summary_zh": "今日大市溫和上揚，納指升0.7%，標普500升0.3%，反映投資者風險偏好輕微回升，惟未見明確方向性利好因素帶動。篩選名單中多隻高分股份的RSI已超過70，顯示短期升勢已見過熱。由於現金儲備不足，未有新增買盤，繼續維持現有持倉部署。",
+    "summary_en": "Equities drifted higher today with the NASDAQ outpacing the S&P 500, consistent with a mild risk-on tone across tech and growth names. No major catalyst news was available in today's feed to pin the move to a specific headline. Broad participation without extreme moves suggests steady buying rather than a sharp reaction to a single event.",
+    "summary_zh": "今日股市溫和上揚,納斯達克指數升幅領先標普500指數,反映科技及成長股偏向風險偏好的氣氛。今日新聞資料中未見明顯的重大消息可解釋此走勢。市場升幅溫和且參與面廣,顯示資金持續流入而非對單一事件的劇烈反應。",
     "sources": []
   },
   "trades": [],
