@@ -1,14 +1,14 @@
 {
   "date": "2026-08-10",
-  "briefing": "Markets were flat today (NASDAQ -0.1%, S&P500 +0.0%) with no clear directional signal. Cash on hand ($189.29) is below the $500 threshold for new positions, so we're holding all 7 existing positions and waiting for a genuine risk-on setup rather than forcing a trade.",
+  "briefing": "Market is neutral today (NASDAQ -0.2%, S&P 500 flat) with no clear risk-on signal, and available cash ($189.29) is below the $500 deployment threshold anyway. Holding all 7 existing positions unchanged and skipping new buys, consistent with the lesson to avoid forcing trades on low-conviction days.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. On quiet, directionless days like today, disciplined investors avoid forcing trades and instead preserve cash for a clearer risk-on signal.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是暫時保留在場邊、等待良機出手的現金。在像今天這樣方向不明的平淡交易日，有紀律的投資人會避免勉強進場，而是保留現金等待更明確的進場訊號。"
+    "term": "Patience / Sitting on Cash",
+    "explanation_en": "Sometimes the best move is no move — when the market isn't giving clear bullish or bearish signals, and there isn't enough cash to meaningfully add a new position anyway, holding steady preserves capital for a better opportunity rather than forcing a trade.",
+    "explanation_zh": "有時候最好的操作就是不動——當市場沒有明確的多空訊號，且現金也不足以有意義地建立新倉位時，按兵不動能保留資金，等待更好的進場機會，而不是勉強交易。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially unchanged today, with the NASDAQ dipping slightly and the S&P 500 flat. This kind of directionless session often reflects investors waiting for new catalysts before committing more capital in either direction.",
-    "summary_zh": "今日大盤走勢平淡，納指微跌0.1%，標普500則持平。這種缺乏方向性的交易日通常反映投資人在等待新的市場訊號，暫時不願大幅加碼或減碼。",
+    "summary_en": "Major indices were essentially flat today, with the NASDAQ down 0.2% and the S&P 500 unchanged, reflecting a lack of strong directional catalysts in the session.",
+    "summary_zh": "今日美股主要指數走勢平淡，納斯達克指數下跌0.2%，標普500指數則持平，反映市場缺乏明確的方向性催化劑。",
     "sources": []
   },
   "trades": [],
