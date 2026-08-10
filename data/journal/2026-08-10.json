@@ -1,14 +1,14 @@
 {
   "date": "2026-08-10",
-  "briefing": "Market is roughly flat-to-slightly-negative today (NASDAQ -0.4%, S&P 500 -0.1%) — not the risk-on setup we look for to deploy new capital. Cash on hand ($189.29) is also well below the $500 threshold needed for a new position, so we're holding all 7 existing positions and letting stop-loss/profit-target rules do their job automatically.",
+  "briefing": "Market was neutral today (NASDAQ -0.4%, S&P 500 -0.1%) with no strong risk-on confirmation across the candidate list. Cash on hand ($189.29) is below the $500 deployment threshold, so per strategy memory we held rather than forcing a buy. All 7 existing positions are left untouched, with stop-loss and profit-target rules continuing to run automatically.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today our available cash is too low to fund a new position anyway, and the market isn't showing a clear risk-on signal, so the disciplined move is to hold rather than force a trade.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是預留在場邊、等待良機出現時才動用的現金。今天我們的可用現金太少，不足以開新倉位，加上市場也沒有明顯的風險偏好（risk-on）訊號，因此最有紀律的做法是持有觀望，而非勉強交易。"
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. Today the portfolio's cash balance was below the minimum deployment threshold and the market showed no decisive risk-on signal, so holding cash was the disciplined choice rather than forcing a trade just to stay busy.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指預留在場邊、等待真正好機會出現時才動用的現金。今日投資組合的現金餘額低於最低部署門檻，市場亦未出現明確的風險偏好轉強訊號，因此按兵不動、保留現金才是紀律性的選擇，而非為了「有動作」而勉強交易。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no dominant catalyst, reflecting a quiet, directionless session rather than any specific negative news event. NASDAQ underperformed the S&P 500 modestly, consistent with mild profit-taking in growth names after recent gains. Without clear conviction in either direction, this looks like consolidation rather than the start of a new trend.",
-    "summary_zh": "今日大盤指數微幅走低，未見明顯的觸發因素，反映市場觀望氣氛濃厚而非受特定利空消息影響。納斯達克指數表現略遜於標普500指數，符合近期成長股在累積漲幅後出現的溫和獲利了結現象。由於多空雙方都缺乏明確方向，這較像是盤整格局，而非新趨勢的開端。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a broadly neutral, low-conviction trading session rather than any single decisive catalyst. Momentum candidates on the screener remain mostly in overbought RSI territory, suggesting the recent rally has room to cool before a fresh entry point emerges. Without a clear volume-confirmed breakout or risk-on signal, the market appears to be consolidating.",
+    "summary_zh": "今日大盤走勢偏軟，納斯達克指數下跌0.4%，標普500指數下跌0.1%，整體屬於中性、缺乏方向性的交投格局，並無單一明確的市場催化因素。篩選名單中的動能股多數RSI已進入超買區間，顯示近期升勢或需先消化整理，才有更佳的進場時機。在缺乏成交量確認的突破或風險偏好轉強訊號下，市場暫時呈現盤整格局。",
     "sources": []
   },
   "trades": [],
