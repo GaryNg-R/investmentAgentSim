@@ -1,14 +1,14 @@
 {
   "date": "2026-08-10",
-  "briefing": "Market was neutral today (NASDAQ -0.4%, S&P 500 -0.1%) with no strong risk-on confirmation across the candidate list. Cash on hand ($189.29) is below the $500 deployment threshold, so per strategy memory we held rather than forcing a buy. All 7 existing positions are left untouched, with stop-loss and profit-target rules continuing to run automatically.",
+  "briefing": "Markets were flat today with NASDAQ -0.3% and S&P 500 roughly unchanged — no clear risk-on or risk-off signal. Cash on hand ($189.29) is below the $500 deployment threshold and there's no strong multi-signal setup among candidates, so we're holding all 7 existing positions and skipping new buys rather than forcing a trade.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. Today the portfolio's cash balance was below the minimum deployment threshold and the market showed no decisive risk-on signal, so holding cash was the disciplined choice rather than forcing a trade just to stay busy.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指預留在場邊、等待真正好機會出現時才動用的現金。今日投資組合的現金餘額低於最低部署門檻，市場亦未出現明確的風險偏好轉強訊號，因此按兵不動、保留現金才是紀律性的選擇，而非為了「有動作」而勉強交易。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off doesn't always mean a market crash — it can simply mean conditions aren't compelling enough to justify new risk. On a neutral day with limited cash and no strong confirming signals, the disciplined move is to hold existing positions and preserve capital rather than chase momentum that isn't really there.",
+    "explanation_zh": "「風險規避」（Risk-Off）不一定代表市場暴跌，有時只是代表現時環境未足以支持承擔新風險。在大市中性、資金有限且缺乏強力確認訊號的情況下，較穩健的做法是持有現有倉位、保留資本，而非勉強追逐並不存在的動能。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a broadly neutral, low-conviction trading session rather than any single decisive catalyst. Momentum candidates on the screener remain mostly in overbought RSI territory, suggesting the recent rally has room to cool before a fresh entry point emerges. Without a clear volume-confirmed breakout or risk-on signal, the market appears to be consolidating.",
-    "summary_zh": "今日大盤走勢偏軟，納斯達克指數下跌0.4%，標普500指數下跌0.1%，整體屬於中性、缺乏方向性的交投格局，並無單一明確的市場催化因素。篩選名單中的動能股多數RSI已進入超買區間，顯示近期升勢或需先消化整理，才有更佳的進場時機。在缺乏成交量確認的突破或風險偏好轉強訊號下，市場暫時呈現盤整格局。",
+    "summary_en": "Major indices traded essentially sideways today, with the NASDAQ slipping a modest 0.3% and the S&P 500 nearly flat. There was no dominant macro catalyst driving the session, reflecting a market in a holding pattern as investors await clearer directional signals. Low-conviction, low-volume days like this typically favor patience over forced positioning.",
+    "summary_zh": "今日大市大致橫行整理，納指微跌0.3%，標普500指數則幾乎持平。市場缺乏明顯的主導性消息面刺激，反映投資者在等待更清晰的方向訊號前選擇觀望。此類低成交量、低確信度的交易日，通常更適合按兵不動而非勉強進場。",
     "sources": []
   },
   "trades": [],
