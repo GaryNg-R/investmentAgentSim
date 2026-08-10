@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-10T19:00:50.312930+00:00",
+  "saved_at": "2026-08-10T20:00:49.994621+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets were flat today with NASDAQ -0.3% and S&P 500 roughly unchanged \u2014 no clear risk-on or risk-off signal. Cash on hand ($189.29) is below the $500 deployment threshold and there's no strong multi-signal setup among candidates, so we're holding all 7 existing positions and skipping new buys rather than forcing a trade.",
+    "skip_new_buys": false,
+    "briefing": "Markets drifted quietly lower today (NASDAQ -0.3%, S&P 500 -0.1%) with no clear directional catalyst. Cash on hand ($189.29) sits below our $500 deployment threshold, so per past lessons we're holding rather than forcing a buy into open slots, and all 7 existing positions stay untouched to let stop-loss/profit-target rules do their job.",
     "market_education": {
-      "summary_en": "Major indices traded essentially sideways today, with the NASDAQ slipping a modest 0.3% and the S&P 500 nearly flat. There was no dominant macro catalyst driving the session, reflecting a market in a holding pattern as investors await clearer directional signals. Low-conviction, low-volume days like this typically favor patience over forced positioning.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u5927\u81f4\u6a6b\u884c\u6574\u7406\uff0c\u7d0d\u6307\u5fae\u8dcc0.3%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u5e7e\u4e4e\u6301\u5e73\u3002\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u4e3b\u5c0e\u6027\u6d88\u606f\u9762\u523a\u6fc0\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u66f4\u6e05\u6670\u7684\u65b9\u5411\u8a0a\u865f\u524d\u9078\u64c7\u89c0\u671b\u3002\u6b64\u985e\u4f4e\u6210\u4ea4\u91cf\u3001\u4f4e\u78ba\u4fe1\u5ea6\u7684\u4ea4\u6613\u65e5\uff0c\u901a\u5e38\u66f4\u9069\u5408\u6309\u5175\u4e0d\u52d5\u800c\u975e\u52c9\u5f37\u9032\u5834\u3002",
+      "summary_en": "Both the NASDAQ and S&P 500 slipped modestly today, with no single headline-driving catalyst evident from available data \u2014 this looks like routine consolidation after recent moves rather than a shift in sentiment. Trading was described as neutral, meaning buyers and sellers were roughly balanced. Without a strong risk-on or risk-off signal, it's a day for patience rather than action.",
+      "summary_zh": "\u4eca\u65e5\u7d0d\u65af\u9054\u514b\u6307\u6578\u53ca\u6a19\u666e500\u6307\u6578\u5747\u51fa\u73fe\u5c0f\u5e45\u56de\u843d,\u73fe\u6709\u8cc7\u6599\u4e26\u672a\u986f\u793a\u6709\u660e\u986f\u7684\u55ae\u4e00\u6d88\u606f\u9762\u56e0\u7d20\u5e36\u52d5,\u8f03\u50cf\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u4f8b\u884c\u6574\u56fa,\u800c\u975e\u5e02\u5834\u60c5\u7dd2\u8f49\u5411\u3002\u5e02\u6cc1\u88ab\u5f62\u5bb9\u70ba\u4e2d\u6027,\u5373\u8cb7\u8ce3\u529b\u91cf\u5927\u81f4\u5e73\u8861\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u6216\u907f\u96aa\u8a0a\u865f\u4e0b,\u4eca\u5929\u9069\u5408\u6309\u5175\u4e0d\u52d5\u3001\u8010\u5fc3\u89c0\u671b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "Risk-off doesn't always mean a market crash \u2014 it can simply mean conditions aren't compelling enough to justify new risk. On a neutral day with limited cash and no strong confirming signals, the disciplined move is to hold existing positions and preserve capital rather than chase momentum that isn't really there.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u4e0d\u4e00\u5b9a\u4ee3\u8868\u5e02\u5834\u66b4\u8dcc\uff0c\u6709\u6642\u53ea\u662f\u4ee3\u8868\u73fe\u6642\u74b0\u5883\u672a\u8db3\u4ee5\u652f\u6301\u627f\u64d4\u65b0\u98a8\u96aa\u3002\u5728\u5927\u5e02\u4e2d\u6027\u3001\u8cc7\u91d1\u6709\u9650\u4e14\u7f3a\u4e4f\u5f37\u529b\u78ba\u8a8d\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b\uff0c\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u5009\u4f4d\u3001\u4fdd\u7559\u8cc7\u672c\uff0c\u800c\u975e\u52c9\u5f37\u8ffd\u9010\u4e26\u4e0d\u5b58\u5728\u7684\u52d5\u80fd\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. With only $189 in cash today \u2014 below our $500 buying threshold \u2014 and no strong risk-on signal in a neutral market, holding that cash rather than forcing a trade is the disciplined move.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u662f\u6307\u9810\u7559\u5728\u5834\u908a\u3001\u5f85\u771f\u6b63\u51fa\u73fe\u826f\u597d\u6a5f\u6703\u6642\u624d\u52d5\u7528\u7684\u73fe\u91d1\u3002\u4eca\u5929\u73fe\u91d1\u53ea\u6709189\u7f8e\u5143,\u672a\u9054\u5230500\u7f8e\u5143\u7684\u8cb7\u5165\u9580\u6abb,\u52a0\u4e0a\u5e02\u6cc1\u4e2d\u6027\u3001\u672a\u898b\u5f37\u70c8\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f,\u56e0\u6b64\u4fdd\u7559\u73fe\u91d1\u3001\u4e0d\u52c9\u5f37\u4ea4\u6613\u624d\u662f\u7d00\u5f8b\u7684\u505a\u6cd5\u3002"
     }
   }
 }
