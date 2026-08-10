@@ -1,14 +1,14 @@
 {
   "date": "2026-08-10",
-  "briefing": "Market is risk-on today with NASDAQ +1.3% and S&P 500 +0.6%. Cash on hand ($89.29) is below the $500 buy threshold, so no new positions were opened despite 3 open slots; existing holdings, including strong performer ROAD, were held through the up day.",
+  "briefing": "Markets were flat today (NASDAQ -0.1%, S&P500 +0.0%) with no clear directional signal. Cash on hand ($189.29) is below the $500 threshold for new positions, so we're holding all 7 existing positions and waiting for a genuine risk-on setup rather than forcing a trade.",
   "daily_lesson": {
-    "term": "Risk-On Sentiment",
-    "explanation_en": "'Risk-on' describes a market environment where investors favor higher-risk, higher-reward assets like growth stocks, typically because economic or corporate outlooks appear favorable. It's the opposite of 'risk-off,' where investors flee to safer assets like bonds or cash during uncertainty.",
-    "explanation_zh": "「風險偏好」（Risk-On）是指投資者傾向買入風險較高、潛在回報亦較高的資產（如增長型股票），通常出現在經濟或企業前景較為樂觀的時候。與之相反的是「避險」（Risk-Off），即市場不明朗時投資者轉向債券或現金等較安全的資產。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. On quiet, directionless days like today, disciplined investors avoid forcing trades and instead preserve cash for a clearer risk-on signal.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是暫時保留在場邊、等待良機出手的現金。在像今天這樣方向不明的平淡交易日，有紀律的投資人會避免勉強進場，而是保留現金等待更明確的進場訊號。"
   },
   "market_education": {
-    "summary_en": "Markets traded higher today with the NASDAQ leading gains at +1.3% and the S&P 500 up +0.6%, reflecting broad risk-on sentiment across equities. No specific news headlines were provided for today's session, so this move reflects general positive market breadth rather than a single catalyst. Momentum names like ROAD continued to show strength, trading above key moving averages with bullish MACD crossovers.",
-    "summary_zh": "今日大市普遍走高，納斯達克指數領漲，升幅達1.3%，標普500指數亦上升0.6%，反映市場整體風險偏好情緒回升。由於本次未提供具體新聞頭條，今日升勢較大機會源於普遍性的市場氣氛改善，而非單一事件帶動。動能股如ROAD持續造好，股價高於主要移動平均線，MACD亦呈現黃金交叉的利好訊號。",
+    "summary_en": "Major indices were essentially unchanged today, with the NASDAQ dipping slightly and the S&P 500 flat. This kind of directionless session often reflects investors waiting for new catalysts before committing more capital in either direction.",
+    "summary_zh": "今日大盤走勢平淡，納指微跌0.1%，標普500則持平。這種缺乏方向性的交易日通常反映投資人在等待新的市場訊號，暫時不願大幅加碼或減碼。",
     "sources": []
   },
   "trades": [],
