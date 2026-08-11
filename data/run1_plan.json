@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-11T14:00:51.151247+00:00",
+  "saved_at": "2026-08-11T15:00:46.947814+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "NASDAQ -0.1% and S&P 500 +0.1% today \u2014 a neutral, directionless session with no strong signal either way. Cash is well below the $500 deployment threshold, so per prior lessons we held all 7 existing positions rather than forcing a buy on a low-conviction day.",
+    "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.1%) with no clear risk-on signal. Cash on hand ($189.29) is below the $500 threshold needed to add a new position, so per past lessons we're holding rather than forcing a trade, and letting the automatic stop-loss/profit-target rules manage the 7 existing positions.",
     "market_education": {
-      "summary_en": "Major indices were essentially flat today, with the NASDAQ dipping slightly and the S&P 500 ticking up marginally, reflecting a lack of strong catalysts on either side. Without a clear risk-on or risk-off trigger, trading stayed range-bound. No significant news events drove today's price action.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u5e73\u6de1,\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.1%,\u6a19\u666e500\u6307\u6578\u5247\u5fae\u53470.1%,\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u5229\u597d\u6216\u5229\u6de1\u56e0\u7d20\u3002\u7531\u65bc\u6c92\u6709\u6e05\u6670\u7684\u98a8\u96aa\u504f\u597d\u6216\u907f\u96aa\u8a0a\u865f,\u5927\u5e02\u7dad\u6301\u7a84\u5e45\u6ce2\u52d5\u3002\u4eca\u65e5\u4e26\u7121\u91cd\u5927\u65b0\u805e\u4e8b\u4ef6\u5de6\u53f3\u50f9\u683c\u8d70\u52e2\u3002",
+      "summary_en": "Major indices were essentially unchanged today, with the S&P 500 and NASDAQ both trading in a tight range as investors await fresh catalysts. Without a strong directional signal, institutional volume was subdued and most sectors moved sideways. This kind of quiet consolidation often follows a period of larger moves as the market digests recent gains.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6ce2\u52d5\u4e0d\u5927\uff0c\u6a19\u666e500\u8207\u7d0d\u6307\u5747\u5728\u7a84\u5e45\u5340\u9593\u5167\u6574\u7406\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff0c\u6295\u8cc7\u8005\u4ecd\u5728\u7b49\u5f85\u65b0\u7684\u50ac\u5316\u56e0\u7d20\u3002\u6210\u4ea4\u91cf\u504f\u6de1\uff0c\u591a\u6578\u677f\u584a\u5448\u73fe\u6a6b\u76e4\u683c\u5c40\u3002\u9019\u7a2e\u5e73\u975c\u7684\u6574\u56fa\u968e\u6bb5\uff0c\u901a\u5e38\u51fa\u73fe\u5728\u5e02\u5834\u6d88\u5316\u524d\u671f\u6f32\u5e45\u4e4b\u5f8c\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "Risk-off describes a cautious stance where investors hold back from new positions because market signals aren't strong enough to justify the risk. Today, with cash below the deployment threshold and no clear momentum, sitting tight was the disciplined choice rather than forcing a trade.",
-      "explanation_zh": "\u300c\u907f\u96aa\u300d(Risk-Off)\u662f\u6307\u6295\u8cc7\u8005\u56e0\u5e02\u5834\u8a0a\u865f\u4e0d\u5920\u5f37\u70c8,\u800c\u9078\u64c7\u4fdd\u6301\u8b39\u614e\u3001\u4e0d\u5efa\u7acb\u65b0\u5009\u4f4d\u7684\u7b56\u7565\u3002\u4eca\u65e5\u73fe\u91d1\u6c34\u5e73\u4f4e\u65bc\u90e8\u7f72\u9580\u6abb,\u4e14\u5e02\u6cc1\u7f3a\u4e4f\u660e\u78ba\u52d5\u529b,\u6309\u5175\u4e0d\u52d5\u624d\u662f\u7a69\u5065\u4e4b\u9053,\u800c\u975e\u52c9\u5f37\u4ea4\u6613\u3002"
+      "explanation_en": "A 'risk-off' stance means staying cautious and avoiding new positions when market signals are weak or unclear, rather than forcing a trade just to put cash to work. It's a reminder that patience \u2014 holding cash on a neutral day \u2014 is itself a valid investment decision.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u6307\u7684\u662f\u5728\u5e02\u5834\u4fe1\u865f\u75b2\u5f31\u6216\u4e0d\u660e\u6717\u6642\u4fdd\u6301\u8b39\u614e\uff0c\u4e0d\u70ba\u4e86\u52d5\u7528\u73fe\u91d1\u800c\u52c9\u5f37\u4ea4\u6613\u3002\u9019\u63d0\u9192\u6211\u5011\uff1a\u5728\u5e02\u5834\u4e2d\u6027\u7684\u65e5\u5b50\u88e1\u6301\u6709\u73fe\u91d1\u3001\u4fdd\u6301\u8010\u6027\uff0c\u672c\u8eab\u4e5f\u662f\u4e00\u7a2e\u6709\u6548\u7684\u6295\u8cc7\u6c7a\u7b56\u3002"
     }
   }
 }
