@@ -1,14 +1,14 @@
 {
   "date": "2026-08-11",
-  "briefing": "Markets were neutral today (NASDAQ -0.6%, S&P 500 -0.3%) with no strong risk-on signal. Cash on hand ($189.29) is below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy, and letting existing positions ride.",
+  "briefing": "Markets were neutral today (NASDAQ -0.6%, S&P 500 -0.3%) with no strong risk-on signal, and available cash ($189.29) sits below the $500 minimum needed to open a new position anyway. Existing 7 positions are held unchanged — no forced buys or sells on a low-conviction day.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash kept on hand rather than invested, ready to deploy when a strong opportunity appears. Holding cash on a neutral day instead of forcing a purchase preserves flexibility and avoids buying into low-conviction setups.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留現金而非急於投資，以便在出現明確機會時迅速部署資金。在市況平淡的日子選擇持有現金而非勉強買入，有助保持靈活性，避免在信號不明確時貿然進場。"
+    "explanation_en": "\"Dry powder\" means keeping cash on hand rather than forcing it into the market. With only $189.29 available — below the $500 threshold needed to open a new position — and no strong bullish signal today, the disciplined move is to wait for a genuine risk-on setup rather than chase a mediocre trade.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是保留現金、不勉強進場投資。今日可用現金僅189.29美元，低於開新倉所需的500美元門檻，加上市場也未出現強烈的看多訊號，因此紀律性的做法是耐心等待真正的risk-on機會，而非勉強進行平庸的交易。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today in quiet, directionless trading, with the NASDAQ down 0.6% and the S&P 500 down 0.3%. There was no single dominant catalyst driving the move, consistent with a broader consolidation phase after recent gains. Without a clear risk-on or risk-off signal, investors largely stayed on the sidelines.",
-    "summary_zh": "今日大市走勢平淡，缺乏明確方向，納斯達克指數下跌0.6%，標普500指數下跌0.3%。市場並無單一主導因素推動走勢，較符合近期升勢後的整固格局。由於未見明顯的風險偏好或避險訊號，投資者普遍選擇觀望。",
+    "summary_en": "Both major indices drifted slightly lower today in quiet, directionless trading, with NASDAQ down 0.6% and the S&P 500 down 0.3%. There was no single dominant catalyst driving the move — it reflects a broad, mild pullback rather than a sharp risk-off event. Without a strong bullish or bearish signal, this kind of session is typically driven by profit-taking and light volume rather than new fundamental news.",
+    "summary_zh": "今日兩大主要指數皆小幅回落，走勢平淡且缺乏明確方向，NASDAQ下跌0.6%，標普500下跌0.3%。市場並未出現單一主導因素，反映的是溫和的整體回調，而非劇烈的risk-off拋售。在缺乏強烈利多或利空訊號的情況下，這類交易日通常源於獲利了結與交投清淡，而非新的基本面消息。",
     "sources": []
   },
   "trades": [],
