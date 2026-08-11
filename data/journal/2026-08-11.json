@@ -1,14 +1,14 @@
 {
   "date": "2026-08-11",
-  "briefing": "Markets were neutral-to-slightly-down today (NASDAQ -0.7%, S&P 500 -0.4%), with no clear risk-on signal to justify new positions. Cash on hand ($189.29) is well below the $500 deployment threshold, so despite 3 open slots we're holding rather than forcing a buy. All 7 existing positions are held unchanged, letting stop-loss and profit-target rules handle exits automatically.",
+  "briefing": "Markets were neutral today (NASDAQ -0.6%, S&P 500 -0.3%) with no strong risk-on signal. Cash on hand ($189.29) is below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy, and letting existing positions ride.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off refers to a cautious market posture where investors hold back from adding new positions until conditions clearly favor taking on more risk. Today's neutral market and limited cash on hand meant sitting tight was the disciplined choice rather than forcing a trade. Waiting for genuine confirmation — like a strong up day with volume — protects capital compared to buying on a low-conviction signal.",
-    "explanation_zh": "「避險」(Risk-Off)是指投資者在市況不明朗時採取審慎態度,暫緩加碼新倉位,直至出現更明確的有利訊號。今日市況中性,加上可動用現金有限,按兵不動才是紀律嚴謹的做法,而非勉強交易。耐心等待真正的確認訊號(例如放量大漲的日子),比在信號薄弱時貿然買入更能保護資本。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash kept on hand rather than invested, ready to deploy when a strong opportunity appears. Holding cash on a neutral day instead of forcing a purchase preserves flexibility and avoids buying into low-conviction setups.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留現金而非急於投資，以便在出現明確機會時迅速部署資金。在市況平淡的日子選擇持有現金而非勉強買入，有助保持靈活性，避免在信號不明確時貿然進場。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 drifted modestly lower today in a quiet, directionless session with no single dominant catalyst driving the move. Trading stayed range-bound as investors appeared to digest recent gains rather than react to fresh news. Without a clear risk-on or risk-off trigger, broad indices simply chopped sideways to slightly down.",
-    "summary_zh": "今日納指及標普500指數皆溫和回落,市況缺乏明確方向,亦未見單一重大消息主導盤面。投資者似乎在消化近期升幅,交投相對平淡。由於未見明顯的風險偏好或避險訊號,大盤呈現橫行偏軟格局。",
+    "summary_en": "Major indices drifted slightly lower today in quiet, directionless trading, with the NASDAQ down 0.6% and the S&P 500 down 0.3%. There was no single dominant catalyst driving the move, consistent with a broader consolidation phase after recent gains. Without a clear risk-on or risk-off signal, investors largely stayed on the sidelines.",
+    "summary_zh": "今日大市走勢平淡，缺乏明確方向，納斯達克指數下跌0.6%，標普500指數下跌0.3%。市場並無單一主導因素推動走勢，較符合近期升勢後的整固格局。由於未見明顯的風險偏好或避險訊號，投資者普遍選擇觀望。",
     "sources": []
   },
   "trades": [],
