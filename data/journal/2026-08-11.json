@@ -1,14 +1,14 @@
 {
   "date": "2026-08-11",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.3%, S&P 500 -0.1%), showing no clear risk-on or risk-off signal. With only $189.29 in cash — below our $500 deployment threshold — and all 7 existing positions still healthy, we held everything and made no new trades.",
+  "briefing": "NASDAQ -0.1% and S&P 500 +0.1% today — a neutral, directionless session with no strong signal either way. Cash is well below the $500 deployment threshold, so per prior lessons we held all 7 existing positions rather than forcing a buy on a low-conviction day.",
   "daily_lesson": {
-    "term": "Market Consolidation",
-    "explanation_en": "Consolidation happens when a market moves sideways or drifts slightly in either direction without a clear trend, often after a period of gains. It's a normal pause where investors wait for new information before committing more capital, which is why holding cash and existing positions can be the right call rather than forcing new trades.",
-    "explanation_zh": "盤整（Consolidation）是指市場在沒有明顯趨勢的情況下橫盤或小幅波動，通常發生在一段漲勢之後。這是投資人在等待新訊息前的正常暫歇期，因此在這種時候持有現金與現有部位、而非勉強進場交易，往往才是正確的做法。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off describes a cautious stance where investors hold back from new positions because market signals aren't strong enough to justify the risk. Today, with cash below the deployment threshold and no clear momentum, sitting tight was the disciplined choice rather than forcing a trade.",
+    "explanation_zh": "「避險」(Risk-Off)是指投資者因市場訊號不夠強烈,而選擇保持謹慎、不建立新倉位的策略。今日現金水平低於部署門檻,且市況缺乏明確動力,按兵不動才是穩健之道,而非勉強交易。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted slightly lower today in quiet, directionless trading, with NASDAQ down 0.3% and the S&P 500 down 0.1%. There was no dominant catalyst driving the move, consistent with a low-conviction, consolidative session rather than a genuine shift in sentiment. Days like this often reflect investors digesting recent gains before the next directional trigger emerges.",
-    "summary_zh": "今日兩大指數皆小幅下跌，走勢方向不明：納斯達克下跌0.3%，標普500下跌0.1%。市場並無明顯主導因素，較像是投資人在消化近期漲幅後的整理格局，而非情緒出現實質轉向。這類交易日通常需要等待下一個明確訊號才會出現方向性突破。",
+    "summary_en": "Major indices were essentially flat today, with the NASDAQ dipping slightly and the S&P 500 ticking up marginally, reflecting a lack of strong catalysts on either side. Without a clear risk-on or risk-off trigger, trading stayed range-bound. No significant news events drove today's price action.",
+    "summary_zh": "今日大市走勢平淡,納斯達克指數微跌0.1%,標普500指數則微升0.1%,反映市場缺乏明顯的利好或利淡因素。由於沒有清晰的風險偏好或避險訊號,大市維持窄幅波動。今日並無重大新聞事件左右價格走勢。",
     "sources": []
   },
   "trades": [],
