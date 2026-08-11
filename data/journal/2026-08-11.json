@@ -1,14 +1,14 @@
 {
   "date": "2026-08-11",
-  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.4%, S&P 500 -0.1%), a neutral session with no clear risk-on signal. Cash on hand is only $189.29, well below the $500 threshold needed to responsibly open a new position, so we held all 7 existing positions and made no new trades.",
+  "briefing": "Markets were neutral today (NASDAQ -0.5%, S&P 500 -0.2%) with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold, so per past lessons we held rather than forcing a buy, letting the 7 existing positions ride under their automatic stop-loss/profit-target rules.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off refers to a cautious market stance where investors avoid adding new exposure, often due to low cash reserves or unclear market direction rather than fear alone. Today, with cash below the $500 buying threshold and no strong bullish signal across the screened candidates, the disciplined move was to preserve capital and hold current positions instead of forcing a trade.",
-    "explanation_zh": "Risk-off（風險規避）指投資人採取謹慎態度、避免增加新部位的市場心態，原因不一定是恐慌，也可能是現金不足或市場方向不明。今日現金低於500美元的買入門檻，且篩選名單中沒有強烈的看漲訊號，因此紀律性的做法是保留資金、持有現有部位，而非勉強進場交易。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder means keeping cash on the sidelines instead of investing it immediately, so you have capital ready to deploy when a genuinely strong opportunity appears. Today's cash balance was below the usual buy threshold and the market gave no strong bullish signal, so holding cash was the disciplined choice rather than forcing a trade.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是先持有現金不急於投資，留待出現真正強勁的機會時才動用資金。今日現金水平低於一般買入門檻，而市場亦未出現明確的看漲訊號，因此按兵不動、保留現金才是較有紀律的做法，而非勉強交易。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a quiet, directionless session rather than any significant risk-off move. Without a clear catalyst pushing volume or volatility higher, institutional participation appeared light. This kind of low-conviction day is typically best spent holding existing positions rather than chasing new entries.",
-    "summary_zh": "今日大盤走勢平淡，納斯達克指數下跌0.4%，標普500指數下跌0.1%，顯示市場方向不明、交投清淡，並非明顯的risk-off訊號。由於缺乏明確的催化因素帶動成交量或波動率上升，機構參與度顯得偏低。在這種低信心度的交易日，通常較適合持有現有部位，而非追高進場。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.5% and the S&P 500 down 0.2%, indicating a quiet, directionless session rather than any sharp risk-off move. No major catalyst news was flagged for today's session. Light, mixed trading like this often reflects investors waiting for the next earnings or macro data point before committing more capital.",
+    "summary_zh": "今日大市走勢平淡，納斯達克指數下跌0.5%，標普500指數下跌0.2%，屬於方向不明的窄幅波動，並非明顯的risk-off拋售。今日未有重大新聞催化劑。這種清淡混合的交易走勢，通常反映投資者在等待下一輪業績或宏觀數據公布後才願意加碼。",
     "sources": []
   },
   "trades": [],

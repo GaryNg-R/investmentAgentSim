@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-11T16:00:53.521789+00:00",
+  "saved_at": "2026-08-11T17:01:13.639897+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.4%, S&P 500 -0.1%), a neutral session with no clear risk-on signal. Cash on hand is only $189.29, well below the $500 threshold needed to responsibly open a new position, so we held all 7 existing positions and made no new trades.",
+    "skip_new_buys": false,
+    "briefing": "Markets were neutral today (NASDAQ -0.5%, S&P 500 -0.2%) with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold, so per past lessons we held rather than forcing a buy, letting the 7 existing positions ride under their automatic stop-loss/profit-target rules.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a quiet, directionless session rather than any significant risk-off move. Without a clear catalyst pushing volume or volatility higher, institutional participation appeared light. This kind of low-conviction day is typically best spent holding existing positions rather than chasing new entries.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.1%\uff0c\u986f\u793a\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u3001\u4ea4\u6295\u6e05\u6de1\uff0c\u4e26\u975e\u660e\u986f\u7684risk-off\u8a0a\u865f\u3002\u7531\u65bc\u7f3a\u4e4f\u660e\u78ba\u7684\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u6210\u4ea4\u91cf\u6216\u6ce2\u52d5\u7387\u4e0a\u5347\uff0c\u6a5f\u69cb\u53c3\u8207\u5ea6\u986f\u5f97\u504f\u4f4e\u3002\u5728\u9019\u7a2e\u4f4e\u4fe1\u5fc3\u5ea6\u7684\u4ea4\u6613\u65e5\uff0c\u901a\u5e38\u8f03\u9069\u5408\u6301\u6709\u73fe\u6709\u90e8\u4f4d\uff0c\u800c\u975e\u8ffd\u9ad8\u9032\u5834\u3002",
+      "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.5% and the S&P 500 down 0.2%, indicating a quiet, directionless session rather than any sharp risk-off move. No major catalyst news was flagged for today's session. Light, mixed trading like this often reflects investors waiting for the next earnings or macro data point before committing more capital.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.5%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.2%\uff0c\u5c6c\u65bc\u65b9\u5411\u4e0d\u660e\u7684\u7a84\u5e45\u6ce2\u52d5\uff0c\u4e26\u975e\u660e\u986f\u7684risk-off\u62cb\u552e\u3002\u4eca\u65e5\u672a\u6709\u91cd\u5927\u65b0\u805e\u50ac\u5316\u5291\u3002\u9019\u7a2e\u6e05\u6de1\u6df7\u5408\u7684\u4ea4\u6613\u8d70\u52e2\uff0c\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u4e0b\u4e00\u8f2a\u696d\u7e3e\u6216\u5b8f\u89c0\u6578\u64da\u516c\u5e03\u5f8c\u624d\u9858\u610f\u52a0\u78bc\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "Risk-off refers to a cautious market stance where investors avoid adding new exposure, often due to low cash reserves or unclear market direction rather than fear alone. Today, with cash below the $500 buying threshold and no strong bullish signal across the screened candidates, the disciplined move was to preserve capital and hold current positions instead of forcing a trade.",
-      "explanation_zh": "Risk-off\uff08\u98a8\u96aa\u898f\u907f\uff09\u6307\u6295\u8cc7\u4eba\u63a1\u53d6\u8b39\u614e\u614b\u5ea6\u3001\u907f\u514d\u589e\u52a0\u65b0\u90e8\u4f4d\u7684\u5e02\u5834\u5fc3\u614b\uff0c\u539f\u56e0\u4e0d\u4e00\u5b9a\u662f\u6050\u614c\uff0c\u4e5f\u53ef\u80fd\u662f\u73fe\u91d1\u4e0d\u8db3\u6216\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u3002\u4eca\u65e5\u73fe\u91d1\u4f4e\u65bc500\u7f8e\u5143\u7684\u8cb7\u5165\u9580\u6abb\uff0c\u4e14\u7be9\u9078\u540d\u55ae\u4e2d\u6c92\u6709\u5f37\u70c8\u7684\u770b\u6f32\u8a0a\u865f\uff0c\u56e0\u6b64\u7d00\u5f8b\u6027\u7684\u505a\u6cd5\u662f\u4fdd\u7559\u8cc7\u91d1\u3001\u6301\u6709\u73fe\u6709\u90e8\u4f4d\uff0c\u800c\u975e\u52c9\u5f37\u9032\u5834\u4ea4\u6613\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "Dry powder means keeping cash on the sidelines instead of investing it immediately, so you have capital ready to deploy when a genuinely strong opportunity appears. Today's cash balance was below the usual buy threshold and the market gave no strong bullish signal, so holding cash was the disciplined choice rather than forcing a trade.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u7684\u662f\u5148\u6301\u6709\u73fe\u91d1\u4e0d\u6025\u65bc\u6295\u8cc7\uff0c\u7559\u5f85\u51fa\u73fe\u771f\u6b63\u5f37\u52c1\u7684\u6a5f\u6703\u6642\u624d\u52d5\u7528\u8cc7\u91d1\u3002\u4eca\u65e5\u73fe\u91d1\u6c34\u5e73\u4f4e\u65bc\u4e00\u822c\u8cb7\u5165\u9580\u6abb\uff0c\u800c\u5e02\u5834\u4ea6\u672a\u51fa\u73fe\u660e\u78ba\u7684\u770b\u6f32\u8a0a\u865f\uff0c\u56e0\u6b64\u6309\u5175\u4e0d\u52d5\u3001\u4fdd\u7559\u73fe\u91d1\u624d\u662f\u8f03\u6709\u7d00\u5f8b\u7684\u505a\u6cd5\uff0c\u800c\u975e\u52c9\u5f37\u4ea4\u6613\u3002"
     }
   }
 }
