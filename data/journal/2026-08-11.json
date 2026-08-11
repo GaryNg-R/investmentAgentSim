@@ -1,14 +1,14 @@
 {
   "date": "2026-08-11",
-  "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.1%) with no clear risk-on signal. Cash on hand ($189.29) is below the $500 threshold needed to add a new position, so per past lessons we're holding rather than forcing a trade, and letting the automatic stop-loss/profit-target rules manage the 7 existing positions.",
+  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.4%, S&P 500 -0.1%), a neutral session with no clear risk-on signal. Cash on hand is only $189.29, well below the $500 threshold needed to responsibly open a new position, so we held all 7 existing positions and made no new trades.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' stance means staying cautious and avoiding new positions when market signals are weak or unclear, rather than forcing a trade just to put cash to work. It's a reminder that patience — holding cash on a neutral day — is itself a valid investment decision.",
-    "explanation_zh": "「風險規避」（Risk-Off）指的是在市場信號疲弱或不明朗時保持謹慎，不為了動用現金而勉強交易。這提醒我們：在市場中性的日子裡持有現金、保持耐性，本身也是一種有效的投資決策。"
+    "explanation_en": "Risk-off refers to a cautious market stance where investors avoid adding new exposure, often due to low cash reserves or unclear market direction rather than fear alone. Today, with cash below the $500 buying threshold and no strong bullish signal across the screened candidates, the disciplined move was to preserve capital and hold current positions instead of forcing a trade.",
+    "explanation_zh": "Risk-off（風險規避）指投資人採取謹慎態度、避免增加新部位的市場心態，原因不一定是恐慌，也可能是現金不足或市場方向不明。今日現金低於500美元的買入門檻，且篩選名單中沒有強烈的看漲訊號，因此紀律性的做法是保留資金、持有現有部位，而非勉強進場交易。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially unchanged today, with the S&P 500 and NASDAQ both trading in a tight range as investors await fresh catalysts. Without a strong directional signal, institutional volume was subdued and most sectors moved sideways. This kind of quiet consolidation often follows a period of larger moves as the market digests recent gains.",
-    "summary_zh": "今日大盤走勢波動不大，標普500與納指均在窄幅區間內整理，市場缺乏明確方向，投資者仍在等待新的催化因素。成交量偏淡，多數板塊呈現橫盤格局。這種平靜的整固階段，通常出現在市場消化前期漲幅之後。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a quiet, directionless session rather than any significant risk-off move. Without a clear catalyst pushing volume or volatility higher, institutional participation appeared light. This kind of low-conviction day is typically best spent holding existing positions rather than chasing new entries.",
+    "summary_zh": "今日大盤走勢平淡，納斯達克指數下跌0.4%，標普500指數下跌0.1%，顯示市場方向不明、交投清淡，並非明顯的risk-off訊號。由於缺乏明確的催化因素帶動成交量或波動率上升，機構參與度顯得偏低。在這種低信心度的交易日，通常較適合持有現有部位，而非追高進場。",
     "sources": []
   },
   "trades": [],

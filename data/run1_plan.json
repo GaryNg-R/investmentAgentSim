@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-11T15:00:46.947814+00:00",
+  "saved_at": "2026-08-11T16:00:53.521789+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.1%) with no clear risk-on signal. Cash on hand ($189.29) is below the $500 threshold needed to add a new position, so per past lessons we're holding rather than forcing a trade, and letting the automatic stop-loss/profit-target rules manage the 7 existing positions.",
+    "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.4%, S&P 500 -0.1%), a neutral session with no clear risk-on signal. Cash on hand is only $189.29, well below the $500 threshold needed to responsibly open a new position, so we held all 7 existing positions and made no new trades.",
     "market_education": {
-      "summary_en": "Major indices were essentially unchanged today, with the S&P 500 and NASDAQ both trading in a tight range as investors await fresh catalysts. Without a strong directional signal, institutional volume was subdued and most sectors moved sideways. This kind of quiet consolidation often follows a period of larger moves as the market digests recent gains.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6ce2\u52d5\u4e0d\u5927\uff0c\u6a19\u666e500\u8207\u7d0d\u6307\u5747\u5728\u7a84\u5e45\u5340\u9593\u5167\u6574\u7406\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff0c\u6295\u8cc7\u8005\u4ecd\u5728\u7b49\u5f85\u65b0\u7684\u50ac\u5316\u56e0\u7d20\u3002\u6210\u4ea4\u91cf\u504f\u6de1\uff0c\u591a\u6578\u677f\u584a\u5448\u73fe\u6a6b\u76e4\u683c\u5c40\u3002\u9019\u7a2e\u5e73\u975c\u7684\u6574\u56fa\u968e\u6bb5\uff0c\u901a\u5e38\u51fa\u73fe\u5728\u5e02\u5834\u6d88\u5316\u524d\u671f\u6f32\u5e45\u4e4b\u5f8c\u3002",
+      "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a quiet, directionless session rather than any significant risk-off move. Without a clear catalyst pushing volume or volatility higher, institutional participation appeared light. This kind of low-conviction day is typically best spent holding existing positions rather than chasing new entries.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.1%\uff0c\u986f\u793a\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u3001\u4ea4\u6295\u6e05\u6de1\uff0c\u4e26\u975e\u660e\u986f\u7684risk-off\u8a0a\u865f\u3002\u7531\u65bc\u7f3a\u4e4f\u660e\u78ba\u7684\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u6210\u4ea4\u91cf\u6216\u6ce2\u52d5\u7387\u4e0a\u5347\uff0c\u6a5f\u69cb\u53c3\u8207\u5ea6\u986f\u5f97\u504f\u4f4e\u3002\u5728\u9019\u7a2e\u4f4e\u4fe1\u5fc3\u5ea6\u7684\u4ea4\u6613\u65e5\uff0c\u901a\u5e38\u8f03\u9069\u5408\u6301\u6709\u73fe\u6709\u90e8\u4f4d\uff0c\u800c\u975e\u8ffd\u9ad8\u9032\u5834\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' stance means staying cautious and avoiding new positions when market signals are weak or unclear, rather than forcing a trade just to put cash to work. It's a reminder that patience \u2014 holding cash on a neutral day \u2014 is itself a valid investment decision.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u6307\u7684\u662f\u5728\u5e02\u5834\u4fe1\u865f\u75b2\u5f31\u6216\u4e0d\u660e\u6717\u6642\u4fdd\u6301\u8b39\u614e\uff0c\u4e0d\u70ba\u4e86\u52d5\u7528\u73fe\u91d1\u800c\u52c9\u5f37\u4ea4\u6613\u3002\u9019\u63d0\u9192\u6211\u5011\uff1a\u5728\u5e02\u5834\u4e2d\u6027\u7684\u65e5\u5b50\u88e1\u6301\u6709\u73fe\u91d1\u3001\u4fdd\u6301\u8010\u6027\uff0c\u672c\u8eab\u4e5f\u662f\u4e00\u7a2e\u6709\u6548\u7684\u6295\u8cc7\u6c7a\u7b56\u3002"
+      "explanation_en": "Risk-off refers to a cautious market stance where investors avoid adding new exposure, often due to low cash reserves or unclear market direction rather than fear alone. Today, with cash below the $500 buying threshold and no strong bullish signal across the screened candidates, the disciplined move was to preserve capital and hold current positions instead of forcing a trade.",
+      "explanation_zh": "Risk-off\uff08\u98a8\u96aa\u898f\u907f\uff09\u6307\u6295\u8cc7\u4eba\u63a1\u53d6\u8b39\u614e\u614b\u5ea6\u3001\u907f\u514d\u589e\u52a0\u65b0\u90e8\u4f4d\u7684\u5e02\u5834\u5fc3\u614b\uff0c\u539f\u56e0\u4e0d\u4e00\u5b9a\u662f\u6050\u614c\uff0c\u4e5f\u53ef\u80fd\u662f\u73fe\u91d1\u4e0d\u8db3\u6216\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u3002\u4eca\u65e5\u73fe\u91d1\u4f4e\u65bc500\u7f8e\u5143\u7684\u8cb7\u5165\u9580\u6abb\uff0c\u4e14\u7be9\u9078\u540d\u55ae\u4e2d\u6c92\u6709\u5f37\u70c8\u7684\u770b\u6f32\u8a0a\u865f\uff0c\u56e0\u6b64\u7d00\u5f8b\u6027\u7684\u505a\u6cd5\u662f\u4fdd\u7559\u8cc7\u91d1\u3001\u6301\u6709\u73fe\u6709\u90e8\u4f4d\uff0c\u800c\u975e\u52c9\u5f37\u9032\u5834\u4ea4\u6613\u3002"
     }
   }
 }
