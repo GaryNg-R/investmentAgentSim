@@ -1,14 +1,14 @@
 {
   "date": "2026-08-12",
-  "briefing": "Markets were neutral today (NASDAQ +0.5%, S&P 500 +0.3%) with no strong risk-on signal. Cash on hand ($189.29) is below the $500 deployment threshold, so per strategy memory we held all 7 positions rather than forcing a buy, and no stop-loss or profit-target conditions were triggered.",
+  "briefing": "Markets were neutral today with NASDAQ +0.5% and S&P 500 +0.3% — no strong risk-on signal. Cash on hand ($189.29) is below the $500 deployment threshold anyway, so we held all 7 positions rather than forcing a trade.",
   "daily_lesson": {
     "term": "Patience",
-    "explanation_en": "Patience in investing means resisting the urge to act just because you have idle cash or open portfolio slots. On a neutral day with limited cash, waiting for a clearer risk-on signal — rather than forcing a trade — protects capital for better opportunities.",
-    "explanation_zh": "投資中的「耐性」是指不會單純因為手頭有閒置現金或組合有空位，就勉強進行交易。在大市方向不明、現金有限的日子，耐心等待更明確的「風險偏好」信號出現，而非強行入市，有助保留資金迎接更好的機會。"
+    "explanation_en": "On neutral market days, disciplined investors avoid forcing trades just to deploy idle cash. Waiting for a genuine multi-signal setup — like a MACD crossover paired with strong volume — leads to better entries than acting out of impatience.",
+    "explanation_zh": "在市場方向不明的日子，有紀律的投資者不會為了運用閒置現金而勉強交易。耐心等待真正的多重訊號確認（例如MACD黃金交叉配合成交量放大），往往能帶來更好的入市時機，而非因心急而行動。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted modestly higher today without a clear catalyst, reflecting a quiet, directionless session rather than any major news event. Momentum names like EAT and MU continued showing bullish technicals, but broad market strength wasn't decisive enough to justify new capital deployment. With cash reserves already low, today was a session for patience rather than action.",
-    "summary_zh": "今日大市方向不明，納指升0.5%，標普500升0.3%，走勢溫和且缺乏明顯催化因素，屬於淡靜交投的一日。雖然EAT及MU等動能股技術指標仍然偏多，但大市升幅未足以構成強烈的「風險偏好」信號，未有充分理由動用資金開新倉。加上現金水平已低於部署門檻，今日策略以持有觀望為主。",
+    "summary_en": "Major indices drifted modestly higher today, with the NASDAQ up 0.5% and the S&P 500 up 0.3%, reflecting a quiet, directionless session rather than any major catalyst. Volume and volatility stayed muted, consistent with investors waiting for clearer signals before committing new capital. No single headline dominated trading, which is itself typical of a neutral, low-conviction market day.",
+    "summary_zh": "今日大市走勢溫和向上，納指升0.5%，標普500指數升0.3%，市場缺乏明顯方向，交投淡靜。成交量及波幅均維持低位，反映投資者在等待更明確的訊號才願意加碼。今日並無單一消息主導市場，屬於典型的中性、低信心交易日。",
     "sources": []
   },
   "trades": [],
