@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-12T14:00:45.779005+00:00",
+  "saved_at": "2026-08-12T15:00:52.137749+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets were quietly mixed today with NASDAQ +0.6% and S&P 500 +0.3% \u2014 a neutral, low-conviction session. Cash on hand ($189.29) is below the $500 deployment threshold, so no new positions were opened; existing holdings (including MU, which remains on today's top candidate list) are held as stop-loss and profit-target rules continue to manage them automatically.",
+    "briefing": "Markets were flat to slightly positive today (NASDAQ +0.5%, S&P 500 +0.2%), a neutral session with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold and existing positions are within normal ranges, so we held everything unchanged and waited for a stronger setup rather than forcing a small buy.",
     "market_education": {
-      "summary_en": "Both major indices drifted modestly higher today without a clear catalyst, reflecting a wait-and-see mood among investors rather than any decisive shift in sentiment. Trading volume and volatility stayed subdued, consistent with a market digesting recent gains rather than chasing new highs. With no strong risk-on signal and limited cash on hand, sitting tight was the more disciplined choice than forcing a trade.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u6eab\u548c\u4e0a\u63da\uff0cNASDAQ\u53470.6%\uff0c\u6a19\u666e500\u53470.3%\uff0c\u4e26\u7121\u660e\u986f\u7684\u50ac\u5316\u56e0\u7d20\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u89c0\u671b\u6c23\u6c1b\u8f03\u6fc3\uff0c\u800c\u975e\u5e02\u5834\u60c5\u7dd2\u51fa\u73fe\u660e\u986f\u8f49\u5411\u3002\u6210\u4ea4\u91cf\u53ca\u6ce2\u5e45\u5747\u7dad\u6301\u5e73\u7a69\uff0c\u986f\u793a\u5e02\u5834\u6b63\u5728\u6d88\u5316\u8fd1\u671f\u5347\u5e45\uff0c\u800c\u975e\u7a4d\u6975\u8ffd\u9ad8\u3002\u7531\u65bc\u7f3a\u4e4f\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\uff0c\u52a0\u4e0a\u73fe\u91d1\u6c34\u5e73\u6709\u9650\uff0c\u6309\u5175\u4e0d\u52d5\u8f03\u8cbf\u7136\u5165\u5e02\u66f4\u70ba\u5be9\u614e\u3002",
+      "summary_en": "Broad indices drifted modestly higher today without a standout catalyst, reflecting a quiet, low-conviction trading session. NASDAQ's slim +0.5% gain and the S&P 500's +0.2% move suggest investors are in a wait-and-see mode rather than reacting to major news. With no strong directional signal, it's a day for patience rather than new positioning.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6307\u6578\u50c5\u6eab\u548c\u4e0a\u63da\uff0c\u4e26\u7121\u660e\u986f\u7684\u5229\u591a\u6d88\u606f\u5e36\u52d5\uff0c\u53cd\u6620\u5e02\u5834\u8655\u65bc\u89c0\u671b\u6c23\u6c1b\u3002\u7d0d\u65af\u9054\u514b\u5c0f\u6f320.5%\uff0c\u6a19\u666e500\u5247\u4e0a\u53470.2%\uff0c\u986f\u793a\u6295\u8cc7\u4eba\u50be\u5411\u975c\u5f85\u66f4\u660e\u78ba\u7684\u65b9\u5411\uff0c\u800c\u975e\u8ffd\u9010\u6d88\u606f\u9762\u884c\u60c5\u3002\u5728\u7f3a\u4e4f\u5f37\u70c8\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b\uff0c\u4eca\u5929\u9069\u5408\u6309\u5175\u4e0d\u52d5\u800c\u975e\u8cbf\u7136\u52a0\u78bc\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "Risk-off doesn't always mean a market crash \u2014 it can simply mean conditions aren't compelling enough to justify new bets. When cash reserves are low and signals are mixed rather than strongly bullish, disciplined investors hold their existing positions and wait rather than force a trade just to stay 'active'.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u4e0d\u4e00\u5b9a\u4ee3\u8868\u5e02\u5834\u66b4\u8dcc\uff0c\u6709\u6642\u53ea\u662f\u4ee3\u8868\u73fe\u6642\u74b0\u5883\u672a\u8db3\u4ee5\u652f\u6301\u958b\u65b0\u5009\u3002\u7576\u73fe\u91d1\u6c34\u5e73\u504f\u4f4e\u3001\u5e02\u5834\u8a0a\u865f\u53c8\u975e\u660e\u986f\u504f\u591a\u6642\uff0c\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u6703\u9078\u64c7\u6301\u6709\u73fe\u6709\u5009\u4f4d\u3001\u8010\u5fc3\u7b49\u5f85\uff0c\u800c\u975e\u70ba\u6c42\u300c\u6709\u4ea4\u6613\u300d\u800c\u52c9\u5f37\u51fa\u624b\u3002"
+      "explanation_en": "A 'risk-off' stance means staying cautious and avoiding new bets when market signals are weak or cash reserves are too low to deploy meaningfully. It's not about fear \u2014 it's about discipline: waiting for genuine confirmation (like a strong up day) before committing more capital.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u8da8\u907f\uff08Risk-Off\uff09\u300d\u662f\u6307\u5728\u5e02\u5834\u8a0a\u865f\u4e0d\u660e\u78ba\u6216\u73fe\u91d1\u5132\u5099\u4e0d\u8db3\u4ee5\u6709\u6548\u90e8\u7f72\u6642\uff0c\u4fdd\u6301\u8b39\u614e\u3001\u66ab\u4e0d\u52a0\u78bc\u3002\u9019\u4e26\u975e\u51fa\u65bc\u6050\u61fc\uff0c\u800c\u662f\u4e00\u7a2e\u7d00\u5f8b\uff1a\u7b49\u5f85\u771f\u6b63\u660e\u78ba\u7684\u8a0a\u865f\uff08\u4f8b\u5982\u5927\u76e4\u5f37\u52e2\u4e0a\u6f32\u65e5\uff09\u518d\u6295\u5165\u66f4\u591a\u8cc7\u91d1\u3002"
     }
   }
 }

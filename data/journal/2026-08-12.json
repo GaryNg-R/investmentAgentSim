@@ -1,14 +1,14 @@
 {
   "date": "2026-08-12",
-  "briefing": "Markets were quietly mixed today with NASDAQ +0.6% and S&P 500 +0.3% — a neutral, low-conviction session. Cash on hand ($189.29) is below the $500 deployment threshold, so no new positions were opened; existing holdings (including MU, which remains on today's top candidate list) are held as stop-loss and profit-target rules continue to manage them automatically.",
+  "briefing": "Markets were flat to slightly positive today (NASDAQ +0.5%, S&P 500 +0.2%), a neutral session with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold and existing positions are within normal ranges, so we held everything unchanged and waited for a stronger setup rather than forcing a small buy.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "Risk-off doesn't always mean a market crash — it can simply mean conditions aren't compelling enough to justify new bets. When cash reserves are low and signals are mixed rather than strongly bullish, disciplined investors hold their existing positions and wait rather than force a trade just to stay 'active'.",
-    "explanation_zh": "「風險規避」（Risk-Off）不一定代表市場暴跌，有時只是代表現時環境未足以支持開新倉。當現金水平偏低、市場訊號又非明顯偏多時，有紀律的投資者會選擇持有現有倉位、耐心等待，而非為求「有交易」而勉強出手。"
+    "explanation_en": "A 'risk-off' stance means staying cautious and avoiding new bets when market signals are weak or cash reserves are too low to deploy meaningfully. It's not about fear — it's about discipline: waiting for genuine confirmation (like a strong up day) before committing more capital.",
+    "explanation_zh": "「風險趨避（Risk-Off）」是指在市場訊號不明確或現金儲備不足以有效部署時，保持謹慎、暫不加碼。這並非出於恐懼，而是一種紀律：等待真正明確的訊號（例如大盤強勢上漲日）再投入更多資金。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted modestly higher today without a clear catalyst, reflecting a wait-and-see mood among investors rather than any decisive shift in sentiment. Trading volume and volatility stayed subdued, consistent with a market digesting recent gains rather than chasing new highs. With no strong risk-on signal and limited cash on hand, sitting tight was the more disciplined choice than forcing a trade.",
-    "summary_zh": "今日大市走勢溫和上揚，NASDAQ升0.6%，標普500升0.3%，並無明顯的催化因素，反映投資者觀望氣氛較濃，而非市場情緒出現明顯轉向。成交量及波幅均維持平穩，顯示市場正在消化近期升幅，而非積極追高。由於缺乏明確的風險偏好訊號，加上現金水平有限，按兵不動較貿然入市更為審慎。",
+    "summary_en": "Broad indices drifted modestly higher today without a standout catalyst, reflecting a quiet, low-conviction trading session. NASDAQ's slim +0.5% gain and the S&P 500's +0.2% move suggest investors are in a wait-and-see mode rather than reacting to major news. With no strong directional signal, it's a day for patience rather than new positioning.",
+    "summary_zh": "今日大盤指數僅溫和上揚，並無明顯的利多消息帶動，反映市場處於觀望氣氛。納斯達克小漲0.5%，標普500則上升0.2%，顯示投資人傾向靜待更明確的方向，而非追逐消息面行情。在缺乏強烈訊號的情況下，今天適合按兵不動而非貿然加碼。",
     "sources": []
   },
   "trades": [],
