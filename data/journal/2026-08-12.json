@@ -1,14 +1,14 @@
 {
   "date": "2026-08-12",
-  "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.4%, S&P 500 +0.2%), a neutral session with no strong risk-on signal. Cash on hand ($189.29) is below the $500 deployment threshold, so no new buys were made; all 7 existing positions are held, consistent with letting stop-loss/profit-target rules manage exits automatically rather than reacting to a low-conviction day.",
+  "briefing": "Markets were neutral today with NASDAQ +0.7% and S&P 500 +0.3% — not the strong risk-on signal (NASDAQ +2%+) our strategy requires for new high-conviction buys. Cash on hand ($189.29) is also below the $500 deployment threshold, so per past lessons we're holding all 7 positions and waiting for a genuine risk-on setup rather than forcing a trade.",
   "daily_lesson": {
-    "term": "Trading Discipline",
-    "explanation_en": "Trading discipline means sticking to your rules — like only buying with genuine conviction signals and sufficient cash — instead of forcing a trade just because the market is open. On a neutral day with cash below the buy threshold, the disciplined move is to hold and let existing stop-loss and profit-target rules do their job.",
-    "explanation_zh": "交易紀律是指堅守既定規則——例如只在有明確訊號和充足現金時才買入——而不是為交易而交易。在市況中性、現金又低於買入門檻的日子，有紀律的做法是持倉不動，讓現有的止蝕和止賺機制自動運作。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to invest when a strong opportunity appears. Today, with the market only mildly positive and cash below our deployment threshold, holding that cash reserve rather than forcing a trade keeps us ready to act decisively when a clearer risk-on signal shows up.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留在場邊、待有明確機會時才動用的現金。今日大市只屬溫和造好，加上現金未達動用門檻，保留現金儲備而非勉強出手，可讓我們在真正出現風險偏好上升訊號時果斷加碼。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted small gains today, with the NASDAQ up 0.4% and the S&P 500 up 0.2%, indicating a quiet, directionless session rather than a clear trend. No dominant catalyst drove the move — trading looked like routine consolidation after recent activity. Days like this typically reward patience over forced action.",
-    "summary_zh": "今日兩大指數均小幅上漲，納斯達克升0.4%，標普500升0.2%，屬於方向不明的平靜交易日。市場未見明顯催化因素，走勢較似近期upside後的整固。此類日子通常適合按兵不動，而非強行進場。",
+    "summary_en": "Major indices drifted modestly higher today, with the S&P 500 up 0.3% and the NASDAQ up 0.7%, reflecting a lack of strong directional conviction from investors. Without a major catalyst, trading stayed range-bound as market participants awaited clearer signals on economic data and corporate earnings. This kind of low-volatility, mixed-signal session is typical of consolidation phases after recent moves.",
+    "summary_zh": "今日大市走勢溫和向上，標普500指數升0.3%，納斯達克指數升0.7%，反映投資者缺乏明確方向。市場在沒有重大催化劑的情況下窄幅波動，投資者仍在等待更清晰的經濟數據及企業盈利訊號。這種低波動、訊號混雜的交投情況，通常屬於近期升勢後的整固階段。",
     "sources": []
   },
   "trades": [],
