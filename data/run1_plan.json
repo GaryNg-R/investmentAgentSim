@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-12T13:00:46.978339+00:00",
+  "saved_at": "2026-08-12T14:00:45.779005+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets were neutral today (NASDAQ -0.6%, S&P 500 -0.3%) with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold, so no new buys were made, and existing positions were held rather than trimmed on a low-conviction day.",
+    "briefing": "Markets were quietly mixed today with NASDAQ +0.6% and S&P 500 +0.3% \u2014 a neutral, low-conviction session. Cash on hand ($189.29) is below the $500 deployment threshold, so no new positions were opened; existing holdings (including MU, which remains on today's top candidate list) are held as stop-loss and profit-target rules continue to manage them automatically.",
     "market_education": {
-      "summary_en": "Both major indices drifted slightly lower today in quiet, directionless trading, with no single catalyst driving the move. Days like this typically reflect investors digesting recent gains rather than reacting to major news. Without a strong signal in either direction, staying put is often the more prudent choice than forcing action.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u6307\u53ca\u6a19\u666e500\u6307\u6578\u7686\u5c0f\u5e45\u4e0b\u8dcc\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff0c\u4e5f\u6c92\u6709\u55ae\u4e00\u91cd\u5927\u6d88\u606f\u4e3b\u5c0e\u884c\u60c5\u3002\u9019\u985e\u4ea4\u6295\u6e05\u6de1\u7684\u65e5\u5b50\uff0c\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u8005\u5728\u6d88\u5316\u8fd1\u671f\u5347\u5e45\uff0c\u800c\u975e\u5c0d\u91cd\u5927\u65b0\u805e\u4f5c\u51fa\u53cd\u61c9\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b\uff0c\u6309\u5175\u4e0d\u52d5\u5f80\u5f80\u6bd4\u8cbf\u7136\u884c\u52d5\u66f4\u70ba\u7a69\u59a5\u3002",
+      "summary_en": "Both major indices drifted modestly higher today without a clear catalyst, reflecting a wait-and-see mood among investors rather than any decisive shift in sentiment. Trading volume and volatility stayed subdued, consistent with a market digesting recent gains rather than chasing new highs. With no strong risk-on signal and limited cash on hand, sitting tight was the more disciplined choice than forcing a trade.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u6eab\u548c\u4e0a\u63da\uff0cNASDAQ\u53470.6%\uff0c\u6a19\u666e500\u53470.3%\uff0c\u4e26\u7121\u660e\u986f\u7684\u50ac\u5316\u56e0\u7d20\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u89c0\u671b\u6c23\u6c1b\u8f03\u6fc3\uff0c\u800c\u975e\u5e02\u5834\u60c5\u7dd2\u51fa\u73fe\u660e\u986f\u8f49\u5411\u3002\u6210\u4ea4\u91cf\u53ca\u6ce2\u5e45\u5747\u7dad\u6301\u5e73\u7a69\uff0c\u986f\u793a\u5e02\u5834\u6b63\u5728\u6d88\u5316\u8fd1\u671f\u5347\u5e45\uff0c\u800c\u975e\u7a4d\u6975\u8ffd\u9ad8\u3002\u7531\u65bc\u7f3a\u4e4f\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\uff0c\u52a0\u4e0a\u73fe\u91d1\u6c34\u5e73\u6709\u9650\uff0c\u6309\u5175\u4e0d\u52d5\u8f03\u8cbf\u7136\u5165\u5e02\u66f4\u70ba\u5be9\u614e\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Cash is a Position",
-      "explanation_en": "Holding cash isn't 'doing nothing' \u2014 it's an active choice to wait for better opportunities rather than force a trade. On neutral days with limited cash available, staying in cash preserves flexibility and avoids buying into unclear momentum.",
-      "explanation_zh": "\u6301\u6709\u73fe\u91d1\u4e26\u975e\u300c\u4ec0\u9ebc\u90fd\u4e0d\u505a\u300d\uff0c\u800c\u662f\u4e00\u7a2e\u4e3b\u52d5\u9078\u64c7\uff0c\u7b49\u5f85\u66f4\u4f73\u6642\u6a5f\u800c\u975e\u52c9\u5f37\u4ea4\u6613\u3002\u5728\u5e02\u6cc1\u4e0d\u660e\u6717\u3001\u53ef\u7528\u73fe\u91d1\u6709\u9650\u7684\u65e5\u5b50\uff0c\u4fdd\u7559\u73fe\u91d1\u80fd\u7dad\u6301\u9748\u6d3b\u6027\uff0c\u907f\u514d\u5728\u52d5\u80fd\u4e0d\u660e\u78ba\u6642\u8cbf\u7136\u8cb7\u5165\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "Risk-off doesn't always mean a market crash \u2014 it can simply mean conditions aren't compelling enough to justify new bets. When cash reserves are low and signals are mixed rather than strongly bullish, disciplined investors hold their existing positions and wait rather than force a trade just to stay 'active'.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u4e0d\u4e00\u5b9a\u4ee3\u8868\u5e02\u5834\u66b4\u8dcc\uff0c\u6709\u6642\u53ea\u662f\u4ee3\u8868\u73fe\u6642\u74b0\u5883\u672a\u8db3\u4ee5\u652f\u6301\u958b\u65b0\u5009\u3002\u7576\u73fe\u91d1\u6c34\u5e73\u504f\u4f4e\u3001\u5e02\u5834\u8a0a\u865f\u53c8\u975e\u660e\u986f\u504f\u591a\u6642\uff0c\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u6703\u9078\u64c7\u6301\u6709\u73fe\u6709\u5009\u4f4d\u3001\u8010\u5fc3\u7b49\u5f85\uff0c\u800c\u975e\u70ba\u6c42\u300c\u6709\u4ea4\u6613\u300d\u800c\u52c9\u5f37\u51fa\u624b\u3002"
     }
   }
 }
