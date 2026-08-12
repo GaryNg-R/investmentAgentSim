@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-12",
+  "briefing": "Markets were neutral today (NASDAQ -0.6%, S&P 500 -0.3%) with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold, so no new buys were made, and existing positions were held rather than trimmed on a low-conviction day.",
+  "daily_lesson": {
+    "term": "Cash is a Position",
+    "explanation_en": "Holding cash isn't 'doing nothing' — it's an active choice to wait for better opportunities rather than force a trade. On neutral days with limited cash available, staying in cash preserves flexibility and avoids buying into unclear momentum.",
+    "explanation_zh": "持有現金並非「什麼都不做」，而是一種主動選擇，等待更佳時機而非勉強交易。在市況不明朗、可用現金有限的日子，保留現金能維持靈活性，避免在動能不明確時貿然買入。"
+  },
+  "market_education": {
+    "summary_en": "Both major indices drifted slightly lower today in quiet, directionless trading, with no single catalyst driving the move. Days like this typically reflect investors digesting recent gains rather than reacting to major news. Without a strong signal in either direction, staying put is often the more prudent choice than forcing action.",
+    "summary_zh": "今日大盤走勢平淡，納指及標普500指數皆小幅下跌，市場缺乏明確方向，也沒有單一重大消息主導行情。這類交投清淡的日子，通常反映投資者在消化近期升幅，而非對重大新聞作出反應。在缺乏明確訊號的情況下，按兵不動往往比貿然行動更為穩妥。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13755.735246181488,
+    "cash": 189.28500127792358,
+    "pnl_dollar": 3755.735246181488,
+    "pnl_pct": 37.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
