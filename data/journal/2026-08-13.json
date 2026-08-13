@@ -1,14 +1,14 @@
 {
   "date": "2026-08-13",
-  "briefing": "NASDAQ +0.8% and S&P 500 +0.6% is a mild risk-on day, not the strong (2%+) signal our strategy memory requires to deploy fresh capital. With only $189.29 cash on hand, well below the $500 threshold, we're holding all 7 existing positions and sitting out new buys rather than forcing a marginal trade.",
+  "briefing": "Markets ticked up modestly (NASDAQ +0.8%, S&P 500 +0.7%) — a mild risk-on day, not the strong +2% move that would justify aggressive deployment. Cash on hand ($189.29) is well below the $500 threshold needed to fund a new position, so today is a hold: existing 7 positions stay in place and stop-loss/profit-target rules continue to run automatically in the background.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept in reserve so you can act when a truly compelling opportunity appears. Today's market only offered a mild risk-on signal, and our remaining cash was below the threshold needed to add a new position responsibly, so we preserved it rather than forcing a trade.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是保留現金以便在真正具吸引力的機會出現時能夠出手。今日市場僅呈現溫和的風險偏好訊號,而剩餘現金也低於安全加碼的門檻,因此我們選擇保留資金,而非勉強進場。"
+    "explanation_en": "\"Dry powder\" refers to cash held in reserve rather than invested. When your available cash is too small to fund a meaningful new position — like today's $189 versus a $500 threshold — the disciplined move is to hold that cash rather than force a trade, waiting for it to build up or for a stronger signal to deploy it.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是保留而未投入市場的現金。當可用現金太少、不足以建立一個有意義的新倉位時（例如今日僅189美元，遠低於500美元的門檻），紀律的做法是持有現金等待，而不是勉強交易，直到資金累積足夠或出現更強烈的進場訊號。"
   },
   "market_education": {
-    "summary_en": "Markets edged higher today with the S&P 500 and NASDAQ both posting modest gains, reflecting a generally constructive but unremarkable trading session. No standout catalyst drove the move — it looks like broad, low-conviction buying rather than a reaction to a single major headline. Momentum names like NVDA continued to show healthy technical setups without extreme overbought readings.",
-    "summary_zh": "今日大盤溫和走高,標普500指數與納斯達克指數同步小幅上漲,反映市場氣氛整體正面但缺乏明顯驚喜。今日走勢並無單一重大消息帶動,較像是資金廣泛但保守地流入,而非對特定利多消息的反應。以NVDA為首的動能股維持健康的技術面格局,未見過熱訊號。",
+    "summary_en": "Broad indices drifted higher today with NASDAQ up 0.8% and the S&P 500 up 0.7%, a modest continuation of the recent uptrend rather than a decisive breakout. No single catalyst stands out from today's screen data — this looks like routine grinding-higher price action rather than a news-driven rally. With no major headlines flagged in today's data, the move appears consistent with steady, broad-based buying interest.",
+    "summary_zh": "今日大盤溫和走高，納斯達克指數上漲0.8%，標普500指數上漲0.7%，延續近期的溫和上升趨勢，但未見明顯突破性行情。今日篩選數據中並無特別重大的消息面催化劑，走勢較像是穩定買盤支撐下的緩步上揚，而非消息驅動的急漲。",
     "sources": []
   },
   "trades": [],
