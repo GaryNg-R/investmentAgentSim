@@ -1,14 +1,14 @@
 {
   "date": "2026-08-13",
-  "briefing": "Markets ticked up modestly (NASDAQ +0.8%, S&P 500 +0.7%) — a mild risk-on day, not the strong +2% move that would justify aggressive deployment. Cash on hand ($189.29) is well below the $500 threshold needed to fund a new position, so today is a hold: existing 7 positions stay in place and stop-loss/profit-target rules continue to run automatically in the background.",
+  "briefing": "Markets were neutral today (NASDAQ +0.5%, S&P 500 +0.4%) with no strong risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold, so no new buys were made. Existing positions were held unchanged, letting stop-loss and profit-target rules handle exits automatically.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash held in reserve rather than invested. When your available cash is too small to fund a meaningful new position — like today's $189 versus a $500 threshold — the disciplined move is to hold that cash rather than force a trade, waiting for it to build up or for a stronger signal to deploy it.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是保留而未投入市場的現金。當可用現金太少、不足以建立一個有意義的新倉位時（例如今日僅189美元，遠低於500美元的門檻），紀律的做法是持有現金等待，而不是勉強交易，直到資金累積足夠或出現更強烈的進場訊號。"
+    "term": "Patience",
+    "explanation_en": "Patience means resisting the urge to trade just for the sake of activity. On neutral days with limited cash and no strong signals, the disciplined move is to hold existing positions and wait for a genuine opportunity rather than forcing a trade.",
+    "explanation_zh": "耐性是指抵抗「為交易而交易」的衝動。在市況中性、現金有限且缺乏明確訊號的日子，紀律的做法是持有現有倉位，耐心等待真正的機會，而非勉強進行交易。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted higher today with NASDAQ up 0.8% and the S&P 500 up 0.7%, a modest continuation of the recent uptrend rather than a decisive breakout. No single catalyst stands out from today's screen data — this looks like routine grinding-higher price action rather than a news-driven rally. With no major headlines flagged in today's data, the move appears consistent with steady, broad-based buying interest.",
-    "summary_zh": "今日大盤溫和走高，納斯達克指數上漲0.8%，標普500指數上漲0.7%，延續近期的溫和上升趨勢，但未見明顯突破性行情。今日篩選數據中並無特別重大的消息面催化劑，走勢較像是穩定買盤支撐下的緩步上揚，而非消息驅動的急漲。",
+    "summary_en": "Both the NASDAQ and S&P 500 posted modest gains today, with no single dominant catalyst driving the move. A +0.5% and +0.4% day like this typically reflects steady buying interest without the volume surge or momentum shift that would signal a major shift in sentiment. With no clear risk-on or risk-off trigger, it's a day to hold steady rather than chase.",
+    "summary_zh": "納指與標普500今日皆錄得溫和升幅，分別上漲0.5%及0.4%，市場並無單一主導因素推動走勢。像今日這樣的升幅通常反映市場買盤穩定，但缺乏成交量激增或動能轉變等訊號，未能顯示市場情緒出現重大轉向。在缺乏明確的風險偏好或避險訊號下，今日宜按兵不動、持倉觀望。",
     "sources": []
   },
   "trades": [],
