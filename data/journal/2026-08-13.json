@@ -1,14 +1,14 @@
 {
   "date": "2026-08-13",
-  "briefing": "NASDAQ +0.8% and S&P 500 +0.7% today — a mildly positive, not strongly risk-on, session. Cash on hand ($189.29) is well below the $500 buy threshold, so no new positions were opened, and no existing holdings showed cause for sale.",
+  "briefing": "NASDAQ +0.8% and S&P 500 +0.7% is a mild risk-on day, not the strong (2%+) signal that warrants deploying cash per past lessons. With only $189.29 cash, well below the $500 threshold, we sit tight and hold all 7 positions rather than forcing a buy.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a stronger opportunity appears. With only $189.29 in cash — below the $500 minimum needed to open a new position — the agent held rather than forcing a trade on a merely neutral-to-mildly-positive day.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留在場邊、等待更佳機會時才動用的現金。由於現金僅得189.29美元，未達開新倉所需的500美元門檻，加上今日只屬溫和向好，因此選擇持有現金，不勉強進場。"
+    "explanation_en": "Dry powder means cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today's cash balance was below the agent's buy threshold and the market signal was only mildly positive, so the disciplined move is to hold that cash rather than force a trade.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、等待良機出動的現金。今日現金額低於買入門檻，而市場訊號只屬溫和向好，因此紀律性做法是保留現金，而非勉強落盤。"
   },
   "market_education": {
-    "summary_en": "Markets drifted modestly higher today, with the NASDAQ up 0.8% and the S&P 500 up 0.7%, a broad-based grind rather than a sharp risk-on rally. No specific catalyst headlines were available in today's news feed to attribute the move to a single event. With gains this mild across the index, the case for chasing new positions was weak.",
-    "summary_zh": "今日大市溫和上揚，納指升0.8%，標普500升0.7%，屬普遍性的溫和上漲而非明顯的risk-on走勢。今日新聞來源未提供具體消息面因素可解釋今次升幅。由於大市升幅有限，追入新持倉的理據不強。",
+    "summary_en": "Markets edged higher today with the NASDAQ up 0.8% and the S&P 500 up 0.7%, a modest broad-based gain rather than a decisive risk-on move. No standout catalyst news was provided for today's session, so the advance looks like general market drift within a still-constructive uptrend. Trading stayed measured, consistent with a continuation day rather than a breakout.",
+    "summary_zh": "今日大市溫和上升，納斯達克指數升0.8%，標普500指數升0.7%，屬於溫和普遍性上漲而非明確的risk-on訊號。今日未有提供重大催化消息，故此升勢較似整體市場的自然延續，而非突破性行情。交投維持平穩，符合持續性上升日子的格局。",
     "sources": []
   },
   "trades": [],
