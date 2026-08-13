@@ -1,14 +1,14 @@
 {
   "date": "2026-08-13",
-  "briefing": "Markets were neutral today (NASDAQ +0.5%, S&P 500 +0.4%) with no strong risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold, so no new buys were made. Existing positions were held unchanged, letting stop-loss and profit-target rules handle exits automatically.",
+  "briefing": "Markets were mildly risk-on today (NASDAQ +0.7%, S&P 500 +0.5%), but available cash of $189.29 is below the $500 threshold needed to responsibly open a new position, so no new buys were made. All 7 existing positions were held unchanged, with stop-loss (-7%) and profit-target (+12%) rules continuing to run automatically.",
   "daily_lesson": {
-    "term": "Patience",
-    "explanation_en": "Patience means resisting the urge to trade just for the sake of activity. On neutral days with limited cash and no strong signals, the disciplined move is to hold existing positions and wait for a genuine opportunity rather than forcing a trade.",
-    "explanation_zh": "耐性是指抵抗「為交易而交易」的衝動。在市況中性、現金有限且缺乏明確訊號的日子，紀律的做法是持有現有倉位，耐心等待真正的機會，而非勉強進行交易。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept in reserve so you can act when a strong opportunity appears, rather than investing it just because it's sitting idle. Today the portfolio's cash balance ($189.29) is below the $500 minimum needed to open a new position responsibly, so it's better to hold and wait than to force a trade.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指預留現金，待出現真正好機會時才出手，而非因為現金閒置就勉強投資。今日組合現金餘額（$189.29）低於開新倉所需的$500最低門檻，因此持有現金等待比勉強交易更為明智。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 posted modest gains today, with no single dominant catalyst driving the move. A +0.5% and +0.4% day like this typically reflects steady buying interest without the volume surge or momentum shift that would signal a major shift in sentiment. With no clear risk-on or risk-off trigger, it's a day to hold steady rather than chase.",
-    "summary_zh": "納指與標普500今日皆錄得溫和升幅，分別上漲0.5%及0.4%，市場並無單一主導因素推動走勢。像今日這樣的升幅通常反映市場買盤穩定，但缺乏成交量激增或動能轉變等訊號，未能顯示市場情緒出現重大轉向。在缺乏明確的風險偏好或避險訊號下，今日宜按兵不動、持倉觀望。",
+    "summary_en": "Both major indices posted modest gains today, with the NASDAQ up 0.7% and the S&P 500 up 0.5%, reflecting a mild risk-on tone across the market. No major index-moving headlines were flagged for this session. The move was broad but not dramatic, consistent with a steady rather than euphoric trading day.",
+    "summary_zh": "今日兩大指數均錄得溫和升幅，納斯達克指數升0.7%，標普500指數升0.5%，市場呈現輕微的風險偏好情緒。今個交易時段未有重大影響指數走勢的新聞。升勢屬普遍性但幅度溫和，反映市場氣氛穩健而非亢奮。",
     "sources": []
   },
   "trades": [],
