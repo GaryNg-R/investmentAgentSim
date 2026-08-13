@@ -1,14 +1,14 @@
 {
   "date": "2026-08-13",
-  "briefing": "Markets were modestly risk-on today (NASDAQ +0.9%, S&P 500 +0.7%), but with only $189.29 in cash and 7 of 10 slots already filled, there isn't enough capital to open a meaningful new position, so we held all existing holdings and let stop-loss/profit-target rules handle exits automatically.",
+  "briefing": "NASDAQ +0.8% and S&P 500 +0.7% today — a mildly positive, not strongly risk-on, session. Cash on hand ($189.29) is well below the $500 buy threshold, so no new positions were opened, and no existing holdings showed cause for sale.",
   "daily_lesson": {
-    "term": "Position Sizing",
-    "explanation_en": "Position sizing means only opening a new trade when you have enough capital to make it meaningful — with just $189 in cash today, any new buy would be too small to matter and would just add clutter and fees for little benefit. It's often better to wait until you have a real amount of capital to deploy.",
-    "explanation_zh": "「部位規模管理」是指只有在資金足夠形成有意義的部位時才進場——今天現金只有189美元，就算買進新標的，部位也會小到沒有實際意義，只會增加交易成本卻幾乎沒有效益。通常較好的做法是耐心等待，直到有足夠資金可以投入。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a stronger opportunity appears. With only $189.29 in cash — below the $500 minimum needed to open a new position — the agent held rather than forcing a trade on a merely neutral-to-mildly-positive day.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留在場邊、等待更佳機會時才動用的現金。由於現金僅得189.29美元，未達開新倉所需的500美元門檻，加上今日只屬溫和向好，因此選擇持有現金，不勉強進場。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted higher today, with the S&P 500 up 0.7% and the tech-heavy NASDAQ up 0.9%, a mild risk-on tone rather than a sharp rally. No standout single catalyst was flagged in today's screen, suggesting the move reflected general market sentiment rather than a specific news event. Without a strong signal (e.g., a 2%+ NASDAQ move) or fresh capital to deploy, the portfolio stayed put.",
-    "summary_zh": "今日大盤溫和上揚，標普500指數上漲0.7%，以科技股為主的納斯達克指數上漲0.9%，屬於溫和的風險偏好情緒，而非明顯的急升行情。今日篩選未見特別觸發市場的單一消息，顯示這波上漲較可能反映整體市場氣氛而非個別事件。由於缺乏強烈訊號（例如納指單日漲逾2%）且可動用現金有限，投資組合維持原有部位不變。",
+    "summary_en": "Markets drifted modestly higher today, with the NASDAQ up 0.8% and the S&P 500 up 0.7%, a broad-based grind rather than a sharp risk-on rally. No specific catalyst headlines were available in today's news feed to attribute the move to a single event. With gains this mild across the index, the case for chasing new positions was weak.",
+    "summary_zh": "今日大市溫和上揚，納指升0.8%，標普500升0.7%，屬普遍性的溫和上漲而非明顯的risk-on走勢。今日新聞來源未提供具體消息面因素可解釋今次升幅。由於大市升幅有限，追入新持倉的理據不強。",
     "sources": []
   },
   "trades": [],
