@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-13",
+  "briefing": "Markets were roughly flat today (NASDAQ +0.5%, S&P 500 +0.3%) — a neutral, low-conviction session. With only $189.29 in cash, well below the $500 deployment threshold, and no strong risk-on signal to justify stretching capital, we held all 7 existing positions and made no new trades.",
+  "daily_lesson": {
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. On a neutral day with cash below our buying threshold, it's better to hold that reserve than to force a trade just to feel active — patience preserves capital for higher-conviction setups.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是暫時持有、等待良機出手的現金儲備。在市場方向不明且現金低於買入門檻的日子裡，寧可耐心持有現金，也不要為了「有動作」而勉強交易——耐性能為日後更具信心的投資機會保留實力。"
+  },
+  "market_education": {
+    "summary_en": "Major indices drifted modestly higher today, with the NASDAQ up 0.5% and the S&P 500 up 0.3%, reflecting a lack of strong directional catalysts. Trading stayed range-bound without the kind of volume or momentum surge that typically signals a decisive shift in sentiment. Absent major news flow, the market essentially treaded water.",
+    "summary_zh": "今日大盤走勢溫和上揚，納斯達克指數上升0.5%，標普500指數上升0.3%，市場缺乏明確方向性的催化因素。成交量與動能未見明顯放大，未出現足以左右市場情緒的重大信號。在缺乏重磅消息的情況下，大盤基本呈現橫盤整理格局。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13755.735246181488,
+    "cash": 189.28500127792358,
+    "pnl_dollar": 3755.735246181488,
+    "pnl_pct": 37.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
