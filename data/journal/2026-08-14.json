@@ -1,14 +1,14 @@
 {
   "date": "2026-08-14",
-  "briefing": "Market was mildly positive today (NASDAQ +0.8%, S&P 500 +0.7%) but this falls short of the strong risk-on signal (+2%+) that historically justified deploying cash, and current cash of $189.29 is well below the $500 threshold needed for a meaningful new position anyway. Holding all 7 existing positions and skipping new buys today.",
+  "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.1%) with no clear directional signal. Cash on hand ($189.29) is below the $500 threshold needed to fund a meaningful new position, so we held all 7 existing positions rather than forcing a trade.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder is cash kept in reserve rather than invested, ready to be deployed when a genuinely strong opportunity appears. Today's gain was modest and cash reserves are too thin for a meaningful new position, so the disciplined choice is to hold cash and wait rather than force a trade.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指預留未投資的現金，待出現真正強勁的機會時才動用。今日升幅溫和，現金儲備亦不足以建立有意義的新倉位，因此紀律性的做法是持有現金、耐心等待，而非勉強交易。"
+    "explanation_en": "Dry powder refers to cash kept in reserve rather than fully invested. Today our available cash ($189.29) was too small to open a meaningful new position even with open slots and bullish candidates on the screener, so the disciplined move is to hold the cash rather than under-size a trade just to deploy it.",
+    "explanation_zh": "「彈藥儲備」(Dry Powder)指刻意保留現金而非全數投入市場。今日雖然有空置倉位及多隻具動能的候選股,但可用現金僅$189.29,不足以建立有意義的新倉位。因此,持有現金而非勉強縮小注碼進場,才是較有紀律的做法。"
   },
   "market_education": {
-    "summary_en": "U.S. equities drifted modestly higher, with the Nasdaq up 0.8% and the S&P 500 up 0.7%, a mildly risk-on session without a decisive breakout. No single catalyst dominated the day's price action, and the gains lacked the broad-based volume surge typically seen on genuine risk-on days. With portfolio cash below the deployment threshold, the prudent move was to hold existing positions rather than chase a modest up day.",
-    "summary_zh": "美股今日溫和上揚，納指升0.8%，標普500升0.7%，屬偏溫和的風險偏好情緒，並未出現明確突破。今日走勢沒有單一主導消息，升幅亦缺乏真正風險偏好日常見的放量支持。由於組合現金低於部署門檻，較審慎的做法是繼續持有現有倉位，而非追逐這種溫和升市。",
+    "summary_en": "Major indices traded essentially sideways today, with the NASDAQ flat and the S&P 500 up a marginal 0.1%. This kind of low-volatility, directionless session typically reflects investors waiting for a fresh catalyst rather than reacting to major news. Without a strong signal in either direction, the safest approach is to hold existing positions and let profit targets and stop-losses do their work.",
+    "summary_zh": "今日大市走勢近乎橫行,納指持平,標普500僅微升0.1%。呈現低波動、缺乏方向性的交易日,通常反映投資者在等待新的市場催化劑,而非對重大消息作出反應。在缺乏明確方向訊號的情況下,最穩妥的做法是持有現有倉位,讓止賺及止蝕機制自動發揮作用。",
     "sources": []
   },
   "trades": [],
