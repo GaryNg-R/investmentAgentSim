@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-14T17:00:47.470751+00:00",
+  "saved_at": "2026-08-14T18:00:51.316566+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets were neutral today (NASDAQ -0.5%, S&P 500 -0.3%) with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold, so per strategy memory we hold rather than forcing a buy, and let existing positions ride on their stop-loss/profit-target rules.",
+    "skip_new_buys": false,
+    "briefing": "Markets were flat to slightly negative today (NASDAQ -0.4%, S&P 500 -0.2%), with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 threshold needed to fund a new position, so no buys were made despite 3 open slots; existing positions are held and left to profit-target/stop-loss automation.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.5% and the S&P 500 down 0.3%, reflecting a broadly neutral, low-conviction trading session rather than any sharp risk-off move.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u56de\u843d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.5%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.3%\uff0c\u6574\u9ad4\u5c6c\u65bc\u65b9\u5411\u4e0d\u660e\u7684\u4e2d\u6027\u4ea4\u6613\u65e5\uff0c\u4e26\u975e\u660e\u986f\u7684\u907f\u96aa\u62cb\u552e\u3002",
+      "summary_en": "Both major indices drifted slightly lower today in a session without a dominant catalyst, reflecting a market in wait-and-see mode rather than a decisive move in either direction. Trading volume and sector rotation patterns from the screened list show a mix of overbought names (RSI above 70) alongside fresh bullish setups, suggesting the pullback is more consolidation than a broad risk-off shift. With no strong directional signal, staying disciplined and avoiding forced trades is the more prudent path today.",
+      "summary_zh": "\u4eca\u65e5\u5169\u5927\u6307\u6578\u7686\u5c0f\u5e45\u8d70\u5f31,\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u50ac\u5316\u56e0\u7d20,\u5448\u73fe\u89c0\u671b\u683c\u5c40\u800c\u975e\u660e\u986f\u7684\u65b9\u5411\u6027\u884c\u60c5\u3002\u5f9e\u7be9\u9078\u540d\u55ae\u4f86\u770b,\u90e8\u5206\u80a1\u7968RSI\u5df2\u9ad8\u65bc70\u9032\u5165\u8d85\u8cb7\u5340,\u540c\u6642\u4ea6\u6709\u65b0\u51fa\u73fe\u7684\u770b\u6f32\u8a0a\u865f,\u986f\u793a\u9019\u6ce2\u56de\u6a94\u8f03\u50cf\u662f\u6574\u7406\u800c\u975e\u5168\u9762risk-off\u3002\u5728\u7f3a\u4e4f\u5f37\u70c8\u65b9\u5411\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b,\u4fdd\u6301\u7d00\u5f8b\u3001\u907f\u514d\u52c9\u5f37\u9032\u5834\u662f\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "Dry powder means keeping cash uninvested and ready until a genuinely attractive opportunity appears, instead of deploying it just because it's sitting idle. With only $189 in cash today and a neutral market, waiting is the disciplined move rather than chasing a marginal setup.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u4fdd\u7559\u73fe\u91d1\u5f85\u6a5f\uff0c\u76f4\u5230\u51fa\u73fe\u771f\u6b63\u6709\u5438\u5f15\u529b\u7684\u6a5f\u6703\u624d\u51fa\u624b\uff0c\u800c\u4e0d\u662f\u56e0\u70ba\u73fe\u91d1\u9592\u7f6e\u5c31\u52c9\u5f37\u8cb7\u5165\u3002\u4eca\u65e5\u73fe\u91d1\u53ea\u6709189\u7f8e\u5143\uff0c\u52a0\u4e0a\u5927\u5e02\u65b9\u5411\u4e0d\u660e\uff0c\u6309\u5175\u4e0d\u52d5\u624d\u662f\u7d00\u5f8b\u7684\u505a\u6cd5\uff0c\u800c\u975e\u52c9\u5f37\u8ffd\u9010\u6b21\u7b49\u6a5f\u6703\u3002"
+      "term": "Cash is a Position",
+      "explanation_en": "When your available cash is too small to safely fund a new trade, or the market isn't giving a clear signal, holding cash is itself a valid investment decision \u2014 not a failure to act. Forcing a trade just to 'stay busy' often leads to worse outcomes than waiting for a genuine opportunity.",
+      "explanation_zh": "\u7576\u53ef\u7528\u73fe\u91d1\u4e0d\u8db3\u4ee5\u5b89\u5168\u5730\u5efa\u7acb\u65b0\u5009\u4f4d,\u6216\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u78ba\u6642,\u6301\u6709\u73fe\u91d1\u672c\u8eab\u5c31\u662f\u4e00\u7a2e\u6709\u6548\u7684\u6295\u8cc7\u6c7a\u7b56,\u800c\u4e0d\u662f\u300c\u6c92\u6709\u884c\u52d5\u300d\u7684\u5931\u6557\u3002\u70ba\u4e86\u300c\u4fdd\u6301\u6d3b\u8e8d\u300d\u800c\u52c9\u5f37\u9032\u5834,\u5f80\u5f80\u6bd4\u8010\u5fc3\u7b49\u5f85\u771f\u6b63\u6a5f\u6703\u7684\u7d50\u679c\u66f4\u5dee\u3002"
     }
   }
 }
