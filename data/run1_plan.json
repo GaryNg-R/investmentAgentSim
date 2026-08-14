@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-14T14:00:55.419365+00:00",
+  "saved_at": "2026-08-14T15:01:07.349111+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": false,
-    "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.1%) with no clear directional signal. Cash on hand ($189.29) is below the $500 threshold needed to fund a meaningful new position, so we held all 7 existing positions rather than forcing a trade.",
+    "skip_new_buys": true,
+    "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.3%, S&P 500 -0.1%), a neutral session with no clear risk-on signal. Cash on hand ($189.29) is below the $500 deployment threshold anyway, so no new positions were opened; existing 7 holdings are held unchanged to let stop-loss/profit-target rules do their job.",
     "market_education": {
-      "summary_en": "Major indices traded essentially sideways today, with the NASDAQ flat and the S&P 500 up a marginal 0.1%. This kind of low-volatility, directionless session typically reflects investors waiting for a fresh catalyst rather than reacting to major news. Without a strong signal in either direction, the safest approach is to hold existing positions and let profit targets and stop-losses do their work.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u8fd1\u4e4e\u6a6b\u884c,\u7d0d\u6307\u6301\u5e73,\u6a19\u666e500\u50c5\u5fae\u53470.1%\u3002\u5448\u73fe\u4f4e\u6ce2\u52d5\u3001\u7f3a\u4e4f\u65b9\u5411\u6027\u7684\u4ea4\u6613\u65e5,\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u65b0\u7684\u5e02\u5834\u50ac\u5316\u5291,\u800c\u975e\u5c0d\u91cd\u5927\u6d88\u606f\u4f5c\u51fa\u53cd\u61c9\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b,\u6700\u7a69\u59a5\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u5009\u4f4d,\u8b93\u6b62\u8cfa\u53ca\u6b62\u8755\u6a5f\u5236\u81ea\u52d5\u767c\u63ee\u4f5c\u7528\u3002",
+      "summary_en": "Major indices traded in a narrow range today with no dominant catalyst, reflecting a wait-and-see mood among investors. Without a strong directional move in either the NASDAQ or S&P 500, there was little evidence of the broad institutional buying or selling that typically drives high-conviction trading decisions. Days like this are common and don't require action \u2014 they simply call for patience.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u7a84\u5e45\u9707\u76ea\uff0cNASDAQ\u53ca\u6a19\u666e500\u5747\u672a\u898b\u660e\u986f\u65b9\u5411\uff0c\u53cd\u6620\u6295\u8cc7\u4eba\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002\u7531\u65bc\u5169\u5927\u6307\u6578\u7686\u7121\u986f\u8457\u6f32\u8dcc\uff0c\u5e02\u5834\u7f3a\u4e4f\u6a5f\u69cb\u5927\u8209\u9032\u51fa\u7684\u8de1\u8c61\uff0c\u672a\u80fd\u5f62\u6210\u9ad8\u628a\u63e1\u5ea6\u7684\u4ea4\u6613\u8a0a\u865f\u3002\u9019\u985e\u5e73\u6de1\u7684\u4ea4\u6613\u65e5\u76f8\u7576\u5e38\u898b\uff0c\u91cd\u9ede\u5728\u65bc\u8010\u5fc3\u7b49\u5f85\uff0c\u800c\u975e\u52c9\u5f37\u51fa\u624b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "Dry powder refers to cash kept in reserve rather than fully invested. Today our available cash ($189.29) was too small to open a meaningful new position even with open slots and bullish candidates on the screener, so the disciplined move is to hold the cash rather than under-size a trade just to deploy it.",
-      "explanation_zh": "\u300c\u5f48\u85e5\u5132\u5099\u300d(Dry Powder)\u6307\u523b\u610f\u4fdd\u7559\u73fe\u91d1\u800c\u975e\u5168\u6578\u6295\u5165\u5e02\u5834\u3002\u4eca\u65e5\u96d6\u7136\u6709\u7a7a\u7f6e\u5009\u4f4d\u53ca\u591a\u96bb\u5177\u52d5\u80fd\u7684\u5019\u9078\u80a1,\u4f46\u53ef\u7528\u73fe\u91d1\u50c5$189.29,\u4e0d\u8db3\u4ee5\u5efa\u7acb\u6709\u610f\u7fa9\u7684\u65b0\u5009\u4f4d\u3002\u56e0\u6b64,\u6301\u6709\u73fe\u91d1\u800c\u975e\u52c9\u5f37\u7e2e\u5c0f\u6ce8\u78bc\u9032\u5834,\u624d\u662f\u8f03\u6709\u7d00\u5f8b\u7684\u505a\u6cd5\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "A 'risk-off' day is when markets show no strong upward momentum, so cautious investors hold back from adding new positions rather than chasing weak signals. It's not about fear \u2014 it's about waiting for clearer confirmation (like a strong volume surge or a decisive index move) before committing more capital.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u8da8\u907f\u300d\uff08Risk-Off\uff09\u662f\u6307\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u4e0a\u6f32\u52d5\u80fd\u6642\uff0c\u8b39\u614e\u7684\u6295\u8cc7\u4eba\u9078\u64c7\u6309\u5175\u4e0d\u52d5\uff0c\u4e0d\u6703\u70ba\u4e86\u8a0a\u865f\u4e0d\u8db3\u7684\u6a5f\u6703\u800c\u52c9\u5f37\u52a0\u78bc\u3002\u9019\u4e26\u975e\u51fa\u65bc\u6050\u61fc\uff0c\u800c\u662f\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u78ba\u8a8d\u8a0a\u865f\uff08\u4f8b\u5982\u6210\u4ea4\u91cf\u5927\u589e\u6216\u6307\u6578\u51fa\u73fe\u6c7a\u5b9a\u6027\u8d70\u52e2\uff09\u5f8c\u624d\u9032\u5834\u3002"
     }
   }
 }
