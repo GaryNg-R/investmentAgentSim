@@ -1,14 +1,14 @@
 {
   "date": "2026-08-14",
-  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.3%, S&P 500 -0.1%), a neutral session with no clear risk-on signal. Cash on hand ($189.29) is below the $500 deployment threshold anyway, so no new positions were opened; existing 7 holdings are held unchanged to let stop-loss/profit-target rules do their job.",
+  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.4%, S&P 500 -0.2%), with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold, so no new positions were opened. All 7 existing holdings were held unchanged, consistent with the lesson to avoid forcing trades on neutral days.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when markets show no strong upward momentum, so cautious investors hold back from adding new positions rather than chasing weak signals. It's not about fear — it's about waiting for clearer confirmation (like a strong volume surge or a decisive index move) before committing more capital.",
-    "explanation_zh": "「風險趨避」（Risk-Off）是指市場缺乏明顯上漲動能時，謹慎的投資人選擇按兵不動，不會為了訊號不足的機會而勉強加碼。這並非出於恐懼，而是等待更明確的確認訊號（例如成交量大增或指數出現決定性走勢）後才進場。"
+    "explanation_en": "A 'risk-off' day is when investors avoid taking on new risk, often shown by flat or slightly negative markets and low trading conviction. On days like this, disciplined investors hold their existing positions rather than chasing new trades, waiting for a clearer signal before deploying more capital.",
+    "explanation_zh": "「風險規避」（Risk-Off）指投資者在不明朗市況下避免承擔新風險，通常表現為大市持平或輕微下跌、交投信心不足。在這類日子，有紀律的投資者會持有現有倉位，避免追逐新交易，等待更明確的市場信號才部署資金。"
   },
   "market_education": {
-    "summary_en": "Major indices traded in a narrow range today with no dominant catalyst, reflecting a wait-and-see mood among investors. Without a strong directional move in either the NASDAQ or S&P 500, there was little evidence of the broad institutional buying or selling that typically drives high-conviction trading decisions. Days like this are common and don't require action — they simply call for patience.",
-    "summary_zh": "今日大盤走勢窄幅震盪，NASDAQ及標普500均未見明顯方向，反映投資人普遍採取觀望態度。由於兩大指數皆無顯著漲跌，市場缺乏機構大舉進出的跡象，未能形成高把握度的交易訊號。這類平淡的交易日相當常見，重點在於耐心等待，而非勉強出手。",
+    "summary_en": "Major indices drifted slightly lower today in quiet, low-conviction trading, with the NASDAQ down 0.4% and the S&P 500 down 0.2%. There was no dominant macro catalyst driving the session, which typically reflects investors digesting recent gains rather than reacting to new negative news. Days like this often precede either a continuation of the recent trend or a pause before the next directional move.",
+    "summary_zh": "今日大市走勢平淡偏軟，納指下跌0.4%，標普500指數下跌0.2%，成交及波動均偏低。市場缺乏明確的宏觀催化劑，反映投資者在消化近期升幅，而非對利淡消息作出反應。此類「橫行」交易日往往是趨勢延續或方向轉變前的過渡期。",
     "sources": []
   },
   "trades": [],
