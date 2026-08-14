@@ -1,14 +1,14 @@
 {
   "date": "2026-08-14",
-  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.4%, S&P 500 -0.2%), with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold, so no new positions were opened. All 7 existing holdings were held unchanged, consistent with the lesson to avoid forcing trades on neutral days.",
+  "briefing": "Markets were neutral today (NASDAQ -0.5%, S&P 500 -0.3%) with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 deployment threshold, so per strategy memory we hold rather than forcing a buy, and let existing positions ride on their stop-loss/profit-target rules.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors avoid taking on new risk, often shown by flat or slightly negative markets and low trading conviction. On days like this, disciplined investors hold their existing positions rather than chasing new trades, waiting for a clearer signal before deploying more capital.",
-    "explanation_zh": "「風險規避」（Risk-Off）指投資者在不明朗市況下避免承擔新風險，通常表現為大市持平或輕微下跌、交投信心不足。在這類日子，有紀律的投資者會持有現有倉位，避免追逐新交易，等待更明確的市場信號才部署資金。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder means keeping cash uninvested and ready until a genuinely attractive opportunity appears, instead of deploying it just because it's sitting idle. With only $189 in cash today and a neutral market, waiting is the disciplined move rather than chasing a marginal setup.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指保留現金待機，直到出現真正有吸引力的機會才出手，而不是因為現金閒置就勉強買入。今日現金只有189美元，加上大市方向不明，按兵不動才是紀律的做法，而非勉強追逐次等機會。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today in quiet, low-conviction trading, with the NASDAQ down 0.4% and the S&P 500 down 0.2%. There was no dominant macro catalyst driving the session, which typically reflects investors digesting recent gains rather than reacting to new negative news. Days like this often precede either a continuation of the recent trend or a pause before the next directional move.",
-    "summary_zh": "今日大市走勢平淡偏軟，納指下跌0.4%，標普500指數下跌0.2%，成交及波動均偏低。市場缺乏明確的宏觀催化劑，反映投資者在消化近期升幅，而非對利淡消息作出反應。此類「橫行」交易日往往是趨勢延續或方向轉變前的過渡期。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.5% and the S&P 500 down 0.3%, reflecting a broadly neutral, low-conviction trading session rather than any sharp risk-off move.",
+    "summary_zh": "今日大市溫和回落，納斯達克指數下跌0.5%，標普500指數下跌0.3%，整體屬於方向不明的中性交易日，並非明顯的避險拋售。",
     "sources": []
   },
   "trades": [],
