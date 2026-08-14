@@ -1,14 +1,14 @@
 {
   "date": "2026-08-14",
-  "briefing": "Markets were neutral today (NASDAQ -0.4%, S&P 500 -0.2%) with no clear risk-on signal, and available cash ($189.29) is well below the $500 threshold for a meaningful new position. Holding all 7 existing positions and waiting for a stronger setup before deploying remaining capital.",
+  "briefing": "Markets were quietly negative today (NASDAQ -0.3%, S&P 500 -0.2%) with no clear risk-on or risk-off signal. Cash on hand ($189.29) is below the $500 threshold needed to fund a new position, so no buys were made despite 3 open slots; existing positions are being held and left to the automatic stop-loss/profit-target rules.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today's neutral market and low available cash meant there wasn't a compelling reason to force a new trade — patience preserves capital for a better setup rather than chasing mediocre entries.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是預留在場邊、待有良好機會時才動用的現金。今日市況中性，可動用現金亦不多，並無充分理由勉強開新倉——耐心等待更佳時機，比勉強進場更能保護資本。"
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today the portfolio's cash balance ($189.29) was too small to fund a new position, so rather than forcing a trade, the agent held cash and waited — discipline matters more than staying fully invested at all times.",
+    "explanation_zh": "「乾火藥」(Dry Powder)是指保留在場外、等待良機出現時再投入的現金。今日投資組合的現金餘額($189.29)不足以建立新倉位,因此系統選擇按兵不動、耐心等待,而非勉強交易——紀律比隨時滿倉更重要。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.2%, reflecting a lack of strong directional conviction among investors rather than any major catalyst. Without a clear risk-on or risk-off trigger, trading stayed range-bound as market participants awaited fresh data or news to set the next direction. This kind of quiet, low-volatility session is common between major economic releases or earnings catalysts.",
-    "summary_zh": "今日大市略為下跌，納斯達克指數跌0.4%，標普500指數跌0.2%，反映投資者缺乏明確方向，並非受重大消息影響。由於未見明顯的風險偏好或避險訊號，市場保持窄幅波動，投資者靜待新數據或消息公布以確立下一步走勢。這種低波動的平靜交易日在重大經濟數據或業績公布之間頗為常見。",
+    "summary_en": "Both major indices drifted slightly lower today in quiet, low-conviction trading, with the NASDAQ (-0.3%) underperforming the S&P 500 (-0.2%) slightly. There was no dominant catalyst driving the session, which is typical of consolidation periods after a strong run. No specific news headlines were provided for today's session to cite.",
+    "summary_zh": "今日兩大指數皆小幅下跌,成交氣氛清淡、方向不明,納斯達克(-0.3%)略遜於標普500(-0.2%)。市場缺乏明顯的催化因素,屬於強勢上漲後常見的整理格局。今日未提供具體新聞頭條可供引用。",
     "sources": []
   },
   "trades": [],
