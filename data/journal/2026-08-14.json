@@ -1,14 +1,14 @@
 {
   "date": "2026-08-14",
-  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.4%, S&P 500 -0.2%), with no clear risk-on signal. Cash on hand ($189.29) is well below the $500 threshold needed to fund a new position, so no buys were made despite 3 open slots; existing positions are held and left to profit-target/stop-loss automation.",
+  "briefing": "Markets were neutral today (NASDAQ -0.4%, S&P 500 -0.2%) with no clear risk-on signal, and available cash ($189.29) is well below the $500 threshold for a meaningful new position. Holding all 7 existing positions and waiting for a stronger setup before deploying remaining capital.",
   "daily_lesson": {
-    "term": "Cash is a Position",
-    "explanation_en": "When your available cash is too small to safely fund a new trade, or the market isn't giving a clear signal, holding cash is itself a valid investment decision — not a failure to act. Forcing a trade just to 'stay busy' often leads to worse outcomes than waiting for a genuine opportunity.",
-    "explanation_zh": "當可用現金不足以安全地建立新倉位,或市場方向不明確時,持有現金本身就是一種有效的投資決策,而不是「沒有行動」的失敗。為了「保持活躍」而勉強進場,往往比耐心等待真正機會的結果更差。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today's neutral market and low available cash meant there wasn't a compelling reason to force a new trade — patience preserves capital for a better setup rather than chasing mediocre entries.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是預留在場邊、待有良好機會時才動用的現金。今日市況中性，可動用現金亦不多，並無充分理由勉強開新倉——耐心等待更佳時機，比勉強進場更能保護資本。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted slightly lower today in a session without a dominant catalyst, reflecting a market in wait-and-see mode rather than a decisive move in either direction. Trading volume and sector rotation patterns from the screened list show a mix of overbought names (RSI above 70) alongside fresh bullish setups, suggesting the pullback is more consolidation than a broad risk-off shift. With no strong directional signal, staying disciplined and avoiding forced trades is the more prudent path today.",
-    "summary_zh": "今日兩大指數皆小幅走弱,市場缺乏明確的催化因素,呈現觀望格局而非明顯的方向性行情。從篩選名單來看,部分股票RSI已高於70進入超買區,同時亦有新出現的看漲訊號,顯示這波回檔較像是整理而非全面risk-off。在缺乏強烈方向訊號的情況下,保持紀律、避免勉強進場是較穩健的做法。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.2%, reflecting a lack of strong directional conviction among investors rather than any major catalyst. Without a clear risk-on or risk-off trigger, trading stayed range-bound as market participants awaited fresh data or news to set the next direction. This kind of quiet, low-volatility session is common between major economic releases or earnings catalysts.",
+    "summary_zh": "今日大市略為下跌，納斯達克指數跌0.4%，標普500指數跌0.2%，反映投資者缺乏明確方向，並非受重大消息影響。由於未見明顯的風險偏好或避險訊號，市場保持窄幅波動，投資者靜待新數據或消息公布以確立下一步走勢。這種低波動的平靜交易日在重大經濟數據或業績公布之間頗為常見。",
     "sources": []
   },
   "trades": [],
