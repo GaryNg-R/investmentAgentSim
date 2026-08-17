@@ -1,14 +1,14 @@
 {
   "date": "2026-08-17",
-  "briefing": "Markets were neutral today with NASDAQ -0.3% and S&P 500 -0.5% — no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy into open slots, and letting existing winners run.",
+  "briefing": "Markets were neutral today (NASDAQ -0.3%, S&P 500 -0.5%) with no clear risk-on signal. Cash sits at $289.29, below the $500 deployment threshold, so per past lessons we're holding dry powder rather than forcing a buy — waiting for a genuine risk-on setup before deploying into the open slots.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to invest when a genuinely strong opportunity appears rather than being deployed just to stay fully invested. On a neutral day like today with cash below the usual deployment threshold, holding that cash in reserve avoids buying into mediocre setups and keeps flexibility for a real risk-on move.",
-    "explanation_zh": "「彈藥」（Dry Powder）指投資者保留在手的現金，待真正出現強勢機會時才動用，而非為求「滿倉」而勉強買入。像今日這種市況中性、現金未達部署門檻的日子，保留現金可避免買入質素一般的機會，同時為日後真正的風險偏好上升時保留靈活性。"
+    "explanation_en": "\"Dry powder\" means keeping cash on hand instead of investing it immediately, so you have the flexibility to buy when a genuinely strong opportunity appears. On a neutral day with cash below the deployment threshold, it's often better to wait than to force a trade just to stay fully invested.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指保留現金而非立即全數投入市場，讓自己在真正出現強勢買點時仍有資金可以進場。在市況中性、現金又低於部署門檻的日子，與其為了「用滿資金」而勉強交易，不如耐心等待更明確的機會。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted slightly lower today, with NASDAQ down 0.3% and the S&P 500 down 0.5%, reflecting a quiet, directionless session rather than any major catalyst. Without a strong move in either direction, institutional participation and volume tend to be lighter, which is consistent with the modest declines seen across the board. Days like this typically reflect investors digesting recent gains rather than reacting to new information.",
-    "summary_zh": "今日大市窄幅波動，納指下跌0.3%，標普500下跌0.5%，反映市場欠缺明確方向，並非受單一重大事件帶動。在缺乏強烈上落動力的情況下，成交量普遍偏淡，與今日溫和的跌幅相符。這類交易日通常反映投資者在消化早前升幅，而非對新消息作出反應。",
+    "summary_en": "Both major indices drifted slightly lower today in quiet, directionless trading, with the S&P 500 underperforming the NASDAQ. There was no dominant catalyst driving the move — this looks like routine consolidation rather than a reaction to a specific event. Volume and volatility remained low, consistent with a wait-and-see posture among investors.",
+    "summary_zh": "今日兩大指數皆小幅回落，走勢缺乏方向，標普500表現略遜於納斯達克。市場並無明顯的單一觸發因素，較像是例行的整理走勢，而非對特定事件的反應。成交量與波動度維持在低檔，反映投資人普遍採取觀望態度。",
     "sources": []
   },
   "trades": [],
