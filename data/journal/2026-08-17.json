@@ -1,14 +1,14 @@
 {
   "date": "2026-08-17",
-  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 -0.1%) with no clear risk-on signal, and available cash ($289.29) sits below the $500 deployment threshold anyway. Holding all 7 existing positions and waiting for a stronger setup before committing new capital.",
+  "briefing": "Markets were flat today with NASDAQ -0.1% and S&P 500 -0.2%, showing no clear directional conviction. Cash on hand ($289.29) is below the $500 threshold needed for a meaningful new position, so we're holding all 7 existing positions and waiting for cash to build or a genuine risk-on setup before deploying into new candidates.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder means keeping cash on hand instead of investing it immediately, so you have capital ready to deploy when a genuinely strong opportunity appears. On a neutral day like today, forcing a purchase just to put idle cash to work can mean buying at a worse price than waiting for a clear risk-on signal would offer.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指保留現金而非立即投入市場，這樣當真正出現強勢機會時才有資金可以運用。像今天這種中性盤整的日子，若只為了消化閒置現金而勉強買入，反而可能買在較差的價位，不如耐心等待明確的風險偏好訊號出現。"
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today our cash balance is too small to fund a meaningful new position, and the market isn't showing a strong enough signal to justify forcing a trade — so the disciplined move is to wait rather than chase a mediocre setup.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指保留在場邊、隨時準備在出現良好機會時投入的現金。今日的現金餘額不足以建立有意義的新倉位，而市場亦未顯示足夠強烈的訊號值得進場，因此紀律嚴明的做法是耐心等待，而非勉強交易一個平庸的機會。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the NASDAQ edging up 0.2% and the S&P 500 slipping 0.1%, reflecting a lack of strong directional catalysts in the session. Trading appears range-bound as investors await clearer signals on rates or earnings before committing to a direction. Without a decisive move in either index, this reads as a consolidation day rather than a trend continuation or reversal.",
-    "summary_zh": "今日大盤走勢平淡，納斯達克指數微升0.2%，標普500指數則小跌0.1%，市場缺乏明確的方向性催化因素。交易呈現區間震盪格局，投資者似乎在等待利率或財報方面更清晰的訊號才會進一步表態。由於兩大指數皆未出現顯著波動，今日可視為盤整日，而非趨勢延續或反轉。",
+    "summary_en": "Both major indices drifted slightly lower today in low-conviction trading, with no major catalyst driving the move. Price action stayed within a tight range, suggesting investors are in a wait-and-see mode rather than reacting to new information. Without a clear signal in either direction, it's a day best spent holding steady rather than forcing new trades.",
+    "summary_zh": "今日大盤走勢平淡，納指及標普500指數均輕微下跌，市場缺乏明確的方向性催化劑。價格在窄幅區間內波動，反映投資者普遍採取觀望態度，而非對新消息作出反應。在缺乏明確訊號的情況下，今天最適合的做法是持倉觀望，而非強行進場。",
     "sources": []
   },
   "trades": [],
