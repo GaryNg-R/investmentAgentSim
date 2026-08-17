@@ -1,14 +1,14 @@
 {
   "date": "2026-08-17",
-  "briefing": "Markets drifted slightly lower today (NASDAQ -0.3%, S&P 500 -0.4%) with no clear risk-on catalyst. Cash ($289.29) remains below the $500 deployment threshold, so per strategy memory we held all 7 existing positions and skipped new buys rather than forcing a trade on a neutral day.",
+  "briefing": "Markets were flat-to-slightly negative today (NASDAQ -0.2%, S&P 500 -0.4%), which doesn't meet the risk-on bar needed to deploy new capital. With only $289.29 cash on hand — below our $500 deployment threshold — and no strong multi-signal setups worth stretching for, we're holding all 7 existing positions and waiting for a clearer risk-on day to fill the remaining 3 slots.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "Risk-off describes a mindset where investors pull back from adding new risk and prefer holding cash until conditions clarify. Today's mixed, mildly negative market didn't show the multi-signal confirmation (volume surge, strong RSI/MACD alignment) needed for high-conviction buys, so the disciplined choice was to sit tight rather than deploy capital just because slots were open.",
-    "explanation_zh": "「風險規避（Risk-Off）」是指投資人在市況不明朗時，傾向減少新增風險部位、寧可持有現金觀望。今日市場走勢溫和偏弱，且未出現成交量放大、RSI與MACD同步走強等高信心買進訊號，因此紀律上的正確做法是按兵不動，而不是因為還有空餘倉位就勉強進場。"
+    "explanation_en": "'Risk-off' describes a stance where investors pull back from adding new positions because market signals aren't clearly positive. Today's mixed, slightly negative tape combined with cash sitting below our deployment threshold made this a day to hold rather than buy — staying disciplined preserves capital for a higher-conviction setup later.",
+    "explanation_zh": "「風險規避」(Risk-Off)是指在市場訊號不夠明確正面時,投資人選擇不增加新部位的態度。今日走勢紊亂且略為下跌,加上可用現金低於我們的部署門檻,因此選擇持有觀望而非進場——保持紀律有助於保留資金,等待更具說服力的進場時機。"
   },
   "market_education": {
-    "summary_en": "Both the Nasdaq and S&P 500 slipped modestly today, with no single dominant headline driving the move — trading looked more like cautious drift than a decisive risk-off event. Volume and conviction were light across the screened momentum names, with most bullish setups still intact but not accelerating. Without a fresh catalyst or volume surge, there wasn't enough evidence of institutional buying to justify committing new capital.",
-    "summary_zh": "納指與標普500今日小幅走弱，並無單一重大消息主導盤面，走勢較像是觀望性的緩步下滑，而非明確的風險規避。篩選名單中的多頭動能股大多維持原有格局，但缺乏成交量放大等加速跡象。在沒有新催化劑或量能突破的情況下，並無足夠證據顯示有機構資金進場，因此不宜貿然加碼新倉位。",
+    "summary_en": "Both major indices drifted lower today in a quiet, directionless session, with the S&P 500 (-0.4%) underperforming the tech-heavy NASDAQ (-0.2%). There was no single dominant catalyst — this looks like routine consolidation after recent gains rather than a shift in sentiment. Without a clear risk-on or risk-off trigger, the safest move is to sit tight rather than chase mixed signals.",
+    "summary_zh": "今日兩大指數皆小幅走弱,標普500指數下跌0.4%,跌幅大於科技股權重較高的納斯達克指數(-0.2%)。市場並未出現明顯的單一觸發因素,較像是近期漲勢後的例行整理,而非市場情緒的轉向。在缺乏明確風險偏好訊號的情況下,按兵不動會比追逐紊亂的訊號更為穩健。",
     "sources": []
   },
   "trades": [],
