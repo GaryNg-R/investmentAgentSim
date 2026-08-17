@@ -1,14 +1,14 @@
 {
   "date": "2026-08-17",
-  "briefing": "Markets were flat today (NASDAQ -0.3%, S&P 500 -0.2%), giving no clear risk-on signal to deploy capital. Cash on hand ($189.29) is well below the $500 threshold and open positions are being left alone to let stop-loss/profit-target rules work automatically.",
+  "briefing": "Markets were flat today (NASDAQ +0.1%, S&P 500 -0.2%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold and per past lessons we don't force buys on neutral days, so we're holding all 7 positions and waiting for a genuine risk-on setup.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "On days without a clear bullish signal, disciplined investors often choose to hold cash rather than force a trade. Waiting for stronger confirmation (like a volume surge plus a MACD crossover) helps avoid buying into weak or directionless momentum.",
-    "explanation_zh": "在缺乏明確好淡訊號嘅日子，紀律嚴明嘅投資者通常會揸住現金，而唔會強行入市。等待更強嘅確認訊號（例如成交量急升配合MACD黃金交叉）可以避免喺動力疲弱或方向不明時貿然買入。"
+    "explanation_en": "Risk-off simply means choosing to hold cash or existing positions rather than opening new ones when market signals aren't strongly positive. Today's neutral market and limited cash didn't meet the bar for a new buy, so sitting tight protects capital for a better opportunity rather than chasing a mediocre setup.",
+    "explanation_zh": "「風險規避」（Risk-Off）是指在市場訊號未夠強烈時，選擇持有現金或現有倉位，而非開新倉。今日大市中性、可動用現金亦有限，未達到加碼的條件，因此按兵不動能保留資金，留待更佳機會，而非勉強追入質素一般的標的。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with the NASDAQ down 0.3% and the S&P 500 down 0.2%, consistent with a quiet, directionless trading session rather than any major catalyst-driven move.",
-    "summary_zh": "今日大市窄幅整理，納指跌0.3%，標普500跌0.2%，屬於缺乏明顯催化劑的淡靜交投日子。",
+    "summary_en": "Today was a quiet, directionless session — the NASDAQ edged up 0.1% while the S&P 500 slipped 0.2%, a split that suggests investors rotated modestly between tech and broader-market names rather than making a decisive bet either way. Without a strong catalyst, trading stayed range-bound and low-conviction. This kind of mixed, low-volatility action is typical of a market pausing to digest recent moves before its next directional push.",
+    "summary_zh": "今日大市方向不明，納指微升0.1%，標普500則輕微下跌0.2%，反映資金在科技股與大市之間小幅輪動，未見明顯一致方向。由於缺乏重大催化因素，成交維持窄幅波動，市場信心不算強烈。這種混合、低波幅的走勢，通常顯示大市正在消化早前升勢，靜待下一輪方向性走勢。",
     "sources": []
   },
   "trades": [],
