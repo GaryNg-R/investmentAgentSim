@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-17",
+  "briefing": "Markets were flat today (NASDAQ -0.3%, S&P 500 -0.2%), giving no clear risk-on signal to deploy capital. Cash on hand ($189.29) is well below the $500 threshold and open positions are being left alone to let stop-loss/profit-target rules work automatically.",
+  "daily_lesson": {
+    "term": "Risk-Off",
+    "explanation_en": "On days without a clear bullish signal, disciplined investors often choose to hold cash rather than force a trade. Waiting for stronger confirmation (like a volume surge plus a MACD crossover) helps avoid buying into weak or directionless momentum.",
+    "explanation_zh": "在缺乏明確好淡訊號嘅日子，紀律嚴明嘅投資者通常會揸住現金，而唔會強行入市。等待更強嘅確認訊號（例如成交量急升配合MACD黃金交叉）可以避免喺動力疲弱或方向不明時貿然買入。"
+  },
+  "market_education": {
+    "summary_en": "Major indices drifted slightly lower today with the NASDAQ down 0.3% and the S&P 500 down 0.2%, consistent with a quiet, directionless trading session rather than any major catalyst-driven move.",
+    "summary_zh": "今日大市窄幅整理，納指跌0.3%，標普500跌0.2%，屬於缺乏明顯催化劑的淡靜交投日子。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13855.735246181488,
+    "cash": 289.2850012779236,
+    "pnl_dollar": 3855.735246181488,
+    "pnl_pct": 38.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
