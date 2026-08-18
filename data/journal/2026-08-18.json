@@ -1,14 +1,14 @@
 {
   "date": "2026-08-18",
-  "briefing": "Market data feed was unavailable today, so NASDAQ and S&P 500 changes read as flat with no real signal to act on. Cash on hand ($289.29) is below the $500 deployment threshold, so no new buys were forced; existing positions are held and left to the automatic stop-loss/profit-target rules.",
+  "briefing": "Market data was unavailable today (NASDAQ and S&P 500 both showing 0.0% with no reliable summary), so there's no genuine signal to act on. Cash ($289.29) sits below the $500 threshold for opening new positions, so per past lessons the agent held rather than forcing a trade, leaving all 7 existing positions untouched.",
   "daily_lesson": {
-    "term": "Capital Preservation",
-    "explanation_en": "Capital preservation means prioritizing protection of your existing money over chasing new opportunities, especially when you lack clear or reliable information. When market data is missing or uncertain, holding cash and existing positions steady is often wiser than forcing a trade.",
-    "explanation_zh": "資本保全是指在缺乏清晰或可靠資訊時，優先保護現有資金，而非急於追逐新的投資機會。當市場數據缺失或不明朗時，持有現金並穩守現有部位，往往比勉強交易更為明智。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder means keeping cash in reserve instead of forcing it into a trade when there's no clear opportunity. Today's cash balance was below the buy threshold and market data was unreliable, so holding cash was the disciplined choice rather than chasing a low-conviction position.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是在沒有明確機會時，寧願保留現金也不勉強進場。今日現金餘額低於買入門檻，且市場數據不可靠，因此持有現金是紀律性的選擇，而非追逐信心不足的交易。"
   },
   "market_education": {
-    "summary_en": "Today's market data feed did not return usable index-level figures, so no confirmed move can be attributed to any specific catalyst. Both NASDAQ and S&P 500 reported 0.0% changes, which most likely reflects a data gap rather than an actual flat trading session. Without reliable signals, prudent risk management calls for holding rather than acting on incomplete information.",
-    "summary_zh": "今日市場數據來源未能正常提供有效的指數數據，因此無法確認任何具體的市場變動原因。納斯達克及標普500均顯示0.0%的變化，這較可能反映數據缺失，而非真正的平盤走勢。在缺乏可靠訊號的情況下，審慎的風險管理原則是持倉觀望，而非依據不完整的資訊採取行動。",
+    "summary_en": "Market data feeds were unavailable today, so NASDAQ and S&P 500 moves cannot be reliably confirmed or explained. Without verified headlines or price action, there is no credible catalyst to report for this session. The agent treated today as a data outage rather than a genuine neutral reading.",
+    "summary_zh": "今日市場數據來源出現異常，納指與標普500的走勢無法可靠確認或解釋。由於缺乏經核實的新聞或價格變動，本次交易日並無可信的市場催化因素可供報告。系統將今日視為數據中斷，而非真正的中性走勢。",
     "sources": []
   },
   "trades": [],
