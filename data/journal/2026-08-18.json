@@ -1,14 +1,14 @@
 {
   "date": "2026-08-18",
-  "briefing": "Markets stayed risk-off today with the NASDAQ down 1.3% and the S&P 500 down 0.6%. No candidates were screened and cash on hand ($289.29) is below the deployment threshold, so we're holding all 7 existing positions rather than forcing a trade.",
+  "briefing": "Markets pulled back today with NASDAQ down 1.3% and S&P 500 down 0.7%, a broad risk-off session. No new candidates were screened, so we held all 7 existing positions and left cash untouched.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like growth stocks, causing indices like the NASDAQ to fall more than safer benchmarks. The right response isn't to panic-sell or chase new trades — it's to hold quality positions and wait for clearer signals before deploying more capital.",
-    "explanation_zh": "「風險規避」(Risk-Off)是指投資者普遍減少持有成長股等高風險資產,導致納斯達克等指數跌幅大於較穩健的指數。正確的應對方式並非恐慌性拋售或追逐新交易,而是持有優質倉位,待訊號更明確時才部署更多資金。"
+    "explanation_en": "\"Risk-off\" describes a market mood where investors sell riskier assets like growth stocks and move toward safer holdings or cash. It's a normal part of market cycles, and a well-diversified portfolio with stop-losses in place doesn't need to react to every risk-off day by selling.",
+    "explanation_zh": "「risk-off(避險)」是指投資者情緒轉趨保守,拋售增長股等風險較高的資產,轉而持有較安全的資產或現金。這是市場週期的正常現象,只要投資組合分散得宜並設有止蝕機制,毋須對每次避險日子都作出賣出反應。"
   },
   "market_education": {
-    "summary_en": "Broad indices fell today, with the tech-heavy NASDAQ underperforming the S&P 500, a pattern typical of risk-off sessions where investors rotate out of higher-beta growth names. No specific confirmed headlines are available for today, so the move reflects general market caution rather than a single catalyst. Days like this call for patience over reactive trading.",
-    "summary_zh": "今日大市普遍下跌,以科技股為主的納斯達克指數跌幅(-1.3%)超過標普500指數(-0.6%),屬於典型的「風險規避」市況,反映資金從高波動的成長股撤出。由於今日未有確認的具體新聞標題可供引用,此次下跌更多反映市場整體審慎情緒,而非單一觸發因素。此類日子宜保持耐性,避免倉促交易。",
+    "summary_en": "Markets traded lower across the board today, with the NASDAQ falling 1.3% and the S&P 500 down 0.7%, reflecting a broad risk-off tone among investors. Technology and growth names, which make up a large share of the NASDAQ, tend to underperform on days when investors rotate toward safety. No specific news catalyst was available for today's session, so the decline appears consistent with routine market volatility rather than a single triggering event.",
+    "summary_zh": "今日大市普遍下跌,納斯達克指數下跌1.3%,標普500指數下跌0.7%,反映投資者風險偏好轉弱。科技及增長股佔納指比重較大,在資金轉向避險資產時往往表現較弱。由於今日未有特定新聞事件可供引用,今次回調較大機會屬於市場正常波動,而非單一事件觸發。",
     "sources": []
   },
   "trades": [],
