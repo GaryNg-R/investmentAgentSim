@@ -1,14 +1,14 @@
 {
   "date": "2026-08-18",
-  "briefing": "Markets were flat today with NASDAQ and S&P 500 both near 0.0% and no clear directional data available. Cash on hand ($289.29) sits below the $500 deployment threshold, so per past lessons we're holding the 3 open slots rather than forcing a buy on a low-conviction, data-light day.",
+  "briefing": "Markets pulled back today with the NASDAQ down 1.1% and the S&P 500 down 0.5%, putting conditions in risk-off territory. No new candidates were screened, so we're holding all 7 existing positions and keeping the $289.29 cash on the sidelines rather than forcing a buy.",
   "daily_lesson": {
-    "term": "Cash Discipline",
-    "explanation_en": "Cash discipline means resisting the urge to put idle money to work just because open slots exist. When cash is below a meaningful position size and the market shows no clear trend, holding cash isn't a missed opportunity — it's risk management, preserving capital for a genuine high-conviction setup.",
-    "explanation_zh": "現金紀律是指即使有空餘的持倉額度，也不因此而勉強動用資金。當現金水位不足以建立有意義的部位，且市場又缺乏明確趨勢時，持有現金並非錯失機會，而是一種風險管理，為未來真正高信心的進場機會保留實力。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, often causing tech-heavy indexes like the NASDAQ to fall more than the broader market. The right response as a long-term investor isn't to panic-sell, but to avoid adding new risk and let existing stop-losses and profit targets do their job.",
+    "explanation_zh": "「risk-off」(避險)日子是指投資者普遍拋售增長股等風險較高的資產,轉向較安全的選擇,因此以科技股為主的納指跌幅往往大於大盤。長線投資者面對這類日子,正確做法不是恐慌性拋售,而是避免增加新風險,並讓既有的止蝕與獲利了結機制自動運作。"
   },
   "market_education": {
-    "summary_en": "Today's market data came back essentially flat with no meaningful move in either the NASDAQ or S&P 500, and detailed news coverage was unavailable. Without a clear directional signal, it's a low-information day where discipline matters more than action. The safest course is to preserve existing positions and wait for a stronger, confirmed setup before committing new cash.",
-    "summary_zh": "今日大盤數據顯示納指與標普500指數幾乎持平，未見明顯方向性變化，且詳細新聞資訊暫時無法取得。在缺乏明確訊號的情況下，這是資訊有限的一天，紀律比行動更重要。目前最穩健的做法是維持現有持倉，等待更強烈且獲得確認的進場訊號後，再投入新資金。",
+    "summary_en": "Broad-based selling pressure hit growth-sensitive names harder, with the NASDAQ underperforming the S&P 500 by more than 2-to-1, a pattern typical of risk-off days where investors rotate out of higher-multiple tech stocks. The wider point drop in the NASDAQ suggests profit-taking or rate-sensitivity concerns weighed more on growth stocks than on the broader market. Without confirmed news catalysts available today, the move looks like a broad de-risking session rather than a single-stock-driven event.",
+    "summary_zh": "今日大市普遍受壓,納指跌幅1.1%,遠高於標普500的0.5%跌幅,反映資金從高估值科技股撤離,屬於典型的「risk-off」避險格局。納指跑輸大盤,顯示增長股對利率敏感度較高,或有獲利回吐壓力。今日未有確定的新聞觸發事件,這次調整看似屬於大市整體降低風險倉位,而非個別股份事件所致。",
     "sources": []
   },
   "trades": [],
