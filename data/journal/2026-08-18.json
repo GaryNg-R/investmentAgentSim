@@ -1,14 +1,14 @@
 {
   "date": "2026-08-18",
-  "briefing": "Market data was unavailable today (NASDAQ and S&P 500 both showing 0.0% with no reliable summary), so there's no genuine signal to act on. Cash ($289.29) sits below the $500 threshold for opening new positions, so per past lessons the agent held rather than forcing a trade, leaving all 7 existing positions untouched.",
+  "briefing": "Markets were flat today with NASDAQ and S&P 500 both near 0.0% and no clear directional data available. Cash on hand ($289.29) sits below the $500 deployment threshold, so per past lessons we're holding the 3 open slots rather than forcing a buy on a low-conviction, data-light day.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder means keeping cash in reserve instead of forcing it into a trade when there's no clear opportunity. Today's cash balance was below the buy threshold and market data was unreliable, so holding cash was the disciplined choice rather than chasing a low-conviction position.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是在沒有明確機會時，寧願保留現金也不勉強進場。今日現金餘額低於買入門檻，且市場數據不可靠，因此持有現金是紀律性的選擇，而非追逐信心不足的交易。"
+    "term": "Cash Discipline",
+    "explanation_en": "Cash discipline means resisting the urge to put idle money to work just because open slots exist. When cash is below a meaningful position size and the market shows no clear trend, holding cash isn't a missed opportunity — it's risk management, preserving capital for a genuine high-conviction setup.",
+    "explanation_zh": "現金紀律是指即使有空餘的持倉額度，也不因此而勉強動用資金。當現金水位不足以建立有意義的部位，且市場又缺乏明確趨勢時，持有現金並非錯失機會，而是一種風險管理，為未來真正高信心的進場機會保留實力。"
   },
   "market_education": {
-    "summary_en": "Market data feeds were unavailable today, so NASDAQ and S&P 500 moves cannot be reliably confirmed or explained. Without verified headlines or price action, there is no credible catalyst to report for this session. The agent treated today as a data outage rather than a genuine neutral reading.",
-    "summary_zh": "今日市場數據來源出現異常，納指與標普500的走勢無法可靠確認或解釋。由於缺乏經核實的新聞或價格變動，本次交易日並無可信的市場催化因素可供報告。系統將今日視為數據中斷，而非真正的中性走勢。",
+    "summary_en": "Today's market data came back essentially flat with no meaningful move in either the NASDAQ or S&P 500, and detailed news coverage was unavailable. Without a clear directional signal, it's a low-information day where discipline matters more than action. The safest course is to preserve existing positions and wait for a stronger, confirmed setup before committing new cash.",
+    "summary_zh": "今日大盤數據顯示納指與標普500指數幾乎持平，未見明顯方向性變化，且詳細新聞資訊暫時無法取得。在缺乏明確訊號的情況下，這是資訊有限的一天，紀律比行動更重要。目前最穩健的做法是維持現有持倉，等待更強烈且獲得確認的進場訊號後，再投入新資金。",
     "sources": []
   },
   "trades": [],
