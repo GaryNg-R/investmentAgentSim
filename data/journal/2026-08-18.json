@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-18",
+  "briefing": "Market data feed was unavailable today, so NASDAQ and S&P 500 changes read as flat with no real signal to act on. Cash on hand ($289.29) is below the $500 deployment threshold, so no new buys were forced; existing positions are held and left to the automatic stop-loss/profit-target rules.",
+  "daily_lesson": {
+    "term": "Capital Preservation",
+    "explanation_en": "Capital preservation means prioritizing protection of your existing money over chasing new opportunities, especially when you lack clear or reliable information. When market data is missing or uncertain, holding cash and existing positions steady is often wiser than forcing a trade.",
+    "explanation_zh": "資本保全是指在缺乏清晰或可靠資訊時，優先保護現有資金，而非急於追逐新的投資機會。當市場數據缺失或不明朗時，持有現金並穩守現有部位，往往比勉強交易更為明智。"
+  },
+  "market_education": {
+    "summary_en": "Today's market data feed did not return usable index-level figures, so no confirmed move can be attributed to any specific catalyst. Both NASDAQ and S&P 500 reported 0.0% changes, which most likely reflects a data gap rather than an actual flat trading session. Without reliable signals, prudent risk management calls for holding rather than acting on incomplete information.",
+    "summary_zh": "今日市場數據來源未能正常提供有效的指數數據，因此無法確認任何具體的市場變動原因。納斯達克及標普500均顯示0.0%的變化，這較可能反映數據缺失，而非真正的平盤走勢。在缺乏可靠訊號的情況下，審慎的風險管理原則是持倉觀望，而非依據不完整的資訊採取行動。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13855.735246181488,
+    "cash": 289.2850012779236,
+    "pnl_dollar": 3855.735246181488,
+    "pnl_pct": 38.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
