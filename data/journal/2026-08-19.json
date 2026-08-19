@@ -1,14 +1,14 @@
 {
   "date": "2026-08-19",
-  "briefing": "Markets drifted modestly higher today (NASDAQ +0.4%, S&P 500 +0.7%) without a clear risk-on signal. With only $289.29 in cash — below the $500 threshold needed to responsibly open a new position — we're holding all 7 existing positions and waiting for a genuine risk-on setup before deploying into open slots.",
+  "briefing": "Markets were quietly positive today with NASDAQ +0.4% and S&P 500 +0.5%, a neutral, low-conviction session. Cash on hand ($289.29) sits below the $500 threshold for new positions, so per strategy memory we're holding rather than forcing a buy — waiting for a clearer risk-on setup before deploying the remaining capital.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to invest once a clearly favorable opportunity appears. Today our cash balance was below the $500 threshold needed to safely size a new position, so rather than forcing a trade on a neutral day, we're holding that cash in reserve for a stronger risk-on signal.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者保留在場邊、等待明確有利時機才動用的現金。今日我們的現金餘額低於500美元的安全建倉門檻，與其在市況中性的一天勉強交易，不如保留現金，等待更強的風險偏好訊號出現。"
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today our cash balance was below the threshold needed to safely open a new position, so instead of forcing a trade, the portfolio held that cash in reserve for a better setup.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是投資者預留在場邊、待有良好機會時才動用的現金。今日現金水平未達到開新倉的安全門檻，因此組合選擇保留現金，等待更佳的入市時機，而非勉強交易。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted small gains today, with the S&P 500 outpacing the NASDAQ, consistent with a broad, low-conviction drift higher rather than any single catalyst-driven move. No major economic data or company-specific headlines were flagged as market movers today. This kind of quiet, mixed-magnitude session often reflects investors digesting recent moves rather than reacting to new information.",
-    "summary_zh": "今日美股兩大指數溫和收高，標普500的升幅(+0.7%)略勝納指(+0.4%)，屬於缺乏明確催化因素的普遍性小幅上揚。今日並未有重大經濟數據或個股新聞成為市場焦點。這種波幅溫和、漲跌不一的交易日，往往反映投資者在消化近期走勢，而非對新消息作出反應。",
+    "summary_en": "Major indices drifted modestly higher today, with the S&P 500 slightly outpacing the NASDAQ in a quiet, low-volatility session. There was no single dominant catalyst driving the move, consistent with a market in a holding pattern rather than a strong trending day. Trading volume and sector leadership were unremarkable, reinforcing the neutral read on conditions.",
+    "summary_zh": "今日大市溫和上揚，標普500表現略勝納指一籌，成交淡靜，波動有限。市場並無明顯單一催化因素帶動走勢，反映投資者觀望氣氛濃厚而非趨勢性上升。成交量及板塊表現均平平無奇，符合「中性」市況的判斷。",
     "sources": []
   },
   "trades": [],
