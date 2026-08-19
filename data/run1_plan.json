@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-19T16:00:50.272840+00:00",
+  "saved_at": "2026-08-19T17:00:54.953341+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": false,
-    "briefing": "Markets were quietly positive today with NASDAQ +0.4% and S&P 500 +0.5%, a neutral, low-conviction session. Cash on hand ($289.29) sits below the $500 threshold for new positions, so per strategy memory we're holding rather than forcing a buy \u2014 waiting for a clearer risk-on setup before deploying the remaining capital.",
+    "skip_new_buys": true,
+    "briefing": "Markets were quiet today with NASDAQ +0.2% and S&P 500 +0.3% \u2014 a neutral, low-conviction session. Cash on hand ($289.29) is below the $500 deployment threshold, so per past lessons we're holding rather than forcing a buy into a flat market, and letting existing positions ride.",
     "market_education": {
-      "summary_en": "Major indices drifted modestly higher today, with the S&P 500 slightly outpacing the NASDAQ in a quiet, low-volatility session. There was no single dominant catalyst driving the move, consistent with a market in a holding pattern rather than a strong trending day. Trading volume and sector leadership were unremarkable, reinforcing the neutral read on conditions.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u4e0a\u63da\uff0c\u6a19\u666e500\u8868\u73fe\u7565\u52dd\u7d0d\u6307\u4e00\u7c4c\uff0c\u6210\u4ea4\u6de1\u975c\uff0c\u6ce2\u52d5\u6709\u9650\u3002\u5e02\u5834\u4e26\u7121\u660e\u986f\u55ae\u4e00\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u8d70\u52e2\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u89c0\u671b\u6c23\u6c1b\u6fc3\u539a\u800c\u975e\u8da8\u52e2\u6027\u4e0a\u5347\u3002\u6210\u4ea4\u91cf\u53ca\u677f\u584a\u8868\u73fe\u5747\u5e73\u5e73\u7121\u5947\uff0c\u7b26\u5408\u300c\u4e2d\u6027\u300d\u5e02\u6cc1\u7684\u5224\u65b7\u3002",
+      "summary_en": "Major indices drifted modestly higher today, with NASDAQ up 0.2% and the S&P 500 up 0.3%, reflecting a lack of strong catalysts in either direction. No specific news events were provided for today's session, so this move appears to be routine, low-volume drift rather than a reaction to a major headline. Without a clear driver, it's a day for patience rather than aggressive positioning.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1,\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u53470.2%,\u6a19\u666e500\u6307\u6578\u4e0a\u53470.3%,\u986f\u793a\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u7684\u50ac\u5316\u56e0\u7d20\u3002\u7531\u65bc\u4eca\u65e5\u4e26\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u4e8b\u4ef6,\u9019\u6ce2\u52d5\u8f03\u53ef\u80fd\u5c6c\u65bc\u4f8b\u884c\u6027\u3001\u4f4e\u6210\u4ea4\u91cf\u7684\u6f02\u79fb,\u800c\u975e\u5c0d\u91cd\u5927\u6d88\u606f\u7684\u53cd\u61c9\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u9a45\u52d5\u56e0\u7d20\u7684\u60c5\u6cc1\u4e0b,\u4eca\u5929\u9069\u5408\u4fdd\u6301\u8010\u6027,\u800c\u975e\u7a4d\u6975\u52a0\u78bc\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today our cash balance was below the threshold needed to safely open a new position, so instead of forcing a trade, the portfolio held that cash in reserve for a better setup.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u7684\u662f\u6295\u8cc7\u8005\u9810\u7559\u5728\u5834\u908a\u3001\u5f85\u6709\u826f\u597d\u6a5f\u6703\u6642\u624d\u52d5\u7528\u7684\u73fe\u91d1\u3002\u4eca\u65e5\u73fe\u91d1\u6c34\u5e73\u672a\u9054\u5230\u958b\u65b0\u5009\u7684\u5b89\u5168\u9580\u6abb\uff0c\u56e0\u6b64\u7d44\u5408\u9078\u64c7\u4fdd\u7559\u73fe\u91d1\uff0c\u7b49\u5f85\u66f4\u4f73\u7684\u5165\u5e02\u6642\u6a5f\uff0c\u800c\u975e\u52c9\u5f37\u4ea4\u6613\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "Risk-off doesn't just mean selling \u2014 it can also mean holding cash on the sidelines rather than deploying it into new positions when the market isn't giving you a clear, high-conviction signal. Chasing trades on a flat, directionless day often leads to worse entries than waiting for a genuine setup.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\u4e0d\u53ea\u4ee3\u8868\u8ce3\u51fa\u6301\u80a1,\u4e5f\u53ef\u4ee5\u662f\u628a\u73fe\u91d1\u7559\u5728\u5834\u908a,\u800c\u975e\u5728\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u3001\u9ad8\u4fe1\u5fc3\u8a0a\u865f\u6642\u8cbf\u7136\u5efa\u7acb\u65b0\u5009\u4f4d\u3002\u5728\u65b9\u5411\u4e0d\u660e\u7684\u5e73\u6de1\u4ea4\u6613\u65e5\u8ffd\u9ad8\u9032\u5834,\u901a\u5e38\u6703\u6bd4\u8010\u5fc3\u7b49\u5f85\u771f\u6b63\u7684\u9032\u5834\u6642\u6a5f\u7372\u5f97\u66f4\u5dee\u7684\u6210\u672c\u50f9\u3002"
     }
   }
 }
