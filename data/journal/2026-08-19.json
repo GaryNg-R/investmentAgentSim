@@ -1,14 +1,14 @@
 {
   "date": "2026-08-19",
-  "briefing": "Markets were quiet today with NASDAQ +0.2% and S&P 500 +0.3% — a neutral, low-conviction session. Cash on hand ($289.29) is below the $500 deployment threshold, so per past lessons we're holding rather than forcing a buy into a flat market, and letting existing positions ride.",
+  "briefing": "Markets were neutral today (NASDAQ +0.2%, S&P 500 +0.3%) with no strong risk-on signal to justify deploying capital. Cash on hand ($289.29) is below the $500 threshold anyway, so we're holding all 7 existing positions and waiting for a clearer setup.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "Risk-off doesn't just mean selling — it can also mean holding cash on the sidelines rather than deploying it into new positions when the market isn't giving you a clear, high-conviction signal. Chasing trades on a flat, directionless day often leads to worse entries than waiting for a genuine setup.",
-    "explanation_zh": "「風險規避」不只代表賣出持股,也可以是把現金留在場邊,而非在市場缺乏明確、高信心訊號時貿然建立新倉位。在方向不明的平淡交易日追高進場,通常會比耐心等待真正的進場時機獲得更差的成本價。"
+    "explanation_en": "A 'risk-off' approach means holding back from new investments when market signals aren't strongly positive, even if it means sitting on cash. It's a deliberate choice to protect capital rather than chase mediocre setups, especially when you don't have enough conviction or capital to act meaningfully.",
+    "explanation_zh": "「風險規避」（Risk-Off）指在市場訊號不夠強烈時，選擇不進行新投資,即使這意味著持有現金。這是一種主動保護資金的策略,而非追逐不夠明確的入市機會,尤其是在信心或資金皆不足以有效行動的情況下。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today, with NASDAQ up 0.2% and the S&P 500 up 0.3%, reflecting a lack of strong catalysts in either direction. No specific news events were provided for today's session, so this move appears to be routine, low-volume drift rather than a reaction to a major headline. Without a clear driver, it's a day for patience rather than aggressive positioning.",
-    "summary_zh": "今日大盤走勢平淡,納斯達克指數微升0.2%,標普500指數上升0.3%,顯示市場缺乏明確方向的催化因素。由於今日並未提供具體新聞事件,這波動較可能屬於例行性、低成交量的漂移,而非對重大消息的反應。在缺乏明確驅動因素的情況下,今天適合保持耐性,而非積極加碼。",
+    "summary_en": "Major indices drifted modestly higher today, with the NASDAQ up 0.2% and the S&P 500 up 0.3%, reflecting a lack of major catalysts to push markets decisively in either direction. Trading stayed range-bound as investors awaited clearer economic or earnings signals. This kind of low-volatility session typically reflects a wait-and-see posture across the market rather than any specific news event.",
+    "summary_zh": "今日大盤走勢溫和向上，納指上升0.2%，標普500指數上升0.3%，市場缺乏明顯催化劑推動方向性走勢。交投維持區間震盪，投資者仍在等待更清晰的經濟數據或業績訊號。這種低波動的交易日通常反映市場觀望氣氛,而非受特定新聞事件驅動。",
     "sources": []
   },
   "trades": [],

@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-19T17:00:54.953341+00:00",
+  "saved_at": "2026-08-19T18:00:55.297485+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets were quiet today with NASDAQ +0.2% and S&P 500 +0.3% \u2014 a neutral, low-conviction session. Cash on hand ($289.29) is below the $500 deployment threshold, so per past lessons we're holding rather than forcing a buy into a flat market, and letting existing positions ride.",
+    "briefing": "Markets were neutral today (NASDAQ +0.2%, S&P 500 +0.3%) with no strong risk-on signal to justify deploying capital. Cash on hand ($289.29) is below the $500 threshold anyway, so we're holding all 7 existing positions and waiting for a clearer setup.",
     "market_education": {
-      "summary_en": "Major indices drifted modestly higher today, with NASDAQ up 0.2% and the S&P 500 up 0.3%, reflecting a lack of strong catalysts in either direction. No specific news events were provided for today's session, so this move appears to be routine, low-volume drift rather than a reaction to a major headline. Without a clear driver, it's a day for patience rather than aggressive positioning.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1,\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u53470.2%,\u6a19\u666e500\u6307\u6578\u4e0a\u53470.3%,\u986f\u793a\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u7684\u50ac\u5316\u56e0\u7d20\u3002\u7531\u65bc\u4eca\u65e5\u4e26\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u4e8b\u4ef6,\u9019\u6ce2\u52d5\u8f03\u53ef\u80fd\u5c6c\u65bc\u4f8b\u884c\u6027\u3001\u4f4e\u6210\u4ea4\u91cf\u7684\u6f02\u79fb,\u800c\u975e\u5c0d\u91cd\u5927\u6d88\u606f\u7684\u53cd\u61c9\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u9a45\u52d5\u56e0\u7d20\u7684\u60c5\u6cc1\u4e0b,\u4eca\u5929\u9069\u5408\u4fdd\u6301\u8010\u6027,\u800c\u975e\u7a4d\u6975\u52a0\u78bc\u3002",
+      "summary_en": "Major indices drifted modestly higher today, with the NASDAQ up 0.2% and the S&P 500 up 0.3%, reflecting a lack of major catalysts to push markets decisively in either direction. Trading stayed range-bound as investors awaited clearer economic or earnings signals. This kind of low-volatility session typically reflects a wait-and-see posture across the market rather than any specific news event.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c\u5411\u4e0a\uff0c\u7d0d\u6307\u4e0a\u53470.2%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53470.3%\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u50ac\u5316\u5291\u63a8\u52d5\u65b9\u5411\u6027\u8d70\u52e2\u3002\u4ea4\u6295\u7dad\u6301\u5340\u9593\u9707\u76ea\uff0c\u6295\u8cc7\u8005\u4ecd\u5728\u7b49\u5f85\u66f4\u6e05\u6670\u7684\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u8a0a\u865f\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u7684\u4ea4\u6613\u65e5\u901a\u5e38\u53cd\u6620\u5e02\u5834\u89c0\u671b\u6c23\u6c1b,\u800c\u975e\u53d7\u7279\u5b9a\u65b0\u805e\u4e8b\u4ef6\u9a45\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "Risk-off doesn't just mean selling \u2014 it can also mean holding cash on the sidelines rather than deploying it into new positions when the market isn't giving you a clear, high-conviction signal. Chasing trades on a flat, directionless day often leads to worse entries than waiting for a genuine setup.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\u4e0d\u53ea\u4ee3\u8868\u8ce3\u51fa\u6301\u80a1,\u4e5f\u53ef\u4ee5\u662f\u628a\u73fe\u91d1\u7559\u5728\u5834\u908a,\u800c\u975e\u5728\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u3001\u9ad8\u4fe1\u5fc3\u8a0a\u865f\u6642\u8cbf\u7136\u5efa\u7acb\u65b0\u5009\u4f4d\u3002\u5728\u65b9\u5411\u4e0d\u660e\u7684\u5e73\u6de1\u4ea4\u6613\u65e5\u8ffd\u9ad8\u9032\u5834,\u901a\u5e38\u6703\u6bd4\u8010\u5fc3\u7b49\u5f85\u771f\u6b63\u7684\u9032\u5834\u6642\u6a5f\u7372\u5f97\u66f4\u5dee\u7684\u6210\u672c\u50f9\u3002"
+      "explanation_en": "A 'risk-off' approach means holding back from new investments when market signals aren't strongly positive, even if it means sitting on cash. It's a deliberate choice to protect capital rather than chase mediocre setups, especially when you don't have enough conviction or capital to act meaningfully.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u6307\u5728\u5e02\u5834\u8a0a\u865f\u4e0d\u5920\u5f37\u70c8\u6642\uff0c\u9078\u64c7\u4e0d\u9032\u884c\u65b0\u6295\u8cc7,\u5373\u4f7f\u9019\u610f\u5473\u8457\u6301\u6709\u73fe\u91d1\u3002\u9019\u662f\u4e00\u7a2e\u4e3b\u52d5\u4fdd\u8b77\u8cc7\u91d1\u7684\u7b56\u7565,\u800c\u975e\u8ffd\u9010\u4e0d\u5920\u660e\u78ba\u7684\u5165\u5e02\u6a5f\u6703,\u5c24\u5176\u662f\u5728\u4fe1\u5fc3\u6216\u8cc7\u91d1\u7686\u4e0d\u8db3\u4ee5\u6709\u6548\u884c\u52d5\u7684\u60c5\u6cc1\u4e0b\u3002"
     }
   }
 }
