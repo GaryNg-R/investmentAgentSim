@@ -1,14 +1,14 @@
 {
   "date": "2026-08-19",
-  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.2%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, so per past lessons we held rather than forcing a buy on a neutral day, letting existing stop-loss/profit-target rules manage the 7 open positions.",
+  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.2%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy into a neutral tape — waiting for a genuine risk-on setup with multi-signal confirmation.",
   "daily_lesson": {
-    "term": "Patience",
-    "explanation_en": "Patience in investing means not feeling pressured to act just because you have cash available or the market is open. On a neutral day with limited funds, waiting for a genuinely strong setup — rather than forcing a mediocre trade — protects capital for better opportunities later.",
-    "explanation_zh": "投資中的「耐性」是指不因為手上有現金或市場開盤，就感到必須立即行動。在市況平淡、資金有限的日子，等待真正強勢的進場訊號，而非勉強進行普通交易，能為日後更好的機會保留資本。"
+    "term": "Patience (Sitting on Cash)",
+    "explanation_en": "Sometimes the smartest move is no move at all. When cash reserves are too small to make a meaningful new investment and the market isn't showing strong buy signals, it's better to wait for a clearer opportunity than to force a trade just to feel productive.",
+    "explanation_zh": "有時候最聰明的做法就是按兵不動。當現金儲備不足以進行有意義的新投資，而市場又未顯示強烈的買入訊號時，寧可耐心等待更明確的機會，也不應為求「有所作為」而勉強交易。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 traded essentially flat today, up just 0.2% each, suggesting investors were in a wait-and-see mode without a strong catalyst to push prices meaningfully in either direction. Screened momentum candidates like NG, HYMC, and EXK showed bullish technical setups, but none triggered the multi-signal, risk-on conviction needed to deploy limited cash. With no major market-moving headlines to point to today, the tape reflects a quiet consolidation day rather than a directional move.",
-    "summary_zh": "今日納指與標普500指數表現平淡，分別僅上升0.2%，反映投資者在缺乏明確催化劑下採取觀望態度。雖然篩選名單中的NG、HYMC、EXK等股票技術面呈現看漲訊號，但未達到足以動用有限現金的多重確認條件。今日並無重大市場消息可供參考，盤面更像是溫和的整固，而非明確方向性的走勢。",
+    "summary_en": "Major indices traded essentially flat today, with the NASDAQ and S&P 500 both up just 0.2%, reflecting a lack of strong directional catalysts. Without a clear risk-on or risk-off signal, institutional flows appear muted and stock-specific momentum plays are driving most of the notable moves in the screened list rather than broad market sentiment. This kind of low-volatility, sideways session is typically a consolidation period rather than a trend change.",
+    "summary_zh": "今日大市走勢大致持平，納斯達克指數及標普500指數均僅微升0.2%，反映市場缺乏明顯的方向性催化因素。在沒有清晰的風險偏好或避險訊號下，機構資金流向似乎較為淡靜,個股層面的動能表現多於大市情緒主導今日焦點股份的波動。這種低波幅、橫行的交易日通常屬於整固階段，而非趨勢逆轉。",
     "sources": []
   },
   "trades": [],
