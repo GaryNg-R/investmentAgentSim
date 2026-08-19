@@ -1,14 +1,14 @@
 {
   "date": "2026-08-19",
-  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P500 +0.3%) with no clear risk-on signal. Cash on hand ($289.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy — existing 7 positions stay untouched to let stop-loss/profit-target rules do their job.",
+  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.2%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, so per past lessons we held rather than forcing a buy on a neutral day, letting existing stop-loss/profit-target rules manage the 7 open positions.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder means keeping cash uninvested and ready to deploy when a genuinely strong opportunity appears, rather than forcing trades just to stay fully invested. On a neutral day with cash below a meaningful deployment size, patience preserves capital for better setups.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指保留現金不投資，待真正出現強勢機會時才出手，而非為求「滿倉」而勉強交易。在大市方向不明、現金金額又不足以有效配置時，保持耐性能為日後更佳機會保留彈藥。"
+    "term": "Patience",
+    "explanation_en": "Patience in investing means not feeling pressured to act just because you have cash available or the market is open. On a neutral day with limited funds, waiting for a genuinely strong setup — rather than forcing a mediocre trade — protects capital for better opportunities later.",
+    "explanation_zh": "投資中的「耐性」是指不因為手上有現金或市場開盤，就感到必須立即行動。在市況平淡、資金有限的日子，等待真正強勢的進場訊號，而非勉強進行普通交易，能為日後更好的機會保留資本。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted slightly higher today in quiet, low-conviction trading with no major catalyst driving the move. Volume and volatility were subdued, consistent with a market waiting for its next directional cue. Without a clear breakout signal, this was a session to sit tight rather than chase.",
-    "summary_zh": "今日大市走勢平穩，納指升0.2%，標普500指數升0.3%，成交淡靜，未見明顯利好或利淡消息帶動。市場似乎在等待下一個方向性訊號，波動性偏低。在缺乏明確突破信號下，今日屬於觀望而非追高的日子。",
+    "summary_en": "Both the NASDAQ and S&P 500 traded essentially flat today, up just 0.2% each, suggesting investors were in a wait-and-see mode without a strong catalyst to push prices meaningfully in either direction. Screened momentum candidates like NG, HYMC, and EXK showed bullish technical setups, but none triggered the multi-signal, risk-on conviction needed to deploy limited cash. With no major market-moving headlines to point to today, the tape reflects a quiet consolidation day rather than a directional move.",
+    "summary_zh": "今日納指與標普500指數表現平淡，分別僅上升0.2%，反映投資者在缺乏明確催化劑下採取觀望態度。雖然篩選名單中的NG、HYMC、EXK等股票技術面呈現看漲訊號，但未達到足以動用有限現金的多重確認條件。今日並無重大市場消息可供參考，盤面更像是溫和的整固，而非明確方向性的走勢。",
     "sources": []
   },
   "trades": [],
