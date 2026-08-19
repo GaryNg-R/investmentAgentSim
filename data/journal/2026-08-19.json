@@ -1,14 +1,14 @@
 {
   "date": "2026-08-19",
-  "briefing": "Markets were neutral today (NASDAQ +0.2%, S&P 500 +0.3%) with no strong risk-on signal to justify deploying capital. Cash on hand ($289.29) is below the $500 threshold anyway, so we're holding all 7 existing positions and waiting for a clearer setup.",
+  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P500 +0.3%) with no clear risk-on signal. Cash on hand ($289.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy — existing 7 positions stay untouched to let stop-loss/profit-target rules do their job.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' approach means holding back from new investments when market signals aren't strongly positive, even if it means sitting on cash. It's a deliberate choice to protect capital rather than chase mediocre setups, especially when you don't have enough conviction or capital to act meaningfully.",
-    "explanation_zh": "「風險規避」（Risk-Off）指在市場訊號不夠強烈時，選擇不進行新投資,即使這意味著持有現金。這是一種主動保護資金的策略,而非追逐不夠明確的入市機會,尤其是在信心或資金皆不足以有效行動的情況下。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder means keeping cash uninvested and ready to deploy when a genuinely strong opportunity appears, rather than forcing trades just to stay fully invested. On a neutral day with cash below a meaningful deployment size, patience preserves capital for better setups.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指保留現金不投資，待真正出現強勢機會時才出手，而非為求「滿倉」而勉強交易。在大市方向不明、現金金額又不足以有效配置時，保持耐性能為日後更佳機會保留彈藥。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today, with the NASDAQ up 0.2% and the S&P 500 up 0.3%, reflecting a lack of major catalysts to push markets decisively in either direction. Trading stayed range-bound as investors awaited clearer economic or earnings signals. This kind of low-volatility session typically reflects a wait-and-see posture across the market rather than any specific news event.",
-    "summary_zh": "今日大盤走勢溫和向上，納指上升0.2%，標普500指數上升0.3%，市場缺乏明顯催化劑推動方向性走勢。交投維持區間震盪，投資者仍在等待更清晰的經濟數據或業績訊號。這種低波動的交易日通常反映市場觀望氣氛,而非受特定新聞事件驅動。",
+    "summary_en": "Both major indices drifted slightly higher today in quiet, low-conviction trading with no major catalyst driving the move. Volume and volatility were subdued, consistent with a market waiting for its next directional cue. Without a clear breakout signal, this was a session to sit tight rather than chase.",
+    "summary_zh": "今日大市走勢平穩，納指升0.2%，標普500指數升0.3%，成交淡靜，未見明顯利好或利淡消息帶動。市場似乎在等待下一個方向性訊號，波動性偏低。在缺乏明確突破信號下，今日屬於觀望而非追高的日子。",
     "sources": []
   },
   "trades": [],
