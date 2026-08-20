@@ -1,14 +1,14 @@
 {
   "date": "2026-08-20",
-  "briefing": "Markets were neutral today, with NASDAQ down 0.6% and the S&P 500 down 0.3% — no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, and per past lessons we don't force buys into open slots on a neutral day, so we're holding all 7 positions unchanged and waiting for a genuine risk-on setup.",
+  "briefing": "Markets were neutral today (NASDAQ -0.6%, S&P 500 -0.2%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, so per past lessons we held rather than forcing a buy into open slots — waiting for a genuine risk-on setup with multi-signal confirmation.",
   "daily_lesson": {
-    "term": "Patience",
-    "explanation_en": "Patience means resisting the urge to trade just because cash or open slots are available. On neutral days without strong bullish signals, holding cash and waiting for a genuine opportunity often protects returns better than forcing a trade.",
-    "explanation_zh": "耐心是指不因為手上有現金或空餘倉位，就急於進場交易。在缺乏強烈看漲訊號的中性交易日，持有現金並耐心等待真正的機會，往往比勉強進場更能保護投資報酬。"
+    "term": "Risk-Off",
+    "explanation_en": "A risk-off stance means choosing to hold cash or existing positions rather than initiating new trades when market signals are weak or mixed. It's not about being fearful — it's about waiting for stronger confirmation before committing more capital, which helps avoid low-quality entries.",
+    "explanation_zh": "「風險規避」（Risk-Off）指在市場訊號疲弱或混亂時，選擇持有現金或維持現有倉位，而非貿然開新倉。這並非因為恐懼，而是耐心等待更強的確認訊號才動用資金，有助避免質素欠佳的入市時機。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted slightly lower today in a quiet, directionless session, with NASDAQ -0.6% and the S&P 500 -0.3%. There was no strong catalyst pushing markets meaningfully in either direction, which is typical of consolidation phases after recent moves. Days like this often see institutional investors sit on the sidelines waiting for clearer signals before committing new capital.",
-    "summary_zh": "今日兩大指數皆小幅下跌，走勢平淡缺乏方向，納斯達克下跌0.6%，標普500下跌0.3%。市場並無明顯催化劑推動大幅波動，這種情況在近期走勢過後的整理階段相當常見。這類交易日中，機構投資者通常會選擇觀望，待訊號更明確後才會投入新資金。",
+    "summary_en": "Both the NASDAQ and S&P 500 drifted slightly lower today in quiet, directionless trading, with no major catalyst driving the move. Volume and volatility stayed muted, consistent with a market in a holding pattern rather than reacting to new information. This kind of low-conviction session is typically better spent preserving capital than chasing marginal setups.",
+    "summary_zh": "今日納指及標普500指數均輕微回落，市況缺乏明確方向及重大催化因素。成交量及波幅均維持平淡，反映市場處於觀望狀態，而非對新消息作出反應。這類缺乏信念的交易日，保留資金往往比追逐邊際機會更為明智。",
     "sources": []
   },
   "trades": [],
