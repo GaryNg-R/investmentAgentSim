@@ -1,14 +1,14 @@
 {
   "date": "2026-08-20",
-  "briefing": "Markets were neutral today (NASDAQ -0.9%, S&P500 -0.4%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 buy threshold, so no new positions were opened; existing holdings were left untouched to let stop-loss and profit targets work automatically.",
+  "briefing": "Markets drifted lower today (NASDAQ -0.7%, S&P 500 -0.3%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, so per prior lessons we hold rather than force a buy, and existing positions are left to run since none of this is a strong risk-off day either.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" means keeping cash available instead of investing it immediately, so you can act decisively when a strong opportunity appears. On a neutral day like today, with cash below the position-sizing threshold anyway, holding rather than forcing a trade preserves flexibility for a clearer setup.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指保留現金而非立即全數投入，以便在真正出現強烈機會時能果斷行動。像今天這種中性交易日，加上現金本就低於建倉門檻，選擇持有而非勉強交易，能保留應對更明確買入時機的彈性。"
+    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today our cash balance is below the minimum threshold for a new position, and the market isn't giving a clear risk-on signal, so the disciplined move is to wait rather than force a trade.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、待有明確機會時才動用的現金。今日現金餘額未達開新倉的最低門檻，加上市場未見明確的risk-on訊號，因此紀律性的做法是耐心等待，而非勉強交易。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted lower today in a broad, low-conviction pullback rather than a sharp selloff tied to any single catalyst. Without a clear risk-on or risk-off trigger, trading volume and momentum signals across the screened list stayed mixed, which is typical of a consolidation day after recent gains. Days like this often precede either a continuation lower or a bounce, so staying disciplined rather than chasing either direction tends to pay off.",
-    "summary_zh": "今日兩大指數均溫和回落，屬於缺乏單一催化因素的普遍性、低信心度回調，而非急跌。由於沒有明確的風險偏好或避險訊號，篩選名單中的成交量與動能指標普遍呈現參差不齊，這在近期上漲後的整理日相當常見。此類交易日往往預示著後續可能延續跌勢或反彈，因此保持紀律、不輕易追價往往是較穩健的做法。",
+    "summary_en": "Major indices slipped modestly today, with the NASDAQ underperforming the S&P 500, suggesting a mild pullback in growth and tech-heavy names rather than a broad risk-off move. Without a decisive catalyst, trading stayed range-bound. This kind of quiet, mixed session is common between larger market-moving events like earnings or Fed announcements.",
+    "summary_zh": "今日大市溫和回落，納斯達克指數跌幅大於標普500指數，反映科技及成長股略為承壓，而非全面避險拋售。市場缺乏明確催化劑，交投於區間內遊走。這類淡靜、方向不明的交易日在重大事件（如業績公布或聯儲局議息）之間頗為常見。",
     "sources": []
   },
   "trades": [],
