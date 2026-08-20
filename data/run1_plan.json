@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-20T13:00:50.899774+00:00",
+  "saved_at": "2026-08-20T14:00:45.096214+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.2%) with no clear directional signal. Cash on hand ($289.29) is below the $500 threshold needed for a new position, so we're holding all 7 existing positions and waiting for a genuine risk-on setup rather than forcing a trade.",
+    "skip_new_buys": false,
+    "briefing": "Markets were neutral today, with NASDAQ down 0.6% and the S&P 500 down 0.3% \u2014 no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, and per past lessons we don't force buys into open slots on a neutral day, so we're holding all 7 positions unchanged and waiting for a genuine risk-on setup.",
     "market_education": {
-      "summary_en": "Both the NASDAQ and S&P 500 posted only marginal gains of about 0.2% today, reflecting a lack of strong catalysts to push the market decisively in either direction. In quiet, low-volatility sessions like this, institutional participation tends to be thin, which is why momentum signals across the screener were mixed rather than uniformly bullish. With no major economic data or earnings surprises driving flows, the market essentially treaded water.",
-      "summary_zh": "\u7d0d\u6307\u53ca\u6a19\u666e500\u6307\u6578\u4eca\u65e5\u50c5\u5fae\u5347\u7d040.2%\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u65b9\u5411\u6027\u8d70\u52e2\u3002\u5728\u9019\u7a2e\u6ce2\u52d5\u6027\u504f\u4f4e\u7684\u4ea4\u6613\u65e5\uff0c\u6a5f\u69cb\u8cc7\u91d1\u53c3\u8207\u5ea6\u666e\u904d\u8f03\u5f31\uff0c\u56e0\u6b64\u7be9\u9078\u540d\u55ae\u4e0a\u7684\u52d5\u80fd\u8a0a\u865f\u4e5f\u986f\u5f97\u53c3\u5dee\u4e0d\u9f4a\uff0c\u800c\u975e\u4e00\u81f4\u770b\u6f32\u3002\u7531\u65bc\u6c92\u6709\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u610f\u5916\u62c9\u52d5\u8cc7\u91d1\u6d41\u5411\uff0c\u5927\u5e02\u57fa\u672c\u4e0a\u539f\u5730\u8e0f\u6b65\u3002",
+      "summary_en": "Both major indices drifted slightly lower today in a quiet, directionless session, with NASDAQ -0.6% and the S&P 500 -0.3%. There was no strong catalyst pushing markets meaningfully in either direction, which is typical of consolidation phases after recent moves. Days like this often see institutional investors sit on the sidelines waiting for clearer signals before committing new capital.",
+      "summary_zh": "\u4eca\u65e5\u5169\u5927\u6307\u6578\u7686\u5c0f\u5e45\u4e0b\u8dcc\uff0c\u8d70\u52e2\u5e73\u6de1\u7f3a\u4e4f\u65b9\u5411\uff0c\u7d0d\u65af\u9054\u514b\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u4e0b\u8dcc0.3%\u3002\u5e02\u5834\u4e26\u7121\u660e\u986f\u50ac\u5316\u5291\u63a8\u52d5\u5927\u5e45\u6ce2\u52d5\uff0c\u9019\u7a2e\u60c5\u6cc1\u5728\u8fd1\u671f\u8d70\u52e2\u904e\u5f8c\u7684\u6574\u7406\u968e\u6bb5\u76f8\u7576\u5e38\u898b\u3002\u9019\u985e\u4ea4\u6613\u65e5\u4e2d\uff0c\u6a5f\u69cb\u6295\u8cc7\u8005\u901a\u5e38\u6703\u9078\u64c7\u89c0\u671b\uff0c\u5f85\u8a0a\u865f\u66f4\u660e\u78ba\u5f8c\u624d\u6703\u6295\u5165\u65b0\u8cc7\u91d1\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today our available cash sits below the minimum needed to open a new position, and the market gave no strong signal anyway \u2014 so the disciplined move is to hold that cash rather than force a trade.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u7684\u662f\u9810\u7559\u5728\u5834\u908a\u3001\u7b49\u5f85\u6642\u6a5f\u51fa\u624b\u7684\u73fe\u91d1\u3002\u4eca\u65e5\u53ef\u7528\u73fe\u91d1\u672a\u9054\u958b\u65b0\u5009\u6240\u9700\u7684\u6700\u4f4e\u9580\u6abb\uff0c\u52a0\u4e0a\u5e02\u5834\u4ea6\u672a\u91cb\u51fa\u660e\u78ba\u8a0a\u865f\uff0c\u56e0\u6b64\u7d00\u5f8b\u7684\u505a\u6cd5\u662f\u7e7c\u7e8c\u6301\u6709\u73fe\u91d1\uff0c\u800c\u975e\u52c9\u5f37\u4ea4\u6613\u3002"
+      "term": "Patience",
+      "explanation_en": "Patience means resisting the urge to trade just because cash or open slots are available. On neutral days without strong bullish signals, holding cash and waiting for a genuine opportunity often protects returns better than forcing a trade.",
+      "explanation_zh": "\u8010\u5fc3\u662f\u6307\u4e0d\u56e0\u70ba\u624b\u4e0a\u6709\u73fe\u91d1\u6216\u7a7a\u9918\u5009\u4f4d\uff0c\u5c31\u6025\u65bc\u9032\u5834\u4ea4\u6613\u3002\u5728\u7f3a\u4e4f\u5f37\u70c8\u770b\u6f32\u8a0a\u865f\u7684\u4e2d\u6027\u4ea4\u6613\u65e5\uff0c\u6301\u6709\u73fe\u91d1\u4e26\u8010\u5fc3\u7b49\u5f85\u771f\u6b63\u7684\u6a5f\u6703\uff0c\u5f80\u5f80\u6bd4\u52c9\u5f37\u9032\u5834\u66f4\u80fd\u4fdd\u8b77\u6295\u8cc7\u5831\u916c\u3002"
     }
   }
 }
