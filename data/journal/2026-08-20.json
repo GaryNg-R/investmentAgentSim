@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-20",
+  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.2%) with no clear directional signal. Cash on hand ($289.29) is below the $500 threshold needed for a new position, so we're holding all 7 existing positions and waiting for a genuine risk-on setup rather than forcing a trade.",
+  "daily_lesson": {
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today our available cash sits below the minimum needed to open a new position, and the market gave no strong signal anyway — so the disciplined move is to hold that cash rather than force a trade.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是預留在場邊、等待時機出手的現金。今日可用現金未達開新倉所需的最低門檻，加上市場亦未釋出明確訊號，因此紀律的做法是繼續持有現金，而非勉強交易。"
+  },
+  "market_education": {
+    "summary_en": "Both the NASDAQ and S&P 500 posted only marginal gains of about 0.2% today, reflecting a lack of strong catalysts to push the market decisively in either direction. In quiet, low-volatility sessions like this, institutional participation tends to be thin, which is why momentum signals across the screener were mixed rather than uniformly bullish. With no major economic data or earnings surprises driving flows, the market essentially treaded water.",
+    "summary_zh": "納指及標普500指數今日僅微升約0.2%，市場缺乏明顯的催化因素帶動方向性走勢。在這種波動性偏低的交易日，機構資金參與度普遍較弱，因此篩選名單上的動能訊號也顯得參差不齊，而非一致看漲。由於沒有重大經濟數據或業績意外拉動資金流向，大市基本上原地踏步。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13855.735246181488,
+    "cash": 289.2850012779236,
+    "pnl_dollar": 3855.735246181488,
+    "pnl_pct": 38.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
