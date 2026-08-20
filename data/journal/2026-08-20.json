@@ -1,14 +1,14 @@
 {
   "date": "2026-08-20",
-  "briefing": "Markets were neutral today (NASDAQ -0.6%, S&P 500 -0.2%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, so per past lessons we held rather than forcing a buy into open slots — waiting for a genuine risk-on setup with multi-signal confirmation.",
+  "briefing": "Markets were neutral today (NASDAQ -0.9%, S&P500 -0.4%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 buy threshold, so no new positions were opened; existing holdings were left untouched to let stop-loss and profit targets work automatically.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A risk-off stance means choosing to hold cash or existing positions rather than initiating new trades when market signals are weak or mixed. It's not about being fearful — it's about waiting for stronger confirmation before committing more capital, which helps avoid low-quality entries.",
-    "explanation_zh": "「風險規避」（Risk-Off）指在市場訊號疲弱或混亂時，選擇持有現金或維持現有倉位，而非貿然開新倉。這並非因為恐懼，而是耐心等待更強的確認訊號才動用資金，有助避免質素欠佳的入市時機。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" means keeping cash available instead of investing it immediately, so you can act decisively when a strong opportunity appears. On a neutral day like today, with cash below the position-sizing threshold anyway, holding rather than forcing a trade preserves flexibility for a clearer setup.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指保留現金而非立即全數投入，以便在真正出現強烈機會時能果斷行動。像今天這種中性交易日，加上現金本就低於建倉門檻，選擇持有而非勉強交易，能保留應對更明確買入時機的彈性。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 drifted slightly lower today in quiet, directionless trading, with no major catalyst driving the move. Volume and volatility stayed muted, consistent with a market in a holding pattern rather than reacting to new information. This kind of low-conviction session is typically better spent preserving capital than chasing marginal setups.",
-    "summary_zh": "今日納指及標普500指數均輕微回落，市況缺乏明確方向及重大催化因素。成交量及波幅均維持平淡，反映市場處於觀望狀態，而非對新消息作出反應。這類缺乏信念的交易日，保留資金往往比追逐邊際機會更為明智。",
+    "summary_en": "Both major indices drifted lower today in a broad, low-conviction pullback rather than a sharp selloff tied to any single catalyst. Without a clear risk-on or risk-off trigger, trading volume and momentum signals across the screened list stayed mixed, which is typical of a consolidation day after recent gains. Days like this often precede either a continuation lower or a bounce, so staying disciplined rather than chasing either direction tends to pay off.",
+    "summary_zh": "今日兩大指數均溫和回落，屬於缺乏單一催化因素的普遍性、低信心度回調，而非急跌。由於沒有明確的風險偏好或避險訊號，篩選名單中的成交量與動能指標普遍呈現參差不齊，這在近期上漲後的整理日相當常見。此類交易日往往預示著後續可能延續跌勢或反彈，因此保持紀律、不輕易追價往往是較穩健的做法。",
     "sources": []
   },
   "trades": [],
