@@ -1,14 +1,14 @@
 {
   "date": "2026-08-21",
-  "briefing": "Markets were risk-off today with NASDAQ down 1.0% and the S&P 500 down 0.9%, and no new candidates cleared the screen. We're holding all 7 existing positions unchanged and keeping the remaining cash in reserve rather than forcing a buy into a weak tape.",
+  "briefing": "Markets were flat today (NASDAQ +0.1%, S&P 500 +0.3%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, so no new positions were added, and existing holdings were left to run per their stop-loss and profit-target rules.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like stocks and move toward safer holdings, often causing indices like the NASDAQ and S&P 500 to fall together. The best response as a long-term investor is usually to avoid chasing new positions into the weakness and let existing holdings' stop-losses and profit targets do their job.",
-    "explanation_zh": "「避險」（Risk-Off）指投資者普遍拋售股票等高風險資產，轉投更安全的資產，令納斯達克及標普500等指數同步下跌。作為長線投資者，最佳做法通常是避免在弱勢中追買新倉位，並讓現有持倉的止蝕及止賺機制自動發揮作用。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears rather than being spent just to stay fully invested. On a neutral day like today, holding cash below the deployment threshold and waiting for a clearer signal is a disciplined choice, not a missed opportunity.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是投資人保留在場邊的現金，等待真正具吸引力的機會出現時才出手，而不是為了滿倉而勉強進場。像今天這種中性盤況，現金未達動用門檻時選擇持有觀望，是紀律的表現，而非錯失良機。"
   },
   "market_education": {
-    "summary_en": "Broad-based selling pushed both the NASDAQ and S&P 500 lower today, with tech-heavy names leading the decline as investors rotated away from risk assets. No single catalyst headline is available in today's data feed, but the pattern is consistent with a broader risk-off shift across major indices. With momentum turning negative, the stock screener returned no qualifying buy candidates.",
-    "summary_zh": "今日大市普遍下跌，納斯達克指數及標普500指數同告收軟，科技股領跌，反映投資者情緒轉為避險。今日數據未提供具體新聞標題作為跌市催化劑，但走勢與大盤風險偏好轉弱的格局一致。由於動能轉弱，選股系統今日未有符合條件的買入標的。",
+    "summary_en": "Major indices traded essentially flat today, with the NASDAQ up just 0.1% and the S&P 500 up 0.3%, reflecting a lack of strong directional catalysts. Without a decisive move in either direction, investors largely stayed on the sidelines rather than chasing new positions. This kind of low-volatility, range-bound session is common between major economic data releases or earnings catalysts.",
+    "summary_zh": "今日大盤走勢平淡，納斯達克指數僅上漲0.1%，標普500指數上漲0.3%，缺乏明顯的方向性催化劑。在市場沒有明確突破的情況下，投資人普遍選擇觀望，而非追高建倉。這種低波動、區間震盪的走勢，在重大經濟數據或財報公布之間相當常見。",
     "sources": []
   },
   "trades": [],
