@@ -1,14 +1,14 @@
 {
   "date": "2026-08-21",
-  "briefing": "Markets were flat today (NASDAQ +0.1%, S&P 500 +0.3%) with no clear risk-on signal. Cash on hand ($289.29) is below the $500 deployment threshold, so no new positions were added, and existing holdings were left to run per their stop-loss and profit-target rules.",
+  "briefing": "Markets were quietly positive today with NASDAQ +0.3% and S&P 500 +0.5% — a neutral, low-conviction session. Cash on hand ($289.29) is below the $500 deployment threshold and today isn't a strong risk-on signal (NASDAQ +2%+), so per past lessons we're holding rather than forcing a buy into open slots. Existing positions are left to run; stop-loss and profit-target rules will handle exits automatically.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears rather than being spent just to stay fully invested. On a neutral day like today, holding cash below the deployment threshold and waiting for a clearer signal is a disciplined choice, not a missed opportunity.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是投資人保留在場邊的現金，等待真正具吸引力的機會出現時才出手，而不是為了滿倉而勉強進場。像今天這種中性盤況，現金未達動用門檻時選擇持有觀望，是紀律的表現，而非錯失良機。"
+    "explanation_en": "Dry powder means keeping cash in reserve instead of investing it immediately, so you have flexibility to act when a stronger opportunity appears. On a quiet, neutral market day like today, holding cash below the deployment threshold isn't wasted — it's positioning to buy more confidently when a real risk-on signal shows up.",
+    "explanation_zh": "「乾火藥」(Dry Powder)指投資者保留現金儲備,不急於全數投入市場,以便在更佳機會出現時保持靈活。像今日這種平靜、方向不明的市況,持有現金並非浪費機會,而是為日後出現明確的風險偏好信號時,能更有信心地加碼進場。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially flat today, with the NASDAQ up just 0.1% and the S&P 500 up 0.3%, reflecting a lack of strong directional catalysts. Without a decisive move in either direction, investors largely stayed on the sidelines rather than chasing new positions. This kind of low-volatility, range-bound session is common between major economic data releases or earnings catalysts.",
-    "summary_zh": "今日大盤走勢平淡，納斯達克指數僅上漲0.1%，標普500指數上漲0.3%，缺乏明顯的方向性催化劑。在市場沒有明確突破的情況下，投資人普遍選擇觀望，而非追高建倉。這種低波動、區間震盪的走勢，在重大經濟數據或財報公布之間相當常見。",
+    "summary_en": "Both major indices posted small gains today, with the S&P 500 slightly outpacing the NASDAQ, suggesting broad but unenthusiastic buying rather than a sector-specific rally. Moves of this size (under 1%) are typically noise-level and don't reflect a major shift in investor sentiment. Without a clear catalyst, this kind of day is best used to observe rather than chase new positions.",
+    "summary_zh": "今日大盤溫和上揚,標普500升幅0.5%,略勝納指的0.3%,反映市場買盤較為廣泛而非集中於個別板塊。此等升幅低於1%,一般屬市場噪音範圍,未必代表投資氣氛出現重大轉變。在缺乏明確催化因素下,今日較適合觀望而非追高進場。",
     "sources": []
   },
   "trades": [],
