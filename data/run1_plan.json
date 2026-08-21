@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-21T20:00:48.287950+00:00",
+  "saved_at": "2026-08-21T21:00:42.017184+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets were flat today with NASDAQ and S&P 500 both up just 0.4%, a neutral signal without a clear risk-on catalyst. Cash on hand ($289.29) is below the $500 deployment threshold, so per past lessons we're holding all 7 positions and waiting for a stronger multi-signal setup rather than forcing a trade.",
+    "briefing": "Markets were flat today with NASDAQ and S&P 500 both up +0.4% \u2014 a neutral, low-conviction session. Cash on hand ($289.29) is below the $500 deployment threshold, so per prior lessons we held rather than forcing a buy; existing 7 positions remain untouched.",
     "market_education": {
-      "summary_en": "Both major indices posted modest, roughly equal gains of 0.4%, indicating broad but unenthusiastic buying across sectors rather than a decisive move in either direction. No dominant news catalyst distinguished today's session from typical low-volatility trading. With no strong divergence between growth and value indices, there was little signal to justify aggressive new positioning.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8868\u73fe\u6eab\u548c\uff0c\u7d0d\u6307\u8207\u6a19\u666e500\u540c\u6b65\u4e0a\u53470.4%\uff0c\u53cd\u6620\u5e02\u5834\u8cb7\u76e4\u5206\u6563\u4f46\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u4eca\u65e5\u672a\u898b\u4e3b\u5c0e\u6027\u7684\u65b0\u805e\u50ac\u5316\u5291\uff0c\u5c6c\u65bc\u5178\u578b\u7684\u4f4e\u6ce2\u52d5\u4ea4\u6613\u65e5\u3002\u7531\u65bc\u589e\u9577\u80a1\u8207\u50f9\u503c\u80a1\u4e4b\u9593\u672a\u898b\u660e\u986f\u5206\u5316\uff0c\u66ab\u6642\u672a\u6709\u8db3\u5920\u8a0a\u865f\u652f\u6301\u7a4d\u6975\u52a0\u5009\u3002",
+      "summary_en": "Broad indices drifted modestly higher today with NASDAQ and S&P 500 both up around 0.4%, reflecting a lack of strong directional catalysts. Without a clear risk-on signal (like a 2%+ NASDAQ move) or high-conviction multi-signal setup, the prudent move is to stay patient rather than chase marginal gains. This kind of low-volatility grind is common between major economic data releases or earnings catalysts.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53ca\u6a19\u666e500\u6307\u6578\u5747\u4e0a\u5347\u7d040.4%\uff0c\u986f\u793a\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u5728\u6c92\u6709\u5f37\u70c8\u98a8\u96aa\u504f\u597d\u8a0a\u865f\uff08\u4f8b\u5982\u7d0d\u6307\u55ae\u65e5\u5347\u5e45\u8d85\u904e2%\uff09\u6216\u591a\u91cd\u6307\u6a19\u5171\u632f\u7684\u9ad8\u4fe1\u5fc3\u8cb7\u5165\u6a5f\u6703\u4e0b\uff0c\u4fdd\u6301\u8010\u5fc3\u89c0\u671b\u662f\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u7684\u6574\u56fa\u8d70\u52e2\u5728\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u516c\u5e03\u4e4b\u9593\u9817\u70ba\u5e38\u898b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Patience (Holding Pattern)",
-      "explanation_en": "Not every day requires action \u2014 when cash is limited and the market shows no strong directional signal, the disciplined move is to hold existing positions and wait for a genuine setup rather than forcing a trade just to feel productive.",
-      "explanation_zh": "\u4e26\u975e\u6bcf\u5929\u90fd\u9700\u8981\u63a1\u53d6\u884c\u52d5\u2014\u2014\u7576\u73fe\u91d1\u6709\u9650\u4e14\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6642\uff0c\u7d00\u5f8b\u6027\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u5009\u4f4d\uff0c\u8010\u5fc3\u7b49\u5f85\u771f\u6b63\u6709\u529b\u7684\u5165\u5e02\u8a0a\u865f\uff0c\u800c\u975e\u70ba\u6c42\u300c\u6709\u6240\u4f5c\u70ba\u300d\u800c\u52c9\u5f37\u4ea4\u6613\u3002"
+      "term": "Patience / Cash Discipline",
+      "explanation_en": "Just because you have cash and open slots doesn't mean you should always buy \u2014 on a neutral day with no strong signal, holding cash is a valid decision. This avoids forcing trades into mediocre setups just to feel productive, preserving capital for genuinely strong opportunities.",
+      "explanation_zh": "\u5373\u4f7f\u624b\u4e0a\u6709\u73fe\u91d1\u53ca\u7a7a\u7f6e\u5009\u4f4d\uff0c\u4e5f\u4e0d\u4ee3\u8868\u5fc5\u9808\u7acb\u5373\u8cb7\u5165\u2014\u2014\u5728\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u7684\u4e2d\u6027\u65e5\u5b50\uff0c\u6301\u6709\u73fe\u91d1\u540c\u6a23\u662f\u5408\u7406\u7684\u6c7a\u5b9a\u3002\u9019\u6a23\u53ef\u4ee5\u907f\u514d\u70ba\u4e86\u300c\u6709\u6240\u4f5c\u70ba\u300d\u800c\u52c9\u5f37\u9032\u5834\uff0c\u5c07\u8cc7\u91d1\u7559\u5f85\u771f\u6b63\u5f37\u52c1\u7684\u6a5f\u6703\u51fa\u73fe\u6642\u518d\u90e8\u7f72\u3002"
     }
   }
 }
