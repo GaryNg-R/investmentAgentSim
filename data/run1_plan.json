@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-20T21:00:26.473821+00:00",
+  "saved_at": "2026-08-21T13:00:33.999746+00:00",
   "market_direction": "risk_off",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets pulled back today with NASDAQ -1.0% and S&P 500 -0.9%, putting conditions in risk-off territory. No screened candidates are available, so no new buys are possible; existing positions are held as-is with stop-loss and profit-target rules running automatically.",
+    "briefing": "Markets were risk-off today with NASDAQ down 1.0% and the S&P 500 down 0.9%, and no new candidates cleared the screen. We're holding all 7 existing positions unchanged and keeping the remaining cash in reserve rather than forcing a buy into a weak tape.",
     "market_education": {
-      "summary_en": "Broad indices declined today, with the NASDAQ down 1.0% and the S&P 500 down 0.9%, reflecting a general pullback in risk appetite across equities. No specific news catalyst was provided for today's move. In risk-off conditions like this, it's typical for growth and tech-heavy names to underperform more than the broader market.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u56de\u843d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc1.0%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.9%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u80c3\u7d0d\u8f49\u5f31\u3002\u4eca\u65e5\u4e26\u672a\u6709\u7279\u5b9a\u65b0\u805e\u6d88\u606f\u89f8\u767c\u6b64\u8d70\u52e2\u3002\u5728\u9019\u7a2e\u907f\u96aa\u60c5\u7dd2\u4e3b\u5c0e\u7684\u5e02\u6cc1\u4e0b\uff0c\u79d1\u6280\u53ca\u589e\u9577\u80a1\u4e00\u822c\u8dcc\u5e45\u6703\u8f03\u5927\u76e4\u66f4\u660e\u986f\u3002",
+      "summary_en": "Broad-based selling pushed both the NASDAQ and S&P 500 lower today, with tech-heavy names leading the decline as investors rotated away from risk assets. No single catalyst headline is available in today's data feed, but the pattern is consistent with a broader risk-off shift across major indices. With momentum turning negative, the stock screener returned no qualifying buy candidates.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0b\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53ca\u6a19\u666e500\u6307\u6578\u540c\u544a\u6536\u8edf\uff0c\u79d1\u6280\u80a1\u9818\u8dcc\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u60c5\u7dd2\u8f49\u70ba\u907f\u96aa\u3002\u4eca\u65e5\u6578\u64da\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u4f5c\u70ba\u8dcc\u5e02\u50ac\u5316\u5291\uff0c\u4f46\u8d70\u52e2\u8207\u5927\u76e4\u98a8\u96aa\u504f\u597d\u8f49\u5f31\u7684\u683c\u5c40\u4e00\u81f4\u3002\u7531\u65bc\u52d5\u80fd\u8f49\u5f31\uff0c\u9078\u80a1\u7cfb\u7d71\u4eca\u65e5\u672a\u6709\u7b26\u5408\u689d\u4ef6\u7684\u8cb7\u5165\u6a19\u7684\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like stocks, often moving toward safer holdings like cash or bonds. On days like this, it's usually better to hold your existing positions and avoid chasing new trades, since price moves tend to be driven by sentiment rather than company-specific strength.",
-      "explanation_zh": "\u300c\u907f\u96aa\u300d\uff08Risk-Off\uff09\u6307\u6295\u8cc7\u8005\u666e\u904d\u6e1b\u6301\u80a1\u7968\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff0c\u8f49\u800c\u6301\u6709\u73fe\u91d1\u6216\u50b5\u5238\u7b49\u8f03\u5b89\u5168\u7684\u8cc7\u7522\u3002\u5728\u9019\u985e\u65e5\u5b50\uff0c\u901a\u5e38\u8f03\u7a69\u59a5\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u5009\u4f4d\uff0c\u907f\u514d\u8ffd\u5165\u65b0\u4ea4\u6613\uff0c\u56e0\u70ba\u80a1\u50f9\u8d70\u52e2\u591a\u7531\u5e02\u5834\u60c5\u7dd2\u4e3b\u5c0e\uff0c\u800c\u975e\u500b\u5225\u516c\u53f8\u7684\u57fa\u672c\u9762\u8f49\u5f37\u3002"
+      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like stocks and move toward safer holdings, often causing indices like the NASDAQ and S&P 500 to fall together. The best response as a long-term investor is usually to avoid chasing new positions into the weakness and let existing holdings' stop-losses and profit targets do their job.",
+      "explanation_zh": "\u300c\u907f\u96aa\u300d\uff08Risk-Off\uff09\u6307\u6295\u8cc7\u8005\u666e\u904d\u62cb\u552e\u80a1\u7968\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u8f49\u6295\u66f4\u5b89\u5168\u7684\u8cc7\u7522\uff0c\u4ee4\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u7b49\u6307\u6578\u540c\u6b65\u4e0b\u8dcc\u3002\u4f5c\u70ba\u9577\u7dda\u6295\u8cc7\u8005\uff0c\u6700\u4f73\u505a\u6cd5\u901a\u5e38\u662f\u907f\u514d\u5728\u5f31\u52e2\u4e2d\u8ffd\u8cb7\u65b0\u5009\u4f4d\uff0c\u4e26\u8b93\u73fe\u6709\u6301\u5009\u7684\u6b62\u8755\u53ca\u6b62\u8cfa\u6a5f\u5236\u81ea\u52d5\u767c\u63ee\u4f5c\u7528\u3002"
     }
   }
 }
