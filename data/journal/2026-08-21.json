@@ -1,14 +1,14 @@
 {
   "date": "2026-08-21",
-  "briefing": "Markets were neutral today with NASDAQ and S&P 500 both up 0.5%, showing no strong risk-on signal. With only $289.29 in cash (below the $500 deployment threshold) and existing positions performing well, we held steady rather than forcing new buys into open slots.",
+  "briefing": "Markets were flat today with NASDAQ and S&P 500 both up just 0.4%, a neutral signal without a clear risk-on catalyst. Cash on hand ($289.29) is below the $500 deployment threshold, so per past lessons we're holding all 7 positions and waiting for a stronger multi-signal setup rather than forcing a trade.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash held in reserve rather than invested, kept ready to deploy when a genuinely attractive opportunity appears. On neutral days like today, disciplined investors resist the urge to force trades just to put idle cash to work, since chasing mediocre setups often leads to worse outcomes than simply waiting.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是投資人保留在手、尚未投入市場的現金，用於等待真正具吸引力的投資機會出現。在像今天這樣市場中性的日子，有紀律的投資人會克制住為了運用閒置資金而勉強進場的衝動，因為追逐平庸的機會往往比耐心等待帶來更差的結果。"
+    "term": "Patience (Holding Pattern)",
+    "explanation_en": "Not every day requires action — when cash is limited and the market shows no strong directional signal, the disciplined move is to hold existing positions and wait for a genuine setup rather than forcing a trade just to feel productive.",
+    "explanation_zh": "並非每天都需要採取行動——當現金有限且市場缺乏明確方向時，紀律性的做法是持有現有倉位，耐心等待真正有力的入市訊號，而非為求「有所作為」而勉強交易。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today, with NASDAQ and S&P 500 each gaining about 0.5% in quiet, low-conviction trading. There was no single dominant catalyst driving the move, consistent with a broadly neutral market tone. Volume and volatility signals were unremarkable, suggesting investors were largely in a wait-and-see posture.",
-    "summary_zh": "今日大盤走勢溫和向上，納斯達克指數與標普500指數皆上升約0.5%，成交氣氛偏向平淡，缺乏明顯的主導因素。市場整體呈現中性格局，成交量與波動指標均無特別異常，反映投資人普遍採取觀望態度。",
+    "summary_en": "Both major indices posted modest, roughly equal gains of 0.4%, indicating broad but unenthusiastic buying across sectors rather than a decisive move in either direction. No dominant news catalyst distinguished today's session from typical low-volatility trading. With no strong divergence between growth and value indices, there was little signal to justify aggressive new positioning.",
+    "summary_zh": "今日大盤表現溫和，納指與標普500同步上升0.4%，反映市場買盤分散但缺乏明確方向。今日未見主導性的新聞催化劑，屬於典型的低波動交易日。由於增長股與價值股之間未見明顯分化，暫時未有足夠訊號支持積極加倉。",
     "sources": []
   },
   "trades": [],

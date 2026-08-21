@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-21T19:00:48.955584+00:00",
+  "saved_at": "2026-08-21T20:00:48.287950+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets were neutral today with NASDAQ and S&P 500 both up 0.5%, showing no strong risk-on signal. With only $289.29 in cash (below the $500 deployment threshold) and existing positions performing well, we held steady rather than forcing new buys into open slots.",
+    "briefing": "Markets were flat today with NASDAQ and S&P 500 both up just 0.4%, a neutral signal without a clear risk-on catalyst. Cash on hand ($289.29) is below the $500 deployment threshold, so per past lessons we're holding all 7 positions and waiting for a stronger multi-signal setup rather than forcing a trade.",
     "market_education": {
-      "summary_en": "Major indices drifted modestly higher today, with NASDAQ and S&P 500 each gaining about 0.5% in quiet, low-conviction trading. There was no single dominant catalyst driving the move, consistent with a broadly neutral market tone. Volume and volatility signals were unremarkable, suggesting investors were largely in a wait-and-see posture.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c\u5411\u4e0a\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8207\u6a19\u666e500\u6307\u6578\u7686\u4e0a\u5347\u7d040.5%\uff0c\u6210\u4ea4\u6c23\u6c1b\u504f\u5411\u5e73\u6de1\uff0c\u7f3a\u4e4f\u660e\u986f\u7684\u4e3b\u5c0e\u56e0\u7d20\u3002\u5e02\u5834\u6574\u9ad4\u5448\u73fe\u4e2d\u6027\u683c\u5c40\uff0c\u6210\u4ea4\u91cf\u8207\u6ce2\u52d5\u6307\u6a19\u5747\u7121\u7279\u5225\u7570\u5e38\uff0c\u53cd\u6620\u6295\u8cc7\u4eba\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002",
+      "summary_en": "Both major indices posted modest, roughly equal gains of 0.4%, indicating broad but unenthusiastic buying across sectors rather than a decisive move in either direction. No dominant news catalyst distinguished today's session from typical low-volatility trading. With no strong divergence between growth and value indices, there was little signal to justify aggressive new positioning.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8868\u73fe\u6eab\u548c\uff0c\u7d0d\u6307\u8207\u6a19\u666e500\u540c\u6b65\u4e0a\u53470.4%\uff0c\u53cd\u6620\u5e02\u5834\u8cb7\u76e4\u5206\u6563\u4f46\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u4eca\u65e5\u672a\u898b\u4e3b\u5c0e\u6027\u7684\u65b0\u805e\u50ac\u5316\u5291\uff0c\u5c6c\u65bc\u5178\u578b\u7684\u4f4e\u6ce2\u52d5\u4ea4\u6613\u65e5\u3002\u7531\u65bc\u589e\u9577\u80a1\u8207\u50f9\u503c\u80a1\u4e4b\u9593\u672a\u898b\u660e\u986f\u5206\u5316\uff0c\u66ab\u6642\u672a\u6709\u8db3\u5920\u8a0a\u865f\u652f\u6301\u7a4d\u6975\u52a0\u5009\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "\"Dry powder\" refers to cash held in reserve rather than invested, kept ready to deploy when a genuinely attractive opportunity appears. On neutral days like today, disciplined investors resist the urge to force trades just to put idle cash to work, since chasing mediocre setups often leads to worse outcomes than simply waiting.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u7684\u662f\u6295\u8cc7\u4eba\u4fdd\u7559\u5728\u624b\u3001\u5c1a\u672a\u6295\u5165\u5e02\u5834\u7684\u73fe\u91d1\uff0c\u7528\u65bc\u7b49\u5f85\u771f\u6b63\u5177\u5438\u5f15\u529b\u7684\u6295\u8cc7\u6a5f\u6703\u51fa\u73fe\u3002\u5728\u50cf\u4eca\u5929\u9019\u6a23\u5e02\u5834\u4e2d\u6027\u7684\u65e5\u5b50\uff0c\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u4eba\u6703\u514b\u5236\u4f4f\u70ba\u4e86\u904b\u7528\u9592\u7f6e\u8cc7\u91d1\u800c\u52c9\u5f37\u9032\u5834\u7684\u885d\u52d5\uff0c\u56e0\u70ba\u8ffd\u9010\u5e73\u5eb8\u7684\u6a5f\u6703\u5f80\u5f80\u6bd4\u8010\u5fc3\u7b49\u5f85\u5e36\u4f86\u66f4\u5dee\u7684\u7d50\u679c\u3002"
+      "term": "Patience (Holding Pattern)",
+      "explanation_en": "Not every day requires action \u2014 when cash is limited and the market shows no strong directional signal, the disciplined move is to hold existing positions and wait for a genuine setup rather than forcing a trade just to feel productive.",
+      "explanation_zh": "\u4e26\u975e\u6bcf\u5929\u90fd\u9700\u8981\u63a1\u53d6\u884c\u52d5\u2014\u2014\u7576\u73fe\u91d1\u6709\u9650\u4e14\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6642\uff0c\u7d00\u5f8b\u6027\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u5009\u4f4d\uff0c\u8010\u5fc3\u7b49\u5f85\u771f\u6b63\u6709\u529b\u7684\u5165\u5e02\u8a0a\u865f\uff0c\u800c\u975e\u70ba\u6c42\u300c\u6709\u6240\u4f5c\u70ba\u300d\u800c\u52c9\u5f37\u4ea4\u6613\u3002"
     }
   }
 }
