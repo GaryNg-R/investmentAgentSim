@@ -1,14 +1,14 @@
 {
   "date": "2026-08-21",
-  "briefing": "NASDAQ and S&P 500 both ticked up +0.4% today — a neutral, low-conviction session. With cash at $289.29 (below the $500 buy threshold) and no strong risk-on signal, we're holding all 7 positions and keeping the 3 open slots in reserve rather than forcing a trade.",
+  "briefing": "Markets were neutral today with NASDAQ and S&P 500 both up 0.5%, showing no strong risk-on signal. With only $289.29 in cash (below the $500 deployment threshold) and existing positions performing well, we held steady rather than forcing new buys into open slots.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. Holding cash on a quiet, neutral day instead of forcing a trade isn't inaction — it's discipline that preserves capital for higher-conviction setups.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、隨時可動用的現金。在市況平淡的日子裡按兵不動、不勉強交易，並非消極，而是一種紀律，讓資金留待更高勝算的機會出現時再出手。"
+    "explanation_en": "\"Dry powder\" refers to cash held in reserve rather than invested, kept ready to deploy when a genuinely attractive opportunity appears. On neutral days like today, disciplined investors resist the urge to force trades just to put idle cash to work, since chasing mediocre setups often leads to worse outcomes than simply waiting.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是投資人保留在手、尚未投入市場的現金，用於等待真正具吸引力的投資機會出現。在像今天這樣市場中性的日子，有紀律的投資人會克制住為了運用閒置資金而勉強進場的衝動，因為追逐平庸的機會往往比耐心等待帶來更差的結果。"
   },
   "market_education": {
-    "summary_en": "Markets drifted modestly higher today, with both the NASDAQ and S&P 500 up 0.4%, reflecting a lack of strong catalysts in either direction. Trading stayed range-bound as investors awaited clearer signals before committing new capital. This kind of low-volatility, low-volume drift is typical of consolidation phases between bigger moves.",
-    "summary_zh": "今日大市走勢平穩，納指及標普500指數同步上升0.4%，市場缺乏明顯的方向性催化劑。投資者在等待更清晰的訊號之前，普遍採取觀望態度，成交量亦相對溫和。這種低波動、低成交的格局，通常是大行情之間的整固階段。",
+    "summary_en": "Major indices drifted modestly higher today, with NASDAQ and S&P 500 each gaining about 0.5% in quiet, low-conviction trading. There was no single dominant catalyst driving the move, consistent with a broadly neutral market tone. Volume and volatility signals were unremarkable, suggesting investors were largely in a wait-and-see posture.",
+    "summary_zh": "今日大盤走勢溫和向上，納斯達克指數與標普500指數皆上升約0.5%，成交氣氛偏向平淡，缺乏明顯的主導因素。市場整體呈現中性格局，成交量與波動指標均無特別異常，反映投資人普遍採取觀望態度。",
     "sources": []
   },
   "trades": [],
