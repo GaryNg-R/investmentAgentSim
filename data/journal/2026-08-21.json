@@ -1,14 +1,14 @@
 {
   "date": "2026-08-21",
-  "briefing": "Markets were mildly risk-on today with NASDAQ +0.6% and S&P 500 +0.5%, but the signal wasn't strong enough to warrant new buys. Cash on hand ($289.29) is below the $500 threshold for deploying into new positions, so we're holding the current 7-position portfolio and letting existing profit targets and stop-losses do their job.",
+  "briefing": "NASDAQ and S&P 500 both ticked up +0.4% today — a neutral, low-conviction session. With cash at $289.29 (below the $500 buy threshold) and no strong risk-on signal, we're holding all 7 positions and keeping the 3 open slots in reserve rather than forcing a trade.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today's cash balance was below the threshold needed for a meaningful new position, so holding that cash in reserve — rather than forcing a small, low-conviction buy — preserves flexibility for a better setup later.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是暫時持有、等待良好時機才動用的現金。今日現金餘額未達到建立有意義新倉位的門檻，與其勉強買入信心不足的小額部位，不如保留現金彈性，等待更明確的進場機會。"
+    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. Holding cash on a quiet, neutral day instead of forcing a trade isn't inaction — it's discipline that preserves capital for higher-conviction setups.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、隨時可動用的現金。在市況平淡的日子裡按兵不動、不勉強交易，並非消極，而是一種紀律，讓資金留待更高勝算的機會出現時再出手。"
   },
   "market_education": {
-    "summary_en": "Broad indices posted modest gains today, with the NASDAQ up 0.6% and the S&P 500 up 0.5%, reflecting a mildly constructive but not decisive risk-on tone. Without a sharper move or high-conviction multi-signal setup among screened candidates, there wasn't a clear catalyst to justify committing fresh capital. The portfolio remains well-positioned with gains intact across its existing holdings.",
-    "summary_zh": "今日大盤溫和上揚，納斯達克指數上升0.6%，標普500指數上升0.5%，市場氣氛偏向溫和的風險偏好，但力度不足以構成明確的進場訊號。由於篩選名單中未出現足夠強烈的多重訊號組合，暫時沒有充分理由投入新資金。現有持倉表現穩健，維持不動為宜。",
+    "summary_en": "Markets drifted modestly higher today, with both the NASDAQ and S&P 500 up 0.4%, reflecting a lack of strong catalysts in either direction. Trading stayed range-bound as investors awaited clearer signals before committing new capital. This kind of low-volatility, low-volume drift is typical of consolidation phases between bigger moves.",
+    "summary_zh": "今日大市走勢平穩，納指及標普500指數同步上升0.4%，市場缺乏明顯的方向性催化劑。投資者在等待更清晰的訊號之前，普遍採取觀望態度，成交量亦相對溫和。這種低波動、低成交的格局，通常是大行情之間的整固階段。",
     "sources": []
   },
   "trades": [],
