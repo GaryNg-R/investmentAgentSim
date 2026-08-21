@@ -1,14 +1,14 @@
 {
   "date": "2026-08-21",
-  "briefing": "Markets were quietly positive today with NASDAQ +0.3% and S&P 500 +0.5% — a neutral, low-conviction session. Cash on hand ($289.29) is below the $500 deployment threshold and today isn't a strong risk-on signal (NASDAQ +2%+), so per past lessons we're holding rather than forcing a buy into open slots. Existing positions are left to run; stop-loss and profit-target rules will handle exits automatically.",
+  "briefing": "NASDAQ +0.7% and S&P 500 +0.6% is a mild risk-on day, not the strong signal (+2%+) that has historically justified deploying cash. With only $289.29 in cash — below the $500 threshold — and no urgent setup among candidates, we're holding all 7 positions and waiting for a clearer risk-on confirmation before adding anything new.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder means keeping cash in reserve instead of investing it immediately, so you have flexibility to act when a stronger opportunity appears. On a quiet, neutral market day like today, holding cash below the deployment threshold isn't wasted — it's positioning to buy more confidently when a real risk-on signal shows up.",
-    "explanation_zh": "「乾火藥」(Dry Powder)指投資者保留現金儲備,不急於全數投入市場,以便在更佳機會出現時保持靈活。像今日這種平靜、方向不明的市況,持有現金並非浪費機會,而是為日後出現明確的風險偏好信號時,能更有信心地加碼進場。"
+    "term": "FOMO (Fear of Missing Out)",
+    "explanation_en": "FOMO is the urge to buy just because you have open slots or idle cash, even when market signals aren't strong enough to justify it. Disciplined investors wait for genuine confirmation — like a sharp risk-on move — rather than forcing trades to feel productive.",
+    "explanation_zh": "FOMO（錯失恐懼症）是指僅因為還有空餘倉位或閒置現金，就急於進場買入，即使市場訊號並不足以支持這個決定。有紀律的投資人會等待真正明確的訊號（例如強勁的風險偏好走勢），而不是為了「有動作」而勉強交易。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted small gains today, with the S&P 500 slightly outpacing the NASDAQ, suggesting broad but unenthusiastic buying rather than a sector-specific rally. Moves of this size (under 1%) are typically noise-level and don't reflect a major shift in investor sentiment. Without a clear catalyst, this kind of day is best used to observe rather than chase new positions.",
-    "summary_zh": "今日大盤溫和上揚,標普500升幅0.5%,略勝納指的0.3%,反映市場買盤較為廣泛而非集中於個別板塊。此等升幅低於1%,一般屬市場噪音範圍,未必代表投資氣氛出現重大轉變。在缺乏明確催化因素下,今日較適合觀望而非追高進場。",
+    "summary_en": "Markets edged higher today with modest gains across major indices, but the move lacked the strength of a decisive risk-on breakout. Without a sharp catalyst, this looks more like continuation drift than a new trend confirmation. We're treating it as a wait-and-see session rather than a buying opportunity.",
+    "summary_zh": "今日大盤小幅走高，主要指數溫和上揚，但升幅未達強力風險偏好（risk-on）的水準。在缺乏明確催化因素的情況下，這較像是延續性的漂移走勢，而非新趨勢的確認。我們將今日視為觀望日，而非進場加碼的時機。",
     "sources": []
   },
   "trades": [],
