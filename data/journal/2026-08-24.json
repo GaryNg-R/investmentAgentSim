@@ -1,14 +1,14 @@
 {
   "date": "2026-08-24",
-  "briefing": "NASDAQ -0.4% and S&P 500 -0.2% today — a neutral, directionless session with no clear risk-on signal. Cash on hand ($389.29) is below the $500 deployment threshold, so per prior lessons we hold rather than force a buy, and we let existing winners run instead of trimming on a quiet day.",
+  "briefing": "Markets were neutral today with NASDAQ down 0.6% and the S&P 500 down 0.3% — no clear risk-on signal. Cash on hand ($389.29) is below the $500 deployment threshold, and per past lessons we don't force buys on neutral days just to fill open slots, so all 7 existing positions are held unchanged while we wait for a genuine risk-on setup.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept in reserve rather than fully invested, so you can act decisively when a strong opportunity appears. Today's cash balance sits below our buy threshold and the market gave no strong risk-on signal, so the disciplined move is to hold that cash rather than force a trade.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指刻意保留現金而非全數投入市場，以便在真正好機會出現時能果斷行動。今日現金餘額未達買入門檻，市場亦未發出明確的風險偏好（risk-on）訊號，因此紀律上應繼續持有現金，而非勉強交易。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors hold back from new bets because market signals aren't clearly bullish or bearish. Even with cash available and open portfolio slots, it's often better to wait for stronger confirmation (like a clear market rally) than to force a trade just to stay 'fully invested'.",
+    "explanation_zh": "「風險趨避」（Risk-Off）是指在市場訊號不夠明確看多或看空時，投資人選擇按兵不動、不貿然進場。即使手上有現金、投資組合也還有空位，等待更明確的訊號（例如市場明顯上漲）通常比為了「用滿資金」而勉強交易更為穩健。"
   },
   "market_education": {
-    "summary_en": "Markets drifted modestly lower today with no dominant catalyst, as both major indices posted small losses in low-conviction trading. Without a clear macro trigger, this looks like consolidation after recent gains rather than the start of a new trend. Traders appear to be waiting on the sidelines for the next earnings or economic data catalyst.",
-    "summary_zh": "今日大市小幅回落，未見明顯主導消息，兩大指數均以低成交量、窄幅波動收於跌勢。在缺乏明確宏觀催化劑的情況下，這較似是近期升勢後的整固，而非新趨勢的開端。市場參與者似乎在等待下一輪業績或經濟數據公佈才會有較明確的方向。",
+    "summary_en": "Both major indices drifted slightly lower today in quiet, directionless trading, with no single catalyst driving the move. Volume and volatility were modest, consistent with a market in a holding pattern rather than reacting to major news. Without a strong risk-on or risk-off signal, it was a day better suited to patience than new positioning.",
+    "summary_zh": "今日大盤走勢平淡，納指下跌0.6%，標普500指數下跌0.3%，並無明顯的單一消息面因素主導市場。成交量與波動度皆屬溫和水平，顯示市場處於觀望整理階段，而非對重大消息作出反應。在缺乏明確的風險偏好或避險訊號下，今日較適合按兵不動，而非貿然新增倉位。",
     "sources": []
   },
   "trades": [],
