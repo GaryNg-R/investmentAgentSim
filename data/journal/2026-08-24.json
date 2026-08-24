@@ -1,14 +1,14 @@
 {
   "date": "2026-08-24",
-  "briefing": "Markets were mildly negative today with NASDAQ -0.8% and S&P 500 -0.3% — a neutral, low-conviction session. Cash on hand ($389.29) is below the $500 threshold for new positions, so per past lessons learned we're holding all 7 existing positions rather than forcing a buy.",
+  "briefing": "Markets drifted slightly lower today (NASDAQ -0.8%, S&P 500 -0.3%) with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy, and letting existing positions ride through this neutral session.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. On neutral days like today, disciplined investors avoid forcing trades just to put cash to work — patience often pays off more than activity.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、待有明確機會時才動用的現金。在像今天這種市況不明朗的日子，有紀律的投資者不會為了「用錢」而勉強落單，耐心等待往往比盲目行動更有回報。"
+    "term": "Cash Discipline",
+    "explanation_en": "Cash discipline means resisting the urge to invest just because you have money sitting idle. On neutral days without strong bullish signals, it's often better to wait for a clearer opportunity than to force a trade that doesn't meet your criteria.",
+    "explanation_zh": "現金紀律是指不因為手頭有閒置資金就急於投資。在市場方向不明、缺乏強烈買入訊號的日子裡，耐心等待更明確的機會，往往勝過勉強進行不符合條件的交易。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted lower today in quiet trading, with the NASDAQ underperforming the S&P 500, suggesting some rotation out of higher-growth names. No major catalyst emerged; this looks like routine consolidation after recent gains rather than a shift in trend.",
-    "summary_zh": "今日大市溫和回落，NASDAQ跌0.8%，標普500跌0.3%，成交淡靜。NASDAQ跌幅較大，反映部分資金從高增長股份中流出，但暫未見重大利淡消息，較似是近期升勢後的整固。",
+    "summary_en": "Both major indices slipped modestly today, with the NASDAQ underperforming the S&P 500, suggesting a mild pullback in growth and tech-heavy names rather than a broad market selloff. There was no single dominant catalyst driving the move, consistent with a low-conviction, directionless trading session. Absent a specific news trigger, this looks like routine profit-taking or consolidation after recent gains.",
+    "summary_zh": "今日兩大指數均小幅下滑，納斯達克跌幅大於標普500，反映科技股及成長股略為疲弱，而非全面性拋售。市場並無明確的單一觸發因素，屬於較低信心、方向不明的交易日，較可能是近期漲勢後的獲利了結或整理階段。",
     "sources": []
   },
   "trades": [],
