@@ -1,14 +1,14 @@
 {
   "date": "2026-08-24",
-  "briefing": "Markets were neutral today — NASDAQ -0.8%, S&P 500 -0.3% — with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per past lessons we're holding dry powder rather than forcing a partial buy, and letting existing positions ride.",
+  "briefing": "Markets drifted slightly lower today (NASDAQ -0.6%, S&P 500 -0.2%) with no clear risk-on or risk-off signal. Cash on hand ($389.29) sits below the $500 threshold needed for a new position, and per past lessons we don't force a buy on a neutral day just to deploy capital — holding all 7 positions and waiting for a genuine setup.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a genuinely attractive opportunity appears, rather than being invested just for the sake of staying fully invested. Today's cash balance was below our buy threshold and the market showed no strong risk-on signal, so holding that cash in reserve is the disciplined choice.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是暫時持有的現金儲備，留待真正吸引的投資機會出現時才動用，而非為了「滿倉」而勉強買入。今日現金水平未達買入門檻，市況亦未見明確的風險偏好訊號，因此保留現金儲備才是有紀律的做法。"
+    "term": "Patience (Cash as a Position)",
+    "explanation_en": "When there's no strong signal and available cash is too small to responsibly size a new position, doing nothing is itself a valid decision. Holding cash isn't wasted capital — it's dry powder waiting for a genuine opportunity, and avoiding a forced trade on a mediocre setup protects you from unnecessary risk.",
+    "explanation_zh": "當市場沒有明顯訊號、可用現金亦不足以穩健建立新倉位時,「按兵不動」本身就是一個合理的決定。持有現金並非浪費資本,而是等待真正機會的「彈藥」;避免在條件一般時勉強交易,有助減少不必要的風險。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ (-0.8%) and S&P 500 (-0.3%) drifted lower today in a mild, broad-based pullback rather than a sharp selloff tied to any single catalyst. Trading stayed range-bound with no strong sector leadership, typical of a consolidation day after recent gains. Without a clear directional signal, this looks more like routine profit-taking and repositioning than the start of a deeper correction.",
-    "summary_zh": "納指今日下跌0.8%，標普500下跌0.3%，屬溫和且普遍性的回調，並非由單一重大事件觸發的急挫。大市維持區間震盪，未見明顯板塊領漲，較似近期升勢過後的整固日。在缺乏明確方向訊號下，今日走勢更像是例行獲利回吐及倉位調整，而非深度調整的開端。",
+    "summary_en": "Major indices saw a mild pullback today, with the S&P 500 down 0.2% and the tech-heavy NASDAQ down 0.6%. There was no single dominant catalyst driving the move — it reads as routine, low-conviction profit-taking after recent gains rather than a shift in market direction. Volume and volatility remained unremarkable, consistent with a neutral trading session.",
+    "summary_zh": "今日主要指數輕微回落,標普500指數下跌0.2%,以科技股為主的納斯達克指數下跌0.6%。市場並無明顯單一催化因素,走勢較似是近期升勢後的例行獲利回吐,而非市場方向的轉變。成交量及波動性均維持平穩,符合中性交投格局。",
     "sources": []
   },
   "trades": [],
