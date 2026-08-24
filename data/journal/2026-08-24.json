@@ -1,14 +1,14 @@
 {
   "date": "2026-08-24",
-  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.6%, S&P 500 -0.2%) with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 threshold needed to responsibly open a new position, so we're holding steady rather than forcing a trade into a neutral tape.",
+  "briefing": "Markets were mildly negative today with NASDAQ -0.8% and S&P 500 -0.3% — a neutral, low-conviction session. Cash on hand ($389.29) is below the $500 threshold for new positions, so per past lessons learned we're holding all 7 existing positions rather than forcing a buy.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today our available cash was below the threshold needed to safely open a new position, and the market gave no strong risk-on signal, so the disciplined choice is to hold that cash rather than force a trade.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、待有明確機會時才動用的現金。今日可用現金未達到安全開新倉的門檻，加上市場亦未發出明確的風險偏好訊號，因此紀律性的做法是保留現金，而非勉強交易。"
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. On neutral days like today, disciplined investors avoid forcing trades just to put cash to work — patience often pays off more than activity.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、待有明確機會時才動用的現金。在像今天這種市況不明朗的日子，有紀律的投資者不會為了「用錢」而勉強落單，耐心等待往往比盲目行動更有回報。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.6% and the S&P 500 down 0.2%, a mild pullback rather than a decisive move in either direction. No major catalysts stood out, consistent with a quiet, low-conviction trading session. Without a strong directional signal, the safer play is to hold existing positions and wait for clearer confirmation before deploying more cash.",
-    "summary_zh": "今日大市略為回軟，納指下跌0.6%，標普500指數下跌0.2%，屬溫和調整而非明確方向性走勢。市場缺乏重大催化因素，符合淡靜、低信心的交易日特徵。在缺乏明確方向信號的情況下，穩健做法是持有現有倉位，待訊號更明確時才部署更多現金。",
+    "summary_en": "Both major indices drifted lower today in quiet trading, with the NASDAQ underperforming the S&P 500, suggesting some rotation out of higher-growth names. No major catalyst emerged; this looks like routine consolidation after recent gains rather than a shift in trend.",
+    "summary_zh": "今日大市溫和回落，NASDAQ跌0.8%，標普500跌0.3%，成交淡靜。NASDAQ跌幅較大，反映部分資金從高增長股份中流出，但暫未見重大利淡消息，較似是近期升勢後的整固。",
     "sources": []
   },
   "trades": [],
