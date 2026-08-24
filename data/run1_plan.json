@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-24T13:00:47.980277+00:00",
+  "saved_at": "2026-08-24T14:00:55.814663+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": false,
-    "briefing": "Markets were flat and directionless today, with NASDAQ and S&P 500 both up just 0.4%. Cash on hand ($289.29) is below the $500 threshold for new buys, so we're holding all 7 existing positions and waiting for a stronger risk-on signal before deploying capital.",
+    "skip_new_buys": true,
+    "briefing": "Markets were neutral today \u2014 NASDAQ -0.8%, S&P 500 -0.3% \u2014 with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per past lessons we're holding dry powder rather than forcing a partial buy, and letting existing positions ride.",
     "market_education": {
-      "summary_en": "Major indices drifted sideways today, with the NASDAQ and S&P 500 each gaining a modest 0.4%. There was no dominant catalyst driving broad market direction, suggesting investors are in a wait-and-see mode. Low-conviction days like this often precede a clearer directional move once new economic data or earnings news arrives.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7a84\u5e45\u4e0a\u843d\uff0c\u7d0d\u6307\u540c\u6a19\u666e500\u6307\u6578\u5206\u5225\u53ea\u53470.4%\uff0c\u5e02\u5834\u6b20\u7f3a\u660e\u986f\u50ac\u5316\u5291\u5e36\u52d5\u65b9\u5411\u3002\u6295\u8cc7\u8005\u666e\u904d\u62b1\u89c0\u671b\u614b\u5ea6\uff0c\u5462\u985e\u4f4e\u6ce2\u52d5\u5605\u4ea4\u6295\u65e5\u5b50\u901a\u5e38\u6703\u55ba\u65b0\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u516c\u5e03\u5f8c\uff0c\u5e36\u569f\u66f4\u660e\u78ba\u5605\u8d70\u52e2\u3002",
+      "summary_en": "Both the NASDAQ (-0.8%) and S&P 500 (-0.3%) drifted lower today in a mild, broad-based pullback rather than a sharp selloff tied to any single catalyst. Trading stayed range-bound with no strong sector leadership, typical of a consolidation day after recent gains. Without a clear directional signal, this looks more like routine profit-taking and repositioning than the start of a deeper correction.",
+      "summary_zh": "\u7d0d\u6307\u4eca\u65e5\u4e0b\u8dcc0.8%\uff0c\u6a19\u666e500\u4e0b\u8dcc0.3%\uff0c\u5c6c\u6eab\u548c\u4e14\u666e\u904d\u6027\u7684\u56de\u8abf\uff0c\u4e26\u975e\u7531\u55ae\u4e00\u91cd\u5927\u4e8b\u4ef6\u89f8\u767c\u7684\u6025\u632b\u3002\u5927\u5e02\u7dad\u6301\u5340\u9593\u9707\u76ea\uff0c\u672a\u898b\u660e\u986f\u677f\u584a\u9818\u6f32\uff0c\u8f03\u4f3c\u8fd1\u671f\u5347\u52e2\u904e\u5f8c\u7684\u6574\u56fa\u65e5\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u8a0a\u865f\u4e0b\uff0c\u4eca\u65e5\u8d70\u52e2\u66f4\u50cf\u662f\u4f8b\u884c\u7372\u5229\u56de\u5410\u53ca\u5009\u4f4d\u8abf\u6574\uff0c\u800c\u975e\u6df1\u5ea6\u8abf\u6574\u7684\u958b\u7aef\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Sideways Market",
-      "explanation_en": "A sideways market is when prices trade in a narrow range without a clear upward or downward trend, often because investors are waiting for new information before committing capital. On days like this, it's usually better to stay patient with existing positions rather than force new trades.",
-      "explanation_zh": "\u6a6b\u884c\u5e02\u4fc2\u6307\u80a1\u50f9\u55ba\u4e00\u500b\u7a84\u5e45\u5340\u9593\u5167\u4e0a\u843d\uff0c\u5187\u660e\u986f\u5347\u8dcc\u8da8\u52e2\uff0c\u901a\u5e38\u56e0\u70ba\u6295\u8cc7\u8005\u55ba\u7b49\u5f85\u65b0\u6d88\u606f\u5148\u6c7a\u5b9a\u9ede\u90e8\u7f72\u8cc7\u91d1\u3002\u5462\u7a2e\u65e5\u5b50\uff0c\u901a\u5e38\u8010\u5fc3\u6301\u6709\u73fe\u6709\u5009\u4f4d\u6703\u597d\u904e\u52c9\u5f37\u958b\u65b0\u5009\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a genuinely attractive opportunity appears, rather than being invested just for the sake of staying fully invested. Today's cash balance was below our buy threshold and the market showed no strong risk-on signal, so holding that cash in reserve is the disciplined choice.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u7684\u662f\u66ab\u6642\u6301\u6709\u7684\u73fe\u91d1\u5132\u5099\uff0c\u7559\u5f85\u771f\u6b63\u5438\u5f15\u7684\u6295\u8cc7\u6a5f\u6703\u51fa\u73fe\u6642\u624d\u52d5\u7528\uff0c\u800c\u975e\u70ba\u4e86\u300c\u6eff\u5009\u300d\u800c\u52c9\u5f37\u8cb7\u5165\u3002\u4eca\u65e5\u73fe\u91d1\u6c34\u5e73\u672a\u9054\u8cb7\u5165\u9580\u6abb\uff0c\u5e02\u6cc1\u4ea6\u672a\u898b\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\uff0c\u56e0\u6b64\u4fdd\u7559\u73fe\u91d1\u5132\u5099\u624d\u662f\u6709\u7d00\u5f8b\u7684\u505a\u6cd5\u3002"
     }
   }
 }
