@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-21T21:00:42.017184+00:00",
+  "saved_at": "2026-08-24T13:00:47.980277+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets were flat today with NASDAQ and S&P 500 both up +0.4% \u2014 a neutral, low-conviction session. Cash on hand ($289.29) is below the $500 deployment threshold, so per prior lessons we held rather than forcing a buy; existing 7 positions remain untouched.",
+    "briefing": "Markets were flat and directionless today, with NASDAQ and S&P 500 both up just 0.4%. Cash on hand ($289.29) is below the $500 threshold for new buys, so we're holding all 7 existing positions and waiting for a stronger risk-on signal before deploying capital.",
     "market_education": {
-      "summary_en": "Broad indices drifted modestly higher today with NASDAQ and S&P 500 both up around 0.4%, reflecting a lack of strong directional catalysts. Without a clear risk-on signal (like a 2%+ NASDAQ move) or high-conviction multi-signal setup, the prudent move is to stay patient rather than chase marginal gains. This kind of low-volatility grind is common between major economic data releases or earnings catalysts.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53ca\u6a19\u666e500\u6307\u6578\u5747\u4e0a\u5347\u7d040.4%\uff0c\u986f\u793a\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u5728\u6c92\u6709\u5f37\u70c8\u98a8\u96aa\u504f\u597d\u8a0a\u865f\uff08\u4f8b\u5982\u7d0d\u6307\u55ae\u65e5\u5347\u5e45\u8d85\u904e2%\uff09\u6216\u591a\u91cd\u6307\u6a19\u5171\u632f\u7684\u9ad8\u4fe1\u5fc3\u8cb7\u5165\u6a5f\u6703\u4e0b\uff0c\u4fdd\u6301\u8010\u5fc3\u89c0\u671b\u662f\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u7684\u6574\u56fa\u8d70\u52e2\u5728\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u516c\u5e03\u4e4b\u9593\u9817\u70ba\u5e38\u898b\u3002",
+      "summary_en": "Major indices drifted sideways today, with the NASDAQ and S&P 500 each gaining a modest 0.4%. There was no dominant catalyst driving broad market direction, suggesting investors are in a wait-and-see mode. Low-conviction days like this often precede a clearer directional move once new economic data or earnings news arrives.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7a84\u5e45\u4e0a\u843d\uff0c\u7d0d\u6307\u540c\u6a19\u666e500\u6307\u6578\u5206\u5225\u53ea\u53470.4%\uff0c\u5e02\u5834\u6b20\u7f3a\u660e\u986f\u50ac\u5316\u5291\u5e36\u52d5\u65b9\u5411\u3002\u6295\u8cc7\u8005\u666e\u904d\u62b1\u89c0\u671b\u614b\u5ea6\uff0c\u5462\u985e\u4f4e\u6ce2\u52d5\u5605\u4ea4\u6295\u65e5\u5b50\u901a\u5e38\u6703\u55ba\u65b0\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u516c\u5e03\u5f8c\uff0c\u5e36\u569f\u66f4\u660e\u78ba\u5605\u8d70\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Patience / Cash Discipline",
-      "explanation_en": "Just because you have cash and open slots doesn't mean you should always buy \u2014 on a neutral day with no strong signal, holding cash is a valid decision. This avoids forcing trades into mediocre setups just to feel productive, preserving capital for genuinely strong opportunities.",
-      "explanation_zh": "\u5373\u4f7f\u624b\u4e0a\u6709\u73fe\u91d1\u53ca\u7a7a\u7f6e\u5009\u4f4d\uff0c\u4e5f\u4e0d\u4ee3\u8868\u5fc5\u9808\u7acb\u5373\u8cb7\u5165\u2014\u2014\u5728\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u7684\u4e2d\u6027\u65e5\u5b50\uff0c\u6301\u6709\u73fe\u91d1\u540c\u6a23\u662f\u5408\u7406\u7684\u6c7a\u5b9a\u3002\u9019\u6a23\u53ef\u4ee5\u907f\u514d\u70ba\u4e86\u300c\u6709\u6240\u4f5c\u70ba\u300d\u800c\u52c9\u5f37\u9032\u5834\uff0c\u5c07\u8cc7\u91d1\u7559\u5f85\u771f\u6b63\u5f37\u52c1\u7684\u6a5f\u6703\u51fa\u73fe\u6642\u518d\u90e8\u7f72\u3002"
+      "term": "Sideways Market",
+      "explanation_en": "A sideways market is when prices trade in a narrow range without a clear upward or downward trend, often because investors are waiting for new information before committing capital. On days like this, it's usually better to stay patient with existing positions rather than force new trades.",
+      "explanation_zh": "\u6a6b\u884c\u5e02\u4fc2\u6307\u80a1\u50f9\u55ba\u4e00\u500b\u7a84\u5e45\u5340\u9593\u5167\u4e0a\u843d\uff0c\u5187\u660e\u986f\u5347\u8dcc\u8da8\u52e2\uff0c\u901a\u5e38\u56e0\u70ba\u6295\u8cc7\u8005\u55ba\u7b49\u5f85\u65b0\u6d88\u606f\u5148\u6c7a\u5b9a\u9ede\u90e8\u7f72\u8cc7\u91d1\u3002\u5462\u7a2e\u65e5\u5b50\uff0c\u901a\u5e38\u8010\u5fc3\u6301\u6709\u73fe\u6709\u5009\u4f4d\u6703\u597d\u904e\u52c9\u5f37\u958b\u65b0\u5009\u3002"
     }
   }
 }
