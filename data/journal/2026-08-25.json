@@ -1,14 +1,14 @@
 {
   "date": "2026-08-25",
-  "briefing": "Markets were quietly mixed today with NASDAQ +0.5% and S&P 500 +0.2% — not the strong risk-on signal needed to deploy new capital. Cash on hand ($389.29) sits below the $500 buy threshold anyway, so we're holding all 7 positions and waiting for a clearer setup rather than forcing a trade.",
+  "briefing": "Markets were quiet today with NASDAQ +0.6% and S&P 500 +0.3% — a neutral session, not a genuine risk-on breakout. With cash at $389.29 (below the $500 deployment threshold) and no strong multi-signal setup emerging among current holdings, we're holding all 7 positions and standing pat rather than forcing a buy.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. Today's cash balance was below the minimum buy threshold and the market showed only neutral momentum, so holding cash rather than forcing a trade preserves flexibility for a better setup.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留在場邊、隨時可動用的現金,以便在真正出現強勢機會時把握時機。今日現金餘額低於最低買入門檻,加上市況僅屬中性,因此保留現金、不勉強交易,能為日後更佳的入市時機保留彈性。"
+    "term": "Patience",
+    "explanation_en": "Patience in trading means not forcing a trade just because you have open slots or want to feel active. Today's cash balance sits just under the $500 deployment threshold on a neutral market day, so the disciplined move is to hold and wait for a clearer, higher-conviction setup rather than chasing a mediocre entry.",
+    "explanation_zh": "交易中的耐性，是指不會單純因為有空置倉位或想「有嘢做」而勉強落單。今日現金餘額剛好低於500美元的部署門檻，而大市又屬中性，因此較穩健的做法是保持耐性，等待更明確、高信心的入市時機，而非勉強買入一般般的機會。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted modestly higher today without a clear catalyst, reflecting a market in wait-and-see mode. With gains under 1% on both NASDAQ and S&P 500, there wasn't enough conviction in either direction to justify new positioning. Days like this are common between larger macro events and are best used to stay patient rather than chase small moves.",
-    "summary_zh": "今日大市溫和上揚,納指升0.5%,標普500升0.2%,沒有明顯的市場催化劑,反映投資者處於觀望狀態。兩大指數升幅均不足1%,方向性不夠明確,不足以支持新增部位。這類淡靜交易日在重大宏觀事件之間頗為常見,最好保持耐性,而非追逐細微波動。",
+    "summary_en": "Both major indices posted modest gains today, with the NASDAQ slightly outpacing the S&P 500, consistent with a mild, broad-based advance rather than a sector-specific rally. No single catalyst stands out from the data available — this looks like routine drift rather than a reaction to major news. Trading volume and momentum signals across the screened list remain mixed, reinforcing a wait-and-see posture.",
+    "summary_zh": "今日大市窄幅上升，納指升0.6%，標普500升0.3%，屬溫和普遍性上揚，並非個別板塊帶動的急升。從現有數據看不到明顯的單一催化因素，較似是例行波動而非重大新聞刺激。篩選名單中的成交量及動能訊號仍然參差，因此維持觀望較為穩健。",
     "sources": []
   },
   "trades": [],
