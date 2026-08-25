@@ -1,14 +1,14 @@
 {
   "date": "2026-08-25",
-  "briefing": "Markets were neutral today with NASDAQ +0.6% and S&P 500 +0.3% — no strong risk-on signal. Cash on hand ($389.29) is below the $500 threshold for deploying into new positions, so we're holding and waiting for a genuine risk-on setup rather than forcing a buy.",
+  "briefing": "Markets were mildly positive today (NASDAQ +0.6%, S&P 500 +0.3%) with no strong risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy into a neutral tape.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to invest when a strong opportunity appears. Today, with cash below the buy threshold and the market only showing neutral momentum, holding that cash reserve rather than forcing a purchase preserves flexibility for a better setup.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、待良機出現時才動用的現金。今日現金未達買入門檻，加上市場僅呈中性動能，保留現金儲備而非勉強買入，可為日後更佳的入市時機保持靈活性。"
+    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Holding cash isn't a failure to act — it's a deliberate choice to wait for higher-conviction setups instead of forcing trades on an average day.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是留在場邊、等待時機的現金部位。持有現金並不代表沒有行動，而是刻意等待更高信心度的進場機會，而不是在平淡的交易日勉強出手。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted modest gains today, with the NASDAQ slightly outperforming the S&P 500, suggesting mild risk appetite without a clear catalyst. Trading volume and momentum signals across the screened list remain mixed, without the broad-based surge that typically accompanies a strong risk-on day. With no major market-moving headlines today, price action reflects incremental positioning rather than a decisive shift in sentiment.",
-    "summary_zh": "今日主要指數溫和上漲，納指升幅略勝標普500，反映市場風險胃納輕微改善但缺乏明確催化劑。篩選名單中的成交量及動能訊號仍然參差，未見強力風險偏好日常見的全面爆發性上升。今日並無重大市場消息，價格走勢更多反映漸進式部署而非情緒的決定性轉變。",
+    "summary_en": "Broad indices drifted modestly higher today, with the NASDAQ outpacing the S&P 500 slightly, but the move lacked the volume and breadth typically seen on strong risk-on days. Without a clear catalyst, the gains reflect steady buying rather than a decisive shift in sentiment. This kind of low-conviction grind is common between major economic data releases or earnings catalysts.",
+    "summary_zh": "今日大盤走勢溫和向上，納斯達克指數升幅略高於標普500指數，但成交量和參與廣度都未達到典型的「風險偏好」交易日水準。在缺乏明確催化劑的情況下，這波漲幅更像是穩定買盤，而非市場情緒的明顯轉向。這種低信心度的緩步上揚，在重大經濟數據或財報公布之間的空檔期相當常見。",
     "sources": []
   },
   "trades": [],
