@@ -1,14 +1,14 @@
 {
   "date": "2026-08-25",
-  "briefing": "Markets were neutral today (NASDAQ -0.8%, S&P 500 -0.3%) with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy into a lukewarm setup — existing positions are left to run and risk controls remain automatic.",
+  "briefing": "Market is neutral today (NASDAQ +0.6%, S&P500 +0.3%) with no strong risk-on signal, and cash on hand ($389.29) is below the $500 deployment threshold. Holding all 7 positions and skipping new buys — waiting for a genuine risk-on setup rather than forcing a trade.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder means keeping cash on hand rather than investing it immediately, so you have capital ready when a clearly attractive opportunity appears. Today's cash balance is below the threshold needed for a new position, so holding it in reserve — instead of forcing a marginal trade — preserves flexibility for a stronger setup.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指保留現金而不急於投資，待出現真正吸引的機會時才動用資金。今日現金水平未達新開倉的門檻，與其勉強做一筆普通的交易，不如保留彈性，留待更佳時機出手。"
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today, with available cash below the buy threshold and the market showing only neutral momentum, holding that cash rather than forcing a trade preserves flexibility for a better setup later.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、待遇上明確機會時才動用的現金。今日可用現金未達買入門檻，加上市場僅呈中性走勢，因此選擇保留現金而非勉強交易，以便日後把握更佳的入市時機。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted slightly lower today in a session without a strong directional catalyst. With NASDAQ down 0.8% and the S&P 500 down 0.3%, the tone was cautious rather than fearful, consistent with a market pausing rather than reversing trend.",
-    "summary_zh": "今日大市走勢偏軟，納指跌0.8%，標普500跌0.3%，未見明顯利淡消息帶動，整體氣氛審慎但未見恐慌，較似是短暫喘定整固，而非趨勢逆轉。",
+    "summary_en": "Major indices drifted modestly higher today, with the NASDAQ outpacing the S&P 500, but the move lacked the breadth or volume conviction of a true risk-on session. Without a clear catalyst, this looks like consolidation after recent gains rather than a fresh leg higher. No specific news headlines were provided for today's session.",
+    "summary_zh": "今日主要指數溫和上揚，納斯達克表現優於標普500指數，但整體升幅缺乏廣度及成交量支持，未見明顯的風險偏好轉強跡象。在缺乏明確催化劑的情況下，市場看似處於近期升勢後的整固階段，而非新一輪上升趨勢的開端。今日交易時段未有提供具體新聞標題。",
     "sources": []
   },
   "trades": [],
