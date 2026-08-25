@@ -1,14 +1,14 @@
 {
   "date": "2026-08-25",
-  "briefing": "Markets were flat today (NASDAQ +0.4%, S&P 500 +0.2%) with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 threshold needed for a meaningful new position, so per the strategy memory lesson from June, we're holding rather than forcing a buy on a neutral day. Existing 7 positions remain untouched — stop-loss and profit-target rules will handle exits automatically.",
+  "briefing": "Markets were neutral today with NASDAQ +0.6% and S&P 500 +0.3% — no strong risk-on signal. Cash on hand ($389.29) is below the $500 threshold for deploying into new positions, so we're holding and waiting for a genuine risk-on setup rather than forcing a buy.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears, rather than being invested just for the sake of staying fully invested. On a neutral day like today, holding cash below the buy threshold and waiting for a clearer signal is a disciplined choice, not inaction.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指保留在場邊的現金，待真正出現強勁機會時才動用，而不是為了「滿倉」而勉強投資。像今天這種市況中性的交易日，持有現金並等待更明確的訊號，是一種紀律性的選擇，而非什麼都不做。"
+    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to invest when a strong opportunity appears. Today, with cash below the buy threshold and the market only showing neutral momentum, holding that cash reserve rather than forcing a purchase preserves flexibility for a better setup.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、待良機出現時才動用的現金。今日現金未達買入門檻，加上市場僅呈中性動能，保留現金儲備而非勉強買入，可為日後更佳的入市時機保持靈活性。"
   },
   "market_education": {
-    "summary_en": "Today's action was muted, with the NASDAQ up just 0.4% and the S&P 500 up 0.2%, reflecting a lack of strong catalysts to push markets decisively in either direction. Without a clear volume surge or broad-based momentum shift, institutional participation appears limited today. This kind of low-conviction, range-bound session is common between major economic data releases or earnings catalysts.",
-    "summary_zh": "今日大市表現平淡，納指僅升0.4%，標普500指數升0.2%，反映市場缺乏明確催化劑帶動方向性走勢。在沒有明顯成交量放大或廣泛動能轉變的情況下,機構資金參與度似乎有限。這種低確信度、區間震盪的交易日在重大經濟數據或業績公佈之間相當常見。",
+    "summary_en": "Both major indices posted modest gains today, with the NASDAQ slightly outperforming the S&P 500, suggesting mild risk appetite without a clear catalyst. Trading volume and momentum signals across the screened list remain mixed, without the broad-based surge that typically accompanies a strong risk-on day. With no major market-moving headlines today, price action reflects incremental positioning rather than a decisive shift in sentiment.",
+    "summary_zh": "今日主要指數溫和上漲，納指升幅略勝標普500，反映市場風險胃納輕微改善但缺乏明確催化劑。篩選名單中的成交量及動能訊號仍然參差，未見強力風險偏好日常見的全面爆發性上升。今日並無重大市場消息，價格走勢更多反映漸進式部署而非情緒的決定性轉變。",
     "sources": []
   },
   "trades": [],
