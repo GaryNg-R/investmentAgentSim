@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-24T21:00:49.693181+00:00",
+  "saved_at": "2026-08-25T13:00:53.453959+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets drifted slightly lower today (NASDAQ -0.8%, S&P 500 -0.3%) with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy, and letting existing positions ride through this neutral session.",
+    "skip_new_buys": false,
+    "briefing": "Markets were neutral today (NASDAQ -0.8%, S&P 500 -0.3%) with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy into a lukewarm setup \u2014 existing positions are left to run and risk controls remain automatic.",
     "market_education": {
-      "summary_en": "Both major indices slipped modestly today, with the NASDAQ underperforming the S&P 500, suggesting a mild pullback in growth and tech-heavy names rather than a broad market selloff. There was no single dominant catalyst driving the move, consistent with a low-conviction, directionless trading session. Absent a specific news trigger, this looks like routine profit-taking or consolidation after recent gains.",
-      "summary_zh": "\u4eca\u65e5\u5169\u5927\u6307\u6578\u5747\u5c0f\u5e45\u4e0b\u6ed1\uff0c\u7d0d\u65af\u9054\u514b\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\uff0c\u53cd\u6620\u79d1\u6280\u80a1\u53ca\u6210\u9577\u80a1\u7565\u70ba\u75b2\u5f31\uff0c\u800c\u975e\u5168\u9762\u6027\u62cb\u552e\u3002\u5e02\u5834\u4e26\u7121\u660e\u78ba\u7684\u55ae\u4e00\u89f8\u767c\u56e0\u7d20\uff0c\u5c6c\u65bc\u8f03\u4f4e\u4fe1\u5fc3\u3001\u65b9\u5411\u4e0d\u660e\u7684\u4ea4\u6613\u65e5\uff0c\u8f03\u53ef\u80fd\u662f\u8fd1\u671f\u6f32\u52e2\u5f8c\u7684\u7372\u5229\u4e86\u7d50\u6216\u6574\u7406\u968e\u6bb5\u3002",
+      "summary_en": "Both major indices drifted slightly lower today in a session without a strong directional catalyst. With NASDAQ down 0.8% and the S&P 500 down 0.3%, the tone was cautious rather than fearful, consistent with a market pausing rather than reversing trend.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u504f\u8edf\uff0c\u7d0d\u6307\u8dcc0.8%\uff0c\u6a19\u666e500\u8dcc0.3%\uff0c\u672a\u898b\u660e\u986f\u5229\u6de1\u6d88\u606f\u5e36\u52d5\uff0c\u6574\u9ad4\u6c23\u6c1b\u5be9\u614e\u4f46\u672a\u898b\u6050\u614c\uff0c\u8f03\u4f3c\u662f\u77ed\u66ab\u5598\u5b9a\u6574\u56fa\uff0c\u800c\u975e\u8da8\u52e2\u9006\u8f49\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Cash Discipline",
-      "explanation_en": "Cash discipline means resisting the urge to invest just because you have money sitting idle. On neutral days without strong bullish signals, it's often better to wait for a clearer opportunity than to force a trade that doesn't meet your criteria.",
-      "explanation_zh": "\u73fe\u91d1\u7d00\u5f8b\u662f\u6307\u4e0d\u56e0\u70ba\u624b\u982d\u6709\u9592\u7f6e\u8cc7\u91d1\u5c31\u6025\u65bc\u6295\u8cc7\u3002\u5728\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u3001\u7f3a\u4e4f\u5f37\u70c8\u8cb7\u5165\u8a0a\u865f\u7684\u65e5\u5b50\u88e1\uff0c\u8010\u5fc3\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u6a5f\u6703\uff0c\u5f80\u5f80\u52dd\u904e\u52c9\u5f37\u9032\u884c\u4e0d\u7b26\u5408\u689d\u4ef6\u7684\u4ea4\u6613\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "Dry powder means keeping cash on hand rather than investing it immediately, so you have capital ready when a clearly attractive opportunity appears. Today's cash balance is below the threshold needed for a new position, so holding it in reserve \u2014 instead of forcing a marginal trade \u2014 preserves flexibility for a stronger setup.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u4fdd\u7559\u73fe\u91d1\u800c\u4e0d\u6025\u65bc\u6295\u8cc7\uff0c\u5f85\u51fa\u73fe\u771f\u6b63\u5438\u5f15\u7684\u6a5f\u6703\u6642\u624d\u52d5\u7528\u8cc7\u91d1\u3002\u4eca\u65e5\u73fe\u91d1\u6c34\u5e73\u672a\u9054\u65b0\u958b\u5009\u7684\u9580\u6abb\uff0c\u8207\u5176\u52c9\u5f37\u505a\u4e00\u7b46\u666e\u901a\u7684\u4ea4\u6613\uff0c\u4e0d\u5982\u4fdd\u7559\u5f48\u6027\uff0c\u7559\u5f85\u66f4\u4f73\u6642\u6a5f\u51fa\u624b\u3002"
     }
   }
 }

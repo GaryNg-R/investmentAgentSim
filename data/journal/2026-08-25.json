@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-25",
+  "briefing": "Markets were neutral today (NASDAQ -0.8%, S&P 500 -0.3%) with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy into a lukewarm setup — existing positions are left to run and risk controls remain automatic.",
+  "daily_lesson": {
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder means keeping cash on hand rather than investing it immediately, so you have capital ready when a clearly attractive opportunity appears. Today's cash balance is below the threshold needed for a new position, so holding it in reserve — instead of forcing a marginal trade — preserves flexibility for a stronger setup.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指保留現金而不急於投資，待出現真正吸引的機會時才動用資金。今日現金水平未達新開倉的門檻，與其勉強做一筆普通的交易，不如保留彈性，留待更佳時機出手。"
+  },
+  "market_education": {
+    "summary_en": "Both major indices drifted slightly lower today in a session without a strong directional catalyst. With NASDAQ down 0.8% and the S&P 500 down 0.3%, the tone was cautious rather than fearful, consistent with a market pausing rather than reversing trend.",
+    "summary_zh": "今日大市走勢偏軟，納指跌0.8%，標普500跌0.3%，未見明顯利淡消息帶動，整體氣氛審慎但未見恐慌，較似是短暫喘定整固，而非趨勢逆轉。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13955.735246181488,
+    "cash": 389.2850012779236,
+    "pnl_dollar": 3955.735246181488,
+    "pnl_pct": 39.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
