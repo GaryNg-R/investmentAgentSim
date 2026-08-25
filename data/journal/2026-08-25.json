@@ -1,14 +1,14 @@
 {
   "date": "2026-08-25",
-  "briefing": "Markets were mildly positive today (NASDAQ +0.6%, S&P 500 +0.3%) with no strong risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy into a neutral tape.",
+  "briefing": "Markets were quietly mixed today with NASDAQ +0.5% and S&P 500 +0.2% — not the strong risk-on signal needed to deploy new capital. Cash on hand ($389.29) sits below the $500 buy threshold anyway, so we're holding all 7 positions and waiting for a clearer setup rather than forcing a trade.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Holding cash isn't a failure to act — it's a deliberate choice to wait for higher-conviction setups instead of forcing trades on an average day.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是留在場邊、等待時機的現金部位。持有現金並不代表沒有行動，而是刻意等待更高信心度的進場機會，而不是在平淡的交易日勉強出手。"
+    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. Today's cash balance was below the minimum buy threshold and the market showed only neutral momentum, so holding cash rather than forcing a trade preserves flexibility for a better setup.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者保留在場邊、隨時可動用的現金,以便在真正出現強勢機會時把握時機。今日現金餘額低於最低買入門檻,加上市況僅屬中性,因此保留現金、不勉強交易,能為日後更佳的入市時機保留彈性。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted modestly higher today, with the NASDAQ outpacing the S&P 500 slightly, but the move lacked the volume and breadth typically seen on strong risk-on days. Without a clear catalyst, the gains reflect steady buying rather than a decisive shift in sentiment. This kind of low-conviction grind is common between major economic data releases or earnings catalysts.",
-    "summary_zh": "今日大盤走勢溫和向上，納斯達克指數升幅略高於標普500指數，但成交量和參與廣度都未達到典型的「風險偏好」交易日水準。在缺乏明確催化劑的情況下，這波漲幅更像是穩定買盤，而非市場情緒的明顯轉向。這種低信心度的緩步上揚，在重大經濟數據或財報公布之間的空檔期相當常見。",
+    "summary_en": "Both major indices drifted modestly higher today without a clear catalyst, reflecting a market in wait-and-see mode. With gains under 1% on both NASDAQ and S&P 500, there wasn't enough conviction in either direction to justify new positioning. Days like this are common between larger macro events and are best used to stay patient rather than chase small moves.",
+    "summary_zh": "今日大市溫和上揚,納指升0.5%,標普500升0.2%,沒有明顯的市場催化劑,反映投資者處於觀望狀態。兩大指數升幅均不足1%,方向性不夠明確,不足以支持新增部位。這類淡靜交易日在重大宏觀事件之間頗為常見,最好保持耐性,而非追逐細微波動。",
     "sources": []
   },
   "trades": [],

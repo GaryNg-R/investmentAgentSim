@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-25T17:01:19.636557+00:00",
+  "saved_at": "2026-08-25T18:00:53.102697+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": false,
-    "briefing": "Markets were mildly positive today (NASDAQ +0.6%, S&P 500 +0.3%) with no strong risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy into a neutral tape.",
+    "skip_new_buys": true,
+    "briefing": "Markets were quietly mixed today with NASDAQ +0.5% and S&P 500 +0.2% \u2014 not the strong risk-on signal needed to deploy new capital. Cash on hand ($389.29) sits below the $500 buy threshold anyway, so we're holding all 7 positions and waiting for a clearer setup rather than forcing a trade.",
     "market_education": {
-      "summary_en": "Broad indices drifted modestly higher today, with the NASDAQ outpacing the S&P 500 slightly, but the move lacked the volume and breadth typically seen on strong risk-on days. Without a clear catalyst, the gains reflect steady buying rather than a decisive shift in sentiment. This kind of low-conviction grind is common between major economic data releases or earnings catalysts.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c\u5411\u4e0a\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u7565\u9ad8\u65bc\u6a19\u666e500\u6307\u6578\uff0c\u4f46\u6210\u4ea4\u91cf\u548c\u53c3\u8207\u5ee3\u5ea6\u90fd\u672a\u9054\u5230\u5178\u578b\u7684\u300c\u98a8\u96aa\u504f\u597d\u300d\u4ea4\u6613\u65e5\u6c34\u6e96\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u9019\u6ce2\u6f32\u5e45\u66f4\u50cf\u662f\u7a69\u5b9a\u8cb7\u76e4\uff0c\u800c\u975e\u5e02\u5834\u60c5\u7dd2\u7684\u660e\u986f\u8f49\u5411\u3002\u9019\u7a2e\u4f4e\u4fe1\u5fc3\u5ea6\u7684\u7de9\u6b65\u4e0a\u63da\uff0c\u5728\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u516c\u5e03\u4e4b\u9593\u7684\u7a7a\u6a94\u671f\u76f8\u7576\u5e38\u898b\u3002",
+      "summary_en": "Both major indices drifted modestly higher today without a clear catalyst, reflecting a market in wait-and-see mode. With gains under 1% on both NASDAQ and S&P 500, there wasn't enough conviction in either direction to justify new positioning. Days like this are common between larger macro events and are best used to stay patient rather than chase small moves.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u4e0a\u63da,\u7d0d\u6307\u53470.5%,\u6a19\u666e500\u53470.2%,\u6c92\u6709\u660e\u986f\u7684\u5e02\u5834\u50ac\u5316\u5291,\u53cd\u6620\u6295\u8cc7\u8005\u8655\u65bc\u89c0\u671b\u72c0\u614b\u3002\u5169\u5927\u6307\u6578\u5347\u5e45\u5747\u4e0d\u8db31%,\u65b9\u5411\u6027\u4e0d\u5920\u660e\u78ba,\u4e0d\u8db3\u4ee5\u652f\u6301\u65b0\u589e\u90e8\u4f4d\u3002\u9019\u985e\u6de1\u975c\u4ea4\u6613\u65e5\u5728\u91cd\u5927\u5b8f\u89c0\u4e8b\u4ef6\u4e4b\u9593\u9817\u70ba\u5e38\u898b,\u6700\u597d\u4fdd\u6301\u8010\u6027,\u800c\u975e\u8ffd\u9010\u7d30\u5fae\u6ce2\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Dry Powder",
-      "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Holding cash isn't a failure to act \u2014 it's a deliberate choice to wait for higher-conviction setups instead of forcing trades on an average day.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u7684\u662f\u7559\u5728\u5834\u908a\u3001\u7b49\u5f85\u6642\u6a5f\u7684\u73fe\u91d1\u90e8\u4f4d\u3002\u6301\u6709\u73fe\u91d1\u4e26\u4e0d\u4ee3\u8868\u6c92\u6709\u884c\u52d5\uff0c\u800c\u662f\u523b\u610f\u7b49\u5f85\u66f4\u9ad8\u4fe1\u5fc3\u5ea6\u7684\u9032\u5834\u6a5f\u6703\uff0c\u800c\u4e0d\u662f\u5728\u5e73\u6de1\u7684\u4ea4\u6613\u65e5\u52c9\u5f37\u51fa\u624b\u3002"
+      "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. Today's cash balance was below the minimum buy threshold and the market showed only neutral momentum, so holding cash rather than forcing a trade preserves flexibility for a better setup.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u6295\u8cc7\u8005\u4fdd\u7559\u5728\u5834\u908a\u3001\u96a8\u6642\u53ef\u52d5\u7528\u7684\u73fe\u91d1,\u4ee5\u4fbf\u5728\u771f\u6b63\u51fa\u73fe\u5f37\u52e2\u6a5f\u6703\u6642\u628a\u63e1\u6642\u6a5f\u3002\u4eca\u65e5\u73fe\u91d1\u9918\u984d\u4f4e\u65bc\u6700\u4f4e\u8cb7\u5165\u9580\u6abb,\u52a0\u4e0a\u5e02\u6cc1\u50c5\u5c6c\u4e2d\u6027,\u56e0\u6b64\u4fdd\u7559\u73fe\u91d1\u3001\u4e0d\u52c9\u5f37\u4ea4\u6613,\u80fd\u70ba\u65e5\u5f8c\u66f4\u4f73\u7684\u5165\u5e02\u6642\u6a5f\u4fdd\u7559\u5f48\u6027\u3002"
     }
   }
 }
