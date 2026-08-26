@@ -1,14 +1,14 @@
 {
   "date": "2026-08-26",
-  "briefing": "Markets were flat today with NASDAQ -0.3% and S&P 500 -0.1% — a neutral, directionless session. Cash on hand ($389.29) is below the $500 deployment threshold, and per past lessons we don't force buys on neutral days just to fill open slots, so we're holding all 7 positions unchanged and waiting for a genuine risk-on setup.",
+  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.4%, S&P 500 -0.2%) with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy into a neutral session — waiting for a genuine risk-on setup or more cash to accumulate before filling the remaining 3 open slots.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' or cautious stance means holding back from new purchases when market signals are weak or mixed, rather than deploying cash just because it's available. Discipline here — waiting for clear bullish confirmation (like a NASDAQ rally with volume) — helps avoid buying into low-conviction setups that are more likely to reverse.",
-    "explanation_zh": "「風險規避」（Risk-Off）策略是指在市場訊號疲弱或不明朗時，寧願持有現金也不貿然開新倉，而不是純粹因為有現金可用就強行買入。保持紀律，等待明確的好淡訊號確認（例如納指放量上升），有助避免在低信心的市況下入市，減少之後被打回頭的機會。"
+    "explanation_en": "A 'risk-off' day is when investors pull back from adding new positions because market signals aren't strong enough to justify the risk — even if nothing bad has happened, the absence of a clear positive catalyst is reason enough to wait. Today's flat, directionless market combined with limited cash below the deployment threshold made patience the better choice than forcing a trade.",
+    "explanation_zh": "「風險規避」（Risk-Off）指投資者在市場訊號不夠強烈、不足以支持額外風險時，選擇暫緩新增持倉——即使沒有壞消息出現，缺乏明確的正面催化劑本身已是觀望的理由。今日大市走勢平淡、方向不明，加上可動用現金低於部署門檻，因此耐心等待比勉強交易更為明智。"
   },
   "market_education": {
-    "summary_en": "Today's trading was largely directionless, with both the NASDAQ and S&P 500 posting only small declines. There's no single dominant catalyst evident in the data provided — this looks like a normal consolidation day rather than a reaction to major news. Low-conviction, low-volume days like this are common between larger market-moving events.",
-    "summary_zh": "今日大市走勢反覆，納指及標普500指數均只是輕微下跌，未見有明顯的單一催化因素。從現有數據看，這較似是一個普通的整固日，而非對重大新聞的反應。這類低成交、方向不明的交易日在市場大幅波動之間頗為常見。",
+    "summary_en": "Major indices drifted slightly lower today in quiet, directionless trading, with the NASDAQ off 0.4% and the S&P 500 down 0.2%. There was no single dominant catalyst driving the move — it reflects a market pausing to digest recent gains rather than reacting to a specific shock. Volume and volatility both stayed subdued, consistent with a wait-and-see posture ahead of upcoming data.",
+    "summary_zh": "今日大市窄幅波動，NASDAQ指數下跌0.4%，標普500指數下跌0.2%，走勢並無明顯方向。市場並非受單一重大消息影響，而更似是消化早前升幅後的短暫喘息。成交量及波動性均維持在較低水平，反映投資者在重要數據公布前採取觀望態度。",
     "sources": []
   },
   "trades": [],
