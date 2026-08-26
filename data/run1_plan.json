@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-26T17:01:04.202931+00:00",
+  "saved_at": "2026-08-26T18:01:03.917633+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets were flat to slightly negative today (NASDAQ -0.4%, S&P 500 -0.2%) with no clear risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy into a neutral session \u2014 waiting for a genuine risk-on setup or more cash to accumulate before filling the remaining 3 open slots.",
+    "skip_new_buys": false,
+    "briefing": "Markets were essentially flat today (NASDAQ -0.2%, S&P 500 -0.0%) with no clear directional signal. Cash on hand ($389.29) sits below our $500 deployment threshold, so per our playbook we held all 7 existing positions and skipped new buys rather than forcing a trade on a neutral day.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today in quiet, directionless trading, with the NASDAQ off 0.4% and the S&P 500 down 0.2%. There was no single dominant catalyst driving the move \u2014 it reflects a market pausing to digest recent gains rather than reacting to a specific shock. Volume and volatility both stayed subdued, consistent with a wait-and-see posture ahead of upcoming data.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7a84\u5e45\u6ce2\u52d5\uff0cNASDAQ\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.2%\uff0c\u8d70\u52e2\u4e26\u7121\u660e\u986f\u65b9\u5411\u3002\u5e02\u5834\u4e26\u975e\u53d7\u55ae\u4e00\u91cd\u5927\u6d88\u606f\u5f71\u97ff\uff0c\u800c\u66f4\u4f3c\u662f\u6d88\u5316\u65e9\u524d\u5347\u5e45\u5f8c\u7684\u77ed\u66ab\u5598\u606f\u3002\u6210\u4ea4\u91cf\u53ca\u6ce2\u52d5\u6027\u5747\u7dad\u6301\u5728\u8f03\u4f4e\u6c34\u5e73\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u91cd\u8981\u6578\u64da\u516c\u5e03\u524d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002",
+      "summary_en": "Major indices closed nearly unchanged today, with the NASDAQ dipping just 0.2% and the S&P 500 roughly flat. There were no major market-moving headlines in today's session, suggesting investors were in a wait-and-see mode rather than reacting to any specific catalyst. Low-volatility, directionless days like this are common between larger macro events such as earnings releases or Fed announcements.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5e7e\u4e4e\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.2%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u5e7e\u8fd1\u96f6\u8b8a\u52d5\u3002\u4eca\u5929\u7684\u4ea4\u6613\u6642\u6bb5\u5167\u4e26\u672a\u51fa\u73fe\u91cd\u5927\u5e02\u5834\u6d88\u606f\uff0c\u986f\u793a\u6295\u8cc7\u4eba\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\uff0c\u800c\u975e\u5c0d\u7279\u5b9a\u4e8b\u4ef6\u4f5c\u51fa\u53cd\u61c9\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u3001\u65b9\u5411\u4e0d\u660e\u78ba\u7684\u4ea4\u6613\u65e5\uff0c\u5728\u91cd\u5927\u7e3d\u9ad4\u7d93\u6fdf\u4e8b\u4ef6\uff08\u5982\u8ca1\u5831\u516c\u5e03\u6216\u806f\u6e96\u6703\u6c7a\u7b56\uff09\u4e4b\u9593\u76f8\u7576\u5e38\u898b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors pull back from adding new positions because market signals aren't strong enough to justify the risk \u2014 even if nothing bad has happened, the absence of a clear positive catalyst is reason enough to wait. Today's flat, directionless market combined with limited cash below the deployment threshold made patience the better choice than forcing a trade.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u6307\u6295\u8cc7\u8005\u5728\u5e02\u5834\u8a0a\u865f\u4e0d\u5920\u5f37\u70c8\u3001\u4e0d\u8db3\u4ee5\u652f\u6301\u984d\u5916\u98a8\u96aa\u6642\uff0c\u9078\u64c7\u66ab\u7de9\u65b0\u589e\u6301\u5009\u2014\u2014\u5373\u4f7f\u6c92\u6709\u58de\u6d88\u606f\u51fa\u73fe\uff0c\u7f3a\u4e4f\u660e\u78ba\u7684\u6b63\u9762\u50ac\u5316\u5291\u672c\u8eab\u5df2\u662f\u89c0\u671b\u7684\u7406\u7531\u3002\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u5e73\u6de1\u3001\u65b9\u5411\u4e0d\u660e\uff0c\u52a0\u4e0a\u53ef\u52d5\u7528\u73fe\u91d1\u4f4e\u65bc\u90e8\u7f72\u9580\u6abb\uff0c\u56e0\u6b64\u8010\u5fc3\u7b49\u5f85\u6bd4\u52c9\u5f37\u4ea4\u6613\u66f4\u70ba\u660e\u667a\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to invest when a genuinely attractive opportunity appears, rather than being deployed just for the sake of staying fully invested. On a neutral day with too little cash to meaningfully size a new position anyway, holding that cash and waiting is a disciplined choice, not a missed opportunity.",
+      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u7684\u662f\u6295\u8cc7\u4eba\u4fdd\u7559\u5728\u5834\u908a\u7684\u73fe\u91d1\uff0c\u7b49\u5f85\u771f\u6b63\u6709\u5438\u5f15\u529b\u7684\u6a5f\u6703\u51fa\u73fe\u6642\u624d\u51fa\u624b\uff0c\u800c\u4e0d\u662f\u70ba\u4e86\u300c\u628a\u8cc7\u91d1\u5168\u90e8\u6295\u5165\u5e02\u5834\u300d\u800c\u52c9\u5f37\u4ea4\u6613\u3002\u5728\u65b9\u5411\u4e0d\u660e\u3001\u4e14\u73fe\u91d1\u6c34\u4f4d\u4e5f\u4e0d\u8db3\u4ee5\u6709\u6548\u5efa\u7acb\u65b0\u5009\u4f4d\u7684\u65e5\u5b50\u88e1\uff0c\u6309\u5175\u4e0d\u52d5\u3001\u8010\u5fc3\u7b49\u5f85\u624d\u662f\u7d00\u5f8b\u7684\u8868\u73fe\uff0c\u800c\u975e\u932f\u5931\u826f\u6a5f\u3002"
     }
   }
 }
