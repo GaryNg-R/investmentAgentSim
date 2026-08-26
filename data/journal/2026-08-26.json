@@ -1,14 +1,14 @@
 {
   "date": "2026-08-26",
-  "briefing": "Markets were flat today with NASDAQ and S&P500 both up just +0.1%, a neutral, low-conviction session. Cash sits at $389.29, below the $500 deployment threshold, so per past lessons we're holding rather than forcing a buy into a non-risk-on day, and letting existing positions run.",
+  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.0%) with no clear risk-on signal. Cash on hand ($389.29) is below the $500 deployment threshold, so per past lessons we're holding rather than forcing a buy into a neutral day — existing 7 positions remain untouched and let their stop-loss/profit targets work automatically.",
   "daily_lesson": {
-    "term": "Patience",
-    "explanation_en": "Patience in investing means resisting the urge to trade just because cash is available — waiting for a genuinely strong setup (like a clear risk-on market day) rather than deploying capital on a neutral, low-conviction day. Forcing trades to 'stay busy' often leads to worse entries than waiting for confirmation.",
-    "explanation_zh": "投資中的「耐心」是指不因為手上有現金就急於進場，而是等待真正強烈的訊號（例如市場明顯轉為風險偏好上升的一天）才出手，而非在方向不明的中性交易日勉強動用資金。為了「有動作」而勉強交易，往往會得到比耐心等待確認訊號更差的進場點。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder means keeping cash uninvested and ready, rather than deploying it just because a slot is open. On a neutral day with cash below the deployment threshold, holding that cash preserves flexibility to strike when a genuine high-conviction setup appears.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指保留現金、暫不投資，而不是因為有空餘倉位就勉強買入。在市況中性、現金未達部署門檻的日子，保留現金能讓投資者在真正出現高信心的入市機會時，有足夠彈性把握時機。"
   },
   "market_education": {
-    "summary_en": "Today was a quiet, directionless session for U.S. equities, with both the NASDAQ and S&P 500 essentially flat at +0.1%. There was no major catalyst driving broad market moves, which typically reflects investors waiting for clearer economic signals before committing new capital. Individual stocks like WMB, PGEN, and DDOG showed strong momentum, but this appears to be stock-specific rather than a market-wide trend.",
-    "summary_zh": "今日美股走勢平淡，NASDAQ與標普500指數皆僅微升0.1%，屬於方向不明的整理格局。市場缺乏重大消息面刺激，反映投資者仍在觀望，等待更清晰的經濟訊號才會加碼進場。雖然WMB、PGEN、DDOG等個股展現強勁動能，但這屬於個股表現，並非全市場性的趨勢。",
+    "summary_en": "Both major indices traded essentially flat today, with the NASDAQ down 0.2% and the S&P 500 roughly unchanged. No dominant catalyst drove the tape, consistent with a low-conviction, wait-and-see session ahead of upcoming data. Absent a clear directional signal, staying disciplined on entries mattered more than chasing action.",
+    "summary_zh": "今日大市表現持平，納斯達克指數下跌0.2%，標普500指數幾乎沒有變動。市場缺乏明顯的主導消息面，呈現觀望格局，投資者似乎在等待後續數據公佈。在缺乏明確方向訊號的情況下，保持紀律、不強行進場比追高更為重要。",
     "sources": []
   },
   "trades": [],
