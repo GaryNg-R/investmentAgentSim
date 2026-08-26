@@ -1,14 +1,14 @@
 {
   "date": "2026-08-26",
-  "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.1%) with no clear risk-on signal. Cash on hand ($389.29) is below the $500 deployment threshold, so per past lessons we held rather than forcing a buy, and left the 7 existing positions untouched to let stops/targets work automatically.",
+  "briefing": "Markets were flat today with NASDAQ -0.1% and S&P 500 -0.0%, showing no clear risk-on signal. Cash is $389.29, below the $500 buy threshold, so per prior lessons we're holding all 7 positions and waiting for a genuine risk-on setup rather than forcing a buy.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" means keeping cash available rather than investing it immediately, so you can act decisively when a genuinely strong opportunity appears. On a neutral day like today, holding cash below the deployment threshold isn't wasted opportunity — it's discipline that avoids forcing weak trades.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是保留現金而非立即全數投入，以便在真正出現強勁機會時能果斷出手。像今天這種市場方向不明的日子，持有低於部署門檻的現金並非浪費機會，而是避免勉強進場的紀律表現。"
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today, with cash below the buy threshold and the market showing no clear trend, holding that cash in reserve rather than forcing a trade is a disciplined choice, not inaction.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是暫時持有、等待時機出手的現金儲備。今日現金低於買入門檻，加上市況並無明顯方向，選擇保留現金觀望而非勉強交易，正是紀律性投資的表現，而非毫無作為。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially sideways today, with the NASDAQ unchanged and the S&P 500 up a marginal 0.1%. There was no dominant macro catalyst driving flows in either direction, consistent with a low-conviction, wait-and-see session. Without a strong risk-on or risk-off trigger, capital stayed on the sidelines rather than chasing marginal setups.",
-    "summary_zh": "今日大盤走勢大致持平，納斯達克指數幾乎沒有變動，標普500指數僅微升0.1%。市場缺乏明顯的宏觀觸發因素，資金並未明顯流向任何一方，反映出投資人觀望氣氛濃厚。在沒有強烈風險偏好訊號的情況下，資金選擇繼續持有現金，靜待更明確的進場時機。",
+    "summary_en": "Major indices traded essentially flat today, with NASDAQ down 0.1% and the S&P 500 roughly unchanged, indicating a lack of strong directional conviction among investors. Without a clear catalyst, capital tends to stay on the sidelines rather than chase new positions. This kind of low-volatility, range-bound session often precedes a bigger directional move once fresh news or data arrives.",
+    "summary_zh": "今日大市走勢平淡，納指微跌0.1%，標普500幾乎持平，反映投資者缺乏明確方向的信心。在沒有明顯催化劑的情況下，資金傾向於觀望而非追入新倉位。此類低波動、區間震盪的交易日，往往是醞釀下一波較大方向性走勢的前奏。",
     "sources": []
   },
   "trades": [],
