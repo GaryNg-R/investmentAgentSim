@@ -1,14 +1,14 @@
 {
   "date": "2026-08-26",
-  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.0%) with no clear risk-on signal. Cash on hand ($389.29) is below the $500 deployment threshold, so per past lessons we're holding rather than forcing a buy into a neutral day — existing 7 positions remain untouched and let their stop-loss/profit targets work automatically.",
+  "briefing": "Markets were flat today with NASDAQ -0.3% and S&P 500 -0.1% — a neutral, directionless session. Cash on hand ($389.29) is below the $500 deployment threshold, and per past lessons we don't force buys on neutral days just to fill open slots, so we're holding all 7 positions unchanged and waiting for a genuine risk-on setup.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder means keeping cash uninvested and ready, rather than deploying it just because a slot is open. On a neutral day with cash below the deployment threshold, holding that cash preserves flexibility to strike when a genuine high-conviction setup appears.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指保留現金、暫不投資，而不是因為有空餘倉位就勉強買入。在市況中性、現金未達部署門檻的日子，保留現金能讓投資者在真正出現高信心的入市機會時，有足夠彈性把握時機。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' or cautious stance means holding back from new purchases when market signals are weak or mixed, rather than deploying cash just because it's available. Discipline here — waiting for clear bullish confirmation (like a NASDAQ rally with volume) — helps avoid buying into low-conviction setups that are more likely to reverse.",
+    "explanation_zh": "「風險規避」（Risk-Off）策略是指在市場訊號疲弱或不明朗時，寧願持有現金也不貿然開新倉，而不是純粹因為有現金可用就強行買入。保持紀律，等待明確的好淡訊號確認（例如納指放量上升），有助避免在低信心的市況下入市，減少之後被打回頭的機會。"
   },
   "market_education": {
-    "summary_en": "Both major indices traded essentially flat today, with the NASDAQ down 0.2% and the S&P 500 roughly unchanged. No dominant catalyst drove the tape, consistent with a low-conviction, wait-and-see session ahead of upcoming data. Absent a clear directional signal, staying disciplined on entries mattered more than chasing action.",
-    "summary_zh": "今日大市表現持平，納斯達克指數下跌0.2%，標普500指數幾乎沒有變動。市場缺乏明顯的主導消息面，呈現觀望格局，投資者似乎在等待後續數據公佈。在缺乏明確方向訊號的情況下，保持紀律、不強行進場比追高更為重要。",
+    "summary_en": "Today's trading was largely directionless, with both the NASDAQ and S&P 500 posting only small declines. There's no single dominant catalyst evident in the data provided — this looks like a normal consolidation day rather than a reaction to major news. Low-conviction, low-volume days like this are common between larger market-moving events.",
+    "summary_zh": "今日大市走勢反覆，納指及標普500指數均只是輕微下跌，未見有明顯的單一催化因素。從現有數據看，這較似是一個普通的整固日，而非對重大新聞的反應。這類低成交、方向不明的交易日在市場大幅波動之間頗為常見。",
     "sources": []
   },
   "trades": [],
