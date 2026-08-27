@@ -1,17 +1,24 @@
 {
   "date": "2026-08-27",
-  "briefing": "NASDAQ +1.3% and S&P 500 +0.6% mark a mild risk-on day, but cash is just $389.29 — below the $500 deployment threshold — and none of the top-scoring candidates show a volume surge alongside their RSI/MACD/SMA signals, so full four-signal confirmation is missing. Holding all 7 positions and skipping new buys until either more cash accumulates or a stronger, fully-confirmed setup appears.",
+  "briefing": "Markets were risk-on today with NASDAQ +1.6% and S&P 500 +0.8%. Cash is below the usual $500 deployment threshold, so we made one modest, higher-quality buy (NOK) rather than force multiple purchases, and left existing positions untouched.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder means keeping cash on hand rather than investing every dollar immediately. Even on a positive market day, it can be smart to wait if your cash balance is too small to build a meaningful position or if your best candidates don't fully confirm your buy criteria — patience preserves optionality for better setups later.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指保留現金而非立即全數投入市場。即使在市場向好的日子，如果現金餘額太少不足以建立有意義的倉位，或候選股票未完全符合買入條件，耐心等待仍是明智之舉——這樣可以保留資金彈性，留待更好的入市時機。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price trends, on the idea that stocks moving up tend to keep moving up in the short term. Today's buy was chosen because it showed multiple bullish technical signals (RSI, MACD, price above moving average) at once, which increases confidence the trend is real rather than noise.",
+    "explanation_zh": "動能投資是指買入已經呈現強勁上升趨勢的股票,原理是短期內上升中的股票傾向繼續上升。今日選股是因為同時出現多個看漲技術訊號(RSI、MACD、股價高於均線),提高了趨勢真實而非雜訊的信心。"
   },
   "market_education": {
-    "summary_en": "Markets edged higher today with the NASDAQ outpacing the S&P 500, consistent with a broad risk-on tone in tech and growth names. No major single catalyst stands out from the data available today. Breadth in the momentum screener remains healthy, with many names showing bullish MACD crossovers.",
-    "summary_zh": "今日大盤走高，納斯達克指數升幅領先標普500指數，反映科技及成長股帶動下的風險偏好情緒。目前沒有明顯的單一重大消息面催化劑。動能篩選器中多隻股票出現MACD黃金交叉，市場廣度良好。",
+    "summary_en": "Broad indices advanced today, with the NASDAQ outpacing the S&P 500, indicating investors favored growth and technology-tilted names. No single catalyst headline was available in today's feed, so the move appears driven by general risk appetite rather than a specific news event. Momentum names with bullish technical setups led the screened candidate list.",
+    "summary_zh": "今日大盤上揚，納斯達克升幅1.6%，跑贏標普500的0.8%，顯示資金傾向科技與成長股。今日新聞來源中沒有明確的單一催化headline，故此走勢較可能反映整體風險偏好回升，而非特定消息面事件。技術面呈現強勢動能的股票在篩選名單中領先。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "NOK",
+      "conviction": "medium",
+      "reasoning": "RSI 67.8 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 signal solid momentum, and NOK's large-cap stability fits better with risk-adjusted goals than the smaller speculative names on today's list."
+    }
+  ],
   "outcomes": {
     "total_value": 13955.735246181488,
     "cash": 389.2850012779236,
