@@ -1,17 +1,24 @@
 {
   "date": "2026-08-27",
-  "briefing": "NASDAQ +1.6% and S&P 500 +0.7% signal a risk-on day, and ZS shows a fully confirmed bullish setup (MACD crossover, RSI in the bullish zone, price above SMA-20, and volume surge), but with only $389.29 in cash we're below the threshold needed to add a meaningful position. Holding cash and existing positions rather than forcing an undersized buy.",
+  "briefing": "NASDAQ rose 1.6% and the S&P 500 rose 0.7% in a moderate risk-on session. Cash on hand ($389.29) is below the usual $500 deployment threshold, so we made one small, high-quality buy (ZS) backed by full technical confirmation rather than spreading thin cash across multiple new positions, and held the existing 7 positions through the strength.",
   "daily_lesson": {
-    "term": "Capital Allocation",
-    "explanation_en": "Even on a strong market day with attractive setups, a portfolio should only deploy cash when the position size would be meaningful — buying a tiny sliver of a stock with leftover cash usually isn't worth the transaction complexity or risk. It's often better to wait until enough capital has built up to make a full-sized, properly diversified position.",
-    "explanation_zh": "即使在大市造好、出現吸引買入機會的日子，投資組合亦只應在資金足以建立有意義倉位時才出手——用剩餘的少量現金買入極少股數，通常不值得承擔相關的交易複雜性和風險。較穩妥的做法是待累積足夠資金後，才建立規模適當、分散得宜的倉位。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators agree — for example, a MACD crossover, healthy RSI, price above its moving average, and a volume surge all pointing the same direction. Relying on just one signal is more likely to be noise; when four line up together, it's a stronger sign that real buying interest is behind the move.",
+    "explanation_zh": "多重訊號確認是指只有在多個獨立技術指標同時發出一致訊號時才進行交易，例如MACD黃金交叉、RSI處於健康區間、股價高於均線，以及成交量放大。單一訊號較容易是市場雜訊；當四個訊號同時出現時，就更能反映真實的買盤力量支持著這次升勢。"
   },
   "market_education": {
-    "summary_en": "Markets pushed higher today with the NASDAQ leading gains at +1.6% and the S&P 500 up +0.7%, reflecting broad risk-on sentiment across sectors. Momentum names like ZS showed particularly strong technical confirmation with a volume-backed breakout above key moving averages. Without specific news headlines available today, the move appears driven by continued buying momentum rather than a single catalyst.",
-    "summary_zh": "今日大市造好，納斯達克指數領漲，升幅達1.6%，標普500指數亦上升0.7%，反映市場整體風險偏好升溫。個別強勢股如ZS錄得成交量配合的技術性突破，股價站穩主要均線之上。由於今日未有特定新聞頭條可供參考，是次升勢似乎主要由持續的買盤動力帶動，而非單一事件觸發。",
+    "summary_en": "Markets extended gains today with the NASDAQ outperforming the S&P 500, suggesting continued appetite for growth and tech names. Broad participation across both indices points to a genuine risk-on tone rather than a narrow rally in a few mega-caps. No major negative catalysts emerged to disrupt the upward momentum.",
+    "summary_zh": "今日大市延續升勢，納斯達克指數升幅跑贏標普500指數，反映市場對增長型及科技股的胃納持續。兩大指數同步上揚，顯示今次升勢屬於較廣泛的風險偏好情緒，而非單靠少數大型科技股帶動。市場亦未見重大負面消息影響整體升勢。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "ZS",
+      "conviction": "medium",
+      "reasoning": "Only candidate with all four confirming signals (MACD crossover, RSI 69.8 in bullish zone, price above SMA-20, and a volume surge) on a risk-on day, though position size is capped by limited cash on hand."
+    }
+  ],
   "outcomes": {
     "total_value": 13955.735246181488,
     "cash": 389.2850012779236,
