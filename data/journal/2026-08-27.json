@@ -1,14 +1,14 @@
 {
   "date": "2026-08-27",
-  "briefing": "Markets were flat and directionless today (NASDAQ -0.1%, S&P 500 -0.0%), with no risk-on signal strong enough to justify new positions. Cash sits at $389.29, below our $500 deployment threshold, so per past lessons we're holding rather than forcing a buy — existing 7 positions remain untouched and continue to run on their automatic stop-loss/profit-target rules.",
+  "briefing": "Markets were neutral today with NASDAQ +0.9% and S&P 500 +0.3%. Cash reserve ($389.29) sits below the $500 deployment threshold, so per prior lessons we held rather than forcing a buy on a low-conviction day.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today our cash balance was below the threshold needed for a meaningful new position, and the market gave no strong signal, so the disciplined move is to hold that cash rather than force a trade.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是預留在場邊、待有力機會出現時才動用的現金。今日現金餘額未達建立新倉位的門檻，加上市況未有明確訊號，因此紀律性的做法是保留現金觀望，而非勉強交易。"
+    "term": "Cash is a Position",
+    "explanation_en": "Holding cash when there's no strong signal is itself a valid investment decision, not inaction. Deploying capital just to feel productive on a neutral day often leads to weaker entries than waiting for a genuine risk-on setup with multiple confirming signals.",
+    "explanation_zh": "在沒有明確訊號時持有現金本身就是一個合理的投資決定，並非什麼都不做。單純為咗「有所作為」而喺中性市況下勉強買入，通常會令入市價位遜色，倒不如耐心等待真正嘅風險偏好訊號同多重指標確認。"
   },
   "market_education": {
-    "summary_en": "Today was a quiet, rangebound session with both the NASDAQ and S&P 500 essentially flat, suggesting investors are in a wait-and-see mode without a clear catalyst pushing prices in either direction. Low volatility days like this often precede a bigger move once new economic data or earnings news arrives. No major headlines drove today's action.",
-    "summary_zh": "今日市場交投淡靜，納指與標普500指數幾乎持平，反映投資者在缺乏明確催化因素下採取觀望態度。這種低波動的交易日往往是醞釀下一波較大行情的前奏，需待新的經濟數據或財報消息出爐。今日並無重大新聞主導市場走勢。",
+    "summary_en": "Major indices drifted modestly higher today, with the NASDAQ outperforming the S&P 500, consistent with a mild risk-on tilt toward growth and tech names. Trading was largely directionless without a strong catalyst pushing volume or volatility to extremes. Existing positions were left to run since none hit stop-loss or profit-target thresholds.",
+    "summary_zh": "今日大市溫和上揚，納指升幅（+0.9%）跑贏標普500指數（+0.3%），反映市場對科技及成長股略為偏好風險。整體交投缺乏明顯催化劑，方向不算明確。現有持倉維持不動，因為未觸及止蝕或獲利了結水平。",
     "sources": []
   },
   "trades": [],
