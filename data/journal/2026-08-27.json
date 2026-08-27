@@ -1,17 +1,24 @@
 {
   "date": "2026-08-27",
-  "briefing": "Markets were neutral today with NASDAQ +0.9% and S&P 500 +0.3%. Cash reserve ($389.29) sits below the $500 deployment threshold, so per prior lessons we held rather than forcing a buy on a low-conviction day.",
+  "briefing": "Markets were risk-on today with NASDAQ +1.3% and S&P 500 +0.6%. Cash is below the usual $500 buy threshold and this isn't an extreme risk-on day (NASDAQ +2%+), so we made one disciplined buy in SLS, which shows full multi-signal confirmation, rather than force-deploying into weaker setups.",
   "daily_lesson": {
-    "term": "Cash is a Position",
-    "explanation_en": "Holding cash when there's no strong signal is itself a valid investment decision, not inaction. Deploying capital just to feel productive on a neutral day often leads to weaker entries than waiting for a genuine risk-on setup with multiple confirming signals.",
-    "explanation_zh": "在沒有明確訊號時持有現金本身就是一個合理的投資決定，並非什麼都不做。單純為咗「有所作為」而喺中性市況下勉強買入，通常會令入市價位遜色，倒不如耐心等待真正嘅風險偏好訊號同多重指標確認。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying on a single bullish clue, traders often wait until several independent signals line up — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all of these agree, it's a stronger sign that real buying interest (not just noise) is pushing the stock higher.",
+    "explanation_zh": "與其只憑單一看漲訊號就買入，交易者通常會等待多個獨立訊號同時出現，例如RSI處於健康區間、MACD出現黃金交叉、股價高於移動平均線，以及成交量放大。當這些訊號同時成立時，代表推動股價上升的是真實買盤，而非單純的市場雜訊。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today, with the NASDAQ outperforming the S&P 500, consistent with a mild risk-on tilt toward growth and tech names. Trading was largely directionless without a strong catalyst pushing volume or volatility to extremes. Existing positions were left to run since none hit stop-loss or profit-target thresholds.",
-    "summary_zh": "今日大市溫和上揚，納指升幅（+0.9%）跑贏標普500指數（+0.3%），反映市場對科技及成長股略為偏好風險。整體交投缺乏明顯催化劑，方向不算明確。現有持倉維持不動，因為未觸及止蝕或獲利了結水平。",
+    "summary_en": "Broad market gains today were led by NASDAQ, up 1.3%, outpacing the S&P 500's 0.6% gain, suggesting growth and tech-oriented names drove the rally more than the broader index. No single dominant headline stood out in today's screened data, consistent with a broad-based risk-on move rather than one catalyst-driven event. Momentum names with volume surges, like SLS and ONDS, saw outsized participation relative to the index-level gain.",
+    "summary_zh": "今日大市普遍上揚，納斯達克指數上升1.3%，升幅超越標普500指數的0.6%，顯示今日升勢主要由科技及成長股帶動，多於整體大盤。今日篩選數據中未見單一主導性頭條新聞，反映這是一次較廣泛的風險偏好（risk-on）行情，而非單一事件驅動。個別具備成交量放大的動力股，例如SLS及ONDS，升幅明顯跑贏大盤。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "SLS",
+      "conviction": "high",
+      "reasoning": "All four confirmation signals present (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day, matching the institutional-participation setup from strategy memory."
+    }
+  ],
   "outcomes": {
     "total_value": 13955.735246181488,
     "cash": 389.2850012779236,
