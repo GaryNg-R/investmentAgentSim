@@ -1,24 +1,17 @@
 {
   "date": "2026-08-27",
-  "briefing": "Markets were risk-on today with NASDAQ +1.3% and S&P 500 +0.6%. Cash is below the usual $500 buy threshold and this isn't an extreme risk-on day (NASDAQ +2%+), so we made one disciplined buy in SLS, which shows full multi-signal confirmation, rather than force-deploying into weaker setups.",
+  "briefing": "NASDAQ +1.3% and S&P 500 +0.6% mark a mild risk-on day, but cash is just $389.29 — below the $500 deployment threshold — and none of the top-scoring candidates show a volume surge alongside their RSI/MACD/SMA signals, so full four-signal confirmation is missing. Holding all 7 positions and skipping new buys until either more cash accumulates or a stronger, fully-confirmed setup appears.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of buying on a single bullish clue, traders often wait until several independent signals line up — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all of these agree, it's a stronger sign that real buying interest (not just noise) is pushing the stock higher.",
-    "explanation_zh": "與其只憑單一看漲訊號就買入，交易者通常會等待多個獨立訊號同時出現，例如RSI處於健康區間、MACD出現黃金交叉、股價高於移動平均線，以及成交量放大。當這些訊號同時成立時，代表推動股價上升的是真實買盤，而非單純的市場雜訊。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder means keeping cash on hand rather than investing every dollar immediately. Even on a positive market day, it can be smart to wait if your cash balance is too small to build a meaningful position or if your best candidates don't fully confirm your buy criteria — patience preserves optionality for better setups later.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指保留現金而非立即全數投入市場。即使在市場向好的日子，如果現金餘額太少不足以建立有意義的倉位，或候選股票未完全符合買入條件，耐心等待仍是明智之舉——這樣可以保留資金彈性，留待更好的入市時機。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today were led by NASDAQ, up 1.3%, outpacing the S&P 500's 0.6% gain, suggesting growth and tech-oriented names drove the rally more than the broader index. No single dominant headline stood out in today's screened data, consistent with a broad-based risk-on move rather than one catalyst-driven event. Momentum names with volume surges, like SLS and ONDS, saw outsized participation relative to the index-level gain.",
-    "summary_zh": "今日大市普遍上揚，納斯達克指數上升1.3%，升幅超越標普500指數的0.6%，顯示今日升勢主要由科技及成長股帶動，多於整體大盤。今日篩選數據中未見單一主導性頭條新聞，反映這是一次較廣泛的風險偏好（risk-on）行情，而非單一事件驅動。個別具備成交量放大的動力股，例如SLS及ONDS，升幅明顯跑贏大盤。",
+    "summary_en": "Markets edged higher today with the NASDAQ outpacing the S&P 500, consistent with a broad risk-on tone in tech and growth names. No major single catalyst stands out from the data available today. Breadth in the momentum screener remains healthy, with many names showing bullish MACD crossovers.",
+    "summary_zh": "今日大盤走高，納斯達克指數升幅領先標普500指數，反映科技及成長股帶動下的風險偏好情緒。目前沒有明顯的單一重大消息面催化劑。動能篩選器中多隻股票出現MACD黃金交叉，市場廣度良好。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "SLS",
-      "conviction": "high",
-      "reasoning": "All four confirmation signals present (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day, matching the institutional-participation setup from strategy memory."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 13955.735246181488,
     "cash": 389.2850012779236,
