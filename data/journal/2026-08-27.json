@@ -1,14 +1,14 @@
 {
   "date": "2026-08-27",
-  "briefing": "NASDAQ +1.4% and S&P 500 +0.7% mark a mild risk-on day, but with only $389.29 in cash — below the $500 deployment threshold — and no candidate showing the full four-signal confirmation (including a volume surge) required for a high-conviction entry, we're holding rather than forcing a buy. Existing positions are left untouched to let stop-loss and profit-target rules do their job.",
+  "briefing": "Markets leaned risk-on today with NASDAQ +1.2% and S&P 500 +0.5%. Cash on hand ($389.29) is below our $500 buy threshold, so we held all 7 positions rather than forcing a new trade, letting existing profit targets and stop-losses do their job.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" means keeping cash in reserve rather than deploying it just because it's sitting idle. Today, with cash below the usual deployment threshold and no candidate showing complete confirmation signals, holding that cash for a stronger setup is more disciplined than buying just to stay fully invested.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指保留現金儲備，而不是因為現金閒置就急於投入市場。今日現金水平低於一般加碼門檻，亦沒有候選股票同時滿足所有確認訊號，保留現金等待更佳時機，比為求「全數落場」而勉強買入更為審慎。"
+    "explanation_en": "'Dry powder' means keeping cash uninvested and ready to deploy when a genuinely strong opportunity appears. Today our cash balance sat just below the $500 threshold for new buys, so we held rather than forcing a trade just to stay fully invested. Forcing trades to deploy small amounts of leftover cash often means settling for weaker setups instead of waiting for higher-conviction ones.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指保留現金不投資，等待真正強勁的機會出現時才動用。今日我們的現金餘額略低於500美元的新買入門檻，因此選擇持有現金而非勉強交易以求「滿倉」。為了消耗少量剩餘現金而勉強交易，往往意味著接受較弱的進場點，而非耐心等待更具信心的機會。"
   },
   "market_education": {
-    "summary_en": "Broad indices ticked higher today, with the NASDAQ outpacing the S&P 500, suggesting continued but modest appetite for growth and tech-oriented names rather than a broad-based rally. The gain wasn't large enough to signal a strong risk-on shift, and without confirming volume behind the move, it looks more like steady drift than a decisive breakout. No major single catalyst stands out from today's price action alone.",
-    "summary_zh": "今日大盤溫和上揚，納指升幅跑贏標普500，反映市場對科技及成長股仍有一定胃納，但未見全面性的資金湧入。由於升幅未達強烈風險偏好的門檻，加上未見明顯放量配合，今日走勢較似穩步向上而非明確突破，暫時未見單一重大消息主導市況。",
+    "summary_en": "NASDAQ outpaced the S&P 500 today, +1.2% versus +0.5%, suggesting growth and tech names were favored in a broad risk-on session. No specific headline catalysts were available in today's feed to pin the move to a single event. The pattern is consistent with continued rotation into higher-beta sectors rather than a defensive posture.",
+    "summary_zh": "今日納斯達克指數上漲1.2%，領先標普500的0.5%漲幅，顯示科技及成長股在整體風險偏好升溫的氛圍下較受青睞。今日資料中並無具體新聞標題可作為此波動的明確觸發因素。此走勢與資金持續輪動至高波動性板塊的模式相符，而非防禦性操作。",
     "sources": []
   },
   "trades": [],
