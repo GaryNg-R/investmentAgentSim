@@ -1,14 +1,14 @@
 {
   "date": "2026-08-28",
-  "briefing": "Markets were flat today with NASDAQ and S&P 500 both up just 0.5%, a neutral signal rather than a genuine risk-on move. With cash at $389.29 (below the $500 deployment threshold) and no candidate showing the full multi-signal confirmation (MACD crossover, RSI 55-70, price above SMA-20, and volume surge) that past reviews flagged as needed for high-conviction entries, we're holding all 7 positions and sitting on cash rather than forcing a buy.",
+  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.0%) with no clear directional signal. Cash on hand ($389.29) is below our $500 deployment threshold, so per past lessons we're holding rather than forcing a buy into a neutral tape — waiting for a genuine risk-on setup to fill the 3 open slots.",
   "daily_lesson": {
-    "term": "Patience / Waiting for Confirmation",
-    "explanation_en": "Not every day requires a trade. When the market is neutral and available cash is below your deployment threshold, the disciplined move is to hold existing positions and wait for a genuine multi-signal setup (like a strong volume surge combined with bullish RSI and MACD) rather than forcing capital into mediocre opportunities.",
-    "explanation_zh": "並非每天都需要交易。當市場處於中性狀態，且可用現金低於投入門檻時，較穩健的做法是持有現有倉位，耐心等待真正具備多重訊號確認（例如成交量激增配合RSI與MACD同步偏多）的機會，而非勉強將資金投入條件一般的標的。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder means keeping cash in reserve instead of investing it immediately. When the market gives no strong signal, holding cash — even if it means missing a slow day — lets you deploy it with more confidence when a real opportunity appears.",
+    "explanation_zh": "「彈藥」（Dry Powder）是指保留現金儲備而非立即全數投入市場。當市場缺乏明確訊號時，持有現金——即使因此錯過平淡的一天——能讓你在真正機會出現時更有信心地部署資金。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted modest 0.5% gains today, reflecting a broadly neutral trading session without a clear directional catalyst. Several screened candidates like AMZN and BBWI showed bullish technical setups, but the overall market tone stayed muted rather than showing the kind of broad risk-on surge that would justify aggressive new positioning. Without a specific news catalyst driving the tape, this reads as consolidation rather than a trend change.",
-    "summary_zh": "今日兩大指數表現溫和，納指與標普500均上漲約0.5%，市況呈中性，缺乏明確的方向性催化劑。雖然部分篩選名單中的股票（如AMZN、BBWI）技術面偏多，但整體市場氣氛仍屬平淡，未見廣泛的風險偏好上升行情，難以支持大舉加碼新倉位。在缺乏具體消息面刺激的情況下，今日走勢較像是盤整而非趨勢轉變。",
+    "summary_en": "Major indices traded essentially sideways today, with the NASDAQ dipping 0.2% and the S&P 500 roughly flat. There was no dominant macro catalyst driving the session, reflecting a market in a holding pattern rather than a clear risk-on or risk-off move. Without a strong signal, institutional flows appear balanced between buyers and sellers.",
+    "summary_zh": "今日大市窄幅整理，納指微跌0.2%，標普500幾乎收平。市場缺乏明顯的宏觀催化劑，反映投資者處於觀望狀態，並非明確的風險偏好或避險情緒主導。在缺乏強烈訊號下，機構資金的買賣力量大致平衡。",
     "sources": []
   },
   "trades": [],

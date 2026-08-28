@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-28T15:00:54.695409+00:00",
+  "saved_at": "2026-08-28T16:00:52.161374+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets were flat today with NASDAQ and S&P 500 both up just 0.5%, a neutral signal rather than a genuine risk-on move. With cash at $389.29 (below the $500 deployment threshold) and no candidate showing the full multi-signal confirmation (MACD crossover, RSI 55-70, price above SMA-20, and volume surge) that past reviews flagged as needed for high-conviction entries, we're holding all 7 positions and sitting on cash rather than forcing a buy.",
+    "skip_new_buys": false,
+    "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.0%) with no clear directional signal. Cash on hand ($389.29) is below our $500 deployment threshold, so per past lessons we're holding rather than forcing a buy into a neutral tape \u2014 waiting for a genuine risk-on setup to fill the 3 open slots.",
     "market_education": {
-      "summary_en": "Both major indices posted modest 0.5% gains today, reflecting a broadly neutral trading session without a clear directional catalyst. Several screened candidates like AMZN and BBWI showed bullish technical setups, but the overall market tone stayed muted rather than showing the kind of broad risk-on surge that would justify aggressive new positioning. Without a specific news catalyst driving the tape, this reads as consolidation rather than a trend change.",
-      "summary_zh": "\u4eca\u65e5\u5169\u5927\u6307\u6578\u8868\u73fe\u6eab\u548c\uff0c\u7d0d\u6307\u8207\u6a19\u666e500\u5747\u4e0a\u6f32\u7d040.5%\uff0c\u5e02\u6cc1\u5448\u4e2d\u6027\uff0c\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u96d6\u7136\u90e8\u5206\u7be9\u9078\u540d\u55ae\u4e2d\u7684\u80a1\u7968\uff08\u5982AMZN\u3001BBWI\uff09\u6280\u8853\u9762\u504f\u591a\uff0c\u4f46\u6574\u9ad4\u5e02\u5834\u6c23\u6c1b\u4ecd\u5c6c\u5e73\u6de1\uff0c\u672a\u898b\u5ee3\u6cdb\u7684\u98a8\u96aa\u504f\u597d\u4e0a\u5347\u884c\u60c5\uff0c\u96e3\u4ee5\u652f\u6301\u5927\u8209\u52a0\u78bc\u65b0\u5009\u4f4d\u3002\u5728\u7f3a\u4e4f\u5177\u9ad4\u6d88\u606f\u9762\u523a\u6fc0\u7684\u60c5\u6cc1\u4e0b\uff0c\u4eca\u65e5\u8d70\u52e2\u8f03\u50cf\u662f\u76e4\u6574\u800c\u975e\u8da8\u52e2\u8f49\u8b8a\u3002",
+      "summary_en": "Major indices traded essentially sideways today, with the NASDAQ dipping 0.2% and the S&P 500 roughly flat. There was no dominant macro catalyst driving the session, reflecting a market in a holding pattern rather than a clear risk-on or risk-off move. Without a strong signal, institutional flows appear balanced between buyers and sellers.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7a84\u5e45\u6574\u7406\uff0c\u7d0d\u6307\u5fae\u8dcc0.2%\uff0c\u6a19\u666e500\u5e7e\u4e4e\u6536\u5e73\u3002\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u8655\u65bc\u89c0\u671b\u72c0\u614b\uff0c\u4e26\u975e\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u6216\u907f\u96aa\u60c5\u7dd2\u4e3b\u5c0e\u3002\u5728\u7f3a\u4e4f\u5f37\u70c8\u8a0a\u865f\u4e0b\uff0c\u6a5f\u69cb\u8cc7\u91d1\u7684\u8cb7\u8ce3\u529b\u91cf\u5927\u81f4\u5e73\u8861\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Patience / Waiting for Confirmation",
-      "explanation_en": "Not every day requires a trade. When the market is neutral and available cash is below your deployment threshold, the disciplined move is to hold existing positions and wait for a genuine multi-signal setup (like a strong volume surge combined with bullish RSI and MACD) rather than forcing capital into mediocre opportunities.",
-      "explanation_zh": "\u4e26\u975e\u6bcf\u5929\u90fd\u9700\u8981\u4ea4\u6613\u3002\u7576\u5e02\u5834\u8655\u65bc\u4e2d\u6027\u72c0\u614b\uff0c\u4e14\u53ef\u7528\u73fe\u91d1\u4f4e\u65bc\u6295\u5165\u9580\u6abb\u6642\uff0c\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u5009\u4f4d\uff0c\u8010\u5fc3\u7b49\u5f85\u771f\u6b63\u5177\u5099\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\uff08\u4f8b\u5982\u6210\u4ea4\u91cf\u6fc0\u589e\u914d\u5408RSI\u8207MACD\u540c\u6b65\u504f\u591a\uff09\u7684\u6a5f\u6703\uff0c\u800c\u975e\u52c9\u5f37\u5c07\u8cc7\u91d1\u6295\u5165\u689d\u4ef6\u4e00\u822c\u7684\u6a19\u7684\u3002"
+      "term": "Dry Powder",
+      "explanation_en": "Dry powder means keeping cash in reserve instead of investing it immediately. When the market gives no strong signal, holding cash \u2014 even if it means missing a slow day \u2014 lets you deploy it with more confidence when a real opportunity appears.",
+      "explanation_zh": "\u300c\u5f48\u85e5\u300d\uff08Dry Powder\uff09\u662f\u6307\u4fdd\u7559\u73fe\u91d1\u5132\u5099\u800c\u975e\u7acb\u5373\u5168\u6578\u6295\u5165\u5e02\u5834\u3002\u7576\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u8a0a\u865f\u6642\uff0c\u6301\u6709\u73fe\u91d1\u2014\u2014\u5373\u4f7f\u56e0\u6b64\u932f\u904e\u5e73\u6de1\u7684\u4e00\u5929\u2014\u2014\u80fd\u8b93\u4f60\u5728\u771f\u6b63\u6a5f\u6703\u51fa\u73fe\u6642\u66f4\u6709\u4fe1\u5fc3\u5730\u90e8\u7f72\u8cc7\u91d1\u3002"
     }
   }
 }
