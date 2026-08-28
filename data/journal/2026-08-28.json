@@ -1,14 +1,14 @@
 {
   "date": "2026-08-28",
-  "briefing": "Markets were mildly negative today (NASDAQ -0.6%, S&P 500 -0.3%), a neutral/low-conviction session. With cash at $389.29 — below the $500 deployment threshold — and no new high-conviction, multi-signal setups warranting an exception, we're holding all 7 existing positions and keeping the remaining slots open rather than forcing a buy.",
+  "briefing": "Markets were neutral today (NASDAQ -0.5%, S&P 500 -0.3%) with no strong risk-on signal. Cash on hand ($389.29) sits below the $500 deployment threshold, and per prior lessons we don't force a buy just to fill open slots on a neutral day — holding the current 7 positions and waiting for a genuine risk-on setup or the cash cushion to build back up.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder means keeping cash on hand rather than investing it immediately, so you have flexibility to act when a genuinely strong opportunity appears. Today's cash balance was below our deployment threshold and the market showed no clear risk-on signal, so holding cash in reserve was the disciplined choice rather than forcing a trade.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指保留現金而非立即全數投入市場，這樣在真正出現強勁機會時才有資金可以把握。今日現金餘額低於部署門檻，且市場也沒有明確的風險偏好訊號，因此保留現金觀望是較為紀律的做法，而非勉強進場交易。"
+    "term": "Cash is a Position",
+    "explanation_en": "Holding cash isn't 'doing nothing' — it's an active choice to wait for a better opportunity rather than risk capital on a low-conviction setup. On neutral days like today, keeping dry powder in reserve (even below the deployment threshold) protects against forcing trades that don't meet your criteria.",
+    "explanation_zh": "持有現金並非「什麼都不做」，而是主動選擇等待更好的進場機會，而非在低確信度的情況下冒險投入資金。像今天這種市場方向不明的日子，保留現金儲備（即使低於部署門檻）可以避免被迫做出不符合條件的交易。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted slightly lower today in quiet, directionless trading, with the NASDAQ underperforming the S&P 500 slightly. There's no single dominant catalyst driving the move — it reads as consolidation after recent gains rather than a shift in sentiment. Days like this typically reward patience over action.",
-    "summary_zh": "今日大盤走勢平淡，那斯達克指數下跌0.6%，標普500指數下跌0.3%，屬於方向不明的整理格局。市場並無明顯的單一催化因素，較像是近期漲勢後的短暫消化，而非情緒面的轉向。這類交易日通常較適合觀望而非貿然進場。",
+    "summary_en": "Broad indices drifted modestly lower today with NASDAQ down 0.5% and the S&P 500 down 0.3%, a pattern consistent with a quiet, directionless session rather than any major catalyst. Without a strong risk-on or risk-off signal, institutional flows appear mixed, which is reflected in the moderate momentum scores across the screened candidate list. This kind of low-conviction chop is typically a consolidation phase rather than the start of a new trend.",
+    "summary_zh": "今日大盤走勢溫和偏弱，納斯達克指數下跌0.5%，標普500指數下跌0.3%，屬於缺乏明確方向的清淡交易日，並非受到重大消息面衝擊。在沒有明顯風險偏好或risk-off訊號的情況下，機構資金流向較為分歧，這也反映在篩選出的候選股動能分數普遍中等的情況上。這種低確信度的盤整走勢，通常屬於整理階段，而非新趨勢的開端。",
     "sources": []
   },
   "trades": [],
