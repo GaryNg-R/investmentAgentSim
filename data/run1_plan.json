@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-28T13:00:53.664615+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-08-28T14:01:01.821092+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": false,
-    "briefing": "NASDAQ +1.6% and S&P 500 +0.7% mark a moderate risk-on day, but with only $389.29 in cash \u2014 below the $500 deployment threshold \u2014 and no candidate meeting the four-signal high-conviction bar for a partial position, we held all 7 positions and kept cash in reserve rather than forcing a buy.",
+    "skip_new_buys": true,
+    "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.1%) with no clear directional signal. Cash reserve of $389.29 sits below our $500 minimum buy threshold, so per past lessons we're holding rather than forcing a new position on a neutral day. All 7 existing positions remain untouched, letting the automatic stop-loss and profit-target rules handle any needed exits.",
     "market_education": {
-      "summary_en": "Broad indices advanced today, led by the NASDAQ's 1.6% gain versus the S&P 500's more modest 0.7% rise, suggesting growth and tech names outperformed value-oriented sectors. No major company-specific catalysts were flagged in today's data feed. The relative strength of the NASDAQ points to continued investor appetite for higher-beta names in a risk-on tape.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.6%\uff0c\u9818\u5148\u6a19\u666e500\u6307\u65780.7%\u7684\u6f32\u5e45\uff0c\u986f\u793a\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u8868\u73fe\u512a\u65bc\u50f9\u503c\u578b\u985e\u80a1\u3002\u4eca\u65e5\u6578\u64da\u4e26\u672a\u6a19\u793a\u51fa\u7279\u5b9a\u516c\u53f8\u5c64\u9762\u7684\u91cd\u5927\u6d88\u606f\u3002\u7d0d\u6307\u76f8\u5c0d\u5f37\u52e2\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u9ad8\u8c9d\u5854\u6210\u9577\u80a1\u7684\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u5347\u6eab\u3002",
+      "summary_en": "Major U.S. indices traded essentially flat today, with the S&P 500 up just 0.1% and the Nasdaq unchanged on the day. Without strong economic data or earnings catalysts to push sentiment in either direction, trading volume and conviction stayed muted across most sectors. This kind of low-volatility, directionless session often reflects investors waiting for the next major data point before committing new capital.",
+      "summary_zh": "\u7f8e\u80a1\u4e3b\u8981\u6307\u6578\u4eca\u65e5\u8d70\u52e2\u5e73\u6de1\uff0c\u6a19\u666e500\u6307\u6578\u50c5\u5fae\u53470.1%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5247\u6301\u5e73\u6536\u5e02\u3002\u5e02\u5834\u7f3a\u4e4f\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u6d88\u606f\u523a\u6fc0\uff0c\u6295\u8cc7\u4eba\u666e\u904d\u89c0\u671b\uff0c\u6210\u4ea4\u91cf\u8207\u65b9\u5411\u6027\u5747\u504f\u5f31\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u3001\u65b9\u5411\u4e0d\u660e\u7684\u4ea4\u6613\u65e5\uff0c\u5f80\u5f80\u53cd\u6620\u5e02\u5834\u6b63\u7b49\u5f85\u4e0b\u4e00\u500b\u95dc\u9375\u8a0a\u865f\u624d\u6703\u6709\u8f03\u5927\u52d5\u4f5c\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today's market gain was positive but not strong enough (NASDAQ under +2%) and available cash was below the $500 minimum needed for a new position, so holding cash was the disciplined choice rather than forcing a trade.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u7684\u662f\u4fdd\u7559\u5728\u5834\u908a\u3001\u7b49\u5f85\u7d55\u4f73\u6642\u6a5f\u624d\u6295\u5165\u7684\u73fe\u91d1\u3002\u4eca\u65e5\u96d6\u7136\u5927\u76e4\u4e0a\u6f32\uff0c\u4f46\u6f32\u5e45\u672a\u9054\u5f37\u529b\u98a8\u591a\u8a0a\u865f\uff08\u7d0d\u6307\u672a\u8d85\u904e2%\uff09\uff0c\u4e14\u53ef\u7528\u73fe\u91d1\u4f4e\u65bc\u5efa\u5009\u6240\u9700\u7684500\u7f8e\u5143\u9580\u6abb\uff0c\u56e0\u6b64\u6309\u5175\u4e0d\u52d5\u3001\u4fdd\u7559\u73fe\u91d1\u624d\u662f\u7d00\u5f8b\u56b4\u8b39\u7684\u505a\u6cd5\uff0c\u800c\u975e\u52c9\u5f37\u9032\u5834\u4ea4\u6613\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "Risk-off doesn't always mean a market crash \u2014 it can simply mean staying disciplined and not deploying capital when signals are weak or cash reserves are too thin to build a meaningful position. Holding cash on a neutral day, rather than forcing a trade, protects the portfolio from chasing low-conviction setups.",
+      "explanation_zh": "\u300c\u907f\u96aa\u300d\uff08Risk-Off\uff09\u4e0d\u4e00\u5b9a\u4ee3\u8868\u5e02\u5834\u66b4\u8dcc\uff0c\u4e5f\u53ef\u4ee5\u662f\u6307\u5728\u8a0a\u865f\u4e0d\u660e\u6717\u3001\u6216\u73fe\u91d1\u5132\u5099\u4e0d\u8db3\u4ee5\u5efa\u7acb\u6709\u610f\u7fa9\u5009\u4f4d\u6642\uff0c\u4fdd\u6301\u7d00\u5f8b\u3001\u4e0d\u52c9\u5f37\u9032\u5834\u3002\u5728\u65b9\u5411\u4e0d\u660e\u7684\u4ea4\u6613\u65e5\u9078\u64c7\u6301\u6709\u73fe\u91d1\u800c\u975e\u786c\u6027\u4ea4\u6613\uff0c\u80fd\u907f\u514d\u8ffd\u9010\u4f4e\u628a\u63e1\u5ea6\u7684\u6a5f\u6703\uff0c\u4fdd\u8b77\u6574\u9ad4\u6295\u8cc7\u7d44\u5408\u3002"
     }
   }
 }

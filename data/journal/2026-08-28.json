@@ -1,14 +1,14 @@
 {
   "date": "2026-08-28",
-  "briefing": "NASDAQ +1.6% and S&P 500 +0.7% mark a moderate risk-on day, but with only $389.29 in cash — below the $500 deployment threshold — and no candidate meeting the four-signal high-conviction bar for a partial position, we held all 7 positions and kept cash in reserve rather than forcing a buy.",
+  "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.1%) with no clear directional signal. Cash reserve of $389.29 sits below our $500 minimum buy threshold, so per past lessons we're holding rather than forcing a new position on a neutral day. All 7 existing positions remain untouched, letting the automatic stop-loss and profit-target rules handle any needed exits.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today's market gain was positive but not strong enough (NASDAQ under +2%) and available cash was below the $500 minimum needed for a new position, so holding cash was the disciplined choice rather than forcing a trade.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是保留在場邊、等待絕佳時機才投入的現金。今日雖然大盤上漲，但漲幅未達強力風多訊號（納指未超過2%），且可用現金低於建倉所需的500美元門檻，因此按兵不動、保留現金才是紀律嚴謹的做法，而非勉強進場交易。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off doesn't always mean a market crash — it can simply mean staying disciplined and not deploying capital when signals are weak or cash reserves are too thin to build a meaningful position. Holding cash on a neutral day, rather than forcing a trade, protects the portfolio from chasing low-conviction setups.",
+    "explanation_zh": "「避險」（Risk-Off）不一定代表市場暴跌，也可以是指在訊號不明朗、或現金儲備不足以建立有意義倉位時，保持紀律、不勉強進場。在方向不明的交易日選擇持有現金而非硬性交易，能避免追逐低把握度的機會，保護整體投資組合。"
   },
   "market_education": {
-    "summary_en": "Broad indices advanced today, led by the NASDAQ's 1.6% gain versus the S&P 500's more modest 0.7% rise, suggesting growth and tech names outperformed value-oriented sectors. No major company-specific catalysts were flagged in today's data feed. The relative strength of the NASDAQ points to continued investor appetite for higher-beta names in a risk-on tape.",
-    "summary_zh": "今日大盤普遍上揚，納斯達克指數上漲1.6%，領先標普500指數0.7%的漲幅，顯示成長股與科技股表現優於價值型類股。今日數據並未標示出特定公司層面的重大消息。納指相對強勢，反映市場對高貝塔成長股的風險偏好持續升溫。",
+    "summary_en": "Major U.S. indices traded essentially flat today, with the S&P 500 up just 0.1% and the Nasdaq unchanged on the day. Without strong economic data or earnings catalysts to push sentiment in either direction, trading volume and conviction stayed muted across most sectors. This kind of low-volatility, directionless session often reflects investors waiting for the next major data point before committing new capital.",
+    "summary_zh": "美股主要指數今日走勢平淡，標普500指數僅微升0.1%，納斯達克指數則持平收市。市場缺乏重大經濟數據或業績消息刺激，投資人普遍觀望，成交量與方向性均偏弱。這種低波動、方向不明的交易日，往往反映市場正等待下一個關鍵訊號才會有較大動作。",
     "sources": []
   },
   "trades": [],
