@@ -1,14 +1,14 @@
 {
   "date": "2026-08-28",
-  "briefing": "Markets were mildly weaker today (NASDAQ -0.4%, S&P 500 -0.2%) with no clear risk-on signal. Cash is $389.29, below the $500 threshold needed to responsibly size a new position, so per past lessons we held rather than forcing a buy — existing positions continue to run under their automatic stop-loss/profit-target rules.",
+  "briefing": "Markets were mildly negative today (NASDAQ -0.6%, S&P 500 -0.3%), a neutral/low-conviction session. With cash at $389.29 — below the $500 deployment threshold — and no new high-conviction, multi-signal setups warranting an exception, we're holding all 7 existing positions and keeping the remaining slots open rather than forcing a buy.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors turn cautious and avoid adding new exposure, even if the market decline is mild — often shown by simply holding cash rather than deploying it. Today's slight pullback combined with insufficient cash to size a new position responsibly made holding the right call rather than forcing a trade.",
-    "explanation_zh": "「風險規避（Risk-Off）」是指投資者轉趨審慎，即使市場跌幅輕微，也傾向不增加新持倉，例如選擇持有現金而非強行進場。今日市場小幅走弱，加上現金水平不足以穩健建立新倉位，因此持有觀望才是正確做法，而非勉強交易。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder means keeping cash on hand rather than investing it immediately, so you have flexibility to act when a genuinely strong opportunity appears. Today's cash balance was below our deployment threshold and the market showed no clear risk-on signal, so holding cash in reserve was the disciplined choice rather than forcing a trade.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指保留現金而非立即全數投入市場，這樣在真正出現強勁機會時才有資金可以把握。今日現金餘額低於部署門檻，且市場也沒有明確的風險偏好訊號，因此保留現金觀望是較為紀律的做法，而非勉強進場交易。"
   },
   "market_education": {
-    "summary_en": "Both major indices drifted slightly lower today in quiet, low-conviction trading, with the NASDAQ underperforming the S&P 500 slightly. There was no single dominant catalyst driving the move, consistent with a market pausing to digest recent gains rather than reacting to fresh news. Without a clear risk-on trigger, this looks like routine consolidation rather than the start of a deeper pullback.",
-    "summary_zh": "今日兩大指數均小幅回落，成交氣氛清淡，缺乏方向感，納斯達克表現略遜於標普500指數。市場並無單一明顯的催化因素，較像是消化近期升幅後的整固，而非受突發消息影響。在未見明確的風險偏好訊號下，這波回調傾向於例行性整理，而非深度回調的開端。",
+    "summary_en": "Both major indices drifted slightly lower today in quiet, directionless trading, with the NASDAQ underperforming the S&P 500 slightly. There's no single dominant catalyst driving the move — it reads as consolidation after recent gains rather than a shift in sentiment. Days like this typically reward patience over action.",
+    "summary_zh": "今日大盤走勢平淡，那斯達克指數下跌0.6%，標普500指數下跌0.3%，屬於方向不明的整理格局。市場並無明顯的單一催化因素，較像是近期漲勢後的短暫消化，而非情緒面的轉向。這類交易日通常較適合觀望而非貿然進場。",
     "sources": []
   },
   "trades": [],
