@@ -1,14 +1,14 @@
 {
   "date": "2026-08-28",
-  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.0%) with no clear directional signal. Cash on hand ($389.29) is below our $500 deployment threshold, so per past lessons we're holding rather than forcing a buy into a neutral tape — waiting for a genuine risk-on setup to fill the 3 open slots.",
+  "briefing": "Market was neutral today with NASDAQ -0.4% and S&P 500 -0.2%, showing no strong directional signal. Cash on hand ($389.29) is below the $500 deployment threshold, so no new positions were opened. Holding all 7 existing positions and waiting for a genuine risk-on setup before deploying capital.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder means keeping cash in reserve instead of investing it immediately. When the market gives no strong signal, holding cash — even if it means missing a slow day — lets you deploy it with more confidence when a real opportunity appears.",
-    "explanation_zh": "「彈藥」（Dry Powder）是指保留現金儲備而非立即全數投入市場。當市場缺乏明確訊號時，持有現金——即使因此錯過平淡的一天——能讓你在真正機會出現時更有信心地部署資金。"
+    "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to be deployed when a strong opportunity appears. Today, with cash below the buy threshold and the market showing no clear risk-on signal, holding cash rather than forcing a trade is a disciplined use of dry powder.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指留在場邊、隨時準備在出現絕佳機會時投入的現金。今天現金餘額低於買入門檻，且市場沒有明確的風險偏好訊號，因此保留現金而非勉強交易，正是善用乾火藥的紀律表現。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially sideways today, with the NASDAQ dipping 0.2% and the S&P 500 roughly flat. There was no dominant macro catalyst driving the session, reflecting a market in a holding pattern rather than a clear risk-on or risk-off move. Without a strong signal, institutional flows appear balanced between buyers and sellers.",
-    "summary_zh": "今日大市窄幅整理，納指微跌0.2%，標普500幾乎收平。市場缺乏明顯的宏觀催化劑，反映投資者處於觀望狀態，並非明確的風險偏好或避險情緒主導。在缺乏強烈訊號下，機構資金的買賣力量大致平衡。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.2%, in the absence of any single dominant catalyst. Trading stayed cautious and range-bound as investors weighed mixed signals without a clear risk-on or risk-off trigger. The modest pullback reflects a pause rather than a shift in trend, consistent with a neutral market backdrop.",
+    "summary_zh": "今日大盤小幅走軟，納斯達克指數下跌0.4%，標普500指數下跌0.2%，市場缺乏明確的單一催化因素。投資人在缺乏清晰風險偏好訊號的情況下保持謹慎，走勢维持在窄幅區間內。這波溫和回調更像是短暫喘息，而非趨勢轉向，符合整體中性市況。",
     "sources": []
   },
   "trades": [],
