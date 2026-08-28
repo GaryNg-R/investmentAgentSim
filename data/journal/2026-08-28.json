@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-28",
+  "briefing": "NASDAQ +1.6% and S&P 500 +0.7% mark a moderate risk-on day, but with only $389.29 in cash — below the $500 deployment threshold — and no candidate meeting the four-signal high-conviction bar for a partial position, we held all 7 positions and kept cash in reserve rather than forcing a buy.",
+  "daily_lesson": {
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today's market gain was positive but not strong enough (NASDAQ under +2%) and available cash was below the $500 minimum needed for a new position, so holding cash was the disciplined choice rather than forcing a trade.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是保留在場邊、等待絕佳時機才投入的現金。今日雖然大盤上漲，但漲幅未達強力風多訊號（納指未超過2%），且可用現金低於建倉所需的500美元門檻，因此按兵不動、保留現金才是紀律嚴謹的做法，而非勉強進場交易。"
+  },
+  "market_education": {
+    "summary_en": "Broad indices advanced today, led by the NASDAQ's 1.6% gain versus the S&P 500's more modest 0.7% rise, suggesting growth and tech names outperformed value-oriented sectors. No major company-specific catalysts were flagged in today's data feed. The relative strength of the NASDAQ points to continued investor appetite for higher-beta names in a risk-on tape.",
+    "summary_zh": "今日大盤普遍上揚，納斯達克指數上漲1.6%，領先標普500指數0.7%的漲幅，顯示成長股與科技股表現優於價值型類股。今日數據並未標示出特定公司層面的重大消息。納指相對強勢，反映市場對高貝塔成長股的風險偏好持續升溫。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 13955.735246181488,
+    "cash": 389.2850012779236,
+    "pnl_dollar": 3955.735246181488,
+    "pnl_pct": 39.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
