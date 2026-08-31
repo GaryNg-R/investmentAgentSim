@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-31",
+  "briefing": "Markets drifted slightly lower today with the NASDAQ down 0.5% and the S&P 500 down 0.2% in a neutral, low-conviction session. Cash sits at $389, below the $500 deployment threshold, so per our playbook we held all 7 positions and skipped new buys rather than forcing capital into a non-risk-on day.",
+  "daily_lesson": {
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' posture means holding back from new positions when market signals are weak or mixed, even if you have cash on hand. It's not about being fearful — it's about waiting for a clearer, higher-conviction setup (like strong volume and momentum confirmation) instead of deploying capital just because it's sitting idle.",
+    "explanation_zh": "「風險規避」（Risk-Off）指在市場訊號疲弱或不明朗時，即使手頭有現金，亦選擇暫緩建立新倉位。這並非因為恐懼，而是寧願等待更清晰、更高把握的入市時機（例如成交量及動能同步確認），也不會單純因為現金閒置而勉強出手。"
+  },
+  "market_education": {
+    "summary_en": "Major indices closed modestly lower in quiet, directionless trading, with the NASDAQ underperforming the S&P 500 slightly. There was no single dominant catalyst driving the move; it reflected broad consolidation after recent gains rather than a specific shock. Volume and volatility remained subdued, consistent with a wait-and-see posture from investors.",
+    "summary_zh": "大盤今日走勢平淡，收市輕微下跌，納斯達克指數跌幅略大於標普500指數。今日並無單一重大消息主導市場，走勢較似是近期升勢後的整固，而非受特定衝擊影響。成交量及波動性均維持在低水平，反映投資者普遍採取觀望態度。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 14055.735246181488,
+    "cash": 489.2850012779236,
+    "pnl_dollar": 4055.735246181488,
+    "pnl_pct": 40.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}

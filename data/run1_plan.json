@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-08-28T21:00:49.393965+00:00",
+  "saved_at": "2026-08-31T13:00:50.122579+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": false,
-    "briefing": "Markets were roughly flat today (NASDAQ -0.5%, S&P 500 -0.2%), showing no clear risk-on or risk-off signal. Cash on hand ($389.29) sits below the $500 deployment threshold and per past lessons we don't force buys on neutral days just to fill open slots, so we're holding all 7 positions unchanged and waiting for a genuine risk-on setup.",
+    "skip_new_buys": true,
+    "briefing": "Markets drifted slightly lower today with the NASDAQ down 0.5% and the S&P 500 down 0.2% in a neutral, low-conviction session. Cash sits at $389, below the $500 deployment threshold, so per our playbook we held all 7 positions and skipped new buys rather than forcing capital into a non-risk-on day.",
     "market_education": {
-      "summary_en": "Broad indices drifted slightly lower today with no dominant catalyst, reflecting a quiet, indecisive session rather than any major shift in sentiment. Volume and price action across most of the screened candidates stayed muted compared to the volume-surge breakouts seen on stronger days. Without a clear directional trigger, mega-cap tech and the broader market largely traded sideways.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6307\u6578\u5c0f\u5e45\u8d70\u4f4e,NASDAQ\u8dcc0.5%\u3001\u6a19\u666e500\u8dcc0.2%,\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u63a8\u52d5\u56e0\u7d20,\u5448\u73fe\u89c0\u671b\u6c23\u6c1b\u3002\u591a\u6578\u7be9\u9078\u80a1\u7968\u7684\u6210\u4ea4\u91cf\u8207\u50f9\u683c\u8d70\u52e2\u90fd\u6bd4\u8f03\u5e73\u6de1,\u4e0d\u50cf\u5f37\u52e2\u65e5\u90a3\u6a23\u51fa\u73fe\u653e\u91cf\u7a81\u7834\u3002\u6574\u9ad4\u800c\u8a00,\u5927\u578b\u79d1\u6280\u80a1\u8207\u5927\u76e4\u591a\u7dad\u6301\u6a6b\u76e4\u6574\u7406\u683c\u5c40\u3002",
+      "summary_en": "Major indices closed modestly lower in quiet, directionless trading, with the NASDAQ underperforming the S&P 500 slightly. There was no single dominant catalyst driving the move; it reflected broad consolidation after recent gains rather than a specific shock. Volume and volatility remained subdued, consistent with a wait-and-see posture from investors.",
+      "summary_zh": "\u5927\u76e4\u4eca\u65e5\u8d70\u52e2\u5e73\u6de1\uff0c\u6536\u5e02\u8f15\u5fae\u4e0b\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u7565\u5927\u65bc\u6a19\u666e500\u6307\u6578\u3002\u4eca\u65e5\u4e26\u7121\u55ae\u4e00\u91cd\u5927\u6d88\u606f\u4e3b\u5c0e\u5e02\u5834\uff0c\u8d70\u52e2\u8f03\u4f3c\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u6574\u56fa\uff0c\u800c\u975e\u53d7\u7279\u5b9a\u885d\u64ca\u5f71\u97ff\u3002\u6210\u4ea4\u91cf\u53ca\u6ce2\u52d5\u6027\u5747\u7dad\u6301\u5728\u4f4e\u6c34\u5e73\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "Dry powder refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears rather than being spent just to feel active. On a neutral day like today, holding cash below the buy threshold and waiting is often smarter than forcing a trade.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d(Dry Powder)\u662f\u6307\u4fdd\u7559\u73fe\u91d1,\u7b49\u5f85\u771f\u6b63\u5f37\u52e2\u7684\u6295\u8cc7\u6a5f\u6703\u51fa\u73fe\u6642\u518d\u51fa\u624b,\u800c\u4e0d\u662f\u70ba\u4e86\u300c\u6709\u52d5\u4f5c\u300d\u800c\u52c9\u5f37\u4ea4\u6613\u3002\u50cf\u4eca\u5929\u9019\u7a2e\u4e2d\u6027\u884c\u60c5,\u6301\u6709\u73fe\u91d1\u8010\u5fc3\u7b49\u5f85,\u5f80\u5f80\u6bd4\u52c9\u5f37\u8cb7\u9032\u66f4\u660e\u667a\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "A 'risk-off' posture means holding back from new positions when market signals are weak or mixed, even if you have cash on hand. It's not about being fearful \u2014 it's about waiting for a clearer, higher-conviction setup (like strong volume and momentum confirmation) instead of deploying capital just because it's sitting idle.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\uff08Risk-Off\uff09\u6307\u5728\u5e02\u5834\u8a0a\u865f\u75b2\u5f31\u6216\u4e0d\u660e\u6717\u6642\uff0c\u5373\u4f7f\u624b\u982d\u6709\u73fe\u91d1\uff0c\u4ea6\u9078\u64c7\u66ab\u7de9\u5efa\u7acb\u65b0\u5009\u4f4d\u3002\u9019\u4e26\u975e\u56e0\u70ba\u6050\u61fc\uff0c\u800c\u662f\u5be7\u9858\u7b49\u5f85\u66f4\u6e05\u6670\u3001\u66f4\u9ad8\u628a\u63e1\u7684\u5165\u5e02\u6642\u6a5f\uff08\u4f8b\u5982\u6210\u4ea4\u91cf\u53ca\u52d5\u80fd\u540c\u6b65\u78ba\u8a8d\uff09\uff0c\u4e5f\u4e0d\u6703\u55ae\u7d14\u56e0\u70ba\u73fe\u91d1\u9592\u7f6e\u800c\u52c9\u5f37\u51fa\u624b\u3002"
     }
   }
 }
