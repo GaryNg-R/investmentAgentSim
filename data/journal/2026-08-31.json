@@ -1,14 +1,14 @@
 {
   "date": "2026-08-31",
-  "briefing": "Markets drifted lower today (NASDAQ -0.3%, S&P 500 -0.4%) in a neutral, low-conviction session. With cash at $489.29 — just under the $500 deployment threshold — and no strong risk-on signal, we're holding all 7 positions and sitting on cash rather than forcing a buy.",
+  "briefing": "Markets were neutral today with NASDAQ and S&P 500 both down -0.4%, no strong risk-on signal. Cash on hand ($489.29) sits just below the $500 deployment threshold, so per past lessons we're holding rather than forcing a buy — waiting for a genuine risk-on setup with multi-signal confirmation. All 7 existing positions are held through this low-conviction day.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on hand, ready to deploy when a genuinely strong opportunity appears, rather than being invested just for the sake of staying fully invested. Today our cash balance sat just below the $500 deployment threshold on a neutral market day, so the disciplined move is to hold that cash rather than force a buy.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是手上保留的現金，等待真正出現強烈訊號時才出手，而不是為了「把錢用完」而勉強進場。今天現金餘額剛好低於500美元的部署門檻，加上市況中性，因此紀律上應該繼續持有現金，等待更明確的進場時機。"
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a genuinely attractive opportunity appears. Today, with cash just under the usual buy threshold and the market showing no strong directional signal, holding that cash rather than forcing a trade is the disciplined choice.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指預留在場邊、待有真正吸引機會時才動用的現金。今日現金水平剛好低於一般買入門檻，加上市場缺乏明確方向訊號，選擇持有現金而非勉強交易，正是紀律性操作的表現。"
   },
   "market_education": {
-    "summary_en": "Major indices slipped modestly today, with the NASDAQ down 0.3% and the S&P 500 down 0.4%, reflecting a quiet, directionless trading session rather than any major catalyst. There was no single dominant headline driving the move — price action looked like routine consolidation after recent gains. Volume and momentum signals across the screened universe remained mixed, with several names still in bullish RSI zones but no broad-based breakout.",
-    "summary_zh": "今日大盤走勢平淡，那斯達克指數下跌0.3%，標普500指數下跌0.4%，並無明顯的重大消息面驅動，較像是近期漲勢後的正常整理。篩選名單中的動能訊號依然參差不齊，部分股票RSI仍處於偏多區間，但未見全面性的突破行情。",
+    "summary_en": "Major indices drifted slightly lower today, with both the NASDAQ and S&P 500 down about 0.4% in a broadly directionless session. There was no dominant macro catalyst driving the move — this looks like routine consolidation after recent gains rather than a shift in sentiment. Without a clear risk-on or risk-off trigger, mega-cap tech and the broader market largely tracked each other lower.",
+    "summary_zh": "今日大市溫和回落，納斯達克指數與標普500指數同步下跌約0.4%，走勢缺乏明確方向。市場並無重大宏觀消息主導今日表現，較似是近期升勢後的正常整固，而非市場情緒逆轉。在欠缺明顯risk-on或risk-off訊號下，大型科技股與大盤走勢基本同步偏軟。",
     "sources": []
   },
   "trades": [],
