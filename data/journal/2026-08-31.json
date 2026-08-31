@@ -1,14 +1,14 @@
 {
   "date": "2026-08-31",
-  "briefing": "Markets drifted slightly lower today (S&P 500 -0.5%, NASDAQ -0.3%) on a neutral, low-conviction session with no risk-on confirmation. Cash on hand ($489.29) sits just below the $500 deployment threshold, so per strategy memory we held all 7 existing positions and skipped new buys rather than forcing a trade.",
+  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.4%, S&P 500 -0.4%), a neutral session with no clear risk-on signal. Cash on hand ($489.29) sits just below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy — waiting for a genuine risk-on setup with multi-signal confirmation before deploying into new positions.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" means keeping cash on the sidelines instead of investing it immediately, so it's ready to deploy when a genuinely strong opportunity shows up. On a neutral day with cash just under the buy threshold, holding rather than forcing a trade preserves flexibility and avoids buying into a weak setup.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指暫時保留在場邊、尚未投入市場的現金，等到真正出現有吸引力的機會時再部署。在市場中性、現金又剛好低於買入門檻的情況下，選擇持有而非勉強交易，能保留操作彈性，避免買在條件不佳的格局中。"
+    "term": "Patience / Sitting on Cash",
+    "explanation_en": "Sometimes the best trading decision is no decision. When cash reserves are limited and the market shows no strong directional signal, holding cash and waiting avoids buying into weak setups just to feel productive. Discipline in avoiding low-conviction trades protects capital for genuine opportunities.",
+    "explanation_zh": "有時候最好的交易決定就是不作決定。當現金儲備有限、市場又缺乏明確方向時,持有現金並耐心等待,可避免為求「有做嘢」而勉強買入質素不佳的機會。避免低把握度交易的紀律,正是為真正的機會保留彈藥。"
   },
   "market_education": {
-    "summary_en": "Major indices edged lower today, with the S&P 500 down 0.5% and the Nasdaq off 0.3%, in a broadly neutral, low-conviction session. There was no standout catalyst driving heavier volume or volatility, so the move reads more like routine consolidation after recent gains than the start of a deeper pullback. Investors appear to be waiting for a clearer directional signal before committing fresh capital.",
-    "summary_zh": "今日大盤小幅走弱，標普500指數下跌0.5%，那斯達克指數下跌0.3%，整體屬於中性、缺乏明確方向的交易日。市場並未出現明顯利空消息帶動成交量或波動性放大，這次回檔較像是近期漲勢後的正常盤整，而非更深修正的開端。投資人似乎仍在等待更清晰的訊號，才會再度加碼資金。",
+    "summary_en": "Today's session was largely directionless, with both the NASDAQ and S&P 500 slipping about 0.4%. No major catalyst drove the move — it reflects a quiet, consolidating market rather than a shift in sentiment. With no strong momentum signal, staying patient and holding existing positions was the more prudent choice than chasing a marginal setup.",
+    "summary_zh": "今日大市走勢平淡,納指及標普500指數均微跌約0.4%,市場缺乏明顯催化劑,屬於一個整固性質的交易日,而非情緒轉向的訊號。在缺乏強勁動能訊號的情況下,維持現有持倉、按兵不動,較勉強追入新倉更為穩健。",
     "sources": []
   },
   "trades": [],
