@@ -1,14 +1,14 @@
 {
   "date": "2026-08-31",
-  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.4%, S&P 500 -0.4%), a neutral session with no clear risk-on signal. Cash on hand ($489.29) sits just below the $500 deployment threshold, so per prior lessons we're holding rather than forcing a buy — waiting for a genuine risk-on setup with multi-signal confirmation before deploying into new positions.",
+  "briefing": "Markets drifted lower today (NASDAQ -0.4%, S&P500 -0.5%) on no clear catalyst — a neutral, low-conviction session. With cash at $489.29 (just under the $500 buy threshold) and 3 open slots, per past lessons we're holding rather than forcing a buy on a non-risk-on day; existing positions stay untouched and protected by automatic stop-loss/profit-target rules.",
   "daily_lesson": {
-    "term": "Patience / Sitting on Cash",
-    "explanation_en": "Sometimes the best trading decision is no decision. When cash reserves are limited and the market shows no strong directional signal, holding cash and waiting avoids buying into weak setups just to feel productive. Discipline in avoiding low-conviction trades protects capital for genuine opportunities.",
-    "explanation_zh": "有時候最好的交易決定就是不作決定。當現金儲備有限、市場又缺乏明確方向時,持有現金並耐心等待,可避免為求「有做嘢」而勉強買入質素不佳的機會。避免低把握度交易的紀律,正是為真正的機會保留彈藥。"
+    "term": "Patience / Cash Discipline",
+    "explanation_en": "Not every day requires a trade — when the market gives a neutral signal and your available cash is below your position-sizing threshold, the disciplined move is to wait rather than force a purchase just to 'use' the cash. Chasing deployment on a low-conviction day increases risk without improving expected return.",
+    "explanation_zh": "並非每日都需要交易——當市場訊號中性、可用現金又未達建立倉位的門檻時，較為紀律的做法是耐心等待，而非為「用盡現金」而勉強買入。在信號薄弱的日子強行進場，只會增加風險而未必提升預期回報。"
   },
   "market_education": {
-    "summary_en": "Today's session was largely directionless, with both the NASDAQ and S&P 500 slipping about 0.4%. No major catalyst drove the move — it reflects a quiet, consolidating market rather than a shift in sentiment. With no strong momentum signal, staying patient and holding existing positions was the more prudent choice than chasing a marginal setup.",
-    "summary_zh": "今日大市走勢平淡,納指及標普500指數均微跌約0.4%,市場缺乏明顯催化劑,屬於一個整固性質的交易日,而非情緒轉向的訊號。在缺乏強勁動能訊號的情況下,維持現有持倉、按兵不動,較勉強追入新倉更為穩健。",
+    "summary_en": "Both major indices slipped modestly today, with the S&P 500 underperforming the NASDAQ slightly, suggesting broad-based light selling rather than a sector-specific rotation. Volume and price action don't show panic — this looks like routine consolidation after recent gains rather than a shift in trend. No single catalyst stood out, which is typical of quieter, lower-conviction trading days.",
+    "summary_zh": "今日兩大指數同步小幅回落，標普500表現略遜於納指，反映市場屬廣泛性的溫和沽壓，而非個別板塊調整。成交量及價格走勢未見恐慌迹象，較似是近期升勢後的正常整固，而非趨勢逆轉。今日未見明顯單一觸發因素，屬於信號較弱的平淡交易日。",
     "sources": []
   },
   "trades": [],
