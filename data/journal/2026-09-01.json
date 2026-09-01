@@ -1,14 +1,14 @@
 {
   "date": "2026-09-01",
-  "briefing": "Markets were mildly negative today (NASDAQ -0.8%, S&P 500 -0.6%) with no clear risk-on signal. Cash on hand ($489.29) sits just below the $500 buy threshold, and per past lessons we don't force a buy into idle slots on a neutral day — holding existing 7 positions and waiting for a genuine risk-on setup with stronger multi-signal confirmation.",
+  "briefing": "Market was neutral today (NASDAQ -0.9%, S&P 500 -0.7%) with no strong risk-on signal. Cash on hand ($489.29) is below the $500 deployment threshold, and per past lessons we don't force buys on neutral days just to fill open slots, so we held all 7 positions unchanged.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a strong opportunity appears. Today's neutral market and below-threshold cash balance are a textbook case for holding that reserve rather than forcing a trade — patience preserves optionality for a better setup.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者預留在場邊的現金，待出現理想機會時才動用。今日市況中性，現金餘額亦未達買入門檻，正是應該保留這筆儲備、而非勉強交易的典型情況——耐心等待能為日後更佳的入市時機保留彈性。"
+    "term": "Cash Discipline",
+    "explanation_en": "Cash discipline means not forcing a trade just because you have open slots or feel pressure to \"do something.\" On a neutral day with cash below your deployment threshold, the disciplined move is to wait for a genuine risk-on signal rather than buying into a soft market.",
+    "explanation_zh": "現金紀律是指不會因為有空餘倉位或急於「做點什麼」而勉強交易。在市場中性、現金水位又未達加碼門檻的日子,有紀律的做法是耐心等待真正的risk-on訊號出現,而不是在疲弱市況中勉強進場。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 slipped modestly today, reflecting a broadly cautious, low-conviction trading session rather than any single dramatic catalyst. Moves of under 1% like this typically indicate investors digesting recent gains or waiting for the next batch of economic data rather than reacting to major news. With no strong directional signal, staying patient and preserving cash is often the more disciplined choice.",
-    "summary_zh": "納斯達克指數及標普500指數今日均溫和下跌，反映市場氣氛審慎，交投缺乏方向，並非受單一重大事件觸發。像今日這種不足1%的波動，通常顯示投資者正在消化早前升幅，或等待下一批經濟數據公佈，而非對重大新聞作出反應。在缺乏明確方向訊號的情況下，保持耐性、留存現金往往是較穩健的做法。",
+    "summary_en": "Both major indices pulled back modestly today, with the NASDAQ down 0.9% and the S&P 500 down 0.7%, reflecting a broad, low-conviction risk-off tilt rather than any single catalyst. Momentum candidates on the screener still showed bullish setups, but with cash below the buy threshold there was no reason to chase names into a soft tape. Holding steady through mild pullbacks like this protects existing gains while avoiding whipsaw trades.",
+    "summary_zh": "今日美股主要指數普遍回落,納指下跌0.9%,標普500下跌0.7%,屬於缺乏明確催化劑的溫和risk-off格局。雖然篩選名單中仍有多隻股票呈現技術面偏多訊號,但由於現金水位低於加碼門檻,今日不宜追高進場。在這類溫和回調中按兵不動,有助保住現有獲利,同時避免因追漲殺跌而增加交易成本。",
     "sources": []
   },
   "trades": [],
