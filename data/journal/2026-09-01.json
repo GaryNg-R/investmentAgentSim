@@ -1,14 +1,14 @@
 {
   "date": "2026-09-01",
-  "briefing": "Markets were flat to slightly lower today (NASDAQ -0.1%, S&P 500 -0.3%), a neutral session with no clear risk-on signal. Cash on hand ($489.29) is below the $500 deployment threshold, and per prior lessons we don't force a buy into a neutral tape just to fill open slots, so we're holding all 7 positions and waiting for a genuine risk-on setup.",
+  "briefing": "Markets pulled back today with the NASDAQ down 1.1% and S&P 500 down 0.7%, putting conditions in risk-off territory. No new candidates were screened, so we're holding all 7 existing positions and sitting tight on cash rather than forcing a trade.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder means keeping cash on the sidelines instead of investing it immediately, so you have capital ready to deploy when a clearly favorable opportunity appears. On a neutral day like today, with cash just below the buy threshold, holding that cash rather than forcing a trade preserves flexibility for a stronger setup later.",
-    "explanation_zh": "「彈藥」（Dry Powder）指的是保留現金而不急於投資，以便在真正出現理想機會時有資金可以運用。像今日這種中性市況，現金剛好低於買入門檻，寧願持有現金而非勉強交易，可以為日後更佳的入市時機保留靈活性。"
+    "term": "Risk-Off",
+    "explanation_en": "\"Risk-off\" describes a market mood where investors sell riskier assets like growth stocks and move toward safer holdings or cash. It often shows up as tech and momentum names falling harder than the broader market, which is exactly what happened today.",
+    "explanation_zh": "「風險趨避」（Risk-Off）是指投資人賣出成長股等風險較高的資產，轉而持有較安全的資產或現金的市場氛圍。這種情況常表現為科技股與強勢股跌幅大於大盤，今天的市況正是如此。"
   },
   "market_education": {
-    "summary_en": "Today's session was quiet, with the S&P 500 and NASDAQ both drifting slightly lower in a narrow range. There was no dominant macro catalyst driving the move, consistent with a low-conviction, wait-and-see day for investors. Absent a specific news trigger, the modest pullback looks like routine consolidation rather than the start of a trend.",
-    "summary_zh": "今日大市表現平淡，標普500及納指均輕微下跌，波幅有限。市場沒有明顯的宏觀消息主導走勢，反映投資者普遍採取觀望態度。在缺乏具體新聞觸發因素下，這次溫和回調較似是常規整固，而非趨勢逆轉的開端。",
+    "summary_en": "Broad indices declined today, with the NASDAQ underperforming the S&P 500, suggesting growth and tech-heavy names faced more selling pressure than the broader market. This kind of divergence often reflects investors rotating out of higher-risk, higher-valuation stocks during uncertain periods. Without confirmed catalysts to cite from today's news feed, the safest read is a broad risk-off tone rather than a single company-specific event.",
+    "summary_zh": "今日大盤普遍下跌，納斯達克指數跌幅（-1.1%）大於標普500指數（-0.7%），顯示科技股及成長股所承受的賣壓較大盤更重。這種指數表現分歧的情況，通常反映投資人在市場不確定時，傾向撤離估值較高、風險較大的股票。由於今日未取得具體新聞來源可供引用，較穩妥的解讀是市場整體轉向風險趨避，而非單一個股事件所致。",
     "sources": []
   },
   "trades": [],
