@@ -1,14 +1,14 @@
 {
   "date": "2026-09-01",
-  "briefing": "Market was neutral today (NASDAQ -0.9%, S&P 500 -0.7%) with no strong risk-on signal. Cash on hand ($489.29) is below the $500 deployment threshold, and per past lessons we don't force buys on neutral days just to fill open slots, so we held all 7 positions unchanged.",
+  "briefing": "Markets pulled back today with NASDAQ down 1.1% and S&P 500 down 0.8%, putting us in risk-off mode. No new candidates passed the screen, so we're holding all 7 existing positions and keeping cash on the sidelines rather than forcing a buy.",
   "daily_lesson": {
-    "term": "Cash Discipline",
-    "explanation_en": "Cash discipline means not forcing a trade just because you have open slots or feel pressure to \"do something.\" On a neutral day with cash below your deployment threshold, the disciplined move is to wait for a genuine risk-on signal rather than buying into a soft market.",
-    "explanation_zh": "現金紀律是指不會因為有空餘倉位或急於「做點什麼」而勉強交易。在市場中性、現金水位又未達加碼門檻的日子,有紀律的做法是耐心等待真正的risk-on訊號出現,而不是在疲弱市況中勉強進場。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, often causing indices like the NASDAQ to fall more than the broader market. The smart move isn't to panic-sell your holdings, but to pause new purchases and let your existing risk controls (like stop-losses) do their job.",
+    "explanation_zh": "「避險」(Risk-Off)是指投資者普遍拋售增長股等高風險資產,轉而尋求較安全的資產,這通常令納斯達克等指數跌幅大於大盤。聰明的做法不是恐慌性拋售現有持倉,而是暫停新增買入,並讓止蝕等風險控制機制自動發揮作用。"
   },
   "market_education": {
-    "summary_en": "Both major indices pulled back modestly today, with the NASDAQ down 0.9% and the S&P 500 down 0.7%, reflecting a broad, low-conviction risk-off tilt rather than any single catalyst. Momentum candidates on the screener still showed bullish setups, but with cash below the buy threshold there was no reason to chase names into a soft tape. Holding steady through mild pullbacks like this protects existing gains while avoiding whipsaw trades.",
-    "summary_zh": "今日美股主要指數普遍回落,納指下跌0.9%,標普500下跌0.7%,屬於缺乏明確催化劑的溫和risk-off格局。雖然篩選名單中仍有多隻股票呈現技術面偏多訊號,但由於現金水位低於加碼門檻,今日不宜追高進場。在這類溫和回調中按兵不動,有助保住現有獲利,同時避免因追漲殺跌而增加交易成本。",
+    "summary_en": "Broad market weakness today pushed both the NASDAQ and S&P 500 lower, with tech-heavy indices underperforming as investors rotated away from riskier assets. Without specific headline-level news provided for today's session, the move appears consistent with a general risk-off pullback rather than a single catalyst. In these conditions it's prudent to avoid chasing new positions and instead protect existing gains.",
+    "summary_zh": "今日大市普遍偏弱,納斯達克及標普500指數同告下跌,科技股表現遜色,反映投資者資金正流出風險資產。由於今日未有提供具體新聞標題,今次跌勢看似屬於整體避險情緒所致,而非單一事件觸發。在這種市況下,審慎做法是避免追入新倉,並專注保護現有持倉的獲利。",
     "sources": []
   },
   "trades": [],
