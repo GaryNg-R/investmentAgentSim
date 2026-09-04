@@ -238,7 +238,8 @@ def call_claude(prompt: str) -> str:
             proc.kill()
         raise RuntimeError("claude CLI timed out after 120s") from exc
     if result.returncode != 0:
-        raise RuntimeError(f"claude CLI failed (exit {result.returncode}): {result.stderr[:200]}")
+        detail = result.stderr.strip() or result.stdout.strip()
+        raise RuntimeError(f"claude CLI failed (exit {result.returncode}): {detail[:300]}")
     return result.stdout
 
 

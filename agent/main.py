@@ -87,6 +87,7 @@ def cmd_run1(db_path: str = DB_PATH, plan_path: str = PLAN_PATH) -> None:
 
         print(decisions["briefing"])
         if decisions["briefing"].startswith("Analysis failed:"):
+            notify_error("run1", decisions["briefing"])
             sys.exit(1)
         for trade in decisions.get("trades", []):
             action = trade.get("action", "")

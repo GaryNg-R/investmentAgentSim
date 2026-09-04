@@ -1,0 +1,12 @@
+[Unit]
+Description=Investment Agent Runner
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/gary/Documents/github/investmentAgentSim
+Environment="PATH=/home/gary/.local/bin:/usr/local/bin:/usr/bin:/bin"
+ExecStart=/home/gary/Documents/github/investmentAgentSim/run_agent.sh
+StandardOutput=append:/home/gary/Documents/github/investmentAgentSim/logs/systemd.log
+StandardError=append:/home/gary/Documents/github/investmentAgentSim/logs/systemd.log

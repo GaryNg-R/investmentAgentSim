@@ -6,6 +6,7 @@ Never raises — logs a warning if sending fails.
 
 from __future__ import annotations
 
+import datetime
 import json
 import os
 import ssl
@@ -55,6 +56,11 @@ def send_telegram(message: str) -> bool:
 def _esc(text: str) -> str:
     """Escape Telegram HTML special characters in LLM-controlled content."""
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def _is_report_hour() -> bool:
+    """Routine plan/execution reports only go out twice a day: 7am and 2pm."""
+    return datetime.datetime.now().hour in (7, 14)
 
 
 def notify_run1(  # FEAT-001: added market_education and daily_lesson params
@@ -123,6 +129,10 @@ def notify_run1(  # FEAT-001: added market_education and daily_lesson params
         lines.append("")
         lines.append("No trades planned today.")
 
+    if not _is_report_hour():
+        print("[notify] Not a report hour (7am/2pm) — skipping daily plan Telegram")
+        return
+
     send_telegram("\n".join(lines))
 
 
@@ -187,6 +197,10 @@ def notify_run2(  # FEAT-002: added benchmark param
             else:
                 label = f"{ticker} ({_esc(account)})"
             lines.append(f"  {label}: +{shares_added:.4f} shares (${total_div:.2f})")
+
+    if not _is_report_hour():
+        print("[notify] Not a report hour (7am/2pm) — skipping trade execution Telegram")
+        return
 
     send_telegram("\n".join(lines))
 

@@ -11,7 +11,6 @@ OnCalendar=Mon-Fri *-*-* 11:00:00
 OnCalendar=Mon-Fri *-*-* 12:00:00
 OnCalendar=Mon-Fri *-*-* 13:00:00
 OnCalendar=Mon-Fri *-*-* 14:00:00
-WakeSystem=yes
 Persistent=true
 
 [Install]

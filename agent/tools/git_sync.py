@@ -41,6 +41,13 @@ def sync_dashboard_repo(repo_path: str, files: list = None) -> dict:
             return {"ok": False, "reason": f"git commit failed: {r.stderr}"}
 
         r = subprocess.run(
+            ["git", "-C", repo_path, "pull", "--no-edit", "-X", "ours"],
+            capture_output=True, text=True, timeout=30,
+        )
+        if r.returncode != 0:
+            return {"ok": False, "reason": f"git pull failed: {r.stderr}"}
+
+        r = subprocess.run(
             ["git", "-C", repo_path, "push"],
             capture_output=True, text=True, timeout=30,
         )
