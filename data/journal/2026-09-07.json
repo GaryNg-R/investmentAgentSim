@@ -1,17 +1,24 @@
 {
   "date": "2026-09-07",
-  "briefing": "Markets were mildly negative and directionless today (NASDAQ -0.3%, S&P 500 -0.4%), not the risk-on setup our strategy memory requires before deploying idle cash. We're holding all 7 existing positions and keeping the $589.29 cash on the sidelines rather than forcing a buy into a neutral tape, waiting for a clearer multi-signal confirmation day.",
+  "briefing": "Markets were roughly flat-to-slightly-down today (NASDAQ -0.3%, S&P500 -0.4%), a neutral session with no clear risk-on trigger. Rather than forcing capital into all open slots, we made one selective buy (VAC) that shows full institutional-grade momentum confirmation, and left existing positions untouched to let profit targets and stop-losses work automatically.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-Off describes a defensive posture where investors avoid adding new exposure because market signals aren't strong enough to justify the risk. Today's slightly negative, directionless market didn't produce the multi-signal confirmation (RSI, MACD, volume, trend) we look for before buying, so holding cash was the disciplined choice rather than chasing a weak setup.",
-    "explanation_zh": "「風險規避」（Risk-Off）指的是當市場訊號不夠強烈時，投資者選擇不增加新的風險持倉的防守性策略。今日市況輕微下跌且方向不明，未能出現我們買入前所需的多重訊號確認（RSI、MACD、成交量、趨勢），因此持有現金比勉強追逐弱訊號更為穩健。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means only acting on a stock signal when multiple indicators agree — for example RSI in a healthy bullish range, a MACD crossover, price above its moving average, and rising volume all at once. Relying on several signals together, rather than just one, reduces the chance of chasing a false or short-lived move.",
+    "explanation_zh": "動能確認是指只有當多項技術指標同時發出一致訊號時才進場，例如 RSI 處於健康的上升區間、MACD出現黃金交叉、股價站上均線，並伴隨成交量放大。同時依賴多項指標而非單一訊號，能降低追高或誤判短暫波動的風險。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 slipped modestly today, with no single dominant catalyst driving the move — a typical low-conviction, mixed-signal session. Trading volume and price action suggest investors are digesting recent gains rather than reacting to major new information. This kind of drift is common between bigger macro catalysts like Fed meetings or earnings releases.",
-    "summary_zh": "納斯達克指數與標普500指數今日雙雙小幅下跌，市場缺乏單一明確的催化因素，屬於低確信度、訊號紛雜的交易日。從成交量與價格走勢來看，投資者似乎是在消化近期升幅，而非對重大新消息作出反應。這種橫盤整理在重大宏觀事件（如聯儲局會議或財報公佈）之間相當常見。",
+    "summary_en": "Broad indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent moves rather than a shift in sentiment. Trading volume and volatility were unremarkable, consistent with a neutral, wait-and-see market. Individual stocks continued to show divergent momentum, with several names in semiconductors and travel showing strong technical setups despite the flat index-level action.",
+    "summary_zh": "今日大盤指數小幅回落，並無單一主導性消息面因素，市場走勢較似近期漲勢後的整理階段，而非情緒轉向。成交量與波動度均屬平淡，符合中性、觀望氣氛。儘管指數表現平淡，半導體與旅遊相關個股仍展現分歧但強勁的技術動能。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "VAC",
+      "conviction": "medium",
+      "reasoning": "All four bullish signals align (RSI 62.3 in the healthy 55-70 zone, MACD crossover, price above SMA-20, volume surge) and it diversifies away from our tech-heavy holdings."
+    }
+  ],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
