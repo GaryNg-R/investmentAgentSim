@@ -1,24 +1,17 @@
 {
   "date": "2026-09-07",
-  "briefing": "Markets were flat and neutral today (NASDAQ -0.3%, S&P 500 -0.4%), with no broad risk-on signal. Rather than force capital to work or sit entirely idle, we made one selective high-conviction buy in ALAB, which has full technical confirmation, while holding the rest of the portfolio unchanged to let stop-losses and profit targets do their job.",
+  "briefing": "Markets were mildly negative today (NASDAQ -0.3%, S&P 500 -0.4%) — a neutral pullback rather than a clear risk-on signal. Per the lesson from June's review, we hold cash and existing positions rather than forcing new buys on a non-risk-on day, even with 3 open slots and $589 in cash.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a trade idea when several independent indicators — like RSI, MACD, price versus moving averages, and trading volume — all point the same direction at once. Relying on just one signal can give false alarms, but when four line up together it suggests real buying interest rather than random noise.",
-    "explanation_zh": "「多重訊號確認」是指只有當多個獨立指標——例如RSI、MACD、股價與移動平均線的關係，以及成交量——同時指向同一方向時，才採取交易行動。單靠一個訊號容易出現誤判，但當四個指標同時吻合，就更可能反映真實的買盤興趣，而非隨機波動。"
+    "term": "Consolidation",
+    "explanation_en": "Consolidation is when a market pauses and trades sideways or slightly down after a run-up, without a clear new catalyst in either direction. It's normal and doesn't necessarily signal trouble — disciplined investors often wait through these quiet periods rather than chasing trades.",
+    "explanation_zh": "「盤整」是指市場在上漲後暫停，橫盤或小幅回落，且沒有明確的新催化劑推動方向。這是正常現象，不一定代表出現問題——有紀律的投資者通常會耐心等待，而非在這種平靜期勉強進場交易。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.3% and the S&P 500 down 0.4%, a mild pullback without a clear directional catalyst. Trading stayed range-bound as investors digested recent gains rather than reacting to fresh news. This kind of quiet, low-volatility session is typical after a run-up, as the market pauses to consolidate.",
-    "summary_zh": "今日大市輕微回落，納指跌0.3%，標普500跌0.4%，屬溫和調整，並無明顯催化因素帶動方向。市場維持窄幅上落，投資者主要在消化早前的升幅，而非對突發消息作出反應。這種低波動的整固走勢，在大市經歷一輪升浪後頗為常見。",
+    "summary_en": "Both the NASDAQ and S&P 500 slipped slightly today, a mild pullback rather than a sharp selloff. Without a clear risk-on catalyst, broad indices often drift lower on light profit-taking after recent gains. There's no single dominant headline driving today's move — it reads as routine consolidation.",
+    "summary_zh": "納指和標普500今日皆小幅回落，屬溫和調整而非急跌。在缺乏明確風險偏好催化劑的情況下，大盤指數在近期升勢後出現獲利回吐屬正常現象。今日並無單一主導性新聞事件，市場走勢較像例行性整理。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "ALAB",
-      "conviction": "high",
-      "reasoning": "Top-scored candidate with all four confirming signals — RSI 66.8 in the bullish zone, MACD bullish crossover, price above SMA-20, and a volume surge — meeting the multi-signal bar for high conviction even on an otherwise neutral day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
