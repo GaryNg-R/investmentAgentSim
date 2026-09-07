@@ -1,24 +1,17 @@
 {
   "date": "2026-09-07",
-  "briefing": "Markets were neutral today with NASDAQ -0.3% and S&P 500 -0.4%. With $589.29 in cash and an open slot, we added VAC on strong multi-signal confirmation while holding all existing positions unchanged.",
+  "briefing": "Markets were mildly negative and directionless today (NASDAQ -0.3%, S&P 500 -0.4%), not the risk-on setup our strategy memory requires before deploying idle cash. We're holding all 7 existing positions and keeping the $589.29 cash on the sidelines rather than forcing a buy into a neutral tape, waiting for a clearer multi-signal confirmation day.",
   "daily_lesson": {
-    "term": "Diversification",
-    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink your whole portfolio. Today's buy was chosen partly because it sits outside the semiconductor/tech cluster already dominating the portfolio, reducing correlated risk.",
-    "explanation_zh": "分散投資是指將資金分配於不同行業，避免單一板塊下跌拖累整個投資組合。今日選擇的買入標的刻意避開已佔比重較高的半導體/科技股，藉此降低相關性風險。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-Off describes a defensive posture where investors avoid adding new exposure because market signals aren't strong enough to justify the risk. Today's slightly negative, directionless market didn't produce the multi-signal confirmation (RSI, MACD, volume, trend) we look for before buying, so holding cash was the disciplined choice rather than chasing a weak setup.",
+    "explanation_zh": "「風險規避」（Risk-Off）指的是當市場訊號不夠強烈時，投資者選擇不增加新的風險持倉的防守性策略。今日市況輕微下跌且方向不明，未能出現我們買入前所需的多重訊號確認（RSI、MACD、成交量、趨勢），因此持有現金比勉強追逐弱訊號更為穩健。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a quiet, directionless session. NASDAQ slipped 0.3% and the S&P 500 fell 0.4%, consistent with light profit-taking rather than any broad risk-off shift. Trading stayed within a narrow range as investors awaited clearer signals before committing new capital.",
-    "summary_zh": "今日大市普遍走軟，未見明顯單一催化因素，反映市場方向不明的淡靜交投。納指下跌0.3%，標普500指數跌0.4%，較似溫和獲利回吐而非全面避險情緒。投資者在等待更明確訊號前，普遍按兵不動。",
+    "summary_en": "Both the NASDAQ and S&P 500 slipped modestly today, with no single dominant catalyst driving the move — a typical low-conviction, mixed-signal session. Trading volume and price action suggest investors are digesting recent gains rather than reacting to major new information. This kind of drift is common between bigger macro catalysts like Fed meetings or earnings releases.",
+    "summary_zh": "納斯達克指數與標普500指數今日雙雙小幅下跌，市場缺乏單一明確的催化因素，屬於低確信度、訊號紛雜的交易日。從成交量與價格走勢來看，投資者似乎是在消化近期升幅，而非對重大新消息作出反應。這種橫盤整理在重大宏觀事件（如聯儲局會議或財報公佈）之間相當常見。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "VAC",
-      "conviction": "high",
-      "reasoning": "All four bullish signals confirmed (RSI 62.3 in bullish zone, MACD crossover, price above SMA-20, volume surge) and adds non-tech diversification to a semiconductor-heavy portfolio."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
