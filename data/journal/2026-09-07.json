@@ -1,22 +1,22 @@
 {
   "date": "2026-09-07",
-  "briefing": "Markets were roughly flat today with NASDAQ -0.3% and S&P 500 -0.4%, a neutral tape overall. Despite that, ALAB showed genuine institutional-grade momentum (all four confirmation signals), so we took one measured position while leaving remaining cash and slots in reserve for a clearer risk-on day.",
+  "briefing": "Markets were neutral today with NASDAQ -0.3% and S&P 500 -0.4%. With $589.29 in cash and an open slot, we added VAC on strong multi-signal confirmation while holding all existing positions unchanged.",
   "daily_lesson": {
-    "term": "Market Divergence",
-    "explanation_en": "Market divergence happens when individual stocks move opposite to or independently of the broader index. Today the overall market was flat-to-slightly-down, but certain stocks with strong company-specific momentum still showed bullish signals, which is why a selective buy can still make sense even on a neutral market day.",
-    "explanation_zh": "市場背離是指個股走勢與大盤脫鈎的現象。今日大盤整體持平略跌,但部分個股因本身具備強勁動能訊號仍然造好,所以即使在中性市況下,精選個別強勢股仍然合理。"
+    "term": "Diversification",
+    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink your whole portfolio. Today's buy was chosen partly because it sits outside the semiconductor/tech cluster already dominating the portfolio, reducing correlated risk.",
+    "explanation_zh": "分散投資是指將資金分配於不同行業，避免單一板塊下跌拖累整個投資組合。今日選擇的買入標的刻意避開已佔比重較高的半導體/科技股，藉此降低相關性風險。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a quiet, indecisive session rather than broad selling pressure. Within that flat tape, select semiconductor and AI-infrastructure names like ALAB continued to show strong volume and trend signals, showing that individual stocks can diverge from the index. This kind of stock-specific strength during an otherwise neutral market is common when a company has its own catalyst.",
-    "summary_zh": "大盤今日輕微回落,納指跌0.3%,標普500跌0.4%,並無明顯單一利空消息,屬於觀望性質的平淡交易日。不過在大盤整體持平的背景下,部分半導體及AI基建相關股份如ALAB仍錄得强勁成交量及趨勢訊號,反映個股走勢可以與大盤脫鈎。這種在中性市況下的個股強勢,通常源於該公司本身的利好因素。",
+    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a quiet, directionless session. NASDAQ slipped 0.3% and the S&P 500 fell 0.4%, consistent with light profit-taking rather than any broad risk-off shift. Trading stayed within a narrow range as investors awaited clearer signals before committing new capital.",
+    "summary_zh": "今日大市普遍走軟，未見明顯單一催化因素，反映市場方向不明的淡靜交投。納指下跌0.3%，標普500指數跌0.4%，較似溫和獲利回吐而非全面避險情緒。投資者在等待更明確訊號前，普遍按兵不動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ALAB",
-      "conviction": "medium",
-      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) justifies a measured entry even as the broader index sits flat to slightly negative."
+      "ticker": "VAC",
+      "conviction": "high",
+      "reasoning": "All four bullish signals confirmed (RSI 62.3 in bullish zone, MACD crossover, price above SMA-20, volume surge) and adds non-tech diversification to a semiconductor-heavy portfolio."
     }
   ],
   "outcomes": {
