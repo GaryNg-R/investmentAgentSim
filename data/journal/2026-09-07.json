@@ -1,22 +1,22 @@
 {
   "date": "2026-09-07",
-  "briefing": "Markets were roughly flat-to-slightly-down today (NASDAQ -0.3%, S&P500 -0.4%), a neutral session with no clear risk-on trigger. Rather than forcing capital into all open slots, we made one selective buy (VAC) that shows full institutional-grade momentum confirmation, and left existing positions untouched to let profit targets and stop-losses work automatically.",
+  "briefing": "Markets were flat and neutral today (NASDAQ -0.3%, S&P 500 -0.4%), with no broad risk-on signal. Rather than force capital to work or sit entirely idle, we made one selective high-conviction buy in ALAB, which has full technical confirmation, while holding the rest of the portfolio unchanged to let stop-losses and profit targets do their job.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means only acting on a stock signal when multiple indicators agree — for example RSI in a healthy bullish range, a MACD crossover, price above its moving average, and rising volume all at once. Relying on several signals together, rather than just one, reduces the chance of chasing a false or short-lived move.",
-    "explanation_zh": "動能確認是指只有當多項技術指標同時發出一致訊號時才進場，例如 RSI 處於健康的上升區間、MACD出現黃金交叉、股價站上均線，並伴隨成交量放大。同時依賴多項指標而非單一訊號，能降低追高或誤判短暫波動的風險。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a trade idea when several independent indicators — like RSI, MACD, price versus moving averages, and trading volume — all point the same direction at once. Relying on just one signal can give false alarms, but when four line up together it suggests real buying interest rather than random noise.",
+    "explanation_zh": "「多重訊號確認」是指只有當多個獨立指標——例如RSI、MACD、股價與移動平均線的關係，以及成交量——同時指向同一方向時，才採取交易行動。單靠一個訊號容易出現誤判，但當四個指標同時吻合，就更可能反映真實的買盤興趣，而非隨機波動。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent moves rather than a shift in sentiment. Trading volume and volatility were unremarkable, consistent with a neutral, wait-and-see market. Individual stocks continued to show divergent momentum, with several names in semiconductors and travel showing strong technical setups despite the flat index-level action.",
-    "summary_zh": "今日大盤指數小幅回落，並無單一主導性消息面因素，市場走勢較似近期漲勢後的整理階段，而非情緒轉向。成交量與波動度均屬平淡，符合中性、觀望氣氛。儘管指數表現平淡，半導體與旅遊相關個股仍展現分歧但強勁的技術動能。",
+    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.3% and the S&P 500 down 0.4%, a mild pullback without a clear directional catalyst. Trading stayed range-bound as investors digested recent gains rather than reacting to fresh news. This kind of quiet, low-volatility session is typical after a run-up, as the market pauses to consolidate.",
+    "summary_zh": "今日大市輕微回落，納指跌0.3%，標普500跌0.4%，屬溫和調整，並無明顯催化因素帶動方向。市場維持窄幅上落，投資者主要在消化早前的升幅，而非對突發消息作出反應。這種低波動的整固走勢，在大市經歷一輪升浪後頗為常見。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "VAC",
-      "conviction": "medium",
-      "reasoning": "All four bullish signals align (RSI 62.3 in the healthy 55-70 zone, MACD crossover, price above SMA-20, volume surge) and it diversifies away from our tech-heavy holdings."
+      "ticker": "ALAB",
+      "conviction": "high",
+      "reasoning": "Top-scored candidate with all four confirming signals — RSI 66.8 in the bullish zone, MACD bullish crossover, price above SMA-20, and a volume surge — meeting the multi-signal bar for high conviction even on an otherwise neutral day."
     }
   ],
   "outcomes": {
