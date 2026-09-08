@@ -1,22 +1,22 @@
 {
   "date": "2026-09-08",
-  "briefing": "Markets were flat today (NASDAQ -0.3%, S&P 500 -0.4%), not a clear risk-on or risk-off signal. With 3 open slots and cash above our $500 threshold, we added one high-conviction position (ALAB) that cleared all four confirmation signals, while holding the rest of our winners through the quiet session.",
+  "briefing": "Markets were flat today with NASDAQ and S&P500 both down about 0.4%, a neutral session overall. We added QCOM, a top-scoring candidate with full multi-signal confirmation (trend, momentum, and volume all aligned) and non-overbought RSI, while holding all existing positions unchanged.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of relying on just one indicator, strong traders look for multiple signals to line up together — like a bullish RSI, a MACD crossover, price above its moving average, and a volume surge — before committing capital. When all four agree, it suggests real buying interest rather than random noise, which is why ALAB stood out even on an otherwise quiet market day.",
-    "explanation_zh": "優秀的交易者不會只依賴單一指標，而是尋找多個訊號同時出現——例如RSI處於偏強區間、MACD黃金交叉、股價高於移動平均線，以及成交量放大——才決定投入資金。當這四個訊號同時符合，代表市場有實質買盤支持，而非隨機波動，這正是ALAB即使在大市平淡時仍然突出的原因。"
+    "term": "Technical Confluence",
+    "explanation_en": "Technical confluence means multiple independent indicators — like MACD, RSI, moving averages, and volume — all pointing the same bullish direction at once. When they align, as with QCOM today, it signals broader participation behind a move rather than random noise, making the setup more reliable even if the overall market is flat.",
+    "explanation_zh": "技術指標共振是指多個獨立指標（例如MACD、RSI、移動平均線及成交量）同時指向同一方向。當這些指標一致向好，例如今日的QCOM，代表這個升勢有較廣泛的資金參與支持，而非單純的隨機波動，即使大市當日持平，此訊號仍然較為可靠。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no dominant catalyst, reflecting a consolidation phase after recent gains rather than a shift in sentiment. Trading volumes were unremarkable across most of the market, suggesting investors are waiting for clearer signals before making large moves. Semiconductor and networking names continued to show relative strength despite the broader softness.",
-    "summary_zh": "今日大盤指數小幅回落，並無明顯的利多或利淡消息主導市場，反映近期升勢後的整理格局，而非市場情緒轉向。大部分板塊成交量平平，顯示投資者在等待更明確的方向才會加大動作。儘管大市偏軟，半導體及網絡相關股份仍保持相對強勢。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ and S&P 500 both down roughly 0.4% in a broadly directionless session. There was no single dominant catalyst driving the move, consistent with a market pausing to digest recent gains. Underneath the flat headline numbers, individual stocks like QCOM continued to show strong independent technical momentum.",
+    "summary_zh": "今日大市略為回落，納指及標普500指數均下跌約0.4%，屬於方向不明的整固走勢。今次並無單一主導消息推動大盤變動，較符合市場在近期升勢後稍作喘息的格局。在大盤持平的表面之下，個別股份如QCOM仍然展現出強勁的獨立技術動能。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ALAB",
+      "ticker": "QCOM",
       "conviction": "high",
-      "reasoning": "Highest-scoring candidate (95) with full four-signal confirmation — bullish RSI, MACD crossover, price above SMA-20, and a volume surge — matching our strongest setup criteria despite the flat broader tape."
+      "reasoning": "QCOM shows all four confirming bullish signals (MACD crossover, RSI 67.6 in the healthy 55-70 zone, price above SMA-20, volume surge) making it the highest-quality candidate to fill an open slot despite a flat overall market."
     }
   ],
   "outcomes": {
