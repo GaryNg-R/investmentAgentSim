@@ -1,24 +1,17 @@
 {
   "date": "2026-09-08",
-  "briefing": "Markets were flat today with NASDAQ and S&P500 both down about 0.4%, a neutral session overall. We added QCOM, a top-scoring candidate with full multi-signal confirmation (trend, momentum, and volume all aligned) and non-overbought RSI, while holding all existing positions unchanged.",
+  "briefing": "Markets were flat today (NASDAQ -0.3%, S&P 500 -0.3%), a neutral session with no clear risk-on signal. Existing positions are held since they're performing well and there's no reason to exit on a quiet day, and no new buys were made because the top-scoring candidates lack the volume-confirmed institutional buying signal that past experience says is needed for high-conviction entries on a non-trending day.",
   "daily_lesson": {
-    "term": "Technical Confluence",
-    "explanation_en": "Technical confluence means multiple independent indicators — like MACD, RSI, moving averages, and volume — all pointing the same bullish direction at once. When they align, as with QCOM today, it signals broader participation behind a move rather than random noise, making the setup more reliable even if the overall market is flat.",
-    "explanation_zh": "技術指標共振是指多個獨立指標（例如MACD、RSI、移動平均線及成交量）同時指向同一方向。當這些指標一致向好，例如今日的QCOM，代表這個升勢有較廣泛的資金參與支持，而非單純的隨機波動，即使大市當日持平，此訊號仍然較為可靠。"
+    "term": "Patience",
+    "explanation_en": "Patience in investing means waiting for a genuinely strong setup — multiple confirming signals like price momentum, healthy RSI, and volume surges — before committing new capital, rather than buying just because cash is available. On a neutral market day, holding cash and existing winners is often the smarter move than forcing a trade.",
+    "explanation_zh": "投資中的「耐性」是指等待真正強勁的入市訊號——例如價格動能、健康的RSI水平,以及成交量放大等多重確認——才投入新資金,而不是純粹因為手頭有現金就勉強交易。在大市方向不明的中性日子,持有現金及現有的強勢持股,往往比勉強進場更明智。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ and S&P 500 both down roughly 0.4% in a broadly directionless session. There was no single dominant catalyst driving the move, consistent with a market pausing to digest recent gains. Underneath the flat headline numbers, individual stocks like QCOM continued to show strong independent technical momentum.",
-    "summary_zh": "今日大市略為回落，納指及標普500指數均下跌約0.4%，屬於方向不明的整固走勢。今次並無單一主導消息推動大盤變動，較符合市場在近期升勢後稍作喘息的格局。在大盤持平的表面之下，個別股份如QCOM仍然展現出強勁的獨立技術動能。",
+    "summary_en": "Major indices drifted slightly lower today with NASDAQ and S&P 500 both down about 0.3%, a modest pullback rather than a decisive move in either direction. Trading volumes and momentum signals across the screened universe were mixed, with several names showing bullish crossovers but overbought RSI readings above 70, suggesting some near-term exhaustion in recent winners. Without a clear catalyst, the market largely consolidated recent gains.",
+    "summary_zh": "今日大盤走勢平淡,納斯達克及標普500指數均下跌約0.3%,屬溫和回調而非明確方向性走勢。篩選名單中的動能訊號好壞參半,不少個股雖然出現MACD黃金交叉,但RSI已升至70以上的超買區,顯示近期強勢股短期內動能略顯疲態。在缺乏明確催化因素下,大市傾向鞏固近期升幅。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "QCOM",
-      "conviction": "high",
-      "reasoning": "QCOM shows all four confirming bullish signals (MACD crossover, RSI 67.6 in the healthy 55-70 zone, price above SMA-20, volume surge) making it the highest-quality candidate to fill an open slot despite a flat overall market."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
