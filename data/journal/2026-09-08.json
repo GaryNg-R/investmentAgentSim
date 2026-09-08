@@ -1,14 +1,14 @@
 {
   "date": "2026-09-08",
-  "briefing": "Markets were neutral-to-slightly-negative today with NASDAQ down 0.2% and S&P 500 down 0.5%. None of the top candidates showed the full multi-signal confirmation (MACD crossover, RSI in bullish zone, price above SMA-20, and volume surge) needed for a high-conviction buy, so we held cash and existing positions rather than forcing a trade.",
+  "briefing": "Markets were mildly negative today (NASDAQ -0.3%, S&P 500 -0.6%) — not the kind of risk-on move that has historically confirmed strong follow-through. Even though 3 slots and $589 cash are available, none of today's setups (aside from FRMI and LGN clearing all four confirmation signals) came with the breadth of market strength that's paid off before, so we're holding cash rather than forcing a buy. Existing positions are left to run — profit targets and stop-losses will handle exits automatically.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors pull back slightly from stocks even without a major shock, often shown by broad indices drifting lower together. The right response isn't to panic-sell or force new buys, but to hold steady and wait for a clearer signal in either direction.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指投資人在沒有重大利空的情況下，仍小幅減碼股票，通常表現為主要指數同步走軟。正確的應對方式不是恐慌性賣出，也不是勉強買入，而是保持觀望，等待更明確的市場方向訊號。"
+    "term": "Patience (Avoiding Forced Trades)",
+    "explanation_en": "Just because you have cash and open slots doesn't mean you should buy — on a neutral or slightly negative day, forcing a trade just to 'stay invested' often means buying into weak conviction. Waiting for a genuine risk-on signal, like a strong broad market rally, tends to produce better entries than deploying capital on autopilot.",
+    "explanation_zh": "即使手頭有現金及空置倉位，也不代表一定要立即買入——在市場中性或輕微偏弱的日子，勉強交易只為「保持持倉」，往往代表信心不足的決定。耐心等待真正的風險偏好訊號（例如大盤明顯造好），通常比機械式部署資金更能帶來理想的入市時機。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted lower today, with the S&P 500 underperforming the NASDAQ, suggesting a mild rotation away from risk rather than a sharp sell-off. Momentum candidates on our screener showed bullish technicals but lacked confirming volume, which historically has meant weaker follow-through. With no clear risk-on catalyst, staying in cash on the sidelines preserves capital for a more convincing setup.",
-    "summary_zh": "今日大盤普遍走弱，標普500指數跌幅大於納斯達克指數，顯示市場資金正溫和地從風險資產撤出，而非出現急跌。雖然篩選名單中部分股票技術面呈現看漲訊號，但普遍缺乏成交量放大的確認，過去經驗顯示此類訊號後續動能往往不足。在缺乏明確風險偏好回升訊號的情況下，暫時持有現金以待更明確的進場時機。",
+    "summary_en": "Equities drifted slightly lower today with the S&P 500 down 0.6% and the Nasdaq off 0.3%, a mild pullback rather than a decisive move in either direction. Without a clear catalyst pushing the market strongly higher, momentum-driven setups are less reliable, so today's action looked more like consolidation than a genuine trend shift. Broader participation and stronger volume would typically be needed to confirm the next leg up.",
+    "summary_zh": "今日美股輕微下跌，標普500指數跌0.6%，納指跌0.3%，屬溫和回調而非明確方向性走勢。由於缺乏明顯催化劑推動大盤走強，動能類交易訊號的可靠性相對較低，今日走勢較似整固而非趨勢轉變。若要確認下一波升浪，通常需要更廣泛的參與度及更強的成交量配合。",
     "sources": []
   },
   "trades": [],
