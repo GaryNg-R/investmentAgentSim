@@ -1,24 +1,17 @@
 {
   "date": "2026-09-08",
-  "briefing": "Markets were flat to slightly down today (NASDAQ -0.1%, S&P 500 -0.4%), a neutral session with no strong directional signal. Existing positions were held since none show forced sell triggers and the strategy memory favors patience on neutral days. Cash was above the $500 threshold with open slots, so one modest, well-confirmed buy (PCG) was added rather than deploying aggressively into today's mostly overbought candidate list.",
+  "briefing": "Markets were mildly negative today with NASDAQ down 0.2% and the S&P 500 down 0.4% — a neutral, low-conviction session. None of the screened candidates showed the full multi-signal confirmation (MACD crossover, bullish-range RSI, price above SMA-20, and a volume surge) needed for a high-conviction buy, so we're holding cash and letting existing positions ride rather than forcing a trade.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Not every stock with a high score deserves a high-conviction bet — look for multiple confirming signals (like RSI in a healthy range, not overbought, plus MACD crossover and price above its moving average) rather than acting on a single indicator. Stocks already flashing RSI above 70 have less room to run and carry more pullback risk.",
-    "explanation_zh": "並非每支評分高的股票都值得重倉買入——應尋找多項訊號同時確認（例如RSI處於健康區間而非超買、加上MACD黃金交叉及股價站上均線），而不是只依賴單一指標行動。RSI已超過70的股票上漲空間有限，回調風險也較高。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors become more cautious and hold back from new positions because market signals are unclear or mixed, rather than chasing gains. Staying patient and not forcing trades on days like this helps avoid buying into weak setups that could quickly reverse.",
+    "explanation_zh": "「風險規避」（Risk-Off）指投資者在市場訊號不明朗時變得謹慎,傾向按兵不動而非勉強加碼。在這類日子保持耐性、不強行交易,有助避免買入訊號不足、容易迅速逆轉的倉位。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent momentum rather than a shift in sentiment. Most of today's top screener candidates were already extended (RSI above 70), suggesting near-term profit-taking risk in the momentum trade broadly. Investors appear to be consolidating gains while waiting for the next clear catalyst.",
-    "summary_zh": "今日大盤走勢平淡略為下跌，並無單一主導消息面因素，較像是近期升勢後的整理階段，而非市場情緒轉向。篩選名單中多數熱門股的RSI已超過70，顯示動能交易存在短線獲利了結的風險。投資人似乎正在鞏固既有獲利，靜待下一個明確的催化因素。",
+    "summary_en": "Today's modest pullback in the NASDAQ and S&P 500 reflects a lack of strong directional catalysts rather than a specific negative shock. On days like this, broad indices tend to drift as investors wait for clearer signals on rates, earnings, or macro data before committing new capital. This kind of low-volatility, mixed-signal session is common and doesn't necessarily indicate a shift in trend.",
+    "summary_zh": "今日納指及標普500僅溫和回落，並非受單一重大利淡消息拖累，而是市場缺乏明確方向所致。在這類日子,大盤指數往往呈現橫行整理,投資者傾向於等待更清晰的利率或業績數據才願意加碼。這種低波動、訊號混雜的交易日十分常見,不代表趨勢已經逆轉。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "PCG",
-      "conviction": "medium",
-      "reasoning": "Top-scored candidate (95) with RSI 62.8 in the healthy bullish zone (not overbought), confirmed MACD bullish crossover with rising histogram, and price above SMA-20."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
