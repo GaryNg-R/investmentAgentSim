@@ -1,17 +1,24 @@
 {
   "date": "2026-09-08",
-  "briefing": "Markets were mildly negative today with NASDAQ down 0.2% and the S&P 500 down 0.4% — a neutral, low-conviction session. None of the screened candidates showed the full multi-signal confirmation (MACD crossover, bullish-range RSI, price above SMA-20, and a volume surge) needed for a high-conviction buy, so we're holding cash and letting existing positions ride rather than forcing a trade.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.2%, S&P 500 -0.4%), a neutral session with no clear risk-on or risk-off signal. Rather than forcing cash to work or holding idle, we added one high-conviction position (CIEN) that showed full multi-signal confirmation, while leaving existing holdings untouched to let stop-loss and profit targets do their job.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors become more cautious and hold back from new positions because market signals are unclear or mixed, rather than chasing gains. Staying patient and not forcing trades on days like this helps avoid buying into weak setups that could quickly reverse.",
-    "explanation_zh": "「風險規避」（Risk-Off）指投資者在市場訊號不明朗時變得謹慎,傾向按兵不動而非勉強加碼。在這類日子保持耐性、不強行交易,有助避免買入訊號不足、容易迅速逆轉的倉位。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means only acting on a bullish signal when multiple indicators agree — like RSI in a healthy range, a MACD crossover, and price above its moving average all pointing the same way. Relying on just one signal can lead to false starts, while confluence of several reduces the odds of buying into a fakeout.",
+    "explanation_zh": "動能確認係指要有多個技術指標同時支持先至進場，例如RSI處於健康區間、MACD出現金叉、股價企穩在移動平均線之上。只靠單一訊號好容易誤判，多重訊號共同確認先可以降低「假突破」嘅風險。"
   },
   "market_education": {
-    "summary_en": "Today's modest pullback in the NASDAQ and S&P 500 reflects a lack of strong directional catalysts rather than a specific negative shock. On days like this, broad indices tend to drift as investors wait for clearer signals on rates, earnings, or macro data before committing new capital. This kind of low-volatility, mixed-signal session is common and doesn't necessarily indicate a shift in trend.",
-    "summary_zh": "今日納指及標普500僅溫和回落，並非受單一重大利淡消息拖累，而是市場缺乏明確方向所致。在這類日子,大盤指數往往呈現橫行整理,投資者傾向於等待更清晰的利率或業績數據才願意加碼。這種低波動、訊號混雜的交易日十分常見,不代表趨勢已經逆轉。",
+    "summary_en": "Major indices drifted modestly lower today with no dominant catalyst, reflecting a pause after recent moves rather than a shift in sentiment. Trading stayed range-bound as investors awaited clearer directional signals. Neutral days like this typically reward selectivity over broad index-wide conviction.",
+    "summary_zh": "今日大市窄幅整理，納指跌0.2%，標普500跌0.4%，未見明顯利好或利淡消息主導市場，較似係近期升勢後嘅短暫喘定。成交淡靜，投資者靜候更明確嘅方向性訊號。呢類中性市況下，選股能力比追蹤大盤更為重要。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "CIEN",
+      "conviction": "high",
+      "reasoning": "Top-scoring candidate (95) with full bullish confirmation — RSI 59.2 in the healthy 55-70 zone, MACD bullish crossover with rising histogram, and price above SMA-20 — a genuine setup rather than a forced deployment."
+    }
+  ],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
