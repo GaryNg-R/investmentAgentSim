@@ -1,22 +1,22 @@
 {
   "date": "2026-09-09",
-  "briefing": "Markets drifted slightly lower today (NASDAQ -0.6%, S&P 500 -0.4%) with no major catalyst driving the move. Rather than force capital to work on a weak market day, we picked one clean stock-specific setup (CHYM) with strong momentum confirmation to fill an open slot while holding the rest of our cash and letting existing positions ride.",
+  "briefing": "Markets were neutral today with NASDAQ -0.6% and S&P 500 -0.4%. With cash above the $500 threshold and open slots available, we made one selective medium-conviction buy in HPQ, the top-scored candidate with multiple bullish technical confirmations, while holding the rest of the portfolio unchanged.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing upward price and technical strength (like RSI in a healthy range, a bullish MACD crossover, and price above a moving average) rather than waiting for the whole market to turn positive. Today's pick was driven purely by one stock's own signals, not the broader index direction.",
-    "explanation_zh": "動量投資是指買入已經展現價格及技術面強勢的股票(例如RSI處於健康區間、MACD出現黃金交叉、股價高於移動平均線),而不是等待大盤整體轉強才進場。今日的買入決定純粹基於該股本身的訊號,而非大盤走勢。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI in a healthy range, a MACD bullish crossover, and price above its moving average — to line up before buying, rather than acting on just one signal. This reduces the chance of buying into a false breakout.",
+    "explanation_zh": "動能確認是指在買入前，等待多個技術訊號（例如RSI處於健康區間、MACD出現黃金交叉、股價站上均線）同時出現，而非只憑單一訊號行動。這樣可以降低誤判假突破的風險。"
   },
   "market_education": {
-    "summary_en": "U.S. stocks edged lower today, with the Nasdaq down 0.6% and the S&P 500 off 0.4%, in what looked like a quiet, low-conviction session rather than a reaction to any single headline. Trading stayed range-bound as investors seemed to be waiting for clearer signals before making bigger moves. Individual stocks with strong technical setups, like CHYM, still traded higher even as the broader indices softened.",
-    "summary_zh": "美股今日小幅回落,納指下跌0.6%,標普500指數跌0.4%,市場氣氛偏淡,並無明顯的單一消息面因素主導走勢。大盤全日於區間內窄幅波動,反映投資者在等待更明確的方向指引才願意加碼。不過個別具備強勁技術面訊號的股份(如CHYM)仍逆市造好。",
+    "summary_en": "Broad indices drifted lower today with NASDAQ down 0.6% and the S&P 500 down 0.4%, reflecting a neutral, low-conviction trading session rather than any major catalyst. No single sector or headline drove the move, consistent with a consolidation day after recent gains. In this environment, we favored selective, technically-confirmed buys over broad deployment of cash.",
+    "summary_zh": "今日大盤走勢偏軟，納指下跌0.6%，標普500下跌0.4%，屬於中性、缺乏方向的交易日，並無重大消息面催化。此走勢較似整固階段，並非受單一板塊或新聞事件主導。在此環境下，我們選擇僅對技術面訊號齊備的個股進行小規模買入，而非全數動用現金。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CHYM",
+      "ticker": "HPQ",
       "conviction": "medium",
-      "reasoning": "Score 95 with RSI 58.8 in the bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20 gives a stock-specific setup worth filling one of the three open slots despite a flat index day."
+      "reasoning": "Top-scored candidate (95) with RSI in the bullish 55-70 zone, MACD bullish crossover with rising histogram, and price above SMA-20, offering partial deployment of idle cash above the $500 threshold despite a neutral market."
     }
   ],
   "outcomes": {
