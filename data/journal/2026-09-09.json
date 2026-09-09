@@ -1,22 +1,34 @@
 {
   "date": "2026-09-09",
-  "briefing": "Markets were neutral today with NASDAQ -0.6% and S&P 500 -0.4%. With cash above the $500 threshold and open slots available, we made one selective medium-conviction buy in HPQ, the top-scored candidate with multiple bullish technical confirmations, while holding the rest of the portfolio unchanged.",
+  "briefing": "Markets were mildly negative today (NASDAQ -0.6%, S&P 500 -0.5%) but three stocks — CHYM, TNGX, and HPQ — showed strong stock-specific momentum with full technical confirmation. With cash above the $500 threshold and 3 open slots, we deployed into these top-scoring candidates rather than holding idle cash.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI in a healthy range, a MACD bullish crossover, and price above its moving average — to line up before buying, rather than acting on just one signal. This reduces the chance of buying into a false breakout.",
-    "explanation_zh": "動能確認是指在買入前，等待多個技術訊號（例如RSI處於健康區間、MACD出現黃金交叉、股價站上均線）同時出現，而非只憑單一訊號行動。這樣可以降低誤判假突破的風險。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that the trend is likely to continue in the near term. Today's picks (CHYM, TNGX, HPQ) all showed rising prices, bullish RSI readings, MACD crossovers, and volume surges — signals that often mean bigger investors are actively buying in, even when the broader market is flat or slightly down.",
+    "explanation_zh": "動能投資（Momentum Investing）是指買入價格及成交量已呈現強勁上升趨勢的股票，因為理論上這種趨勢短期內有機會延續。今日選中的CHYM、TNGX及HPQ均出現股價上升、RSI處於偏好區間、MACD黃金交叉以及成交量放大等訊號，這些往往代表有大戶資金正在積極吸納，即使大盤表現平淡或輕微下跌，個股仍可逆勢走強。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted lower today with NASDAQ down 0.6% and the S&P 500 down 0.4%, reflecting a neutral, low-conviction trading session rather than any major catalyst. No single sector or headline drove the move, consistent with a consolidation day after recent gains. In this environment, we favored selective, technically-confirmed buys over broad deployment of cash.",
-    "summary_zh": "今日大盤走勢偏軟，納指下跌0.6%，標普500下跌0.4%，屬於中性、缺乏方向的交易日，並無重大消息面催化。此走勢較似整固階段，並非受單一板塊或新聞事件主導。在此環境下，我們選擇僅對技術面訊號齊備的個股進行小規模買入，而非全數動用現金。",
+    "summary_en": "Broader markets drifted slightly lower today with the NASDAQ down 0.6% and the S&P 500 down 0.5%, reflecting a cautious, directionless session rather than a sharp risk-off move. Despite the soft overall tape, individual names like CHYM, TNGX, and HPQ bucked the trend with volume-backed breakouts, showing that stock-specific momentum can diverge from index-level performance. This kind of mixed action is typical of a consolidation phase where investors rotate into names with strong company-specific catalysts rather than following the index.",
+    "summary_zh": "大市今日略為走弱，納指下跌0.6%，標普500指數下跌0.5%，反映市場處於觀望整固階段，而非明顯的risk-off拋售。儘管大盤偏軟，CHYM、TNGX及HPQ等個股卻逆市走強，伴隨成交量放大突破，顯示個股動能可以脫離大盤表現獨立發揮。這種分化走勢在整固期十分常見，資金傾向流向具備個別利好催化劑的股份，而非跟隨大盤走向。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
+      "ticker": "CHYM",
+      "conviction": "high",
+      "reasoning": "Score 100 with full signal confirmation (RSI 63.5 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) fills an open slot per the cash-deployment rule."
+    },
+    {
+      "action": "BUY",
+      "ticker": "TNGX",
+      "conviction": "high",
+      "reasoning": "Score 100 with all four confirming signals (bullish RSI, MACD crossover, price above SMA-20, volume surge) indicating institutional participation."
+    },
+    {
+      "action": "BUY",
       "ticker": "HPQ",
-      "conviction": "medium",
-      "reasoning": "Top-scored candidate (95) with RSI in the bullish 55-70 zone, MACD bullish crossover with rising histogram, and price above SMA-20, offering partial deployment of idle cash above the $500 threshold despite a neutral market."
+      "conviction": "high",
+      "reasoning": "Score 100 with full multi-signal confirmation matching the strategy's high-conviction criteria, deploying idle cash above the $500 threshold into open slots."
     }
   ],
   "outcomes": {
