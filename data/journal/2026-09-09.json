@@ -1,22 +1,28 @@
 {
   "date": "2026-09-09",
-  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.2%), so we held existing positions rather than forcing trades. We added a single medium-conviction position in VALE, which showed strong, fully-confirmed bullish signals and adds sector diversification away from our tech-heavy holdings.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.4%, S&P 500 -0.3%), so we're not chasing broad market strength. However, CHYM and PLBL both show complete technical confirmation (RSI, MACD, price vs. SMA-20, and volume), so we're adding modest positions in those two rather than holding cash idle above the $500 threshold. All existing positions are held unchanged.",
   "daily_lesson": {
-    "term": "Diversification",
-    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink your whole portfolio. Today's portfolio was heavily weighted toward tech (QQQ, OLED, INOD, MU), so adding a materials-sector stock like VALE helps reduce that concentration risk.",
-    "explanation_zh": "分散投資是指將資金分佈於不同行業，避免單一板塊下跌時拖累整個投資組合。現時組合偏重科技股（QQQ、OLED、INOD、MU），因此加入原材料板塊的VALE有助降低過度集中的風險。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks moving up tend to keep moving up in the short term. Today's picks, CHYM and PLBL, showed all four bullish signals (RSI, MACD, price above moving average, and volume surge) even though the overall market was flat, illustrating that individual stock momentum can be worth acting on independent of broad index direction.",
+    "explanation_zh": "動能投資是指買入已經呈現強勁上升價格及成交量趨勢的股票，理論基礎是短期內上升的股票傾向持續上升。今日選中的CHYM及PLBL同時符合四項看漲訊號（RSI、MACD、股價高於移動平均線、成交量放大），即使大盤走勢平淡，個股動能仍然值得留意及採取行動。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the NASDAQ and S&P 500 both down about 0.2%, reflecting a lack of strong directional catalysts. Without a clear risk-on or risk-off trigger, broad market movement stayed muted while pockets of individual-stock strength persisted. This kind of quiet, range-bound session is common between major economic data releases or earnings catalysts.",
-    "summary_zh": "今日大市表現大致持平，納斯達克指數及標普500指數均微跌約0.2%，反映市場缺乏明顯的方向性催化劑。在沒有明確的風險偏好或避險訊號帶動下，大市整體波動有限，但個別股份仍錄得亮眼升勢。這種橫行整固的走勢，在重要經濟數據或業績公佈之間頗為常見。",
+    "summary_en": "Major indices traded slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.3%, reflecting a quiet, directionless session rather than any major catalyst. Broad market breadth was mixed, with no dominant sector theme driving the tape. Individual stocks with strong technical setups, like CHYM and PLBL, still attracted buying interest even as the indices drifted lower.",
+    "summary_zh": "今日大盤走勢偏弱，納斯達克指數下跌0.4%，標普500指數下跌0.3%，市況整體平淡，未見明顯催化因素帶動方向。板塊表現參差，沒有單一主題主導盤面。不過個別技術面強勢的股票，例如CHYM及PLBL，即使在大盤走弱下仍吸引資金流入。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "VALE",
+      "ticker": "CHYM",
       "conviction": "medium",
-      "reasoning": "Full multi-signal confirmation (RSI 55.9 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) with the least overbought RSI among the top-scoring candidates, and it diversifies the tech-heavy portfolio (QQQ, OLED, INOD, MU) into materials."
+      "reasoning": "Full 4-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) with a perfect momentum score despite a neutral broader market."
+    },
+    {
+      "action": "BUY",
+      "ticker": "PLBL",
+      "conviction": "medium",
+      "reasoning": "Same complete multi-signal confirmation as CHYM with a top momentum score, justifying deployment of available cash into a strong individual setup."
     }
   ],
   "outcomes": {
