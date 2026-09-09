@@ -1,17 +1,24 @@
 {
   "date": "2026-09-09",
-  "briefing": "Markets were neutral to slightly negative today (NASDAQ -0.6%, S&P 500 -0.4%), with no candidate showing the full four-signal confirmation (MACD crossover, RSI 55-70, price above SMA-20, and a volume surge) that past experience says is needed for high-conviction buys. Holding cash and existing 7 positions rather than forcing a purchase into open slots, letting automatic stop-loss/profit-target rules manage the current book.",
+  "briefing": "Markets drifted slightly lower today (NASDAQ -0.6%, S&P 500 -0.4%) with no major catalyst driving the move. Rather than force capital to work on a weak market day, we picked one clean stock-specific setup (CHYM) with strong momentum confirmation to fill an open slot while holding the rest of our cash and letting existing positions ride.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A risk-off day is when investors pull back from aggressive bets and markets drift sideways or slightly down without a clear catalyst. The disciplined move is to hold cash and existing positions rather than forcing new trades just because capital is available, waiting instead for stronger confirming signals.",
-    "explanation_zh": "「風險趨避」（Risk-Off）指投資人減少積極押注，市場在缺乏明確催化因素下橫盤或小幅下跌。此時較穩健的做法是持有現金與現有部位，而非僅因手上有資金就勉強進場，應等待更強的確認訊號出現。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing upward price and technical strength (like RSI in a healthy range, a bullish MACD crossover, and price above a moving average) rather than waiting for the whole market to turn positive. Today's pick was driven purely by one stock's own signals, not the broader index direction.",
+    "explanation_zh": "動量投資是指買入已經展現價格及技術面強勢的股票(例如RSI處於健康區間、MACD出現黃金交叉、股價高於移動平均線),而不是等待大盤整體轉強才進場。今日的買入決定純粹基於該股本身的訊號,而非大盤走勢。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.6% and the S&P 500 down 0.4%, a mild pullback rather than a decisive move in either direction. No single catalyst dominated the tape, consistent with a broad, low-conviction consolidation after recent gains. Without a clear risk-on signal, momentum candidates lacked the volume confirmation typically seen on stronger up days.",
-    "summary_zh": "主要指數今日普遍小幅走弱，納斯達克下跌0.6%，標普500指數下跌0.4%，屬溫和回調而非明確方向性走勢。市場缺乏單一主導因素，符合近期漲勢後的低動能整理格局。由於未見明確的風險偏好訊號，動能股候選名單也普遍缺乏成交量放大的確認訊號。",
+    "summary_en": "U.S. stocks edged lower today, with the Nasdaq down 0.6% and the S&P 500 off 0.4%, in what looked like a quiet, low-conviction session rather than a reaction to any single headline. Trading stayed range-bound as investors seemed to be waiting for clearer signals before making bigger moves. Individual stocks with strong technical setups, like CHYM, still traded higher even as the broader indices softened.",
+    "summary_zh": "美股今日小幅回落,納指下跌0.6%,標普500指數跌0.4%,市場氣氛偏淡,並無明顯的單一消息面因素主導走勢。大盤全日於區間內窄幅波動,反映投資者在等待更明確的方向指引才願意加碼。不過個別具備強勁技術面訊號的股份(如CHYM)仍逆市造好。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "CHYM",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 58.8 in the bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20 gives a stock-specific setup worth filling one of the three open slots despite a flat index day."
+    }
+  ],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
