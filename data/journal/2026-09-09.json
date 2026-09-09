@@ -1,14 +1,14 @@
 {
   "date": "2026-09-09",
-  "briefing": "Markets were mildly negative today (NASDAQ -0.7%, S&P 500 -0.5%) — not the risk-on signal our strategy requires before deploying idle cash into new positions. TSLA and DELL show strong momentum but lack the volume-surge confirmation our rules require for high-conviction buys, so we're holding our 7 positions and $589 cash rather than forcing a trade on a soft day.",
+  "briefing": "Markets were neutral to slightly negative today (NASDAQ -0.6%, S&P 500 -0.4%), with no candidate showing the full four-signal confirmation (MACD crossover, RSI 55-70, price above SMA-20, and a volume surge) that past experience says is needed for high-conviction buys. Holding cash and existing 7 positions rather than forcing a purchase into open slots, letting automatic stop-loss/profit-target rules manage the current book.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors pull back from riskier assets like growth stocks amid uncertainty, even without a specific bad headline. On days like this, disciplined investors wait for clearer bullish confirmation (like a volume surge alongside technical signals) rather than deploying cash just because it's sitting idle.",
-    "explanation_zh": "「避險」（Risk-Off）指投資者在市況不明朗時，即使沒有明確的壞消息，也會減少持有成長股等風險資產。在這類日子，有紀律的投資者會等待更明確的看漲確認訊號（例如成交量放大配合技術指標），而不是單純因為現金閒置就急於進場。"
+    "explanation_en": "A risk-off day is when investors pull back from aggressive bets and markets drift sideways or slightly down without a clear catalyst. The disciplined move is to hold cash and existing positions rather than forcing new trades just because capital is available, waiting instead for stronger confirming signals.",
+    "explanation_zh": "「風險趨避」（Risk-Off）指投資人減少積極押注，市場在缺乏明確催化因素下橫盤或小幅下跌。此時較穩健的做法是持有現金與現有部位，而非僅因手上有資金就勉強進場，應等待更強的確認訊號出現。"
   },
   "market_education": {
-    "summary_en": "Both major indices slipped modestly today, with the Nasdaq underperforming the S&P 500, suggesting a mild pullback in growth and tech-heavy names rather than a broad risk-off move. No single dominant catalyst is evident from the data available today. Trading volume and sector-specific news were not provided for this session, so this reflects a general market drift rather than a news-driven event.",
-    "summary_zh": "今日兩大指數均小幅下跌，納斯達克表現遜於標普500指數，顯示科技及成長股略為回調，而非全面避險拋售。目前未見明顯單一觸發因素，本次數據亦未提供具體成交量或板塊新聞，故今日走勢較似溫和整理而非消息面驅動。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.6% and the S&P 500 down 0.4%, a mild pullback rather than a decisive move in either direction. No single catalyst dominated the tape, consistent with a broad, low-conviction consolidation after recent gains. Without a clear risk-on signal, momentum candidates lacked the volume confirmation typically seen on stronger up days.",
+    "summary_zh": "主要指數今日普遍小幅走弱，納斯達克下跌0.6%，標普500指數下跌0.4%，屬溫和回調而非明確方向性走勢。市場缺乏單一主導因素，符合近期漲勢後的低動能整理格局。由於未見明確的風險偏好訊號，動能股候選名單也普遍缺乏成交量放大的確認訊號。",
     "sources": []
   },
   "trades": [],
