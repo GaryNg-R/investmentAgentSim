@@ -1,28 +1,22 @@
 {
   "date": "2026-09-09",
-  "briefing": "Markets were mildly negative today (NASDAQ -0.3%, S&P 500 -0.6%), but a handful of screened names still show complete bullish confirmation (RSI, MACD, price vs SMA-20, and volume surge all aligned). With cash above the $500 threshold and 3 open slots, I made two measured medium-conviction buys in ERO and LGN rather than staying fully idle, while holding the rest of the portfolio unchanged.",
+  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.2%), so we held existing positions rather than forcing trades. We added a single medium-conviction position in VALE, which showed strong, fully-confirmed bullish signals and adds sector diversification away from our tech-heavy holdings.",
   "daily_lesson": {
-    "term": "Relative Strength",
-    "explanation_en": "Relative strength is when a stock keeps rising or holds steady even while the overall market is flat or falling, which can signal that investors have particular confidence in that specific company. Today several screened stocks showed full bullish technical confirmation despite the S&P 500 and NASDAQ both dipping slightly.",
-    "explanation_zh": "「相對強度」是指個股在大市持平或下跌時仍然造好或企穩,反映投資者對該公司特別有信心。今日儘管標普500及納斯達克指數同告輕微下跌,部分篩選股份卻同時出現完整的技術面看漲訊號。"
+    "term": "Diversification",
+    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink your whole portfolio. Today's portfolio was heavily weighted toward tech (QQQ, OLED, INOD, MU), so adding a materials-sector stock like VALE helps reduce that concentration risk.",
+    "explanation_zh": "分散投資是指將資金分佈於不同行業，避免單一板塊下跌時拖累整個投資組合。現時組合偏重科技股（QQQ、OLED、INOD、MU），因此加入原材料板塊的VALE有助降低過度集中的風險。"
   },
   "market_education": {
-    "summary_en": "Broader indices drifted slightly lower today, with the S&P 500 down 0.6% and the NASDAQ down 0.3%, reflecting a generally cautious, low-conviction session rather than any major shock. A few individual names bucked the trend, showing strong technical confirmation (rising momentum, price above short-term averages, and heavier-than-usual trading volume), which suggests stock-specific buying interest even as the overall market cooled. No major single catalyst news was identified driving today's moves.",
-    "summary_zh": "今日大盤稍為回落,標普500指數下跌0.6%,納斯達克指數下跌0.3%,反映市場氣氛審慎,並非受單一重大事件衝擊。不過部份個股逆勢造好,同時出現多個技術指標轉強訊號(動能上升、股價高於短期均線,以及成交量明顯放大),顯示資金正選擇性流入個別強勢股,而非全面看好大市。今日未有發現明顯的單一新聞催化因素。",
+    "summary_en": "Major indices were essentially flat today, with the NASDAQ and S&P 500 both down about 0.2%, reflecting a lack of strong directional catalysts. Without a clear risk-on or risk-off trigger, broad market movement stayed muted while pockets of individual-stock strength persisted. This kind of quiet, range-bound session is common between major economic data releases or earnings catalysts.",
+    "summary_zh": "今日大市表現大致持平，納斯達克指數及標普500指數均微跌約0.2%，反映市場缺乏明顯的方向性催化劑。在沒有明確的風險偏好或避險訊號帶動下，大市整體波動有限，但個別股份仍錄得亮眼升勢。這種橫行整固的走勢，在重要經濟數據或業績公佈之間頗為常見。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ERO",
+      "ticker": "VALE",
       "conviction": "medium",
-      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) shows real strength even as the broader market is soft."
-    },
-    {
-      "action": "BUY",
-      "ticker": "LGN",
-      "conviction": "medium",
-      "reasoning": "Same full four-signal confirmation as ERO with a volume surge, offering diversification into a different name at the same top score."
+      "reasoning": "Full multi-signal confirmation (RSI 55.9 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) with the least overbought RSI among the top-scoring candidates, and it diversifies the tech-heavy portfolio (QQQ, OLED, INOD, MU) into materials."
     }
   ],
   "outcomes": {
