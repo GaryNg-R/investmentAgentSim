@@ -1,38 +1,19 @@
 {
-  "saved_at": "2026-09-09T20:01:08.064852+00:00",
+  "saved_at": "2026-09-09T21:00:56.505407+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "CHYM",
-        "conviction": "high",
-        "reasoning": "Score 100 with full signal confirmation (RSI 63.5 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) fills an open slot per the cash-deployment rule."
-      },
-      {
-        "action": "BUY",
-        "ticker": "TNGX",
-        "conviction": "high",
-        "reasoning": "Score 100 with all four confirming signals (bullish RSI, MACD crossover, price above SMA-20, volume surge) indicating institutional participation."
-      },
-      {
-        "action": "BUY",
-        "ticker": "HPQ",
-        "conviction": "high",
-        "reasoning": "Score 100 with full multi-signal confirmation matching the strategy's high-conviction criteria, deploying idle cash above the $500 threshold into open slots."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets were mildly negative today (NASDAQ -0.6%, S&P 500 -0.5%) but three stocks \u2014 CHYM, TNGX, and HPQ \u2014 showed strong stock-specific momentum with full technical confirmation. With cash above the $500 threshold and 3 open slots, we deployed into these top-scoring candidates rather than holding idle cash.",
+    "briefing": "Markets were neutral today with NASDAQ -0.6% and S&P 500 -0.5% \u2014 no clear risk-on signal despite three high-scoring candidates (CHYM, TNGX, MKC-V) showing full bullish confirmation. Per past lessons, we held cash rather than forcing new buys on a neutral day, and kept all seven existing positions intact.",
     "market_education": {
-      "summary_en": "Broader markets drifted slightly lower today with the NASDAQ down 0.6% and the S&P 500 down 0.5%, reflecting a cautious, directionless session rather than a sharp risk-off move. Despite the soft overall tape, individual names like CHYM, TNGX, and HPQ bucked the trend with volume-backed breakouts, showing that stock-specific momentum can diverge from index-level performance. This kind of mixed action is typical of a consolidation phase where investors rotate into names with strong company-specific catalysts rather than following the index.",
-      "summary_zh": "\u5927\u5e02\u4eca\u65e5\u7565\u70ba\u8d70\u5f31\uff0c\u7d0d\u6307\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.5%\uff0c\u53cd\u6620\u5e02\u5834\u8655\u65bc\u89c0\u671b\u6574\u56fa\u968e\u6bb5\uff0c\u800c\u975e\u660e\u986f\u7684risk-off\u62cb\u552e\u3002\u5118\u7ba1\u5927\u76e4\u504f\u8edf\uff0cCHYM\u3001TNGX\u53caHPQ\u7b49\u500b\u80a1\u537b\u9006\u5e02\u8d70\u5f37\uff0c\u4f34\u96a8\u6210\u4ea4\u91cf\u653e\u5927\u7a81\u7834\uff0c\u986f\u793a\u500b\u80a1\u52d5\u80fd\u53ef\u4ee5\u812b\u96e2\u5927\u76e4\u8868\u73fe\u7368\u7acb\u767c\u63ee\u3002\u9019\u7a2e\u5206\u5316\u8d70\u52e2\u5728\u6574\u56fa\u671f\u5341\u5206\u5e38\u898b\uff0c\u8cc7\u91d1\u50be\u5411\u6d41\u5411\u5177\u5099\u500b\u5225\u5229\u597d\u50ac\u5316\u5291\u7684\u80a1\u4efd\uff0c\u800c\u975e\u8ddf\u96a8\u5927\u76e4\u8d70\u5411\u3002",
+      "summary_en": "Broad indices drifted slightly lower today, with NASDAQ down 0.6% and the S&P 500 down 0.5%, reflecting a lack of strong directional conviction from investors. No major catalyst pushed markets sharply in either direction, so trading stayed range-bound and cautious. Individual names like CHYM, TNGX, and MKC-V still showed strong bullish technical setups, but that strength was stock-specific rather than market-wide.",
+      "summary_zh": "\u5927\u5e02\u4eca\u65e5\u8f15\u5fae\u56de\u843d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.5%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u4fe1\u5fc3\u3002\u4eca\u65e5\u4e26\u7121\u91cd\u5927\u6d88\u606f\u63a8\u52d5\u5e02\u5834\u5927\u5e45\u6ce2\u52d5\uff0c\u4ea4\u6295\u7dad\u6301\u7a84\u5e45\u6574\u56fa\u683c\u5c40\u3002\u500b\u5225\u80a1\u4efd\u5982CHYM\u3001TNGX\u53caMKC-V\u4ecd\u5c55\u73fe\u5f37\u52c1\u7684\u6280\u8853\u8cb7\u5165\u8a0a\u865f\uff0c\u4f46\u9019\u5c6c\u65bc\u500b\u80a1\u5c64\u9762\u7684\u5f37\u52e2\uff0c\u4e26\u975e\u5168\u5e02\u5834\u6027\u7684\u4e0a\u5347\u8da8\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that the trend is likely to continue in the near term. Today's picks (CHYM, TNGX, HPQ) all showed rising prices, bullish RSI readings, MACD crossovers, and volume surges \u2014 signals that often mean bigger investors are actively buying in, even when the broader market is flat or slightly down.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u50f9\u683c\u53ca\u6210\u4ea4\u91cf\u5df2\u5448\u73fe\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u56e0\u70ba\u7406\u8ad6\u4e0a\u9019\u7a2e\u8da8\u52e2\u77ed\u671f\u5167\u6709\u6a5f\u6703\u5ef6\u7e8c\u3002\u4eca\u65e5\u9078\u4e2d\u7684CHYM\u3001TNGX\u53caHPQ\u5747\u51fa\u73fe\u80a1\u50f9\u4e0a\u5347\u3001RSI\u8655\u65bc\u504f\u597d\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u7b49\u8a0a\u865f\uff0c\u9019\u4e9b\u5f80\u5f80\u4ee3\u8868\u6709\u5927\u6236\u8cc7\u91d1\u6b63\u5728\u7a4d\u6975\u5438\u7d0d\uff0c\u5373\u4f7f\u5927\u76e4\u8868\u73fe\u5e73\u6de1\u6216\u8f15\u5fae\u4e0b\u8dcc\uff0c\u500b\u80a1\u4ecd\u53ef\u9006\u52e2\u8d70\u5f37\u3002"
+      "term": "Patience",
+      "explanation_en": "Patience in investing means resisting the urge to deploy cash just because it's sitting idle, especially when the broader market isn't confirming a clear uptrend. Even with strong individual stock signals available, waiting for a genuine risk-on environment before committing new capital can help avoid buying into false starts.",
+      "explanation_zh": "\u6295\u8cc7\u4e2d\u7684\u300c\u8010\u6027\u300d\u662f\u6307\u5373\u4f7f\u624b\u982d\u73fe\u91d1\u9592\u7f6e\uff0c\u4e5f\u4e0d\u6703\u56e0\u6b64\u800c\u6025\u65bc\u9032\u5834\uff0c\u5c24\u5176\u662f\u5728\u5927\u5e02\u672a\u80fd\u78ba\u8a8d\u660e\u78ba\u4e0a\u5347\u8da8\u52e2\u7684\u60c5\u6cc1\u4e0b\u3002\u5373\u4f7f\u500b\u5225\u80a1\u4efd\u51fa\u73fe\u5f37\u52c1\u8a0a\u865f\uff0c\u7b49\u5f85\u771f\u6b63\u7684\u98a8\u96aa\u504f\u597d\uff08risk-on\uff09\u74b0\u5883\u624d\u6295\u5165\u65b0\u8cc7\u91d1\uff0c\u6709\u52a9\u907f\u514d\u8cb7\u5728\u5047\u7a81\u7834\u4e4b\u4e2d\u3002"
     }
   }
 }
