@@ -1,30 +1,17 @@
 {
   "date": "2026-09-09",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.4%, S&P 500 -0.3%), so we're not chasing broad market strength. However, CHYM and PLBL both show complete technical confirmation (RSI, MACD, price vs. SMA-20, and volume), so we're adding modest positions in those two rather than holding cash idle above the $500 threshold. All existing positions are held unchanged.",
+  "briefing": "Markets were mildly negative today (NASDAQ -0.7%, S&P 500 -0.5%) — not the risk-on signal our strategy requires before deploying idle cash into new positions. TSLA and DELL show strong momentum but lack the volume-surge confirmation our rules require for high-conviction buys, so we're holding our 7 positions and $589 cash rather than forcing a trade on a soft day.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks moving up tend to keep moving up in the short term. Today's picks, CHYM and PLBL, showed all four bullish signals (RSI, MACD, price above moving average, and volume surge) even though the overall market was flat, illustrating that individual stock momentum can be worth acting on independent of broad index direction.",
-    "explanation_zh": "動能投資是指買入已經呈現強勁上升價格及成交量趨勢的股票，理論基礎是短期內上升的股票傾向持續上升。今日選中的CHYM及PLBL同時符合四項看漲訊號（RSI、MACD、股價高於移動平均線、成交量放大），即使大盤走勢平淡，個股動能仍然值得留意及採取行動。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors pull back from riskier assets like growth stocks amid uncertainty, even without a specific bad headline. On days like this, disciplined investors wait for clearer bullish confirmation (like a volume surge alongside technical signals) rather than deploying cash just because it's sitting idle.",
+    "explanation_zh": "「避險」（Risk-Off）指投資者在市況不明朗時，即使沒有明確的壞消息，也會減少持有成長股等風險資產。在這類日子，有紀律的投資者會等待更明確的看漲確認訊號（例如成交量放大配合技術指標），而不是單純因為現金閒置就急於進場。"
   },
   "market_education": {
-    "summary_en": "Major indices traded slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.3%, reflecting a quiet, directionless session rather than any major catalyst. Broad market breadth was mixed, with no dominant sector theme driving the tape. Individual stocks with strong technical setups, like CHYM and PLBL, still attracted buying interest even as the indices drifted lower.",
-    "summary_zh": "今日大盤走勢偏弱，納斯達克指數下跌0.4%，標普500指數下跌0.3%，市況整體平淡，未見明顯催化因素帶動方向。板塊表現參差，沒有單一主題主導盤面。不過個別技術面強勢的股票，例如CHYM及PLBL，即使在大盤走弱下仍吸引資金流入。",
+    "summary_en": "Both major indices slipped modestly today, with the Nasdaq underperforming the S&P 500, suggesting a mild pullback in growth and tech-heavy names rather than a broad risk-off move. No single dominant catalyst is evident from the data available today. Trading volume and sector-specific news were not provided for this session, so this reflects a general market drift rather than a news-driven event.",
+    "summary_zh": "今日兩大指數均小幅下跌，納斯達克表現遜於標普500指數，顯示科技及成長股略為回調，而非全面避險拋售。目前未見明顯單一觸發因素，本次數據亦未提供具體成交量或板塊新聞，故今日走勢較似溫和整理而非消息面驅動。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "CHYM",
-      "conviction": "medium",
-      "reasoning": "Full 4-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) with a perfect momentum score despite a neutral broader market."
-    },
-    {
-      "action": "BUY",
-      "ticker": "PLBL",
-      "conviction": "medium",
-      "reasoning": "Same complete multi-signal confirmation as CHYM with a top momentum score, justifying deployment of available cash into a strong individual setup."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
