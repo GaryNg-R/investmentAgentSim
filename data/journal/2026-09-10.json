@@ -1,17 +1,24 @@
 {
   "date": "2026-09-10",
-  "briefing": "Markets were neutral today with NASDAQ and S&P 500 both down about 0.5%, showing no clear risk-on signal. With 3 open slots and cash above the $500 threshold, top candidates like AAPL and PLSE look promising but lack full multi-signal confirmation (no volume surge), so we're holding cash and waiting for a genuine risk-on setup rather than forcing a buy on a lukewarm day.",
+  "briefing": "Markets were roughly flat today with NASDAQ and S&P 500 both down about 0.6%, a neutral session with no strong directional signal. Existing positions were left untouched since none showed stop-loss or profit-target triggers, and we deployed the available cash into AAPL, the highest-conviction candidate with strong multi-signal technical confirmation.",
   "daily_lesson": {
-    "term": "Cash is a Position",
-    "explanation_en": "Holding cash isn't 'doing nothing' — it's an active choice to wait for better opportunities rather than deploying capital just because slots are open. On neutral days without strong multi-signal confirmation (like a volume surge alongside MACD and RSI signals), patience protects capital for when a genuine risk-on setup appears.",
-    "explanation_zh": "持有現金並非「什麼都不做」,而是一種主動選擇:與其因為還有空位就勉強買入,不如耐心等待更好的機會。在缺乏多重訊號確認(例如成交量放大加上MACD與RSI訊號)的中性交易日,保持耐心才能在真正的風險偏好轉強時機出現時,保留足夠的資金。"
+    "term": "MACD Crossover",
+    "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often signaling that upward momentum is building. Combined with other bullish signs like RSI in a healthy range and price above its moving average, it gives more confidence that a rally has real strength behind it rather than being a random blip.",
+    "explanation_zh": "MACD黃金交叉係指股票嘅MACD線升穿訊號線，通常代表上升動能正在增強。如果同時配合RSI處於健康區間、股價高於平均線等其他利好訊號，就更有信心呢個升勢係有實質動力支撐，而唔係偶然波動。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted lower today, with the S&P 500 and NASDAQ each slipping roughly 0.5% in a quiet, directionless session. There was no single dominant catalyst driving the move, consistent with a market taking a pause after recent gains rather than reacting to major news. Trading volume and volatility appear moderate, suggesting investors are waiting for clearer signals before committing more capital.",
-    "summary_zh": "今日大盤普遍走弱,標普500指數與納斯達克指數均下跌約0.5%,走勢方向不明。市場並無單一主導消息面因素,較像是近期漲勢後的整理性回調,而非對重大新聞的反應。成交量與波動度均屬溫和,顯示投資人在加碼前仍在等待更明確的訊號。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ and S&P 500 each down roughly 0.6% in a broadly quiet, directionless session. No major catalyst drove the move — it reflects typical day-to-day consolidation rather than a shift in sentiment. Investors appear to be digesting recent gains rather than reacting to fresh news.",
+    "summary_zh": "今日大市走勢平淡，納指同標普500指數均微跌約0.6%，屬於典型嘅橫盤整固，並無明顯催化因素帶動。市場似乎係喺消化早前嘅升幅，而非對突發消息作出反應。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "AAPL",
+      "conviction": "high",
+      "reasoning": "Top-scoring candidate (95) with four confirming bullish signals — RSI in the healthy 55-70 zone, MACD bullish crossover with rising histogram, and price above SMA-20 — justifying deployment of idle cash above the $500 threshold with open slots available."
+    }
+  ],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
