@@ -1,14 +1,14 @@
 {
   "date": "2026-09-10",
-  "briefing": "NASDAQ (-0.7%) and S&P 500 (-0.6%) both slipped modestly today, a neutral-to-slightly-negative session with no clear risk-on catalyst. None of today's top candidates showed the full four-signal confirmation (MACD crossover, RSI 55-70, price above SMA-20, and a volume surge) our strategy memory requires for high-conviction buys, so we're holding our $589 cash and all 7 existing positions rather than forcing a trade.",
+  "briefing": "Markets were mildly negative today (NASDAQ -0.7%, S&P 500 -0.6%) with no clear risk-on catalyst. None of the screened candidates showed the full multi-signal confirmation (MACD crossover, RSI in bullish zone, price above SMA-20, and volume surge) needed for a high-conviction buy, so we held cash and existing positions unchanged rather than force a trade on a neutral day.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors pull back from riskier assets amid uncertainty, causing broad indexes to dip modestly even without major bad news. The disciplined response is to hold steady rather than chase trades, since forcing a buy without strong confirming signals increases the odds of an early loss.",
-    "explanation_zh": "「risk-off」(規避風險)日子是指投資者在不確定氣氛下減少持有風險較高的資產,即使沒有重大壞消息,大市指數也會溫和下跌。紀律性的做法是按兵不動,而非勉強進場,因為在缺乏強力訊號確認下買入,提高了初期虧損的機會。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for several bullish signals to line up together — like a MACD crossover, healthy RSI, price above key moving averages, and a volume surge — before committing capital, rather than acting on just one signal. On a quiet or mixed day like today, no candidate showed all of these together, so the disciplined move was to wait rather than chase a partial setup.",
+    "explanation_zh": "動能確認是指在投入資金前,等待多項看漲訊號同時出現——例如MACD黃金交叉、健康的RSI水平、股價站上重要均線,以及成交量放大——而不是僅憑單一訊號就進場。像今天這種市況平淡、訊號不一致的情況下,沒有任何候選股同時符合以上所有條件,因此耐心等待比追逐不完整的訊號更為紀律。"
   },
   "market_education": {
-    "summary_en": "Markets drifted lower today with the NASDAQ down 0.7% and S&P 500 down 0.6%, a mild pullback rather than a sharp risk-off move. No single dominant catalyst stood out, consistent with a session of profit-taking and consolidation after recent gains. Without a strong directional signal, staying disciplined and avoiding forced trades is the more prudent approach.",
-    "summary_zh": "今日大市普遍偏軟,納斯達克指數下跌0.7%,標普500指數下跌0.6%,屬溫和回調而非明顯的risk-off走勢。市場未見單一主導因素,較似是近期升勢後的獲利回吐及整固。在缺乏明確方向訊號下,保持紀律、避免強行進場屬較穩妥做法。",
+    "summary_en": "Broad indices drifted lower today, with the NASDAQ down 0.7% and the S&P 500 down 0.6%, reflecting a mild risk-off tilt rather than any single dramatic catalyst. Trading was largely rotational, with fewer stocks showing the full combination of bullish signals (RSI momentum, MACD crossover, price above moving averages, and volume confirmation) that typically precedes strong rallies. Without confirmed institutional buying pressure across the screened list, the safer path was to preserve capital and open slots for a clearer setup.",
+    "summary_zh": "大盤今日普遍走弱,納斯達克指數下跌0.7%,標普500指數下跌0.6%,反映市場情緒偏向風險趨避,而非受單一重大事件驅動。今日交易呈現輪動格局,篩選名單中同時符合多項看漲訊號(RSI動能、MACD黃金交叉、股價站上均線及成交量放大)的股票不多。在缺乏明確的資金進場訊號下,選擇保留現金及空倉額度,等待更具說服力的進場時機較為穩健。",
     "sources": []
   },
   "trades": [],
