@@ -1,24 +1,17 @@
 {
   "date": "2026-09-10",
-  "briefing": "Markets were roughly flat today with NASDAQ and S&P 500 both down about 0.6%, a neutral session with no strong directional signal. Existing positions were left untouched since none showed stop-loss or profit-target triggers, and we deployed the available cash into AAPL, the highest-conviction candidate with strong multi-signal technical confirmation.",
+  "briefing": "NASDAQ (-0.7%) and S&P 500 (-0.6%) both slipped modestly today, a neutral-to-slightly-negative session with no clear risk-on catalyst. None of today's top candidates showed the full four-signal confirmation (MACD crossover, RSI 55-70, price above SMA-20, and a volume surge) our strategy memory requires for high-conviction buys, so we're holding our $589 cash and all 7 existing positions rather than forcing a trade.",
   "daily_lesson": {
-    "term": "MACD Crossover",
-    "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often signaling that upward momentum is building. Combined with other bullish signs like RSI in a healthy range and price above its moving average, it gives more confidence that a rally has real strength behind it rather than being a random blip.",
-    "explanation_zh": "MACD黃金交叉係指股票嘅MACD線升穿訊號線，通常代表上升動能正在增強。如果同時配合RSI處於健康區間、股價高於平均線等其他利好訊號，就更有信心呢個升勢係有實質動力支撐，而唔係偶然波動。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors pull back from riskier assets amid uncertainty, causing broad indexes to dip modestly even without major bad news. The disciplined response is to hold steady rather than chase trades, since forcing a buy without strong confirming signals increases the odds of an early loss.",
+    "explanation_zh": "「risk-off」(規避風險)日子是指投資者在不確定氣氛下減少持有風險較高的資產,即使沒有重大壞消息,大市指數也會溫和下跌。紀律性的做法是按兵不動,而非勉強進場,因為在缺乏強力訊號確認下買入,提高了初期虧損的機會。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ and S&P 500 each down roughly 0.6% in a broadly quiet, directionless session. No major catalyst drove the move — it reflects typical day-to-day consolidation rather than a shift in sentiment. Investors appear to be digesting recent gains rather than reacting to fresh news.",
-    "summary_zh": "今日大市走勢平淡，納指同標普500指數均微跌約0.6%，屬於典型嘅橫盤整固，並無明顯催化因素帶動。市場似乎係喺消化早前嘅升幅，而非對突發消息作出反應。",
+    "summary_en": "Markets drifted lower today with the NASDAQ down 0.7% and S&P 500 down 0.6%, a mild pullback rather than a sharp risk-off move. No single dominant catalyst stood out, consistent with a session of profit-taking and consolidation after recent gains. Without a strong directional signal, staying disciplined and avoiding forced trades is the more prudent approach.",
+    "summary_zh": "今日大市普遍偏軟,納斯達克指數下跌0.7%,標普500指數下跌0.6%,屬溫和回調而非明顯的risk-off走勢。市場未見單一主導因素,較似是近期升勢後的獲利回吐及整固。在缺乏明確方向訊號下,保持紀律、避免強行進場屬較穩妥做法。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "AAPL",
-      "conviction": "high",
-      "reasoning": "Top-scoring candidate (95) with four confirming bullish signals — RSI in the healthy 55-70 zone, MACD bullish crossover with rising histogram, and price above SMA-20 — justifying deployment of idle cash above the $500 threshold with open slots available."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
