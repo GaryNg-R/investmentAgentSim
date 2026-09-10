@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-10",
+  "briefing": "Market is flat-to-slightly-down (NASDAQ -0.6%, S&P500 -0.5%), but CHYM, TNGX, and MKC-V all show full bullish signal confirmation (MACD crossover, rising momentum, volume surge, price above SMA-20), so we're using open slots and available cash to add these stock-specific strength plays rather than waiting idly.",
+  "daily_lesson": {
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks in motion tend to stay in motion. Today's picks (CHYM, TNGX, MKC-V) all showed the full combination of bullish RSI, a MACD crossover, price above their 20-day average, and a volume surge — a strong momentum signal even though the broader market was flat.",
+    "explanation_zh": "動能投資是指買入股價與成交量已呈現強勁上升趨勢的股票,理論基礎是「移動中的物體傾向繼續移動」。今日選中的CHYM、TNGX及MKC-V均同時符合RSI處於多頭區間、MACD黃金交叉、股價高於20日均線及成交量放大等訊號,即使大盤走勢平淡,這仍是強烈的動能訊號。"
+  },
+  "market_education": {
+    "summary_en": "Major indices drifted modestly lower today, with the NASDAQ down 0.6% and the S&P 500 down 0.5%, consistent with a broad risk-neutral tone rather than any single dominant catalyst. Despite the soft index-level tape, several individual names showed strong technical breakouts with volume confirmation, illustrating how stock-specific momentum can diverge from the broader market. No major headline catalysts were available to cite for today's move.",
+    "summary_zh": "今日大盤走勢溫和偏軟，納斯達克指數下跌0.6%，標普500指數下跌0.5%，呈現中性偏保守的市況，並未見明顯單一觸發因素帶動大盤方向。儘管指數表現平淡，個別股票如CHYM、TNGX及MKC-V卻出現技術面突破並伴隨成交量放大，顯示個股動能可以獨立於大盤走勢之外。今日並無重大新聞頭條可供引用。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "CHYM",
+      "conviction": "high",
+      "reasoning": "Score 100 with full signal stack (RSI bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) confirms genuine institutional buying despite a neutral tape."
+    },
+    {
+      "action": "BUY",
+      "ticker": "TNGX",
+      "conviction": "high",
+      "reasoning": "Score 100 with identical full multi-signal confirmation (RSI 66.6 bullish, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies deploying available cash into an open slot."
+    },
+    {
+      "action": "BUY",
+      "ticker": "MKC-V",
+      "conviction": "medium",
+      "reasoning": "Third top-scored candidate with all four confirming signals present, filling the remaining open slot with limited remaining cash at medium conviction given position size will be smaller."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14155.735246181488,
+    "cash": 589.2850012779236,
+    "pnl_dollar": 4155.735246181488,
+    "pnl_pct": 41.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}

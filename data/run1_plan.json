@@ -1,19 +1,38 @@
 {
-  "saved_at": "2026-09-09T21:00:56.505407+00:00",
+  "saved_at": "2026-09-10T13:01:03.491898+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "CHYM",
+        "conviction": "high",
+        "reasoning": "Score 100 with full signal stack (RSI bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) confirms genuine institutional buying despite a neutral tape."
+      },
+      {
+        "action": "BUY",
+        "ticker": "TNGX",
+        "conviction": "high",
+        "reasoning": "Score 100 with identical full multi-signal confirmation (RSI 66.6 bullish, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies deploying available cash into an open slot."
+      },
+      {
+        "action": "BUY",
+        "ticker": "MKC-V",
+        "conviction": "medium",
+        "reasoning": "Third top-scored candidate with all four confirming signals present, filling the remaining open slot with limited remaining cash at medium conviction given position size will be smaller."
+      }
+    ],
     "skip_new_buys": false,
-    "briefing": "Markets were neutral today with NASDAQ -0.6% and S&P 500 -0.5% \u2014 no clear risk-on signal despite three high-scoring candidates (CHYM, TNGX, MKC-V) showing full bullish confirmation. Per past lessons, we held cash rather than forcing new buys on a neutral day, and kept all seven existing positions intact.",
+    "briefing": "Market is flat-to-slightly-down (NASDAQ -0.6%, S&P500 -0.5%), but CHYM, TNGX, and MKC-V all show full bullish signal confirmation (MACD crossover, rising momentum, volume surge, price above SMA-20), so we're using open slots and available cash to add these stock-specific strength plays rather than waiting idly.",
     "market_education": {
-      "summary_en": "Broad indices drifted slightly lower today, with NASDAQ down 0.6% and the S&P 500 down 0.5%, reflecting a lack of strong directional conviction from investors. No major catalyst pushed markets sharply in either direction, so trading stayed range-bound and cautious. Individual names like CHYM, TNGX, and MKC-V still showed strong bullish technical setups, but that strength was stock-specific rather than market-wide.",
-      "summary_zh": "\u5927\u5e02\u4eca\u65e5\u8f15\u5fae\u56de\u843d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.5%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u4fe1\u5fc3\u3002\u4eca\u65e5\u4e26\u7121\u91cd\u5927\u6d88\u606f\u63a8\u52d5\u5e02\u5834\u5927\u5e45\u6ce2\u52d5\uff0c\u4ea4\u6295\u7dad\u6301\u7a84\u5e45\u6574\u56fa\u683c\u5c40\u3002\u500b\u5225\u80a1\u4efd\u5982CHYM\u3001TNGX\u53caMKC-V\u4ecd\u5c55\u73fe\u5f37\u52c1\u7684\u6280\u8853\u8cb7\u5165\u8a0a\u865f\uff0c\u4f46\u9019\u5c6c\u65bc\u500b\u80a1\u5c64\u9762\u7684\u5f37\u52e2\uff0c\u4e26\u975e\u5168\u5e02\u5834\u6027\u7684\u4e0a\u5347\u8da8\u52e2\u3002",
+      "summary_en": "Major indices drifted modestly lower today, with the NASDAQ down 0.6% and the S&P 500 down 0.5%, consistent with a broad risk-neutral tone rather than any single dominant catalyst. Despite the soft index-level tape, several individual names showed strong technical breakouts with volume confirmation, illustrating how stock-specific momentum can diverge from the broader market. No major headline catalysts were available to cite for today's move.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c\u504f\u8edf\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.5%\uff0c\u5448\u73fe\u4e2d\u6027\u504f\u4fdd\u5b88\u7684\u5e02\u6cc1\uff0c\u4e26\u672a\u898b\u660e\u986f\u55ae\u4e00\u89f8\u767c\u56e0\u7d20\u5e36\u52d5\u5927\u76e4\u65b9\u5411\u3002\u5118\u7ba1\u6307\u6578\u8868\u73fe\u5e73\u6de1\uff0c\u500b\u5225\u80a1\u7968\u5982CHYM\u3001TNGX\u53caMKC-V\u537b\u51fa\u73fe\u6280\u8853\u9762\u7a81\u7834\u4e26\u4f34\u96a8\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u986f\u793a\u500b\u80a1\u52d5\u80fd\u53ef\u4ee5\u7368\u7acb\u65bc\u5927\u76e4\u8d70\u52e2\u4e4b\u5916\u3002\u4eca\u65e5\u4e26\u7121\u91cd\u5927\u65b0\u805e\u982d\u689d\u53ef\u4f9b\u5f15\u7528\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Patience",
-      "explanation_en": "Patience in investing means resisting the urge to deploy cash just because it's sitting idle, especially when the broader market isn't confirming a clear uptrend. Even with strong individual stock signals available, waiting for a genuine risk-on environment before committing new capital can help avoid buying into false starts.",
-      "explanation_zh": "\u6295\u8cc7\u4e2d\u7684\u300c\u8010\u6027\u300d\u662f\u6307\u5373\u4f7f\u624b\u982d\u73fe\u91d1\u9592\u7f6e\uff0c\u4e5f\u4e0d\u6703\u56e0\u6b64\u800c\u6025\u65bc\u9032\u5834\uff0c\u5c24\u5176\u662f\u5728\u5927\u5e02\u672a\u80fd\u78ba\u8a8d\u660e\u78ba\u4e0a\u5347\u8da8\u52e2\u7684\u60c5\u6cc1\u4e0b\u3002\u5373\u4f7f\u500b\u5225\u80a1\u4efd\u51fa\u73fe\u5f37\u52c1\u8a0a\u865f\uff0c\u7b49\u5f85\u771f\u6b63\u7684\u98a8\u96aa\u504f\u597d\uff08risk-on\uff09\u74b0\u5883\u624d\u6295\u5165\u65b0\u8cc7\u91d1\uff0c\u6709\u52a9\u907f\u514d\u8cb7\u5728\u5047\u7a81\u7834\u4e4b\u4e2d\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks in motion tend to stay in motion. Today's picks (CHYM, TNGX, MKC-V) all showed the full combination of bullish RSI, a MACD crossover, price above their 20-day average, and a volume surge \u2014 a strong momentum signal even though the broader market was flat.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u80a1\u50f9\u8207\u6210\u4ea4\u91cf\u5df2\u5448\u73fe\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u7406\u8ad6\u57fa\u790e\u662f\u300c\u79fb\u52d5\u4e2d\u7684\u7269\u9ad4\u50be\u5411\u7e7c\u7e8c\u79fb\u52d5\u300d\u3002\u4eca\u65e5\u9078\u4e2d\u7684CHYM\u3001TNGX\u53caMKC-V\u5747\u540c\u6642\u7b26\u5408RSI\u8655\u65bc\u591a\u982d\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc20\u65e5\u5747\u7dda\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u7b49\u8a0a\u865f,\u5373\u4f7f\u5927\u76e4\u8d70\u52e2\u5e73\u6de1,\u9019\u4ecd\u662f\u5f37\u70c8\u7684\u52d5\u80fd\u8a0a\u865f\u3002"
     }
   }
 }
