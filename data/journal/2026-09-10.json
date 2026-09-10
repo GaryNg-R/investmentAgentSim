@@ -1,36 +1,17 @@
 {
   "date": "2026-09-10",
-  "briefing": "Market is flat-to-slightly-down (NASDAQ -0.6%, S&P500 -0.5%), but CHYM, TNGX, and MKC-V all show full bullish signal confirmation (MACD crossover, rising momentum, volume surge, price above SMA-20), so we're using open slots and available cash to add these stock-specific strength plays rather than waiting idly.",
+  "briefing": "Markets were soft today with NASDAQ down 0.9% and S&P 500 down 0.7% — a neutral, directionless session rather than a genuine risk-on move. With $589.29 in cash and 3 open slots, we chose to hold rather than force new buys, since past lessons show forcing capital deployment on neutral days isn't a winning pattern; existing positions are held unchanged.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks in motion tend to stay in motion. Today's picks (CHYM, TNGX, MKC-V) all showed the full combination of bullish RSI, a MACD crossover, price above their 20-day average, and a volume surge — a strong momentum signal even though the broader market was flat.",
-    "explanation_zh": "動能投資是指買入股價與成交量已呈現強勁上升趨勢的股票,理論基礎是「移動中的物體傾向繼續移動」。今日選中的CHYM、TNGX及MKC-V均同時符合RSI處於多頭區間、MACD黃金交叉、股價高於20日均線及成交量放大等訊號,即使大盤走勢平淡,這仍是強烈的動能訊號。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off describes a cautious market mood where investors hold back from new bets until clearer bullish signals appear, rather than chasing every dip or minor move. Today's soft, mixed market didn't offer the strong multi-signal confirmation (like a sharp NASDAQ rally) needed to justify deploying fresh cash into new stocks.",
+    "explanation_zh": "「風險趨避」（Risk-Off）指投資者在缺乏明確看多訊號時，選擇保守觀望、暫緩加碼的市場氛圍，而非見到任何小幅波動就進場。今日市況疲弱且方向不明，未能提供足夠強烈的多重訊號確認（例如納指大幅反彈），因此不宜動用現金開立新倉。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly lower today, with the NASDAQ down 0.6% and the S&P 500 down 0.5%, consistent with a broad risk-neutral tone rather than any single dominant catalyst. Despite the soft index-level tape, several individual names showed strong technical breakouts with volume confirmation, illustrating how stock-specific momentum can diverge from the broader market. No major headline catalysts were available to cite for today's move.",
-    "summary_zh": "今日大盤走勢溫和偏軟，納斯達克指數下跌0.6%，標普500指數下跌0.5%，呈現中性偏保守的市況，並未見明顯單一觸發因素帶動大盤方向。儘管指數表現平淡，個別股票如CHYM、TNGX及MKC-V卻出現技術面突破並伴隨成交量放大，顯示個股動能可以獨立於大盤走勢之外。今日並無重大新聞頭條可供引用。",
+    "summary_en": "Both the NASDAQ and S&P 500 drifted lower today, down 0.9% and 0.7% respectively, in a session that looked more like light profit-taking than a decisive risk-off move. No major catalyst headlines stood out in today's data feed, which itself is consistent with a quiet, low-conviction trading day. Given the lack of a clear bullish signal (such as a strong NASDAQ rally), we opted to preserve cash rather than chase new positions.",
+    "summary_zh": "納斯達克指數及標普500指數今日分別下跌0.9%及0.7%，走勢偏軟，較像是溫和獲利回吐而非明確的risk-off訊號。今日數據中並無重大消息面催化劑，亦反映市場交投清淡、方向不明。由於缺乏明確的看多訊號（例如納指強勁反彈2%以上），我們選擇保留現金，暫不追加新持倉。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "CHYM",
-      "conviction": "high",
-      "reasoning": "Score 100 with full signal stack (RSI bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) confirms genuine institutional buying despite a neutral tape."
-    },
-    {
-      "action": "BUY",
-      "ticker": "TNGX",
-      "conviction": "high",
-      "reasoning": "Score 100 with identical full multi-signal confirmation (RSI 66.6 bullish, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies deploying available cash into an open slot."
-    },
-    {
-      "action": "BUY",
-      "ticker": "MKC-V",
-      "conviction": "medium",
-      "reasoning": "Third top-scored candidate with all four confirming signals present, filling the remaining open slot with limited remaining cash at medium conviction given position size will be smaller."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,

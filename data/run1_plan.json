@@ -1,38 +1,19 @@
 {
-  "saved_at": "2026-09-10T13:01:03.491898+00:00",
+  "saved_at": "2026-09-10T14:01:15.831341+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "CHYM",
-        "conviction": "high",
-        "reasoning": "Score 100 with full signal stack (RSI bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) confirms genuine institutional buying despite a neutral tape."
-      },
-      {
-        "action": "BUY",
-        "ticker": "TNGX",
-        "conviction": "high",
-        "reasoning": "Score 100 with identical full multi-signal confirmation (RSI 66.6 bullish, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies deploying available cash into an open slot."
-      },
-      {
-        "action": "BUY",
-        "ticker": "MKC-V",
-        "conviction": "medium",
-        "reasoning": "Third top-scored candidate with all four confirming signals present, filling the remaining open slot with limited remaining cash at medium conviction given position size will be smaller."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Market is flat-to-slightly-down (NASDAQ -0.6%, S&P500 -0.5%), but CHYM, TNGX, and MKC-V all show full bullish signal confirmation (MACD crossover, rising momentum, volume surge, price above SMA-20), so we're using open slots and available cash to add these stock-specific strength plays rather than waiting idly.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Markets were soft today with NASDAQ down 0.9% and S&P 500 down 0.7% \u2014 a neutral, directionless session rather than a genuine risk-on move. With $589.29 in cash and 3 open slots, we chose to hold rather than force new buys, since past lessons show forcing capital deployment on neutral days isn't a winning pattern; existing positions are held unchanged.",
     "market_education": {
-      "summary_en": "Major indices drifted modestly lower today, with the NASDAQ down 0.6% and the S&P 500 down 0.5%, consistent with a broad risk-neutral tone rather than any single dominant catalyst. Despite the soft index-level tape, several individual names showed strong technical breakouts with volume confirmation, illustrating how stock-specific momentum can diverge from the broader market. No major headline catalysts were available to cite for today's move.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c\u504f\u8edf\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.5%\uff0c\u5448\u73fe\u4e2d\u6027\u504f\u4fdd\u5b88\u7684\u5e02\u6cc1\uff0c\u4e26\u672a\u898b\u660e\u986f\u55ae\u4e00\u89f8\u767c\u56e0\u7d20\u5e36\u52d5\u5927\u76e4\u65b9\u5411\u3002\u5118\u7ba1\u6307\u6578\u8868\u73fe\u5e73\u6de1\uff0c\u500b\u5225\u80a1\u7968\u5982CHYM\u3001TNGX\u53caMKC-V\u537b\u51fa\u73fe\u6280\u8853\u9762\u7a81\u7834\u4e26\u4f34\u96a8\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u986f\u793a\u500b\u80a1\u52d5\u80fd\u53ef\u4ee5\u7368\u7acb\u65bc\u5927\u76e4\u8d70\u52e2\u4e4b\u5916\u3002\u4eca\u65e5\u4e26\u7121\u91cd\u5927\u65b0\u805e\u982d\u689d\u53ef\u4f9b\u5f15\u7528\u3002",
+      "summary_en": "Both the NASDAQ and S&P 500 drifted lower today, down 0.9% and 0.7% respectively, in a session that looked more like light profit-taking than a decisive risk-off move. No major catalyst headlines stood out in today's data feed, which itself is consistent with a quiet, low-conviction trading day. Given the lack of a clear bullish signal (such as a strong NASDAQ rally), we opted to preserve cash rather than chase new positions.",
+      "summary_zh": "\u7d0d\u65af\u9054\u514b\u6307\u6578\u53ca\u6a19\u666e500\u6307\u6578\u4eca\u65e5\u5206\u5225\u4e0b\u8dcc0.9%\u53ca0.7%\uff0c\u8d70\u52e2\u504f\u8edf\uff0c\u8f03\u50cf\u662f\u6eab\u548c\u7372\u5229\u56de\u5410\u800c\u975e\u660e\u78ba\u7684risk-off\u8a0a\u865f\u3002\u4eca\u65e5\u6578\u64da\u4e2d\u4e26\u7121\u91cd\u5927\u6d88\u606f\u9762\u50ac\u5316\u5291\uff0c\u4ea6\u53cd\u6620\u5e02\u5834\u4ea4\u6295\u6e05\u6de1\u3001\u65b9\u5411\u4e0d\u660e\u3002\u7531\u65bc\u7f3a\u4e4f\u660e\u78ba\u7684\u770b\u591a\u8a0a\u865f\uff08\u4f8b\u5982\u7d0d\u6307\u5f37\u52c1\u53cd\u5f482%\u4ee5\u4e0a\uff09\uff0c\u6211\u5011\u9078\u64c7\u4fdd\u7559\u73fe\u91d1\uff0c\u66ab\u4e0d\u8ffd\u52a0\u65b0\u6301\u5009\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks in motion tend to stay in motion. Today's picks (CHYM, TNGX, MKC-V) all showed the full combination of bullish RSI, a MACD crossover, price above their 20-day average, and a volume surge \u2014 a strong momentum signal even though the broader market was flat.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u80a1\u50f9\u8207\u6210\u4ea4\u91cf\u5df2\u5448\u73fe\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u7406\u8ad6\u57fa\u790e\u662f\u300c\u79fb\u52d5\u4e2d\u7684\u7269\u9ad4\u50be\u5411\u7e7c\u7e8c\u79fb\u52d5\u300d\u3002\u4eca\u65e5\u9078\u4e2d\u7684CHYM\u3001TNGX\u53caMKC-V\u5747\u540c\u6642\u7b26\u5408RSI\u8655\u65bc\u591a\u982d\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc20\u65e5\u5747\u7dda\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u7b49\u8a0a\u865f,\u5373\u4f7f\u5927\u76e4\u8d70\u52e2\u5e73\u6de1,\u9019\u4ecd\u662f\u5f37\u70c8\u7684\u52d5\u80fd\u8a0a\u865f\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "Risk-off describes a cautious market mood where investors hold back from new bets until clearer bullish signals appear, rather than chasing every dip or minor move. Today's soft, mixed market didn't offer the strong multi-signal confirmation (like a sharp NASDAQ rally) needed to justify deploying fresh cash into new stocks.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u8da8\u907f\u300d\uff08Risk-Off\uff09\u6307\u6295\u8cc7\u8005\u5728\u7f3a\u4e4f\u660e\u78ba\u770b\u591a\u8a0a\u865f\u6642\uff0c\u9078\u64c7\u4fdd\u5b88\u89c0\u671b\u3001\u66ab\u7de9\u52a0\u78bc\u7684\u5e02\u5834\u6c1b\u570d\uff0c\u800c\u975e\u898b\u5230\u4efb\u4f55\u5c0f\u5e45\u6ce2\u52d5\u5c31\u9032\u5834\u3002\u4eca\u65e5\u5e02\u6cc1\u75b2\u5f31\u4e14\u65b9\u5411\u4e0d\u660e\uff0c\u672a\u80fd\u63d0\u4f9b\u8db3\u5920\u5f37\u70c8\u7684\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\uff08\u4f8b\u5982\u7d0d\u6307\u5927\u5e45\u53cd\u5f48\uff09\uff0c\u56e0\u6b64\u4e0d\u5b9c\u52d5\u7528\u73fe\u91d1\u958b\u7acb\u65b0\u5009\u3002"
     }
   }
 }
