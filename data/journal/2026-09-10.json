@@ -1,24 +1,17 @@
 {
   "date": "2026-09-10",
-  "briefing": "Markets were roughly flat today with NASDAQ and S&P 500 both down about 0.4%, a neutral session with no clear risk-on or risk-off signal. With cash above the $500 threshold and 3 open portfolio slots, we added a medium-conviction position in AAPL, the top-scored candidate showing multiple bullish technical signals, while holding all existing positions.",
+  "briefing": "Markets were neutral today with NASDAQ and S&P 500 both down about 0.5%, showing no clear risk-on signal. With 3 open slots and cash above the $500 threshold, top candidates like AAPL and PLSE look promising but lack full multi-signal confirmation (no volume surge), so we're holding cash and waiting for a genuine risk-on setup rather than forcing a buy on a lukewarm day.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD, and moving averages, on the theory that stocks in motion tend to stay in motion. Today's AAPL buy was driven by strong momentum signals even though the overall market was flat, showing how individual stock strength can diverge from the broader index.",
-    "explanation_zh": "動能投資是指買入已經呈現上升趨勢的股票，根據RSI、MACD及移動平均線等訊號進行判斷，理論基礎是「趨勢一旦形成，往往會延續」。今日買入AAPL正是基於強勁的動能訊號，即使大市表現平平，個股仍可展現出與大盤不同的強勢。"
+    "term": "Cash is a Position",
+    "explanation_en": "Holding cash isn't 'doing nothing' — it's an active choice to wait for better opportunities rather than deploying capital just because slots are open. On neutral days without strong multi-signal confirmation (like a volume surge alongside MACD and RSI signals), patience protects capital for when a genuine risk-on setup appears.",
+    "explanation_zh": "持有現金並非「什麼都不做」,而是一種主動選擇:與其因為還有空位就勉強買入,不如耐心等待更好的機會。在缺乏多重訊號確認(例如成交量放大加上MACD與RSI訊號)的中性交易日,保持耐心才能在真正的風險偏好轉強時機出現時,保留足夠的資金。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with NASDAQ and S&P 500 both down roughly 0.4% in a quiet, directionless session typical of consolidation after recent gains. No major catalyst news was available in today's data feed to explain the move, suggesting light profit-taking rather than a fundamental shift in sentiment. Individual stocks like AAPL and PLSE still showed strong bullish technical setups despite the flat broader tape.",
-    "summary_zh": "今日大市整體走勢平淡，納指及標普500指數均下跌約0.4%，屬於近期升勢後的整固格局。今日數據未見重大新聞催化劑，顯示這輪回調較大機會屬獲利回吐，而非基本因素逆轉。儘管大市平靜，個別股份如AAPL及PLSE仍錄得強勁的技術性買入訊號。",
+    "summary_en": "Broad indices drifted lower today, with the S&P 500 and NASDAQ each slipping roughly 0.5% in a quiet, directionless session. There was no single dominant catalyst driving the move, consistent with a market taking a pause after recent gains rather than reacting to major news. Trading volume and volatility appear moderate, suggesting investors are waiting for clearer signals before committing more capital.",
+    "summary_zh": "今日大盤普遍走弱,標普500指數與納斯達克指數均下跌約0.5%,走勢方向不明。市場並無單一主導消息面因素,較像是近期漲勢後的整理性回調,而非對重大新聞的反應。成交量與波動度均屬溫和,顯示投資人在加碼前仍在等待更明確的訊號。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "AAPL",
-      "conviction": "medium",
-      "reasoning": "Top-scored candidate (95) with RSI in bullish zone, MACD bullish crossover, and price above SMA-20, and risk rules favor deploying idle cash into an open slot with $589 available."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
