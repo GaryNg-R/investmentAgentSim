@@ -1,22 +1,28 @@
 {
   "date": "2026-09-11",
-  "briefing": "NASDAQ +1.1% and S&P 500 +1.0% signal a genuine risk-on day, so per strategy we're deploying available cash into a fully-confirmed high-conviction candidate rather than sitting idle. Existing 7 positions are held unchanged since none have hit stop-loss or profit targets, and market conditions don't warrant trimming winners.",
+  "briefing": "NASDAQ +1.2% and S&P 500 +1.0% signal a risk-on day, and with 3 open slots and cash above the $500 threshold, the risk rules favor deploying capital rather than sitting idle. Picked AAL and VICR to fill slots with strong momentum signals while diversifying away from the portfolio's existing tech/semiconductor concentration (QQQ, OLED, INOD, MU); existing positions are held since none hit stop-loss or profit-target levels.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of buying on just one bullish sign, traders look for several indicators to agree at once — like RSI in a healthy range, MACD crossing bullish, and price above its moving average. When multiple signals line up together, it's a stronger clue that real buying interest (not just noise) is driving the stock.",
-    "explanation_zh": "與其單憑一個利好訊號就買入，交易者會尋找多個指標同時確認 — 例如RSI處於健康區間、MACD出現黃金交叉，以及股價高於其移動平均線。當多項訊號同時出現，代表背後可能有實質買盤支持，而非單純的市場雜訊。"
+    "term": "Risk-On Rally",
+    "explanation_en": "A 'risk-on' day is when investors broadly favor growth and momentum assets because they're feeling optimistic about the economy or markets, pushing indexes like the NASDAQ and S&P 500 higher together. On these days, disciplined investors deploy available cash into strong candidates rather than sitting on the sidelines, since idle cash earns nothing while the market climbs.",
+    "explanation_zh": "「風險偏好」（Risk-On）日是指投資者普遍看好經濟或市場前景，傾向買入增長股及動能股，令納斯達克及標普500等指數同步上升。在這類日子，有紀律的投資者會將閒置現金投入表現強勁的候選股票，因為現金放著不動在市場上升時是沒有回報的。"
   },
   "market_education": {
-    "summary_en": "Broad market strength today lifted both the NASDAQ and S&P 500 roughly 1%, consistent with continued risk appetite across growth and tech-adjacent sectors. No single catalyst was flagged in today's data, but the breadth of gains across momentum names suggests healthy institutional buying rather than a narrow rally. This kind of broad participation is typically a more durable signal than a single-stock spike.",
-    "summary_zh": "今日大市走強，納指及標普500指數同步上升約1%，反映市場風險胃納持續，資金繼續流入增長股及科技相關板塊。今日數據未見單一明確催化因素，但升勢覆蓋多隻具動能的股票，顯示這是較健康的機構性買盤，而非個別股份的短暫爆升。這種廣泛參與的升勢，一般被視為比單一股份急升更具持續性的信號。",
+    "summary_en": "Broad market gains today, with NASDAQ up 1.2% and the S&P 500 up 1.0%, reflect a risk-on tone as growth and momentum names outperform. Breadth was healthy, with many candidates showing bullish MACD crossovers and RSI readings in constructive ranges rather than overbought extremes. No major single catalyst news was flagged for this session, so the move looks like broad-based buying rather than a reaction to one headline.",
+    "summary_zh": "今日大市普遍上揚，納斯達克指數升1.2%，標普500指數升1.0%，反映市場風險偏好情緒回暖，增長及動能股表現領先。市場廣度良好，多隻候選股票的MACD出現黃金交叉，RSI亦處於健康區間而非超買水平。今個交易日未有特別重大單一消息帶動，故此次上升較似是資金全面流入所致，而非單一新聞事件驅動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "MRNA",
-      "conviction": "high",
-      "reasoning": "Score 95 with all four bullish signals confirmed (RSI 65, MACD crossover, rising histogram, price above SMA-20), and adds biotech diversification away from the portfolio's tech/semiconductor concentration on a risk-on day."
+      "ticker": "AAL",
+      "conviction": "medium",
+      "reasoning": "Bullish RSI, MACD crossover with rising histogram, and price above SMA-20 on a risk-on day, while adding diversification away from the portfolio's heavy tech/semi tilt."
+    },
+    {
+      "action": "BUY",
+      "ticker": "VICR",
+      "conviction": "medium",
+      "reasoning": "Top-scored candidate with RSI in bullish zone, MACD bullish crossover, and rising histogram, filling an open slot on a risk-on day without over-concentrating in existing tech/semi exposure."
     }
   ],
   "outcomes": {

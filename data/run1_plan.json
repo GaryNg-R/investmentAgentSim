@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-09-11T17:00:47.223109+00:00",
+  "saved_at": "2026-09-11T18:00:56.556078+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "MRNA",
-        "conviction": "high",
-        "reasoning": "Score 95 with all four bullish signals confirmed (RSI 65, MACD crossover, rising histogram, price above SMA-20), and adds biotech diversification away from the portfolio's tech/semiconductor concentration on a risk-on day."
+        "ticker": "AAL",
+        "conviction": "medium",
+        "reasoning": "Bullish RSI, MACD crossover with rising histogram, and price above SMA-20 on a risk-on day, while adding diversification away from the portfolio's heavy tech/semi tilt."
+      },
+      {
+        "action": "BUY",
+        "ticker": "VICR",
+        "conviction": "medium",
+        "reasoning": "Top-scored candidate with RSI in bullish zone, MACD bullish crossover, and rising histogram, filling an open slot on a risk-on day without over-concentrating in existing tech/semi exposure."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "NASDAQ +1.1% and S&P 500 +1.0% signal a genuine risk-on day, so per strategy we're deploying available cash into a fully-confirmed high-conviction candidate rather than sitting idle. Existing 7 positions are held unchanged since none have hit stop-loss or profit targets, and market conditions don't warrant trimming winners.",
+    "briefing": "NASDAQ +1.2% and S&P 500 +1.0% signal a risk-on day, and with 3 open slots and cash above the $500 threshold, the risk rules favor deploying capital rather than sitting idle. Picked AAL and VICR to fill slots with strong momentum signals while diversifying away from the portfolio's existing tech/semiconductor concentration (QQQ, OLED, INOD, MU); existing positions are held since none hit stop-loss or profit-target levels.",
     "market_education": {
-      "summary_en": "Broad market strength today lifted both the NASDAQ and S&P 500 roughly 1%, consistent with continued risk appetite across growth and tech-adjacent sectors. No single catalyst was flagged in today's data, but the breadth of gains across momentum names suggests healthy institutional buying rather than a narrow rally. This kind of broad participation is typically a more durable signal than a single-stock spike.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u5f37\uff0c\u7d0d\u6307\u53ca\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u5347\u7d041%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u6301\u7e8c\uff0c\u8cc7\u91d1\u7e7c\u7e8c\u6d41\u5165\u589e\u9577\u80a1\u53ca\u79d1\u6280\u76f8\u95dc\u677f\u584a\u3002\u4eca\u65e5\u6578\u64da\u672a\u898b\u55ae\u4e00\u660e\u78ba\u50ac\u5316\u56e0\u7d20\uff0c\u4f46\u5347\u52e2\u8986\u84cb\u591a\u96bb\u5177\u52d5\u80fd\u7684\u80a1\u7968\uff0c\u986f\u793a\u9019\u662f\u8f03\u5065\u5eb7\u7684\u6a5f\u69cb\u6027\u8cb7\u76e4\uff0c\u800c\u975e\u500b\u5225\u80a1\u4efd\u7684\u77ed\u66ab\u7206\u5347\u3002\u9019\u7a2e\u5ee3\u6cdb\u53c3\u8207\u7684\u5347\u52e2\uff0c\u4e00\u822c\u88ab\u8996\u70ba\u6bd4\u55ae\u4e00\u80a1\u4efd\u6025\u5347\u66f4\u5177\u6301\u7e8c\u6027\u7684\u4fe1\u865f\u3002",
+      "summary_en": "Broad market gains today, with NASDAQ up 1.2% and the S&P 500 up 1.0%, reflect a risk-on tone as growth and momentum names outperform. Breadth was healthy, with many candidates showing bullish MACD crossovers and RSI readings in constructive ranges rather than overbought extremes. No major single catalyst news was flagged for this session, so the move looks like broad-based buying rather than a reaction to one headline.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53471.2%\uff0c\u6a19\u666e500\u6307\u6578\u53471.0%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u56de\u6696\uff0c\u589e\u9577\u53ca\u52d5\u80fd\u80a1\u8868\u73fe\u9818\u5148\u3002\u5e02\u5834\u5ee3\u5ea6\u826f\u597d\uff0c\u591a\u96bb\u5019\u9078\u80a1\u7968\u7684MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff0cRSI\u4ea6\u8655\u65bc\u5065\u5eb7\u5340\u9593\u800c\u975e\u8d85\u8cb7\u6c34\u5e73\u3002\u4eca\u500b\u4ea4\u6613\u65e5\u672a\u6709\u7279\u5225\u91cd\u5927\u55ae\u4e00\u6d88\u606f\u5e36\u52d5\uff0c\u6545\u6b64\u6b21\u4e0a\u5347\u8f03\u4f3c\u662f\u8cc7\u91d1\u5168\u9762\u6d41\u5165\u6240\u81f4\uff0c\u800c\u975e\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u9a45\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Instead of buying on just one bullish sign, traders look for several indicators to agree at once \u2014 like RSI in a healthy range, MACD crossing bullish, and price above its moving average. When multiple signals line up together, it's a stronger clue that real buying interest (not just noise) is driving the stock.",
-      "explanation_zh": "\u8207\u5176\u55ae\u6191\u4e00\u500b\u5229\u597d\u8a0a\u865f\u5c31\u8cb7\u5165\uff0c\u4ea4\u6613\u8005\u6703\u5c0b\u627e\u591a\u500b\u6307\u6a19\u540c\u6642\u78ba\u8a8d \u2014 \u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff0c\u4ee5\u53ca\u80a1\u50f9\u9ad8\u65bc\u5176\u79fb\u52d5\u5e73\u5747\u7dda\u3002\u7576\u591a\u9805\u8a0a\u865f\u540c\u6642\u51fa\u73fe\uff0c\u4ee3\u8868\u80cc\u5f8c\u53ef\u80fd\u6709\u5be6\u8cea\u8cb7\u76e4\u652f\u6301\uff0c\u800c\u975e\u55ae\u7d14\u7684\u5e02\u5834\u96dc\u8a0a\u3002"
+      "term": "Risk-On Rally",
+      "explanation_en": "A 'risk-on' day is when investors broadly favor growth and momentum assets because they're feeling optimistic about the economy or markets, pushing indexes like the NASDAQ and S&P 500 higher together. On these days, disciplined investors deploy available cash into strong candidates rather than sitting on the sidelines, since idle cash earns nothing while the market climbs.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u65e5\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u770b\u597d\u7d93\u6fdf\u6216\u5e02\u5834\u524d\u666f\uff0c\u50be\u5411\u8cb7\u5165\u589e\u9577\u80a1\u53ca\u52d5\u80fd\u80a1\uff0c\u4ee4\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u7b49\u6307\u6578\u540c\u6b65\u4e0a\u5347\u3002\u5728\u9019\u985e\u65e5\u5b50\uff0c\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u6703\u5c07\u9592\u7f6e\u73fe\u91d1\u6295\u5165\u8868\u73fe\u5f37\u52c1\u7684\u5019\u9078\u80a1\u7968\uff0c\u56e0\u70ba\u73fe\u91d1\u653e\u8457\u4e0d\u52d5\u5728\u5e02\u5834\u4e0a\u5347\u6642\u662f\u6c92\u6709\u56de\u5831\u7684\u3002"
     }
   }
 }
