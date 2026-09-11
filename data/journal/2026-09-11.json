@@ -1,28 +1,22 @@
 {
   "date": "2026-09-11",
-  "briefing": "NASDAQ +1.2% and S&P 500 +1.0% signal a risk-on day, and with 3 open slots and cash above the $500 threshold, the risk rules favor deploying capital rather than sitting idle. Picked AAL and VICR to fill slots with strong momentum signals while diversifying away from the portfolio's existing tech/semiconductor concentration (QQQ, OLED, INOD, MU); existing positions are held since none hit stop-loss or profit-target levels.",
+  "briefing": "Markets were modestly risk-on today with NASDAQ +1.1% and S&P 500 +0.9%. With cash above the $500 threshold and 3 open slots, we deployed into ON, which showed full multi-signal confirmation (bullish RSI, MACD crossover, rising momentum, price above SMA-20).",
   "daily_lesson": {
-    "term": "Risk-On Rally",
-    "explanation_en": "A 'risk-on' day is when investors broadly favor growth and momentum assets because they're feeling optimistic about the economy or markets, pushing indexes like the NASDAQ and S&P 500 higher together. On these days, disciplined investors deploy available cash into strong candidates rather than sitting on the sidelines, since idle cash earns nothing while the market climbs.",
-    "explanation_zh": "「風險偏好」（Risk-On）日是指投資者普遍看好經濟或市場前景，傾向買入增長股及動能股，令納斯達克及標普500等指數同步上升。在這類日子，有紀律的投資者會將閒置現金投入表現強勁的候選股票，因為現金放著不動在市場上升時是沒有回報的。"
+    "term": "MACD Crossover",
+    "explanation_en": "A MACD (Moving Average Convergence Divergence) crossover happens when the MACD line moves above its signal line, often signaling that upward momentum is building. Combined with other bullish signals like rising RSI and price above the 20-day moving average, it gives traders more confidence that a stock's uptrend has real strength behind it.",
+    "explanation_zh": "MACD（移動平均匯聚背馳指標）金叉是指MACD線升穿訊號線，通常顯示上升動能正在增強。若配合其他利好訊號，例如RSI上升及股價高於20日移動平均線，投資者可更有信心相信該股的升勢具備實質支持。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today, with NASDAQ up 1.2% and the S&P 500 up 1.0%, reflect a risk-on tone as growth and momentum names outperform. Breadth was healthy, with many candidates showing bullish MACD crossovers and RSI readings in constructive ranges rather than overbought extremes. No major single catalyst news was flagged for this session, so the move looks like broad-based buying rather than a reaction to one headline.",
-    "summary_zh": "今日大市普遍上揚，納斯達克指數升1.2%，標普500指數升1.0%，反映市場風險偏好情緒回暖，增長及動能股表現領先。市場廣度良好，多隻候選股票的MACD出現黃金交叉，RSI亦處於健康區間而非超買水平。今個交易日未有特別重大單一消息帶動，故此次上升較似是資金全面流入所致，而非單一新聞事件驅動。",
+    "summary_en": "Broad indices advanced today, with the NASDAQ leading gains at +1.1% and the S&P 500 up +0.9%, reflecting continued risk appetite among investors. Technology and semiconductor names showed particular strength, consistent with the bullish momentum signals seen across several screened tickers. No single catalyst headline was flagged in today's data, but the broad-based advance suggests improving sentiment heading into the session.",
+    "summary_zh": "大市今日普遍向好，納斯達克指數領漲，升1.1%，標普500指數亦上升0.9%，反映投資者風險偏好持續回升。科技及半導體股表現尤其強勁，與多隻篩選股票所顯示的看漲動能訊號一致。今日數據中未有標明單一催化消息，惟大市普遍上揚顯示市場情緒正在改善。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AAL",
-      "conviction": "medium",
-      "reasoning": "Bullish RSI, MACD crossover with rising histogram, and price above SMA-20 on a risk-on day, while adding diversification away from the portfolio's heavy tech/semi tilt."
-    },
-    {
-      "action": "BUY",
-      "ticker": "VICR",
-      "conviction": "medium",
-      "reasoning": "Top-scored candidate with RSI in bullish zone, MACD bullish crossover, and rising histogram, filling an open slot on a risk-on day without over-concentrating in existing tech/semi exposure."
+      "ticker": "ON",
+      "conviction": "high",
+      "reasoning": "Multi-signal confirmation (RSI 68.6 in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20) on a NASDAQ +1.1% risk-on day supports deploying idle cash into an open slot."
     }
   ],
   "outcomes": {
