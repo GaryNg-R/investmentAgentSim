@@ -1,22 +1,34 @@
 {
   "date": "2026-09-11",
-  "briefing": "Markets were modestly risk-on today, NASDAQ +1.0% and S&P 500 +0.9%. With one of three open slots deployed into HTFL — the top-scoring candidate showing full institutional-grade signal confirmation — while holding all seven existing positions since none hit stop-loss or profit-target levels.",
+  "briefing": "Markets were risk-on today with NASDAQ +1.0% and S&P +0.9%. With $589 cash and 3 open slots, we deployed into three top-scored candidates (BGSI, HTFL, M) that all show full multi-signal confirmation — MACD bullish crossover, rising histogram, bullish RSI, price above SMA-20, and volume surge — while holding existing winners.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strength tends to continue in the short term. Today's pick, HTFL, showed five confirming signals together — a bullish MACD crossover, healthy RSI, price above its moving average, and a volume surge — which is stronger evidence than any single signal alone.",
-    "explanation_zh": "動能投資是指買入已經處於上升趨勢的股票,理論基礎是短期內強勢股票往往會延續其強勢。今天選中的HTFL同時出現五個確認訊號——MACD黃金交叉、健康的RSI水平、股價高於移動平均線,以及成交量放大——比單一訊號更具說服力。"
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong recent performance tends to continue in the short term. Today's picks were chosen because they showed multiple confirming signals at once — rising price, bullish moving averages, and heavy trading volume — which together suggest real buying interest rather than random noise.",
+    "explanation_zh": "動能投資是指買入近期已經呈現上漲趨勢的股票,理論基礎是強勢表現在短期內往往會持續。今天選中的個股同時出現多項確認訊號——股價上漲、均線呈現多頭排列、成交量放大——這些訊號同時出現,代表背後有真實的買盤支撐,而非隨機波動。"
   },
   "market_education": {
-    "summary_en": "Broad indices posted modest gains today, with NASDAQ up 1.0% and the S&P 500 up 0.9%, reflecting a mild risk-on tone across equities. No specific news catalysts were provided for today's session, so the move likely reflects continued momentum in growth and tech-adjacent names. Breadth appeared healthy given the number of stocks screening with bullish MACD crossovers and volume surges.",
-    "summary_zh": "今日大盤溫和上揚,納斯達克指數上漲1.0%,標普500指數上漲0.9%,市場呈現溫和的風險偏好情緒。今日並未提供具體新聞催化劑,升勢可能延續了科技及成長股近期的動能。從篩選名單中多檔個股出現MACD黃金交叉及成交量放大來看,市場參與廣度良好。",
+    "summary_en": "Broad indices advanced modestly today, with the NASDAQ up 1.0% and the S&P 500 up 0.9%, reflecting continued risk appetite among investors. No major news catalysts were provided for today's session, so the move appears driven by general market momentum and sector rotation into growth and cyclical names. The breadth of stocks showing bullish technical signals (MACD crossovers, volume surges) suggests broad-based participation rather than a narrow rally.",
+    "summary_zh": "今日大盤溫和上揚,納斯達克指數上漲1.0%,標普500指數上漲0.9%,反映投資人風險偏好持續回升。由於今日並無提供重大新聞觸發因素,此次上漲似乎主要由市場動能與資金輪動至成長股及景氣循環股所帶動。多檔個股同時出現黃金交叉、成交量放大等技術面訊號,顯示此波上漲並非個別族群獨漲,而是較為全面性的參與。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
+      "ticker": "BGSI",
+      "conviction": "high",
+      "reasoning": "Top score (100) with full signal confirmation — RSI 67 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge indicating institutional buying."
+    },
+    {
+      "action": "BUY",
       "ticker": "HTFL",
       "conviction": "high",
-      "reasoning": "Score 100 with full 5-signal confirmation (MACD bullish crossover, RSI 64.3 in bullish zone, price above SMA-20, rising histogram, volume surge) fits the multi-signal high-conviction setup from strategy memory on this risk-on day."
+      "reasoning": "Top score (100) with all four confirming signals (MACD crossover, bullish RSI, price above SMA-20, volume surge) on a risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "M",
+      "conviction": "medium",
+      "reasoning": "Top score (100) with full multi-signal confirmation and adds retail-sector diversification away from the tech/construction-heavy current book."
     }
   ],
   "outcomes": {
