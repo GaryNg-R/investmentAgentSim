@@ -1,17 +1,24 @@
 {
   "date": "2026-09-11",
-  "briefing": "NASDAQ (-0.7%) and S&P 500 (-0.6%) both drifted lower today, a mild risk-off tone rather than a clear buy signal. With 3 open slots and cash above the $500 threshold, the screener shows strong individual setups (CRUS, STNE, SNAP with full signal confirmation), but per our own playbook we don't force deployment on a soft/red market day — holding cash and existing positions until a genuine risk-on confirmation (broad index strength, not just single-stock technicals) appears.",
+  "briefing": "Markets are in risk-on mode with NASDAQ +1.2% and S&P 500 +1.1%. With cash above the $500 threshold and an open slot, we added MRNA, which shows full multi-signal confirmation (MACD crossover, healthy RSI, price above SMA-20, volume surge) with less speculative risk than the micro-cap names topping the screener.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets, causing major indices to dip even without one specific bad-news trigger. On days like this, it's often wiser to hold cash and existing positions rather than chase individual stocks that look strong, since broad market weakness can drag even good setups down with it.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指投資者普遍減少持有風險較高的資產，即使沒有單一明確的利空消息，大盤指數也會下跌。在這類日子，持有現金和現有部位通常比追逐個別強勢股更明智，因為大盤整體疲弱可能連累原本不錯的個股表現。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today's buy in MRNA was chosen because it showed multiple confirming signals — rising price, a bullish MACD crossover, and strong volume — all pointing the same direction.",
+    "explanation_zh": "動能投資是指買入已經呈上升趨勢的股票，原理是近期表現強勁的股份短期內傾向延續升勢。今日選擇買入MRNA，正是因為它同時出現多個確認訊號——股價上升、MACD出現黃金交叉，以及成交量放大，方向一致。"
   },
   "market_education": {
-    "summary_en": "Major indices slipped modestly today, with the NASDAQ down 0.7% and the S&P 500 down 0.6%, reflecting broad-based caution rather than any single dramatic catalyst. Days like this often see a handful of individual stocks with strong technical setups even as the overall market drifts lower, which is exactly the divergence seen in today's screener results. Without a clear market-wide risk-on trigger, it's prudent to treat isolated strong stock signals with more skepticism than usual.",
-    "summary_zh": "今日大盤普遍走軟，納斯達克指數下跌0.7%，標普500指數下跌0.6%，市場氣氛偏向審慎，並無單一重大利空觸發。這類日子常見個別股票技術面仍然強勁，即使大盤整體回落，今日篩選結果中的分歧正是如此。在缺乏明確的大盤風險偏好訊號下，對個股單一強勢訊號應保持更高的警惕。",
+    "summary_en": "Broad market strength today lifted both the NASDAQ (+1.2%) and S&P 500 (+1.1%), with technology and growth names leading gains as investor risk appetite improved. The rally was broad-based rather than driven by a single catalyst, reflecting generally supportive conditions for equities. Volume surges across several momentum names suggest institutional participation rather than isolated speculative moves.",
+    "summary_zh": "今日大市造好，納指升1.2%，標普500升1.1%，科技及增長股領漲，反映投資者風險胃納回升。今次升勢屬全面性，並非單一消息帶動，顯示整體市況對股市有利。多隻具動能個股成交量顯著放大，反映機構資金參與，而非個別散戶炒作。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "MRNA",
+      "conviction": "high",
+      "reasoning": "All four bullish signals confirmed (MACD crossover, RSI 63.3 in bullish zone, price above SMA-20, volume surge) on a risk-on day, with better liquidity/lower volatility than the micro-cap alternatives scoring the same."
+    }
+  ],
   "outcomes": {
     "total_value": 14155.735246181488,
     "cash": 589.2850012779236,
