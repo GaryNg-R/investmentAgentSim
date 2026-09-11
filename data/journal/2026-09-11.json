@@ -1,28 +1,28 @@
 {
   "date": "2026-09-11",
-  "briefing": "Markets are modestly risk-on today with NASDAQ +1.0% and S&P 500 +0.8%. With 3 open slots and cash above the $500 threshold, deployed into BGSI and SMCI, the two candidates showing full multi-signal confirmation (RSI, MACD, price/SMA, and volume). Existing positions are held unchanged since none warrant an exit on this moderately positive day.",
+  "briefing": "Markets were modestly risk-on today with NASDAQ +1.2% and S&P 500 +1.0%. With $589 in cash and 3 open slots, we deployed into MWH (full multi-signal confirmation including a volume surge) and DELL (a steadier large-cap tech name) while leaving one slot open and holding all existing positions.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "When multiple independent indicators — like RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a volume surge — all line up together, it's a stronger signal that real buying interest (not just noise) is driving a stock higher. Traders wait for this kind of alignment before committing capital with higher conviction.",
-    "explanation_zh": "當多個獨立指標——例如RSI處於健康區間、MACD出現黃金交叉、股價高於其移動平均線，以及成交量放大——同時出現時，這代表推動股價上升的是真實買盤，而非隨機波動。交易者通常會等待這種多重訊號同步出現後，才以較高信心投入資金。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-normal trading volume, which suggests real institutional participation rather than a random blip. Today's top buy candidate stood out because it combined bullish RSI, a MACD crossover, and price above its moving average with a volume surge — all four signals together give much more confidence than any single signal alone.",
+    "explanation_zh": "「成交量確認」是指留意股價升跌是否伴隨高於正常水平的成交量，這顯示背後可能有機構投資者真實參與，而非偶然波動。今日表現最突出的候選股份同時符合RSI看漲、MACD黃金交叉、股價高於移動平均線，並出現成交量急增——四個信號同時出現，遠比單一信號更具說服力。"
   },
   "market_education": {
-    "summary_en": "Broad indices ticked higher today, with the NASDAQ up 1.0% and the S&P 500 up 0.8%, reflecting a mild risk-on tone rather than a sharp rally. Small- and mid-cap growth names with strong technical setups, like BGSI and SMCI, outperformed the broader tape on above-average volume. No major single catalyst headline was identified for today's move; the gains appear broad-based across sectors.",
-    "summary_zh": "今日大市溫和上揚，納斯達克指數升1.0%，標普500指數升0.8%，屬溫和風險偏好情緒，而非急升行情。部分具強勁技術形態的中小型增長股，例如BGSI及SMCI，在高於平均的成交量支持下表現優於大市。今日未見明顯單一消息面催化劑，升勢屬於較廣泛的板塊性上揚。",
+    "summary_en": "Broad market gains today were led by technology and momentum names, with NASDAQ outpacing the S&P 500, suggesting continued risk appetite among investors. No specific catalyst headlines were provided for today, so the move appears consistent with ongoing sector-level buying interest rather than a single news event. Breadth across many bullish-momentum stocks on the screener supports a genuine, broad-based risk-on tone rather than an isolated rally.",
+    "summary_zh": "今日大市普遍上升，科技股及具動能股份表現領先，納指升幅跑贏標普500指數，反映投資者風險胃納持續。今日並未有提供具體新聞觸發因素，故此次上揚較似是板塊性資金流入所致，而非單一新聞事件推動。從篩選名單中大量股份呈現看漲動能信號可見，今次上升屬較廣泛的風險偏好，而非個別股份的孤立反彈。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "BGSI",
+      "ticker": "MWH",
       "conviction": "high",
-      "reasoning": "All four confirmation signals align — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge — on a risk-on day with NASDAQ +1.0%."
+      "reasoning": "Top-scoring candidate with full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20 plus a volume surge) indicating genuine institutional buying on this risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "SMCI",
-      "conviction": "high",
-      "reasoning": "Matches BGSI's full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge), indicating genuine institutional participation."
+      "ticker": "DELL",
+      "conviction": "medium",
+      "reasoning": "Large-cap hardware name with bullish RSI, MACD crossover and rising histogram above SMA-20, adding a more stable diversifier alongside the smaller-cap MWH buy while deploying idle cash above the $500 threshold."
     }
   ],
   "outcomes": {
