@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-09-11T14:00:56.326118+00:00",
+  "saved_at": "2026-09-11T15:00:54.145604+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "MRNA",
+        "ticker": "BGSI",
         "conviction": "high",
-        "reasoning": "All four bullish signals confirmed (MACD crossover, RSI 63.3 in bullish zone, price above SMA-20, volume surge) on a risk-on day, with better liquidity/lower volatility than the micro-cap alternatives scoring the same."
+        "reasoning": "All four confirmation signals align \u2014 bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge \u2014 on a risk-on day with NASDAQ +1.0%."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SMCI",
+        "conviction": "high",
+        "reasoning": "Matches BGSI's full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge), indicating genuine institutional participation."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are in risk-on mode with NASDAQ +1.2% and S&P 500 +1.1%. With cash above the $500 threshold and an open slot, we added MRNA, which shows full multi-signal confirmation (MACD crossover, healthy RSI, price above SMA-20, volume surge) with less speculative risk than the micro-cap names topping the screener.",
+    "briefing": "Markets are modestly risk-on today with NASDAQ +1.0% and S&P 500 +0.8%. With 3 open slots and cash above the $500 threshold, deployed into BGSI and SMCI, the two candidates showing full multi-signal confirmation (RSI, MACD, price/SMA, and volume). Existing positions are held unchanged since none warrant an exit on this moderately positive day.",
     "market_education": {
-      "summary_en": "Broad market strength today lifted both the NASDAQ (+1.2%) and S&P 500 (+1.1%), with technology and growth names leading gains as investor risk appetite improved. The rally was broad-based rather than driven by a single catalyst, reflecting generally supportive conditions for equities. Volume surges across several momentum names suggest institutional participation rather than isolated speculative moves.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u9020\u597d\uff0c\u7d0d\u6307\u53471.2%\uff0c\u6a19\u666e500\u53471.1%\uff0c\u79d1\u6280\u53ca\u589e\u9577\u80a1\u9818\u6f32\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u80c3\u7d0d\u56de\u5347\u3002\u4eca\u6b21\u5347\u52e2\u5c6c\u5168\u9762\u6027\uff0c\u4e26\u975e\u55ae\u4e00\u6d88\u606f\u5e36\u52d5\uff0c\u986f\u793a\u6574\u9ad4\u5e02\u6cc1\u5c0d\u80a1\u5e02\u6709\u5229\u3002\u591a\u96bb\u5177\u52d5\u80fd\u500b\u80a1\u6210\u4ea4\u91cf\u986f\u8457\u653e\u5927\uff0c\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u53c3\u8207\uff0c\u800c\u975e\u500b\u5225\u6563\u6236\u7092\u4f5c\u3002",
+      "summary_en": "Broad indices ticked higher today, with the NASDAQ up 1.0% and the S&P 500 up 0.8%, reflecting a mild risk-on tone rather than a sharp rally. Small- and mid-cap growth names with strong technical setups, like BGSI and SMCI, outperformed the broader tape on above-average volume. No major single catalyst headline was identified for today's move; the gains appear broad-based across sectors.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53471.0%\uff0c\u6a19\u666e500\u6307\u6578\u53470.8%\uff0c\u5c6c\u6eab\u548c\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\uff0c\u800c\u975e\u6025\u5347\u884c\u60c5\u3002\u90e8\u5206\u5177\u5f37\u52c1\u6280\u8853\u5f62\u614b\u7684\u4e2d\u5c0f\u578b\u589e\u9577\u80a1\uff0c\u4f8b\u5982BGSI\u53caSMCI\uff0c\u5728\u9ad8\u65bc\u5e73\u5747\u7684\u6210\u4ea4\u91cf\u652f\u6301\u4e0b\u8868\u73fe\u512a\u65bc\u5927\u5e02\u3002\u4eca\u65e5\u672a\u898b\u660e\u986f\u55ae\u4e00\u6d88\u606f\u9762\u50ac\u5316\u5291\uff0c\u5347\u52e2\u5c6c\u65bc\u8f03\u5ee3\u6cdb\u7684\u677f\u584a\u6027\u4e0a\u63da\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today's buy in MRNA was chosen because it showed multiple confirming signals \u2014 rising price, a bullish MACD crossover, and strong volume \u2014 all pointing the same direction.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u539f\u7406\u662f\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u7684\u80a1\u4efd\u77ed\u671f\u5167\u50be\u5411\u5ef6\u7e8c\u5347\u52e2\u3002\u4eca\u65e5\u9078\u64c7\u8cb7\u5165MRNA\uff0c\u6b63\u662f\u56e0\u70ba\u5b83\u540c\u6642\u51fa\u73fe\u591a\u500b\u78ba\u8a8d\u8a0a\u865f\u2014\u2014\u80a1\u50f9\u4e0a\u5347\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u65b9\u5411\u4e00\u81f4\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "When multiple independent indicators \u2014 like RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a volume surge \u2014 all line up together, it's a stronger signal that real buying interest (not just noise) is driving a stock higher. Traders wait for this kind of alignment before committing capital with higher conviction.",
+      "explanation_zh": "\u7576\u591a\u500b\u7368\u7acb\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u5176\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u540c\u6642\u51fa\u73fe\u6642\uff0c\u9019\u4ee3\u8868\u63a8\u52d5\u80a1\u50f9\u4e0a\u5347\u7684\u662f\u771f\u5be6\u8cb7\u76e4\uff0c\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002\u4ea4\u6613\u8005\u901a\u5e38\u6703\u7b49\u5f85\u9019\u7a2e\u591a\u91cd\u8a0a\u865f\u540c\u6b65\u51fa\u73fe\u5f8c\uff0c\u624d\u4ee5\u8f03\u9ad8\u4fe1\u5fc3\u6295\u5165\u8cc7\u91d1\u3002"
     }
   }
 }
