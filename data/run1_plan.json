@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-09-11T16:01:12.698422+00:00",
+  "saved_at": "2026-09-11T17:00:47.223109+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "MWH",
+        "ticker": "MRNA",
         "conviction": "high",
-        "reasoning": "Top-scoring candidate with full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20 plus a volume surge) indicating genuine institutional buying on this risk-on day."
-      },
-      {
-        "action": "BUY",
-        "ticker": "DELL",
-        "conviction": "medium",
-        "reasoning": "Large-cap hardware name with bullish RSI, MACD crossover and rising histogram above SMA-20, adding a more stable diversifier alongside the smaller-cap MWH buy while deploying idle cash above the $500 threshold."
+        "reasoning": "Score 95 with all four bullish signals confirmed (RSI 65, MACD crossover, rising histogram, price above SMA-20), and adds biotech diversification away from the portfolio's tech/semiconductor concentration on a risk-on day."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were modestly risk-on today with NASDAQ +1.2% and S&P 500 +1.0%. With $589 in cash and 3 open slots, we deployed into MWH (full multi-signal confirmation including a volume surge) and DELL (a steadier large-cap tech name) while leaving one slot open and holding all existing positions.",
+    "briefing": "NASDAQ +1.1% and S&P 500 +1.0% signal a genuine risk-on day, so per strategy we're deploying available cash into a fully-confirmed high-conviction candidate rather than sitting idle. Existing 7 positions are held unchanged since none have hit stop-loss or profit targets, and market conditions don't warrant trimming winners.",
     "market_education": {
-      "summary_en": "Broad market gains today were led by technology and momentum names, with NASDAQ outpacing the S&P 500, suggesting continued risk appetite among investors. No specific catalyst headlines were provided for today, so the move appears consistent with ongoing sector-level buying interest rather than a single news event. Breadth across many bullish-momentum stocks on the screener supports a genuine, broad-based risk-on tone rather than an isolated rally.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0a\u5347\uff0c\u79d1\u6280\u80a1\u53ca\u5177\u52d5\u80fd\u80a1\u4efd\u8868\u73fe\u9818\u5148\uff0c\u7d0d\u6307\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u80c3\u7d0d\u6301\u7e8c\u3002\u4eca\u65e5\u4e26\u672a\u6709\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u89f8\u767c\u56e0\u7d20\uff0c\u6545\u6b64\u6b21\u4e0a\u63da\u8f03\u4f3c\u662f\u677f\u584a\u6027\u8cc7\u91d1\u6d41\u5165\u6240\u81f4\uff0c\u800c\u975e\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u63a8\u52d5\u3002\u5f9e\u7be9\u9078\u540d\u55ae\u4e2d\u5927\u91cf\u80a1\u4efd\u5448\u73fe\u770b\u6f32\u52d5\u80fd\u4fe1\u865f\u53ef\u898b\uff0c\u4eca\u6b21\u4e0a\u5347\u5c6c\u8f03\u5ee3\u6cdb\u7684\u98a8\u96aa\u504f\u597d\uff0c\u800c\u975e\u500b\u5225\u80a1\u4efd\u7684\u5b64\u7acb\u53cd\u5f48\u3002",
+      "summary_en": "Broad market strength today lifted both the NASDAQ and S&P 500 roughly 1%, consistent with continued risk appetite across growth and tech-adjacent sectors. No single catalyst was flagged in today's data, but the breadth of gains across momentum names suggests healthy institutional buying rather than a narrow rally. This kind of broad participation is typically a more durable signal than a single-stock spike.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u5f37\uff0c\u7d0d\u6307\u53ca\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u5347\u7d041%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u6301\u7e8c\uff0c\u8cc7\u91d1\u7e7c\u7e8c\u6d41\u5165\u589e\u9577\u80a1\u53ca\u79d1\u6280\u76f8\u95dc\u677f\u584a\u3002\u4eca\u65e5\u6578\u64da\u672a\u898b\u55ae\u4e00\u660e\u78ba\u50ac\u5316\u56e0\u7d20\uff0c\u4f46\u5347\u52e2\u8986\u84cb\u591a\u96bb\u5177\u52d5\u80fd\u7684\u80a1\u7968\uff0c\u986f\u793a\u9019\u662f\u8f03\u5065\u5eb7\u7684\u6a5f\u69cb\u6027\u8cb7\u76e4\uff0c\u800c\u975e\u500b\u5225\u80a1\u4efd\u7684\u77ed\u66ab\u7206\u5347\u3002\u9019\u7a2e\u5ee3\u6cdb\u53c3\u8207\u7684\u5347\u52e2\uff0c\u4e00\u822c\u88ab\u8996\u70ba\u6bd4\u55ae\u4e00\u80a1\u4efd\u6025\u5347\u66f4\u5177\u6301\u7e8c\u6027\u7684\u4fe1\u865f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Confirmation",
-      "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-normal trading volume, which suggests real institutional participation rather than a random blip. Today's top buy candidate stood out because it combined bullish RSI, a MACD crossover, and price above its moving average with a volume surge \u2014 all four signals together give much more confidence than any single signal alone.",
-      "explanation_zh": "\u300c\u6210\u4ea4\u91cf\u78ba\u8a8d\u300d\u662f\u6307\u7559\u610f\u80a1\u50f9\u5347\u8dcc\u662f\u5426\u4f34\u96a8\u9ad8\u65bc\u6b63\u5e38\u6c34\u5e73\u7684\u6210\u4ea4\u91cf\uff0c\u9019\u986f\u793a\u80cc\u5f8c\u53ef\u80fd\u6709\u6a5f\u69cb\u6295\u8cc7\u8005\u771f\u5be6\u53c3\u8207\uff0c\u800c\u975e\u5076\u7136\u6ce2\u52d5\u3002\u4eca\u65e5\u8868\u73fe\u6700\u7a81\u51fa\u7684\u5019\u9078\u80a1\u4efd\u540c\u6642\u7b26\u5408RSI\u770b\u6f32\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4e26\u51fa\u73fe\u6210\u4ea4\u91cf\u6025\u589e\u2014\u2014\u56db\u500b\u4fe1\u865f\u540c\u6642\u51fa\u73fe\uff0c\u9060\u6bd4\u55ae\u4e00\u4fe1\u865f\u66f4\u5177\u8aaa\u670d\u529b\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Instead of buying on just one bullish sign, traders look for several indicators to agree at once \u2014 like RSI in a healthy range, MACD crossing bullish, and price above its moving average. When multiple signals line up together, it's a stronger clue that real buying interest (not just noise) is driving the stock.",
+      "explanation_zh": "\u8207\u5176\u55ae\u6191\u4e00\u500b\u5229\u597d\u8a0a\u865f\u5c31\u8cb7\u5165\uff0c\u4ea4\u6613\u8005\u6703\u5c0b\u627e\u591a\u500b\u6307\u6a19\u540c\u6642\u78ba\u8a8d \u2014 \u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff0c\u4ee5\u53ca\u80a1\u50f9\u9ad8\u65bc\u5176\u79fb\u52d5\u5e73\u5747\u7dda\u3002\u7576\u591a\u9805\u8a0a\u865f\u540c\u6642\u51fa\u73fe\uff0c\u4ee3\u8868\u80cc\u5f8c\u53ef\u80fd\u6709\u5be6\u8cea\u8cb7\u76e4\u652f\u6301\uff0c\u800c\u975e\u55ae\u7d14\u7684\u5e02\u5834\u96dc\u8a0a\u3002"
     }
   }
 }

@@ -1,28 +1,22 @@
 {
   "date": "2026-09-11",
-  "briefing": "Markets were modestly risk-on today with NASDAQ +1.2% and S&P 500 +1.0%. With $589 in cash and 3 open slots, we deployed into MWH (full multi-signal confirmation including a volume surge) and DELL (a steadier large-cap tech name) while leaving one slot open and holding all existing positions.",
+  "briefing": "NASDAQ +1.1% and S&P 500 +1.0% signal a genuine risk-on day, so per strategy we're deploying available cash into a fully-confirmed high-conviction candidate rather than sitting idle. Existing 7 positions are held unchanged since none have hit stop-loss or profit targets, and market conditions don't warrant trimming winners.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-normal trading volume, which suggests real institutional participation rather than a random blip. Today's top buy candidate stood out because it combined bullish RSI, a MACD crossover, and price above its moving average with a volume surge — all four signals together give much more confidence than any single signal alone.",
-    "explanation_zh": "「成交量確認」是指留意股價升跌是否伴隨高於正常水平的成交量，這顯示背後可能有機構投資者真實參與，而非偶然波動。今日表現最突出的候選股份同時符合RSI看漲、MACD黃金交叉、股價高於移動平均線，並出現成交量急增——四個信號同時出現，遠比單一信號更具說服力。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying on just one bullish sign, traders look for several indicators to agree at once — like RSI in a healthy range, MACD crossing bullish, and price above its moving average. When multiple signals line up together, it's a stronger clue that real buying interest (not just noise) is driving the stock.",
+    "explanation_zh": "與其單憑一個利好訊號就買入，交易者會尋找多個指標同時確認 — 例如RSI處於健康區間、MACD出現黃金交叉，以及股價高於其移動平均線。當多項訊號同時出現，代表背後可能有實質買盤支持，而非單純的市場雜訊。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today were led by technology and momentum names, with NASDAQ outpacing the S&P 500, suggesting continued risk appetite among investors. No specific catalyst headlines were provided for today, so the move appears consistent with ongoing sector-level buying interest rather than a single news event. Breadth across many bullish-momentum stocks on the screener supports a genuine, broad-based risk-on tone rather than an isolated rally.",
-    "summary_zh": "今日大市普遍上升，科技股及具動能股份表現領先，納指升幅跑贏標普500指數，反映投資者風險胃納持續。今日並未有提供具體新聞觸發因素，故此次上揚較似是板塊性資金流入所致，而非單一新聞事件推動。從篩選名單中大量股份呈現看漲動能信號可見，今次上升屬較廣泛的風險偏好，而非個別股份的孤立反彈。",
+    "summary_en": "Broad market strength today lifted both the NASDAQ and S&P 500 roughly 1%, consistent with continued risk appetite across growth and tech-adjacent sectors. No single catalyst was flagged in today's data, but the breadth of gains across momentum names suggests healthy institutional buying rather than a narrow rally. This kind of broad participation is typically a more durable signal than a single-stock spike.",
+    "summary_zh": "今日大市走強，納指及標普500指數同步上升約1%，反映市場風險胃納持續，資金繼續流入增長股及科技相關板塊。今日數據未見單一明確催化因素，但升勢覆蓋多隻具動能的股票，顯示這是較健康的機構性買盤，而非個別股份的短暫爆升。這種廣泛參與的升勢，一般被視為比單一股份急升更具持續性的信號。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "MWH",
+      "ticker": "MRNA",
       "conviction": "high",
-      "reasoning": "Top-scoring candidate with full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20 plus a volume surge) indicating genuine institutional buying on this risk-on day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "DELL",
-      "conviction": "medium",
-      "reasoning": "Large-cap hardware name with bullish RSI, MACD crossover and rising histogram above SMA-20, adding a more stable diversifier alongside the smaller-cap MWH buy while deploying idle cash above the $500 threshold."
+      "reasoning": "Score 95 with all four bullish signals confirmed (RSI 65, MACD crossover, rising histogram, price above SMA-20), and adds biotech diversification away from the portfolio's tech/semiconductor concentration on a risk-on day."
     }
   ],
   "outcomes": {
