@@ -1,22 +1,22 @@
 {
   "date": "2026-09-11",
-  "briefing": "Markets were modestly risk-on today with NASDAQ +1.1% and S&P 500 +0.9%. With cash above the $500 threshold and 3 open slots, we deployed into ON, which showed full multi-signal confirmation (bullish RSI, MACD crossover, rising momentum, price above SMA-20).",
+  "briefing": "Markets were modestly risk-on today, NASDAQ +1.0% and S&P 500 +0.9%. With one of three open slots deployed into HTFL — the top-scoring candidate showing full institutional-grade signal confirmation — while holding all seven existing positions since none hit stop-loss or profit-target levels.",
   "daily_lesson": {
-    "term": "MACD Crossover",
-    "explanation_en": "A MACD (Moving Average Convergence Divergence) crossover happens when the MACD line moves above its signal line, often signaling that upward momentum is building. Combined with other bullish signals like rising RSI and price above the 20-day moving average, it gives traders more confidence that a stock's uptrend has real strength behind it.",
-    "explanation_zh": "MACD（移動平均匯聚背馳指標）金叉是指MACD線升穿訊號線，通常顯示上升動能正在增強。若配合其他利好訊號，例如RSI上升及股價高於20日移動平均線，投資者可更有信心相信該股的升勢具備實質支持。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strength tends to continue in the short term. Today's pick, HTFL, showed five confirming signals together — a bullish MACD crossover, healthy RSI, price above its moving average, and a volume surge — which is stronger evidence than any single signal alone.",
+    "explanation_zh": "動能投資是指買入已經處於上升趨勢的股票,理論基礎是短期內強勢股票往往會延續其強勢。今天選中的HTFL同時出現五個確認訊號——MACD黃金交叉、健康的RSI水平、股價高於移動平均線,以及成交量放大——比單一訊號更具說服力。"
   },
   "market_education": {
-    "summary_en": "Broad indices advanced today, with the NASDAQ leading gains at +1.1% and the S&P 500 up +0.9%, reflecting continued risk appetite among investors. Technology and semiconductor names showed particular strength, consistent with the bullish momentum signals seen across several screened tickers. No single catalyst headline was flagged in today's data, but the broad-based advance suggests improving sentiment heading into the session.",
-    "summary_zh": "大市今日普遍向好，納斯達克指數領漲，升1.1%，標普500指數亦上升0.9%，反映投資者風險偏好持續回升。科技及半導體股表現尤其強勁，與多隻篩選股票所顯示的看漲動能訊號一致。今日數據中未有標明單一催化消息，惟大市普遍上揚顯示市場情緒正在改善。",
+    "summary_en": "Broad indices posted modest gains today, with NASDAQ up 1.0% and the S&P 500 up 0.9%, reflecting a mild risk-on tone across equities. No specific news catalysts were provided for today's session, so the move likely reflects continued momentum in growth and tech-adjacent names. Breadth appeared healthy given the number of stocks screening with bullish MACD crossovers and volume surges.",
+    "summary_zh": "今日大盤溫和上揚,納斯達克指數上漲1.0%,標普500指數上漲0.9%,市場呈現溫和的風險偏好情緒。今日並未提供具體新聞催化劑,升勢可能延續了科技及成長股近期的動能。從篩選名單中多檔個股出現MACD黃金交叉及成交量放大來看,市場參與廣度良好。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ON",
+      "ticker": "HTFL",
       "conviction": "high",
-      "reasoning": "Multi-signal confirmation (RSI 68.6 in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20) on a NASDAQ +1.1% risk-on day supports deploying idle cash into an open slot."
+      "reasoning": "Score 100 with full 5-signal confirmation (MACD bullish crossover, RSI 64.3 in bullish zone, price above SMA-20, rising histogram, volume surge) fits the multi-signal high-conviction setup from strategy memory on this risk-on day."
     }
   ],
   "outcomes": {
