@@ -1,22 +1,22 @@
 {
   "date": "2026-09-14",
-  "briefing": "Markets pulled back modestly today (NASDAQ -1.0%, S&P 500 -0.8%), a neutral-to-slightly-negative session with no clear risk-on signal. Rather than force capital into the market broadly, we're adding one position — RUM — which is the only candidate showing the full four-signal confirmation (momentum, trend, and volume) that has worked well in past high-conviction entries; remaining cash stays on the sidelines given the lack of a market-wide risk-on trigger.",
+  "briefing": "Markets were quietly negative today (NASDAQ -0.4%, S&P 500 -0.3%) with no major catalyst driving the move. With cash above the $500 threshold and an open portfolio slot, I added a single medium-conviction position in FDS, a top-scoring candidate with strong multi-signal bullish confirmation, while holding the rest of cash in reserve rather than force-deploying into multiple names on a low-conviction day.",
   "daily_lesson": {
-    "term": "Relative Strength",
-    "explanation_en": "Relative strength means a stock keeps showing bullish momentum even when the broader market is flat or falling — it's a sign the stock has its own demand drivers independent of the index. Today RUM showed full bullish confirmation (RSI, MACD, trend, and volume) while NASDAQ and S&P 500 both declined, which is exactly this pattern.",
-    "explanation_zh": "「相對強度」是指某隻股票即使在大市持平或下跌時，仍然維持強勁的上升動能，反映該股有自己獨立於大盤的買盤動力。今日RUM在納指及標普500同步下跌的情況下，仍出現RSI、MACD、趨勢及成交量四項全面看好訊號，正正是這種現象的例子。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price trends, based on signals like RSI, MACD crossovers, and price relative to moving averages — even when the broader market is flat or slightly down. Today's buy targeted a stock with strong individual momentum signals despite a neutral overall market, since individual stock strength doesn't always move in lockstep with the index.",
+    "explanation_zh": "動能投資是指買入價格已呈現強勁上漲趨勢的股票，依據RSI、MACD黃金交叉、股價相對於移動平均線等訊號來判斷——即使大盤持平或小幅下跌也可能進場。今日的買進標的本身動能訊號強勁，儘管整體大盤表現中性，因為個股走勢不一定與大盤指數同步。"
   },
   "market_education": {
-    "summary_en": "Major indices slipped today, with the NASDAQ down about 1.0% and the S&P 500 down 0.8%, reflecting a broad, low-conviction pullback rather than a sharp risk-off move. Individual stocks are showing divergent behavior — some names like RUM are holding strong momentum even as the index cools, which is typical of a stock-picker's market. No major single catalyst stands out; this looks more like routine consolidation after recent gains.",
-    "summary_zh": "今日大市普遍回調，納斯達克指數下跌約1.0%，標普500指數下跌0.8%，屬於較溫和、缺乏明確方向的整固走勢，而非急速的risk-off拋售。個別股份表現分化，例如RUM等個股仍展現強勁動能，反映此刻更考驗選股能力。暫時未見單一明顯催化因素，較似是近期升勢後的正常整固。",
+    "summary_en": "Broad indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.3%, in what looks like routine, low-volume consolidation rather than a reaction to any single catalyst. No major news events were flagged for today's session, consistent with a quiet, directionless trading day. Days like this often reflect investors digesting recent gains rather than reacting to new information.",
+    "summary_zh": "今日大盤微幅走低，納斯達克指數下跌0.4%，標普500指數下跌0.3%，屬於較為平淡、低成交量的整理走勢，並非受單一重大消息面影響。今日交易時段並未出現值得關注的重大新聞事件，符合方向不明的平靜交易日特徵。這類日子通常反映投資人在消化近期漲幅，而非對新資訊做出反應。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "RUM",
-      "conviction": "high",
-      "reasoning": "RUM has the top score (100) with full multi-signal confirmation — bullish RSI, MACD crossover, price above SMA-20, and a volume surge — showing genuine strength despite a soft broader market."
+      "ticker": "FDS",
+      "conviction": "medium",
+      "reasoning": "Score of 95 with RSI 57.3 in the bullish zone (not overbought), a fresh MACD bullish crossover, rising histogram, and price above SMA-20 signal healthy uptrend momentum in a stable blue-chip data/analytics name suited for a neutral-market day."
     }
   ],
   "outcomes": {
