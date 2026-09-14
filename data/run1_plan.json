@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-09-14T17:01:20.119691+00:00",
+  "saved_at": "2026-09-14T18:00:56.751328+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "GWRE",
+        "ticker": "QLYS",
         "conviction": "medium",
-        "reasoning": "Guidewire shows a clean bullish setup (RSI 59.9, MACD crossover, price above SMA-20) and diversifies away from our tech/semiconductor-heavy holdings into insurance software."
-      },
-      {
-        "action": "BUY",
-        "ticker": "AAL",
-        "conviction": "medium",
-        "reasoning": "American Airlines offers strong momentum (RSI 58.2, MACD bullish crossover, rising histogram) with room before overbought, adding sector diversification versus our current tech/industrial mix."
+        "reasoning": "Top-scoring candidate (95) with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, but sized medium since no volume surge confirms institutional participation."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were roughly flat today (NASDAQ -0.1%, S&P 500 -0.2%), a neutral session with no strong directional signal. With $689 in cash and 3 open portfolio slots, we deployed modestly into two diversified, non-overbought momentum names (GWRE, AAL) rather than idle cash, while holding all existing positions through the quiet session.",
+    "briefing": "Markets were flat today with NASDAQ -0.1% and S&P 500 -0.3%, giving no clear risk-on or risk-off signal. Since cash ($689.29) is above the $500 threshold and 3 slots remain open, we deployed modestly into QLYS on strong technicals rather than sit fully idle, but kept conviction medium due to the absence of a volume-surge confirmation. All seven existing positions are held unchanged through this neutral session.",
     "market_education": {
-      "summary_en": "Major indices were essentially flat today, with the NASDAQ down 0.1% and the S&P 500 down 0.2%, reflecting a lack of strong catalysts on either side. Without a clear risk-on or risk-off trigger, trading stayed range-bound as investors awaited fresh data or earnings news. This kind of low-volatility, directionless session is typical between major economic releases.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u5e7e\u4e4e\u6301\u5e73,\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.1%,\u6a19\u666e500\u6307\u6578\u5247\u4e0b\u8dcc0.2%,\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u5229\u597d\u6216\u5229\u6de1\u6d88\u606f\u5e36\u52d5\u65b9\u5411\u3002\u5728\u6c92\u6709\u6e05\u6670\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u4e0b,\u5927\u5e02\u7dad\u6301\u7a84\u5e45\u6ce2\u52d5,\u6295\u8cc7\u8005\u975c\u5f85\u65b0\u7684\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u6d88\u606f\u516c\u5e03\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u3001\u65b9\u5411\u4e0d\u660e\u78ba\u7684\u5e02\u6cc1,\u5728\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u516c\u5e03\u4e4b\u9593\u9817\u70ba\u5e38\u898b\u3002",
+      "summary_en": "Major indices drifted slightly lower today with no dominant catalyst, reflecting a session of consolidation rather than conviction in either direction. Trading volumes and price moves were muted across both the NASDAQ and S&P 500. Without a strong macro trigger, investors appeared to be digesting recent gains rather than chasing new positions.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7a84\u5e45\u6574\u7406,\u7d0d\u6307\u53ca\u6a19\u666e500\u5206\u5225\u5fae\u8dcc0.1%\u53ca0.3%,\u672a\u898b\u660e\u986f\u4e3b\u5c0e\u6d88\u606f\u523a\u6fc0\u5e02\u5834\u65b9\u5411\u3002\u6210\u4ea4\u91cf\u53ca\u6ce2\u5e45\u5747\u504f\u6eab\u548c,\u53cd\u6620\u6295\u8cc7\u8005\u50be\u5411\u6d88\u5316\u8fd1\u671f\u5347\u5e45,\u800c\u975e\u7a4d\u6975\u8ffd\u5165\u65b0\u5009\u3002\u6574\u9ad4\u5e02\u6cc1\u5448\u4e2d\u6027\u683c\u5c40\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Diversification",
-      "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one industry doesn't sink your whole portfolio. Today we added an insurance-software name and an airline stock to a portfolio that was heavily weighted toward tech and semiconductors, reducing the risk that a single sector's bad news hurts us badly.",
-      "explanation_zh": "\u5206\u6563\u6295\u8cc7\u662f\u6307\u5c07\u8cc7\u91d1\u6295\u653e\u65bc\u4e0d\u540c\u884c\u696d,\u907f\u514d\u55ae\u4e00\u884c\u696d\u8868\u73fe\u4e0d\u4f73\u6642\u62d6\u7d2f\u6574\u9ad4\u6295\u8cc7\u7d44\u5408\u3002\u4eca\u65e5\u6211\u5011\u5728\u539f\u672c\u4ee5\u79d1\u6280\u53ca\u534a\u5c0e\u9ad4\u70ba\u4e3b\u7684\u7d44\u5408\u4e2d,\u52a0\u5165\u4e86\u4fdd\u96aa\u8edf\u4ef6\u80a1\u53ca\u822a\u7a7a\u80a1,\u85c9\u6b64\u964d\u4f4e\u55ae\u4e00\u884c\u696d\u58de\u6d88\u606f\u5c0d\u6574\u9ad4\u6295\u8cc7\u7d44\u5408\u9020\u6210\u91cd\u5927\u885d\u64ca\u7684\u98a8\u96aa\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Not all bullish signals carry equal weight \u2014 the strongest buy setups combine multiple confirming indicators (like RSI, MACD, price vs moving average, AND volume) rather than just one or two. When a stock shows good technicals but lacks volume confirmation, it's often wiser to size the position smaller (medium instead of high conviction) rather than skip it entirely or go all-in.",
+      "explanation_zh": "\u4e26\u975e\u6240\u6709\u5229\u597d\u8a0a\u865f\u7684\u4efd\u91cf\u90fd\u4e00\u6a23\u2014\u2014\u6700\u5f37\u7684\u8cb7\u5165\u6642\u6a5f\u901a\u5e38\u540c\u6642\u5177\u5099\u591a\u500b\u78ba\u8a8d\u6307\u6a19(\u4f8b\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u76f8\u5c0d\u5747\u7dda\u4f4d\u7f6e,\u4ee5\u53ca\u6210\u4ea4\u91cf),\u800c\u975e\u55ae\u9760\u4e00\u5169\u500b\u8a0a\u865f\u3002\u7576\u500b\u80a1\u6280\u8853\u9762\u826f\u597d\u4f46\u7f3a\u4e4f\u6210\u4ea4\u91cf\u78ba\u8a8d\u6642,\u8f03\u7a69\u59a5\u7684\u505a\u6cd5\u662f\u7e2e\u5c0f\u6ce8\u78bc(\u63a1\u4e2d\u7b49\u4fe1\u5fc3\u800c\u975e\u9ad8\u4fe1\u5fc3),\u800c\u975e\u5b8c\u5168\u653e\u68c4\u6216\u91cd\u5009\u8cb7\u5165\u3002"
     }
   }
 }

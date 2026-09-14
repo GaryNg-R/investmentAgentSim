@@ -1,28 +1,22 @@
 {
   "date": "2026-09-14",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.1%, S&P 500 -0.2%), a neutral session with no strong directional signal. With $689 in cash and 3 open portfolio slots, we deployed modestly into two diversified, non-overbought momentum names (GWRE, AAL) rather than idle cash, while holding all existing positions through the quiet session.",
+  "briefing": "Markets were flat today with NASDAQ -0.1% and S&P 500 -0.3%, giving no clear risk-on or risk-off signal. Since cash ($689.29) is above the $500 threshold and 3 slots remain open, we deployed modestly into QLYS on strong technicals rather than sit fully idle, but kept conviction medium due to the absence of a volume-surge confirmation. All seven existing positions are held unchanged through this neutral session.",
   "daily_lesson": {
-    "term": "Diversification",
-    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one industry doesn't sink your whole portfolio. Today we added an insurance-software name and an airline stock to a portfolio that was heavily weighted toward tech and semiconductors, reducing the risk that a single sector's bad news hurts us badly.",
-    "explanation_zh": "分散投資是指將資金投放於不同行業,避免單一行業表現不佳時拖累整體投資組合。今日我們在原本以科技及半導體為主的組合中,加入了保險軟件股及航空股,藉此降低單一行業壞消息對整體投資組合造成重大衝擊的風險。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Not all bullish signals carry equal weight — the strongest buy setups combine multiple confirming indicators (like RSI, MACD, price vs moving average, AND volume) rather than just one or two. When a stock shows good technicals but lacks volume confirmation, it's often wiser to size the position smaller (medium instead of high conviction) rather than skip it entirely or go all-in.",
+    "explanation_zh": "並非所有利好訊號的份量都一樣——最強的買入時機通常同時具備多個確認指標(例如RSI、MACD、股價相對均線位置,以及成交量),而非單靠一兩個訊號。當個股技術面良好但缺乏成交量確認時,較穩妥的做法是縮小注碼(採中等信心而非高信心),而非完全放棄或重倉買入。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the NASDAQ down 0.1% and the S&P 500 down 0.2%, reflecting a lack of strong catalysts on either side. Without a clear risk-on or risk-off trigger, trading stayed range-bound as investors awaited fresh data or earnings news. This kind of low-volatility, directionless session is typical between major economic releases.",
-    "summary_zh": "今日大市走勢幾乎持平,納斯達克指數微跌0.1%,標普500指數則下跌0.2%,反映市場缺乏明顯的利好或利淡消息帶動方向。在沒有清晰的風險偏好訊號下,大市維持窄幅波動,投資者靜待新的經濟數據或業績消息公布。這種低波動、方向不明確的市況,在重大經濟數據公布之間頗為常見。",
+    "summary_en": "Major indices drifted slightly lower today with no dominant catalyst, reflecting a session of consolidation rather than conviction in either direction. Trading volumes and price moves were muted across both the NASDAQ and S&P 500. Without a strong macro trigger, investors appeared to be digesting recent gains rather than chasing new positions.",
+    "summary_zh": "今日大市窄幅整理,納指及標普500分別微跌0.1%及0.3%,未見明顯主導消息刺激市場方向。成交量及波幅均偏溫和,反映投資者傾向消化近期升幅,而非積極追入新倉。整體市況呈中性格局。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "GWRE",
+      "ticker": "QLYS",
       "conviction": "medium",
-      "reasoning": "Guidewire shows a clean bullish setup (RSI 59.9, MACD crossover, price above SMA-20) and diversifies away from our tech/semiconductor-heavy holdings into insurance software."
-    },
-    {
-      "action": "BUY",
-      "ticker": "AAL",
-      "conviction": "medium",
-      "reasoning": "American Airlines offers strong momentum (RSI 58.2, MACD bullish crossover, rising histogram) with room before overbought, adding sector diversification versus our current tech/industrial mix."
+      "reasoning": "Top-scoring candidate (95) with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, but sized medium since no volume surge confirms institutional participation."
     }
   ],
   "outcomes": {
