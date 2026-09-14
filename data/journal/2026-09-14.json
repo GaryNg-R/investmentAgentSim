@@ -1,17 +1,24 @@
 {
   "date": "2026-09-14",
-  "briefing": "Markets pulled back today with NASDAQ down 0.9% and S&P 500 down 0.6%, a neutral-to-slightly-negative session rather than a genuine risk-on setup. With 3 open slots and $689 in cash, we're holding off on new buys and letting existing positions ride rather than forcing capital into a down day.",
+  "briefing": "Markets pulled back modestly today (NASDAQ -1.0%, S&P 500 -0.8%), a neutral-to-slightly-negative session with no clear risk-on signal. Rather than force capital into the market broadly, we're adding one position — RUM — which is the only candidate showing the full four-signal confirmation (momentum, trend, and volume) that has worked well in past high-conviction entries; remaining cash stays on the sidelines given the lack of a market-wide risk-on trigger.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors pull back from riskier assets like growth stocks, often without a dramatic trigger — just a cooling of enthusiasm. The disciplined move is to hold cash and existing positions rather than chase new buys, waiting for clearer bullish confirmation before deploying more capital.",
-    "explanation_zh": "「避險」日是指投資者從增長股等風險較高的資產中撤離，往往並無明顯導火線，只是市場熱度稍為降溫。此時較穩健的做法是持有現金及現有持倉，避免盲目追買新股，待市場出現更明確的看漲訊號後才再部署資金。"
+    "term": "Relative Strength",
+    "explanation_en": "Relative strength means a stock keeps showing bullish momentum even when the broader market is flat or falling — it's a sign the stock has its own demand drivers independent of the index. Today RUM showed full bullish confirmation (RSI, MACD, trend, and volume) while NASDAQ and S&P 500 both declined, which is exactly this pattern.",
+    "explanation_zh": "「相對強度」是指某隻股票即使在大市持平或下跌時，仍然維持強勁的上升動能，反映該股有自己獨立於大盤的買盤動力。今日RUM在納指及標普500同步下跌的情況下，仍出現RSI、MACD、趨勢及成交量四項全面看好訊號，正正是這種現象的例子。"
   },
   "market_education": {
-    "summary_en": "Both major indices slipped modestly today, with the NASDAQ underperforming the S&P 500, suggesting some rotation out of higher-beta growth names. There's no single dominant catalyst evident from the data provided — this looks like a routine consolidation day after recent gains rather than a sharp risk-off event. Volume and breadth signals in the screener remain mixed, with several momentum names still showing bullish setups despite the broader index weakness.",
-    "summary_zh": "今日大市溫和回調，納斯達克指數跌幅0.9%，表現遜於標普500指數（跌0.6%），反映資金或從高波動性的增長股中稍作撤離。從現有數據看，並無明顯單一催化因素，較似是近期升勢後的正常整固，而非急劇的避險拋售。個股層面上，部分動能股仍維持看漲訊號，顯示市場氣氛並非全面轉弱。",
+    "summary_en": "Major indices slipped today, with the NASDAQ down about 1.0% and the S&P 500 down 0.8%, reflecting a broad, low-conviction pullback rather than a sharp risk-off move. Individual stocks are showing divergent behavior — some names like RUM are holding strong momentum even as the index cools, which is typical of a stock-picker's market. No major single catalyst stands out; this looks more like routine consolidation after recent gains.",
+    "summary_zh": "今日大市普遍回調，納斯達克指數下跌約1.0%，標普500指數下跌0.8%，屬於較溫和、缺乏明確方向的整固走勢，而非急速的risk-off拋售。個別股份表現分化，例如RUM等個股仍展現強勁動能，反映此刻更考驗選股能力。暫時未見單一明顯催化因素，較似是近期升勢後的正常整固。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "RUM",
+      "conviction": "high",
+      "reasoning": "RUM has the top score (100) with full multi-signal confirmation — bullish RSI, MACD crossover, price above SMA-20, and a volume surge — showing genuine strength despite a soft broader market."
+    }
+  ],
   "outcomes": {
     "total_value": 14255.735246181488,
     "cash": 689.2850012779236,
