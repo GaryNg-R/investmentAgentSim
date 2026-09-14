@@ -1,30 +1,17 @@
 {
   "date": "2026-09-14",
-  "briefing": "Markets are risk-on today with NASDAQ +1.0% and S&P 500 +0.9%. With 3 open slots and cash just over the $500 threshold, we're deploying into BGSI and HTFL, the two top-scoring candidates with full multi-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge), while holding all existing positions unchanged.",
+  "briefing": "Markets pulled back today with NASDAQ down 0.9% and S&P 500 down 0.6%, a neutral-to-slightly-negative session rather than a genuine risk-on setup. With 3 open slots and $689 in cash, we're holding off on new buys and letting existing positions ride rather than forcing capital into a down day.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong recent performance tends to continue in the near term. Today's picks were chosen because they showed multiple confirming signals together — rising price, strong volume, and bullish indicator crossovers — which reduces the chance of chasing a false signal.",
-    "explanation_zh": "動能投資是指買入近期表現強勁、價格持續上升的股票，理論基礎是短期內強勢股票的漲勢往往會延續。今日選股是因為同時出現多項確認訊號——價格上升、成交量放大、以及技術指標出現黃金交叉——這樣可以降低追高至假訊號的風險。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors pull back from riskier assets like growth stocks, often without a dramatic trigger — just a cooling of enthusiasm. The disciplined move is to hold cash and existing positions rather than chase new buys, waiting for clearer bullish confirmation before deploying more capital.",
+    "explanation_zh": "「避險」日是指投資者從增長股等風險較高的資產中撤離，往往並無明顯導火線，只是市場熱度稍為降溫。此時較穩健的做法是持有現金及現有持倉，避免盲目追買新股，待市場出現更明確的看漲訊號後才再部署資金。"
   },
   "market_education": {
-    "summary_en": "Broad indices advanced with the NASDAQ up 1.0% and the S&P 500 up 0.9%, reflecting a risk-on tone across growth and tech-adjacent names. Momentum names showing volume surges and bullish MACD crossovers, like BGSI and HTFL, outperformed as institutional buying interest appeared to build. No major single catalyst was flagged in today's screen, consistent with a broad-based rally rather than a single headline-driven move.",
-    "summary_zh": "大盤今日走強，納斯達克指數上漲1.0%，標普500指數上漲0.9%，反映市場風險偏好升溫，科技及成長股表現領先。個別具備成交量放大及MACD黃金交叉訊號的動能股，如BGSI及HTFL，表現尤為突出，顯示機構資金持續流入。今日未見明顯單一新聞事件主導，走勢較符合普遍性上漲格局。",
+    "summary_en": "Both major indices slipped modestly today, with the NASDAQ underperforming the S&P 500, suggesting some rotation out of higher-beta growth names. There's no single dominant catalyst evident from the data provided — this looks like a routine consolidation day after recent gains rather than a sharp risk-off event. Volume and breadth signals in the screener remain mixed, with several momentum names still showing bullish setups despite the broader index weakness.",
+    "summary_zh": "今日大市溫和回調，納斯達克指數跌幅0.9%，表現遜於標普500指數（跌0.6%），反映資金或從高波動性的增長股中稍作撤離。從現有數據看，並無明顯單一催化因素，較似是近期升勢後的正常整固，而非急劇的避險拋售。個股層面上，部分動能股仍維持看漲訊號，顯示市場氣氛並非全面轉弱。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "BGSI",
-      "conviction": "high",
-      "reasoning": "Highest-scoring candidate (100) with all four bullish signals confirmed — MACD crossover, RSI 67 in bullish zone, price above SMA-20, and a volume surge — fitting today's risk-on tape."
-    },
-    {
-      "action": "BUY",
-      "ticker": "HTFL",
-      "conviction": "high",
-      "reasoning": "Second highest-scoring candidate (100) with the same full multi-signal confirmation (MACD crossover, RSI 63.9, price above SMA-20, volume surge), diversifying the cash deployment beyond a single name."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14255.735246181488,
     "cash": 689.2850012779236,
