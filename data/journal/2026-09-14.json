@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-14",
+  "briefing": "Markets are risk-on today with NASDAQ +1.0% and S&P 500 +0.9%. With 3 open slots and cash just over the $500 threshold, we're deploying into BGSI and HTFL, the two top-scoring candidates with full multi-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge), while holding all existing positions unchanged.",
+  "daily_lesson": {
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong recent performance tends to continue in the near term. Today's picks were chosen because they showed multiple confirming signals together — rising price, strong volume, and bullish indicator crossovers — which reduces the chance of chasing a false signal.",
+    "explanation_zh": "動能投資是指買入近期表現強勁、價格持續上升的股票，理論基礎是短期內強勢股票的漲勢往往會延續。今日選股是因為同時出現多項確認訊號——價格上升、成交量放大、以及技術指標出現黃金交叉——這樣可以降低追高至假訊號的風險。"
+  },
+  "market_education": {
+    "summary_en": "Broad indices advanced with the NASDAQ up 1.0% and the S&P 500 up 0.9%, reflecting a risk-on tone across growth and tech-adjacent names. Momentum names showing volume surges and bullish MACD crossovers, like BGSI and HTFL, outperformed as institutional buying interest appeared to build. No major single catalyst was flagged in today's screen, consistent with a broad-based rally rather than a single headline-driven move.",
+    "summary_zh": "大盤今日走強，納斯達克指數上漲1.0%，標普500指數上漲0.9%，反映市場風險偏好升溫，科技及成長股表現領先。個別具備成交量放大及MACD黃金交叉訊號的動能股，如BGSI及HTFL，表現尤為突出，顯示機構資金持續流入。今日未見明顯單一新聞事件主導，走勢較符合普遍性上漲格局。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "BGSI",
+      "conviction": "high",
+      "reasoning": "Highest-scoring candidate (100) with all four bullish signals confirmed — MACD crossover, RSI 67 in bullish zone, price above SMA-20, and a volume surge — fitting today's risk-on tape."
+    },
+    {
+      "action": "BUY",
+      "ticker": "HTFL",
+      "conviction": "high",
+      "reasoning": "Second highest-scoring candidate (100) with the same full multi-signal confirmation (MACD crossover, RSI 63.9, price above SMA-20, volume surge), diversifying the cash deployment beyond a single name."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14255.735246181488,
+    "cash": 689.2850012779236,
+    "pnl_dollar": 4255.735246181488,
+    "pnl_pct": 42.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
