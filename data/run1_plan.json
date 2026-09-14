@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-09-14T19:00:48.644336+00:00",
+  "saved_at": "2026-09-14T20:01:13.838838+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "TENB",
+        "ticker": "GWRE",
         "conviction": "medium",
-        "reasoning": "Highest-scoring candidate (95) with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, filling one of three open portfolio slots."
-      },
-      {
-        "action": "BUY",
-        "ticker": "AAL",
-        "conviction": "medium",
-        "reasoning": "Tied top score (95) showing the same four aligned bullish signals as TENB, adding diversification away from tech-heavy holdings while deploying idle cash above the $500 threshold."
+        "reasoning": "Full multi-signal confirmation (MACD bullish crossover, RSI 59.4 in healthy bullish zone, price above SMA-20, volume surge) with room before overbought, unlike most other overbought candidates."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were roughly flat today (NASDAQ -0.2%, S&P 500 -0.3%), a neutral session with no strong directional signal. With cash above the $500 threshold and 3 open slots, we deployed into TENB and AAL, the two highest-scoring candidates showing full bullish alignment (RSI, MACD, and price above SMA-20) rather than holding idle cash, per risk-rule guidance.",
+    "briefing": "Markets were neutral today (NASDAQ -0.6%, S&P 500 -0.5%) with no clear risk-on or risk-off signal. Held all 7 existing positions through the modest pullback rather than reacting to noise, and added GWRE \u2014 the strongest fully-confirmed setup on the screener \u2014 to put a portion of idle cash to work while keeping conviction moderate given the flat macro backdrop.",
     "market_education": {
-      "summary_en": "Major indices traded essentially flat today, with NASDAQ down 0.2% and the S&P 500 down 0.3%, reflecting a lack of strong catalysts in either direction. Without major economic data releases or earnings surprises driving sentiment, stocks consolidated near recent levels. This kind of quiet, range-bound session is common between major news events.",
-      "summary_zh": "\u4eca\u65e5\u4e3b\u8981\u6307\u6578\u8d70\u52e2\u5927\u81f4\u6301\u5e73\uff0c\u7d0d\u6307\u4e0b\u8dcc0.2%\uff0c\u6a19\u666e500\u4e0b\u8dcc0.3%\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u7531\u65bc\u6c92\u6709\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u610f\u5916\u5de6\u53f3\u5e02\u5834\u60c5\u7dd2\uff0c\u80a1\u5e02\u5728\u8fd1\u671f\u6c34\u5e73\u9644\u8fd1\u6574\u56fa\u3002\u9019\u7a2e\u6de1\u975c\u3001\u5340\u9593\u9707\u76ea\u7684\u8d70\u52e2\u5728\u91cd\u5927\u6d88\u606f\u4e8b\u4ef6\u4e4b\u9593\u9817\u70ba\u5e38\u898b\u3002",
+      "summary_en": "Both the NASDAQ (-0.6%) and S&P 500 (-0.5%) drifted lower today in a broadly directionless session, without a single dominant catalyst driving the move. This kind of shallow, low-conviction pullback is common consolidation after recent gains rather than a sign of a trend change. With no major news event provided in today's data feed, the move looks more like routine profit-taking and sector rotation than a reaction to a specific headline.",
+      "summary_zh": "\u7d0d\u65af\u9054\u514b(-0.6%)\u53ca\u6a19\u666e500(-0.5%)\u4eca\u65e5\u540c\u6b65\u5c0f\u5e45\u56de\u843d,\u5e02\u5834\u65b9\u5411\u4e0d\u660e\u986f,\u4ea6\u672a\u898b\u55ae\u4e00\u4e3b\u5c0e\u6d88\u606f\u5e36\u52d5\u8d70\u52e2\u3002\u9019\u985e\u6dfa\u5e45\u3001\u4f4e\u52d5\u80fd\u7684\u56de\u8abf\u5728\u8fd1\u671f\u5347\u52e2\u5f8c\u5c6c\u6b63\u5e38\u6574\u56fa,\u800c\u975e\u8da8\u52e2\u9006\u8f49\u7684\u8a0a\u865f\u3002\u7531\u65bc\u4eca\u65e5\u6578\u64da\u4e2d\u672a\u63d0\u4f9b\u91cd\u5927\u65b0\u805e\u4e8b\u4ef6,\u4eca\u6b21\u6ce2\u52d5\u8f03\u4f3c\u662f\u4f8b\u884c\u7372\u5229\u56de\u5410\u53ca\u677f\u584a\u8f2a\u52d5,\u800c\u975e\u5c0d\u500b\u5225\u6d88\u606f\u7684\u53cd\u61c9\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means checking multiple technical signals together \u2014 like RSI, MACD, and price relative to moving averages \u2014 before buying, rather than relying on just one indicator. When several signals line up in the same bullish direction, it suggests stronger, more reliable buying interest rather than random noise.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\u540c\u6642\u6aa2\u67e5\u591a\u500b\u6280\u8853\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u3001MACD\u548c\u80a1\u50f9\u76f8\u5c0d\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\u7684\u4f4d\u7f6e\u2014\u2014\u800c\u4e0d\u662f\u53ea\u4f9d\u8cf4\u55ae\u4e00\u6307\u6a19\u3002\u7576\u591a\u500b\u8a0a\u865f\u540c\u6642\u6307\u5411\u540c\u4e00\u500b\u770b\u6f32\u65b9\u5411\u6642\uff0c\u4ee3\u8868\u8cb7\u76e4\u529b\u91cf\u8f03\u5f37\u3001\u8f03\u53ef\u9760\uff0c\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002"
+      "term": "Signal Confirmation",
+      "explanation_en": "Signal confirmation means waiting for several independent indicators \u2014 like a MACD crossover, healthy (not overbought) RSI, price above its moving average, and a volume surge \u2014 to all line up before buying, instead of acting on just one. This reduces the chance of chasing a false or short-lived move, especially on a day when the broader market itself isn't giving a strong directional signal.",
+      "explanation_zh": "\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d,\u7b49\u5f85\u591a\u500b\u7368\u7acb\u6307\u6a19\u2014\u2014\u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7(\u975e\u8d85\u8cb7)\u5340\u9593\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda,\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u540c\u6642\u51fa\u73fe,\u800c\u975e\u55ae\u6191\u4e00\u500b\u6307\u6a19\u5c31\u884c\u52d5\u3002\u9019\u6a23\u53ef\u4ee5\u6e1b\u5c11\u8ffd\u9010\u5047\u8a0a\u865f\u6216\u77ed\u66ab\u6ce2\u52d5\u7684\u98a8\u96aa,\u5c24\u5176\u662f\u5728\u5927\u5e02\u672c\u8eab\u672a\u6709\u660e\u78ba\u65b9\u5411\u7684\u65e5\u5b50\u3002"
     }
   }
 }

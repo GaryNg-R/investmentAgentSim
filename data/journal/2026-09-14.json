@@ -1,28 +1,22 @@
 {
   "date": "2026-09-14",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.2%, S&P 500 -0.3%), a neutral session with no strong directional signal. With cash above the $500 threshold and 3 open slots, we deployed into TENB and AAL, the two highest-scoring candidates showing full bullish alignment (RSI, MACD, and price above SMA-20) rather than holding idle cash, per risk-rule guidance.",
+  "briefing": "Markets were neutral today (NASDAQ -0.6%, S&P 500 -0.5%) with no clear risk-on or risk-off signal. Held all 7 existing positions through the modest pullback rather than reacting to noise, and added GWRE — the strongest fully-confirmed setup on the screener — to put a portion of idle cash to work while keeping conviction moderate given the flat macro backdrop.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means checking multiple technical signals together — like RSI, MACD, and price relative to moving averages — before buying, rather than relying on just one indicator. When several signals line up in the same bullish direction, it suggests stronger, more reliable buying interest rather than random noise.",
-    "explanation_zh": "動能確認是指在買入前同時檢查多個技術指標——例如RSI、MACD和股價相對於移動平均線的位置——而不是只依賴單一指標。當多個訊號同時指向同一個看漲方向時，代表買盤力量較強、較可靠，而非隨機波動。"
+    "term": "Signal Confirmation",
+    "explanation_en": "Signal confirmation means waiting for several independent indicators — like a MACD crossover, healthy (not overbought) RSI, price above its moving average, and a volume surge — to all line up before buying, instead of acting on just one. This reduces the chance of chasing a false or short-lived move, especially on a day when the broader market itself isn't giving a strong directional signal.",
+    "explanation_zh": "訊號確認是指在買入前,等待多個獨立指標——例如MACD黃金交叉、RSI處於健康(非超買)區間、股價高於移動平均線,以及成交量放大——同時出現,而非單憑一個指標就行動。這樣可以減少追逐假訊號或短暫波動的風險,尤其是在大市本身未有明確方向的日子。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially flat today, with NASDAQ down 0.2% and the S&P 500 down 0.3%, reflecting a lack of strong catalysts in either direction. Without major economic data releases or earnings surprises driving sentiment, stocks consolidated near recent levels. This kind of quiet, range-bound session is common between major news events.",
-    "summary_zh": "今日主要指數走勢大致持平，納指下跌0.2%，標普500下跌0.3%，反映市場缺乏明顯的方向性催化劑。由於沒有重大經濟數據或業績意外左右市場情緒，股市在近期水平附近整固。這種淡靜、區間震盪的走勢在重大消息事件之間頗為常見。",
+    "summary_en": "Both the NASDAQ (-0.6%) and S&P 500 (-0.5%) drifted lower today in a broadly directionless session, without a single dominant catalyst driving the move. This kind of shallow, low-conviction pullback is common consolidation after recent gains rather than a sign of a trend change. With no major news event provided in today's data feed, the move looks more like routine profit-taking and sector rotation than a reaction to a specific headline.",
+    "summary_zh": "納斯達克(-0.6%)及標普500(-0.5%)今日同步小幅回落,市場方向不明顯,亦未見單一主導消息帶動走勢。這類淺幅、低動能的回調在近期升勢後屬正常整固,而非趨勢逆轉的訊號。由於今日數據中未提供重大新聞事件,今次波動較似是例行獲利回吐及板塊輪動,而非對個別消息的反應。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TENB",
+      "ticker": "GWRE",
       "conviction": "medium",
-      "reasoning": "Highest-scoring candidate (95) with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, filling one of three open portfolio slots."
-    },
-    {
-      "action": "BUY",
-      "ticker": "AAL",
-      "conviction": "medium",
-      "reasoning": "Tied top score (95) showing the same four aligned bullish signals as TENB, adding diversification away from tech-heavy holdings while deploying idle cash above the $500 threshold."
+      "reasoning": "Full multi-signal confirmation (MACD bullish crossover, RSI 59.4 in healthy bullish zone, price above SMA-20, volume surge) with room before overbought, unlike most other overbought candidates."
     }
   ],
   "outcomes": {
