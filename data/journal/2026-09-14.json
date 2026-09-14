@@ -1,22 +1,28 @@
 {
   "date": "2026-09-14",
-  "briefing": "Markets were flat today with NASDAQ -0.1% and S&P 500 -0.3%, giving no clear risk-on or risk-off signal. Since cash ($689.29) is above the $500 threshold and 3 slots remain open, we deployed modestly into QLYS on strong technicals rather than sit fully idle, but kept conviction medium due to the absence of a volume-surge confirmation. All seven existing positions are held unchanged through this neutral session.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.2%, S&P 500 -0.3%), a neutral session with no strong directional signal. With cash above the $500 threshold and 3 open slots, we deployed into TENB and AAL, the two highest-scoring candidates showing full bullish alignment (RSI, MACD, and price above SMA-20) rather than holding idle cash, per risk-rule guidance.",
   "daily_lesson": {
     "term": "Momentum Confirmation",
-    "explanation_en": "Not all bullish signals carry equal weight — the strongest buy setups combine multiple confirming indicators (like RSI, MACD, price vs moving average, AND volume) rather than just one or two. When a stock shows good technicals but lacks volume confirmation, it's often wiser to size the position smaller (medium instead of high conviction) rather than skip it entirely or go all-in.",
-    "explanation_zh": "並非所有利好訊號的份量都一樣——最強的買入時機通常同時具備多個確認指標(例如RSI、MACD、股價相對均線位置,以及成交量),而非單靠一兩個訊號。當個股技術面良好但缺乏成交量確認時,較穩妥的做法是縮小注碼(採中等信心而非高信心),而非完全放棄或重倉買入。"
+    "explanation_en": "Momentum confirmation means checking multiple technical signals together — like RSI, MACD, and price relative to moving averages — before buying, rather than relying on just one indicator. When several signals line up in the same bullish direction, it suggests stronger, more reliable buying interest rather than random noise.",
+    "explanation_zh": "動能確認是指在買入前同時檢查多個技術指標——例如RSI、MACD和股價相對於移動平均線的位置——而不是只依賴單一指標。當多個訊號同時指向同一個看漲方向時，代表買盤力量較強、較可靠，而非隨機波動。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no dominant catalyst, reflecting a session of consolidation rather than conviction in either direction. Trading volumes and price moves were muted across both the NASDAQ and S&P 500. Without a strong macro trigger, investors appeared to be digesting recent gains rather than chasing new positions.",
-    "summary_zh": "今日大市窄幅整理,納指及標普500分別微跌0.1%及0.3%,未見明顯主導消息刺激市場方向。成交量及波幅均偏溫和,反映投資者傾向消化近期升幅,而非積極追入新倉。整體市況呈中性格局。",
+    "summary_en": "Major indices traded essentially flat today, with NASDAQ down 0.2% and the S&P 500 down 0.3%, reflecting a lack of strong catalysts in either direction. Without major economic data releases or earnings surprises driving sentiment, stocks consolidated near recent levels. This kind of quiet, range-bound session is common between major news events.",
+    "summary_zh": "今日主要指數走勢大致持平，納指下跌0.2%，標普500下跌0.3%，反映市場缺乏明顯的方向性催化劑。由於沒有重大經濟數據或業績意外左右市場情緒，股市在近期水平附近整固。這種淡靜、區間震盪的走勢在重大消息事件之間頗為常見。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "QLYS",
+      "ticker": "TENB",
       "conviction": "medium",
-      "reasoning": "Top-scoring candidate (95) with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, but sized medium since no volume surge confirms institutional participation."
+      "reasoning": "Highest-scoring candidate (95) with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, filling one of three open portfolio slots."
+    },
+    {
+      "action": "BUY",
+      "ticker": "AAL",
+      "conviction": "medium",
+      "reasoning": "Tied top score (95) showing the same four aligned bullish signals as TENB, adding diversification away from tech-heavy holdings while deploying idle cash above the $500 threshold."
     }
   ],
   "outcomes": {
