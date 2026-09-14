@@ -1,22 +1,28 @@
 {
   "date": "2026-09-14",
-  "briefing": "Markets were quietly negative today (NASDAQ -0.4%, S&P 500 -0.3%) with no major catalyst driving the move. With cash above the $500 threshold and an open portfolio slot, I added a single medium-conviction position in FDS, a top-scoring candidate with strong multi-signal bullish confirmation, while holding the rest of cash in reserve rather than force-deploying into multiple names on a low-conviction day.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.1%, S&P 500 -0.2%), a neutral session with no strong directional signal. With $689 in cash and 3 open portfolio slots, we deployed modestly into two diversified, non-overbought momentum names (GWRE, AAL) rather than idle cash, while holding all existing positions through the quiet session.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price trends, based on signals like RSI, MACD crossovers, and price relative to moving averages — even when the broader market is flat or slightly down. Today's buy targeted a stock with strong individual momentum signals despite a neutral overall market, since individual stock strength doesn't always move in lockstep with the index.",
-    "explanation_zh": "動能投資是指買入價格已呈現強勁上漲趨勢的股票，依據RSI、MACD黃金交叉、股價相對於移動平均線等訊號來判斷——即使大盤持平或小幅下跌也可能進場。今日的買進標的本身動能訊號強勁，儘管整體大盤表現中性，因為個股走勢不一定與大盤指數同步。"
+    "term": "Diversification",
+    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one industry doesn't sink your whole portfolio. Today we added an insurance-software name and an airline stock to a portfolio that was heavily weighted toward tech and semiconductors, reducing the risk that a single sector's bad news hurts us badly.",
+    "explanation_zh": "分散投資是指將資金投放於不同行業,避免單一行業表現不佳時拖累整體投資組合。今日我們在原本以科技及半導體為主的組合中,加入了保險軟件股及航空股,藉此降低單一行業壞消息對整體投資組合造成重大衝擊的風險。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted slightly lower today, with the NASDAQ down 0.4% and the S&P 500 down 0.3%, in what looks like routine, low-volume consolidation rather than a reaction to any single catalyst. No major news events were flagged for today's session, consistent with a quiet, directionless trading day. Days like this often reflect investors digesting recent gains rather than reacting to new information.",
-    "summary_zh": "今日大盤微幅走低，納斯達克指數下跌0.4%，標普500指數下跌0.3%，屬於較為平淡、低成交量的整理走勢，並非受單一重大消息面影響。今日交易時段並未出現值得關注的重大新聞事件，符合方向不明的平靜交易日特徵。這類日子通常反映投資人在消化近期漲幅，而非對新資訊做出反應。",
+    "summary_en": "Major indices were essentially flat today, with the NASDAQ down 0.1% and the S&P 500 down 0.2%, reflecting a lack of strong catalysts on either side. Without a clear risk-on or risk-off trigger, trading stayed range-bound as investors awaited fresh data or earnings news. This kind of low-volatility, directionless session is typical between major economic releases.",
+    "summary_zh": "今日大市走勢幾乎持平,納斯達克指數微跌0.1%,標普500指數則下跌0.2%,反映市場缺乏明顯的利好或利淡消息帶動方向。在沒有清晰的風險偏好訊號下,大市維持窄幅波動,投資者靜待新的經濟數據或業績消息公布。這種低波動、方向不明確的市況,在重大經濟數據公布之間頗為常見。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FDS",
+      "ticker": "GWRE",
       "conviction": "medium",
-      "reasoning": "Score of 95 with RSI 57.3 in the bullish zone (not overbought), a fresh MACD bullish crossover, rising histogram, and price above SMA-20 signal healthy uptrend momentum in a stable blue-chip data/analytics name suited for a neutral-market day."
+      "reasoning": "Guidewire shows a clean bullish setup (RSI 59.9, MACD crossover, price above SMA-20) and diversifies away from our tech/semiconductor-heavy holdings into insurance software."
+    },
+    {
+      "action": "BUY",
+      "ticker": "AAL",
+      "conviction": "medium",
+      "reasoning": "American Airlines offers strong momentum (RSI 58.2, MACD bullish crossover, rising histogram) with room before overbought, adding sector diversification versus our current tech/industrial mix."
     }
   ],
   "outcomes": {
