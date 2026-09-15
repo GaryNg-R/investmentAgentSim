@@ -1,24 +1,17 @@
 {
   "date": "2026-09-15",
-  "briefing": "Markets were mildly negative today (NASDAQ -0.7%, S&P 500 -0.4%), a neutral day without a clear risk-on catalyst. Rather than forcing capital into all 3 open slots, we deployed into BFLY alone since it was the only ticker showing complete multi-signal confirmation; existing holdings are left untouched to let stop-loss and profit-target rules do their job.",
+  "briefing": "Markets pulled back slightly today (NASDAQ -0.8%, S&P 500 -0.5%), a neutral-to-soft session rather than a risk-on setup. While several candidates (SWKS, FPS, QRVO, KRMN, RIG, VAL, CVI, AADX) score well on RSI/MACD/SMA signals, none show the volume surge confirmation needed for high-conviction entries, so we're holding cash and existing positions rather than forcing a buy.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of buying anything that looks bullish, disciplined investors wait for several indicators to agree at once — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all signals line up, it suggests real institutional buying rather than a random price blip.",
-    "explanation_zh": "有紀律的投資者不會單憑一個看漲訊號就進場,而是等待多個指標同時確認——例如RSI處於健康區間、MACD黃金交叉、股價站上均線,以及成交量放大。當所有訊號同時出現,代表可能有真正的機構資金流入,而非隨機的價格波動。"
+    "term": "Volume Confirmation",
+    "explanation_en": "A price move or technical signal (like a MACD crossover) is much more trustworthy when it's accompanied by higher-than-average trading volume, because that shows real money — often institutional — is backing the move. Without a volume surge, a bullish-looking setup could just be noise that fades quickly, which is why several high-scoring candidates today were passed over.",
+    "explanation_zh": "當價格走勢或技術訊號（如MACD黃金交叉）伴隨著高於平均的成交量時，可信度會大大提高，因為這代表有實際資金（通常是機構）在背後支持這個走勢。若缺乏成交量放大，看似利多的訊號可能只是雜訊，很快就會消退，這也是今日多隻高分股票暫未進場的原因。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 drifted slightly lower today, a modest pullback rather than a decisive move in either direction. No major catalyst news was available in today's feed to pin the decline on a single event, so this looks like routine consolidation after recent gains. With no strong risk-on signal, we stayed selective on new positions rather than chasing the broader tape.",
-    "summary_zh": "納指及標普500今日皆小幅回落，屬溫和整理而非明確轉向。今日資訊來源中沒有重大消息可解釋跌幅成因，較可能是近期升勢後的正常整固。由於缺乏強烈的風險偏好信號，我們在新增持倉上維持審慎，未有盲目追入。",
+    "summary_en": "Broad indices drifted lower today with the NASDAQ down 0.8% and the S&P 500 down 0.5%, a mild pullback rather than a decisive move in either direction. Momentum screens still show a cluster of stocks with bullish MACD crossovers and RSI in healthy ranges, but the absence of volume confirmation across the board suggests institutional conviction hasn't fully materialized yet. Days like this call for patience rather than chasing signals that look good on paper but lack the participation to back them up.",
+    "summary_zh": "大盤今日普遍走弱，納斯達克下跌0.8%，標普500下跌0.5%，屬溫和回調而非明確方向性走勢。動能篩選仍顯示一批股票出現MACD黃金交叉及RSI處於健康區間，但整體缺乏成交量放大確認，顯示機構資金尚未全面進場。此類日子應保持耐性，避免追逐表面訊號強勁、卻缺乏實際資金參與支持的標的。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "BFLY",
-      "conviction": "high",
-      "reasoning": "Only candidate with full 4-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge), indicating genuine institutional buying despite a neutral broader market."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14255.735246181488,
     "cash": 689.2850012779236,

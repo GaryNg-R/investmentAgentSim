@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-09-15T17:01:01.187026+00:00",
+  "saved_at": "2026-09-15T18:00:58.796940+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "BFLY",
-        "conviction": "high",
-        "reasoning": "Only candidate with full 4-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge), indicating genuine institutional buying despite a neutral broader market."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets were mildly negative today (NASDAQ -0.7%, S&P 500 -0.4%), a neutral day without a clear risk-on catalyst. Rather than forcing capital into all 3 open slots, we deployed into BFLY alone since it was the only ticker showing complete multi-signal confirmation; existing holdings are left untouched to let stop-loss and profit-target rules do their job.",
+    "briefing": "Markets pulled back slightly today (NASDAQ -0.8%, S&P 500 -0.5%), a neutral-to-soft session rather than a risk-on setup. While several candidates (SWKS, FPS, QRVO, KRMN, RIG, VAL, CVI, AADX) score well on RSI/MACD/SMA signals, none show the volume surge confirmation needed for high-conviction entries, so we're holding cash and existing positions rather than forcing a buy.",
     "market_education": {
-      "summary_en": "Both the NASDAQ and S&P 500 drifted slightly lower today, a modest pullback rather than a decisive move in either direction. No major catalyst news was available in today's feed to pin the decline on a single event, so this looks like routine consolidation after recent gains. With no strong risk-on signal, we stayed selective on new positions rather than chasing the broader tape.",
-      "summary_zh": "\u7d0d\u6307\u53ca\u6a19\u666e500\u4eca\u65e5\u7686\u5c0f\u5e45\u56de\u843d\uff0c\u5c6c\u6eab\u548c\u6574\u7406\u800c\u975e\u660e\u78ba\u8f49\u5411\u3002\u4eca\u65e5\u8cc7\u8a0a\u4f86\u6e90\u4e2d\u6c92\u6709\u91cd\u5927\u6d88\u606f\u53ef\u89e3\u91cb\u8dcc\u5e45\u6210\u56e0\uff0c\u8f03\u53ef\u80fd\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u6b63\u5e38\u6574\u56fa\u3002\u7531\u65bc\u7f3a\u4e4f\u5f37\u70c8\u7684\u98a8\u96aa\u504f\u597d\u4fe1\u865f\uff0c\u6211\u5011\u5728\u65b0\u589e\u6301\u5009\u4e0a\u7dad\u6301\u5be9\u614e\uff0c\u672a\u6709\u76f2\u76ee\u8ffd\u5165\u3002",
+      "summary_en": "Broad indices drifted lower today with the NASDAQ down 0.8% and the S&P 500 down 0.5%, a mild pullback rather than a decisive move in either direction. Momentum screens still show a cluster of stocks with bullish MACD crossovers and RSI in healthy ranges, but the absence of volume confirmation across the board suggests institutional conviction hasn't fully materialized yet. Days like this call for patience rather than chasing signals that look good on paper but lack the participation to back them up.",
+      "summary_zh": "\u5927\u76e4\u4eca\u65e5\u666e\u904d\u8d70\u5f31\uff0c\u7d0d\u65af\u9054\u514b\u4e0b\u8dcc0.8%\uff0c\u6a19\u666e500\u4e0b\u8dcc0.5%\uff0c\u5c6c\u6eab\u548c\u56de\u8abf\u800c\u975e\u660e\u78ba\u65b9\u5411\u6027\u8d70\u52e2\u3002\u52d5\u80fd\u7be9\u9078\u4ecd\u986f\u793a\u4e00\u6279\u80a1\u7968\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u53caRSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\uff0c\u4f46\u6574\u9ad4\u7f3a\u4e4f\u6210\u4ea4\u91cf\u653e\u5927\u78ba\u8a8d\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u5c1a\u672a\u5168\u9762\u9032\u5834\u3002\u6b64\u985e\u65e5\u5b50\u61c9\u4fdd\u6301\u8010\u6027\uff0c\u907f\u514d\u8ffd\u9010\u8868\u9762\u8a0a\u865f\u5f37\u52c1\u3001\u537b\u7f3a\u4e4f\u5be6\u969b\u8cc7\u91d1\u53c3\u8207\u652f\u6301\u7684\u6a19\u7684\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Instead of buying anything that looks bullish, disciplined investors wait for several indicators to agree at once \u2014 like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all signals line up, it suggests real institutional buying rather than a random price blip.",
-      "explanation_zh": "\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u4e0d\u6703\u55ae\u6191\u4e00\u500b\u770b\u6f32\u8a0a\u865f\u5c31\u9032\u5834,\u800c\u662f\u7b49\u5f85\u591a\u500b\u6307\u6a19\u540c\u6642\u78ba\u8a8d\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda,\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u3002\u7576\u6240\u6709\u8a0a\u865f\u540c\u6642\u51fa\u73fe,\u4ee3\u8868\u53ef\u80fd\u6709\u771f\u6b63\u7684\u6a5f\u69cb\u8cc7\u91d1\u6d41\u5165,\u800c\u975e\u96a8\u6a5f\u7684\u50f9\u683c\u6ce2\u52d5\u3002"
+      "term": "Volume Confirmation",
+      "explanation_en": "A price move or technical signal (like a MACD crossover) is much more trustworthy when it's accompanied by higher-than-average trading volume, because that shows real money \u2014 often institutional \u2014 is backing the move. Without a volume surge, a bullish-looking setup could just be noise that fades quickly, which is why several high-scoring candidates today were passed over.",
+      "explanation_zh": "\u7576\u50f9\u683c\u8d70\u52e2\u6216\u6280\u8853\u8a0a\u865f\uff08\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\uff09\u4f34\u96a8\u8457\u9ad8\u65bc\u5e73\u5747\u7684\u6210\u4ea4\u91cf\u6642\uff0c\u53ef\u4fe1\u5ea6\u6703\u5927\u5927\u63d0\u9ad8\uff0c\u56e0\u70ba\u9019\u4ee3\u8868\u6709\u5be6\u969b\u8cc7\u91d1\uff08\u901a\u5e38\u662f\u6a5f\u69cb\uff09\u5728\u80cc\u5f8c\u652f\u6301\u9019\u500b\u8d70\u52e2\u3002\u82e5\u7f3a\u4e4f\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u770b\u4f3c\u5229\u591a\u7684\u8a0a\u865f\u53ef\u80fd\u53ea\u662f\u96dc\u8a0a\uff0c\u5f88\u5feb\u5c31\u6703\u6d88\u9000\uff0c\u9019\u4e5f\u662f\u4eca\u65e5\u591a\u96bb\u9ad8\u5206\u80a1\u7968\u66ab\u672a\u9032\u5834\u7684\u539f\u56e0\u3002"
     }
   }
 }
