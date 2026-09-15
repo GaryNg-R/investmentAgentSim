@@ -1,17 +1,24 @@
 {
   "date": "2026-09-15",
-  "briefing": "Markets pulled back slightly today (NASDAQ -0.8%, S&P 500 -0.5%), a neutral-to-soft session rather than a risk-on setup. While several candidates (SWKS, FPS, QRVO, KRMN, RIG, VAL, CVI, AADX) score well on RSI/MACD/SMA signals, none show the volume surge confirmation needed for high-conviction entries, so we're holding cash and existing positions rather than forcing a buy.",
+  "briefing": "Markets pulled back modestly today (NASDAQ -0.8%, S&P 500 -0.4%) on no major catalyst — a neutral, low-conviction session. Existing positions were left untouched since none hit stop-loss or profit-target levels, and we deployed a portion of idle cash into KRMN, the highest-scoring candidate, since cash was above the $500 threshold with open slots available.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "A price move or technical signal (like a MACD crossover) is much more trustworthy when it's accompanied by higher-than-average trading volume, because that shows real money — often institutional — is backing the move. Without a volume surge, a bullish-looking setup could just be noise that fades quickly, which is why several high-scoring candidates today were passed over.",
-    "explanation_zh": "當價格走勢或技術訊號（如MACD黃金交叉）伴隨著高於平均的成交量時，可信度會大大提高，因為這代表有實際資金（通常是機構）在背後支持這個走勢。若缺乏成交量放大，看似利多的訊號可能只是雜訊，很快就會消退，這也是今日多隻高分股票暫未進場的原因。"
+    "term": "MACD Crossover",
+    "explanation_en": "A MACD (Moving Average Convergence Divergence) bullish crossover happens when a stock's short-term momentum line crosses above its signal line, often signaling the start of an upward trend. It's one of the confirming signals used today to select KRMN, alongside RSI and price-vs-moving-average checks, rather than relying on a single indicator alone.",
+    "explanation_zh": "MACD（指數平滑異同移動平均線）出現「黃金交叉」，即短期動量線升穿訊號線，通常代表升勢可能展開。今日揀選KRMN時，MACD交叉訊號與RSI及股價相對移動平均線的位置一併考慮，避免只憑單一指標下判斷。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted lower today with the NASDAQ down 0.8% and the S&P 500 down 0.5%, a mild pullback rather than a decisive move in either direction. Momentum screens still show a cluster of stocks with bullish MACD crossovers and RSI in healthy ranges, but the absence of volume confirmation across the board suggests institutional conviction hasn't fully materialized yet. Days like this call for patience rather than chasing signals that look good on paper but lack the participation to back them up.",
-    "summary_zh": "大盤今日普遍走弱，納斯達克下跌0.8%，標普500下跌0.5%，屬溫和回調而非明確方向性走勢。動能篩選仍顯示一批股票出現MACD黃金交叉及RSI處於健康區間，但整體缺乏成交量放大確認，顯示機構資金尚未全面進場。此類日子應保持耐性，避免追逐表面訊號強勁、卻缺乏實際資金參與支持的標的。",
+    "summary_en": "Both major indices drifted slightly lower today, with the NASDAQ underperforming the S&P 500, suggesting a mild rotation away from higher-growth, higher-beta names. There was no single dominant headline driving the move, consistent with a routine consolidation day after recent gains. Overall breadth remained mixed rather than showing broad-based selling pressure.",
+    "summary_zh": "今日大盤溫和回落，納指跌幅大於標普500指數，反映資金略為由高增長、高波動性的股份撤離。今日並無單一重大消息主導市況，較似是近期升勢後的整固日。整體市場廣度參半，未見大規模拋售壓力。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "KRMN",
+      "conviction": "medium",
+      "reasoning": "Top-scored candidate (95) with RSI in the healthy bullish zone, a confirmed MACD bullish crossover with rising histogram, and price above SMA-20, filling an open slot with idle cash above the $500 threshold."
+    }
+  ],
   "outcomes": {
     "total_value": 14255.735246181488,
     "cash": 689.2850012779236,

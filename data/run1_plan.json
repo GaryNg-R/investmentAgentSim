@@ -1,19 +1,26 @@
 {
-  "saved_at": "2026-09-15T18:00:58.796940+00:00",
+  "saved_at": "2026-09-15T19:00:57.112765+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "KRMN",
+        "conviction": "medium",
+        "reasoning": "Top-scored candidate (95) with RSI in the healthy bullish zone, a confirmed MACD bullish crossover with rising histogram, and price above SMA-20, filling an open slot with idle cash above the $500 threshold."
+      }
+    ],
     "skip_new_buys": false,
-    "briefing": "Markets pulled back slightly today (NASDAQ -0.8%, S&P 500 -0.5%), a neutral-to-soft session rather than a risk-on setup. While several candidates (SWKS, FPS, QRVO, KRMN, RIG, VAL, CVI, AADX) score well on RSI/MACD/SMA signals, none show the volume surge confirmation needed for high-conviction entries, so we're holding cash and existing positions rather than forcing a buy.",
+    "briefing": "Markets pulled back modestly today (NASDAQ -0.8%, S&P 500 -0.4%) on no major catalyst \u2014 a neutral, low-conviction session. Existing positions were left untouched since none hit stop-loss or profit-target levels, and we deployed a portion of idle cash into KRMN, the highest-scoring candidate, since cash was above the $500 threshold with open slots available.",
     "market_education": {
-      "summary_en": "Broad indices drifted lower today with the NASDAQ down 0.8% and the S&P 500 down 0.5%, a mild pullback rather than a decisive move in either direction. Momentum screens still show a cluster of stocks with bullish MACD crossovers and RSI in healthy ranges, but the absence of volume confirmation across the board suggests institutional conviction hasn't fully materialized yet. Days like this call for patience rather than chasing signals that look good on paper but lack the participation to back them up.",
-      "summary_zh": "\u5927\u76e4\u4eca\u65e5\u666e\u904d\u8d70\u5f31\uff0c\u7d0d\u65af\u9054\u514b\u4e0b\u8dcc0.8%\uff0c\u6a19\u666e500\u4e0b\u8dcc0.5%\uff0c\u5c6c\u6eab\u548c\u56de\u8abf\u800c\u975e\u660e\u78ba\u65b9\u5411\u6027\u8d70\u52e2\u3002\u52d5\u80fd\u7be9\u9078\u4ecd\u986f\u793a\u4e00\u6279\u80a1\u7968\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u53caRSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\uff0c\u4f46\u6574\u9ad4\u7f3a\u4e4f\u6210\u4ea4\u91cf\u653e\u5927\u78ba\u8a8d\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u5c1a\u672a\u5168\u9762\u9032\u5834\u3002\u6b64\u985e\u65e5\u5b50\u61c9\u4fdd\u6301\u8010\u6027\uff0c\u907f\u514d\u8ffd\u9010\u8868\u9762\u8a0a\u865f\u5f37\u52c1\u3001\u537b\u7f3a\u4e4f\u5be6\u969b\u8cc7\u91d1\u53c3\u8207\u652f\u6301\u7684\u6a19\u7684\u3002",
+      "summary_en": "Both major indices drifted slightly lower today, with the NASDAQ underperforming the S&P 500, suggesting a mild rotation away from higher-growth, higher-beta names. There was no single dominant headline driving the move, consistent with a routine consolidation day after recent gains. Overall breadth remained mixed rather than showing broad-based selling pressure.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6eab\u548c\u56de\u843d\uff0c\u7d0d\u6307\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u8cc7\u91d1\u7565\u70ba\u7531\u9ad8\u589e\u9577\u3001\u9ad8\u6ce2\u52d5\u6027\u7684\u80a1\u4efd\u64a4\u96e2\u3002\u4eca\u65e5\u4e26\u7121\u55ae\u4e00\u91cd\u5927\u6d88\u606f\u4e3b\u5c0e\u5e02\u6cc1\uff0c\u8f03\u4f3c\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u6574\u56fa\u65e5\u3002\u6574\u9ad4\u5e02\u5834\u5ee3\u5ea6\u53c3\u534a\uff0c\u672a\u898b\u5927\u898f\u6a21\u62cb\u552e\u58d3\u529b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Confirmation",
-      "explanation_en": "A price move or technical signal (like a MACD crossover) is much more trustworthy when it's accompanied by higher-than-average trading volume, because that shows real money \u2014 often institutional \u2014 is backing the move. Without a volume surge, a bullish-looking setup could just be noise that fades quickly, which is why several high-scoring candidates today were passed over.",
-      "explanation_zh": "\u7576\u50f9\u683c\u8d70\u52e2\u6216\u6280\u8853\u8a0a\u865f\uff08\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\uff09\u4f34\u96a8\u8457\u9ad8\u65bc\u5e73\u5747\u7684\u6210\u4ea4\u91cf\u6642\uff0c\u53ef\u4fe1\u5ea6\u6703\u5927\u5927\u63d0\u9ad8\uff0c\u56e0\u70ba\u9019\u4ee3\u8868\u6709\u5be6\u969b\u8cc7\u91d1\uff08\u901a\u5e38\u662f\u6a5f\u69cb\uff09\u5728\u80cc\u5f8c\u652f\u6301\u9019\u500b\u8d70\u52e2\u3002\u82e5\u7f3a\u4e4f\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u770b\u4f3c\u5229\u591a\u7684\u8a0a\u865f\u53ef\u80fd\u53ea\u662f\u96dc\u8a0a\uff0c\u5f88\u5feb\u5c31\u6703\u6d88\u9000\uff0c\u9019\u4e5f\u662f\u4eca\u65e5\u591a\u96bb\u9ad8\u5206\u80a1\u7968\u66ab\u672a\u9032\u5834\u7684\u539f\u56e0\u3002"
+      "term": "MACD Crossover",
+      "explanation_en": "A MACD (Moving Average Convergence Divergence) bullish crossover happens when a stock's short-term momentum line crosses above its signal line, often signaling the start of an upward trend. It's one of the confirming signals used today to select KRMN, alongside RSI and price-vs-moving-average checks, rather than relying on a single indicator alone.",
+      "explanation_zh": "MACD\uff08\u6307\u6578\u5e73\u6ed1\u7570\u540c\u79fb\u52d5\u5e73\u5747\u7dda\uff09\u51fa\u73fe\u300c\u9ec3\u91d1\u4ea4\u53c9\u300d\uff0c\u5373\u77ed\u671f\u52d5\u91cf\u7dda\u5347\u7a7f\u8a0a\u865f\u7dda\uff0c\u901a\u5e38\u4ee3\u8868\u5347\u52e2\u53ef\u80fd\u5c55\u958b\u3002\u4eca\u65e5\u63c0\u9078KRMN\u6642\uff0cMACD\u4ea4\u53c9\u8a0a\u865f\u8207RSI\u53ca\u80a1\u50f9\u76f8\u5c0d\u79fb\u52d5\u5e73\u5747\u7dda\u7684\u4f4d\u7f6e\u4e00\u4f75\u8003\u616e\uff0c\u907f\u514d\u53ea\u6191\u55ae\u4e00\u6307\u6a19\u4e0b\u5224\u65b7\u3002"
     }
   }
 }
