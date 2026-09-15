@@ -1,17 +1,24 @@
 {
   "date": "2026-09-15",
-  "briefing": "Market is neutral today (NASDAQ -0.7%, S&P 500 -0.5%), and while several candidates (FPS, RIG, VAL, DK) score well on RSI/MACD/SMA signals, none show a confirmed volume surge, and the strategy memory advises against forcing buys on neutral days. Holding all 7 existing positions and keeping cash in reserve until a genuine risk-on setup (NASDAQ +2% or more) appears.",
+  "briefing": "Markets were mildly negative today (NASDAQ -0.7%, S&P 500 -0.4%), a neutral day without a clear risk-on catalyst. Rather than forcing capital into all 3 open slots, we deployed into BFLY alone since it was the only ticker showing complete multi-signal confirmation; existing holdings are left untouched to let stop-loss and profit-target rules do their job.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' or neutral market day is when investors show no strong conviction in either direction, often leading to sideways price action. On days like this, disciplined investors avoid forcing new trades just to deploy cash, instead waiting for clearer signals of strength before committing more capital.",
-    "explanation_zh": "「避險」或中性市況係指投資者對後市方向缺乏明確信心，令股價傾向橫行整理。喺呢種日子，有紀律嘅投資者唔會為咗用盡現金而勉強落飛，反而會耐心等待更清晰嘅強勢訊號先再加碼。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying anything that looks bullish, disciplined investors wait for several indicators to agree at once — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all signals line up, it suggests real institutional buying rather than a random price blip.",
+    "explanation_zh": "有紀律的投資者不會單憑一個看漲訊號就進場,而是等待多個指標同時確認——例如RSI處於健康區間、MACD黃金交叉、股價站上均線,以及成交量放大。當所有訊號同時出現,代表可能有真正的機構資金流入,而非隨機的價格波動。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.7% and the S&P 500 down 0.5%, reflecting a broadly neutral, low-conviction trading session rather than any single catalyst-driven move. Without a clear risk-on or risk-off trigger, institutional participation appears muted across the screened candidates, none of which showed the volume confirmation typically associated with strong follow-through. This kind of quiet, directionless day is common between larger market-moving events.",
-    "summary_zh": "今日大市普遍偏軟，納斯達克指數下跌0.7%，標普500指數下跌0.5%，反映市場處於中性、低動能的交易日，並非由單一重大消息驅動。由於缺乏明確嘅風險偏好或避險訊號，篩選出嚟嘅候選股份都未見成交量顯著放大，難以確認機構資金積極參與。呢類波動不大、方向不明嘅交易日喺重大市場事件之間頗為常見。",
+    "summary_en": "Both the NASDAQ and S&P 500 drifted slightly lower today, a modest pullback rather than a decisive move in either direction. No major catalyst news was available in today's feed to pin the decline on a single event, so this looks like routine consolidation after recent gains. With no strong risk-on signal, we stayed selective on new positions rather than chasing the broader tape.",
+    "summary_zh": "納指及標普500今日皆小幅回落，屬溫和整理而非明確轉向。今日資訊來源中沒有重大消息可解釋跌幅成因，較可能是近期升勢後的正常整固。由於缺乏強烈的風險偏好信號，我們在新增持倉上維持審慎，未有盲目追入。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "BFLY",
+      "conviction": "high",
+      "reasoning": "Only candidate with full 4-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge), indicating genuine institutional buying despite a neutral broader market."
+    }
+  ],
   "outcomes": {
     "total_value": 14255.735246181488,
     "cash": 689.2850012779236,
