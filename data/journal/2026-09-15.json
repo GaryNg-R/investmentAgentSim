@@ -1,24 +1,17 @@
 {
   "date": "2026-09-15",
-  "briefing": "Markets were neutral today with NASDAQ -0.8% and S&P 500 -0.6%, no broad risk-on or risk-off signal. Existing positions were held since there's no reason to exit strong names on a quiet day, and we deployed part of the available cash into TALO, the one candidate with complete multi-signal confirmation including a volume surge. Two of three open slots remain unfilled, keeping dry powder for a stronger risk-on setup.",
+  "briefing": "Market is neutral today (NASDAQ -0.7%, S&P 500 -0.5%), and while several candidates (FPS, RIG, VAL, DK) score well on RSI/MACD/SMA signals, none show a confirmed volume surge, and the strategy memory advises against forcing buys on neutral days. Holding all 7 existing positions and keeping cash in reserve until a genuine risk-on setup (NASDAQ +2% or more) appears.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means a price move is accompanied by higher-than-normal trading volume, which suggests real institutional participation rather than random noise. TALO stood out today because it combined a volume surge with bullish RSI, a MACD crossover, and price above its moving average — all pointing the same direction at once.",
-    "explanation_zh": "「成交量確認」是指價格變動伴隨著明顯高於平常的成交量，顯示背後有真正的機構資金參與，而非隨機雜訊。今日TALO之所以突出，是因為它同時出現成交量暴增、RSI處於偏多區間、MACD黃金交叉，以及股價站上均線——多項訊號同步指向同一方向。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' or neutral market day is when investors show no strong conviction in either direction, often leading to sideways price action. On days like this, disciplined investors avoid forcing new trades just to deploy cash, instead waiting for clearer signals of strength before committing more capital.",
+    "explanation_zh": "「避險」或中性市況係指投資者對後市方向缺乏明確信心，令股價傾向橫行整理。喺呢種日子，有紀律嘅投資者唔會為咗用盡現金而勉強落飛，反而會耐心等待更清晰嘅強勢訊號先再加碼。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 slipped modestly today, a broad-based pullback rather than a reaction to any single catalyst. Without a clear risk-on or risk-off trigger, most stocks drifted lower together in a typical neutral, low-conviction session. In quiet sessions like this, individual stock setups with strong technical confirmation stand out more than the overall market direction.",
-    "summary_zh": "今日納斯達克及標普500指數均溫和下跌，屬於較廣泛的整體回調，並非單一事件所觸發。市場缺乏明確的risk-on（風險偏好）或risk-off（避險）訊號，大部分股票在低動能、方向不明的交投中同步走弱。在這種平淡的交易日，個別股票若出現強勁技術指標確認，反而比大盤走勢更值得留意。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.7% and the S&P 500 down 0.5%, reflecting a broadly neutral, low-conviction trading session rather than any single catalyst-driven move. Without a clear risk-on or risk-off trigger, institutional participation appears muted across the screened candidates, none of which showed the volume confirmation typically associated with strong follow-through. This kind of quiet, directionless day is common between larger market-moving events.",
+    "summary_zh": "今日大市普遍偏軟，納斯達克指數下跌0.7%，標普500指數下跌0.5%，反映市場處於中性、低動能的交易日，並非由單一重大消息驅動。由於缺乏明確嘅風險偏好或避險訊號，篩選出嚟嘅候選股份都未見成交量顯著放大，難以確認機構資金積極參與。呢類波動不大、方向不明嘅交易日喺重大市場事件之間頗為常見。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "TALO",
-      "conviction": "high",
-      "reasoning": "Only candidate showing full five-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge), indicating genuine institutional buying despite the broader neutral tape."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14255.735246181488,
     "cash": 689.2850012779236,
