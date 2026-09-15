@@ -1,14 +1,14 @@
 {
   "date": "2026-09-15",
-  "briefing": "Markets drifted slightly lower today (NASDAQ -0.8%, S&P 500 -0.4%), a neutral-to-soft session without the strong risk-on confirmation (e.g. NASDAQ +2%+) that past lessons say should trigger deploying cash. With 3 open slots and $689 cash available, we're holding rather than forcing a buy, and letting existing positions ride on their automatic stop-loss/profit-target rules.",
+  "briefing": "Markets were mildly negative today with NASDAQ down 0.8% and the S&P 500 down 0.4% — a neutral-to-soft session, not the risk-on setup we look for before deploying fresh cash. Per the lesson from late June, we're holding the current 7 positions and keeping the $689 cash on the sidelines rather than forcing a buy into open slots on a down day.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A risk-off day is when investors become more cautious and avoid adding new risk, even if it means leaving cash on the sidelines. Today's mild market weakness didn't provide the multi-signal bullish confirmation (like a strong NASDAQ rally) needed to justify new buys, so patience — not idle cash — is the disciplined choice.",
-    "explanation_zh": "「風險趨避」（Risk-Off）是指投資人變得較為謹慎，即使因此持有現金也不願承擔新的風險。今日大盤僅小幅走弱，並未出現足夠的多重技術訊號（例如納斯達克強勁上漲）來確認買入時機，因此保持耐心觀望，而非急於動用現金，才是較為審慎的做法。"
+    "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like growth stocks, even without a single dramatic news event — it's often just a shift in mood or profit-taking. On days like this, disciplined investors avoid chasing new trades and instead protect the gains they already have.",
+    "explanation_zh": "「風險偏好回落」（Risk-Off）指投資者普遍減少持有較高風險的資產（例如成長股），即使沒有單一重大新聞事件，也可能只是市場情緒轉變或獲利回吐所致。在這種日子，有紀律的投資者會避免追高新倉，而是專注保護已有的獲利。"
   },
   "market_education": {
-    "summary_en": "Broad indices slipped modestly today, with the NASDAQ underperforming the S&P 500, suggesting some rotation out of higher-beta growth names. No single dominant catalyst is evident from today's screen data, consistent with a quiet, digestive trading session rather than a directional move. Without clear news-driven momentum, staying defensive and avoiding forced trades is the more disciplined approach.",
-    "summary_zh": "今日大盤普遍小幅走弱，納斯達克指數跌幅大於標普500指數，反映資金可能從高波動的成長股中撤出。從今日的篩選數據來看，並未出現明顯的單一觸發因素，較符合觀望整理的交易日,而非明確的方向性走勢。在缺乏新聞面驅動動能的情況下，保持防守姿態、避免強行進場會是較審慎的做法。",
+    "summary_en": "No major single catalyst stood out today; the modest pullback in NASDAQ (-0.8%) and S&P 500 (-0.4%) looks like a broad, low-conviction risk-off drift rather than a reaction to one specific headline. Several candidates like SWKS, QRVO, and SDRL still show strong individual technical setups, but a soft overall tape argues for patience over chasing new entries. We'll wait for a clearer risk-on signal (e.g., a NASDAQ move of +2% or more) before adding to the portfolio.",
+    "summary_zh": "今日並無單一重大消息主導市場，NASDAQ下跌0.8%、S&P 500下跌0.4%，屬於較廣泛、缺乏明確方向的溫和風險偏好回落，而非針對某則新聞的反應。雖然SWKS、QRVO、SDRL等個股技術面仍然強勁，但大盤氣氛偏弱，此時追高新倉並不划算，較穩健的做法是耐心等待更明確的風險偏好回升訊號（例如NASDAQ單日漲幅達2%以上）才進場。",
     "sources": []
   },
   "trades": [],
