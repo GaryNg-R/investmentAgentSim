@@ -1,34 +1,22 @@
 {
   "date": "2026-09-15",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.2%, S&P 500 -0.2%), but three candidates — FPS, QCOM, and DAVE — showed full multi-signal technical confirmation (bullish RSI, MACD crossover, rising momentum, price above SMA-20, and volume surge). With $689 in cash and 3 open slots, we deployed into these high-conviction setups rather than holding idle cash, while leaving existing positions untouched to let stop-loss/profit-target rules work automatically.",
+  "briefing": "Markets were neutral today with NASDAQ -0.8% and S&P 500 -0.6%, no broad risk-on or risk-off signal. Existing positions were held since there's no reason to exit strong names on a quiet day, and we deployed part of the available cash into TALO, the one candidate with complete multi-signal confirmation including a volume surge. Two of three open slots remain unfilled, keeping dry powder for a stronger risk-on setup.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Relying on a single indicator like RSI or MACD alone can produce false signals, but when RSI, MACD, price-vs-moving-average, and trading volume all point the same direction, the odds of a genuine move increase significantly. This is why today's buys were chosen only from candidates showing all four signals together, even though the broader market was flat.",
-    "explanation_zh": "單靠RSI或MACD等單一指標判斷,容易出現假訊號;但當RSI、MACD、股價與均線關係,以及成交量同時發出一致訊號時,真實升勢的機會率會大幅提高。這正是今日在大盤持平的情況下,仍選擇同時符合四項技術訊號的股票作為買入對象的原因。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means a price move is accompanied by higher-than-normal trading volume, which suggests real institutional participation rather than random noise. TALO stood out today because it combined a volume surge with bullish RSI, a MACD crossover, and price above its moving average — all pointing the same direction at once.",
+    "explanation_zh": "「成交量確認」是指價格變動伴隨著明顯高於平常的成交量，顯示背後有真正的機構資金參與，而非隨機雜訊。今日TALO之所以突出，是因為它同時出現成交量暴增、RSI處於偏多區間、MACD黃金交叉，以及股價站上均線——多項訊號同步指向同一方向。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted slightly lower today in quiet, directionless trading, with NASDAQ and S&P 500 both down about 0.2%. Despite the flat overall tape, a handful of individual stocks bucked the trend with strong volume-backed breakouts. This kind of stock-specific strength during an otherwise neutral market session often reflects company-level catalysts rather than macro sentiment.",
-    "summary_zh": "今日大盤走勢平淡,納指及標普500指數均下跌約0.2%,市場缺乏明確方向。不過在大盤持平之際,部分個股卻逆勢造好,伴隨成交量放大突破。這種在中性市況下出現的個股強勢,通常反映個別公司層面的利好因素,而非宏觀情緒帶動。",
+    "summary_en": "Both the NASDAQ and S&P 500 slipped modestly today, a broad-based pullback rather than a reaction to any single catalyst. Without a clear risk-on or risk-off trigger, most stocks drifted lower together in a typical neutral, low-conviction session. In quiet sessions like this, individual stock setups with strong technical confirmation stand out more than the overall market direction.",
+    "summary_zh": "今日納斯達克及標普500指數均溫和下跌，屬於較廣泛的整體回調，並非單一事件所觸發。市場缺乏明確的risk-on（風險偏好）或risk-off（避險）訊號，大部分股票在低動能、方向不明的交投中同步走弱。在這種平淡的交易日，個別股票若出現強勁技術指標確認，反而比大盤走勢更值得留意。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FPS",
+      "ticker": "TALO",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) makes this the top-scored candidate for filling an open slot."
-    },
-    {
-      "action": "BUY",
-      "ticker": "QCOM",
-      "conviction": "high",
-      "reasoning": "Same complete multi-signal confirmation as top candidates plus large-cap stability, fitting an open slot with idle cash above the $500 threshold."
-    },
-    {
-      "action": "BUY",
-      "ticker": "DAVE",
-      "conviction": "high",
-      "reasoning": "Highest price momentum with all four confirmation signals present, rounding out the three open portfolio slots."
+      "reasoning": "Only candidate showing full five-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge), indicating genuine institutional buying despite the broader neutral tape."
     }
   ],
   "outcomes": {
