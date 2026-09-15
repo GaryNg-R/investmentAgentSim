@@ -1,34 +1,34 @@
 {
   "date": "2026-09-15",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.6%, S&P 500 -0.5%), a neutral session with no broad risk-on or risk-off signal. With cash well above our deployment threshold and 3 open slots, we filled them with GWRE, QLYS, and SAIL — the only candidates showing all four confirmation signals (RSI in bullish range, MACD crossover, price above SMA-20, and volume surge) indicating genuine institutional buying rather than noise.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.2%, S&P 500 -0.2%), but three candidates — FPS, QCOM, and DAVE — showed full multi-signal technical confirmation (bullish RSI, MACD crossover, rising momentum, price above SMA-20, and volume surge). With $689 in cash and 3 open slots, we deployed into these high-conviction setups rather than holding idle cash, while leaving existing positions untouched to let stop-loss/profit-target rules work automatically.",
   "daily_lesson": {
     "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only buying a stock when several independent technical indicators — like RSI, MACD crossover, price versus moving average, and volume — all point the same bullish direction at once. This reduces the chance of chasing a random price spike and increases confidence that real buying interest (often institutional) is behind the move.",
-    "explanation_zh": "多重訊號確認是指只有在多個獨立技術指標(例如RSI、MACD黃金交叉、股價與均線關係,以及成交量)同時發出看漲訊號時才買入。這樣可以減少追逐隨機價格波動的風險,並提高信心,確認背後有真實(通常是機構)買盤支持。"
+    "explanation_en": "Relying on a single indicator like RSI or MACD alone can produce false signals, but when RSI, MACD, price-vs-moving-average, and trading volume all point the same direction, the odds of a genuine move increase significantly. This is why today's buys were chosen only from candidates showing all four signals together, even though the broader market was flat.",
+    "explanation_zh": "單靠RSI或MACD等單一指標判斷,容易出現假訊號;但當RSI、MACD、股價與均線關係,以及成交量同時發出一致訊號時,真實升勢的機會率會大幅提高。這正是今日在大盤持平的情況下,仍選擇同時符合四項技術訊號的股票作為買入對象的原因。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.6% and the S&P 500 down 0.5%, consistent with a quiet, directionless trading session rather than any specific catalyst. No major news events were available in today's feed to explain the modest pullback. Overall the move looks like routine consolidation after recent gains rather than a shift in market sentiment.",
-    "summary_zh": "大市今日略為向下,納指下跌0.6%,標普500指數下跌0.5%,反映市場交投淡靜、缺乏明確方向,並非受特定事件觸發。今日未有重大新聞可解釋此輕微回落。整體而言,這波動看似只是近期升勢後的正常整固,而非市場情緒的根本轉變。",
+    "summary_en": "Broad indices drifted slightly lower today in quiet, directionless trading, with NASDAQ and S&P 500 both down about 0.2%. Despite the flat overall tape, a handful of individual stocks bucked the trend with strong volume-backed breakouts. This kind of stock-specific strength during an otherwise neutral market session often reflects company-level catalysts rather than macro sentiment.",
+    "summary_zh": "今日大盤走勢平淡,納指及標普500指數均下跌約0.2%,市場缺乏明確方向。不過在大盤持平之際,部分個股卻逆勢造好,伴隨成交量放大突破。這種在中性市況下出現的個股強勢,通常反映個別公司層面的利好因素,而非宏觀情緒帶動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "GWRE",
+      "ticker": "FPS",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (RSI 59.4 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) signals institutional buying with room before overbought."
+      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) makes this the top-scored candidate for filling an open slot."
     },
     {
       "action": "BUY",
-      "ticker": "QLYS",
+      "ticker": "QCOM",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (RSI 61.6, MACD bullish crossover, price above SMA-20, volume surge) matches the institutional-participation setup we require for high conviction."
+      "reasoning": "Same complete multi-signal confirmation as top candidates plus large-cap stability, fitting an open slot with idle cash above the $500 threshold."
     },
     {
       "action": "BUY",
-      "ticker": "SAIL",
+      "ticker": "DAVE",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (RSI 65.6, MACD bullish crossover, price above SMA-20, volume surge) fills our last open slot with a genuinely confirmed setup rather than idle cash."
+      "reasoning": "Highest price momentum with all four confirmation signals present, rounding out the three open portfolio slots."
     }
   ],
   "outcomes": {
