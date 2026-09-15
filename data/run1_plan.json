@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-09-14T21:01:19.766976+00:00",
+  "saved_at": "2026-09-15T13:00:55.663380+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "QLYS",
+        "ticker": "GWRE",
         "conviction": "high",
-        "reasoning": "Full four-signal confirmation (RSI 61.6 bullish, MACD bullish crossover, price above SMA-20, volume surge) with healthy RSI headroom before overbought."
+        "reasoning": "Full four-signal confirmation (RSI 59.4 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) signals institutional buying with room before overbought."
       },
       {
         "action": "BUY",
-        "ticker": "GWRE",
+        "ticker": "QLYS",
         "conviction": "high",
-        "reasoning": "Full four-signal confirmation with the lowest RSI (59.4) among top candidates, indicating the most room to run before overbought."
+        "reasoning": "Full four-signal confirmation (RSI 61.6, MACD bullish crossover, price above SMA-20, volume surge) matches the institutional-participation setup we require for high conviction."
       },
       {
         "action": "BUY",
         "ticker": "SAIL",
-        "conviction": "medium",
-        "reasoning": "Full four-signal confirmation (RSI 65.6, MACD crossover, price above SMA-20, volume surge) fills the third open slot per the risk-rule preference to deploy idle cash above $500 with open slots available."
+        "conviction": "high",
+        "reasoning": "Full four-signal confirmation (RSI 65.6, MACD bullish crossover, price above SMA-20, volume surge) fills our last open slot with a genuinely confirmed setup rather than idle cash."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Broad market was mildly negative today (NASDAQ -0.6%, S&P 500 -0.5%) but several security/software names showed strong institutional-grade technical setups with all four confirmation signals (RSI, MACD crossover, price above SMA-20, volume surge). With 3 open slots and cash above the $500 threshold, we filled them with the highest-quality confirmed setups rather than holding idle cash, while leaving the 7 existing winning positions untouched.",
+    "briefing": "Markets were roughly flat today (NASDAQ -0.6%, S&P 500 -0.5%), a neutral session with no broad risk-on or risk-off signal. With cash well above our deployment threshold and 3 open slots, we filled them with GWRE, QLYS, and SAIL \u2014 the only candidates showing all four confirmation signals (RSI in bullish range, MACD crossover, price above SMA-20, and volume surge) indicating genuine institutional buying rather than noise.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.6% and the S&P 500 down 0.5%, reflecting a broadly neutral, low-conviction session rather than any sharp risk-off move. Beneath the flat index-level performance, a pocket of software and cybersecurity stocks (QLYS, GWRE, SAIL) bucked the trend with strong volume-backed momentum, showing that stock-picking opportunities can exist even when the overall market is directionless. No major market-moving headlines were available for today's session.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u8f15\u5fae\u504f\u5f31\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.5%\uff0c\u53cd\u6620\u5e02\u5834\u8655\u65bc\u4e2d\u6027\u3001\u89c0\u671b\u6c23\u6c1b,\u800c\u975e\u660e\u986f\u7684\u98a8\u96aa\u898f\u907f\u884c\u60c5\u3002\u4e0d\u904e\u5728\u6307\u6578\u5e73\u6de1\u7684\u8868\u73fe\u80cc\u5f8c\uff0c\u90e8\u5206\u8edf\u4ef6\u53ca\u7db2\u7d61\u5b89\u5168\u80a1\uff08QLYS\u3001GWRE\u3001SAIL\uff09\u9006\u52e2\u8d70\u5f37\uff0c\u4e26\u4f34\u96a8\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u986f\u793a\u5373\u4f7f\u5927\u76e4\u7f3a\u4e4f\u65b9\u5411\uff0c\u500b\u80a1\u9078\u80a1\u6a5f\u6703\u4f9d\u7136\u5b58\u5728\u3002\u4eca\u65e5\u66ab\u7121\u91cd\u5927\u5e02\u5834\u6d88\u606f\u53ef\u4f9b\u5f15\u7528\u3002",
+      "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.6% and the S&P 500 down 0.5%, consistent with a quiet, directionless trading session rather than any specific catalyst. No major news events were available in today's feed to explain the modest pullback. Overall the move looks like routine consolidation after recent gains rather than a shift in market sentiment.",
+      "summary_zh": "\u5927\u5e02\u4eca\u65e5\u7565\u70ba\u5411\u4e0b,\u7d0d\u6307\u4e0b\u8dcc0.6%,\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.5%,\u53cd\u6620\u5e02\u5834\u4ea4\u6295\u6de1\u975c\u3001\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411,\u4e26\u975e\u53d7\u7279\u5b9a\u4e8b\u4ef6\u89f8\u767c\u3002\u4eca\u65e5\u672a\u6709\u91cd\u5927\u65b0\u805e\u53ef\u89e3\u91cb\u6b64\u8f15\u5fae\u56de\u843d\u3002\u6574\u9ad4\u800c\u8a00,\u9019\u6ce2\u52d5\u770b\u4f3c\u53ea\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u6b63\u5e38\u6574\u56fa,\u800c\u975e\u5e02\u5834\u60c5\u7dd2\u7684\u6839\u672c\u8f49\u8b8a\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Multi-Signal Confirmation",
-      "explanation_en": "Instead of buying on a single bullish signal, professional traders often wait for several indicators to align \u2014 like RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a volume surge \u2014 before committing capital. When multiple signals confirm each other, it suggests real institutional buying interest rather than random noise, which lowers the risk of a false breakout.",
-      "explanation_zh": "\u5c08\u696d\u4ea4\u6613\u8005\u901a\u5e38\u4e0d\u6703\u53ea\u6191\u55ae\u4e00\u5229\u597d\u8a0a\u865f\u5c31\u9032\u5834\uff0c\u800c\u662f\u7b49\u5f85\u591a\u500b\u6307\u6a19\u540c\u6642\u78ba\u8a8d\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u5176\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u624d\u6703\u6295\u5165\u8cc7\u91d1\u3002\u7576\u591a\u500b\u8a0a\u865f\u4e92\u76f8\u5370\u8b49\u6642\uff0c\u5f80\u5f80\u4ee3\u8868\u80cc\u5f8c\u6709\u771f\u5be6\u7684\u6a5f\u69cb\u8cb7\u76e4\u652f\u6301\uff0c\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\uff0c\u5f9e\u800c\u964d\u4f4e\u300c\u5047\u7a81\u7834\u300d\u7684\u98a8\u96aa\u3002"
+      "explanation_en": "Multi-signal confirmation means only buying a stock when several independent technical indicators \u2014 like RSI, MACD crossover, price versus moving average, and volume \u2014 all point the same bullish direction at once. This reduces the chance of chasing a random price spike and increases confidence that real buying interest (often institutional) is behind the move.",
+      "explanation_zh": "\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u6709\u5728\u591a\u500b\u7368\u7acb\u6280\u8853\u6307\u6a19(\u4f8b\u5982RSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u8207\u5747\u7dda\u95dc\u4fc2,\u4ee5\u53ca\u6210\u4ea4\u91cf)\u540c\u6642\u767c\u51fa\u770b\u6f32\u8a0a\u865f\u6642\u624d\u8cb7\u5165\u3002\u9019\u6a23\u53ef\u4ee5\u6e1b\u5c11\u8ffd\u9010\u96a8\u6a5f\u50f9\u683c\u6ce2\u52d5\u7684\u98a8\u96aa,\u4e26\u63d0\u9ad8\u4fe1\u5fc3,\u78ba\u8a8d\u80cc\u5f8c\u6709\u771f\u5be6(\u901a\u5e38\u662f\u6a5f\u69cb)\u8cb7\u76e4\u652f\u6301\u3002"
     }
   }
 }
