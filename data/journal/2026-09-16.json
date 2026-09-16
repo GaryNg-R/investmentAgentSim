@@ -1,22 +1,28 @@
 {
   "date": "2026-09-16",
-  "briefing": "Markets were mildly positive today with NASDAQ +0.8% and S&P 500 +0.4% — a neutral-to-slightly-bullish tape, not a strong risk-on signal. With $689 in cash and 3 open slots, we deployed into ARQT, the single candidate showing full multi-signal confirmation including a volume surge, while holding the rest of the portfolio unchanged.",
+  "briefing": "Markets were neutral today (NASDAQ +0.8%, S&P 500 +0.4%). With 3 open portfolio slots and cash above the $500 threshold, we deployed into the two strongest momentum candidates, PBLS and CIFR, while leaving one slot and reserve cash for a stronger risk-on signal.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Relying on a single indicator, like RSI or MACD alone, can generate false signals. Combining several — RSI in a bullish range, a MACD crossover, price above a moving average, and a volume surge — gives much stronger evidence that a stock's move is backed by real buying interest rather than noise.",
-    "explanation_zh": "只依賴單一指標（例如RSI或MACD）容易產生錯誤信號。將多個指標結合——RSI處於偏好區間、MACD黃金交叉、股價高於移動平均線，以及成交量放大——能更有力地證明股價上升是由真實買盤支持，而非隨機波動。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that stocks moving up tend to keep moving up in the near term. Today's buys (PBLS and CIFR) were chosen because they showed multiple technical signals — like RSI in a healthy bullish range and a bullish MACD crossover — all pointing the same direction at once.",
+    "explanation_zh": "動量投資（Momentum Investing）是指買入已經處於上升趨勢的股票，其理念是股價上升的動力短期內往往會延續。今日買入的PBLS和CIFR，正是因為同時出現多個技術指標訊號——例如RSI處於健康的看漲區間，以及MACD出現黃金交叉——全部方向一致，因此被視為具吸引力的買入機會。"
   },
   "market_education": {
-    "summary_en": "Broad indices posted modest gains today, with the S&P 500 up 0.4% and the NASDAQ up 0.8%, reflecting a steady but unspectacular session without a dominant catalyst. Trading stayed within a narrow range as investors weighed mixed signals rather than reacting to a single major headline. Momentum names in tech and industrials, such as ARQT, showed standout volume-backed strength relative to the broader tape.",
-    "summary_zh": "今日大市溫和上揚，標普500指數升0.4%，納斯達克指數升0.8%，走勢平穩但缺乏明顯的主導消息。投資者在缺乏重大單一利好或利淡消息下觀望，大市維持窄幅波動。個別科技及工業類股如ARQT則錄得成交量明顯放大，走勢相對大市更為強勢。",
+    "summary_en": "Today's market action was mild and broadly positive, with the NASDAQ up 0.8% and the S&P 500 up 0.4%, reflecting a steady but unremarkable trading session rather than any major catalyst-driven move. No standout headlines were available in today's feed to explain the modest gains, so this appears to be routine drift within a generally healthy market backdrop. Investors seem to be in a wait-and-see mode rather than reacting to any single piece of news.",
+    "summary_zh": "今日大市表現溫和偏好，納斯達克指數上升0.8%，標普500指數上升0.4%，反映市場處於平穩交投，並未見有重大催化因素帶動大幅波動。今日資訊中未有特別突出的新聞頭條可解釋今次的溫和升幅，顯示這只是大市在健康格局下的一般波動。投資者似乎採取觀望態度，未有因單一消息而作出重大反應。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ARQT",
+      "ticker": "PBLS",
       "conviction": "high",
-      "reasoning": "ARQT is the only candidate with full signal confirmation — RSI 69.2 in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge indicating institutional participation."
+      "reasoning": "Only candidate with full multi-signal confirmation (RSI bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge), meeting the strategy memory's bar for high-conviction entries."
+    },
+    {
+      "action": "BUY",
+      "ticker": "CIFR",
+      "conviction": "medium",
+      "reasoning": "Second-highest scoring candidate with RSI in the bullish zone, bullish MACD crossover, and price above SMA-20, offering diversification away from existing chip/ETF-heavy holdings."
     }
   ],
   "outcomes": {
