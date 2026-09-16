@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-09-16T14:00:50.393487+00:00",
+  "saved_at": "2026-09-16T15:01:04.568989+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "INTC",
-        "conviction": "medium",
-        "reasoning": "All four bullish signals align (RSI 57.1, MACD crossover, price above SMA-20, volume surge) with cash above the $500 deployment threshold and open slots available."
+        "ticker": "ARQT",
+        "conviction": "high",
+        "reasoning": "ARQT is the only candidate with full signal confirmation \u2014 RSI 69.2 in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge indicating institutional participation."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were mildly positive today with NASDAQ +0.7% and S&P 500 +0.4%, a neutral-to-slightly-bullish tone. With $689 in cash and 3 open slots, we deployed a modest medium-conviction position into INTC, which shows full multi-signal confirmation, while leaving existing winners untouched.",
+    "briefing": "Markets were mildly positive today with NASDAQ +0.8% and S&P 500 +0.4% \u2014 a neutral-to-slightly-bullish tape, not a strong risk-on signal. With $689 in cash and 3 open slots, we deployed into ARQT, the single candidate showing full multi-signal confirmation including a volume surge, while holding the rest of the portfolio unchanged.",
     "market_education": {
-      "summary_en": "Major indices posted modest gains today, with the NASDAQ up 0.7% and the S&P 500 up 0.4%, reflecting a calm, low-volatility session rather than any major catalyst-driven move. Trading stayed range-bound as investors digested recent economic data without a clear directional signal. This kind of quiet grind-higher session often reflects steady buying interest rather than dramatic news flow.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c,\u7d0d\u6307\u4e0a\u6f320.7%,\u6a19\u666e500\u4e0a\u6f320.4%,\u5c6c\u65bc\u4f4e\u6ce2\u52d5\u7684\u5e73\u7a69\u4ea4\u6613\u65e5,\u4e26\u672a\u898b\u5230\u660e\u986f\u7684\u50ac\u5316\u6d88\u606f\u3002\u5e02\u5834\u5728\u5340\u9593\u5167\u6574\u7406,\u6295\u8cc7\u8005\u6301\u7e8c\u6d88\u5316\u8fd1\u671f\u7d93\u6fdf\u6578\u64da,\u672a\u898b\u660e\u78ba\u65b9\u5411\u6027\u8a0a\u865f\u3002\u9019\u7a2e\u7de9\u6b65\u4e0a\u63da\u7684\u8d70\u52e2,\u901a\u5e38\u53cd\u6620\u7a69\u5b9a\u7684\u8cb7\u76e4\u652f\u6490,\u800c\u975e\u53d7\u91cd\u5927\u65b0\u805e\u9a45\u52d5\u3002",
+      "summary_en": "Broad indices posted modest gains today, with the S&P 500 up 0.4% and the NASDAQ up 0.8%, reflecting a steady but unspectacular session without a dominant catalyst. Trading stayed within a narrow range as investors weighed mixed signals rather than reacting to a single major headline. Momentum names in tech and industrials, such as ARQT, showed standout volume-backed strength relative to the broader tape.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u4e0a\u63da\uff0c\u6a19\u666e500\u6307\u6578\u53470.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53470.8%\uff0c\u8d70\u52e2\u5e73\u7a69\u4f46\u7f3a\u4e4f\u660e\u986f\u7684\u4e3b\u5c0e\u6d88\u606f\u3002\u6295\u8cc7\u8005\u5728\u7f3a\u4e4f\u91cd\u5927\u55ae\u4e00\u5229\u597d\u6216\u5229\u6de1\u6d88\u606f\u4e0b\u89c0\u671b\uff0c\u5927\u5e02\u7dad\u6301\u7a84\u5e45\u6ce2\u52d5\u3002\u500b\u5225\u79d1\u6280\u53ca\u5de5\u696d\u985e\u80a1\u5982ARQT\u5247\u9304\u5f97\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\uff0c\u8d70\u52e2\u76f8\u5c0d\u5927\u5e02\u66f4\u70ba\u5f37\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like price above moving averages, rising MACD, and healthy RSI levels. The idea is that stocks showing strong recent performance and volume tend to keep moving in that direction in the near term.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5448\u73fe\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u4f9d\u64da\u50f9\u683c\u9ad8\u65bc\u5747\u7dda\u3001MACD\u5411\u4e0a\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u7b49\u8a0a\u865f\u9032\u884c\u5224\u65b7\u3002\u5176\u6838\u5fc3\u6982\u5ff5\u662f\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u4e14\u6210\u4ea4\u91cf\u653e\u5927\u7684\u80a1\u7968,\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u539f\u672c\u7684\u8d70\u52e2\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Relying on a single indicator, like RSI or MACD alone, can generate false signals. Combining several \u2014 RSI in a bullish range, a MACD crossover, price above a moving average, and a volume surge \u2014 gives much stronger evidence that a stock's move is backed by real buying interest rather than noise.",
+      "explanation_zh": "\u53ea\u4f9d\u8cf4\u55ae\u4e00\u6307\u6a19\uff08\u4f8b\u5982RSI\u6216MACD\uff09\u5bb9\u6613\u7522\u751f\u932f\u8aa4\u4fe1\u865f\u3002\u5c07\u591a\u500b\u6307\u6a19\u7d50\u5408\u2014\u2014RSI\u8655\u65bc\u504f\u597d\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u80fd\u66f4\u6709\u529b\u5730\u8b49\u660e\u80a1\u50f9\u4e0a\u5347\u662f\u7531\u771f\u5be6\u8cb7\u76e4\u652f\u6301\uff0c\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002"
     }
   }
 }

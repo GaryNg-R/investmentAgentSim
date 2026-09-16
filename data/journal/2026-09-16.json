@@ -1,22 +1,22 @@
 {
   "date": "2026-09-16",
-  "briefing": "Markets were mildly positive today with NASDAQ +0.7% and S&P 500 +0.4%, a neutral-to-slightly-bullish tone. With $689 in cash and 3 open slots, we deployed a modest medium-conviction position into INTC, which shows full multi-signal confirmation, while leaving existing winners untouched.",
+  "briefing": "Markets were mildly positive today with NASDAQ +0.8% and S&P 500 +0.4% — a neutral-to-slightly-bullish tape, not a strong risk-on signal. With $689 in cash and 3 open slots, we deployed into ARQT, the single candidate showing full multi-signal confirmation including a volume surge, while holding the rest of the portfolio unchanged.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like price above moving averages, rising MACD, and healthy RSI levels. The idea is that stocks showing strong recent performance and volume tend to keep moving in that direction in the near term.",
-    "explanation_zh": "動能投資是指買入已經呈現上升趨勢的股票,依據價格高於均線、MACD向上、RSI處於健康區間等訊號進行判斷。其核心概念是近期表現強勁且成交量放大的股票,短期內往往會延續原本的走勢。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Relying on a single indicator, like RSI or MACD alone, can generate false signals. Combining several — RSI in a bullish range, a MACD crossover, price above a moving average, and a volume surge — gives much stronger evidence that a stock's move is backed by real buying interest rather than noise.",
+    "explanation_zh": "只依賴單一指標（例如RSI或MACD）容易產生錯誤信號。將多個指標結合——RSI處於偏好區間、MACD黃金交叉、股價高於移動平均線，以及成交量放大——能更有力地證明股價上升是由真實買盤支持，而非隨機波動。"
   },
   "market_education": {
-    "summary_en": "Major indices posted modest gains today, with the NASDAQ up 0.7% and the S&P 500 up 0.4%, reflecting a calm, low-volatility session rather than any major catalyst-driven move. Trading stayed range-bound as investors digested recent economic data without a clear directional signal. This kind of quiet grind-higher session often reflects steady buying interest rather than dramatic news flow.",
-    "summary_zh": "今日大盤走勢溫和,納指上漲0.7%,標普500上漲0.4%,屬於低波動的平穩交易日,並未見到明顯的催化消息。市場在區間內整理,投資者持續消化近期經濟數據,未見明確方向性訊號。這種緩步上揚的走勢,通常反映穩定的買盤支撐,而非受重大新聞驅動。",
+    "summary_en": "Broad indices posted modest gains today, with the S&P 500 up 0.4% and the NASDAQ up 0.8%, reflecting a steady but unspectacular session without a dominant catalyst. Trading stayed within a narrow range as investors weighed mixed signals rather than reacting to a single major headline. Momentum names in tech and industrials, such as ARQT, showed standout volume-backed strength relative to the broader tape.",
+    "summary_zh": "今日大市溫和上揚，標普500指數升0.4%，納斯達克指數升0.8%，走勢平穩但缺乏明顯的主導消息。投資者在缺乏重大單一利好或利淡消息下觀望，大市維持窄幅波動。個別科技及工業類股如ARQT則錄得成交量明顯放大，走勢相對大市更為強勢。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "INTC",
-      "conviction": "medium",
-      "reasoning": "All four bullish signals align (RSI 57.1, MACD crossover, price above SMA-20, volume surge) with cash above the $500 deployment threshold and open slots available."
+      "ticker": "ARQT",
+      "conviction": "high",
+      "reasoning": "ARQT is the only candidate with full signal confirmation — RSI 69.2 in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge indicating institutional participation."
     }
   ],
   "outcomes": {
