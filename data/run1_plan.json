@@ -1,19 +1,26 @@
 {
-  "saved_at": "2026-09-15T21:00:53.393266+00:00",
+  "saved_at": "2026-09-16T13:00:59.384402+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets were mildly negative today with NASDAQ down 0.8% and the S&P 500 down 0.4% \u2014 a neutral-to-soft session, not the risk-on setup we look for before deploying fresh cash. Per the lesson from late June, we're holding the current 7 positions and keeping the $689 cash on the sidelines rather than forcing a buy into open slots on a down day.",
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "SWKS",
+        "conviction": "high",
+        "reasoning": "Top-scored candidate with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) indicating institutional buying despite a neutral broader market."
+      }
+    ],
+    "skip_new_buys": false,
+    "briefing": "Markets were mildly negative today (NASDAQ -0.8%, S&P 500 -0.4%) with no clear risk-on or risk-off signal. Rather than force multiple buys or sit idle with cash above the $500 threshold, we deployed into SWKS, the one candidate showing complete institutional-grade confirmation across all four technical signals. Existing positions were left untouched to let stop-loss and profit-target rules do their job.",
     "market_education": {
-      "summary_en": "No major single catalyst stood out today; the modest pullback in NASDAQ (-0.8%) and S&P 500 (-0.4%) looks like a broad, low-conviction risk-off drift rather than a reaction to one specific headline. Several candidates like SWKS, QRVO, and SDRL still show strong individual technical setups, but a soft overall tape argues for patience over chasing new entries. We'll wait for a clearer risk-on signal (e.g., a NASDAQ move of +2% or more) before adding to the portfolio.",
-      "summary_zh": "\u4eca\u65e5\u4e26\u7121\u55ae\u4e00\u91cd\u5927\u6d88\u606f\u4e3b\u5c0e\u5e02\u5834\uff0cNASDAQ\u4e0b\u8dcc0.8%\u3001S&P 500\u4e0b\u8dcc0.4%\uff0c\u5c6c\u65bc\u8f03\u5ee3\u6cdb\u3001\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u7684\u6eab\u548c\u98a8\u96aa\u504f\u597d\u56de\u843d\uff0c\u800c\u975e\u91dd\u5c0d\u67d0\u5247\u65b0\u805e\u7684\u53cd\u61c9\u3002\u96d6\u7136SWKS\u3001QRVO\u3001SDRL\u7b49\u500b\u80a1\u6280\u8853\u9762\u4ecd\u7136\u5f37\u52c1\uff0c\u4f46\u5927\u76e4\u6c23\u6c1b\u504f\u5f31\uff0c\u6b64\u6642\u8ffd\u9ad8\u65b0\u5009\u4e26\u4e0d\u5212\u7b97\uff0c\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u662f\u8010\u5fc3\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u98a8\u96aa\u504f\u597d\u56de\u5347\u8a0a\u865f\uff08\u4f8b\u5982NASDAQ\u55ae\u65e5\u6f32\u5e45\u90542%\u4ee5\u4e0a\uff09\u624d\u9032\u5834\u3002",
+      "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.8% and the S&P 500 down 0.4%, reflecting a lack of strong directional conviction among investors rather than any single major catalyst. Trading volume was unremarkable across most large-cap names, consistent with a consolidation phase after recent moves. No major news catalysts were provided in today's briefing to explain the modest pullback.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5c0f\u5e45\u8d70\u5f31\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.8%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff0c\u800c\u975e\u53d7\u55ae\u4e00\u91cd\u5927\u4e8b\u4ef6\u5f71\u97ff\u3002\u5927\u90e8\u5206\u5927\u578b\u80a1\u6210\u4ea4\u91cf\u5e73\u6de1\uff0c\u7b26\u5408\u8fd1\u671f\u6f32\u52e2\u5f8c\u7684\u6574\u7406\u683c\u5c40\u3002\u4eca\u65e5\u7c21\u5831\u4e2d\u4e26\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u4e8b\u4ef6\u4f86\u89e3\u91cb\u9019\u6b21\u6eab\u548c\u7684\u56de\u6a94\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like growth stocks, even without a single dramatic news event \u2014 it's often just a shift in mood or profit-taking. On days like this, disciplined investors avoid chasing new trades and instead protect the gains they already have.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u56de\u843d\u300d\uff08Risk-Off\uff09\u6307\u6295\u8cc7\u8005\u666e\u904d\u6e1b\u5c11\u6301\u6709\u8f03\u9ad8\u98a8\u96aa\u7684\u8cc7\u7522\uff08\u4f8b\u5982\u6210\u9577\u80a1\uff09\uff0c\u5373\u4f7f\u6c92\u6709\u55ae\u4e00\u91cd\u5927\u65b0\u805e\u4e8b\u4ef6\uff0c\u4e5f\u53ef\u80fd\u53ea\u662f\u5e02\u5834\u60c5\u7dd2\u8f49\u8b8a\u6216\u7372\u5229\u56de\u5410\u6240\u81f4\u3002\u5728\u9019\u7a2e\u65e5\u5b50\uff0c\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u6703\u907f\u514d\u8ffd\u9ad8\u65b0\u5009\uff0c\u800c\u662f\u5c08\u6ce8\u4fdd\u8b77\u5df2\u6709\u7684\u7372\u5229\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "When several independent technical indicators \u2014 like RSI, MACD, price vs. moving average, and volume \u2014 all point the same bullish direction at once, it's a stronger signal than any single indicator alone, often suggesting real institutional buying rather than random noise. This lets you find good opportunities even when the overall market is flat or slightly down.",
+      "explanation_zh": "\u7576\u591a\u500b\u7368\u7acb\u6280\u8853\u6307\u6a19\uff08\u4f8b\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u8207\u5747\u7dda\u95dc\u4fc2\u3001\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u500b\u770b\u6f32\u65b9\u5411\u6642\uff0c\u9019\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u5177\u8aaa\u670d\u529b\uff0c\u901a\u5e38\u4ee3\u8868\u6a5f\u69cb\u8cc7\u91d1\u771f\u5be6\u8cb7\u5165\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002\u5373\u4f7f\u5927\u76e4\u6301\u5e73\u6216\u7565\u8dcc\uff0c\u4ecd\u80fd\u85c9\u6b64\u627e\u5230\u4e0d\u932f\u7684\u500b\u80a1\u6a5f\u6703\u3002"
     }
   }
 }
