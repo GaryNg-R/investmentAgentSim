@@ -1,28 +1,22 @@
 {
   "date": "2026-09-16",
-  "briefing": "Markets were neutral today (NASDAQ +0.8%, S&P 500 +0.4%). With 3 open portfolio slots and cash above the $500 threshold, we deployed into the two strongest momentum candidates, PBLS and CIFR, while leaving one slot and reserve cash for a stronger risk-on signal.",
+  "briefing": "Market is neutral today (NASDAQ +0.7%, S&P 500 +0.3%) — not a strong risk-on signal, so we're not force-deploying all open slots. With cash above the $500 threshold and a fully-confirmed setup in SEI, we're adding one modest position for diversification while holding the rest of cash in reserve and letting existing positions run.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that stocks moving up tend to keep moving up in the near term. Today's buys (PBLS and CIFR) were chosen because they showed multiple technical signals — like RSI in a healthy bullish range and a bullish MACD crossover — all pointing the same direction at once.",
-    "explanation_zh": "動量投資（Momentum Investing）是指買入已經處於上升趨勢的股票，其理念是股價上升的動力短期內往往會延續。今日買入的PBLS和CIFR，正是因為同時出現多個技術指標訊號——例如RSI處於健康的看漲區間，以及MACD出現黃金交叉——全部方向一致，因此被視為具吸引力的買入機會。"
+    "term": "Diversification",
+    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area (like tech) doesn't sink your whole portfolio. Today's buy in a financial-services name, rather than another semiconductor or tech stock, reduces the portfolio's concentration risk even though tech names still dominate the momentum screen.",
+    "explanation_zh": "分散投資是指將資金分配到不同行業，這樣某一板塊（例如科技股）下跌時不會拖垮整個投資組合。今日選擇買入金融服務類股票，而非再加一隻半導體或科技股，即使動能篩選結果仍以科技股為主，也能降低投資組合的集中風險。"
   },
   "market_education": {
-    "summary_en": "Today's market action was mild and broadly positive, with the NASDAQ up 0.8% and the S&P 500 up 0.4%, reflecting a steady but unremarkable trading session rather than any major catalyst-driven move. No standout headlines were available in today's feed to explain the modest gains, so this appears to be routine drift within a generally healthy market backdrop. Investors seem to be in a wait-and-see mode rather than reacting to any single piece of news.",
-    "summary_zh": "今日大市表現溫和偏好，納斯達克指數上升0.8%，標普500指數上升0.4%，反映市場處於平穩交投，並未見有重大催化因素帶動大幅波動。今日資訊中未有特別突出的新聞頭條可解釋今次的溫和升幅，顯示這只是大市在健康格局下的一般波動。投資者似乎採取觀望態度，未有因單一消息而作出重大反應。",
+    "summary_en": "Major indices posted modest gains today, with the NASDAQ outpacing the S&P 500, consistent with continued mild risk appetite rather than a strong rally. No major market-moving headlines were provided for today's session, so the move looks driven by broad, low-volatility drift rather than a single catalyst. Without confirmed news sources to cite, we're avoiding attributing today's move to any specific event.",
+    "summary_zh": "今日主要指數溫和上漲，納斯達克升幅高於標普500指數，反映市場風險偏好持續但力度不強。目前未有具體重大新聞可解釋今日走勢，看起來較像是低波動的整體漂移而非單一事件驅動。由於沒有可引用的新聞來源，我們不會將今日走勢歸因於特定事件。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "PBLS",
-      "conviction": "high",
-      "reasoning": "Only candidate with full multi-signal confirmation (RSI bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge), meeting the strategy memory's bar for high-conviction entries."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CIFR",
+      "ticker": "SEI",
       "conviction": "medium",
-      "reasoning": "Second-highest scoring candidate with RSI in the bullish zone, bullish MACD crossover, and price above SMA-20, offering diversification away from existing chip/ETF-heavy holdings."
+      "reasoning": "Full four-signal bullish confirmation (MACD crossover, rising histogram, RSI 58.5 in the healthy zone, price above SMA-20) and financial-services exposure diversifies a portfolio currently concentrated in tech/semis."
     }
   ],
   "outcomes": {
