@@ -1,22 +1,22 @@
 {
   "date": "2026-09-16",
-  "briefing": "Markets were mildly positive today (NASDAQ +0.7%, S&P 500 +0.4%) without a clear risk-on catalyst. Rather than forcing capital into weaker setups just to fill open slots, we only added COAG, the one candidate showing full confirmation including a volume surge, and left cash in reserve for the remaining two open slots until a stronger signal appears.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.1%, S&P 500 -0.4%), not a risk-on day, so we're not force-deploying all remaining cash. PGEN stood out as the one candidate with full multi-signal confirmation (momentum, trend, and volume all aligned), so we're adding it with high conviction while holding the rest of our cash and existing positions steady.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "A price move backed by unusually high trading volume is more trustworthy than the same move on light volume, because it suggests real institutional buying rather than a random blip. That's why COAG's volume surge, combined with its other bullish signals, made it stand out from otherwise similar candidates today.",
-    "explanation_zh": "配合異常高成交量的價格上升，比低成交量下的同等升幅更可信，因為這反映有真正的機構資金流入，而非隨機波動。這正是COAG今日在成交量急增配合其他利好訊號下，較其他相似候選股更突出的原因。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of relying on one indicator, strong traders look for several signals to line up together — like RSI, MACD, price trend, and volume — before making a high-conviction bet. When all four agree, it's a much stronger signal than any single one alone, especially on an otherwise quiet market day.",
+    "explanation_zh": "強勢的交易者不會只靠單一指標，而是尋找多個訊號同時出現——例如RSI、MACD、價格趨勢同成交量——先出手落重注。當四個訊號一致時，遠比單一訊號可靠，尤其係喺大市平靜嘅日子更加明顯。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted small gains today, with the S&P 500 up 0.4% and the NASDAQ up 0.7%, suggesting a quiet, low-conviction trading session rather than a decisive move in either direction. No major macro catalyst stood out, so price action largely reflected routine positioning rather than a shift in sentiment. In this kind of environment, it pays to be selective and only add positions that show strong independent confirmation.",
-    "summary_zh": "今日大市溫和上升，標普500指數升0.4%，納指升0.7%，反映市場處於觀望氣氛，未見明顯方向性走勢。今日未有重大宏觀消息帶動，價格變動較大機會源於日常持倉調整，而非市場情緒出現根本轉變。在這種環境下，選股宜審慎，只加倉具備多重技術指標確認的個股。",
+    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.1% and the S&P 500 down 0.4%, a mild pullback rather than a broad risk-off move. Trading was largely rotational, with money shifting between sectors rather than fleeing equities altogether. No major catalyst drove the modest decline, consistent with a market pausing after recent gains.",
+    "summary_zh": "今日大市略為下跌，納指跌0.1%，標普500跌0.4%，屬溫和回調而非全面risk-off。資金似乎在板塊之間輪動，而非大舉撤出股市。今日跌幅未見明顯導火線，較似是市場在近期升勢後稍作喘息。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "COAG",
+      "ticker": "PGEN",
       "conviction": "high",
-      "reasoning": "Highest-scoring candidate with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge) indicating genuine institutional participation, not just a neutral-day drift."
+      "reasoning": "All four confirmation signals align — RSI 69.2 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge — indicating strong institutional participation despite a flat broader market."
     }
   ],
   "outcomes": {
