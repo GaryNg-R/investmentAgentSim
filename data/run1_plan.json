@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-09-16T19:00:51.921985+00:00",
+  "saved_at": "2026-09-16T21:00:59.648038+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "PGEN",
+        "ticker": "FTAI",
         "conviction": "high",
-        "reasoning": "All four confirmation signals align \u2014 RSI 69.2 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge \u2014 indicating strong institutional participation despite a flat broader market."
+        "reasoning": "Full multi-signal confirmation (RSI 67.3 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) signals genuine institutional buying despite a flat broad market."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were roughly flat today (NASDAQ -0.1%, S&P 500 -0.4%), not a risk-on day, so we're not force-deploying all remaining cash. PGEN stood out as the one candidate with full multi-signal confirmation (momentum, trend, and volume all aligned), so we're adding it with high conviction while holding the rest of our cash and existing positions steady.",
+    "briefing": "Markets were flat today (NASDAQ -0.0%, S&P 500 -0.4%), so we held back from most new buys. FTAI stood out with every bullish technical signal aligned (momentum, trend, and volume), so we added a high-conviction position with available cash while leaving existing holdings untouched.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.1% and the S&P 500 down 0.4%, a mild pullback rather than a broad risk-off move. Trading was largely rotational, with money shifting between sectors rather than fleeing equities altogether. No major catalyst drove the modest decline, consistent with a market pausing after recent gains.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7565\u70ba\u4e0b\u8dcc\uff0c\u7d0d\u6307\u8dcc0.1%\uff0c\u6a19\u666e500\u8dcc0.4%\uff0c\u5c6c\u6eab\u548c\u56de\u8abf\u800c\u975e\u5168\u9762risk-off\u3002\u8cc7\u91d1\u4f3c\u4e4e\u5728\u677f\u584a\u4e4b\u9593\u8f2a\u52d5\uff0c\u800c\u975e\u5927\u8209\u64a4\u51fa\u80a1\u5e02\u3002\u4eca\u65e5\u8dcc\u5e45\u672a\u898b\u660e\u986f\u5c0e\u706b\u7dda\uff0c\u8f03\u4f3c\u662f\u5e02\u5834\u5728\u8fd1\u671f\u5347\u52e2\u5f8c\u7a0d\u4f5c\u5598\u606f\u3002",
+      "summary_en": "Major indices traded essentially flat today, with the S&P 500 slipping slightly and the NASDAQ nearly unchanged, reflecting a lack of strong directional catalysts. In quiet sessions like this, stock-specific technical setups \u2014 rather than broad macro sentiment \u2014 tend to drive individual winners. FTAI's alignment of RSI, MACD, and volume signals stood out as an exception to the market's overall indecision.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5e7e\u4e4e\u6301\u5e73\uff0c\u986f\u793a\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u5728\u9019\u7a2e\u76e4\u6574\u683c\u5c40\u4e0b\uff0c\u500b\u80a1\u7684\u6280\u8853\u9762\u8a0a\u865f\uff08\u800c\u975e\u5b8f\u89c0\u60c5\u7dd2\uff09\u5f80\u5f80\u624d\u662f\u6c7a\u5b9a\u500b\u5225\u80a1\u7968\u8868\u73fe\u7684\u95dc\u9375\u3002FTAI\u5728RSI\u3001MACD\u8207\u6210\u4ea4\u91cf\u8a0a\u865f\u4e0a\u7f55\u898b\u5730\u5168\u6578\u8f49\u5f37\uff0c\u6210\u70ba\u4eca\u65e5\u5927\u76e4\u6c89\u60b6\u4e2d\u7684\u4eae\u9ede\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Instead of relying on one indicator, strong traders look for several signals to line up together \u2014 like RSI, MACD, price trend, and volume \u2014 before making a high-conviction bet. When all four agree, it's a much stronger signal than any single one alone, especially on an otherwise quiet market day.",
-      "explanation_zh": "\u5f37\u52e2\u7684\u4ea4\u6613\u8005\u4e0d\u6703\u53ea\u9760\u55ae\u4e00\u6307\u6a19\uff0c\u800c\u662f\u5c0b\u627e\u591a\u500b\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u2014\u2014\u4f8b\u5982RSI\u3001MACD\u3001\u50f9\u683c\u8da8\u52e2\u540c\u6210\u4ea4\u91cf\u2014\u2014\u5148\u51fa\u624b\u843d\u91cd\u6ce8\u3002\u7576\u56db\u500b\u8a0a\u865f\u4e00\u81f4\u6642\uff0c\u9060\u6bd4\u55ae\u4e00\u8a0a\u865f\u53ef\u9760\uff0c\u5c24\u5176\u4fc2\u55ba\u5927\u5e02\u5e73\u975c\u5605\u65e5\u5b50\u66f4\u52a0\u660e\u986f\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks in motion tend to stay in motion. Today's market was flat overall, but FTAI showed every classic momentum signal at once (rising price, strong trend indicators, and a volume surge), which is why it was selected despite the quiet broader market.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u5df2\u7d93\u5448\u73fe\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u7406\u8ad6\u57fa\u790e\u662f\u300c\u4e0a\u6f32\u4e2d\u7684\u80a1\u7968\u50be\u5411\u6301\u7e8c\u4e0a\u6f32\u300d\u3002\u5118\u7ba1\u4eca\u65e5\u5927\u76e4\u6574\u9ad4\u5e73\u6de1\uff0c\u4f46FTAI\u540c\u6642\u51fa\u73fe\u4e86\u6240\u6709\u7d93\u5178\u52d5\u80fd\u8a0a\u865f\uff08\u50f9\u683c\u4e0a\u6f32\u3001\u8da8\u52e2\u6307\u6a19\u5f37\u52c1\u3001\u6210\u4ea4\u91cf\u653e\u5927\uff09\uff0c\u56e0\u6b64\u5728\u5927\u76e4\u6c89\u60b6\u4e4b\u969b\u4ecd\u88ab\u9078\u4e2d\u8cb7\u5165\u3002"
     }
   }
 }

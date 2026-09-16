@@ -1,22 +1,22 @@
 {
   "date": "2026-09-16",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.1%, S&P 500 -0.4%), not a risk-on day, so we're not force-deploying all remaining cash. PGEN stood out as the one candidate with full multi-signal confirmation (momentum, trend, and volume all aligned), so we're adding it with high conviction while holding the rest of our cash and existing positions steady.",
+  "briefing": "Markets were flat today (NASDAQ -0.0%, S&P 500 -0.4%), so we held back from most new buys. FTAI stood out with every bullish technical signal aligned (momentum, trend, and volume), so we added a high-conviction position with available cash while leaving existing holdings untouched.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of relying on one indicator, strong traders look for several signals to line up together — like RSI, MACD, price trend, and volume — before making a high-conviction bet. When all four agree, it's a much stronger signal than any single one alone, especially on an otherwise quiet market day.",
-    "explanation_zh": "強勢的交易者不會只靠單一指標，而是尋找多個訊號同時出現——例如RSI、MACD、價格趨勢同成交量——先出手落重注。當四個訊號一致時，遠比單一訊號可靠，尤其係喺大市平靜嘅日子更加明顯。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks in motion tend to stay in motion. Today's market was flat overall, but FTAI showed every classic momentum signal at once (rising price, strong trend indicators, and a volume surge), which is why it was selected despite the quiet broader market.",
+    "explanation_zh": "動能投資（Momentum Investing）是指買入價格與成交量已經呈現強勁上升趨勢的股票，其理論基礎是「上漲中的股票傾向持續上漲」。儘管今日大盤整體平淡，但FTAI同時出現了所有經典動能訊號（價格上漲、趨勢指標強勁、成交量放大），因此在大盤沉悶之際仍被選中買入。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.1% and the S&P 500 down 0.4%, a mild pullback rather than a broad risk-off move. Trading was largely rotational, with money shifting between sectors rather than fleeing equities altogether. No major catalyst drove the modest decline, consistent with a market pausing after recent gains.",
-    "summary_zh": "今日大市略為下跌，納指跌0.1%，標普500跌0.4%，屬溫和回調而非全面risk-off。資金似乎在板塊之間輪動，而非大舉撤出股市。今日跌幅未見明顯導火線，較似是市場在近期升勢後稍作喘息。",
+    "summary_en": "Major indices traded essentially flat today, with the S&P 500 slipping slightly and the NASDAQ nearly unchanged, reflecting a lack of strong directional catalysts. In quiet sessions like this, stock-specific technical setups — rather than broad macro sentiment — tend to drive individual winners. FTAI's alignment of RSI, MACD, and volume signals stood out as an exception to the market's overall indecision.",
+    "summary_zh": "今日大盤走勢平淡，標普500指數微跌，納斯達克指數幾乎持平，顯示市場缺乏明確的方向性催化劑。在這種盤整格局下，個股的技術面訊號（而非宏觀情緒）往往才是決定個別股票表現的關鍵。FTAI在RSI、MACD與成交量訊號上罕見地全數轉強，成為今日大盤沉悶中的亮點。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "PGEN",
+      "ticker": "FTAI",
       "conviction": "high",
-      "reasoning": "All four confirmation signals align — RSI 69.2 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge — indicating strong institutional participation despite a flat broader market."
+      "reasoning": "Full multi-signal confirmation (RSI 67.3 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) signals genuine institutional buying despite a flat broad market."
     }
   ],
   "outcomes": {
