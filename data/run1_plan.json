@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-09-16T13:00:59.384402+00:00",
+  "saved_at": "2026-09-16T14:00:50.393487+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "SWKS",
-        "conviction": "high",
-        "reasoning": "Top-scored candidate with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) indicating institutional buying despite a neutral broader market."
+        "ticker": "INTC",
+        "conviction": "medium",
+        "reasoning": "All four bullish signals align (RSI 57.1, MACD crossover, price above SMA-20, volume surge) with cash above the $500 deployment threshold and open slots available."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were mildly negative today (NASDAQ -0.8%, S&P 500 -0.4%) with no clear risk-on or risk-off signal. Rather than force multiple buys or sit idle with cash above the $500 threshold, we deployed into SWKS, the one candidate showing complete institutional-grade confirmation across all four technical signals. Existing positions were left untouched to let stop-loss and profit-target rules do their job.",
+    "briefing": "Markets were mildly positive today with NASDAQ +0.7% and S&P 500 +0.4%, a neutral-to-slightly-bullish tone. With $689 in cash and 3 open slots, we deployed a modest medium-conviction position into INTC, which shows full multi-signal confirmation, while leaving existing winners untouched.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.8% and the S&P 500 down 0.4%, reflecting a lack of strong directional conviction among investors rather than any single major catalyst. Trading volume was unremarkable across most large-cap names, consistent with a consolidation phase after recent moves. No major news catalysts were provided in today's briefing to explain the modest pullback.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5c0f\u5e45\u8d70\u5f31\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.8%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.4%\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff0c\u800c\u975e\u53d7\u55ae\u4e00\u91cd\u5927\u4e8b\u4ef6\u5f71\u97ff\u3002\u5927\u90e8\u5206\u5927\u578b\u80a1\u6210\u4ea4\u91cf\u5e73\u6de1\uff0c\u7b26\u5408\u8fd1\u671f\u6f32\u52e2\u5f8c\u7684\u6574\u7406\u683c\u5c40\u3002\u4eca\u65e5\u7c21\u5831\u4e2d\u4e26\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u4e8b\u4ef6\u4f86\u89e3\u91cb\u9019\u6b21\u6eab\u548c\u7684\u56de\u6a94\u3002",
+      "summary_en": "Major indices posted modest gains today, with the NASDAQ up 0.7% and the S&P 500 up 0.4%, reflecting a calm, low-volatility session rather than any major catalyst-driven move. Trading stayed range-bound as investors digested recent economic data without a clear directional signal. This kind of quiet grind-higher session often reflects steady buying interest rather than dramatic news flow.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c,\u7d0d\u6307\u4e0a\u6f320.7%,\u6a19\u666e500\u4e0a\u6f320.4%,\u5c6c\u65bc\u4f4e\u6ce2\u52d5\u7684\u5e73\u7a69\u4ea4\u6613\u65e5,\u4e26\u672a\u898b\u5230\u660e\u986f\u7684\u50ac\u5316\u6d88\u606f\u3002\u5e02\u5834\u5728\u5340\u9593\u5167\u6574\u7406,\u6295\u8cc7\u8005\u6301\u7e8c\u6d88\u5316\u8fd1\u671f\u7d93\u6fdf\u6578\u64da,\u672a\u898b\u660e\u78ba\u65b9\u5411\u6027\u8a0a\u865f\u3002\u9019\u7a2e\u7de9\u6b65\u4e0a\u63da\u7684\u8d70\u52e2,\u901a\u5e38\u53cd\u6620\u7a69\u5b9a\u7684\u8cb7\u76e4\u652f\u6490,\u800c\u975e\u53d7\u91cd\u5927\u65b0\u805e\u9a45\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "When several independent technical indicators \u2014 like RSI, MACD, price vs. moving average, and volume \u2014 all point the same bullish direction at once, it's a stronger signal than any single indicator alone, often suggesting real institutional buying rather than random noise. This lets you find good opportunities even when the overall market is flat or slightly down.",
-      "explanation_zh": "\u7576\u591a\u500b\u7368\u7acb\u6280\u8853\u6307\u6a19\uff08\u4f8b\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u8207\u5747\u7dda\u95dc\u4fc2\u3001\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u500b\u770b\u6f32\u65b9\u5411\u6642\uff0c\u9019\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u5177\u8aaa\u670d\u529b\uff0c\u901a\u5e38\u4ee3\u8868\u6a5f\u69cb\u8cc7\u91d1\u771f\u5be6\u8cb7\u5165\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002\u5373\u4f7f\u5927\u76e4\u6301\u5e73\u6216\u7565\u8dcc\uff0c\u4ecd\u80fd\u85c9\u6b64\u627e\u5230\u4e0d\u932f\u7684\u500b\u80a1\u6a5f\u6703\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like price above moving averages, rising MACD, and healthy RSI levels. The idea is that stocks showing strong recent performance and volume tend to keep moving in that direction in the near term.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5448\u73fe\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u4f9d\u64da\u50f9\u683c\u9ad8\u65bc\u5747\u7dda\u3001MACD\u5411\u4e0a\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u7b49\u8a0a\u865f\u9032\u884c\u5224\u65b7\u3002\u5176\u6838\u5fc3\u6982\u5ff5\u662f\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u4e14\u6210\u4ea4\u91cf\u653e\u5927\u7684\u80a1\u7968,\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u539f\u672c\u7684\u8d70\u52e2\u3002"
     }
   }
 }

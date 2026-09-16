@@ -1,22 +1,22 @@
 {
   "date": "2026-09-16",
-  "briefing": "Markets were mildly negative today (NASDAQ -0.8%, S&P 500 -0.4%) with no clear risk-on or risk-off signal. Rather than force multiple buys or sit idle with cash above the $500 threshold, we deployed into SWKS, the one candidate showing complete institutional-grade confirmation across all four technical signals. Existing positions were left untouched to let stop-loss and profit-target rules do their job.",
+  "briefing": "Markets were mildly positive today with NASDAQ +0.7% and S&P 500 +0.4%, a neutral-to-slightly-bullish tone. With $689 in cash and 3 open slots, we deployed a modest medium-conviction position into INTC, which shows full multi-signal confirmation, while leaving existing winners untouched.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "When several independent technical indicators — like RSI, MACD, price vs. moving average, and volume — all point the same bullish direction at once, it's a stronger signal than any single indicator alone, often suggesting real institutional buying rather than random noise. This lets you find good opportunities even when the overall market is flat or slightly down.",
-    "explanation_zh": "當多個獨立技術指標（例如RSI、MACD、股價與均線關係、成交量）同時指向同一個看漲方向時，這比單一指標更具說服力，通常代表機構資金真實買入而非隨機波動。即使大盤持平或略跌，仍能藉此找到不錯的個股機會。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like price above moving averages, rising MACD, and healthy RSI levels. The idea is that stocks showing strong recent performance and volume tend to keep moving in that direction in the near term.",
+    "explanation_zh": "動能投資是指買入已經呈現上升趨勢的股票,依據價格高於均線、MACD向上、RSI處於健康區間等訊號進行判斷。其核心概念是近期表現強勁且成交量放大的股票,短期內往往會延續原本的走勢。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.8% and the S&P 500 down 0.4%, reflecting a lack of strong directional conviction among investors rather than any single major catalyst. Trading volume was unremarkable across most large-cap names, consistent with a consolidation phase after recent moves. No major news catalysts were provided in today's briefing to explain the modest pullback.",
-    "summary_zh": "今日大盤小幅走弱，納斯達克指數下跌0.8%，標普500指數下跌0.4%，反映市場缺乏明確方向，而非受單一重大事件影響。大部分大型股成交量平淡，符合近期漲勢後的整理格局。今日簡報中並未提供具體新聞事件來解釋這次溫和的回檔。",
+    "summary_en": "Major indices posted modest gains today, with the NASDAQ up 0.7% and the S&P 500 up 0.4%, reflecting a calm, low-volatility session rather than any major catalyst-driven move. Trading stayed range-bound as investors digested recent economic data without a clear directional signal. This kind of quiet grind-higher session often reflects steady buying interest rather than dramatic news flow.",
+    "summary_zh": "今日大盤走勢溫和,納指上漲0.7%,標普500上漲0.4%,屬於低波動的平穩交易日,並未見到明顯的催化消息。市場在區間內整理,投資者持續消化近期經濟數據,未見明確方向性訊號。這種緩步上揚的走勢,通常反映穩定的買盤支撐,而非受重大新聞驅動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "SWKS",
-      "conviction": "high",
-      "reasoning": "Top-scored candidate with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) indicating institutional buying despite a neutral broader market."
+      "ticker": "INTC",
+      "conviction": "medium",
+      "reasoning": "All four bullish signals align (RSI 57.1, MACD crossover, price above SMA-20, volume surge) with cash above the $500 deployment threshold and open slots available."
     }
   ],
   "outcomes": {
