@@ -1,22 +1,22 @@
 {
   "date": "2026-09-16",
-  "briefing": "Market is neutral today (NASDAQ +0.7%, S&P 500 +0.3%) — not a strong risk-on signal, so we're not force-deploying all open slots. With cash above the $500 threshold and a fully-confirmed setup in SEI, we're adding one modest position for diversification while holding the rest of cash in reserve and letting existing positions run.",
+  "briefing": "Markets were mildly positive today (NASDAQ +0.7%, S&P 500 +0.4%) without a clear risk-on catalyst. Rather than forcing capital into weaker setups just to fill open slots, we only added COAG, the one candidate showing full confirmation including a volume surge, and left cash in reserve for the remaining two open slots until a stronger signal appears.",
   "daily_lesson": {
-    "term": "Diversification",
-    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area (like tech) doesn't sink your whole portfolio. Today's buy in a financial-services name, rather than another semiconductor or tech stock, reduces the portfolio's concentration risk even though tech names still dominate the momentum screen.",
-    "explanation_zh": "分散投資是指將資金分配到不同行業，這樣某一板塊（例如科技股）下跌時不會拖垮整個投資組合。今日選擇買入金融服務類股票，而非再加一隻半導體或科技股，即使動能篩選結果仍以科技股為主，也能降低投資組合的集中風險。"
+    "term": "Volume Confirmation",
+    "explanation_en": "A price move backed by unusually high trading volume is more trustworthy than the same move on light volume, because it suggests real institutional buying rather than a random blip. That's why COAG's volume surge, combined with its other bullish signals, made it stand out from otherwise similar candidates today.",
+    "explanation_zh": "配合異常高成交量的價格上升，比低成交量下的同等升幅更可信，因為這反映有真正的機構資金流入，而非隨機波動。這正是COAG今日在成交量急增配合其他利好訊號下，較其他相似候選股更突出的原因。"
   },
   "market_education": {
-    "summary_en": "Major indices posted modest gains today, with the NASDAQ outpacing the S&P 500, consistent with continued mild risk appetite rather than a strong rally. No major market-moving headlines were provided for today's session, so the move looks driven by broad, low-volatility drift rather than a single catalyst. Without confirmed news sources to cite, we're avoiding attributing today's move to any specific event.",
-    "summary_zh": "今日主要指數溫和上漲，納斯達克升幅高於標普500指數，反映市場風險偏好持續但力度不強。目前未有具體重大新聞可解釋今日走勢，看起來較像是低波動的整體漂移而非單一事件驅動。由於沒有可引用的新聞來源，我們不會將今日走勢歸因於特定事件。",
+    "summary_en": "Both major indices posted small gains today, with the S&P 500 up 0.4% and the NASDAQ up 0.7%, suggesting a quiet, low-conviction trading session rather than a decisive move in either direction. No major macro catalyst stood out, so price action largely reflected routine positioning rather than a shift in sentiment. In this kind of environment, it pays to be selective and only add positions that show strong independent confirmation.",
+    "summary_zh": "今日大市溫和上升，標普500指數升0.4%，納指升0.7%，反映市場處於觀望氣氛，未見明顯方向性走勢。今日未有重大宏觀消息帶動，價格變動較大機會源於日常持倉調整，而非市場情緒出現根本轉變。在這種環境下，選股宜審慎，只加倉具備多重技術指標確認的個股。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "SEI",
-      "conviction": "medium",
-      "reasoning": "Full four-signal bullish confirmation (MACD crossover, rising histogram, RSI 58.5 in the healthy zone, price above SMA-20) and financial-services exposure diversifies a portfolio currently concentrated in tech/semis."
+      "ticker": "COAG",
+      "conviction": "high",
+      "reasoning": "Highest-scoring candidate with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge) indicating genuine institutional participation, not just a neutral-day drift."
     }
   ],
   "outcomes": {
