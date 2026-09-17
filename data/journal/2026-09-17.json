@@ -1,28 +1,34 @@
 {
   "date": "2026-09-17",
-  "briefing": "NASDAQ +1.6% and S&P 500 +1.1% point to a risk-on day, so with 3 open slots and cash above the $500 threshold we deployed into two of our best-scoring, most liquid momentum names rather than idling cash. We stayed at medium conviction since volume-surge confirmation wasn't present, and left existing winners untouched per prior lessons about not exiting on strength.",
+  "briefing": "NASDAQ +1.6% and S&P 500 +1.1% mark a risk-on day, and with 3 open slots and cash above the $500 threshold we deployed into three momentum-confirmed names (F, BLSH, ONDS) with lower RSI readings to reduce overbought risk. Existing winning positions were left untouched to let stop-loss and profit targets manage them automatically.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that stocks moving higher on strong volume and technical signals (like MACD crossovers) tend to keep moving in that direction for a while. It works best when confirmed by multiple signals together, since any single indicator can give false signals.",
-    "explanation_zh": "動能投資是指買入正處於上升趨勢的股票，其邏輯是當股票在強勁成交量與技術訊號（如MACD黃金交叉）配合下上漲時，往往會延續一段時間的漲勢。這種策略在多項訊號同時確認時效果最佳，因為單一指標容易出現假訊號。"
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Traders look for signals like a rising MACD histogram and RSI in a healthy (not overbought) range to confirm the trend has real strength before jumping in.",
+    "explanation_zh": "動量投資（Momentum Investing）是指買入已經處於上升趨勢的股票，因為近期表現強勁的股票短期內往往會延續升勢。投資者會留意MACD柱狀圖上升、RSI處於健康（非超買）區間等訊號，以確認升勢具備真正動力，才決定入市。"
   },
   "market_education": {
-    "summary_en": "Broad tech-led gains pushed the NASDAQ up 1.6% and the S&P 500 up 1.1% today, consistent with continued risk appetite across growth and momentum names. Breadth was solid, with many screened stocks showing bullish MACD crossovers and RSI readings in the healthy 55-70 range rather than extreme overbought territory. No single catalyst headline is available for today's session, so the move looks like a continuation of the broader momentum trend rather than a news-driven spike.",
-    "summary_zh": "今日科技股帶動大盤上揚，納斯達克指數上漲1.6%，標普500指數上漲1.1%，顯示市場風險偏好持續升溫。多隻篩選股票出現MACD黃金交叉，RSI落在55至70的健康區間，並未出現過熱超買現象，顯示上漲動能較為健康。目前沒有明確的單一新聞事件驅動今日走勢，較像是既有動能行情的延續。",
+    "summary_en": "Broad market strength today, with the NASDAQ up 1.6% and the S&P 500 up 1.1%, reflects continued risk appetite across growth and value sectors alike. Momentum names showing bullish MACD crossovers and RSI readings in the healthy 55-70 range attracted fresh buying interest. No single catalyst headline is available for today, so the move reflects broad-based sentiment rather than one specific event.",
+    "summary_zh": "今日大市走強，納斯達克指數上升1.6%，標普500指數上升1.1%，反映成長股及價值股同時受到資金追捧，市場風險胃納持續。MACD出現黃金交叉、RSI處於55至70健康區間的動力股份吸引新買盤。今日並無單一新聞事件可解釋今日升勢，屬於較廣泛的市場情緒帶動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NVDA",
-      "conviction": "medium",
-      "reasoning": "RSI 60.3 in bullish zone with MACD bullish crossover and price above SMA-20, offering quality large-cap momentum exposure without overbought risk."
+      "ticker": "F",
+      "conviction": "high",
+      "reasoning": "Fresh MACD bullish crossover with RSI 55.4 just entering the bullish zone and price above SMA-20 offers a low-overbought-risk entry on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "TSLA",
+      "ticker": "BLSH",
       "conviction": "medium",
-      "reasoning": "RSI 59.2 with confirmed MACD crossover and rising histogram gives solid momentum in a liquid large-cap name suited to today's risk-on tape."
+      "reasoning": "Score 95 with RSI 55.2, rising MACD histogram, and price above SMA-20 signals fresh institutional momentum without being overbought."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ONDS",
+      "conviction": "medium",
+      "reasoning": "All four bullish signals confirmed (RSI 56.8, MACD crossover, rising histogram, price above SMA-20) and diversifies away from existing tech/industrial holdings."
     }
   ],
   "outcomes": {
