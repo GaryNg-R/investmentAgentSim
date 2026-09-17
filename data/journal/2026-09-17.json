@@ -1,14 +1,14 @@
 {
   "date": "2026-09-17",
-  "briefing": "Markets are risk-on today with NASDAQ +1.7% and S&P 500 +1.1%. We deployed cash into CRSP and ABCL, the only two candidates showing full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge), leaving one slot open rather than forcing a lower-conviction buy.",
+  "briefing": "NASDAQ climbed +1.7% and the S&P 500 +1.1% in a broad risk-on session. With $689 in cash and 3 open slots, I deployed into CRSP and INIO, the two top-scoring candidates showing full multi-signal confirmation (RSI, MACD, SMA-20, and volume surge all aligned), while leaving the rest of the portfolio untouched to let existing winners run.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading activity, not just a small handful of trades pushing the price around. When a stock rises on a volume surge alongside other bullish signals like a MACD crossover, it suggests real institutional buying interest rather than a fleeting spike that could quickly reverse.",
-    "explanation_zh": "成交量確認是指在股價上升時，同時檢查其成交量是否明顯高於平時水平，而非僅由少數交易推動價格波動。當股份在成交量激增的同時，亦出現MACD黃金交叉等其他利好訊號，這通常反映機構投資者真實買盤，而非短暫且容易逆轉的價格波動。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "When multiple independent indicators — like RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a volume surge — all line up together, it's a stronger signal of real institutional buying than any single indicator alone. Today's buys (CRSP, INIO) were chosen because all four signals agreed.",
+    "explanation_zh": "當多個獨立指標——例如RSI處於健康區間、MACD出現黃金交叉、股價高於平均線，以及成交量放大——同時出現時，比單一指標更能反映機構資金真實流入。今日買入的CRSP及INIO正是四大訊號同時確認的例子。"
   },
   "market_education": {
-    "summary_en": "Broad market strength today lifted both the NASDAQ and S&P 500, with tech and growth names leading gains as investors rotated back into risk assets. Several biotech and small-cap names like CRSP and ABCL saw volume surges alongside bullish technical crossovers, suggesting institutional accumulation rather than retail-driven spikes. This kind of broad-based, volume-confirmed rally typically reflects improving investor sentiment rather than a single company-specific catalyst.",
-    "summary_zh": "今日大市造好，納指及標普500同步上揚，科技及增長股領漲，反映資金重新流入風險資產。CRSP及ABCL等生物科技及中小型股份出現成交量激增，配合技術指標的黃金交叉，顯示機構投資者正在吸納，而非單純散戶炒作。此類伴隨成交量確認的全面性升市，一般反映市場情緒改善，而非個別公司的特定利好消息。",
+    "summary_en": "Broad market strength today (NASDAQ +1.7%, S&P 500 +1.1%) reflects continued risk appetite across growth and momentum names, with breadth confirmed by multiple technically strong candidates showing coordinated RSI, MACD, and volume signals rather than isolated spikes.",
+    "summary_zh": "今日大市走強（納指升1.7%，標普500升1.1%），反映市場風險偏好持續升溫，多隻具動能的股份同時錄得RSI、MACD及成交量指標齊升，顯示並非個別股份炒作，而是較廣泛的資金流入。",
     "sources": []
   },
   "trades": [
@@ -16,13 +16,13 @@
       "action": "BUY",
       "ticker": "CRSP",
       "conviction": "high",
-      "reasoning": "RSI 68.1 in bullish zone, MACD bullish crossover, price above SMA-20, and a volume surge together confirm strong institutional buying momentum."
+      "reasoning": "Score 95 with all four confirming signals (RSI 68.2 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) on a risk-on day (NASDAQ +1.7%)."
     },
     {
       "action": "BUY",
-      "ticker": "ABCL",
+      "ticker": "INIO",
       "conviction": "high",
-      "reasoning": "Matches all four confirmation signals (bullish RSI, MACD crossover, price above SMA-20, volume surge) alongside CRSP as the top-scoring candidate."
+      "reasoning": "Score 95 with full multi-signal confirmation and no sector overlap with existing holdings, deploying idle cash above the $500 threshold into an open slot."
     }
   ],
   "outcomes": {

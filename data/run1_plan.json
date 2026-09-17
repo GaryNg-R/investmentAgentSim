@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-09-17T20:00:46.455557+00:00",
+  "saved_at": "2026-09-17T21:00:47.113188+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "CRSP",
         "conviction": "high",
-        "reasoning": "RSI 68.1 in bullish zone, MACD bullish crossover, price above SMA-20, and a volume surge together confirm strong institutional buying momentum."
+        "reasoning": "Score 95 with all four confirming signals (RSI 68.2 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) on a risk-on day (NASDAQ +1.7%)."
       },
       {
         "action": "BUY",
-        "ticker": "ABCL",
+        "ticker": "INIO",
         "conviction": "high",
-        "reasoning": "Matches all four confirmation signals (bullish RSI, MACD crossover, price above SMA-20, volume surge) alongside CRSP as the top-scoring candidate."
+        "reasoning": "Score 95 with full multi-signal confirmation and no sector overlap with existing holdings, deploying idle cash above the $500 threshold into an open slot."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are risk-on today with NASDAQ +1.7% and S&P 500 +1.1%. We deployed cash into CRSP and ABCL, the only two candidates showing full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge), leaving one slot open rather than forcing a lower-conviction buy.",
+    "briefing": "NASDAQ climbed +1.7% and the S&P 500 +1.1% in a broad risk-on session. With $689 in cash and 3 open slots, I deployed into CRSP and INIO, the two top-scoring candidates showing full multi-signal confirmation (RSI, MACD, SMA-20, and volume surge all aligned), while leaving the rest of the portfolio untouched to let existing winners run.",
     "market_education": {
-      "summary_en": "Broad market strength today lifted both the NASDAQ and S&P 500, with tech and growth names leading gains as investors rotated back into risk assets. Several biotech and small-cap names like CRSP and ABCL saw volume surges alongside bullish technical crossovers, suggesting institutional accumulation rather than retail-driven spikes. This kind of broad-based, volume-confirmed rally typically reflects improving investor sentiment rather than a single company-specific catalyst.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u9020\u597d\uff0c\u7d0d\u6307\u53ca\u6a19\u666e500\u540c\u6b65\u4e0a\u63da\uff0c\u79d1\u6280\u53ca\u589e\u9577\u80a1\u9818\u6f32\uff0c\u53cd\u6620\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u98a8\u96aa\u8cc7\u7522\u3002CRSP\u53caABCL\u7b49\u751f\u7269\u79d1\u6280\u53ca\u4e2d\u5c0f\u578b\u80a1\u4efd\u51fa\u73fe\u6210\u4ea4\u91cf\u6fc0\u589e\uff0c\u914d\u5408\u6280\u8853\u6307\u6a19\u7684\u9ec3\u91d1\u4ea4\u53c9\uff0c\u986f\u793a\u6a5f\u69cb\u6295\u8cc7\u8005\u6b63\u5728\u5438\u7d0d\uff0c\u800c\u975e\u55ae\u7d14\u6563\u6236\u7092\u4f5c\u3002\u6b64\u985e\u4f34\u96a8\u6210\u4ea4\u91cf\u78ba\u8a8d\u7684\u5168\u9762\u6027\u5347\u5e02\uff0c\u4e00\u822c\u53cd\u6620\u5e02\u5834\u60c5\u7dd2\u6539\u5584\uff0c\u800c\u975e\u500b\u5225\u516c\u53f8\u7684\u7279\u5b9a\u5229\u597d\u6d88\u606f\u3002",
+      "summary_en": "Broad market strength today (NASDAQ +1.7%, S&P 500 +1.1%) reflects continued risk appetite across growth and momentum names, with breadth confirmed by multiple technically strong candidates showing coordinated RSI, MACD, and volume signals rather than isolated spikes.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u5f37\uff08\u7d0d\u6307\u53471.7%\uff0c\u6a19\u666e500\u53471.1%\uff09\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u5347\u6eab\uff0c\u591a\u96bb\u5177\u52d5\u80fd\u7684\u80a1\u4efd\u540c\u6642\u9304\u5f97RSI\u3001MACD\u53ca\u6210\u4ea4\u91cf\u6307\u6a19\u9f4a\u5347\uff0c\u986f\u793a\u4e26\u975e\u500b\u5225\u80a1\u4efd\u7092\u4f5c\uff0c\u800c\u662f\u8f03\u5ee3\u6cdb\u7684\u8cc7\u91d1\u6d41\u5165\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Confirmation",
-      "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading activity, not just a small handful of trades pushing the price around. When a stock rises on a volume surge alongside other bullish signals like a MACD crossover, it suggests real institutional buying interest rather than a fleeting spike that could quickly reverse.",
-      "explanation_zh": "\u6210\u4ea4\u91cf\u78ba\u8a8d\u662f\u6307\u5728\u80a1\u50f9\u4e0a\u5347\u6642\uff0c\u540c\u6642\u6aa2\u67e5\u5176\u6210\u4ea4\u91cf\u662f\u5426\u660e\u986f\u9ad8\u65bc\u5e73\u6642\u6c34\u5e73\uff0c\u800c\u975e\u50c5\u7531\u5c11\u6578\u4ea4\u6613\u63a8\u52d5\u50f9\u683c\u6ce2\u52d5\u3002\u7576\u80a1\u4efd\u5728\u6210\u4ea4\u91cf\u6fc0\u589e\u7684\u540c\u6642\uff0c\u4ea6\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u7b49\u5176\u4ed6\u5229\u597d\u8a0a\u865f\uff0c\u9019\u901a\u5e38\u53cd\u6620\u6a5f\u69cb\u6295\u8cc7\u8005\u771f\u5be6\u8cb7\u76e4\uff0c\u800c\u975e\u77ed\u66ab\u4e14\u5bb9\u6613\u9006\u8f49\u7684\u50f9\u683c\u6ce2\u52d5\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "When multiple independent indicators \u2014 like RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a volume surge \u2014 all line up together, it's a stronger signal of real institutional buying than any single indicator alone. Today's buys (CRSP, INIO) were chosen because all four signals agreed.",
+      "explanation_zh": "\u7576\u591a\u500b\u7368\u7acb\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u540c\u6642\u51fa\u73fe\u6642\uff0c\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u80fd\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u771f\u5be6\u6d41\u5165\u3002\u4eca\u65e5\u8cb7\u5165\u7684CRSP\u53caINIO\u6b63\u662f\u56db\u5927\u8a0a\u865f\u540c\u6642\u78ba\u8a8d\u7684\u4f8b\u5b50\u3002"
     }
   }
 }
