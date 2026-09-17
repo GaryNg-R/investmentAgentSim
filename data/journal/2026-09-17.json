@@ -1,28 +1,34 @@
 {
   "date": "2026-09-17",
-  "briefing": "Markets were flat to slightly negative today (S&P -0.4%, NASDAQ roughly unchanged), a neutral tape overall. Rather than forcing capital to work or sitting entirely idle, we selectively added FTAI and XMTR, the two candidates showing full four-signal technical confirmation (bullish RSI, MACD crossover, price above SMA-20, and a volume surge), leaving one slot open for a clearer risk-on setup.",
+  "briefing": "Markets were risk-on today with NASDAQ +1.4% and S&P 500 +0.9%. With cash above the $500 threshold and 3 open slots, we deployed into NVDA, NOK, and SVM — all showing full bullish signal confirmation — while diversifying away from the portfolio's existing semiconductor/AI concentration.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators — like RSI, MACD, price versus moving averages, and volume — all point the same direction at once. It's more reliable than relying on a single signal, because it reduces the chance of chasing a random price blip.",
-    "explanation_zh": "多重訊號確認是指只有在多個獨立的技術指標（例如RSI、MACD、價格相對均線的位置，以及成交量）同時指向同一方向時，才進行交易操作。這比依賴單一訊號更可靠，因為能降低誤判隨機價格波動的風險。"
+    "term": "Diversification",
+    "explanation_en": "Diversification means spreading investments across different sectors so a downturn in one area doesn't sink the whole portfolio. Today, instead of adding more tech/semiconductor names on top of existing holdings, new buys were chosen from telecom and materials sectors to reduce correlated risk.",
+    "explanation_zh": "分散投資是指將資金分佈於不同行業，避免單一板塊下跌拖累整個組合。今日在原有半導體及科技持倉基礎上，新買入標的特意選擇電訊及原材料板塊，以降低持倉之間的相關風險。"
   },
   "market_education": {
-    "summary_en": "Broad indices were essentially flat today, with the S&P 500 down modestly and the NASDAQ roughly unchanged, reflecting a lack of strong directional catalysts rather than any specific negative headline. In quiet, range-bound sessions like this, individual stock setups with strong technical confirmation can still outperform the index even as the broader market treads water. No major news source or specific headline drove today's price action.",
-    "summary_zh": "今日大盤走勢大致平穩，標普500指數小幅下跌，納斯達克指數則幾乎持平，顯示市場缺乏明確的方向性催化因素，而非受到特定負面消息影響。在這種橫盤整理的市況下，具備強勁技術面確認訊號的個股仍有機會跑贏大盤。今日並無重大新聞或具體頭條消息主導股價走勢。",
+    "summary_en": "Broad market strength today pushed both the NASDAQ (+1.4%) and S&P 500 (+0.9%) higher, with technology and momentum names leading gains as risk appetite improved. Breadth was strong, with numerous stocks showing bullish MACD crossovers and volume surges consistent with institutional buying. This risk-on tone supported deploying idle cash into high-conviction, multi-signal-confirmed candidates.",
+    "summary_zh": "今日大市走強，納斯達克指數升1.4%，標普500指數升0.9%，科技股及動能股領漲，市場風險胃納明顯回升。市場廣度良好，不少個股出現MACD黃金交叉及成交量放大，反映機構資金流入迹象。在這種風險偏好升溫的氣氛下，組合利用閒置現金買入訊號齊備、信心度較高的標的。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FTAI",
+      "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "Top score with all four confirming signals (RSI 67 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) indicating strong institutional participation despite a neutral macro tape."
+      "reasoning": "All momentum signals confirmed (MACD crossover, rising histogram, price above SMA-20, volume surge) with RSI 61.4 still below overbought, and NVDA offers the best liquidity/quality among top-scored candidates."
     },
     {
       "action": "BUY",
-      "ticker": "XMTR",
-      "conviction": "high",
-      "reasoning": "Second-highest score with the same full four-signal confirmation as FTAI, offering diversification into industrial/marketplace exposure distinct from existing holdings."
+      "ticker": "NOK",
+      "conviction": "medium",
+      "reasoning": "Full signal confirmation at a reasonable valuation, and telecom exposure diversifies the portfolio away from its current semiconductor/AI concentration (MU, INOD, QQQ, OLED)."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SVM",
+      "conviction": "medium",
+      "reasoning": "Full signal confirmation in the materials/mining sector, providing diversification uncorrelated to the tech-heavy existing book while deploying idle cash on a risk-on day."
     }
   ],
   "outcomes": {

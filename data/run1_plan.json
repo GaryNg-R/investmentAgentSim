@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-09-17T13:00:55.226595+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-09-17T14:01:06.502606+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "FTAI",
+        "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "Top score with all four confirming signals (RSI 67 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) indicating strong institutional participation despite a neutral macro tape."
+        "reasoning": "All momentum signals confirmed (MACD crossover, rising histogram, price above SMA-20, volume surge) with RSI 61.4 still below overbought, and NVDA offers the best liquidity/quality among top-scored candidates."
       },
       {
         "action": "BUY",
-        "ticker": "XMTR",
-        "conviction": "high",
-        "reasoning": "Second-highest score with the same full four-signal confirmation as FTAI, offering diversification into industrial/marketplace exposure distinct from existing holdings."
+        "ticker": "NOK",
+        "conviction": "medium",
+        "reasoning": "Full signal confirmation at a reasonable valuation, and telecom exposure diversifies the portfolio away from its current semiconductor/AI concentration (MU, INOD, QQQ, OLED)."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SVM",
+        "conviction": "medium",
+        "reasoning": "Full signal confirmation in the materials/mining sector, providing diversification uncorrelated to the tech-heavy existing book while deploying idle cash on a risk-on day."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat to slightly negative today (S&P -0.4%, NASDAQ roughly unchanged), a neutral tape overall. Rather than forcing capital to work or sitting entirely idle, we selectively added FTAI and XMTR, the two candidates showing full four-signal technical confirmation (bullish RSI, MACD crossover, price above SMA-20, and a volume surge), leaving one slot open for a clearer risk-on setup.",
+    "briefing": "Markets were risk-on today with NASDAQ +1.4% and S&P 500 +0.9%. With cash above the $500 threshold and 3 open slots, we deployed into NVDA, NOK, and SVM \u2014 all showing full bullish signal confirmation \u2014 while diversifying away from the portfolio's existing semiconductor/AI concentration.",
     "market_education": {
-      "summary_en": "Broad indices were essentially flat today, with the S&P 500 down modestly and the NASDAQ roughly unchanged, reflecting a lack of strong directional catalysts rather than any specific negative headline. In quiet, range-bound sessions like this, individual stock setups with strong technical confirmation can still outperform the index even as the broader market treads water. No major news source or specific headline drove today's price action.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u5e73\u7a69\uff0c\u6a19\u666e500\u6307\u6578\u5c0f\u5e45\u4e0b\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5247\u5e7e\u4e4e\u6301\u5e73\uff0c\u986f\u793a\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u56e0\u7d20\uff0c\u800c\u975e\u53d7\u5230\u7279\u5b9a\u8ca0\u9762\u6d88\u606f\u5f71\u97ff\u3002\u5728\u9019\u7a2e\u6a6b\u76e4\u6574\u7406\u7684\u5e02\u6cc1\u4e0b\uff0c\u5177\u5099\u5f37\u52c1\u6280\u8853\u9762\u78ba\u8a8d\u8a0a\u865f\u7684\u500b\u80a1\u4ecd\u6709\u6a5f\u6703\u8dd1\u8d0f\u5927\u76e4\u3002\u4eca\u65e5\u4e26\u7121\u91cd\u5927\u65b0\u805e\u6216\u5177\u9ad4\u982d\u689d\u6d88\u606f\u4e3b\u5c0e\u80a1\u50f9\u8d70\u52e2\u3002",
+      "summary_en": "Broad market strength today pushed both the NASDAQ (+1.4%) and S&P 500 (+0.9%) higher, with technology and momentum names leading gains as risk appetite improved. Breadth was strong, with numerous stocks showing bullish MACD crossovers and volume surges consistent with institutional buying. This risk-on tone supported deploying idle cash into high-conviction, multi-signal-confirmed candidates.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u5f37\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53471.4%\uff0c\u6a19\u666e500\u6307\u6578\u53470.9%\uff0c\u79d1\u6280\u80a1\u53ca\u52d5\u80fd\u80a1\u9818\u6f32\uff0c\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u660e\u986f\u56de\u5347\u3002\u5e02\u5834\u5ee3\u5ea6\u826f\u597d\uff0c\u4e0d\u5c11\u500b\u80a1\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u53cd\u6620\u6a5f\u69cb\u8cc7\u91d1\u6d41\u5165\u8ff9\u8c61\u3002\u5728\u9019\u7a2e\u98a8\u96aa\u504f\u597d\u5347\u6eab\u7684\u6c23\u6c1b\u4e0b\uff0c\u7d44\u5408\u5229\u7528\u9592\u7f6e\u73fe\u91d1\u8cb7\u5165\u8a0a\u865f\u9f4a\u5099\u3001\u4fe1\u5fc3\u5ea6\u8f03\u9ad8\u7684\u6a19\u7684\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators \u2014 like RSI, MACD, price versus moving averages, and volume \u2014 all point the same direction at once. It's more reliable than relying on a single signal, because it reduces the chance of chasing a random price blip.",
-      "explanation_zh": "\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u6709\u5728\u591a\u500b\u7368\u7acb\u7684\u6280\u8853\u6307\u6a19\uff08\u4f8b\u5982RSI\u3001MACD\u3001\u50f9\u683c\u76f8\u5c0d\u5747\u7dda\u7684\u4f4d\u7f6e\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642\uff0c\u624d\u9032\u884c\u4ea4\u6613\u64cd\u4f5c\u3002\u9019\u6bd4\u4f9d\u8cf4\u55ae\u4e00\u8a0a\u865f\u66f4\u53ef\u9760\uff0c\u56e0\u70ba\u80fd\u964d\u4f4e\u8aa4\u5224\u96a8\u6a5f\u50f9\u683c\u6ce2\u52d5\u7684\u98a8\u96aa\u3002"
+      "term": "Diversification",
+      "explanation_en": "Diversification means spreading investments across different sectors so a downturn in one area doesn't sink the whole portfolio. Today, instead of adding more tech/semiconductor names on top of existing holdings, new buys were chosen from telecom and materials sectors to reduce correlated risk.",
+      "explanation_zh": "\u5206\u6563\u6295\u8cc7\u662f\u6307\u5c07\u8cc7\u91d1\u5206\u4f48\u65bc\u4e0d\u540c\u884c\u696d\uff0c\u907f\u514d\u55ae\u4e00\u677f\u584a\u4e0b\u8dcc\u62d6\u7d2f\u6574\u500b\u7d44\u5408\u3002\u4eca\u65e5\u5728\u539f\u6709\u534a\u5c0e\u9ad4\u53ca\u79d1\u6280\u6301\u5009\u57fa\u790e\u4e0a\uff0c\u65b0\u8cb7\u5165\u6a19\u7684\u7279\u610f\u9078\u64c7\u96fb\u8a0a\u53ca\u539f\u6750\u6599\u677f\u584a\uff0c\u4ee5\u964d\u4f4e\u6301\u5009\u4e4b\u9593\u7684\u76f8\u95dc\u98a8\u96aa\u3002"
     }
   }
 }
