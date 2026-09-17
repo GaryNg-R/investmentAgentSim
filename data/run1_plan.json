@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-09-16T21:00:59.648038+00:00",
+  "saved_at": "2026-09-17T13:00:55.226595+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,20 +7,26 @@
         "action": "BUY",
         "ticker": "FTAI",
         "conviction": "high",
-        "reasoning": "Full multi-signal confirmation (RSI 67.3 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) signals genuine institutional buying despite a flat broad market."
+        "reasoning": "Top score with all four confirming signals (RSI 67 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) indicating strong institutional participation despite a neutral macro tape."
+      },
+      {
+        "action": "BUY",
+        "ticker": "XMTR",
+        "conviction": "high",
+        "reasoning": "Second-highest score with the same full four-signal confirmation as FTAI, offering diversification into industrial/marketplace exposure distinct from existing holdings."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat today (NASDAQ -0.0%, S&P 500 -0.4%), so we held back from most new buys. FTAI stood out with every bullish technical signal aligned (momentum, trend, and volume), so we added a high-conviction position with available cash while leaving existing holdings untouched.",
+    "briefing": "Markets were flat to slightly negative today (S&P -0.4%, NASDAQ roughly unchanged), a neutral tape overall. Rather than forcing capital to work or sitting entirely idle, we selectively added FTAI and XMTR, the two candidates showing full four-signal technical confirmation (bullish RSI, MACD crossover, price above SMA-20, and a volume surge), leaving one slot open for a clearer risk-on setup.",
     "market_education": {
-      "summary_en": "Major indices traded essentially flat today, with the S&P 500 slipping slightly and the NASDAQ nearly unchanged, reflecting a lack of strong directional catalysts. In quiet sessions like this, stock-specific technical setups \u2014 rather than broad macro sentiment \u2014 tend to drive individual winners. FTAI's alignment of RSI, MACD, and volume signals stood out as an exception to the market's overall indecision.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5e7e\u4e4e\u6301\u5e73\uff0c\u986f\u793a\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u5728\u9019\u7a2e\u76e4\u6574\u683c\u5c40\u4e0b\uff0c\u500b\u80a1\u7684\u6280\u8853\u9762\u8a0a\u865f\uff08\u800c\u975e\u5b8f\u89c0\u60c5\u7dd2\uff09\u5f80\u5f80\u624d\u662f\u6c7a\u5b9a\u500b\u5225\u80a1\u7968\u8868\u73fe\u7684\u95dc\u9375\u3002FTAI\u5728RSI\u3001MACD\u8207\u6210\u4ea4\u91cf\u8a0a\u865f\u4e0a\u7f55\u898b\u5730\u5168\u6578\u8f49\u5f37\uff0c\u6210\u70ba\u4eca\u65e5\u5927\u76e4\u6c89\u60b6\u4e2d\u7684\u4eae\u9ede\u3002",
+      "summary_en": "Broad indices were essentially flat today, with the S&P 500 down modestly and the NASDAQ roughly unchanged, reflecting a lack of strong directional catalysts rather than any specific negative headline. In quiet, range-bound sessions like this, individual stock setups with strong technical confirmation can still outperform the index even as the broader market treads water. No major news source or specific headline drove today's price action.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u5e73\u7a69\uff0c\u6a19\u666e500\u6307\u6578\u5c0f\u5e45\u4e0b\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5247\u5e7e\u4e4e\u6301\u5e73\uff0c\u986f\u793a\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u7684\u65b9\u5411\u6027\u50ac\u5316\u56e0\u7d20\uff0c\u800c\u975e\u53d7\u5230\u7279\u5b9a\u8ca0\u9762\u6d88\u606f\u5f71\u97ff\u3002\u5728\u9019\u7a2e\u6a6b\u76e4\u6574\u7406\u7684\u5e02\u6cc1\u4e0b\uff0c\u5177\u5099\u5f37\u52c1\u6280\u8853\u9762\u78ba\u8a8d\u8a0a\u865f\u7684\u500b\u80a1\u4ecd\u6709\u6a5f\u6703\u8dd1\u8d0f\u5927\u76e4\u3002\u4eca\u65e5\u4e26\u7121\u91cd\u5927\u65b0\u805e\u6216\u5177\u9ad4\u982d\u689d\u6d88\u606f\u4e3b\u5c0e\u80a1\u50f9\u8d70\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks in motion tend to stay in motion. Today's market was flat overall, but FTAI showed every classic momentum signal at once (rising price, strong trend indicators, and a volume surge), which is why it was selected despite the quiet broader market.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u5df2\u7d93\u5448\u73fe\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u7406\u8ad6\u57fa\u790e\u662f\u300c\u4e0a\u6f32\u4e2d\u7684\u80a1\u7968\u50be\u5411\u6301\u7e8c\u4e0a\u6f32\u300d\u3002\u5118\u7ba1\u4eca\u65e5\u5927\u76e4\u6574\u9ad4\u5e73\u6de1\uff0c\u4f46FTAI\u540c\u6642\u51fa\u73fe\u4e86\u6240\u6709\u7d93\u5178\u52d5\u80fd\u8a0a\u865f\uff08\u50f9\u683c\u4e0a\u6f32\u3001\u8da8\u52e2\u6307\u6a19\u5f37\u52c1\u3001\u6210\u4ea4\u91cf\u653e\u5927\uff09\uff0c\u56e0\u6b64\u5728\u5927\u76e4\u6c89\u60b6\u4e4b\u969b\u4ecd\u88ab\u9078\u4e2d\u8cb7\u5165\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators \u2014 like RSI, MACD, price versus moving averages, and volume \u2014 all point the same direction at once. It's more reliable than relying on a single signal, because it reduces the chance of chasing a random price blip.",
+      "explanation_zh": "\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u6709\u5728\u591a\u500b\u7368\u7acb\u7684\u6280\u8853\u6307\u6a19\uff08\u4f8b\u5982RSI\u3001MACD\u3001\u50f9\u683c\u76f8\u5c0d\u5747\u7dda\u7684\u4f4d\u7f6e\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642\uff0c\u624d\u9032\u884c\u4ea4\u6613\u64cd\u4f5c\u3002\u9019\u6bd4\u4f9d\u8cf4\u55ae\u4e00\u8a0a\u865f\u66f4\u53ef\u9760\uff0c\u56e0\u70ba\u80fd\u964d\u4f4e\u8aa4\u5224\u96a8\u6a5f\u50f9\u683c\u6ce2\u52d5\u7684\u98a8\u96aa\u3002"
     }
   }
 }

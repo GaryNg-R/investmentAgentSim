@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-17",
+  "briefing": "Markets were flat to slightly negative today (S&P -0.4%, NASDAQ roughly unchanged), a neutral tape overall. Rather than forcing capital to work or sitting entirely idle, we selectively added FTAI and XMTR, the two candidates showing full four-signal technical confirmation (bullish RSI, MACD crossover, price above SMA-20, and a volume surge), leaving one slot open for a clearer risk-on setup.",
+  "daily_lesson": {
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators — like RSI, MACD, price versus moving averages, and volume — all point the same direction at once. It's more reliable than relying on a single signal, because it reduces the chance of chasing a random price blip.",
+    "explanation_zh": "多重訊號確認是指只有在多個獨立的技術指標（例如RSI、MACD、價格相對均線的位置，以及成交量）同時指向同一方向時，才進行交易操作。這比依賴單一訊號更可靠，因為能降低誤判隨機價格波動的風險。"
+  },
+  "market_education": {
+    "summary_en": "Broad indices were essentially flat today, with the S&P 500 down modestly and the NASDAQ roughly unchanged, reflecting a lack of strong directional catalysts rather than any specific negative headline. In quiet, range-bound sessions like this, individual stock setups with strong technical confirmation can still outperform the index even as the broader market treads water. No major news source or specific headline drove today's price action.",
+    "summary_zh": "今日大盤走勢大致平穩，標普500指數小幅下跌，納斯達克指數則幾乎持平，顯示市場缺乏明確的方向性催化因素，而非受到特定負面消息影響。在這種橫盤整理的市況下，具備強勁技術面確認訊號的個股仍有機會跑贏大盤。今日並無重大新聞或具體頭條消息主導股價走勢。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "FTAI",
+      "conviction": "high",
+      "reasoning": "Top score with all four confirming signals (RSI 67 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) indicating strong institutional participation despite a neutral macro tape."
+    },
+    {
+      "action": "BUY",
+      "ticker": "XMTR",
+      "conviction": "high",
+      "reasoning": "Second-highest score with the same full four-signal confirmation as FTAI, offering diversification into industrial/marketplace exposure distinct from existing holdings."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14255.735246181488,
+    "cash": 689.2850012779236,
+    "pnl_dollar": 4255.735246181488,
+    "pnl_pct": 42.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
