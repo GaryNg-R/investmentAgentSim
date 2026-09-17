@@ -1,34 +1,28 @@
 {
   "date": "2026-09-17",
-  "briefing": "NASDAQ +1.6% and S&P 500 +1.1% mark a clear risk-on day, so per strategy we're deploying remaining cash into our three open slots rather than sitting idle. Picked OKLO, BHVN, and APLD — all show full multi-signal confirmation (RSI in bullish zone, MACD crossover, rising histogram, price above SMA-20) and diversify us into energy, biotech, and AI infrastructure away from our existing quantum/mining-heavy tilt.",
+  "briefing": "NASDAQ +1.6% and S&P 500 +1.1% mark a clear risk-on session, so with 3 open slots and cash above the $500 threshold we deployed into two of the highest-scoring, fully-confirmed candidates rather than sitting idle. AAL and BFLY both show all four bullish signals (RSI in the healthy 55-70 zone, MACD crossover, rising histogram, price above SMA-20), and we kept one slot plus some cash in reserve rather than force a third buy.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Today's picks all showed multiple confirming signals — rising RSI, a bullish MACD crossover, and price above its 20-day average — which together suggest real buying pressure rather than a random blip.",
-    "explanation_zh": "動能投資（Momentum Investing）是指買入已經呈上升趨勢的股票，原理是短期內強勢表現往往會延續。今日選中的股票都同時出現多個確認訊號——RSI上升、MACD出現黃金交叉、股價高於20日平均線——顯示這是真實的買盤推動，而非偶然波動。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means only acting on a bullish signal when multiple independent indicators agree — here, RSI in a healthy range, a MACD bullish crossover, a rising MACD histogram, and price above its 20-day average all lining up together. Relying on just one signal (like RSI alone) is more likely to be noise; four aligned signals suggest real, broad-based buying interest.",
+    "explanation_zh": "動能確認指的是只有在多項獨立技術指標同時發出看漲訊號時才進場，例如RSI處於健康區間、MACD出現黃金交叉、MACD柱狀圖持續放大，以及股價站上20日均線。若只依賴單一訊號（如RSI），容易誤判雜訊；四項訊號同時出現則代表真正、廣泛的買盤力道。"
   },
   "market_education": {
-    "summary_en": "Broad market strength today pushed both the NASDAQ (+1.6%) and S&P 500 (+1.1%) higher, with technology and growth names leading the advance. This kind of synchronized move across both indices typically reflects improving investor risk appetite rather than a single-stock story. No major company-specific catalysts were flagged in today's screen — the move looks macro-driven.",
-    "summary_zh": "今日大市走強，納斯達克指數上升1.6%，標普500指數上升1.1%，科技及成長股領漲。兩大指數同步走高，通常反映投資者風險胃納改善，而非個別股份消息帶動。今日篩選未見明顯個股催化因素，估計今次升勢主要由宏觀因素驅動。",
+    "summary_en": "Broad indices rallied today with the NASDAQ up 1.6% and the S&P 500 up 1.1%, a pattern consistent with renewed risk appetite across growth and cyclical names alike. The breadth of the move — strength in airlines, semiconductors, and speculative small-caps together — suggests investors were rotating back into risk assets rather than reacting to a single catalyst. No specific news headlines were available in today's data feed to cite directly.",
+    "summary_zh": "今日大盤普遍上揚，納斯達克指數上漲1.6%，標普500指數上漲1.1%，顯示市場風險偏好明顯回升。從航空股、半導體到投機性小型股同步走強來看，資金似乎是全面重新流入風險資產，而非受單一消息面事件驅動。今日數據中未提供具體新聞標題可供引用。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "OKLO",
+      "ticker": "AAL",
       "conviction": "high",
-      "reasoning": "Score 95 with RSI, MACD crossover, rising histogram, and price above SMA-20 all confirming institutional momentum in a risk-on tape."
+      "reasoning": "RSI 55.1 (least overbought of the top-scored names), bullish MACD crossover, rising histogram, and price above SMA-20 all confirm institutional buying on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "BHVN",
+      "ticker": "BFLY",
       "conviction": "medium",
-      "reasoning": "Full four-signal confirmation at score 95 while adding biotech exposure uncorrelated to existing quantum/AI-heavy holdings."
-    },
-    {
-      "action": "BUY",
-      "ticker": "APLD",
-      "conviction": "medium",
-      "reasoning": "Strong momentum signals (RSI 67.2, MACD bullish, above SMA-20) in AI data-center infrastructure, filling the third open slot on a genuine risk-on day."
+      "reasoning": "Full four-signal confirmation (RSI 63.3, MACD crossover, rising histogram, price above SMA-20) plus a different sector (medtech) diversifies the tech-heavy current book."
     }
   ],
   "outcomes": {
