@@ -1,34 +1,28 @@
 {
   "date": "2026-09-17",
-  "briefing": "Markets were risk-on today with NASDAQ +1.5% and S&P 500 +0.9%. With three open portfolio slots and cash above the $500 threshold, deployed into SMCI, CMPS, and IBRX — the three candidates showing full multi-signal confirmation (RSI in bullish zone, MACD crossover, rising momentum, price above SMA-20, and a volume surge). Existing positions were held unchanged since the market doesn't warrant exiting winners on a constructive day.",
+  "briefing": "NASDAQ +1.6% and S&P 500 +1.1% point to a risk-on day, so with 3 open slots and cash above the $500 threshold we deployed into two of our best-scoring, most liquid momentum names rather than idling cash. We stayed at medium conviction since volume-surge confirmation wasn't present, and left existing winners untouched per prior lessons about not exiting on strength.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that stocks moving up tend to keep moving up in the short term. Today's buys were chosen because they showed multiple confirming signals together — rising price, strong volume, and bullish technical indicators — rather than just one signal in isolation.",
-    "explanation_zh": "動能投資是指買入正處於上升趨勢的股票，理論基礎是股價短期內傾向延續原有走勢。今日選股是因為同時出現多項確認訊號——價格上漲、成交量放大、技術指標偏多——而非僅憑單一訊號做出決定。"
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that stocks moving higher on strong volume and technical signals (like MACD crossovers) tend to keep moving in that direction for a while. It works best when confirmed by multiple signals together, since any single indicator can give false signals.",
+    "explanation_zh": "動能投資是指買入正處於上升趨勢的股票，其邏輯是當股票在強勁成交量與技術訊號（如MACD黃金交叉）配合下上漲時，往往會延續一段時間的漲勢。這種策略在多項訊號同時確認時效果最佳，因為單一指標容易出現假訊號。"
   },
   "market_education": {
-    "summary_en": "Broad market indices advanced today, with the NASDAQ outperforming the S&P 500, suggesting investors leaned into growth and tech-sensitive names. The gains were accompanied by strong volume in several small and mid-cap names, a sign of active institutional buying rather than thin, low-conviction moves. No specific company or macro headline was provided for today's session, so this summary reflects the price action itself.",
-    "summary_zh": "今日大盤走高，納斯達克指數表現優於標普500指數，顯示資金傾向流入成長股與科技相關類股。多支中小型股同時出現放量上漲，反映機構資金的積極買盤，而非零星的低信心波動。今日並未提供具體的公司或總經新聞標題，因此本摘要主要根據價格與成交量表現撰寫。",
+    "summary_en": "Broad tech-led gains pushed the NASDAQ up 1.6% and the S&P 500 up 1.1% today, consistent with continued risk appetite across growth and momentum names. Breadth was solid, with many screened stocks showing bullish MACD crossovers and RSI readings in the healthy 55-70 range rather than extreme overbought territory. No single catalyst headline is available for today's session, so the move looks like a continuation of the broader momentum trend rather than a news-driven spike.",
+    "summary_zh": "今日科技股帶動大盤上揚，納斯達克指數上漲1.6%，標普500指數上漲1.1%，顯示市場風險偏好持續升溫。多隻篩選股票出現MACD黃金交叉，RSI落在55至70的健康區間，並未出現過熱超買現象，顯示上漲動能較為健康。目前沒有明確的單一新聞事件驅動今日走勢，較像是既有動能行情的延續。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "SMCI",
-      "conviction": "high",
-      "reasoning": "All four confirmation signals present (RSI 69.4 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day with an open slot."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CMPS",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (RSI 65.9, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) matches the highest-conviction setup criteria."
-    },
-    {
-      "action": "BUY",
-      "ticker": "IBRX",
+      "ticker": "NVDA",
       "conviction": "medium",
-      "reasoning": "Same full multi-signal confirmation as top candidates; sized smaller given limited remaining cash after the first two buys."
+      "reasoning": "RSI 60.3 in bullish zone with MACD bullish crossover and price above SMA-20, offering quality large-cap momentum exposure without overbought risk."
+    },
+    {
+      "action": "BUY",
+      "ticker": "TSLA",
+      "conviction": "medium",
+      "reasoning": "RSI 59.2 with confirmed MACD crossover and rising histogram gives solid momentum in a liquid large-cap name suited to today's risk-on tape."
     }
   ],
   "outcomes": {
