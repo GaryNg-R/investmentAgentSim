@@ -1,34 +1,34 @@
 {
   "date": "2026-09-17",
-  "briefing": "Markets were risk-on today with NASDAQ +1.4% and S&P 500 +0.9%. With cash above the $500 threshold and 3 open slots, we deployed into NVDA, NOK, and SVM — all showing full bullish signal confirmation — while diversifying away from the portfolio's existing semiconductor/AI concentration.",
+  "briefing": "Markets were risk-on today with NASDAQ +1.5% and S&P 500 +0.9%. With three open portfolio slots and cash above the $500 threshold, deployed into SMCI, CMPS, and IBRX — the three candidates showing full multi-signal confirmation (RSI in bullish zone, MACD crossover, rising momentum, price above SMA-20, and a volume surge). Existing positions were held unchanged since the market doesn't warrant exiting winners on a constructive day.",
   "daily_lesson": {
-    "term": "Diversification",
-    "explanation_en": "Diversification means spreading investments across different sectors so a downturn in one area doesn't sink the whole portfolio. Today, instead of adding more tech/semiconductor names on top of existing holdings, new buys were chosen from telecom and materials sectors to reduce correlated risk.",
-    "explanation_zh": "分散投資是指將資金分佈於不同行業，避免單一板塊下跌拖累整個組合。今日在原有半導體及科技持倉基礎上，新買入標的特意選擇電訊及原材料板塊，以降低持倉之間的相關風險。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that stocks moving up tend to keep moving up in the short term. Today's buys were chosen because they showed multiple confirming signals together — rising price, strong volume, and bullish technical indicators — rather than just one signal in isolation.",
+    "explanation_zh": "動能投資是指買入正處於上升趨勢的股票，理論基礎是股價短期內傾向延續原有走勢。今日選股是因為同時出現多項確認訊號——價格上漲、成交量放大、技術指標偏多——而非僅憑單一訊號做出決定。"
   },
   "market_education": {
-    "summary_en": "Broad market strength today pushed both the NASDAQ (+1.4%) and S&P 500 (+0.9%) higher, with technology and momentum names leading gains as risk appetite improved. Breadth was strong, with numerous stocks showing bullish MACD crossovers and volume surges consistent with institutional buying. This risk-on tone supported deploying idle cash into high-conviction, multi-signal-confirmed candidates.",
-    "summary_zh": "今日大市走強，納斯達克指數升1.4%，標普500指數升0.9%，科技股及動能股領漲，市場風險胃納明顯回升。市場廣度良好，不少個股出現MACD黃金交叉及成交量放大，反映機構資金流入迹象。在這種風險偏好升溫的氣氛下，組合利用閒置現金買入訊號齊備、信心度較高的標的。",
+    "summary_en": "Broad market indices advanced today, with the NASDAQ outperforming the S&P 500, suggesting investors leaned into growth and tech-sensitive names. The gains were accompanied by strong volume in several small and mid-cap names, a sign of active institutional buying rather than thin, low-conviction moves. No specific company or macro headline was provided for today's session, so this summary reflects the price action itself.",
+    "summary_zh": "今日大盤走高，納斯達克指數表現優於標普500指數，顯示資金傾向流入成長股與科技相關類股。多支中小型股同時出現放量上漲，反映機構資金的積極買盤，而非零星的低信心波動。今日並未提供具體的公司或總經新聞標題，因此本摘要主要根據價格與成交量表現撰寫。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NVDA",
+      "ticker": "SMCI",
       "conviction": "high",
-      "reasoning": "All momentum signals confirmed (MACD crossover, rising histogram, price above SMA-20, volume surge) with RSI 61.4 still below overbought, and NVDA offers the best liquidity/quality among top-scored candidates."
+      "reasoning": "All four confirmation signals present (RSI 69.4 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day with an open slot."
     },
     {
       "action": "BUY",
-      "ticker": "NOK",
-      "conviction": "medium",
-      "reasoning": "Full signal confirmation at a reasonable valuation, and telecom exposure diversifies the portfolio away from its current semiconductor/AI concentration (MU, INOD, QQQ, OLED)."
+      "ticker": "CMPS",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (RSI 65.9, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) matches the highest-conviction setup criteria."
     },
     {
       "action": "BUY",
-      "ticker": "SVM",
+      "ticker": "IBRX",
       "conviction": "medium",
-      "reasoning": "Full signal confirmation in the materials/mining sector, providing diversification uncorrelated to the tech-heavy existing book while deploying idle cash on a risk-on day."
+      "reasoning": "Same full multi-signal confirmation as top candidates; sized smaller given limited remaining cash after the first two buys."
     }
   ],
   "outcomes": {
