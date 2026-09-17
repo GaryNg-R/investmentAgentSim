@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-09-17T17:00:53.842179+00:00",
+  "saved_at": "2026-09-17T18:00:51.643330+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "F",
+        "ticker": "OKLO",
         "conviction": "high",
-        "reasoning": "Fresh MACD bullish crossover with RSI 55.4 just entering the bullish zone and price above SMA-20 offers a low-overbought-risk entry on a risk-on day."
+        "reasoning": "Score 95 with RSI, MACD crossover, rising histogram, and price above SMA-20 all confirming institutional momentum in a risk-on tape."
       },
       {
         "action": "BUY",
-        "ticker": "BLSH",
+        "ticker": "BHVN",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 55.2, rising MACD histogram, and price above SMA-20 signals fresh institutional momentum without being overbought."
+        "reasoning": "Full four-signal confirmation at score 95 while adding biotech exposure uncorrelated to existing quantum/AI-heavy holdings."
       },
       {
         "action": "BUY",
-        "ticker": "ONDS",
+        "ticker": "APLD",
         "conviction": "medium",
-        "reasoning": "All four bullish signals confirmed (RSI 56.8, MACD crossover, rising histogram, price above SMA-20) and diversifies away from existing tech/industrial holdings."
+        "reasoning": "Strong momentum signals (RSI 67.2, MACD bullish, above SMA-20) in AI data-center infrastructure, filling the third open slot on a genuine risk-on day."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "NASDAQ +1.6% and S&P 500 +1.1% mark a risk-on day, and with 3 open slots and cash above the $500 threshold we deployed into three momentum-confirmed names (F, BLSH, ONDS) with lower RSI readings to reduce overbought risk. Existing winning positions were left untouched to let stop-loss and profit targets manage them automatically.",
+    "briefing": "NASDAQ +1.6% and S&P 500 +1.1% mark a clear risk-on day, so per strategy we're deploying remaining cash into our three open slots rather than sitting idle. Picked OKLO, BHVN, and APLD \u2014 all show full multi-signal confirmation (RSI in bullish zone, MACD crossover, rising histogram, price above SMA-20) and diversify us into energy, biotech, and AI infrastructure away from our existing quantum/mining-heavy tilt.",
     "market_education": {
-      "summary_en": "Broad market strength today, with the NASDAQ up 1.6% and the S&P 500 up 1.1%, reflects continued risk appetite across growth and value sectors alike. Momentum names showing bullish MACD crossovers and RSI readings in the healthy 55-70 range attracted fresh buying interest. No single catalyst headline is available for today, so the move reflects broad-based sentiment rather than one specific event.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u5f37\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53471.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53471.1%\uff0c\u53cd\u6620\u6210\u9577\u80a1\u53ca\u50f9\u503c\u80a1\u540c\u6642\u53d7\u5230\u8cc7\u91d1\u8ffd\u6367\uff0c\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u6301\u7e8c\u3002MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc55\u81f370\u5065\u5eb7\u5340\u9593\u7684\u52d5\u529b\u80a1\u4efd\u5438\u5f15\u65b0\u8cb7\u76e4\u3002\u4eca\u65e5\u4e26\u7121\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u53ef\u89e3\u91cb\u4eca\u65e5\u5347\u52e2\uff0c\u5c6c\u65bc\u8f03\u5ee3\u6cdb\u7684\u5e02\u5834\u60c5\u7dd2\u5e36\u52d5\u3002",
+      "summary_en": "Broad market strength today pushed both the NASDAQ (+1.6%) and S&P 500 (+1.1%) higher, with technology and growth names leading the advance. This kind of synchronized move across both indices typically reflects improving investor risk appetite rather than a single-stock story. No major company-specific catalysts were flagged in today's screen \u2014 the move looks macro-driven.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u5f37\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53471.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53471.1%\uff0c\u79d1\u6280\u53ca\u6210\u9577\u80a1\u9818\u6f32\u3002\u5169\u5927\u6307\u6578\u540c\u6b65\u8d70\u9ad8\uff0c\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u80c3\u7d0d\u6539\u5584\uff0c\u800c\u975e\u500b\u5225\u80a1\u4efd\u6d88\u606f\u5e36\u52d5\u3002\u4eca\u65e5\u7be9\u9078\u672a\u898b\u660e\u986f\u500b\u80a1\u50ac\u5316\u56e0\u7d20\uff0c\u4f30\u8a08\u4eca\u6b21\u5347\u52e2\u4e3b\u8981\u7531\u5b8f\u89c0\u56e0\u7d20\u9a45\u52d5\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Traders look for signals like a rising MACD histogram and RSI in a healthy (not overbought) range to confirm the trend has real strength before jumping in.",
-      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u56e0\u70ba\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u7684\u80a1\u7968\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u5347\u52e2\u3002\u6295\u8cc7\u8005\u6703\u7559\u610fMACD\u67f1\u72c0\u5716\u4e0a\u5347\u3001RSI\u8655\u65bc\u5065\u5eb7\uff08\u975e\u8d85\u8cb7\uff09\u5340\u9593\u7b49\u8a0a\u865f\uff0c\u4ee5\u78ba\u8a8d\u5347\u52e2\u5177\u5099\u771f\u6b63\u52d5\u529b\uff0c\u624d\u6c7a\u5b9a\u5165\u5e02\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Today's picks all showed multiple confirming signals \u2014 rising RSI, a bullish MACD crossover, and price above its 20-day average \u2014 which together suggest real buying pressure rather than a random blip.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5448\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u539f\u7406\u662f\u77ed\u671f\u5167\u5f37\u52e2\u8868\u73fe\u5f80\u5f80\u6703\u5ef6\u7e8c\u3002\u4eca\u65e5\u9078\u4e2d\u7684\u80a1\u7968\u90fd\u540c\u6642\u51fa\u73fe\u591a\u500b\u78ba\u8a8d\u8a0a\u865f\u2014\u2014RSI\u4e0a\u5347\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc20\u65e5\u5e73\u5747\u7dda\u2014\u2014\u986f\u793a\u9019\u662f\u771f\u5be6\u7684\u8cb7\u76e4\u63a8\u52d5\uff0c\u800c\u975e\u5076\u7136\u6ce2\u52d5\u3002"
     }
   }
 }
