@@ -1,28 +1,28 @@
 {
   "date": "2026-09-17",
-  "briefing": "NASDAQ +1.6% and S&P 500 +1.1% mark a clear risk-on session, so with 3 open slots and cash above the $500 threshold we deployed into two of the highest-scoring, fully-confirmed candidates rather than sitting idle. AAL and BFLY both show all four bullish signals (RSI in the healthy 55-70 zone, MACD crossover, rising histogram, price above SMA-20), and we kept one slot plus some cash in reserve rather than force a third buy.",
+  "briefing": "Markets are risk-on today with NASDAQ +1.7% and S&P 500 +1.1%. We deployed cash into CRSP and ABCL, the only two candidates showing full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge), leaving one slot open rather than forcing a lower-conviction buy.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means only acting on a bullish signal when multiple independent indicators agree — here, RSI in a healthy range, a MACD bullish crossover, a rising MACD histogram, and price above its 20-day average all lining up together. Relying on just one signal (like RSI alone) is more likely to be noise; four aligned signals suggest real, broad-based buying interest.",
-    "explanation_zh": "動能確認指的是只有在多項獨立技術指標同時發出看漲訊號時才進場，例如RSI處於健康區間、MACD出現黃金交叉、MACD柱狀圖持續放大，以及股價站上20日均線。若只依賴單一訊號（如RSI），容易誤判雜訊；四項訊號同時出現則代表真正、廣泛的買盤力道。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading activity, not just a small handful of trades pushing the price around. When a stock rises on a volume surge alongside other bullish signals like a MACD crossover, it suggests real institutional buying interest rather than a fleeting spike that could quickly reverse.",
+    "explanation_zh": "成交量確認是指在股價上升時，同時檢查其成交量是否明顯高於平時水平，而非僅由少數交易推動價格波動。當股份在成交量激增的同時，亦出現MACD黃金交叉等其他利好訊號，這通常反映機構投資者真實買盤，而非短暫且容易逆轉的價格波動。"
   },
   "market_education": {
-    "summary_en": "Broad indices rallied today with the NASDAQ up 1.6% and the S&P 500 up 1.1%, a pattern consistent with renewed risk appetite across growth and cyclical names alike. The breadth of the move — strength in airlines, semiconductors, and speculative small-caps together — suggests investors were rotating back into risk assets rather than reacting to a single catalyst. No specific news headlines were available in today's data feed to cite directly.",
-    "summary_zh": "今日大盤普遍上揚，納斯達克指數上漲1.6%，標普500指數上漲1.1%，顯示市場風險偏好明顯回升。從航空股、半導體到投機性小型股同步走強來看，資金似乎是全面重新流入風險資產，而非受單一消息面事件驅動。今日數據中未提供具體新聞標題可供引用。",
+    "summary_en": "Broad market strength today lifted both the NASDAQ and S&P 500, with tech and growth names leading gains as investors rotated back into risk assets. Several biotech and small-cap names like CRSP and ABCL saw volume surges alongside bullish technical crossovers, suggesting institutional accumulation rather than retail-driven spikes. This kind of broad-based, volume-confirmed rally typically reflects improving investor sentiment rather than a single company-specific catalyst.",
+    "summary_zh": "今日大市造好，納指及標普500同步上揚，科技及增長股領漲，反映資金重新流入風險資產。CRSP及ABCL等生物科技及中小型股份出現成交量激增，配合技術指標的黃金交叉，顯示機構投資者正在吸納，而非單純散戶炒作。此類伴隨成交量確認的全面性升市，一般反映市場情緒改善，而非個別公司的特定利好消息。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AAL",
+      "ticker": "CRSP",
       "conviction": "high",
-      "reasoning": "RSI 55.1 (least overbought of the top-scored names), bullish MACD crossover, rising histogram, and price above SMA-20 all confirm institutional buying on a risk-on day."
+      "reasoning": "RSI 68.1 in bullish zone, MACD bullish crossover, price above SMA-20, and a volume surge together confirm strong institutional buying momentum."
     },
     {
       "action": "BUY",
-      "ticker": "BFLY",
-      "conviction": "medium",
-      "reasoning": "Full four-signal confirmation (RSI 63.3, MACD crossover, rising histogram, price above SMA-20) plus a different sector (medtech) diversifies the tech-heavy current book."
+      "ticker": "ABCL",
+      "conviction": "high",
+      "reasoning": "Matches all four confirmation signals (bullish RSI, MACD crossover, price above SMA-20, volume surge) alongside CRSP as the top-scoring candidate."
     }
   ],
   "outcomes": {

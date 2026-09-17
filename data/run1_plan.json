@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-09-17T19:00:59.134373+00:00",
+  "saved_at": "2026-09-17T20:00:46.455557+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "AAL",
+        "ticker": "CRSP",
         "conviction": "high",
-        "reasoning": "RSI 55.1 (least overbought of the top-scored names), bullish MACD crossover, rising histogram, and price above SMA-20 all confirm institutional buying on a risk-on day."
+        "reasoning": "RSI 68.1 in bullish zone, MACD bullish crossover, price above SMA-20, and a volume surge together confirm strong institutional buying momentum."
       },
       {
         "action": "BUY",
-        "ticker": "BFLY",
-        "conviction": "medium",
-        "reasoning": "Full four-signal confirmation (RSI 63.3, MACD crossover, rising histogram, price above SMA-20) plus a different sector (medtech) diversifies the tech-heavy current book."
+        "ticker": "ABCL",
+        "conviction": "high",
+        "reasoning": "Matches all four confirmation signals (bullish RSI, MACD crossover, price above SMA-20, volume surge) alongside CRSP as the top-scoring candidate."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "NASDAQ +1.6% and S&P 500 +1.1% mark a clear risk-on session, so with 3 open slots and cash above the $500 threshold we deployed into two of the highest-scoring, fully-confirmed candidates rather than sitting idle. AAL and BFLY both show all four bullish signals (RSI in the healthy 55-70 zone, MACD crossover, rising histogram, price above SMA-20), and we kept one slot plus some cash in reserve rather than force a third buy.",
+    "briefing": "Markets are risk-on today with NASDAQ +1.7% and S&P 500 +1.1%. We deployed cash into CRSP and ABCL, the only two candidates showing full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge), leaving one slot open rather than forcing a lower-conviction buy.",
     "market_education": {
-      "summary_en": "Broad indices rallied today with the NASDAQ up 1.6% and the S&P 500 up 1.1%, a pattern consistent with renewed risk appetite across growth and cyclical names alike. The breadth of the move \u2014 strength in airlines, semiconductors, and speculative small-caps together \u2014 suggests investors were rotating back into risk assets rather than reacting to a single catalyst. No specific news headlines were available in today's data feed to cite directly.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.6%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u6f321.1%\uff0c\u986f\u793a\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347\u3002\u5f9e\u822a\u7a7a\u80a1\u3001\u534a\u5c0e\u9ad4\u5230\u6295\u6a5f\u6027\u5c0f\u578b\u80a1\u540c\u6b65\u8d70\u5f37\u4f86\u770b\uff0c\u8cc7\u91d1\u4f3c\u4e4e\u662f\u5168\u9762\u91cd\u65b0\u6d41\u5165\u98a8\u96aa\u8cc7\u7522\uff0c\u800c\u975e\u53d7\u55ae\u4e00\u6d88\u606f\u9762\u4e8b\u4ef6\u9a45\u52d5\u3002\u4eca\u65e5\u6578\u64da\u4e2d\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u5f15\u7528\u3002",
+      "summary_en": "Broad market strength today lifted both the NASDAQ and S&P 500, with tech and growth names leading gains as investors rotated back into risk assets. Several biotech and small-cap names like CRSP and ABCL saw volume surges alongside bullish technical crossovers, suggesting institutional accumulation rather than retail-driven spikes. This kind of broad-based, volume-confirmed rally typically reflects improving investor sentiment rather than a single company-specific catalyst.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u9020\u597d\uff0c\u7d0d\u6307\u53ca\u6a19\u666e500\u540c\u6b65\u4e0a\u63da\uff0c\u79d1\u6280\u53ca\u589e\u9577\u80a1\u9818\u6f32\uff0c\u53cd\u6620\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u98a8\u96aa\u8cc7\u7522\u3002CRSP\u53caABCL\u7b49\u751f\u7269\u79d1\u6280\u53ca\u4e2d\u5c0f\u578b\u80a1\u4efd\u51fa\u73fe\u6210\u4ea4\u91cf\u6fc0\u589e\uff0c\u914d\u5408\u6280\u8853\u6307\u6a19\u7684\u9ec3\u91d1\u4ea4\u53c9\uff0c\u986f\u793a\u6a5f\u69cb\u6295\u8cc7\u8005\u6b63\u5728\u5438\u7d0d\uff0c\u800c\u975e\u55ae\u7d14\u6563\u6236\u7092\u4f5c\u3002\u6b64\u985e\u4f34\u96a8\u6210\u4ea4\u91cf\u78ba\u8a8d\u7684\u5168\u9762\u6027\u5347\u5e02\uff0c\u4e00\u822c\u53cd\u6620\u5e02\u5834\u60c5\u7dd2\u6539\u5584\uff0c\u800c\u975e\u500b\u5225\u516c\u53f8\u7684\u7279\u5b9a\u5229\u597d\u6d88\u606f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means only acting on a bullish signal when multiple independent indicators agree \u2014 here, RSI in a healthy range, a MACD bullish crossover, a rising MACD histogram, and price above its 20-day average all lining up together. Relying on just one signal (like RSI alone) is more likely to be noise; four aligned signals suggest real, broad-based buying interest.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u6307\u7684\u662f\u53ea\u6709\u5728\u591a\u9805\u7368\u7acb\u6280\u8853\u6307\u6a19\u540c\u6642\u767c\u51fa\u770b\u6f32\u8a0a\u865f\u6642\u624d\u9032\u5834\uff0c\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001MACD\u67f1\u72c0\u5716\u6301\u7e8c\u653e\u5927\uff0c\u4ee5\u53ca\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\u3002\u82e5\u53ea\u4f9d\u8cf4\u55ae\u4e00\u8a0a\u865f\uff08\u5982RSI\uff09\uff0c\u5bb9\u6613\u8aa4\u5224\u96dc\u8a0a\uff1b\u56db\u9805\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u5247\u4ee3\u8868\u771f\u6b63\u3001\u5ee3\u6cdb\u7684\u8cb7\u76e4\u529b\u9053\u3002"
+      "term": "Volume Confirmation",
+      "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading activity, not just a small handful of trades pushing the price around. When a stock rises on a volume surge alongside other bullish signals like a MACD crossover, it suggests real institutional buying interest rather than a fleeting spike that could quickly reverse.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u78ba\u8a8d\u662f\u6307\u5728\u80a1\u50f9\u4e0a\u5347\u6642\uff0c\u540c\u6642\u6aa2\u67e5\u5176\u6210\u4ea4\u91cf\u662f\u5426\u660e\u986f\u9ad8\u65bc\u5e73\u6642\u6c34\u5e73\uff0c\u800c\u975e\u50c5\u7531\u5c11\u6578\u4ea4\u6613\u63a8\u52d5\u50f9\u683c\u6ce2\u52d5\u3002\u7576\u80a1\u4efd\u5728\u6210\u4ea4\u91cf\u6fc0\u589e\u7684\u540c\u6642\uff0c\u4ea6\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u7b49\u5176\u4ed6\u5229\u597d\u8a0a\u865f\uff0c\u9019\u901a\u5e38\u53cd\u6620\u6a5f\u69cb\u6295\u8cc7\u8005\u771f\u5be6\u8cb7\u76e4\uff0c\u800c\u975e\u77ed\u66ab\u4e14\u5bb9\u6613\u9006\u8f49\u7684\u50f9\u683c\u6ce2\u52d5\u3002"
     }
   }
 }
