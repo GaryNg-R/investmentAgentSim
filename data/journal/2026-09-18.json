@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-18",
+  "briefing": "Markets are broadly risk-on today with NASDAQ up 1.7% and the S&P 500 up 1.1%. With cash above the deployment threshold and two open slots, we're buying HLN and ABCL, both showing full multi-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge). Existing positions are held unchanged since none show weakness on a neutral-to-positive day.",
+  "daily_lesson": {
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that stocks moving strongly in one direction tend to keep moving that way in the short term. Today's picks combined several confirming signals — rising RSI, a MACD crossover, and a volume surge — which together suggest real buying interest rather than random noise.",
+    "explanation_zh": "動能投資（Momentum Investing）是指買入正處於上升趨勢的股票，理論基礎是強勢上升的股份短期內傾向延續原有走勢。今日選股結合多項確認訊號——RSI上升、MACD出現黃金交叉、成交量放大——顯示背後是真實買盤支持，而非隨機波動。"
+  },
+  "market_education": {
+    "summary_en": "Broad market strength today pushed NASDAQ up 1.7% and the S&P 500 up 1.1%, with risk appetite favoring growth and momentum names across small and mid-cap stocks. Several screened tickers showed textbook bullish setups — RSI in the healthy 55-70 zone, MACD crossovers, and volume surges — suggesting fresh institutional buying rather than a one-day spike. This breadth of confirmation across many names points to a sector-wide rotation into risk assets rather than isolated stock-specific news.",
+    "summary_zh": "今日大市造好，納斯達克指數升1.7%，標普500指數升1.1%，資金明顯偏好增長及動能股，中小型股表現尤其亮眼。多隻篩選股份同時出現「教科書式」看漲訊號——RSI處於55至70的健康區間、MACD出現黃金交叉、成交量明顯放大——顯示資金流入並非單日炒作，而是機構性買盤增持。如此廣泛的訊號確認顯示市場正整體轉向風險資產，而非個別股份的獨立消息帶動。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "HLN",
+      "conviction": "high",
+      "reasoning": "Highest momentum score (100) with RSI in bullish range, MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge confirming institutional participation."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ABCL",
+      "conviction": "medium",
+      "reasoning": "Score of 95 with RSI 67.2, MACD bullish crossover, price above SMA-20, and volume surge on a confirmed risk-on day."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14255.735246181488,
+    "cash": 689.2850012779236,
+    "pnl_dollar": 4255.735246181488,
+    "pnl_pct": 42.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
