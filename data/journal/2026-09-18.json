@@ -1,22 +1,22 @@
 {
   "date": "2026-09-18",
-  "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.4%, S&P 500 +0.2%), a neutral tape with no strong directional catalyst. With 3 open slots and cash above the $500 threshold, we added GLXY on full four-signal confirmation while holding all existing positions unchanged.",
+  "briefing": "Market is neutral today (NASDAQ +0.4%, S&P 500 +0.2%) with no broad risk-on signal, so we're not forcing multiple buys just to deploy the $689 in cash. NVDA stood out with all five technical signals confirming institutional-grade momentum, so we're adding one high-conviction position and holding the rest of cash and all 7 existing positions steady.",
   "daily_lesson": {
     "term": "Signal Confluence",
-    "explanation_en": "Signal confluence means waiting until several independent technical indicators — like RSI, MACD, price vs moving average, and volume — all point the same direction before acting. A single bullish signal can be noise, but when four line up together it's a much stronger sign that real buying interest (not just a random spike) is behind the move.",
-    "explanation_zh": "訊號共振是指等待多個獨立技術指標(如RSI、MACD、股價相對於移動平均線、成交量)同時指向同一方向後才採取行動。單一利好訊號可能只是雜訊,但當四個訊號同時出現時,就更能反映真實的買盤力量,而非偶發的價格波動。"
+    "explanation_en": "Signal confluence means waiting for several independent technical indicators — like a bullish MACD crossover, healthy RSI, price above its moving average, and a volume surge — to all line up before making a high-conviction trade. A single signal can be noise, but when multiple signals agree, it's more likely real institutional buying is happening.",
+    "explanation_zh": "訊號共振是指等待多個獨立的技術指標——例如MACD黃金交叉、合理的RSI水平、股價高於平均線，以及成交量放大——同時出現，才進行高信心的交易。單一訊號可能只是雜訊，但當多項訊號同時確認時，更有可能代表真實的機構資金流入。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted modestly higher today with NASDAQ up 0.4% and the S&P 500 up 0.2%, a quiet session without a single dominant catalyst moving the market. Trading stayed range-bound as investors awaited clearer signals before committing more capital. No major headline events were flagged in today's screen.",
-    "summary_zh": "今日大盤走勢溫和向上,納指升0.4%,標普500升0.2%,屬於缺乏明顯主導消息的平淡交易日。投資者在更清晰的訊號出現前保持觀望,成交區間偏窄。今日篩選未見重大頭條事件。",
+    "summary_en": "Major indices drifted modestly higher today with the NASDAQ up 0.4% and the S&P 500 up 0.2%, a quiet, low-volatility session without a clear macro catalyst. Semiconductor and AI-adjacent names like NVDA and SIMO showed standout relative strength with bullish MACD crossovers and volume surges, suggesting sector-specific buying rather than a market-wide move. Overall breadth was mixed, consistent with a neutral, wait-and-see tone among investors.",
+    "summary_zh": "今日大盤走勢溫和向上，納指升0.4%，標普500指數升0.2%，屬於波動較低、缺乏明顯宏觀催化劑的一個交易日。半導體及AI相關股份如NVDA及SIMO表現相對強勢，出現MACD黃金交叉及成交量放大的訊號，反映資金更多集中於個別板塊而非全面性升市。整體市場廣度參差，投資者情緒偏向中性觀望。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "GLXY",
+      "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "GLXY shows all four confirming signals (RSI in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20 with a volume surge), the top score on the list and a textbook institutional-participation setup."
+      "reasoning": "Full multi-signal confirmation (RSI 68.6 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) makes this the strongest candidate on the board."
     }
   ],
   "outcomes": {
