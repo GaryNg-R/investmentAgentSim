@@ -1,22 +1,22 @@
 {
   "date": "2026-09-18",
-  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.1%), so we stayed disciplined rather than chasing the whole candidate list. We used one of our three open slots on AERO, the strongest technically-confirmed setup, and are holding the rest of our cash and slots in reserve for a clearer risk-on signal.",
+  "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.4%, S&P 500 +0.2%), a neutral tape with no strong directional catalyst. With 3 open slots and cash above the $500 threshold, we added GLXY on full four-signal confirmation while holding all existing positions unchanged.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of buying on just one bullish sign, experienced investors look for several indicators to agree at once — like RSI showing healthy (not overheated) momentum, MACD confirming an upward crossover, and price trading above its moving average. When multiple signals line up, it's more likely a real trend rather than random noise.",
-    "explanation_zh": "有經驗的投資者不會單憑一個利好訊號就出手，而是等待多個技術指標同時確認——例如RSI顯示健康（未過熱）的上升動能、MACD出現黃金交叉、股價站上均線之上。當多個訊號同時出現時，代表這更可能是真實的上升趨勢，而非隨機波動。"
+    "term": "Signal Confluence",
+    "explanation_en": "Signal confluence means waiting until several independent technical indicators — like RSI, MACD, price vs moving average, and volume — all point the same direction before acting. A single bullish signal can be noise, but when four line up together it's a much stronger sign that real buying interest (not just a random spike) is behind the move.",
+    "explanation_zh": "訊號共振是指等待多個獨立技術指標(如RSI、MACD、股價相對於移動平均線、成交量)同時指向同一方向後才採取行動。單一利好訊號可能只是雜訊,但當四個訊號同時出現時,就更能反映真實的買盤力量,而非偶發的價格波動。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the NASDAQ up 0.2% and the S&P 500 up 0.1%, reflecting a quiet, directionless session rather than any major catalyst. No single sector or headline drove meaningful moves, so most stocks traded near their prior levels. This kind of low-volatility day often precedes a bigger move once new information (like earnings or economic data) arrives.",
-    "summary_zh": "今日大盤走勢平淡，納指微升0.2%，標普500僅升0.1%，市場缺乏明確方向，亦未見重大消息刺激。由於沒有特定板塊或新聞主導走勢，大部分股票價格維持在近日水平附近。這類低波動的交易日，往往預示著市場在等待新的消息（例如業績或經濟數據）出爐後才會有較大變動。",
+    "summary_en": "Broad indices drifted modestly higher today with NASDAQ up 0.4% and the S&P 500 up 0.2%, a quiet session without a single dominant catalyst moving the market. Trading stayed range-bound as investors awaited clearer signals before committing more capital. No major headline events were flagged in today's screen.",
+    "summary_zh": "今日大盤走勢溫和向上,納指升0.4%,標普500升0.2%,屬於缺乏明顯主導消息的平淡交易日。投資者在更清晰的訊號出現前保持觀望,成交區間偏窄。今日篩選未見重大頭條事件。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AERO",
-      "conviction": "medium",
-      "reasoning": "Highest-scoring candidate (95) with full multi-signal confirmation — RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 — indicating a genuine uptrend worth funding even on an otherwise neutral day."
+      "ticker": "GLXY",
+      "conviction": "high",
+      "reasoning": "GLXY shows all four confirming signals (RSI in bullish zone, MACD bullish crossover, rising histogram, price above SMA-20 with a volume surge), the top score on the list and a textbook institutional-participation setup."
     }
   ],
   "outcomes": {
