@@ -1,17 +1,24 @@
 {
   "date": "2026-09-18",
-  "briefing": "Markets were flat today (NASDAQ -0.0%, S&P 500 -0.1%), showing no clear risk-on signal despite three open portfolio slots and $689 in cash. Per past lessons, forcing a buy on a neutral day just to deploy capital has proven unwise — we're holding cash and letting existing positions (QQQ, EAT, OLED, WT, ROAD, INOD, MU) ride until either a genuine multi-signal risk-on setup emerges or automatic stop-loss/profit-target rules trigger.",
+  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.1%), so we stayed disciplined rather than chasing the whole candidate list. We used one of our three open slots on AERO, the strongest technically-confirmed setup, and are holding the rest of our cash and slots in reserve for a clearer risk-on signal.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' or neutral market day is when investors aren't strongly favoring growth stocks over safety, often shown by flat index moves. The lesson here is patience: it's usually better to hold cash and wait for a clear signal (like a strong up day with heavy volume) than to buy just because you have money sitting idle.",
-    "explanation_zh": "「風險偏好回落」或中性市況,是指投資者未有明顯傾向追捧增長型股票,通常反映在指數升跌幅度輕微。今日的教訓在於耐性:與其因為手頭有閒置現金而勉強入市,不如耐心等待明確訊號(例如成交量放大的強勢上升日)出現後才行動。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying on just one bullish sign, experienced investors look for several indicators to agree at once — like RSI showing healthy (not overheated) momentum, MACD confirming an upward crossover, and price trading above its moving average. When multiple signals line up, it's more likely a real trend rather than random noise.",
+    "explanation_zh": "有經驗的投資者不會單憑一個利好訊號就出手，而是等待多個技術指標同時確認——例如RSI顯示健康（未過熱）的上升動能、MACD出現黃金交叉、股價站上均線之上。當多個訊號同時出現時，代表這更可能是真實的上升趨勢，而非隨機波動。"
   },
   "market_education": {
-    "summary_en": "Today's session was essentially directionless, with both the NASDAQ and S&P 500 posting negligible moves of less than 0.1%. Without a strong catalyst or broad-based volume surge behind the day's top momentum names, there isn't enough conviction to call this a risk-on environment. Flat, low-conviction days like this are typically consolidation phases rather than trend reversals.",
-    "summary_zh": "今日大市方向不明,納指及標普500指數升跌幅度均不足0.1%,可謂波瀾不驚。由於缺乏強力催化劑,今日表現最強勢股份亦未見明顯成交量放大支持,故未足以判斷為「風險偏好」上升的市況。這類窄幅波動、缺乏方向的交易日,一般屬於整固階段,而非趨勢逆轉的訊號。",
+    "summary_en": "Major indices were essentially flat today, with the NASDAQ up 0.2% and the S&P 500 up 0.1%, reflecting a quiet, directionless session rather than any major catalyst. No single sector or headline drove meaningful moves, so most stocks traded near their prior levels. This kind of low-volatility day often precedes a bigger move once new information (like earnings or economic data) arrives.",
+    "summary_zh": "今日大盤走勢平淡，納指微升0.2%，標普500僅升0.1%，市場缺乏明確方向，亦未見重大消息刺激。由於沒有特定板塊或新聞主導走勢，大部分股票價格維持在近日水平附近。這類低波動的交易日，往往預示著市場在等待新的消息（例如業績或經濟數據）出爐後才會有較大變動。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "AERO",
+      "conviction": "medium",
+      "reasoning": "Highest-scoring candidate (95) with full multi-signal confirmation — RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 — indicating a genuine uptrend worth funding even on an otherwise neutral day."
+    }
+  ],
   "outcomes": {
     "total_value": 14255.735246181488,
     "cash": 689.2850012779236,
