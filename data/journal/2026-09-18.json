@@ -1,22 +1,22 @@
 {
   "date": "2026-09-18",
-  "briefing": "Market was flat today (NASDAQ +0.1%, S&P500 -0.1%) with no clear risk-on signal, so we made one measured buy in AMZN on strong individual momentum signals rather than deploying all available cash. Existing positions were held unchanged.",
+  "briefing": "Markets were flat today (NASDAQ +0.0%, S&P500 -0.1%) with no clear directional signal. Rather than forcing multiple buys on a neutral day, we deployed a portion of idle cash into SBET, the single candidate showing full multi-signal confirmation including a volume surge, while leaving the remaining two open slots for a stronger risk-on setup.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price trends, confirmed by indicators like RSI, MACD, and volume. Even on a quiet, neutral day for the overall market, a stock with multiple aligned bullish signals can still be a reasonable buy, as long as position size stays modest to reflect the lack of broad market confirmation.",
-    "explanation_zh": "動量投資是指買入已呈現強勁上升趨勢的股票,並以RSI、MACD及成交量等指標加以確認。即使大市當日整體平靜,若個股同時出現多個看漲訊號一致,仍可視為合理的買入機會,惟持倉規模應保持溫和,以反映大市未有明確方向的現實。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying on just one bullish sign, disciplined investors wait for several signals to line up together — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all these agree, it's a stronger clue that real buying interest (not just noise) is driving the move.",
+    "explanation_zh": "有紀律的投資人不會只憑單一利多訊號就進場,而是等待多個技術指標同時出現一致訊號——例如RSI處於健康區間、MACD黃金交叉、股價站上均線,以及成交量放大。當這些訊號同時出現時,更能確認是真實買盤而非雜訊在推動股價。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the NASDAQ up just 0.1% and the S&P 500 down 0.1%, reflecting a lack of strong directional catalysts. Without a clear risk-on or risk-off signal, broad market moves stayed muted while individual stocks with strong technical setups, like AMZN, continued attracting buying interest. No major market-moving headlines were available in today's feed to point to a specific driver.",
-    "summary_zh": "今日大市走勢近乎持平,納斯達克僅升0.1%,標普500則微跌0.1%,反映市場缺乏明顯的方向性催化劑。在沒有清晰的風險偏好訊號下,大市整體波動有限,但個別具強勁技術面的股票,例如AMZN,仍然吸引買盤。今日新聞來源未有提供具體的市場驅動消息。",
+    "summary_en": "Major indices traded essentially sideways today, with the S&P 500 dipping slightly and the NASDAQ flat, suggesting investors are in a wait-and-see mode without a strong catalyst in either direction. No major market-moving headlines drove today's session. This kind of low-volatility, directionless trading often precedes a bigger move once new economic data or earnings news arrives.",
+    "summary_zh": "今日大盤走勢近乎持平,標普500小幅下跌、納指則持平不變,反映投資人在缺乏明確催化因素下採取觀望態度。今日交易時段並無重大市場消息驅動。此類低波動、缺乏方向性的交易型態,往往是市場醞釀更大波動前的過渡階段,需留意後續經濟數據或財報公布後的走勢。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AMZN",
-      "conviction": "medium",
-      "reasoning": "Full signal confirmation (RSI 56.6 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) makes AMZN the most risk-adjusted pick among today's top-scored candidates, though broader market is only neutral so sizing stays moderate rather than aggressive."
+      "ticker": "SBET",
+      "conviction": "high",
+      "reasoning": "Only candidate with all five confirming signals (RSI 66.8 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge) indicating genuine institutional participation."
     }
   ],
   "outcomes": {
