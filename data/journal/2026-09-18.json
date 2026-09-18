@@ -1,24 +1,17 @@
 {
   "date": "2026-09-18",
-  "briefing": "Market is neutral today (NASDAQ -0.1%, S&P 500 -0.2%) with no risk-on catalyst, so existing positions are held untouched. Cash was above the $500 threshold with open slots available, so a single medium-conviction buy in BLSH was added given its strong multi-signal technical setup, while keeping most capital in reserve for a clearer risk-on signal.",
+  "briefing": "Markets were flat today (NASDAQ -0.0%, S&P 500 -0.1%), showing no clear risk-on signal despite three open portfolio slots and $689 in cash. Per past lessons, forcing a buy on a neutral day just to deploy capital has proven unwise — we're holding cash and letting existing positions (QQQ, EAT, OLED, WT, ROAD, INOD, MU) ride until either a genuine multi-signal risk-on setup emerges or automatic stop-loss/profit-target rules trigger.",
   "daily_lesson": {
-    "term": "Technical Confirmation",
-    "explanation_en": "Technical confirmation means only acting on a signal when multiple independent indicators agree — for example RSI in a healthy range, a MACD bullish crossover, and price above its moving average all pointing the same direction. Relying on a single signal can lead to false starts, especially in a flat or neutral market like today's.",
-    "explanation_zh": "技術面確認是指只有在多個獨立指標同時發出一致訊號時才採取行動，例如RSI處於健康區間、MACD出現黃金交叉、股價高於均線等同時成立。單靠一個指標容易造成誤判，尤其是在今日這種大市方向不明的環境下更為重要。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' or neutral market day is when investors aren't strongly favoring growth stocks over safety, often shown by flat index moves. The lesson here is patience: it's usually better to hold cash and wait for a clear signal (like a strong up day with heavy volume) than to buy just because you have money sitting idle.",
+    "explanation_zh": "「風險偏好回落」或中性市況,是指投資者未有明顯傾向追捧增長型股票,通常反映在指數升跌幅度輕微。今日的教訓在於耐性:與其因為手頭有閒置現金而勉強入市,不如耐心等待明確訊號(例如成交量放大的強勢上升日)出現後才行動。"
   },
   "market_education": {
-    "summary_en": "Major indices were roughly flat today, with the NASDAQ down 0.1% and the S&P 500 down 0.2%, reflecting a quiet, directionless session rather than any major shock. Without a strong catalyst, institutional participation appears light, which is consistent with the muted volume and narrow price ranges seen across most screened tickers. In this kind of environment, selective stock-picking based on individual technical strength matters more than broad market direction.",
-    "summary_zh": "今日大市走勢平淡，納指微跌0.1%，標普500下跌0.2%，反映市場缺乏明顯催化劑，屬於觀望性質的交易日。在沒有重大消息帶動下，機構參與度偏低，成交量亦相對溫和。在這種環境下，選股更依賴個股本身的技術面強弱，而非大市方向。",
+    "summary_en": "Today's session was essentially directionless, with both the NASDAQ and S&P 500 posting negligible moves of less than 0.1%. Without a strong catalyst or broad-based volume surge behind the day's top momentum names, there isn't enough conviction to call this a risk-on environment. Flat, low-conviction days like this are typically consolidation phases rather than trend reversals.",
+    "summary_zh": "今日大市方向不明,納指及標普500指數升跌幅度均不足0.1%,可謂波瀾不驚。由於缺乏強力催化劑,今日表現最強勢股份亦未見明顯成交量放大支持,故未足以判斷為「風險偏好」上升的市況。這類窄幅波動、缺乏方向的交易日,一般屬於整固階段,而非趨勢逆轉的訊號。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "BLSH",
-      "conviction": "medium",
-      "reasoning": "Top-scoring candidate (95) with RSI in bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20, justifying a measured deployment of idle cash above the $500 threshold with one open slot filled rather than all three on a neutral day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14255.735246181488,
     "cash": 689.2850012779236,
