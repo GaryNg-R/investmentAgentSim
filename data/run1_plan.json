@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-09-18T13:00:47.430270+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-09-18T14:01:05.863840+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "HLN",
-        "conviction": "high",
-        "reasoning": "Highest momentum score (100) with RSI in bullish range, MACD bullish crossover, rising histogram, price above SMA-20, and a volume surge confirming institutional participation."
-      },
-      {
-        "action": "BUY",
-        "ticker": "ABCL",
+        "ticker": "AMZN",
         "conviction": "medium",
-        "reasoning": "Score of 95 with RSI 67.2, MACD bullish crossover, price above SMA-20, and volume surge on a confirmed risk-on day."
+        "reasoning": "Full signal confirmation (RSI 56.6 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) makes AMZN the most risk-adjusted pick among today's top-scored candidates, though broader market is only neutral so sizing stays moderate rather than aggressive."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are broadly risk-on today with NASDAQ up 1.7% and the S&P 500 up 1.1%. With cash above the deployment threshold and two open slots, we're buying HLN and ABCL, both showing full multi-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge). Existing positions are held unchanged since none show weakness on a neutral-to-positive day.",
+    "briefing": "Market was flat today (NASDAQ +0.1%, S&P500 -0.1%) with no clear risk-on signal, so we made one measured buy in AMZN on strong individual momentum signals rather than deploying all available cash. Existing positions were held unchanged.",
     "market_education": {
-      "summary_en": "Broad market strength today pushed NASDAQ up 1.7% and the S&P 500 up 1.1%, with risk appetite favoring growth and momentum names across small and mid-cap stocks. Several screened tickers showed textbook bullish setups \u2014 RSI in the healthy 55-70 zone, MACD crossovers, and volume surges \u2014 suggesting fresh institutional buying rather than a one-day spike. This breadth of confirmation across many names points to a sector-wide rotation into risk assets rather than isolated stock-specific news.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u9020\u597d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53471.7%\uff0c\u6a19\u666e500\u6307\u6578\u53471.1%\uff0c\u8cc7\u91d1\u660e\u986f\u504f\u597d\u589e\u9577\u53ca\u52d5\u80fd\u80a1\uff0c\u4e2d\u5c0f\u578b\u80a1\u8868\u73fe\u5c24\u5176\u4eae\u773c\u3002\u591a\u96bb\u7be9\u9078\u80a1\u4efd\u540c\u6642\u51fa\u73fe\u300c\u6559\u79d1\u66f8\u5f0f\u300d\u770b\u6f32\u8a0a\u865f\u2014\u2014RSI\u8655\u65bc55\u81f370\u7684\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\u2014\u2014\u986f\u793a\u8cc7\u91d1\u6d41\u5165\u4e26\u975e\u55ae\u65e5\u7092\u4f5c\uff0c\u800c\u662f\u6a5f\u69cb\u6027\u8cb7\u76e4\u589e\u6301\u3002\u5982\u6b64\u5ee3\u6cdb\u7684\u8a0a\u865f\u78ba\u8a8d\u986f\u793a\u5e02\u5834\u6b63\u6574\u9ad4\u8f49\u5411\u98a8\u96aa\u8cc7\u7522\uff0c\u800c\u975e\u500b\u5225\u80a1\u4efd\u7684\u7368\u7acb\u6d88\u606f\u5e36\u52d5\u3002",
+      "summary_en": "Major indices were essentially flat today, with the NASDAQ up just 0.1% and the S&P 500 down 0.1%, reflecting a lack of strong directional catalysts. Without a clear risk-on or risk-off signal, broad market moves stayed muted while individual stocks with strong technical setups, like AMZN, continued attracting buying interest. No major market-moving headlines were available in today's feed to point to a specific driver.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u8fd1\u4e4e\u6301\u5e73,\u7d0d\u65af\u9054\u514b\u50c5\u53470.1%,\u6a19\u666e500\u5247\u5fae\u8dcc0.1%,\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u5728\u6c92\u6709\u6e05\u6670\u7684\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u4e0b,\u5927\u5e02\u6574\u9ad4\u6ce2\u52d5\u6709\u9650,\u4f46\u500b\u5225\u5177\u5f37\u52c1\u6280\u8853\u9762\u7684\u80a1\u7968,\u4f8b\u5982AMZN,\u4ecd\u7136\u5438\u5f15\u8cb7\u76e4\u3002\u4eca\u65e5\u65b0\u805e\u4f86\u6e90\u672a\u6709\u63d0\u4f9b\u5177\u9ad4\u7684\u5e02\u5834\u9a45\u52d5\u6d88\u606f\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that stocks moving strongly in one direction tend to keep moving that way in the short term. Today's picks combined several confirming signals \u2014 rising RSI, a MACD crossover, and a volume surge \u2014 which together suggest real buying interest rather than random noise.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u6b63\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u7406\u8ad6\u57fa\u790e\u662f\u5f37\u52e2\u4e0a\u5347\u7684\u80a1\u4efd\u77ed\u671f\u5167\u50be\u5411\u5ef6\u7e8c\u539f\u6709\u8d70\u52e2\u3002\u4eca\u65e5\u9078\u80a1\u7d50\u5408\u591a\u9805\u78ba\u8a8d\u8a0a\u865f\u2014\u2014RSI\u4e0a\u5347\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u986f\u793a\u80cc\u5f8c\u662f\u771f\u5be6\u8cb7\u76e4\u652f\u6301\uff0c\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price trends, confirmed by indicators like RSI, MACD, and volume. Even on a quiet, neutral day for the overall market, a stock with multiple aligned bullish signals can still be a reasonable buy, as long as position size stays modest to reflect the lack of broad market confirmation.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u5448\u73fe\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u4e26\u4ee5RSI\u3001MACD\u53ca\u6210\u4ea4\u91cf\u7b49\u6307\u6a19\u52a0\u4ee5\u78ba\u8a8d\u3002\u5373\u4f7f\u5927\u5e02\u7576\u65e5\u6574\u9ad4\u5e73\u975c,\u82e5\u500b\u80a1\u540c\u6642\u51fa\u73fe\u591a\u500b\u770b\u6f32\u8a0a\u865f\u4e00\u81f4,\u4ecd\u53ef\u8996\u70ba\u5408\u7406\u7684\u8cb7\u5165\u6a5f\u6703,\u60df\u6301\u5009\u898f\u6a21\u61c9\u4fdd\u6301\u6eab\u548c,\u4ee5\u53cd\u6620\u5927\u5e02\u672a\u6709\u660e\u78ba\u65b9\u5411\u7684\u73fe\u5be6\u3002"
     }
   }
 }
