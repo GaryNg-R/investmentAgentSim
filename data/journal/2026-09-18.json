@@ -1,17 +1,24 @@
 {
   "date": "2026-09-18",
-  "briefing": "Markets were essentially flat today (NASDAQ -0.2%, S&P 500 -0.2%), a neutral session with no clear risk-on catalyst. Several candidates showed bullish RSI and MACD crossovers, but none combined all four confirmation signals (including a volume surge) needed for a high-conviction entry, so we held our 7 existing positions and kept the 3 open slots in cash rather than forcing a trade.",
+  "briefing": "Market is neutral today (NASDAQ -0.1%, S&P 500 -0.2%) with no risk-on catalyst, so existing positions are held untouched. Cash was above the $500 threshold with open slots available, so a single medium-conviction buy in BLSH was added given its strong multi-signal technical setup, while keeping most capital in reserve for a clearer risk-on signal.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, healthy RSI, price above key moving averages, AND a volume surge — to line up together before buying, rather than acting on just one or two. Today several stocks showed some bullish signals but lacked the volume surge that suggests real institutional buying, so no new positions were opened.",
-    "explanation_zh": "動能確認是指在買入前，等待多項技術訊號同時出現——例如MACD黃金交叉、健康的RSI水平、股價站上關鍵均線，以及成交量放大——而非僅憑一兩項訊號就進場。今日雖有部分股票出現部分利多訊號，但缺乏顯示機構資金真正進場的成交量放大訊號，因此未開新倉。"
+    "term": "Technical Confirmation",
+    "explanation_en": "Technical confirmation means only acting on a signal when multiple independent indicators agree — for example RSI in a healthy range, a MACD bullish crossover, and price above its moving average all pointing the same direction. Relying on a single signal can lead to false starts, especially in a flat or neutral market like today's.",
+    "explanation_zh": "技術面確認是指只有在多個獨立指標同時發出一致訊號時才採取行動，例如RSI處於健康區間、MACD出現黃金交叉、股價高於均線等同時成立。單靠一個指標容易造成誤判，尤其是在今日這種大市方向不明的環境下更為重要。"
   },
   "market_education": {
-    "summary_en": "Major indices traded roughly flat today, with the NASDAQ and S&P 500 each dipping about 0.2%. This kind of muted, directionless session typically reflects investors waiting for clearer catalysts rather than reacting to a specific shock. Without a strong move in either direction, momentum-based systems generally sit tight rather than chase marginal setups.",
-    "summary_zh": "今日大盤走勢大致持平，納斯達克指數與標普500指數皆微跌約0.2%。這種缺乏方向性的溫和交易日，通常反映投資人在等待更明確的市場訊號，而非對特定利空消息作出反應。在缺乏明顯多空傾向的情況下，動能導向的操作策略一般會選擇按兵不動，而非勉強追逐邊際訊號。",
+    "summary_en": "Major indices were roughly flat today, with the NASDAQ down 0.1% and the S&P 500 down 0.2%, reflecting a quiet, directionless session rather than any major shock. Without a strong catalyst, institutional participation appears light, which is consistent with the muted volume and narrow price ranges seen across most screened tickers. In this kind of environment, selective stock-picking based on individual technical strength matters more than broad market direction.",
+    "summary_zh": "今日大市走勢平淡，納指微跌0.1%，標普500下跌0.2%，反映市場缺乏明顯催化劑，屬於觀望性質的交易日。在沒有重大消息帶動下，機構參與度偏低，成交量亦相對溫和。在這種環境下，選股更依賴個股本身的技術面強弱，而非大市方向。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "BLSH",
+      "conviction": "medium",
+      "reasoning": "Top-scoring candidate (95) with RSI in bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20, justifying a measured deployment of idle cash above the $500 threshold with one open slot filled rather than all three on a neutral day."
+    }
+  ],
   "outcomes": {
     "total_value": 14255.735246181488,
     "cash": 689.2850012779236,
