@@ -1,22 +1,34 @@
 {
   "date": "2026-09-21",
-  "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.4%, S&P +0.2%), a neutral tape overall. Rather than forcing capital into the market broadly, we picked NVDA, the single strongest, most fully-confirmed setup on the screened list, and left the rest of our cash in reserve for a clearer risk-on signal.",
+  "briefing": "NASDAQ +1.2% and S&P 500 +0.7% signal a risk-on session, so with 3 open slots and $789 in cash we deployed into LUNR, SMCI, and USAR — all showing the full four-signal bullish confirmation (RSI in the healthy zone, MACD crossover, rising momentum, and volume surge) without being overbought. Existing positions were left untouched since none hit stop-loss or profit-target thresholds.",
   "daily_lesson": {
-    "term": "Relative Strength",
-    "explanation_en": "Relative strength describes a stock that is rising or holding up better than the broader market, even when the overall index is flat or only slightly positive. Today NVDA showed full bullish technical confirmation while the NASDAQ was only up 0.4%, meaning it was outperforming its peers — a signal that can be worth acting on even on an otherwise quiet day.",
-    "explanation_zh": "「相對強度」是指某支股票的表現優於或跌幅小於大盤，即使整體指數只是持平或輕微上升。今日NVDA出現完整的技術面看漲確認訊號，而納指僅上升0.4%，意味著它跑贏同儕——即使在市況平淡的一天，這種訊號依然值得留意及行動。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Rather than buying on a single bullish sign, strong traders wait for several indicators — like RSI, MACD, price versus moving average, and volume — to all agree before committing capital. When four or five signals line up together, it suggests real institutional buying rather than a random price blip, making the trade more reliable.",
+    "explanation_zh": "與其單憑一個利好訊號就入市,穩健的投資者會等待多個指標——例如RSI、MACD、股價相對於平均線的位置,以及成交量——同時確認才落注。當四至五個訊號同時出現,代表市場很可能有機構資金真正買入,而非隨機的短暫波動,令交易決定更可靠。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today with NASDAQ up 0.4% and the S&P 500 up 0.2%, a quiet, directionless session without a dominant macro catalyst. Within that calm backdrop, select semiconductor and AI-adjacent names like NVDA showed standout technical strength, outperforming the broader tape. This kind of divergence — a flat index masking pockets of real strength — is common and rewards selective stock-picking over broad-market bets.",
-    "summary_zh": "今日大盤走勢平淡，納指上升0.4%，標普500指數升0.2%，市場缺乏明顯的宏觀催化劑，屬於方向不明的觀望格局。不過在這平靜表現之下，部分半導體及AI相關股份如NVDA展現出突出的技術面強勢，跑贏大盤。這種「大盤持平、個股分化」的情況並不罕見，也正是精選個股勝過盲目跟隨大盤的原因。",
+    "summary_en": "Markets pushed higher today with the NASDAQ leading gains at +1.2% and the S&P 500 up +0.7%, reflecting broad risk-on sentiment across growth and tech-adjacent names. Volume surges across several small and mid-cap momentum stocks suggest institutional buyers were actively participating rather than just retail-driven moves. No single dominant catalyst was identified in the available data, but the breadth of bullish technical setups points to a constructive, broad-based rally.",
+    "summary_zh": "今日大市造好,納指領漲升1.2%,標普500亦升0.7%,反映市場風險偏好情緒回升,增長股及科技相關股份普遍受追捧。多隻中小型動能股份成交量顯著放大,顯示是次上升由機構投資者主導,並非單純散戶炒作。雖然未有明確單一催化因素,但技術面普遍轉強,顯示今次上升具一定廣度及持續性。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NVDA",
+      "ticker": "LUNR",
       "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (MACD bullish crossover, rising histogram, RSI 68.6 in bullish zone, price above SMA-20, volume surge) on a mega-cap name offers a genuine risk-on setup even though the broader market is only mildly positive today."
+      "reasoning": "All four confirmation signals present (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SMCI",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation with RSI in the healthy 55-70 zone and strong volume, diversifying into AI hardware away from existing space/materials exposure."
+    },
+    {
+      "action": "BUY",
+      "ticker": "USAR",
+      "conviction": "high",
+      "reasoning": "Clean four-signal setup with volume surge confirming institutional participation, adding materials exposure distinct from current holdings."
     }
   ],
   "outcomes": {

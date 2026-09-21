@@ -1,26 +1,38 @@
 {
-  "saved_at": "2026-09-21T13:01:02.657108+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-09-21T14:00:53.768832+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NVDA",
+        "ticker": "LUNR",
         "conviction": "high",
-        "reasoning": "Full multi-signal confirmation (MACD bullish crossover, rising histogram, RSI 68.6 in bullish zone, price above SMA-20, volume surge) on a mega-cap name offers a genuine risk-on setup even though the broader market is only mildly positive today."
+        "reasoning": "All four confirmation signals present (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SMCI",
+        "conviction": "high",
+        "reasoning": "Full multi-signal confirmation with RSI in the healthy 55-70 zone and strong volume, diversifying into AI hardware away from existing space/materials exposure."
+      },
+      {
+        "action": "BUY",
+        "ticker": "USAR",
+        "conviction": "high",
+        "reasoning": "Clean four-signal setup with volume surge confirming institutional participation, adding materials exposure distinct from current holdings."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.4%, S&P +0.2%), a neutral tape overall. Rather than forcing capital into the market broadly, we picked NVDA, the single strongest, most fully-confirmed setup on the screened list, and left the rest of our cash in reserve for a clearer risk-on signal.",
+    "briefing": "NASDAQ +1.2% and S&P 500 +0.7% signal a risk-on session, so with 3 open slots and $789 in cash we deployed into LUNR, SMCI, and USAR \u2014 all showing the full four-signal bullish confirmation (RSI in the healthy zone, MACD crossover, rising momentum, and volume surge) without being overbought. Existing positions were left untouched since none hit stop-loss or profit-target thresholds.",
     "market_education": {
-      "summary_en": "Major indices drifted modestly higher today with NASDAQ up 0.4% and the S&P 500 up 0.2%, a quiet, directionless session without a dominant macro catalyst. Within that calm backdrop, select semiconductor and AI-adjacent names like NVDA showed standout technical strength, outperforming the broader tape. This kind of divergence \u2014 a flat index masking pockets of real strength \u2014 is common and rewards selective stock-picking over broad-market bets.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u6307\u4e0a\u53470.4%\uff0c\u6a19\u666e500\u6307\u6578\u53470.2%\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u5c6c\u65bc\u65b9\u5411\u4e0d\u660e\u7684\u89c0\u671b\u683c\u5c40\u3002\u4e0d\u904e\u5728\u9019\u5e73\u975c\u8868\u73fe\u4e4b\u4e0b\uff0c\u90e8\u5206\u534a\u5c0e\u9ad4\u53caAI\u76f8\u95dc\u80a1\u4efd\u5982NVDA\u5c55\u73fe\u51fa\u7a81\u51fa\u7684\u6280\u8853\u9762\u5f37\u52e2\uff0c\u8dd1\u8d0f\u5927\u76e4\u3002\u9019\u7a2e\u300c\u5927\u76e4\u6301\u5e73\u3001\u500b\u80a1\u5206\u5316\u300d\u7684\u60c5\u6cc1\u4e26\u4e0d\u7f55\u898b\uff0c\u4e5f\u6b63\u662f\u7cbe\u9078\u500b\u80a1\u52dd\u904e\u76f2\u76ee\u8ddf\u96a8\u5927\u76e4\u7684\u539f\u56e0\u3002",
+      "summary_en": "Markets pushed higher today with the NASDAQ leading gains at +1.2% and the S&P 500 up +0.7%, reflecting broad risk-on sentiment across growth and tech-adjacent names. Volume surges across several small and mid-cap momentum stocks suggest institutional buyers were actively participating rather than just retail-driven moves. No single dominant catalyst was identified in the available data, but the breadth of bullish technical setups points to a constructive, broad-based rally.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u9020\u597d,\u7d0d\u6307\u9818\u6f32\u53471.2%,\u6a19\u666e500\u4ea6\u53470.7%,\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u56de\u5347,\u589e\u9577\u80a1\u53ca\u79d1\u6280\u76f8\u95dc\u80a1\u4efd\u666e\u904d\u53d7\u8ffd\u6367\u3002\u591a\u96bb\u4e2d\u5c0f\u578b\u52d5\u80fd\u80a1\u4efd\u6210\u4ea4\u91cf\u986f\u8457\u653e\u5927,\u986f\u793a\u662f\u6b21\u4e0a\u5347\u7531\u6a5f\u69cb\u6295\u8cc7\u8005\u4e3b\u5c0e,\u4e26\u975e\u55ae\u7d14\u6563\u6236\u7092\u4f5c\u3002\u96d6\u7136\u672a\u6709\u660e\u78ba\u55ae\u4e00\u50ac\u5316\u56e0\u7d20,\u4f46\u6280\u8853\u9762\u666e\u904d\u8f49\u5f37,\u986f\u793a\u4eca\u6b21\u4e0a\u5347\u5177\u4e00\u5b9a\u5ee3\u5ea6\u53ca\u6301\u7e8c\u6027\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Relative Strength",
-      "explanation_en": "Relative strength describes a stock that is rising or holding up better than the broader market, even when the overall index is flat or only slightly positive. Today NVDA showed full bullish technical confirmation while the NASDAQ was only up 0.4%, meaning it was outperforming its peers \u2014 a signal that can be worth acting on even on an otherwise quiet day.",
-      "explanation_zh": "\u300c\u76f8\u5c0d\u5f37\u5ea6\u300d\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u8868\u73fe\u512a\u65bc\u6216\u8dcc\u5e45\u5c0f\u65bc\u5927\u76e4\uff0c\u5373\u4f7f\u6574\u9ad4\u6307\u6578\u53ea\u662f\u6301\u5e73\u6216\u8f15\u5fae\u4e0a\u5347\u3002\u4eca\u65e5NVDA\u51fa\u73fe\u5b8c\u6574\u7684\u6280\u8853\u9762\u770b\u6f32\u78ba\u8a8d\u8a0a\u865f\uff0c\u800c\u7d0d\u6307\u50c5\u4e0a\u53470.4%\uff0c\u610f\u5473\u8457\u5b83\u8dd1\u8d0f\u540c\u5115\u2014\u2014\u5373\u4f7f\u5728\u5e02\u6cc1\u5e73\u6de1\u7684\u4e00\u5929\uff0c\u9019\u7a2e\u8a0a\u865f\u4f9d\u7136\u503c\u5f97\u7559\u610f\u53ca\u884c\u52d5\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Rather than buying on a single bullish sign, strong traders wait for several indicators \u2014 like RSI, MACD, price versus moving average, and volume \u2014 to all agree before committing capital. When four or five signals line up together, it suggests real institutional buying rather than a random price blip, making the trade more reliable.",
+      "explanation_zh": "\u8207\u5176\u55ae\u6191\u4e00\u500b\u5229\u597d\u8a0a\u865f\u5c31\u5165\u5e02,\u7a69\u5065\u7684\u6295\u8cc7\u8005\u6703\u7b49\u5f85\u591a\u500b\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u76f8\u5c0d\u65bc\u5e73\u5747\u7dda\u7684\u4f4d\u7f6e,\u4ee5\u53ca\u6210\u4ea4\u91cf\u2014\u2014\u540c\u6642\u78ba\u8a8d\u624d\u843d\u6ce8\u3002\u7576\u56db\u81f3\u4e94\u500b\u8a0a\u865f\u540c\u6642\u51fa\u73fe,\u4ee3\u8868\u5e02\u5834\u5f88\u53ef\u80fd\u6709\u6a5f\u69cb\u8cc7\u91d1\u771f\u6b63\u8cb7\u5165,\u800c\u975e\u96a8\u6a5f\u7684\u77ed\u66ab\u6ce2\u52d5,\u4ee4\u4ea4\u6613\u6c7a\u5b9a\u66f4\u53ef\u9760\u3002"
     }
   }
 }
