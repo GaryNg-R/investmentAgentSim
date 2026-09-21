@@ -1,0 +1,65 @@
+{
+  "date": "2026-09-21",
+  "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.4%, S&P +0.2%), a neutral tape overall. Rather than forcing capital into the market broadly, we picked NVDA, the single strongest, most fully-confirmed setup on the screened list, and left the rest of our cash in reserve for a clearer risk-on signal.",
+  "daily_lesson": {
+    "term": "Relative Strength",
+    "explanation_en": "Relative strength describes a stock that is rising or holding up better than the broader market, even when the overall index is flat or only slightly positive. Today NVDA showed full bullish technical confirmation while the NASDAQ was only up 0.4%, meaning it was outperforming its peers — a signal that can be worth acting on even on an otherwise quiet day.",
+    "explanation_zh": "「相對強度」是指某支股票的表現優於或跌幅小於大盤，即使整體指數只是持平或輕微上升。今日NVDA出現完整的技術面看漲確認訊號，而納指僅上升0.4%，意味著它跑贏同儕——即使在市況平淡的一天，這種訊號依然值得留意及行動。"
+  },
+  "market_education": {
+    "summary_en": "Major indices drifted modestly higher today with NASDAQ up 0.4% and the S&P 500 up 0.2%, a quiet, directionless session without a dominant macro catalyst. Within that calm backdrop, select semiconductor and AI-adjacent names like NVDA showed standout technical strength, outperforming the broader tape. This kind of divergence — a flat index masking pockets of real strength — is common and rewards selective stock-picking over broad-market bets.",
+    "summary_zh": "今日大盤走勢平淡，納指上升0.4%，標普500指數升0.2%，市場缺乏明顯的宏觀催化劑，屬於方向不明的觀望格局。不過在這平靜表現之下，部分半導體及AI相關股份如NVDA展現出突出的技術面強勢，跑贏大盤。這種「大盤持平、個股分化」的情況並不罕見，也正是精選個股勝過盲目跟隨大盤的原因。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "NVDA",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (MACD bullish crossover, rising histogram, RSI 68.6 in bullish zone, price above SMA-20, volume surge) on a mega-cap name offers a genuine risk-on setup even though the broader market is only mildly positive today."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14355.735246181488,
+    "cash": 789.2850012779236,
+    "pnl_dollar": 4355.735246181488,
+    "pnl_pct": 43.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}

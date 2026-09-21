@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-09-18T21:01:13.371760+00:00",
+  "saved_at": "2026-09-21T13:01:02.657108+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,20 +7,20 @@
         "action": "BUY",
         "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "Full multi-signal confirmation (RSI 68.6 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) makes this the strongest candidate on the board."
+        "reasoning": "Full multi-signal confirmation (MACD bullish crossover, rising histogram, RSI 68.6 in bullish zone, price above SMA-20, volume surge) on a mega-cap name offers a genuine risk-on setup even though the broader market is only mildly positive today."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Market is neutral today (NASDAQ +0.4%, S&P 500 +0.2%) with no broad risk-on signal, so we're not forcing multiple buys just to deploy the $689 in cash. NVDA stood out with all five technical signals confirming institutional-grade momentum, so we're adding one high-conviction position and holding the rest of cash and all 7 existing positions steady.",
+    "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.4%, S&P +0.2%), a neutral tape overall. Rather than forcing capital into the market broadly, we picked NVDA, the single strongest, most fully-confirmed setup on the screened list, and left the rest of our cash in reserve for a clearer risk-on signal.",
     "market_education": {
-      "summary_en": "Major indices drifted modestly higher today with the NASDAQ up 0.4% and the S&P 500 up 0.2%, a quiet, low-volatility session without a clear macro catalyst. Semiconductor and AI-adjacent names like NVDA and SIMO showed standout relative strength with bullish MACD crossovers and volume surges, suggesting sector-specific buying rather than a market-wide move. Overall breadth was mixed, consistent with a neutral, wait-and-see tone among investors.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c\u5411\u4e0a\uff0c\u7d0d\u6307\u53470.4%\uff0c\u6a19\u666e500\u6307\u6578\u53470.2%\uff0c\u5c6c\u65bc\u6ce2\u52d5\u8f03\u4f4e\u3001\u7f3a\u4e4f\u660e\u986f\u5b8f\u89c0\u50ac\u5316\u5291\u7684\u4e00\u500b\u4ea4\u6613\u65e5\u3002\u534a\u5c0e\u9ad4\u53caAI\u76f8\u95dc\u80a1\u4efd\u5982NVDA\u53caSIMO\u8868\u73fe\u76f8\u5c0d\u5f37\u52e2\uff0c\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u7684\u8a0a\u865f\uff0c\u53cd\u6620\u8cc7\u91d1\u66f4\u591a\u96c6\u4e2d\u65bc\u500b\u5225\u677f\u584a\u800c\u975e\u5168\u9762\u6027\u5347\u5e02\u3002\u6574\u9ad4\u5e02\u5834\u5ee3\u5ea6\u53c3\u5dee\uff0c\u6295\u8cc7\u8005\u60c5\u7dd2\u504f\u5411\u4e2d\u6027\u89c0\u671b\u3002",
+      "summary_en": "Major indices drifted modestly higher today with NASDAQ up 0.4% and the S&P 500 up 0.2%, a quiet, directionless session without a dominant macro catalyst. Within that calm backdrop, select semiconductor and AI-adjacent names like NVDA showed standout technical strength, outperforming the broader tape. This kind of divergence \u2014 a flat index masking pockets of real strength \u2014 is common and rewards selective stock-picking over broad-market bets.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u6307\u4e0a\u53470.4%\uff0c\u6a19\u666e500\u6307\u6578\u53470.2%\uff0c\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u5b8f\u89c0\u50ac\u5316\u5291\uff0c\u5c6c\u65bc\u65b9\u5411\u4e0d\u660e\u7684\u89c0\u671b\u683c\u5c40\u3002\u4e0d\u904e\u5728\u9019\u5e73\u975c\u8868\u73fe\u4e4b\u4e0b\uff0c\u90e8\u5206\u534a\u5c0e\u9ad4\u53caAI\u76f8\u95dc\u80a1\u4efd\u5982NVDA\u5c55\u73fe\u51fa\u7a81\u51fa\u7684\u6280\u8853\u9762\u5f37\u52e2\uff0c\u8dd1\u8d0f\u5927\u76e4\u3002\u9019\u7a2e\u300c\u5927\u76e4\u6301\u5e73\u3001\u500b\u80a1\u5206\u5316\u300d\u7684\u60c5\u6cc1\u4e26\u4e0d\u7f55\u898b\uff0c\u4e5f\u6b63\u662f\u7cbe\u9078\u500b\u80a1\u52dd\u904e\u76f2\u76ee\u8ddf\u96a8\u5927\u76e4\u7684\u539f\u56e0\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Signal Confluence",
-      "explanation_en": "Signal confluence means waiting for several independent technical indicators \u2014 like a bullish MACD crossover, healthy RSI, price above its moving average, and a volume surge \u2014 to all line up before making a high-conviction trade. A single signal can be noise, but when multiple signals agree, it's more likely real institutional buying is happening.",
-      "explanation_zh": "\u8a0a\u865f\u5171\u632f\u662f\u6307\u7b49\u5f85\u591a\u500b\u7368\u7acb\u7684\u6280\u8853\u6307\u6a19\u2014\u2014\u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u5408\u7406\u7684RSI\u6c34\u5e73\u3001\u80a1\u50f9\u9ad8\u65bc\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u540c\u6642\u51fa\u73fe\uff0c\u624d\u9032\u884c\u9ad8\u4fe1\u5fc3\u7684\u4ea4\u6613\u3002\u55ae\u4e00\u8a0a\u865f\u53ef\u80fd\u53ea\u662f\u96dc\u8a0a\uff0c\u4f46\u7576\u591a\u9805\u8a0a\u865f\u540c\u6642\u78ba\u8a8d\u6642\uff0c\u66f4\u6709\u53ef\u80fd\u4ee3\u8868\u771f\u5be6\u7684\u6a5f\u69cb\u8cc7\u91d1\u6d41\u5165\u3002"
+      "term": "Relative Strength",
+      "explanation_en": "Relative strength describes a stock that is rising or holding up better than the broader market, even when the overall index is flat or only slightly positive. Today NVDA showed full bullish technical confirmation while the NASDAQ was only up 0.4%, meaning it was outperforming its peers \u2014 a signal that can be worth acting on even on an otherwise quiet day.",
+      "explanation_zh": "\u300c\u76f8\u5c0d\u5f37\u5ea6\u300d\u662f\u6307\u67d0\u652f\u80a1\u7968\u7684\u8868\u73fe\u512a\u65bc\u6216\u8dcc\u5e45\u5c0f\u65bc\u5927\u76e4\uff0c\u5373\u4f7f\u6574\u9ad4\u6307\u6578\u53ea\u662f\u6301\u5e73\u6216\u8f15\u5fae\u4e0a\u5347\u3002\u4eca\u65e5NVDA\u51fa\u73fe\u5b8c\u6574\u7684\u6280\u8853\u9762\u770b\u6f32\u78ba\u8a8d\u8a0a\u865f\uff0c\u800c\u7d0d\u6307\u50c5\u4e0a\u53470.4%\uff0c\u610f\u5473\u8457\u5b83\u8dd1\u8d0f\u540c\u5115\u2014\u2014\u5373\u4f7f\u5728\u5e02\u6cc1\u5e73\u6de1\u7684\u4e00\u5929\uff0c\u9019\u7a2e\u8a0a\u865f\u4f9d\u7136\u503c\u5f97\u7559\u610f\u53ca\u884c\u52d5\u3002"
     }
   }
 }
