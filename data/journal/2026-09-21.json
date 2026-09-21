@@ -1,34 +1,34 @@
 {
   "date": "2026-09-21",
-  "briefing": "NASDAQ jumped +2.0% and the S&P 500 +1.4% in a clear risk-on session, so we deployed idle cash into three of the highest-scoring momentum candidates (QCOM, SMCI, LUNR) rather than sitting on dry powder. All three show MACD bullish crossovers with rising histograms and healthy (non-overbought) RSI readings; existing positions were left untouched since the market trend favors staying invested.",
+  "briefing": "NASDAQ jumped +2.1% and S&P 500 +1.4% today, a clear risk-on session. With 3 open slots and cash above the $500 threshold, we deployed into LUNR, FIVN, and FLY — all top-scored (95) with full multi-signal confirmation (RSI in bullish range, MACD crossover, rising histogram, price above SMA-20).",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price trends, based on the idea that stocks moving up tend to keep moving up in the short term. Today's broad rally (NASDAQ +2%) with multiple stocks showing bullish MACD and RSI signals is a classic momentum setup, which is why we deployed cash into the strongest-scoring names instead of holding back.",
-    "explanation_zh": "動能投資是指買入已經呈現強勁上升趨勢的股票,其理念是股價上升的股票短期內傾向持續上升。今日大市普遍上揚(納指升2%),多隻股份同時出現MACD及RSI利好訊號,正是典型的動能投資時機,因此我們將現金部署至評分最高的股份,而非繼續持有現金觀望。"
+    "term": "Risk-On Rally",
+    "explanation_en": "A 'risk-on' day is when investors broadly move money into higher-risk, higher-reward assets like growth stocks, signaled here by NASDAQ rising over 2%. On these days, strategy calls for deploying idle cash into your strongest, multi-signal-confirmed candidates rather than sitting on the sidelines.",
+    "explanation_zh": "「風險偏好上升」(Risk-On)指投資者傾向將資金投入高風險高回報資產,例如成長股,今日納指升逾2%正是訊號。喺呢類日子,策略建議將閒置現金投放於訊號最強、經多重指標確認嘅候選股,而唔係持續持現金觀望。"
   },
   "market_education": {
-    "summary_en": "Markets rallied broadly today with the NASDAQ leading gains at +2.0% and the S&P 500 up +1.4%, reflecting a risk-on shift in investor sentiment. Growth and momentum names outperformed, with many of the day's top movers showing bullish technical confirmation (MACD crossovers, rising momentum, price above key moving averages) rather than being driven by a single catalyst. This broad-based strength suggests improving risk appetite across sectors rather than a narrow, news-driven spike.",
-    "summary_zh": "今日大市普遍上揚,納斯達克指數領漲,升幅達2.0%,標普500指數亦上升1.4%,反映投資者風險偏好轉強。增長及動能股表現領先大市,當日多隻熱門股份均出現技術面利好訊號(包括MACD黃金交叉、動能上升、股價高於主要移動平均線),而非單一消息刺激所致。這種普遍性的強勢顯示市場風險胃納正在改善,而非個別板塊的短暫波動。",
+    "summary_en": "Broad-based buying pushed the NASDAQ up 2.1% and the S&P 500 up 1.4%, with momentum concentrated in smaller-cap growth names showing strong technical setups. No specific news catalyst was provided in today's data feed, so the move appears driven by broad market sentiment and sector rotation into risk assets. Volume and breadth across the screened candidates suggest institutional participation rather than a narrow rally.",
+    "summary_zh": "今日大盤全面走高,納斯達克指數上升2.1%,標普500指數上升1.4%,升幅主要集中於具強勁技術訊號的中小型成長股。今日數據未提供具體新聞觸發因素,顯示今次上升較大機率源於整體市場情緒轉向風險資產及板塊輪動。從篩選出的候選股表現睇,升勢似乎有機構資金參與支持,而非個別股份帶動嘅狹幅升市。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "QCOM",
-      "conviction": "medium",
-      "reasoning": "Bullish MACD crossover, RSI 63.8 in the healthy momentum zone, and price above SMA-20 on a strong risk-on day with broad market strength."
-    },
-    {
-      "action": "BUY",
-      "ticker": "SMCI",
-      "conviction": "medium",
-      "reasoning": "Same bullish technical setup (MACD crossover, rising histogram, RSI 64.6) with strong relative price strength versus SMA-20."
-    },
-    {
-      "action": "BUY",
       "ticker": "LUNR",
-      "conviction": "medium",
-      "reasoning": "Top-scored candidate with MACD crossover, rising histogram, and RSI 66.7, adding diversification alongside two more established names."
+      "conviction": "high",
+      "reasoning": "Top-scored candidate (95) with RSI 66.9 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, confirming institutional-grade momentum on a risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "FIVN",
+      "conviction": "high",
+      "reasoning": "Top-scored candidate (95) showing all four bullish signals — RSI 68.5, MACD crossover, rising histogram, price above SMA-20 — and diversifies away from existing space/industrial holdings."
+    },
+    {
+      "action": "BUY",
+      "ticker": "FLY",
+      "conviction": "high",
+      "reasoning": "Top-scored candidate (95) with full multi-signal confirmation (RSI 67.4, MACD crossover, rising histogram, price above SMA-20) in the aviation-leasing sector, adding further diversification."
     }
   ],
   "outcomes": {
