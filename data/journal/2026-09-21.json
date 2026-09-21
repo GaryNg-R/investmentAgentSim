@@ -1,14 +1,14 @@
 {
   "date": "2026-09-21",
-  "briefing": "Markets rallied hard today with NASDAQ up 2.3% and S&P 500 up 1.5%, a clear risk-on signal. We deployed available cash into NN, the top-scoring candidate with all four confirming signals (momentum, MACD, trend, and volume), while holding our existing 7 positions unchanged.",
+  "briefing": "NASDAQ +2.3% and S&P 500 +1.5% mark a strong risk-on day, so per prior lessons we deployed available cash into the two strongest multi-signal candidates, NN and QCOM, rather than holding idle. Existing positions are held unchanged since none triggered stop-loss or profit-target rules.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-normal trading volume, which signals genuine institutional buying rather than a random price blip. Today we picked NN over similarly-scored candidates specifically because it had a volume surge alongside its bullish RSI, MACD, and trend signals — the combination gives much higher confidence the move is real.",
-    "explanation_zh": "成交量確認是指留意股價變動是否伴隨著高於正常水平的成交量，這代表背後有真正的機構買盤支持，而非隨機的短暫波動。今日我們在評分相近的候選股中選擇NN，正是因為它在RSI、MACD及趨勢訊號皆看漲之餘，同時出現成交量放大，這種組合訊號能大大提高走勢真實性的信心。"
+    "term": "Risk-On Rally",
+    "explanation_en": "A 'risk-on' day is when investors broadly favor growth and higher-risk assets like tech stocks, pushing indexes like the NASDAQ sharply higher. Strategy calls for deploying cash into high-conviction, multi-signal candidates during these moves rather than sitting on idle capital.",
+    "explanation_zh": "「風險偏好」（Risk-On）行情是指投資者普遍傾向買入科技股等較高風險資產，帶動納指等指數大幅上升的日子。策略建議在這種時機將閒置現金投入具多重訊號確認的高信心標的，而非持續觀望。"
   },
   "market_education": {
-    "summary_en": "Broad market strength today pushed the NASDAQ up 2.3% and the S&P 500 up 1.5%, with breadth extending across small and mid-cap growth names that showed volume-backed breakouts. This kind of synchronized advance across indices typically reflects improving risk appetite rather than a single-stock catalyst. No specific news headlines were provided for today's session, so this summary reflects the price action data only.",
-    "summary_zh": "今日大盤全面走強，納斯達克指數上升2.3%，標普500指數上升1.5%，中小型成長股亦出現放量突破的情況。這種跨指數同步上漲的走勢，通常反映市場風險偏好正在改善，而非單一股票的個別消息帶動。今日交易時段未提供具體新聞標題，故此摘要僅基於價格走勢數據。",
+    "summary_en": "Markets rallied broadly today with the NASDAQ up 2.3% and S&P 500 up 1.5%, reflecting a risk-on shift in investor sentiment toward growth and tech names. Breadth was strong, with many momentum stocks showing bullish MACD crossovers and volume surges consistent with institutional buying. No single catalyst headline was provided today, so this move reflects broad-based risk appetite rather than one specific news event.",
+    "summary_zh": "今日大市普遍上揚，納指升2.3%，標普500升1.5%，反映投資者情緒轉向風險偏好，資金流向科技及增長股。市場廣度良好，多隻動能股出現MACD黃金交叉及成交量放大，顯示有機構資金進場。今日未有提供具體新聞標題作為觸發因素，故此次上升較大機會屬於整體風險偏好回升，而非單一事件驅動。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,13 @@
       "action": "BUY",
       "ticker": "NN",
       "conviction": "high",
-      "reasoning": "Only candidate with full signal confirmation (RSI 61.7 bullish zone, MACD crossover, rising histogram, price above SMA-20, and volume surge) on a strong risk-on day with NASDAQ +2.3%."
+      "reasoning": "Highest-scoring candidate (100) with full signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge — on a strong risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "QCOM",
+      "conviction": "medium",
+      "reasoning": "Second-highest score (95) with bullish RSI, MACD crossover, rising histogram, and price above SMA-20, deploying remaining cash per risk-on cadence."
     }
   ],
   "outcomes": {
