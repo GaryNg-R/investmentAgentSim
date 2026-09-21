@@ -1,34 +1,22 @@
 {
   "date": "2026-09-21",
-  "briefing": "NASDAQ jumped +2.3% and S&P 500 +1.6% in a broad risk-on move, so per our playbook we're deploying idle cash into the strongest momentum setups rather than sitting on it. We opened three new positions (LFTO, AUR, FIVN) to fill our remaining slots while holding all existing winners unchanged.",
+  "briefing": "Markets rallied hard today with NASDAQ up 2.3% and S&P 500 up 1.5%, a clear risk-on signal. We deployed available cash into NN, the top-scoring candidate with all four confirming signals (momentum, MACD, trend, and volume), while holding our existing 7 positions unchanged.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the idea that strong recent performance tends to continue in the short term. Today we saw dozens of stocks with matching bullish signals (MACD crossovers, rising momentum, price above moving averages) at the same time, which is a classic momentum setup, so we deployed cash into the strongest of these rather than the most overbought ones.",
-    "explanation_zh": "動能投資（Momentum Investing）是指買入近期已經呈現上升趨勢的股票，因為強勢表現在短期內往往有延續的傾向。今日我們觀察到大量個股同時出現吻合的看漲訊號（MACD黃金交叉、動能上升、股價站上均線），這是典型的動能行情，因此我們選擇將現金投入其中訊號最強但尚未過熱的標的，而非已經超買的個股。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-normal trading volume, which signals genuine institutional buying rather than a random price blip. Today we picked NN over similarly-scored candidates specifically because it had a volume surge alongside its bullish RSI, MACD, and trend signals — the combination gives much higher confidence the move is real.",
+    "explanation_zh": "成交量確認是指留意股價變動是否伴隨著高於正常水平的成交量，這代表背後有真正的機構買盤支持，而非隨機的短暫波動。今日我們在評分相近的候選股中選擇NN，正是因為它在RSI、MACD及趨勢訊號皆看漲之餘，同時出現成交量放大，這種組合訊號能大大提高走勢真實性的信心。"
   },
   "market_education": {
-    "summary_en": "Markets rallied broadly today with the NASDAQ up 2.3% and S&P 500 up 1.6%, reflecting a wave of risk appetite across growth and tech-adjacent names. Breadth was strong, with dozens of stocks flashing bullish MACD crossovers and rising momentum histograms simultaneously, a pattern consistent with institutional buying rather than isolated speculation. No single catalyst headline was available in today's feed, but the uniform strength across small- and mid-cap names suggests a sector-wide rotation into risk assets.",
-    "summary_zh": "今日大盤全面走強，納斯達克指數上漲2.3%，標普500指數上漲1.6%，反映市場風險偏好明顯回升，資金湧向科技及成長股。今日觀察到大量個股同步出現MACD黃金交叉及動能柱狀圖走升的技術訊號，顯示這波買盤較偏向機構資金進場，而非零星投機炒作。雖然今日新聞來源未提供具體催化消息，但中小型股普遍走強的現象，顯示市場資金正進行一輪風險資產的板塊輪動。",
+    "summary_en": "Broad market strength today pushed the NASDAQ up 2.3% and the S&P 500 up 1.5%, with breadth extending across small and mid-cap growth names that showed volume-backed breakouts. This kind of synchronized advance across indices typically reflects improving risk appetite rather than a single-stock catalyst. No specific news headlines were provided for today's session, so this summary reflects the price action data only.",
+    "summary_zh": "今日大盤全面走強，納斯達克指數上升2.3%，標普500指數上升1.5%，中小型成長股亦出現放量突破的情況。這種跨指數同步上漲的走勢，通常反映市場風險偏好正在改善，而非單一股票的個別消息帶動。今日交易時段未提供具體新聞標題，故此摘要僅基於價格走勢數據。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "LFTO",
+      "ticker": "NN",
       "conviction": "high",
-      "reasoning": "Top-scoring (95) with bullish MACD crossover, rising histogram, and price above SMA-20, plus RSI at 57.6 leaves room before overbought."
-    },
-    {
-      "action": "BUY",
-      "ticker": "AUR",
-      "conviction": "high",
-      "reasoning": "Matches LFTO's full bullish signal set (MACD crossover, rising histogram, price above SMA-20) with RSI 57.9, a safer entry than the overbought names."
-    },
-    {
-      "action": "BUY",
-      "ticker": "FIVN",
-      "conviction": "medium",
-      "reasoning": "Highest-scoring name (95) with confirmed bullish MACD and price above SMA-20, though RSI 68.5 is closer to overbought so sized more cautiously."
+      "reasoning": "Only candidate with full signal confirmation (RSI 61.7 bullish zone, MACD crossover, rising histogram, price above SMA-20, and volume surge) on a strong risk-on day with NASDAQ +2.3%."
     }
   ],
   "outcomes": {
