@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-09-21T14:00:53.768832+00:00",
+  "saved_at": "2026-09-21T15:00:56.673528+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "LUNR",
-        "conviction": "high",
-        "reasoning": "All four confirmation signals present (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day."
+        "ticker": "RKLB",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 66 still under overbought, MACD bullish crossover and rising histogram, and price above SMA-20 confirm the risk-on move without chasing an extreme."
       },
       {
         "action": "BUY",
-        "ticker": "SMCI",
-        "conviction": "high",
-        "reasoning": "Full multi-signal confirmation with RSI in the healthy 55-70 zone and strong volume, diversifying into AI hardware away from existing space/materials exposure."
+        "ticker": "OKLO",
+        "conviction": "medium",
+        "reasoning": "Strong momentum score 95 with RSI 65.5 in the bullish zone and MACD confirming, adds energy-sector diversification away from existing tech/industrial holdings."
       },
       {
         "action": "BUY",
-        "ticker": "USAR",
-        "conviction": "high",
-        "reasoning": "Clean four-signal setup with volume surge confirming institutional participation, adding materials exposure distinct from current holdings."
+        "ticker": "NN",
+        "conviction": "medium",
+        "reasoning": "Lowest RSI (58.9) among the top-scored names with full MACD bullish confirmation, giving the best entry cushion of the three picks while filling an open slot on a risk-on day."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "NASDAQ +1.2% and S&P 500 +0.7% signal a risk-on session, so with 3 open slots and $789 in cash we deployed into LUNR, SMCI, and USAR \u2014 all showing the full four-signal bullish confirmation (RSI in the healthy zone, MACD crossover, rising momentum, and volume surge) without being overbought. Existing positions were left untouched since none hit stop-loss or profit-target thresholds.",
+    "briefing": "NASDAQ +1.6% and S&P 500 +0.9% signal a risk-on day, though none of today's candidates show the full four-signal confirmation (including volume surge) from past lessons, so we're deploying cash into three diversified medium-conviction names rather than going max conviction. Existing positions are held unchanged since none are near stop-loss or profit targets and the market doesn't warrant trimming winners.",
     "market_education": {
-      "summary_en": "Markets pushed higher today with the NASDAQ leading gains at +1.2% and the S&P 500 up +0.7%, reflecting broad risk-on sentiment across growth and tech-adjacent names. Volume surges across several small and mid-cap momentum stocks suggest institutional buyers were actively participating rather than just retail-driven moves. No single dominant catalyst was identified in the available data, but the breadth of bullish technical setups points to a constructive, broad-based rally.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u9020\u597d,\u7d0d\u6307\u9818\u6f32\u53471.2%,\u6a19\u666e500\u4ea6\u53470.7%,\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u56de\u5347,\u589e\u9577\u80a1\u53ca\u79d1\u6280\u76f8\u95dc\u80a1\u4efd\u666e\u904d\u53d7\u8ffd\u6367\u3002\u591a\u96bb\u4e2d\u5c0f\u578b\u52d5\u80fd\u80a1\u4efd\u6210\u4ea4\u91cf\u986f\u8457\u653e\u5927,\u986f\u793a\u662f\u6b21\u4e0a\u5347\u7531\u6a5f\u69cb\u6295\u8cc7\u8005\u4e3b\u5c0e,\u4e26\u975e\u55ae\u7d14\u6563\u6236\u7092\u4f5c\u3002\u96d6\u7136\u672a\u6709\u660e\u78ba\u55ae\u4e00\u50ac\u5316\u56e0\u7d20,\u4f46\u6280\u8853\u9762\u666e\u904d\u8f49\u5f37,\u986f\u793a\u4eca\u6b21\u4e0a\u5347\u5177\u4e00\u5b9a\u5ee3\u5ea6\u53ca\u6301\u7e8c\u6027\u3002",
+      "summary_en": "Broad market gains today were led by the NASDAQ outpacing the S&P 500, consistent with continued strength in growth and momentum-driven sectors like technology and small-cap innovators. Multiple screened candidates showed bullish MACD crossovers and RSI readings in healthy ranges, suggesting steady institutional buying rather than a single catalyst-driven spike. Without specific headline-level news available today, the move appears to reflect a general continuation of positive risk sentiment across equities.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0a\u5347\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u79d1\u6280\u80a1\u53ca\u4e2d\u5c0f\u578b\u589e\u9577\u80a1\u7684\u52d5\u529b\u6301\u7e8c\u589e\u5f37\u3002\u591a\u96bb\u7be9\u9078\u51fa\u7684\u80a1\u7968\u5747\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u53caRSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\uff0c\u986f\u793a\u8cc7\u91d1\u7a69\u6b65\u6d41\u5165\u800c\u975e\u55ae\u4e00\u6d88\u606f\u523a\u6fc0\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u5177\u9ad4\u982d\u689d\u65b0\u805e\u53ef\u4f9b\u5f15\u7528\uff0c\u6b64\u6b21\u5347\u52e2\u4f3c\u4e4e\u53cd\u6620\u6574\u9ad4\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u6539\u5584\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Rather than buying on a single bullish sign, strong traders wait for several indicators \u2014 like RSI, MACD, price versus moving average, and volume \u2014 to all agree before committing capital. When four or five signals line up together, it suggests real institutional buying rather than a random price blip, making the trade more reliable.",
-      "explanation_zh": "\u8207\u5176\u55ae\u6191\u4e00\u500b\u5229\u597d\u8a0a\u865f\u5c31\u5165\u5e02,\u7a69\u5065\u7684\u6295\u8cc7\u8005\u6703\u7b49\u5f85\u591a\u500b\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u76f8\u5c0d\u65bc\u5e73\u5747\u7dda\u7684\u4f4d\u7f6e,\u4ee5\u53ca\u6210\u4ea4\u91cf\u2014\u2014\u540c\u6642\u78ba\u8a8d\u624d\u843d\u6ce8\u3002\u7576\u56db\u81f3\u4e94\u500b\u8a0a\u865f\u540c\u6642\u51fa\u73fe,\u4ee3\u8868\u5e02\u5834\u5f88\u53ef\u80fd\u6709\u6a5f\u69cb\u8cc7\u91d1\u771f\u6b63\u8cb7\u5165,\u800c\u975e\u96a8\u6a5f\u7684\u77ed\u66ab\u6ce2\u52d5,\u4ee4\u4ea4\u6613\u6c7a\u5b9a\u66f4\u53ef\u9760\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Momentum confirmation means checking multiple technical signals together \u2014 like RSI, MACD, and price versus moving averages \u2014 before trusting a rally, rather than acting on just one indicator. Today's candidates showed three of four confirming signals but lacked a volume surge, so a moderate rather than maximum-conviction approach was used.",
+      "explanation_zh": "\u52d5\u91cf\u78ba\u8a8d\u662f\u6307\u5728\u4fe1\u4efb\u5347\u52e2\u4e4b\u524d\uff0c\u540c\u6642\u6aa2\u67e5\u591a\u500b\u6280\u8853\u6307\u6a19\uff08\u5982RSI\u3001MACD\u53ca\u80a1\u50f9\u8207\u79fb\u52d5\u5e73\u5747\u7dda\u7684\u95dc\u4fc2\uff09\uff0c\u800c\u975e\u55ae\u6191\u4e00\u500b\u6307\u6a19\u884c\u52d5\u3002\u4eca\u65e5\u5019\u9078\u80a1\u7968\u7b26\u5408\u56db\u500b\u8a0a\u865f\u4e2d\u7684\u4e09\u500b\uff0c\u4f46\u7f3a\u4e4f\u6210\u4ea4\u91cf\u6fc0\u589e\u7684\u78ba\u8a8d\uff0c\u56e0\u6b64\u63a1\u53d6\u4e2d\u7b49\u800c\u975e\u6700\u9ad8\u4fe1\u5fc3\u7684\u64cd\u4f5c\u7b56\u7565\u3002"
     }
   }
 }

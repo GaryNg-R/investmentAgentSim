@@ -1,34 +1,34 @@
 {
   "date": "2026-09-21",
-  "briefing": "NASDAQ +1.2% and S&P 500 +0.7% signal a risk-on session, so with 3 open slots and $789 in cash we deployed into LUNR, SMCI, and USAR — all showing the full four-signal bullish confirmation (RSI in the healthy zone, MACD crossover, rising momentum, and volume surge) without being overbought. Existing positions were left untouched since none hit stop-loss or profit-target thresholds.",
+  "briefing": "NASDAQ +1.6% and S&P 500 +0.9% signal a risk-on day, though none of today's candidates show the full four-signal confirmation (including volume surge) from past lessons, so we're deploying cash into three diversified medium-conviction names rather than going max conviction. Existing positions are held unchanged since none are near stop-loss or profit targets and the market doesn't warrant trimming winners.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Rather than buying on a single bullish sign, strong traders wait for several indicators — like RSI, MACD, price versus moving average, and volume — to all agree before committing capital. When four or five signals line up together, it suggests real institutional buying rather than a random price blip, making the trade more reliable.",
-    "explanation_zh": "與其單憑一個利好訊號就入市,穩健的投資者會等待多個指標——例如RSI、MACD、股價相對於平均線的位置,以及成交量——同時確認才落注。當四至五個訊號同時出現,代表市場很可能有機構資金真正買入,而非隨機的短暫波動,令交易決定更可靠。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means checking multiple technical signals together — like RSI, MACD, and price versus moving averages — before trusting a rally, rather than acting on just one indicator. Today's candidates showed three of four confirming signals but lacked a volume surge, so a moderate rather than maximum-conviction approach was used.",
+    "explanation_zh": "動量確認是指在信任升勢之前，同時檢查多個技術指標（如RSI、MACD及股價與移動平均線的關係），而非單憑一個指標行動。今日候選股票符合四個訊號中的三個，但缺乏成交量激增的確認，因此採取中等而非最高信心的操作策略。"
   },
   "market_education": {
-    "summary_en": "Markets pushed higher today with the NASDAQ leading gains at +1.2% and the S&P 500 up +0.7%, reflecting broad risk-on sentiment across growth and tech-adjacent names. Volume surges across several small and mid-cap momentum stocks suggest institutional buyers were actively participating rather than just retail-driven moves. No single dominant catalyst was identified in the available data, but the breadth of bullish technical setups points to a constructive, broad-based rally.",
-    "summary_zh": "今日大市造好,納指領漲升1.2%,標普500亦升0.7%,反映市場風險偏好情緒回升,增長股及科技相關股份普遍受追捧。多隻中小型動能股份成交量顯著放大,顯示是次上升由機構投資者主導,並非單純散戶炒作。雖然未有明確單一催化因素,但技術面普遍轉強,顯示今次上升具一定廣度及持續性。",
+    "summary_en": "Broad market gains today were led by the NASDAQ outpacing the S&P 500, consistent with continued strength in growth and momentum-driven sectors like technology and small-cap innovators. Multiple screened candidates showed bullish MACD crossovers and RSI readings in healthy ranges, suggesting steady institutional buying rather than a single catalyst-driven spike. Without specific headline-level news available today, the move appears to reflect a general continuation of positive risk sentiment across equities.",
+    "summary_zh": "今日大市普遍上升，納斯達克指數升幅跑贏標普500指數，反映科技股及中小型增長股的動力持續增強。多隻篩選出的股票均出現MACD黃金交叉及RSI處於健康區間，顯示資金穩步流入而非單一消息刺激。由於今日未有具體頭條新聞可供引用，此次升勢似乎反映整體市場風險偏好持續改善。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "LUNR",
-      "conviction": "high",
-      "reasoning": "All four confirmation signals present (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day."
+      "ticker": "RKLB",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 66 still under overbought, MACD bullish crossover and rising histogram, and price above SMA-20 confirm the risk-on move without chasing an extreme."
     },
     {
       "action": "BUY",
-      "ticker": "SMCI",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation with RSI in the healthy 55-70 zone and strong volume, diversifying into AI hardware away from existing space/materials exposure."
+      "ticker": "OKLO",
+      "conviction": "medium",
+      "reasoning": "Strong momentum score 95 with RSI 65.5 in the bullish zone and MACD confirming, adds energy-sector diversification away from existing tech/industrial holdings."
     },
     {
       "action": "BUY",
-      "ticker": "USAR",
-      "conviction": "high",
-      "reasoning": "Clean four-signal setup with volume surge confirming institutional participation, adding materials exposure distinct from current holdings."
+      "ticker": "NN",
+      "conviction": "medium",
+      "reasoning": "Lowest RSI (58.9) among the top-scored names with full MACD bullish confirmation, giving the best entry cushion of the three picks while filling an open slot on a risk-on day."
     }
   ],
   "outcomes": {
