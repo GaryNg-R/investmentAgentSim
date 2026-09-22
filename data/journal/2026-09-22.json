@@ -1,28 +1,34 @@
 {
   "date": "2026-09-22",
-  "briefing": "Markets were flat to slightly positive today (NASDAQ +0.4%, S&P500 +0.0%), a neutral session with no strong risk-on signal. With cash above the $500 threshold and 3 open slots, I deployed modestly into NU and BTU, two of the least-overbought high-scoring momentum names, while holding all existing positions untouched.",
+  "briefing": "Markets were flat to slightly positive (NASDAQ +0.5%, S&P 500 +0.0%) with no clear directional catalyst. With cash above the $500 threshold and 3 open slots, we deployed into BTU, SRAD, and AMR — the three candidates showing full multi-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge).",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, using indicators like RSI and MACD to confirm the trend is healthy rather than exhausted. Today's picks were chosen partly because their RSI readings (mid-50s to low-60s) showed bullish strength without being overbought, unlike many candidates already flashing RSI above 70.",
-    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票，並利用RSI（相對強弱指數）和MACD（指數平滑異同移動平均線）等指標確認趨勢仍然健康、尚未過熱。今日選股部分基於RSI讀數處於50多至60出頭區間，顯示上升動力強勁但未達超買水平，相比之下許多候選股RSI已超過70，屬於超買狀態。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "When multiple independent technical indicators — like RSI, MACD, price vs. moving average, and volume — all point the same bullish direction at once, it's a stronger signal than any single indicator alone, since it suggests real institutional buying rather than random noise. Traders often wait for this kind of confluence before committing capital, especially on days when the broader market lacks direction.",
+    "explanation_zh": "當多個獨立的技術指標——例如RSI、MACD、股價與均線關係、以及成交量——同時指向同一個看漲方向時，這比單一指標更具說服力，因為這通常代表真實的機構買盤,而非隨機波動。交易者常會等待這種多重訊號確認後才進場，尤其是在大盤缺乏明確方向的日子。"
   },
   "market_education": {
-    "summary_en": "Today's session was largely directionless, with the S&P 500 essentially flat and the NASDAQ edging up just 0.4%, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a clear risk-on or risk-off trigger, trading stayed range-bound and low-conviction. This kind of quiet consolidation often precedes a more decisive move once new economic data or earnings news arrives.",
-    "summary_zh": "今日大市走勢反覆，標普500指數近乎持平，納斯達克指數僅微升0.4%，反映投資者在缺乏明確消息刺激下採取觀望態度。由於沒有明顯的風險偏好或避險訊號，市場交投於區間內整固，方向性不強。這種平靜的整固格局，往往是醞釀下一輪較明確走勢（視乎後續經濟數據或業績表現）的前奏。",
+    "summary_en": "Broad indices were essentially unchanged today, with the S&P 500 flat and the Nasdaq up a modest 0.5%. There was no major macro catalyst driving the tape, so trading was largely stock-specific and technically driven rather than news-driven. Several individual names showed strong momentum breakouts with volume confirmation even as the broader market stayed range-bound.",
+    "summary_zh": "今日大盤走勢平淡，標普500指數持平，納指僅微升0.5%，市場缺乏明確的宏觀消息面催化劑。整體交易更多由個股技術面主導，而非新聞驅動。儘管大盤橫行整理，但部分個股在成交量配合下出現強勁的動能突破。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NU",
-      "conviction": "medium",
-      "reasoning": "RSI 56.6 is the least overbought of the top-scored names with a fresh MACD crossover and price above SMA-20, offering room to run on a low-cost entry."
+      "ticker": "BTU",
+      "conviction": "high",
+      "reasoning": "Top-scoring candidate with full multi-signal confirmation: RSI 58.9 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge."
     },
     {
       "action": "BUY",
-      "ticker": "BTU",
+      "ticker": "SRAD",
+      "conviction": "high",
+      "reasoning": "Full signal confluence (bullish RSI, MACD crossover, price above SMA-20, volume surge) matching the institutional-participation pattern from prior lessons."
+    },
+    {
+      "action": "BUY",
+      "ticker": "AMR",
       "conviction": "medium",
-      "reasoning": "Clean bullish setup (RSI 61.2, MACD crossover, rising histogram, price above SMA-20) diversifies away from tech-heavy holdings on an otherwise quiet day."
+      "reasoning": "Same four-signal confirmation as other high-conviction picks, sized medium to spread limited cash across the three open slots per risk rules."
     }
   ],
   "outcomes": {
