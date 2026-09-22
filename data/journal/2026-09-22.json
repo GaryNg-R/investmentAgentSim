@@ -1,22 +1,28 @@
 {
   "date": "2026-09-22",
-  "briefing": "Markets were neutral today (NASDAQ +0.5%, S&P 500 +0.1%) with no strong risk-on signal. With cash above the $500 threshold and 3 open slots, we deployed a modest amount into TNGX, the highest-scoring candidate with confirmed bullish momentum, while holding all 7 existing positions unchanged.",
+  "briefing": "Markets were flat to slightly positive today (NASDAQ +0.4%, S&P500 +0.0%), a neutral session with no strong risk-on signal. With cash above the $500 threshold and 3 open slots, I deployed modestly into NU and BTU, two of the least-overbought high-scoring momentum names, while holding all existing positions untouched.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means checking multiple technical signals together — like RSI, MACD, and price versus moving average — before buying, rather than relying on just one. This reduces the chance of chasing a false signal, especially on quiet, neutral market days like today.",
-    "explanation_zh": "動能確認是指在買入前同時檢查多項技術指標，例如RSI、MACD和股價與均線的關係，而非只依賴單一訊號。這樣可以降低追逐假訊號的風險，尤其是在今天這種平靜、中性的市況下更為重要。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, using indicators like RSI and MACD to confirm the trend is healthy rather than exhausted. Today's picks were chosen partly because their RSI readings (mid-50s to low-60s) showed bullish strength without being overbought, unlike many candidates already flashing RSI above 70.",
+    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票，並利用RSI（相對強弱指數）和MACD（指數平滑異同移動平均線）等指標確認趨勢仍然健康、尚未過熱。今日選股部分基於RSI讀數處於50多至60出頭區間，顯示上升動力強勁但未達超買水平，相比之下許多候選股RSI已超過70，屬於超買狀態。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted modestly higher today without a clear catalyst, with the NASDAQ slightly outpacing the S&P 500. Trading stayed range-bound as investors awaited fresh economic data or earnings news to set direction. No major headlines drove today's session, consistent with the neutral tape.",
-    "summary_zh": "今日大盤走勢溫和向上，缺乏明確催化因素，納指表現略優於標普500指數。市場交投維持區間震盪，投資者靜待新的經濟數據或財報消息以確立方向。今天並無重大頭條新聞主導盤面，與整體中性走勢相符。",
+    "summary_en": "Today's session was largely directionless, with the S&P 500 essentially flat and the NASDAQ edging up just 0.4%, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a clear risk-on or risk-off trigger, trading stayed range-bound and low-conviction. This kind of quiet consolidation often precedes a more decisive move once new economic data or earnings news arrives.",
+    "summary_zh": "今日大市走勢反覆，標普500指數近乎持平，納斯達克指數僅微升0.4%，反映投資者在缺乏明確消息刺激下採取觀望態度。由於沒有明顯的風險偏好或避險訊號，市場交投於區間內整固，方向性不強。這種平靜的整固格局，往往是醞釀下一輪較明確走勢（視乎後續經濟數據或業績表現）的前奏。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TNGX",
+      "ticker": "NU",
       "conviction": "medium",
-      "reasoning": "Top-scoring candidate (95) with RSI in bullish zone, bullish MACD crossover, rising histogram, and price above SMA-20, filling an open slot with available cash while sizing stays modest since NASDAQ momentum is only +0.5% (neutral, not risk-on)."
+      "reasoning": "RSI 56.6 is the least overbought of the top-scored names with a fresh MACD crossover and price above SMA-20, offering room to run on a low-cost entry."
+    },
+    {
+      "action": "BUY",
+      "ticker": "BTU",
+      "conviction": "medium",
+      "reasoning": "Clean bullish setup (RSI 61.2, MACD crossover, rising histogram, price above SMA-20) diversifies away from tech-heavy holdings on an otherwise quiet day."
     }
   ],
   "outcomes": {
