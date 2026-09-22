@@ -1,24 +1,17 @@
 {
   "date": "2026-09-22",
-  "briefing": "Market was neutral today (NASDAQ +0.4%, S&P +0.1%) with no broad risk-on signal, but SOFI showed full institutional-grade confirmation across all five technical signals, so we deployed part of the idle cash into it while leaving existing winners like EAT to run. Two slots remain open for a stronger setup.",
+  "briefing": "Markets were flat and directionless today (NASDAQ +0.4%, S&P 500 roughly unchanged), with no confirmed risk-on signal. None of the top screened candidates showed the full four-signal confirmation (MACD crossover, bullish-range RSI, price above SMA-20, and volume surge) needed for a high-conviction entry, so we're holding our 7 existing positions and keeping the remaining cash in reserve rather than forcing a buy.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent indicators — like RSI, MACD, price versus moving averages, and volume — all point the same direction at once. Relying on just one signal can produce false starts, but when they align together it suggests real buying interest rather than random noise.",
-    "explanation_zh": "多重訊號確認是指只有在多個獨立指標(例如RSI、MACD、股價相對於移動平均線的位置,以及成交量)同時指向同一方向時才進行交易。單靠一個訊號容易出現誤判,但當多個訊號一致時,便更能反映真實的買盤興趣,而非隨機波動。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' or neutral day is when the market shows no strong directional conviction, and the disciplined move is to hold rather than force new trades just to deploy idle cash. Chasing entries without full signal confirmation (like a volume surge alongside momentum indicators) increases the odds of buying into a false breakout.",
+    "explanation_zh": "「風險規避」或中性市況,是指市場缺乏明確方向,此時較穩健的做法是持倉觀望,而非為運用閒置現金而勉強進場。若缺乏完整訊號確認(例如成交量放大配合動能指標),貿然入市容易誤墮「假突破」陷阱。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today with the S&P 500 up just 0.1% and the NASDAQ up 0.4%, reflecting a lack of major market-moving catalysts. Trading was largely driven by stock-specific momentum rather than macro news, with several names showing strong technical breakouts on above-average volume. Overall sentiment stayed cautiously constructive without a clear directional trigger.",
-    "summary_zh": "今日大市走勢溫和向上,標普500僅升0.1%,納斯達克升0.4%,反映市場缺乏重大催化因素。今日走勢主要由個股動能主導而非宏觀消息,部分股份在成交量顯著放大下出現技術性突破。整體市場氣氛審慎偏向樂觀,但未見明確方向性訊號。",
+    "summary_en": "Today's trading was largely directionless, with the NASDAQ up a modest 0.4% and the S&P 500 essentially flat, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a clear risk-on or risk-off trigger, capital tends to stay parked in existing winners rather than rotating into new positions. This kind of quiet session often precedes a bigger move once new economic data or earnings news arrives.",
+    "summary_zh": "今日大市走勢反覆,納指僅升0.4%,標普500指數則近乎持平,反映投資者處於觀望狀態,未見明顯利好或利淡消息帶動方向。在缺乏清晰風險偏好訊號下,資金傾向留在現有持倉而非追入新股。這類淡靜市況往往是醞釀較大波動的前奏,靜待後續經濟數據或業績表現。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "SOFI",
-      "conviction": "medium",
-      "reasoning": "Full 5-signal confirmation (bullish RSI 58.2 with room to run, MACD crossover, rising histogram, price above SMA-20, volume surge) fills an open slot with cash above threshold despite only a mildly positive broad market."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14355.735246181488,
     "cash": 789.2850012779236,
