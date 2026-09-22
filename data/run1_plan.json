@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-09-22T16:00:57.842473+00:00",
+  "saved_at": "2026-09-22T17:00:59.258452+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "CE",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 58 (not yet overbought), bullish MACD crossover and rising histogram, price above SMA-20, though lacking volume-surge confirmation for high conviction."
+        "reasoning": "Top-scored candidate with bullish RSI, MACD crossover, rising histogram, and price above SMA-20, adding sector diversification into chemicals."
       },
       {
         "action": "BUY",
-        "ticker": "TNGX",
+        "ticker": "SOFI",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 60 in the bullish zone and confirmed MACD crossover/rising histogram above SMA-20, diversifying into biotech away from existing tech-heavy holdings."
+        "reasoning": "Score-95 candidate with RSI 60.4 in the healthy bullish zone plus MACD crossover, diversifying into fintech while cash sits above the $500 deployment threshold."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Market was flat-to-neutral today (NASDAQ +0.3%, S&P 500 roughly unchanged). With $789 cash and 3 open slots, deployed into two of the top-scoring, non-overbought candidates (CE, TNGX) at medium conviction since volume-surge confirmation was missing, keeping one slot in reserve for a stronger risk-on signal.",
+    "briefing": "Markets were flat today (NASDAQ +0.3%, S&P 500 +0.0%), showing no strong risk-on or risk-off signal. With $789 in cash and 3 open slots, we made two measured medium-conviction buys (CE, SOFI) on strong technical setups while keeping the last slot and some cash in reserve for a clearer risk-on move.",
     "market_education": {
-      "summary_en": "Major indices traded essentially sideways today, with the NASDAQ up a modest 0.3% and the S&P 500 roughly flat, reflecting a lack of strong catalysts to push the market decisively in either direction. Investors appeared to be in a wait-and-see mode rather than reacting to major news. This kind of low-volatility drift is typical between earnings seasons and major economic data releases.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u53470.3%\uff0c\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u6c92\u6709\u8b8a\u52d5\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u5f37\u529b\u50ac\u5316\u56e0\u7d20\u63a8\u52d5\u660e\u78ba\u65b9\u5411\u3002\u6295\u8cc7\u4eba\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\uff0c\u800c\u975e\u5c0d\u91cd\u5927\u6d88\u606f\u505a\u51fa\u53cd\u61c9\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u7684\u6a6b\u76e4\u6574\u7406\u5728\u8ca1\u5831\u5b63\u8207\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u516c\u4f48\u4e4b\u9593\u76f8\u7576\u5e38\u898b\u3002",
+      "summary_en": "Major indices were essentially unchanged today, with the NASDAQ up a modest 0.3% and the S&P 500 flat, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a decisive move in either direction, we leaned on individual stock momentum signals rather than broad market sentiment to guide today's trades. No major market-moving headlines were available in today's data feed.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u5e73\u7a69\uff0c\u7d0d\u65af\u9054\u514b\u50c5\u5fae\u53470.3%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u6301\u5e73\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u6b63\u8655\u65bc\u89c0\u671b\u72c0\u614b\uff0c\u672a\u6709\u660e\u986f\u50ac\u5316\u5291\u5e36\u52d5\u65b9\u5411\u3002\u7531\u65bc\u5927\u5e02\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff0c\u6211\u5011\u4eca\u65e5\u4e3b\u8981\u4f9d\u64da\u500b\u80a1\u7684\u6280\u8853\u52d5\u80fd\u8a0a\u865f\uff08\u800c\u975e\u6574\u9ad4\u5e02\u5834\u6c23\u6c1b\uff09\u4f5c\u51fa\u4ea4\u6613\u6c7a\u5b9a\u3002\u4eca\u65e5\u6578\u64da\u672a\u63d0\u4f9b\u91cd\u5927\u5e02\u5834\u6d88\u606f\u4f86\u6e90\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means checking multiple technical signals together \u2014 like RSI, MACD, price vs. moving average, and trading volume \u2014 before treating a stock's upward move as trustworthy. Today's top candidates showed three of four confirming signals but lacked a volume surge, which is why they were bought at medium rather than high conviction.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u5224\u65b7\u80a1\u7968\u4e0a\u6f32\u8da8\u52e2\u662f\u5426\u53ef\u9760\u6642\uff0c\u540c\u6642\u6aa2\u8996\u591a\u9805\u6280\u8853\u6307\u6a19\uff0c\u4f8b\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u8207\u5747\u7dda\u7684\u95dc\u4fc2\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u3002\u4eca\u65e5\u7be9\u9078\u51fa\u7684\u5019\u9078\u80a1\u7b26\u5408\u56db\u9805\u8a0a\u865f\u4e2d\u7684\u4e09\u9805\uff0c\u4f46\u7f3a\u4e4f\u6210\u4ea4\u91cf\u653e\u5927\u7684\u78ba\u8a8d\uff0c\u56e0\u6b64\u50c5\u4ee5\u4e2d\u7b49\u4fe1\u5fc3\u8cb7\u5165\uff0c\u800c\u975e\u9ad8\u4fe1\u5fc3\u3002"
+      "explanation_en": "Momentum confirmation means looking for multiple technical signals \u2014 like RSI in a healthy range, a bullish MACD crossover, and price above key moving averages \u2014 to agree before buying, rather than acting on just one indicator. This reduces the chance of chasing a false signal, especially on a quiet, directionless market day.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\u5c0b\u627e\u591a\u500b\u6280\u8853\u8a0a\u865f\u4e92\u76f8\u5370\u8b49\uff0c\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u95dc\u9375\u79fb\u52d5\u5e73\u5747\u7dda\u7b49\uff0c\u800c\u975e\u55ae\u6191\u4e00\u500b\u6307\u6a19\u884c\u52d5\u3002\u9019\u6a23\u53ef\u4ee5\u6e1b\u5c11\u5728\u5e02\u6cc1\u5e73\u6de1\u3001\u65b9\u5411\u4e0d\u660e\u7684\u65e5\u5b50\u8aa4\u4fe1\u5047\u8a0a\u865f\u7684\u98a8\u96aa\u3002"
     }
   }
 }
