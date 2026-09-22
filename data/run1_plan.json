@@ -1,19 +1,32 @@
 {
-  "saved_at": "2026-09-22T15:00:57.973778+00:00",
+  "saved_at": "2026-09-22T16:00:57.842473+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Markets were flat and directionless today (NASDAQ +0.4%, S&P 500 roughly unchanged), with no confirmed risk-on signal. None of the top screened candidates showed the full four-signal confirmation (MACD crossover, bullish-range RSI, price above SMA-20, and volume surge) needed for a high-conviction entry, so we're holding our 7 existing positions and keeping the remaining cash in reserve rather than forcing a buy.",
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "CE",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 58 (not yet overbought), bullish MACD crossover and rising histogram, price above SMA-20, though lacking volume-surge confirmation for high conviction."
+      },
+      {
+        "action": "BUY",
+        "ticker": "TNGX",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 60 in the bullish zone and confirmed MACD crossover/rising histogram above SMA-20, diversifying into biotech away from existing tech-heavy holdings."
+      }
+    ],
+    "skip_new_buys": false,
+    "briefing": "Market was flat-to-neutral today (NASDAQ +0.3%, S&P 500 roughly unchanged). With $789 cash and 3 open slots, deployed into two of the top-scoring, non-overbought candidates (CE, TNGX) at medium conviction since volume-surge confirmation was missing, keeping one slot in reserve for a stronger risk-on signal.",
     "market_education": {
-      "summary_en": "Today's trading was largely directionless, with the NASDAQ up a modest 0.4% and the S&P 500 essentially flat, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a clear risk-on or risk-off trigger, capital tends to stay parked in existing winners rather than rotating into new positions. This kind of quiet session often precedes a bigger move once new economic data or earnings news arrives.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u53cd\u8986,\u7d0d\u6307\u50c5\u53470.4%,\u6a19\u666e500\u6307\u6578\u5247\u8fd1\u4e4e\u6301\u5e73,\u53cd\u6620\u6295\u8cc7\u8005\u8655\u65bc\u89c0\u671b\u72c0\u614b,\u672a\u898b\u660e\u986f\u5229\u597d\u6216\u5229\u6de1\u6d88\u606f\u5e36\u52d5\u65b9\u5411\u3002\u5728\u7f3a\u4e4f\u6e05\u6670\u98a8\u96aa\u504f\u597d\u8a0a\u865f\u4e0b,\u8cc7\u91d1\u50be\u5411\u7559\u5728\u73fe\u6709\u6301\u5009\u800c\u975e\u8ffd\u5165\u65b0\u80a1\u3002\u9019\u985e\u6de1\u975c\u5e02\u6cc1\u5f80\u5f80\u662f\u919e\u91c0\u8f03\u5927\u6ce2\u52d5\u7684\u524d\u594f,\u975c\u5f85\u5f8c\u7e8c\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u8868\u73fe\u3002",
+      "summary_en": "Major indices traded essentially sideways today, with the NASDAQ up a modest 0.3% and the S&P 500 roughly flat, reflecting a lack of strong catalysts to push the market decisively in either direction. Investors appeared to be in a wait-and-see mode rather than reacting to major news. This kind of low-volatility drift is typical between earnings seasons and major economic data releases.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u53470.3%\uff0c\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u6c92\u6709\u8b8a\u52d5\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u5f37\u529b\u50ac\u5316\u56e0\u7d20\u63a8\u52d5\u660e\u78ba\u65b9\u5411\u3002\u6295\u8cc7\u4eba\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\uff0c\u800c\u975e\u5c0d\u91cd\u5927\u6d88\u606f\u505a\u51fa\u53cd\u61c9\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u7684\u6a6b\u76e4\u6574\u7406\u5728\u8ca1\u5831\u5b63\u8207\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u516c\u4f48\u4e4b\u9593\u76f8\u7576\u5e38\u898b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' or neutral day is when the market shows no strong directional conviction, and the disciplined move is to hold rather than force new trades just to deploy idle cash. Chasing entries without full signal confirmation (like a volume surge alongside momentum indicators) increases the odds of buying into a false breakout.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d\u6216\u4e2d\u6027\u5e02\u6cc1,\u662f\u6307\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411,\u6b64\u6642\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u662f\u6301\u5009\u89c0\u671b,\u800c\u975e\u70ba\u904b\u7528\u9592\u7f6e\u73fe\u91d1\u800c\u52c9\u5f37\u9032\u5834\u3002\u82e5\u7f3a\u4e4f\u5b8c\u6574\u8a0a\u865f\u78ba\u8a8d(\u4f8b\u5982\u6210\u4ea4\u91cf\u653e\u5927\u914d\u5408\u52d5\u80fd\u6307\u6a19),\u8cbf\u7136\u5165\u5e02\u5bb9\u6613\u8aa4\u58ae\u300c\u5047\u7a81\u7834\u300d\u9677\u9631\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Momentum confirmation means checking multiple technical signals together \u2014 like RSI, MACD, price vs. moving average, and trading volume \u2014 before treating a stock's upward move as trustworthy. Today's top candidates showed three of four confirming signals but lacked a volume surge, which is why they were bought at medium rather than high conviction.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u5224\u65b7\u80a1\u7968\u4e0a\u6f32\u8da8\u52e2\u662f\u5426\u53ef\u9760\u6642\uff0c\u540c\u6642\u6aa2\u8996\u591a\u9805\u6280\u8853\u6307\u6a19\uff0c\u4f8b\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u8207\u5747\u7dda\u7684\u95dc\u4fc2\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u3002\u4eca\u65e5\u7be9\u9078\u51fa\u7684\u5019\u9078\u80a1\u7b26\u5408\u56db\u9805\u8a0a\u865f\u4e2d\u7684\u4e09\u9805\uff0c\u4f46\u7f3a\u4e4f\u6210\u4ea4\u91cf\u653e\u5927\u7684\u78ba\u8a8d\uff0c\u56e0\u6b64\u50c5\u4ee5\u4e2d\u7b49\u4fe1\u5fc3\u8cb7\u5165\uff0c\u800c\u975e\u9ad8\u4fe1\u5fc3\u3002"
     }
   }
 }

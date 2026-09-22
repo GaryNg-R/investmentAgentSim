@@ -1,17 +1,30 @@
 {
   "date": "2026-09-22",
-  "briefing": "Markets were flat and directionless today (NASDAQ +0.4%, S&P 500 roughly unchanged), with no confirmed risk-on signal. None of the top screened candidates showed the full four-signal confirmation (MACD crossover, bullish-range RSI, price above SMA-20, and volume surge) needed for a high-conviction entry, so we're holding our 7 existing positions and keeping the remaining cash in reserve rather than forcing a buy.",
+  "briefing": "Market was flat-to-neutral today (NASDAQ +0.3%, S&P 500 roughly unchanged). With $789 cash and 3 open slots, deployed into two of the top-scoring, non-overbought candidates (CE, TNGX) at medium conviction since volume-surge confirmation was missing, keeping one slot in reserve for a stronger risk-on signal.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' or neutral day is when the market shows no strong directional conviction, and the disciplined move is to hold rather than force new trades just to deploy idle cash. Chasing entries without full signal confirmation (like a volume surge alongside momentum indicators) increases the odds of buying into a false breakout.",
-    "explanation_zh": "「風險規避」或中性市況,是指市場缺乏明確方向,此時較穩健的做法是持倉觀望,而非為運用閒置現金而勉強進場。若缺乏完整訊號確認(例如成交量放大配合動能指標),貿然入市容易誤墮「假突破」陷阱。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means checking multiple technical signals together — like RSI, MACD, price vs. moving average, and trading volume — before treating a stock's upward move as trustworthy. Today's top candidates showed three of four confirming signals but lacked a volume surge, which is why they were bought at medium rather than high conviction.",
+    "explanation_zh": "動能確認是指在判斷股票上漲趨勢是否可靠時，同時檢視多項技術指標，例如RSI、MACD、股價與均線的關係，以及成交量。今日篩選出的候選股符合四項訊號中的三項，但缺乏成交量放大的確認，因此僅以中等信心買入，而非高信心。"
   },
   "market_education": {
-    "summary_en": "Today's trading was largely directionless, with the NASDAQ up a modest 0.4% and the S&P 500 essentially flat, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a clear risk-on or risk-off trigger, capital tends to stay parked in existing winners rather than rotating into new positions. This kind of quiet session often precedes a bigger move once new economic data or earnings news arrives.",
-    "summary_zh": "今日大市走勢反覆,納指僅升0.4%,標普500指數則近乎持平,反映投資者處於觀望狀態,未見明顯利好或利淡消息帶動方向。在缺乏清晰風險偏好訊號下,資金傾向留在現有持倉而非追入新股。這類淡靜市況往往是醞釀較大波動的前奏,靜待後續經濟數據或業績表現。",
+    "summary_en": "Major indices traded essentially sideways today, with the NASDAQ up a modest 0.3% and the S&P 500 roughly flat, reflecting a lack of strong catalysts to push the market decisively in either direction. Investors appeared to be in a wait-and-see mode rather than reacting to major news. This kind of low-volatility drift is typical between earnings seasons and major economic data releases.",
+    "summary_zh": "今日大盤走勢大致持平，納斯達克指數微升0.3%，標普500指數幾乎沒有變動，反映市場缺乏強力催化因素推動明確方向。投資人普遍採取觀望態度，而非對重大消息做出反應。這種低波動的橫盤整理在財報季與重大經濟數據公佈之間相當常見。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "CE",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 58 (not yet overbought), bullish MACD crossover and rising histogram, price above SMA-20, though lacking volume-surge confirmation for high conviction."
+    },
+    {
+      "action": "BUY",
+      "ticker": "TNGX",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 60 in the bullish zone and confirmed MACD crossover/rising histogram above SMA-20, diversifying into biotech away from existing tech-heavy holdings."
+    }
+  ],
   "outcomes": {
     "total_value": 14355.735246181488,
     "cash": 789.2850012779236,
