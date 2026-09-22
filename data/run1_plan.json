@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-09-22T17:00:59.258452+00:00",
+  "saved_at": "2026-09-22T18:00:50.593559+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "CE",
+        "ticker": "TNGX",
         "conviction": "medium",
-        "reasoning": "Top-scored candidate with bullish RSI, MACD crossover, rising histogram, and price above SMA-20, adding sector diversification into chemicals."
-      },
-      {
-        "action": "BUY",
-        "ticker": "SOFI",
-        "conviction": "medium",
-        "reasoning": "Score-95 candidate with RSI 60.4 in the healthy bullish zone plus MACD crossover, diversifying into fintech while cash sits above the $500 deployment threshold."
+        "reasoning": "Top-scoring candidate (95) with RSI in bullish zone, bullish MACD crossover, rising histogram, and price above SMA-20, filling an open slot with available cash while sizing stays modest since NASDAQ momentum is only +0.5% (neutral, not risk-on)."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat today (NASDAQ +0.3%, S&P 500 +0.0%), showing no strong risk-on or risk-off signal. With $789 in cash and 3 open slots, we made two measured medium-conviction buys (CE, SOFI) on strong technical setups while keeping the last slot and some cash in reserve for a clearer risk-on move.",
+    "briefing": "Markets were neutral today (NASDAQ +0.5%, S&P 500 +0.1%) with no strong risk-on signal. With cash above the $500 threshold and 3 open slots, we deployed a modest amount into TNGX, the highest-scoring candidate with confirmed bullish momentum, while holding all 7 existing positions unchanged.",
     "market_education": {
-      "summary_en": "Major indices were essentially unchanged today, with the NASDAQ up a modest 0.3% and the S&P 500 flat, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a decisive move in either direction, we leaned on individual stock momentum signals rather than broad market sentiment to guide today's trades. No major market-moving headlines were available in today's data feed.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u5e73\u7a69\uff0c\u7d0d\u65af\u9054\u514b\u50c5\u5fae\u53470.3%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u6301\u5e73\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u6b63\u8655\u65bc\u89c0\u671b\u72c0\u614b\uff0c\u672a\u6709\u660e\u986f\u50ac\u5316\u5291\u5e36\u52d5\u65b9\u5411\u3002\u7531\u65bc\u5927\u5e02\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\uff0c\u6211\u5011\u4eca\u65e5\u4e3b\u8981\u4f9d\u64da\u500b\u80a1\u7684\u6280\u8853\u52d5\u80fd\u8a0a\u865f\uff08\u800c\u975e\u6574\u9ad4\u5e02\u5834\u6c23\u6c1b\uff09\u4f5c\u51fa\u4ea4\u6613\u6c7a\u5b9a\u3002\u4eca\u65e5\u6578\u64da\u672a\u63d0\u4f9b\u91cd\u5927\u5e02\u5834\u6d88\u606f\u4f86\u6e90\u3002",
+      "summary_en": "Broad indices drifted modestly higher today without a clear catalyst, with the NASDAQ slightly outpacing the S&P 500. Trading stayed range-bound as investors awaited fresh economic data or earnings news to set direction. No major headlines drove today's session, consistent with the neutral tape.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c\u5411\u4e0a\uff0c\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u56e0\u7d20\uff0c\u7d0d\u6307\u8868\u73fe\u7565\u512a\u65bc\u6a19\u666e500\u6307\u6578\u3002\u5e02\u5834\u4ea4\u6295\u7dad\u6301\u5340\u9593\u9707\u76ea\uff0c\u6295\u8cc7\u8005\u975c\u5f85\u65b0\u7684\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u6d88\u606f\u4ee5\u78ba\u7acb\u65b9\u5411\u3002\u4eca\u5929\u4e26\u7121\u91cd\u5927\u982d\u689d\u65b0\u805e\u4e3b\u5c0e\u76e4\u9762\uff0c\u8207\u6574\u9ad4\u4e2d\u6027\u8d70\u52e2\u76f8\u7b26\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means looking for multiple technical signals \u2014 like RSI in a healthy range, a bullish MACD crossover, and price above key moving averages \u2014 to agree before buying, rather than acting on just one indicator. This reduces the chance of chasing a false signal, especially on a quiet, directionless market day.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\u5c0b\u627e\u591a\u500b\u6280\u8853\u8a0a\u865f\u4e92\u76f8\u5370\u8b49\uff0c\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u95dc\u9375\u79fb\u52d5\u5e73\u5747\u7dda\u7b49\uff0c\u800c\u975e\u55ae\u6191\u4e00\u500b\u6307\u6a19\u884c\u52d5\u3002\u9019\u6a23\u53ef\u4ee5\u6e1b\u5c11\u5728\u5e02\u6cc1\u5e73\u6de1\u3001\u65b9\u5411\u4e0d\u660e\u7684\u65e5\u5b50\u8aa4\u4fe1\u5047\u8a0a\u865f\u7684\u98a8\u96aa\u3002"
+      "explanation_en": "Momentum confirmation means checking multiple technical signals together \u2014 like RSI, MACD, and price versus moving average \u2014 before buying, rather than relying on just one. This reduces the chance of chasing a false signal, especially on quiet, neutral market days like today.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\u540c\u6642\u6aa2\u67e5\u591a\u9805\u6280\u8853\u6307\u6a19\uff0c\u4f8b\u5982RSI\u3001MACD\u548c\u80a1\u50f9\u8207\u5747\u7dda\u7684\u95dc\u4fc2\uff0c\u800c\u975e\u53ea\u4f9d\u8cf4\u55ae\u4e00\u8a0a\u865f\u3002\u9019\u6a23\u53ef\u4ee5\u964d\u4f4e\u8ffd\u9010\u5047\u8a0a\u865f\u7684\u98a8\u96aa\uff0c\u5c24\u5176\u662f\u5728\u4eca\u5929\u9019\u7a2e\u5e73\u975c\u3001\u4e2d\u6027\u7684\u5e02\u6cc1\u4e0b\u66f4\u70ba\u91cd\u8981\u3002"
     }
   }
 }
