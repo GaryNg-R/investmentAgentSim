@@ -1,34 +1,34 @@
 {
   "date": "2026-09-22",
-  "briefing": "Markets were flat to slightly positive (NASDAQ +0.5%, S&P 500 +0.0%) with no clear directional catalyst. With cash above the $500 threshold and 3 open slots, we deployed into BTU, SRAD, and AMR — the three candidates showing full multi-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, and volume surge).",
+  "briefing": "Market was flat to slightly up (NASDAQ +0.5%, S&P500 ~0%), not a strong risk-on day, but three candidates (SRAD, AMR, ARQT) showed full multi-signal confirmation — bullish RSI, MACD crossover, price above SMA-20, and volume surge together. With 3 open slots and cash above the deployment threshold, filled all three at medium conviction rather than high, reflecting the tepid index-level move.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "When multiple independent technical indicators — like RSI, MACD, price vs. moving average, and volume — all point the same bullish direction at once, it's a stronger signal than any single indicator alone, since it suggests real institutional buying rather than random noise. Traders often wait for this kind of confluence before committing capital, especially on days when the broader market lacks direction.",
-    "explanation_zh": "當多個獨立的技術指標——例如RSI、MACD、股價與均線關係、以及成交量——同時指向同一個看漲方向時，這比單一指標更具說服力，因為這通常代表真實的機構買盤,而非隨機波動。交易者常會等待這種多重訊號確認後才進場，尤其是在大盤缺乏明確方向的日子。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for several technical signals — like RSI in a healthy bullish range, a MACD crossover, price above its moving average, and a volume surge — to line up together before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move.",
+    "explanation_zh": "動能確認是指在買入前等待多項技術指標同時出現，例如RSI處於健康的多頭區間、MACD黃金交叉、股價高於均線，以及成交量放大，而非僅憑單一訊號進場。這樣可以降低追高假突破或短暫波動的風險。"
   },
   "market_education": {
-    "summary_en": "Broad indices were essentially unchanged today, with the S&P 500 flat and the Nasdaq up a modest 0.5%. There was no major macro catalyst driving the tape, so trading was largely stock-specific and technically driven rather than news-driven. Several individual names showed strong momentum breakouts with volume confirmation even as the broader market stayed range-bound.",
-    "summary_zh": "今日大盤走勢平淡，標普500指數持平，納指僅微升0.5%，市場缺乏明確的宏觀消息面催化劑。整體交易更多由個股技術面主導，而非新聞驅動。儘管大盤橫行整理，但部分個股在成交量配合下出現強勁的動能突破。",
+    "summary_en": "Major indices were essentially flat today, with the NASDAQ up a modest 0.5% and the S&P 500 roughly unchanged, suggesting investors are in a wait-and-see mode rather than aggressively buying or selling. Without a strong macro catalyst, price action was driven more by individual stock fundamentals and technical setups than broad sentiment. A handful of smaller names showed genuine breakout strength even as the broader market stayed muted.",
+    "summary_zh": "今日大盤走勢平淡，納指僅微升0.5%，標普500則幾乎持平，反映投資人觀望氣氛濃厚，未見明顯加碼或減碼動作。在缺乏重大總體經濟催化劑的情況下，個股表現更多由基本面及技術面主導，而非受大盤情緒帶動。部分中小型股份即使在大盤疲弱下仍展現真正的突破力道。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "BTU",
-      "conviction": "high",
-      "reasoning": "Top-scoring candidate with full multi-signal confirmation: RSI 58.9 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge."
-    },
-    {
-      "action": "BUY",
       "ticker": "SRAD",
-      "conviction": "high",
-      "reasoning": "Full signal confluence (bullish RSI, MACD crossover, price above SMA-20, volume surge) matching the institutional-participation pattern from prior lessons."
+      "conviction": "medium",
+      "reasoning": "Full 4-signal confirmation (bullish RSI zone, MACD crossover, price above SMA-20, volume surge) at the top momentum score despite a neutral overall market."
     },
     {
       "action": "BUY",
       "ticker": "AMR",
       "conviction": "medium",
-      "reasoning": "Same four-signal confirmation as other high-conviction picks, sized medium to spread limited cash across the three open slots per risk rules."
+      "reasoning": "All four confirmation signals present (RSI 64.4, MACD crossover, price above SMA-20, volume surge), fitting the high-conviction multi-signal rule from prior lessons."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ARQT",
+      "conviction": "medium",
+      "reasoning": "Full 4-signal confirmation with volume surge backing the breakout, filling a third open slot with cash above the $500 threshold."
     }
   ],
   "outcomes": {
