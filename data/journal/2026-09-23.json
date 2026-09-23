@@ -1,22 +1,34 @@
 {
   "date": "2026-09-23",
-  "briefing": "Markets were flat today (NASDAQ and S&P 500 unchanged) with no fresh news data available, so this wasn't a strong risk-on signal. With 3 open slots and cash above the $500 threshold, deployed a modest position into HubSpot (HUBS) on solid technical confirmation rather than sitting idle, while holding all 7 existing positions unchanged.",
+  "briefing": "Macro index data was unavailable today so the broad market direction is unconfirmed, but several screened stocks still show strong multi-signal technical confirmation. We used the 3 open slots to diversify into WOR, EFXT, and LOPE, moving away from an already tech-heavy portfolio, while holding all existing positions since none hit stop-loss or profit targets.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, using signals like RSI, MACD, and moving averages to confirm the trend is real and not a fluke. Today's HUBS pick relied on three confirming signals (MACD crossover, healthy RSI, price above its 20-day average) even though the broader market gave no clear directional cue.",
-    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票,並利用RSI、MACD及移動平均線等指標來確認趨勢屬實,而非偶然波動。今日選中HUBS正是基於三個確認訊號(MACD黃金交叉、RSI處於健康區間、股價高於20日均線),即使大市本身並未給出明確方向。"
+    "term": "Technical Confirmation",
+    "explanation_en": "When broad market data isn't available, investors can still make informed decisions by looking at individual stock signals like RSI, MACD crossovers, and moving averages. Requiring multiple signals to agree (not just one) reduces the chance of acting on false signals.",
+    "explanation_zh": "當大盤數據無法取得時，投資人仍可透過個股的技術指標（如RSI、MACD黃金交叉、均線）做出判斷。要求多項指標同時確認，而非僅憑單一訊號進場，能降低誤判的風險。"
   },
   "market_education": {
-    "summary_en": "No news data was available today, and both the NASDAQ and S&P 500 were flat, suggesting a quiet, directionless session rather than any major catalyst-driven move. In the absence of macro headlines, today's decision leaned on individual stock technicals rather than broad market sentiment. This kind of low-volatility, data-scarce session is common and doesn't necessarily signal risk ahead.",
-    "summary_zh": "今日未有可用的新聞數據,納指與標普500均持平,顯示市場處於淡靜、缺乏方向的狀態,並非由重大事件驅動。在缺乏宏觀消息的情況下,今日決策主要參考個股技術指標而非整體市場情緒。這種低波動、數據稀缺的交易日相當常見,不一定代表後市有風險。",
+    "summary_en": "Today's market data feed was unavailable, so NASDAQ and S&P 500 movement could not be confirmed. In the absence of a clear macro signal, we relied on individual stock-level technical confirmation (RSI, MACD, moving averages) to guide new positions rather than broad index momentum. No news headlines were available to cite for today.",
+    "summary_zh": "今日大盤數據無法取得，納斯達克及標普500的漲跌未能確認。在缺乏明確宏觀訊號的情況下，我們改以個股層面的技術指標（RSI、MACD、均線）作為建倉依據，而非依賴大盤動能。今日並無可引用的新聞標題。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "HUBS",
+      "ticker": "WOR",
       "conviction": "medium",
-      "reasoning": "Score 95 with confirmed multi-signal setup (MACD bullish crossover, RSI 63.3 in healthy bullish zone, price 5.7% above SMA-20) and an open slot to fill with idle cash."
+      "reasoning": "Score 95 with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, while diversifying away from the tech-heavy portfolio into industrials."
+    },
+    {
+      "action": "BUY",
+      "ticker": "EFXT",
+      "conviction": "medium",
+      "reasoning": "Score 95 with confirmed RSI, MACD crossover, rising histogram, and price above SMA-20 signals, adding staffing-sector diversification at a low share price."
+    },
+    {
+      "action": "BUY",
+      "ticker": "LOPE",
+      "conviction": "medium",
+      "reasoning": "Score 95 with the same four-signal bullish confirmation (RSI, MACD crossover, rising histogram, price above SMA-20), diversifying into education services."
     }
   ],
   "outcomes": {
