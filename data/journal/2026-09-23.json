@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-23",
+  "briefing": "Market data feed was unavailable today (NASDAQ/S&P flat, direction neutral), so no macro catalyst to react to. With cash above the $500 threshold and 3 open slots, we deployed into two fully-confirmed momentum names (ARQT, SRAD) rather than sit idle, while leaving existing winners untouched per stop-loss/profit-target rules.",
+  "daily_lesson": {
+    "term": "Opportunity Cost of Cash",
+    "explanation_en": "Holding cash instead of investing it isn't free — if strong candidates are available and sit unused, you miss out on potential gains they could have earned. That's why with cash above the deployment threshold and confirmed momentum signals present, putting idle cash to work is often better than waiting for a 'perfect' market signal.",
+    "explanation_zh": "持有現金並非沒有成本——如果市場上有優質選股機會而你選擇不動用資金，就等於錯失了潛在回報。因此當現金超過部署門檻，且個股出現確認的動能訊號時，與其等待「完美」的大盤訊號，不如善用資金作投資部署。"
+  },
+  "market_education": {
+    "summary_en": "No reliable market-moving headlines were available today, and index data showed no change, suggesting a quiet or data-outage session rather than a genuine directional move. In the absence of a clear catalyst, we relied on individual stock technicals rather than broad market sentiment. Both new buys were chosen because they showed all four bullish confirmation signals (RSI, MACD, price vs SMA-20, and volume) independent of the macro picture.",
+    "summary_zh": "今日未能取得可靠的市場消息來源，大盤數據亦顯示零變動，較似是數據暫時中斷而非真正的橫盤。在缺乏明確催化劑的情況下，我們改為依賴個股技術面而非大盤情緒作決策，兩隻新買入的股份都具備全部四項牛市確認訊號（RSI、MACD、股價高於20日均線、成交量突破），故予以買入。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "ARQT",
+      "conviction": "high",
+      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) and adds biotech diversification away from the tech-heavy book."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SRAD",
+      "conviction": "high",
+      "reasoning": "Top-scored candidate with all four confirming signals including a volume surge, deploying idle cash above the $500 threshold into a fresh sector."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14355.735246181488,
+    "cash": 789.2850012779236,
+    "pnl_dollar": 4355.735246181488,
+    "pnl_pct": 43.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
