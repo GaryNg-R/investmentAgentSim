@@ -1,22 +1,22 @@
 {
   "date": "2026-09-23",
-  "briefing": "Market direction data was unavailable today (NASDAQ/S&P flat), so we held back from aggressively deploying all open slots. We added one high-conviction position, IRTC, which showed complete technical confirmation across RSI, MACD, price trend, and volume, while leaving cash and slots in reserve until a clearer market signal emerges.",
+  "briefing": "Market data was unavailable today and NASDAQ/S&P were flat, so there's no clear directional signal. We held all 7 existing positions and added one modest medium-conviction position (HUBS) to use an open slot, picking the candidate with the safest RSI margin rather than chasing the most overbought names.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent indicators — like RSI, MACD, price trend, and volume — all point the same direction at once. This reduces the chance of being fooled by a single false signal, especially useful when broader market direction is unclear.",
-    "explanation_zh": "多重訊號確認是指只有在多個獨立指標——例如RSI、MACD、價格趨勢及成交量——同時指向同一方向時才進行交易。這樣可以降低被單一錯誤訊號誤導的風險，在大盤方向不明朗時尤其有用。"
+    "term": "Momentum Indicators (RSI & MACD)",
+    "explanation_en": "RSI (Relative Strength Index) and MACD (Moving Average Convergence Divergence) are tools traders use to spot stocks with building upward momentum. A stock with RSI in the 50-70 range plus a bullish MACD crossover suggests buyers are in control without the stock being dangerously overbought yet.",
+    "explanation_zh": "RSI（相對強弱指數）同MACD（指數平滑異同移動平均線）係交易者用嚟捕捉股票上升動力嘅工具。當RSI處於50至70之間，加上MACD出現黃金交叉，代表買方力量主導，而股票尚未進入超買嘅危險區域。"
   },
   "market_education": {
-    "summary_en": "Broad market data feeds were unavailable today, so NASDAQ and S&P 500 moves could not be confirmed, leaving overall direction uncertain. In the absence of a clear macro signal, individual stock-level technical setups become the primary basis for decisions. IRTC stood out with full confirmation across momentum, trend, and volume indicators, making it a reasonable selective buy despite the unclear broader tape.",
-    "summary_zh": "今日大盤數據來源暫時無法取得，納斯達克與標普500的實際走勢未能確認，整體市場方向並不明朗。在缺乏明確總體訊號的情況下，個股層面的技術面表現成為決策的主要依據。IRTC在動能、趨勢及成交量指標上均獲得完整確認，因此在大盤不明朗的背景下仍屬合理的精選買入標的。",
+    "summary_en": "No market data feed was available today, so index moves for NASDAQ and the S&P 500 could not be confirmed and are shown as flat by default. Without fresh headlines or price action to analyze, we avoided making broad directional bets. Instead we relied on the underlying stock screener's technical signals (RSI, MACD, moving averages) to size a single cautious new position.",
+    "summary_zh": "今日市場數據來源暫時無法取得，納指及標普500的實際升跌未能確認，系統預設顯示持平。由於缺乏最新新聞及價格走勢可供分析，我們避免作出大方向的押注，改為依賴選股工具的技術指標（RSI、MACD、移動平均線）審慎建立一個新持倉。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "IRTC",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (bullish RSI, MACD crossover with rising histogram, price above SMA-20, volume surge) meets the strict bar for a high-conviction entry even though broader market direction is unclear today."
+      "ticker": "HUBS",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 57.8 safely in bullish zone (most room before overbought), MACD bullish crossover, rising histogram, and price above SMA-20."
     }
   ],
   "outcomes": {
