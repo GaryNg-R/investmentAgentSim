@@ -1,17 +1,30 @@
 {
   "date": "2026-09-23",
-  "briefing": "Market data feed was unavailable today with NASDAQ and S&P 500 both showing 0.0% moves, so there's no reliable signal to act on. Per past lessons, we're holding cash and existing positions rather than forcing a buy without genuine confirmation.",
+  "briefing": "Broad market direction data was unavailable today (NASDAQ/S&P flat), but the screener still surfaced two stocks with full technical confirmation — MACD crossover, bullish RSI, price above SMA-20, and volume surge. With cash above the $500 threshold and 3 open slots, we deployed into FSLY and DOCU as genuine high-conviction setups rather than forcing trades for the sake of using cash.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "When you don't have reliable information about market conditions, the prudent move is to hold rather than trade blind. Sitting on cash and letting existing stop-losses and profit targets do their job is a valid strategy, not a failure to act.",
-    "explanation_zh": "當無法取得可靠的市場資訊時，謹慎的做法是持有觀望，而非盲目交易。持有現金並讓現有的停損和獲利目標自動執行，是一種有效的策略，並非未能採取行動。"
+    "term": "Momentum Trading",
+    "explanation_en": "Momentum trading means buying stocks that are already showing strong upward price and volume trends, on the theory that the trend will continue in the near term. Today's picks (FSLY, DOCU) were chosen because multiple technical indicators — RSI, MACD, moving averages, and volume — all lined up bullishly at once, which is a stronger signal than any single indicator alone.",
+    "explanation_zh": "動能交易是指買入已經展現強勁上升價格與成交量趨勢的股票，理論基礎是趨勢短期內會延續。今日選股（FSLY、DOCU）是因為RSI、MACD、均線與成交量等多項技術指標同時發出看漲訊號，比單一指標更具說服力。"
   },
   "market_education": {
-    "summary_en": "Market data was unavailable today, so no reliable read on index movement or the drivers behind it could be established. Without confirmed price action or news, it's safer to treat today as a data gap rather than a real neutral session. We avoided drawing conclusions from flat 0.0% readings that likely reflect missing data rather than actual market calm.",
-    "summary_zh": "今日市場數據未能取得，因此無法確認指數走勢或背後原因。由於缺乏可靠的價格數據或新聞消息，較穩健的做法是將今日視為數據缺失，而非真正的市場持平。我們避免從0.0%的數字中得出結論，因為這較可能反映數據缺失而非市場真正平靜。",
+    "summary_en": "No reliable market-wide news feed was available today, so index-level direction couldn't be confirmed. Individual stock screens still showed clear technical strength in a handful of names, which is why today's buys were driven by stock-specific signals rather than a market-wide catalyst. This distinction matters: technical confirmation on individual stocks can justify action even when the broader tape is quiet.",
+    "summary_zh": "今日大盤新聞數據暫時無法取得，因此無法確認大盤方向。不過個股篩選中仍有部分股票技術面走強，因此今日的買入決定是基於個股訊號而非大盤催化劑。這點值得留意：即使大盤平靜，個股技術面確認仍可作為進場依據。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "FSLY",
+      "conviction": "high",
+      "reasoning": "Highest score (100) with full signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge indicating institutional participation."
+    },
+    {
+      "action": "BUY",
+      "ticker": "DOCU",
+      "conviction": "high",
+      "reasoning": "Tied for highest score (100) with the same full multi-signal confirmation as FSLY, offering diversification away from ad-tech/CDN exposure."
+    }
+  ],
   "outcomes": {
     "total_value": 14355.735246181488,
     "cash": 789.2850012779236,
