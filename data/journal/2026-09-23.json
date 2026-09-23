@@ -1,34 +1,34 @@
 {
   "date": "2026-09-23",
-  "briefing": "Macro index data was unavailable today so the broad market direction is unconfirmed, but several screened stocks still show strong multi-signal technical confirmation. We used the 3 open slots to diversify into WOR, EFXT, and LOPE, moving away from an already tech-heavy portfolio, while holding all existing positions since none hit stop-loss or profit targets.",
+  "briefing": "Macro market data was unavailable today with NASDAQ and S&P 500 both flat, so there was no clear directional catalyst. With cash above the deployment threshold and three open slots, we leaned on the screener's strongest technical setups (MAAS, KMX, BFAM) at medium conviction rather than holding idle cash, while leaving all seven existing positions untouched.",
   "daily_lesson": {
-    "term": "Technical Confirmation",
-    "explanation_en": "When broad market data isn't available, investors can still make informed decisions by looking at individual stock signals like RSI, MACD crossovers, and moving averages. Requiring multiple signals to agree (not just one) reduces the chance of acting on false signals.",
-    "explanation_zh": "當大盤數據無法取得時，投資人仍可透過個股的技術指標（如RSI、MACD黃金交叉、均線）做出判斷。要求多項指標同時確認，而非僅憑單一訊號進場，能降低誤判的風險。"
+    "term": "Technical Analysis",
+    "explanation_en": "Technical analysis means using price-based indicators — like RSI for momentum, MACD for trend crossovers, and moving averages for trend direction — to make trading decisions, especially when broader market news or data isn't available. These tools don't explain why a stock might move, but they can flag patterns worth watching.",
+    "explanation_zh": "技術分析是指利用價格相關指標（例如反映動能的RSI、顯示趨勢轉折的MACD，以及顯示趨勢方向的移動平均線）來做出交易決策，尤其是在缺乏大盤新聞或數據時特別有用。這些工具雖然無法解釋股價變動的原因，但能提示值得留意的價格型態。"
   },
   "market_education": {
-    "summary_en": "Today's market data feed was unavailable, so NASDAQ and S&P 500 movement could not be confirmed. In the absence of a clear macro signal, we relied on individual stock-level technical confirmation (RSI, MACD, moving averages) to guide new positions rather than broad index momentum. No news headlines were available to cite for today.",
-    "summary_zh": "今日大盤數據無法取得，納斯達克及標普500的漲跌未能確認。在缺乏明確宏觀訊號的情況下，我們改以個股層面的技術指標（RSI、MACD、均線）作為建倉依據，而非依賴大盤動能。今日並無可引用的新聞標題。",
+    "summary_en": "No macro news or index-level data was available today, and both NASDAQ and S&P 500 showed flat 0.0% moves, leaving no specific catalyst to point to. Without broad market signals, today's trade decisions relied entirely on stock-level technical indicators from the screener rather than sentiment or headlines. This illustrates how disciplined technical analysis can still guide entries on data-quiet days, even when the broader market narrative is unclear.",
+    "summary_zh": "今日缺乏總體市場數據，納斯達克與標普500指數均顯示持平0.0%，沒有明確的推動因素可循。在缺乏大盤訊號的情況下，今天的交易決策完全依賴個股層面的技術指標，而非市場情緒或新聞頭條。這說明即使在數據稀缺、大盤方向不明的日子，嚴謹的技術分析仍能為進場決策提供依據。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "WOR",
+      "ticker": "MAAS",
       "conviction": "medium",
-      "reasoning": "Score 95 with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, while diversifying away from the tech-heavy portfolio into industrials."
+      "reasoning": "Top-scored candidate (95) with RSI in bullish zone, MACD bullish crossover, and price above SMA-20, filling an open portfolio slot."
     },
     {
       "action": "BUY",
-      "ticker": "EFXT",
+      "ticker": "KMX",
       "conviction": "medium",
-      "reasoning": "Score 95 with confirmed RSI, MACD crossover, rising histogram, and price above SMA-20 signals, adding staffing-sector diversification at a low share price."
+      "reasoning": "Tied top score (95) with same bullish RSI/MACD/SMA confirmation, diversifying into a second open slot."
     },
     {
       "action": "BUY",
-      "ticker": "LOPE",
+      "ticker": "BFAM",
       "conviction": "medium",
-      "reasoning": "Score 95 with the same four-signal bullish confirmation (RSI, MACD crossover, rising histogram, price above SMA-20), diversifying into education services."
+      "reasoning": "Third top-scored (95) name with consistent bullish RSI/MACD/SMA setup, deploying remaining cash into the last open slot."
     }
   ],
   "outcomes": {
