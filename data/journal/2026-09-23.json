@@ -1,14 +1,14 @@
 {
   "date": "2026-09-23",
-  "briefing": "Market data feed was unavailable today (NASDAQ and S&P 500 both showing 0.0% with no summary), so there's no reliable read on market direction. Held all existing positions and skipped new buys since none of the screened candidates show full multi-signal confirmation (including volume surge) needed for a high-conviction entry on an uncertain data day.",
+  "briefing": "Market data feed was unavailable today with NASDAQ and S&P 500 both showing 0.0% moves, so there's no reliable signal to act on. Per past lessons, we're holding cash and existing positions rather than forcing a buy without genuine confirmation.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "When market data is unreliable or unavailable, the safest move is to stay in a 'risk-off' posture — holding existing positions and avoiding new buys — rather than guessing at conditions you can't verify. Acting on incomplete information can lead to poorly timed entries that look fine on paper but ignore real underlying risk.",
-    "explanation_zh": "當市場數據不可靠或無法取得時，最安全的做法是採取「風險規避」（Risk-Off）姿態——持有現有部位，避免新增買入，而非憑空猜測無法驗證的市況。根據不完整的資訊行動，可能導致入市時機不當，即使帳面上看似合理，實際上卻忽略了真正的潛在風險。"
+    "explanation_en": "When you don't have reliable information about market conditions, the prudent move is to hold rather than trade blind. Sitting on cash and letting existing stop-losses and profit targets do their job is a valid strategy, not a failure to act.",
+    "explanation_zh": "當無法取得可靠的市場資訊時，謹慎的做法是持有觀望，而非盲目交易。持有現金並讓現有的停損和獲利目標自動執行，是一種有效的策略，並非未能採取行動。"
   },
   "market_education": {
-    "summary_en": "No reliable market data or news was available today, with both the NASDAQ and S&P 500 reporting flat 0.0% moves and an empty summary, which typically signals a data feed issue rather than an actual quiet trading session. Without confirmed price action or headlines, it's not possible to attribute today's activity to any specific catalyst. The prudent approach is to wait for the next reliable data update before drawing conclusions about market direction.",
-    "summary_zh": "今日市場數據及新聞來源均無法取得，納斯達克指數及標普500指數均顯示0.0%的持平變動，且摘要欄位空白，這通常反映數據來源出現問題，而非市場真的毫無波動。由於缺乏確實的價格走勢或新聞依據，暫時無法判斷今日市場變化的具體成因。較穩健的做法是等待下一次可靠的數據更新後，再對市場方向作出判斷。",
+    "summary_en": "Market data was unavailable today, so no reliable read on index movement or the drivers behind it could be established. Without confirmed price action or news, it's safer to treat today as a data gap rather than a real neutral session. We avoided drawing conclusions from flat 0.0% readings that likely reflect missing data rather than actual market calm.",
+    "summary_zh": "今日市場數據未能取得，因此無法確認指數走勢或背後原因。由於缺乏可靠的價格數據或新聞消息，較穩健的做法是將今日視為數據缺失，而非真正的市場持平。我們避免從0.0%的數字中得出結論，因為這較可能反映數據缺失而非市場真正平靜。",
     "sources": []
   },
   "trades": [],
