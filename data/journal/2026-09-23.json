@@ -1,14 +1,14 @@
 {
   "date": "2026-09-23",
-  "briefing": "Market data was unavailable today and NASDAQ/S&P were flat, so there's no clear directional signal. We held all 7 existing positions and added one modest medium-conviction position (HUBS) to use an open slot, picking the candidate with the safest RSI margin rather than chasing the most overbought names.",
+  "briefing": "Markets were flat today (NASDAQ and S&P 500 unchanged) with no fresh news data available, so this wasn't a strong risk-on signal. With 3 open slots and cash above the $500 threshold, deployed a modest position into HubSpot (HUBS) on solid technical confirmation rather than sitting idle, while holding all 7 existing positions unchanged.",
   "daily_lesson": {
-    "term": "Momentum Indicators (RSI & MACD)",
-    "explanation_en": "RSI (Relative Strength Index) and MACD (Moving Average Convergence Divergence) are tools traders use to spot stocks with building upward momentum. A stock with RSI in the 50-70 range plus a bullish MACD crossover suggests buyers are in control without the stock being dangerously overbought yet.",
-    "explanation_zh": "RSI（相對強弱指數）同MACD（指數平滑異同移動平均線）係交易者用嚟捕捉股票上升動力嘅工具。當RSI處於50至70之間，加上MACD出現黃金交叉，代表買方力量主導，而股票尚未進入超買嘅危險區域。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, using signals like RSI, MACD, and moving averages to confirm the trend is real and not a fluke. Today's HUBS pick relied on three confirming signals (MACD crossover, healthy RSI, price above its 20-day average) even though the broader market gave no clear directional cue.",
+    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票,並利用RSI、MACD及移動平均線等指標來確認趨勢屬實,而非偶然波動。今日選中HUBS正是基於三個確認訊號(MACD黃金交叉、RSI處於健康區間、股價高於20日均線),即使大市本身並未給出明確方向。"
   },
   "market_education": {
-    "summary_en": "No market data feed was available today, so index moves for NASDAQ and the S&P 500 could not be confirmed and are shown as flat by default. Without fresh headlines or price action to analyze, we avoided making broad directional bets. Instead we relied on the underlying stock screener's technical signals (RSI, MACD, moving averages) to size a single cautious new position.",
-    "summary_zh": "今日市場數據來源暫時無法取得，納指及標普500的實際升跌未能確認，系統預設顯示持平。由於缺乏最新新聞及價格走勢可供分析，我們避免作出大方向的押注，改為依賴選股工具的技術指標（RSI、MACD、移動平均線）審慎建立一個新持倉。",
+    "summary_en": "No news data was available today, and both the NASDAQ and S&P 500 were flat, suggesting a quiet, directionless session rather than any major catalyst-driven move. In the absence of macro headlines, today's decision leaned on individual stock technicals rather than broad market sentiment. This kind of low-volatility, data-scarce session is common and doesn't necessarily signal risk ahead.",
+    "summary_zh": "今日未有可用的新聞數據,納指與標普500均持平,顯示市場處於淡靜、缺乏方向的狀態,並非由重大事件驅動。在缺乏宏觀消息的情況下,今日決策主要參考個股技術指標而非整體市場情緒。這種低波動、數據稀缺的交易日相當常見,不一定代表後市有風險。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "HUBS",
       "conviction": "medium",
-      "reasoning": "Score 95 with RSI 57.8 safely in bullish zone (most room before overbought), MACD bullish crossover, rising histogram, and price above SMA-20."
+      "reasoning": "Score 95 with confirmed multi-signal setup (MACD bullish crossover, RSI 63.3 in healthy bullish zone, price 5.7% above SMA-20) and an open slot to fill with idle cash."
     }
   ],
   "outcomes": {
