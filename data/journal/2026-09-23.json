@@ -1,36 +1,17 @@
 {
   "date": "2026-09-23",
-  "briefing": "Macro market data was unavailable today with NASDAQ and S&P 500 both flat, so there was no clear directional catalyst. With cash above the deployment threshold and three open slots, we leaned on the screener's strongest technical setups (MAAS, KMX, BFAM) at medium conviction rather than holding idle cash, while leaving all seven existing positions untouched.",
+  "briefing": "Market data feed was unavailable today (NASDAQ and S&P 500 both showing 0.0% with no summary), so there's no reliable read on market direction. Held all existing positions and skipped new buys since none of the screened candidates show full multi-signal confirmation (including volume surge) needed for a high-conviction entry on an uncertain data day.",
   "daily_lesson": {
-    "term": "Technical Analysis",
-    "explanation_en": "Technical analysis means using price-based indicators — like RSI for momentum, MACD for trend crossovers, and moving averages for trend direction — to make trading decisions, especially when broader market news or data isn't available. These tools don't explain why a stock might move, but they can flag patterns worth watching.",
-    "explanation_zh": "技術分析是指利用價格相關指標（例如反映動能的RSI、顯示趨勢轉折的MACD，以及顯示趨勢方向的移動平均線）來做出交易決策，尤其是在缺乏大盤新聞或數據時特別有用。這些工具雖然無法解釋股價變動的原因，但能提示值得留意的價格型態。"
+    "term": "Risk-Off",
+    "explanation_en": "When market data is unreliable or unavailable, the safest move is to stay in a 'risk-off' posture — holding existing positions and avoiding new buys — rather than guessing at conditions you can't verify. Acting on incomplete information can lead to poorly timed entries that look fine on paper but ignore real underlying risk.",
+    "explanation_zh": "當市場數據不可靠或無法取得時，最安全的做法是採取「風險規避」（Risk-Off）姿態——持有現有部位，避免新增買入，而非憑空猜測無法驗證的市況。根據不完整的資訊行動，可能導致入市時機不當，即使帳面上看似合理，實際上卻忽略了真正的潛在風險。"
   },
   "market_education": {
-    "summary_en": "No macro news or index-level data was available today, and both NASDAQ and S&P 500 showed flat 0.0% moves, leaving no specific catalyst to point to. Without broad market signals, today's trade decisions relied entirely on stock-level technical indicators from the screener rather than sentiment or headlines. This illustrates how disciplined technical analysis can still guide entries on data-quiet days, even when the broader market narrative is unclear.",
-    "summary_zh": "今日缺乏總體市場數據，納斯達克與標普500指數均顯示持平0.0%，沒有明確的推動因素可循。在缺乏大盤訊號的情況下，今天的交易決策完全依賴個股層面的技術指標，而非市場情緒或新聞頭條。這說明即使在數據稀缺、大盤方向不明的日子，嚴謹的技術分析仍能為進場決策提供依據。",
+    "summary_en": "No reliable market data or news was available today, with both the NASDAQ and S&P 500 reporting flat 0.0% moves and an empty summary, which typically signals a data feed issue rather than an actual quiet trading session. Without confirmed price action or headlines, it's not possible to attribute today's activity to any specific catalyst. The prudent approach is to wait for the next reliable data update before drawing conclusions about market direction.",
+    "summary_zh": "今日市場數據及新聞來源均無法取得，納斯達克指數及標普500指數均顯示0.0%的持平變動，且摘要欄位空白，這通常反映數據來源出現問題，而非市場真的毫無波動。由於缺乏確實的價格走勢或新聞依據，暫時無法判斷今日市場變化的具體成因。較穩健的做法是等待下一次可靠的數據更新後，再對市場方向作出判斷。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "MAAS",
-      "conviction": "medium",
-      "reasoning": "Top-scored candidate (95) with RSI in bullish zone, MACD bullish crossover, and price above SMA-20, filling an open portfolio slot."
-    },
-    {
-      "action": "BUY",
-      "ticker": "KMX",
-      "conviction": "medium",
-      "reasoning": "Tied top score (95) with same bullish RSI/MACD/SMA confirmation, diversifying into a second open slot."
-    },
-    {
-      "action": "BUY",
-      "ticker": "BFAM",
-      "conviction": "medium",
-      "reasoning": "Third top-scored (95) name with consistent bullish RSI/MACD/SMA setup, deploying remaining cash into the last open slot."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14355.735246181488,
     "cash": 789.2850012779236,
