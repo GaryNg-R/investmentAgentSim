@@ -1,28 +1,22 @@
 {
   "date": "2026-09-24",
-  "briefing": "Broad market data was unavailable today with NASDAQ/S&P flagged flat, so there's no clear market-wide risk-on or risk-off signal. However, FSLY and DOCU both show complete technical confirmation (momentum, trend, and volume all aligned), so we deployed a portion of idle cash into these two high-conviction names while leaving room in case a clearer market trend emerges.",
+  "briefing": "Markets were mildly negative today (NASDAQ -0.6%, S&P 500 -0.3%), a neutral-to-soft session rather than a risk-off one. Rather than force capital into weaker names, we made one high-conviction buy in FRVO, the only candidate showing all four confirming signals (RSI, MACD crossover, price vs SMA-20, and volume surge), and held the rest of the portfolio and remaining cash for a clearer risk-on signal.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks moving up tend to keep moving up in the near term. Today's buys were based purely on strong individual stock signals (RSI, MACD, volume) since broad market direction data wasn't available.",
-    "explanation_zh": "動能投資是指買入已經展現強勁上漲價格與成交量趨勢的股票，其理論基礎是：正在上漲的股票短期內往往會延續漲勢。由於今日缺乏大盤方向的數據，今天的買入決策完全依據個股本身強勁的技術訊號（RSI、MACD、成交量）。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a buy when several independent technical indicators agree at once — for example RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a volume surge together. Relying on just one signal can be misleading, but when four line up together it suggests real buying interest rather than random noise.",
+    "explanation_zh": "多重信號確認是指只有在多個獨立技術指標同時發出一致訊號時才進行買入,例如RSI處於健康區間、MACD出現黃金交叉、股價站上均線,以及成交量放大。單一信號容易造成誤判,但當四項指標同時吻合時,通常代表真實的買盤力道,而非隨機波動。"
   },
   "market_education": {
-    "summary_en": "No reliable market-wide news or index-move data was available today, so today's activity was driven by stock-specific technical signals rather than a macro catalyst. FSLY and DOCU both showed full bullish confirmation across RSI, MACD, price trend, and volume, suggesting genuine buying interest in those names independent of the broader tape. Without corroborating headlines, we treated the broader market as neutral and sized positions conservatively.",
-    "summary_zh": "今日缺乏可靠的大盤消息或指數變動數據，因此今天的操作主要依據個股的技術訊號，而非總體市場催化劑。FSLY 和 DOCU 在 RSI、MACD、價格趨勢與成交量上均出現完整的多頭確認訊號，顯示這兩檔個股有真實的買盤興趣，與大盤走勢無關。由於缺乏新聞佐證，我們將大盤視為中性，並謹慎控制倉位規模。",
+    "summary_en": "Major indices drifted slightly lower today, with the S&P 500 down 0.3% and the NASDAQ down 0.6%, a mild pullback rather than a sharp reversal. Without a specific catalyst reported, this looks like routine consolidation after recent gains rather than a change in trend. Broad market breadth stayed roughly neutral, which is why individual stock-level setups mattered more than the index-level move today.",
+    "summary_zh": "今日大盤小幅走弱,標普500指數下跌0.3%,納指下跌0.6%,屬溫和回調而非急轉直下。目前未見明確的利空消息,較像是近期漲勢後的正常整固,而非趨勢逆轉。大盤氣氛維持中性,因此今日個股層面的技術信號比大盤走勢更具參考價值。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FSLY",
+      "ticker": "FRVO",
       "conviction": "high",
-      "reasoning": "Full 5-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) matches the strategy's high-conviction criteria."
-    },
-    {
-      "action": "BUY",
-      "ticker": "DOCU",
-      "conviction": "high",
-      "reasoning": "Same full multi-signal confirmation as FSLY with strong institutional-participation indicators (volume surge plus MACD/RSI/SMA alignment)."
+      "reasoning": "Full multi-signal confirmation (RSI 66.3 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge) marks a genuine institutional-grade setup worth deploying into despite the neutral broader market."
     }
   ],
   "outcomes": {
