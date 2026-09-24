@@ -1,22 +1,22 @@
 {
   "date": "2026-09-24",
-  "briefing": "Markets were mildly negative today (NASDAQ -0.6%, S&P 500 -0.3%), a neutral-to-soft session rather than a risk-off one. Rather than force capital into weaker names, we made one high-conviction buy in FRVO, the only candidate showing all four confirming signals (RSI, MACD crossover, price vs SMA-20, and volume surge), and held the rest of the portfolio and remaining cash for a clearer risk-on signal.",
+  "briefing": "Markets were flat-to-slightly-down today with NASDAQ -0.7% and S&P 500 -0.4%, a neutral session overall. Rather than forcing capital into weaker setups, we added GDDY, the one name on the screener with full multi-signal confirmation, and left remaining cash in reserve for a clearer risk-on day.",
   "daily_lesson": {
     "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a buy when several independent technical indicators agree at once — for example RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a volume surge together. Relying on just one signal can be misleading, but when four line up together it suggests real buying interest rather than random noise.",
-    "explanation_zh": "多重信號確認是指只有在多個獨立技術指標同時發出一致訊號時才進行買入,例如RSI處於健康區間、MACD出現黃金交叉、股價站上均線,以及成交量放大。單一信號容易造成誤判,但當四項指標同時吻合時,通常代表真實的買盤力道,而非隨機波動。"
+    "explanation_en": "Instead of buying on a single bullish indicator, it's safer to wait for several signals — like RSI, MACD crossover, price above moving average, and a volume surge — to align at once. When multiple independent signals agree, it's more likely that real institutional buying is behind the move rather than random noise.",
+    "explanation_zh": "與其只依賴單一利好指標進場，更穩健的做法是等待多項訊號同時出現——例如RSI、MACD黃金交叉、股價站上均線，以及成交量放大。當多個獨立訊號同時吻合時，代表背後很可能有真正的機構資金進場，而非單純的隨機波動。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the S&P 500 down 0.3% and the NASDAQ down 0.6%, a mild pullback rather than a sharp reversal. Without a specific catalyst reported, this looks like routine consolidation after recent gains rather than a change in trend. Broad market breadth stayed roughly neutral, which is why individual stock-level setups mattered more than the index-level move today.",
-    "summary_zh": "今日大盤小幅走弱,標普500指數下跌0.3%,納指下跌0.6%,屬溫和回調而非急轉直下。目前未見明確的利空消息,較像是近期漲勢後的正常整固,而非趨勢逆轉。大盤氣氛維持中性,因此今日個股層面的技術信號比大盤走勢更具參考價值。",
+    "summary_en": "Major indices drifted modestly lower today, with the NASDAQ underperforming the S&P 500, consistent with a broad risk-neutral tone rather than any single catalyst-driven selloff. Trading volume across most names was unremarkable except for a handful of momentum stocks like GDDY, which saw a volume surge alongside a bullish MACD crossover. Without a clear directional trigger, most stocks traded within recent ranges.",
+    "summary_zh": "今日大盤走勢平淡偏弱，納指跌幅略高於標普500指數，屬於較為中性、缺乏明確催化劑的交投格局。除少數如GDDY等具動能個股出現成交量放大並伴隨MACD黃金交叉外，大部分個股仍在近期區間內整理。市場缺乏明確方向性訊號，投資人普遍保持觀望。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FRVO",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (RSI 66.3 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge) marks a genuine institutional-grade setup worth deploying into despite the neutral broader market."
+      "ticker": "GDDY",
+      "conviction": "medium",
+      "reasoning": "GDDY is the only candidate showing all four confirmation signals (RSI bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and volume surge), indicating genuine institutional participation despite the neutral broader tape."
     }
   ],
   "outcomes": {
