@@ -1,24 +1,17 @@
 {
   "date": "2026-09-24",
-  "briefing": "Markets were flat-to-slightly-down today with NASDAQ -0.7% and S&P 500 -0.4%, a neutral session overall. Rather than forcing capital into weaker setups, we added GDDY, the one name on the screener with full multi-signal confirmation, and left remaining cash in reserve for a clearer risk-on day.",
+  "briefing": "Markets were neutral-to-slightly negative today (NASDAQ -0.7%, S&P 500 -0.4%) with no clear risk-on signal. Per prior lessons, we're holding our current 7 positions and keeping cash in reserve rather than forcing a buy into a flat market.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of buying on a single bullish indicator, it's safer to wait for several signals — like RSI, MACD crossover, price above moving average, and a volume surge — to align at once. When multiple independent signals agree, it's more likely that real institutional buying is behind the move rather than random noise.",
-    "explanation_zh": "與其只依賴單一利好指標進場，更穩健的做法是等待多項訊號同時出現——例如RSI、MACD黃金交叉、股價站上均線，以及成交量放大。當多個獨立訊號同時吻合時，代表背後很可能有真正的機構資金進場，而非單純的隨機波動。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors pull back from riskier assets and avoid new positions until conditions look more favorable, even if the market isn't crashing. Today's neutral, slightly negative tone doesn't offer the multi-signal confirmation (like a strong NASDAQ rally) needed to justify deploying new cash, so staying patient and holding cash is the disciplined move.",
+    "explanation_zh": "「Risk-Off」是指投資者在市況不明朗時減少承險，暫緩新增持倉，即使市場並非急跌。今日大市走勢中性偏弱，缺乏足夠的多重訊號確認（例如納指強勢反彈）去支持動用現金買入，因此保持耐性、持有現金是較穩健的做法。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly lower today, with the NASDAQ underperforming the S&P 500, consistent with a broad risk-neutral tone rather than any single catalyst-driven selloff. Trading volume across most names was unremarkable except for a handful of momentum stocks like GDDY, which saw a volume surge alongside a bullish MACD crossover. Without a clear directional trigger, most stocks traded within recent ranges.",
-    "summary_zh": "今日大盤走勢平淡偏弱，納指跌幅略高於標普500指數，屬於較為中性、缺乏明確催化劑的交投格局。除少數如GDDY等具動能個股出現成交量放大並伴隨MACD黃金交叉外，大部分個股仍在近期區間內整理。市場缺乏明確方向性訊號，投資人普遍保持觀望。",
+    "summary_en": "Broad indices drifted lower today with no single dominant catalyst, reflecting a pause after recent moves rather than a sharp risk-off event. Trading volume and sector breadth were mixed, suggesting investors are waiting for clearer signals before committing new capital. No specific news headlines were available in today's feed to pinpoint the exact driver.",
+    "summary_zh": "今日大市普遍走弱，未見單一主導因素，反映市場在近期波動後進入喘息階段，而非明顯的risk-off情況。成交量及板塊表現參差，顯示投資者在加碼前仍在等待更明確的訊號。今日資訊中未提供具體新聞標題以確定確切原因。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "GDDY",
-      "conviction": "medium",
-      "reasoning": "GDDY is the only candidate showing all four confirmation signals (RSI bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, and volume surge), indicating genuine institutional participation despite the neutral broader tape."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14355.735246181488,
     "cash": 789.2850012779236,
