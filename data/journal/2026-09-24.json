@@ -1,14 +1,14 @@
 {
   "date": "2026-09-24",
-  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.2%, S&P 500 -0.1%) with no clear risk-on catalyst like a strong volume surge or broad-based rally. Per past lessons, forcing new buys into open slots on a neutral day just to deploy the $789 cash balance isn't warranted — better to hold current positions and wait for a genuine multi-signal risk-on setup. All 7 existing positions are left untouched since the market gave no reason to exit strength.",
+  "briefing": "Markets were flat today with NASDAQ +0.1% and S&P 500 +0.0%, showing no clear directional conviction. None of the top-scoring candidates showed the volume-surge confirmation needed alongside RSI/MACD signals for a high-conviction buy, so we held our 3 open slots and $789.29 cash rather than forcing a trade on a neutral day.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off means investors are choosing caution over chasing new gains, often by holding cash instead of buying into a market that isn't showing strong upward momentum. It doesn't mean something bad is happening — it just means the signals aren't strong enough yet to justify new risk, so staying patient can protect capital for better opportunities.",
-    "explanation_zh": "「風險規避」（Risk-Off）是指投資人選擇保持謹慎而非追高，通常會持有現金而非在市場動能不強時買入。這並不代表發生了壞事，只是代表目前訊號尚不足以支持承擔新風險，保持耐心反而能為未來更好的機會保留資金。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Strong technical signals like RSI and MACD crossovers are more reliable when confirmed by a volume surge, which shows real institutional buying rather than a random price blip. Without that extra confirmation, it's often safer to wait than to chase a signal.",
+    "explanation_zh": "像RSI和MACD黃金交叉這類技術訊號，若能配合成交量明顯放大作確認，可信度會更高，因為這代表有真實的機構買盤，而非隨機的價格波動。若缺乏這項確認，耐心等待通常比貿然追入更安全。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly lower today with no single dominant catalyst, consistent with a quiet, low-conviction trading session. Without a specific news-driven trigger, the move looks like routine consolidation after recent gains rather than a shift in market direction. No specific headlines were available in today's feed to cite.",
-    "summary_zh": "今日大盤走勢平淡偏弱，並無明顯單一觸發因素，屬於一個成交清淡、方向不明的交易日。在缺乏具體新聞催化劑的情況下，這波小幅回落較像是近期漲勢後的正常整理，而非市場方向的轉變。今日新聞來源中並無可引用的具體標題。",
+    "summary_en": "Major indices traded essentially sideways today, with NASDAQ up just 0.1% and the S&P 500 flat, reflecting a lack of fresh catalysts to push markets in either direction. Investors appear to be in a wait-and-see mode rather than reacting to any major news. Momentum names on our screener remain technically bullish but lack the volume confirmation that typically precedes larger moves.",
+    "summary_zh": "今日大市窄幅震盪，納斯達克僅升0.1%，標普500指數則報平盤，反映市場缺乏明確方向的催化劑。投資者普遍採取觀望態度，未見大幅加碼或減碼行動。雖然篩選名單中的動能股技術面仍偏多，但普遍缺乏成交量放大的確認訊號，難以構成高信心買入的理據。",
     "sources": []
   },
   "trades": [],
