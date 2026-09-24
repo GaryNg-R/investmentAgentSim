@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-24",
+  "briefing": "Broad market data was unavailable today with NASDAQ/S&P flagged flat, so there's no clear market-wide risk-on or risk-off signal. However, FSLY and DOCU both show complete technical confirmation (momentum, trend, and volume all aligned), so we deployed a portion of idle cash into these two high-conviction names while leaving room in case a clearer market trend emerges.",
+  "daily_lesson": {
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks moving up tend to keep moving up in the near term. Today's buys were based purely on strong individual stock signals (RSI, MACD, volume) since broad market direction data wasn't available.",
+    "explanation_zh": "動能投資是指買入已經展現強勁上漲價格與成交量趨勢的股票，其理論基礎是：正在上漲的股票短期內往往會延續漲勢。由於今日缺乏大盤方向的數據，今天的買入決策完全依據個股本身強勁的技術訊號（RSI、MACD、成交量）。"
+  },
+  "market_education": {
+    "summary_en": "No reliable market-wide news or index-move data was available today, so today's activity was driven by stock-specific technical signals rather than a macro catalyst. FSLY and DOCU both showed full bullish confirmation across RSI, MACD, price trend, and volume, suggesting genuine buying interest in those names independent of the broader tape. Without corroborating headlines, we treated the broader market as neutral and sized positions conservatively.",
+    "summary_zh": "今日缺乏可靠的大盤消息或指數變動數據，因此今天的操作主要依據個股的技術訊號，而非總體市場催化劑。FSLY 和 DOCU 在 RSI、MACD、價格趨勢與成交量上均出現完整的多頭確認訊號，顯示這兩檔個股有真實的買盤興趣，與大盤走勢無關。由於缺乏新聞佐證，我們將大盤視為中性，並謹慎控制倉位規模。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "FSLY",
+      "conviction": "high",
+      "reasoning": "Full 5-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) matches the strategy's high-conviction criteria."
+    },
+    {
+      "action": "BUY",
+      "ticker": "DOCU",
+      "conviction": "high",
+      "reasoning": "Same full multi-signal confirmation as FSLY with strong institutional-participation indicators (volume surge plus MACD/RSI/SMA alignment)."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14355.735246181488,
+    "cash": 789.2850012779236,
+    "pnl_dollar": 4355.735246181488,
+    "pnl_pct": 43.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}

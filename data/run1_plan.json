@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-09-23T21:00:56.552596+00:00",
+  "saved_at": "2026-09-24T13:01:16.680942+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "FSLY",
         "conviction": "high",
-        "reasoning": "Highest score (100) with full signal confirmation \u2014 bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge indicating institutional participation."
+        "reasoning": "Full 5-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) matches the strategy's high-conviction criteria."
       },
       {
         "action": "BUY",
         "ticker": "DOCU",
         "conviction": "high",
-        "reasoning": "Tied for highest score (100) with the same full multi-signal confirmation as FSLY, offering diversification away from ad-tech/CDN exposure."
+        "reasoning": "Same full multi-signal confirmation as FSLY with strong institutional-participation indicators (volume surge plus MACD/RSI/SMA alignment)."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Broad market direction data was unavailable today (NASDAQ/S&P flat), but the screener still surfaced two stocks with full technical confirmation \u2014 MACD crossover, bullish RSI, price above SMA-20, and volume surge. With cash above the $500 threshold and 3 open slots, we deployed into FSLY and DOCU as genuine high-conviction setups rather than forcing trades for the sake of using cash.",
+    "briefing": "Broad market data was unavailable today with NASDAQ/S&P flagged flat, so there's no clear market-wide risk-on or risk-off signal. However, FSLY and DOCU both show complete technical confirmation (momentum, trend, and volume all aligned), so we deployed a portion of idle cash into these two high-conviction names while leaving room in case a clearer market trend emerges.",
     "market_education": {
-      "summary_en": "No reliable market-wide news feed was available today, so index-level direction couldn't be confirmed. Individual stock screens still showed clear technical strength in a handful of names, which is why today's buys were driven by stock-specific signals rather than a market-wide catalyst. This distinction matters: technical confirmation on individual stocks can justify action even when the broader tape is quiet.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u65b0\u805e\u6578\u64da\u66ab\u6642\u7121\u6cd5\u53d6\u5f97\uff0c\u56e0\u6b64\u7121\u6cd5\u78ba\u8a8d\u5927\u76e4\u65b9\u5411\u3002\u4e0d\u904e\u500b\u80a1\u7be9\u9078\u4e2d\u4ecd\u6709\u90e8\u5206\u80a1\u7968\u6280\u8853\u9762\u8d70\u5f37\uff0c\u56e0\u6b64\u4eca\u65e5\u7684\u8cb7\u5165\u6c7a\u5b9a\u662f\u57fa\u65bc\u500b\u80a1\u8a0a\u865f\u800c\u975e\u5927\u76e4\u50ac\u5316\u5291\u3002\u9019\u9ede\u503c\u5f97\u7559\u610f\uff1a\u5373\u4f7f\u5927\u76e4\u5e73\u975c\uff0c\u500b\u80a1\u6280\u8853\u9762\u78ba\u8a8d\u4ecd\u53ef\u4f5c\u70ba\u9032\u5834\u4f9d\u64da\u3002",
+      "summary_en": "No reliable market-wide news or index-move data was available today, so today's activity was driven by stock-specific technical signals rather than a macro catalyst. FSLY and DOCU both showed full bullish confirmation across RSI, MACD, price trend, and volume, suggesting genuine buying interest in those names independent of the broader tape. Without corroborating headlines, we treated the broader market as neutral and sized positions conservatively.",
+      "summary_zh": "\u4eca\u65e5\u7f3a\u4e4f\u53ef\u9760\u7684\u5927\u76e4\u6d88\u606f\u6216\u6307\u6578\u8b8a\u52d5\u6578\u64da\uff0c\u56e0\u6b64\u4eca\u5929\u7684\u64cd\u4f5c\u4e3b\u8981\u4f9d\u64da\u500b\u80a1\u7684\u6280\u8853\u8a0a\u865f\uff0c\u800c\u975e\u7e3d\u9ad4\u5e02\u5834\u50ac\u5316\u5291\u3002FSLY \u548c DOCU \u5728 RSI\u3001MACD\u3001\u50f9\u683c\u8da8\u52e2\u8207\u6210\u4ea4\u91cf\u4e0a\u5747\u51fa\u73fe\u5b8c\u6574\u7684\u591a\u982d\u78ba\u8a8d\u8a0a\u865f\uff0c\u986f\u793a\u9019\u5169\u6a94\u500b\u80a1\u6709\u771f\u5be6\u7684\u8cb7\u76e4\u8208\u8da3\uff0c\u8207\u5927\u76e4\u8d70\u52e2\u7121\u95dc\u3002\u7531\u65bc\u7f3a\u4e4f\u65b0\u805e\u4f50\u8b49\uff0c\u6211\u5011\u5c07\u5927\u76e4\u8996\u70ba\u4e2d\u6027\uff0c\u4e26\u8b39\u614e\u63a7\u5236\u5009\u4f4d\u898f\u6a21\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Trading",
-      "explanation_en": "Momentum trading means buying stocks that are already showing strong upward price and volume trends, on the theory that the trend will continue in the near term. Today's picks (FSLY, DOCU) were chosen because multiple technical indicators \u2014 RSI, MACD, moving averages, and volume \u2014 all lined up bullishly at once, which is a stronger signal than any single indicator alone.",
-      "explanation_zh": "\u52d5\u80fd\u4ea4\u6613\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5c55\u73fe\u5f37\u52c1\u4e0a\u5347\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u7406\u8ad6\u57fa\u790e\u662f\u8da8\u52e2\u77ed\u671f\u5167\u6703\u5ef6\u7e8c\u3002\u4eca\u65e5\u9078\u80a1\uff08FSLY\u3001DOCU\uff09\u662f\u56e0\u70baRSI\u3001MACD\u3001\u5747\u7dda\u8207\u6210\u4ea4\u91cf\u7b49\u591a\u9805\u6280\u8853\u6307\u6a19\u540c\u6642\u767c\u51fa\u770b\u6f32\u8a0a\u865f\uff0c\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u5177\u8aaa\u670d\u529b\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that stocks moving up tend to keep moving up in the near term. Today's buys were based purely on strong individual stock signals (RSI, MACD, volume) since broad market direction data wasn't available.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5c55\u73fe\u5f37\u52c1\u4e0a\u6f32\u50f9\u683c\u8207\u6210\u4ea4\u91cf\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5176\u7406\u8ad6\u57fa\u790e\u662f\uff1a\u6b63\u5728\u4e0a\u6f32\u7684\u80a1\u7968\u77ed\u671f\u5167\u5f80\u5f80\u6703\u5ef6\u7e8c\u6f32\u52e2\u3002\u7531\u65bc\u4eca\u65e5\u7f3a\u4e4f\u5927\u76e4\u65b9\u5411\u7684\u6578\u64da\uff0c\u4eca\u5929\u7684\u8cb7\u5165\u6c7a\u7b56\u5b8c\u5168\u4f9d\u64da\u500b\u80a1\u672c\u8eab\u5f37\u52c1\u7684\u6280\u8853\u8a0a\u865f\uff08RSI\u3001MACD\u3001\u6210\u4ea4\u91cf\uff09\u3002"
     }
   }
 }
