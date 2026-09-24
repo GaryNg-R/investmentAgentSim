@@ -1,34 +1,28 @@
 {
   "date": "2026-09-24",
-  "briefing": "Markets were flat today with NASDAQ and S&P500 both roughly unchanged. With cash above the $500 threshold and 3 open slots, we deployed into three fully-confirmed momentum setups (NEO, BRKR, ICLR) that show institutional volume support despite the neutral index backdrop.",
+  "briefing": "Broad market is flat today (NASDAQ and S&P500 both ~0.0%), so this isn't a risk-on day for aggressive deployment, but PL and BRKR show complete multi-signal technical confirmation independent of the index move, so we're filling two of the three open slots with medium conviction while keeping one slot and some cash in reserve.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like rising price, strong volume, and positive technical indicators. It works even when the broader market is flat, because individual stocks can move on their own company-specific strength.",
-    "explanation_zh": "動能投資是指買入已經呈現上升趨勢的股票,依據價格上漲、成交量放大及正向技術指標等訊號進行判斷。即使大盤走勢平淡,個股仍可能因自身表現強勢而獨立上漲,這正是動能投資策略的核心邏輯。"
+    "term": "Idiosyncratic (Stock-Specific) Momentum",
+    "explanation_en": "Idiosyncratic momentum is when an individual stock moves strongly based on its own fundamentals or technical setup, independent of what the broader market is doing. Today's flat index reading didn't stop certain stocks from showing textbook bullish signals (rising MACD, healthy RSI, volume surge), which is why a stock-picking strategy can still find opportunities on an otherwise quiet market day.",
+    "explanation_zh": "個股特有動能（Idiosyncratic Momentum）是指某支股票因自身基本面或技術面因素而出現強勁走勢，與大盤表現無關。儘管今日大盤指數持平，仍有個股展現教科書級的看漲訊號（MACD上升、RSI健康、成交量放大），這正是為何選股策略即使在平淡的市場中仍能發掘投資機會。"
   },
   "market_education": {
-    "summary_en": "Broad indices traded essentially flat today, with NASDAQ and S&P500 both near 0% on the session. In quiet, directionless tape like this, individual stocks can still show strong idiosyncratic momentum driven by company-specific catalysts rather than macro forces. That's why today's buys were chosen for their own confirmed technical signals rather than a broad market tailwind.",
-    "summary_zh": "今日大盤走勢平淡,納指與標普500指數皆持平於零附近。在這種缺乏方向性的市況下,個股仍可能因自身催化因素而出現明顯的動能表現,而非受宏觀因素驅動。因此今天的買入決策是基於個股本身已確認的技術訊號,而非整體市場的順風。",
+    "summary_en": "Major indices were essentially unchanged today, with the S&P 500 and NASDAQ both flat, suggesting investors are in a wait-and-see mode rather than reacting to a major catalyst. Individual stocks can still show strong momentum on a flat market day due to company-specific news or sector rotation rather than broad macro drivers. Today's screener showed several healthcare and data-services names with strong technical setups even as the overall market stayed range-bound.",
+    "summary_zh": "今日大盤走勢平淡，標普500指數與納斯達克指數均持平，顯示投資人普遍採取觀望態度，未見明顯催化因素。即使大盤持平，個股仍可能因公司特定消息或類股輪動而出現強勁動能，而非受總體經濟因素驅動。今日篩選結果顯示，部分醫療保健與數據服務類股即使在大盤盤整之際仍展現出色的技術面訊號。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NEO",
+      "ticker": "PL",
       "conviction": "medium",
-      "reasoning": "All four bullish signals confirmed with RSI at 58.7, leaving the most room before overbought among top candidates."
+      "reasoning": "Full signal confirmation (RSI 67 bullish zone, MACD crossover, histogram rising, price above SMA-20, volume surge) and adds sector diversification away from existing healthcare/tech-heavy screener leaders."
     },
     {
       "action": "BUY",
       "ticker": "BRKR",
       "conviction": "medium",
-      "reasoning": "Full multi-signal confirmation (MACD crossover, rising histogram, price above SMA-20, volume surge) with RSI at 63.2 still below overbought."
-    },
-    {
-      "action": "BUY",
-      "ticker": "ICLR",
-      "conviction": "medium",
-      "reasoning": "Full multi-signal confirmation with RSI 62.4 and volume surge indicating institutional participation despite a flat index day."
+      "reasoning": "Large-cap life-science instrument maker with all four confirmation signals present (MACD crossover, RSI 64 bullish zone, price above SMA-20, volume surge), offering a steadier profile than smaller biotech names on the list."
     }
   ],
   "outcomes": {
