@@ -1,24 +1,17 @@
 {
   "date": "2026-09-24",
-  "briefing": "Market was flat today (NASDAQ +0.0%, S&P 500 +0.1%) with no clear directional catalyst. We held existing positions and made one measured buy in LIFE, a top-scoring momentum candidate with room to run before overbought, while keeping most cash in reserve since no candidate showed full four-signal confirmation including volume surge.",
+  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.2%, S&P 500 -0.1%) with no clear risk-on catalyst like a strong volume surge or broad-based rally. Per past lessons, forcing new buys into open slots on a neutral day just to deploy the $789 cash balance isn't warranted — better to hold current positions and wait for a genuine multi-signal risk-on setup. All 7 existing positions are left untouched since the market gave no reason to exit strength.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals to align — like a bullish MACD crossover, healthy RSI, price above key moving averages, AND a volume surge — before committing heavily to a trade. Today's top candidates showed strong momentum but lacked volume confirmation, so a smaller, medium-conviction position is more appropriate than a full-size bet.",
-    "explanation_zh": "「動能確認」是指在大舉投入資金前，等待多項技術訊號同時出現，例如MACD黃金交叉、RSI處於健康區間、股價站上重要均線，以及成交量放大等。今日的熱門候選股雖然動能強勁，但缺乏成交量放大的確認，因此採取中等信心、較小規模的布局會比重倉押注更為穩妥。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off means investors are choosing caution over chasing new gains, often by holding cash instead of buying into a market that isn't showing strong upward momentum. It doesn't mean something bad is happening — it just means the signals aren't strong enough yet to justify new risk, so staying patient can protect capital for better opportunities.",
+    "explanation_zh": "「風險規避」（Risk-Off）是指投資人選擇保持謹慎而非追高，通常會持有現金而非在市場動能不強時買入。這並不代表發生了壞事，只是代表目前訊號尚不足以支持承擔新風險，保持耐心反而能為未來更好的機會保留資金。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially unchanged today, with NASDAQ flat and the S&P 500 up a marginal 0.1%, suggesting investors are in a wait-and-see mode rather than reacting to any single major catalyst. Trading activity appears muted, consistent with a lack of standout volume surges across the screened candidate list. Without a strong risk-on or risk-off signal, the prudent approach is selective, moderate-conviction positioning rather than broad deployment of capital.",
-    "summary_zh": "今日大盤走勢幾乎持平，納斯達克指數收平，標普500指數僅微升0.1%，反映投資人普遍採取觀望態度，未見明顯的市場催化因素。從篩選股票名單來看，成交量並未出現明顯放大訊號，顯示市場參與度偏低。在缺乏明確風險偏好或避險訊號的情況下，較為審慎、選擇性地小幅布局會是較穩健的做法，而非大舉動用現金。",
+    "summary_en": "Major indices drifted modestly lower today with no single dominant catalyst, consistent with a quiet, low-conviction trading session. Without a specific news-driven trigger, the move looks like routine consolidation after recent gains rather than a shift in market direction. No specific headlines were available in today's feed to cite.",
+    "summary_zh": "今日大盤走勢平淡偏弱，並無明顯單一觸發因素，屬於一個成交清淡、方向不明的交易日。在缺乏具體新聞催化劑的情況下，這波小幅回落較像是近期漲勢後的正常整理，而非市場方向的轉變。今日新聞來源中並無可引用的具體標題。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "LIFE",
-      "conviction": "medium",
-      "reasoning": "Strong momentum score of 95 with bullish RSI (59.2, room before overbought), MACD bullish crossover, rising histogram, and price above SMA-20 support a measured buy despite neutral broader market."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14355.735246181488,
     "cash": 789.2850012779236,
