@@ -1,19 +1,38 @@
 {
-  "saved_at": "2026-09-24T19:01:02.838807+00:00",
+  "saved_at": "2026-09-24T20:00:56.730166+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "NEO",
+        "conviction": "medium",
+        "reasoning": "All four bullish signals confirmed with RSI at 58.7, leaving the most room before overbought among top candidates."
+      },
+      {
+        "action": "BUY",
+        "ticker": "BRKR",
+        "conviction": "medium",
+        "reasoning": "Full multi-signal confirmation (MACD crossover, rising histogram, price above SMA-20, volume surge) with RSI at 63.2 still below overbought."
+      },
+      {
+        "action": "BUY",
+        "ticker": "ICLR",
+        "conviction": "medium",
+        "reasoning": "Full multi-signal confirmation with RSI 62.4 and volume surge indicating institutional participation despite a flat index day."
+      }
+    ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat today with NASDAQ +0.1% and S&P 500 +0.0%, showing no clear directional conviction. None of the top-scoring candidates showed the volume-surge confirmation needed alongside RSI/MACD signals for a high-conviction buy, so we held our 3 open slots and $789.29 cash rather than forcing a trade on a neutral day.",
+    "briefing": "Markets were flat today with NASDAQ and S&P500 both roughly unchanged. With cash above the $500 threshold and 3 open slots, we deployed into three fully-confirmed momentum setups (NEO, BRKR, ICLR) that show institutional volume support despite the neutral index backdrop.",
     "market_education": {
-      "summary_en": "Major indices traded essentially sideways today, with NASDAQ up just 0.1% and the S&P 500 flat, reflecting a lack of fresh catalysts to push markets in either direction. Investors appear to be in a wait-and-see mode rather than reacting to any major news. Momentum names on our screener remain technically bullish but lack the volume confirmation that typically precedes larger moves.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7a84\u5e45\u9707\u76ea\uff0c\u7d0d\u65af\u9054\u514b\u50c5\u53470.1%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u5831\u5e73\u76e4\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u7684\u50ac\u5316\u5291\u3002\u6295\u8cc7\u8005\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\uff0c\u672a\u898b\u5927\u5e45\u52a0\u78bc\u6216\u6e1b\u78bc\u884c\u52d5\u3002\u96d6\u7136\u7be9\u9078\u540d\u55ae\u4e2d\u7684\u52d5\u80fd\u80a1\u6280\u8853\u9762\u4ecd\u504f\u591a\uff0c\u4f46\u666e\u904d\u7f3a\u4e4f\u6210\u4ea4\u91cf\u653e\u5927\u7684\u78ba\u8a8d\u8a0a\u865f\uff0c\u96e3\u4ee5\u69cb\u6210\u9ad8\u4fe1\u5fc3\u8cb7\u5165\u7684\u7406\u64da\u3002",
+      "summary_en": "Broad indices traded essentially flat today, with NASDAQ and S&P500 both near 0% on the session. In quiet, directionless tape like this, individual stocks can still show strong idiosyncratic momentum driven by company-specific catalysts rather than macro forces. That's why today's buys were chosen for their own confirmed technical signals rather than a broad market tailwind.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1,\u7d0d\u6307\u8207\u6a19\u666e500\u6307\u6578\u7686\u6301\u5e73\u65bc\u96f6\u9644\u8fd1\u3002\u5728\u9019\u7a2e\u7f3a\u4e4f\u65b9\u5411\u6027\u7684\u5e02\u6cc1\u4e0b,\u500b\u80a1\u4ecd\u53ef\u80fd\u56e0\u81ea\u8eab\u50ac\u5316\u56e0\u7d20\u800c\u51fa\u73fe\u660e\u986f\u7684\u52d5\u80fd\u8868\u73fe,\u800c\u975e\u53d7\u5b8f\u89c0\u56e0\u7d20\u9a45\u52d5\u3002\u56e0\u6b64\u4eca\u5929\u7684\u8cb7\u5165\u6c7a\u7b56\u662f\u57fa\u65bc\u500b\u80a1\u672c\u8eab\u5df2\u78ba\u8a8d\u7684\u6280\u8853\u8a0a\u865f,\u800c\u975e\u6574\u9ad4\u5e02\u5834\u7684\u9806\u98a8\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Strong technical signals like RSI and MACD crossovers are more reliable when confirmed by a volume surge, which shows real institutional buying rather than a random price blip. Without that extra confirmation, it's often safer to wait than to chase a signal.",
-      "explanation_zh": "\u50cfRSI\u548cMACD\u9ec3\u91d1\u4ea4\u53c9\u9019\u985e\u6280\u8853\u8a0a\u865f\uff0c\u82e5\u80fd\u914d\u5408\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\u4f5c\u78ba\u8a8d\uff0c\u53ef\u4fe1\u5ea6\u6703\u66f4\u9ad8\uff0c\u56e0\u70ba\u9019\u4ee3\u8868\u6709\u771f\u5be6\u7684\u6a5f\u69cb\u8cb7\u76e4\uff0c\u800c\u975e\u96a8\u6a5f\u7684\u50f9\u683c\u6ce2\u52d5\u3002\u82e5\u7f3a\u4e4f\u9019\u9805\u78ba\u8a8d\uff0c\u8010\u5fc3\u7b49\u5f85\u901a\u5e38\u6bd4\u8cbf\u7136\u8ffd\u5165\u66f4\u5b89\u5168\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like rising price, strong volume, and positive technical indicators. It works even when the broader market is flat, because individual stocks can move on their own company-specific strength.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u5448\u73fe\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u4f9d\u64da\u50f9\u683c\u4e0a\u6f32\u3001\u6210\u4ea4\u91cf\u653e\u5927\u53ca\u6b63\u5411\u6280\u8853\u6307\u6a19\u7b49\u8a0a\u865f\u9032\u884c\u5224\u65b7\u3002\u5373\u4f7f\u5927\u76e4\u8d70\u52e2\u5e73\u6de1,\u500b\u80a1\u4ecd\u53ef\u80fd\u56e0\u81ea\u8eab\u8868\u73fe\u5f37\u52e2\u800c\u7368\u7acb\u4e0a\u6f32,\u9019\u6b63\u662f\u52d5\u80fd\u6295\u8cc7\u7b56\u7565\u7684\u6838\u5fc3\u908f\u8f2f\u3002"
     }
   }
 }

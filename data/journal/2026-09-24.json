@@ -1,17 +1,36 @@
 {
   "date": "2026-09-24",
-  "briefing": "Markets were flat today with NASDAQ +0.1% and S&P 500 +0.0%, showing no clear directional conviction. None of the top-scoring candidates showed the volume-surge confirmation needed alongside RSI/MACD signals for a high-conviction buy, so we held our 3 open slots and $789.29 cash rather than forcing a trade on a neutral day.",
+  "briefing": "Markets were flat today with NASDAQ and S&P500 both roughly unchanged. With cash above the $500 threshold and 3 open slots, we deployed into three fully-confirmed momentum setups (NEO, BRKR, ICLR) that show institutional volume support despite the neutral index backdrop.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Strong technical signals like RSI and MACD crossovers are more reliable when confirmed by a volume surge, which shows real institutional buying rather than a random price blip. Without that extra confirmation, it's often safer to wait than to chase a signal.",
-    "explanation_zh": "像RSI和MACD黃金交叉這類技術訊號，若能配合成交量明顯放大作確認，可信度會更高，因為這代表有真實的機構買盤，而非隨機的價格波動。若缺乏這項確認，耐心等待通常比貿然追入更安全。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like rising price, strong volume, and positive technical indicators. It works even when the broader market is flat, because individual stocks can move on their own company-specific strength.",
+    "explanation_zh": "動能投資是指買入已經呈現上升趨勢的股票,依據價格上漲、成交量放大及正向技術指標等訊號進行判斷。即使大盤走勢平淡,個股仍可能因自身表現強勢而獨立上漲,這正是動能投資策略的核心邏輯。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially sideways today, with NASDAQ up just 0.1% and the S&P 500 flat, reflecting a lack of fresh catalysts to push markets in either direction. Investors appear to be in a wait-and-see mode rather than reacting to any major news. Momentum names on our screener remain technically bullish but lack the volume confirmation that typically precedes larger moves.",
-    "summary_zh": "今日大市窄幅震盪，納斯達克僅升0.1%，標普500指數則報平盤，反映市場缺乏明確方向的催化劑。投資者普遍採取觀望態度，未見大幅加碼或減碼行動。雖然篩選名單中的動能股技術面仍偏多，但普遍缺乏成交量放大的確認訊號，難以構成高信心買入的理據。",
+    "summary_en": "Broad indices traded essentially flat today, with NASDAQ and S&P500 both near 0% on the session. In quiet, directionless tape like this, individual stocks can still show strong idiosyncratic momentum driven by company-specific catalysts rather than macro forces. That's why today's buys were chosen for their own confirmed technical signals rather than a broad market tailwind.",
+    "summary_zh": "今日大盤走勢平淡,納指與標普500指數皆持平於零附近。在這種缺乏方向性的市況下,個股仍可能因自身催化因素而出現明顯的動能表現,而非受宏觀因素驅動。因此今天的買入決策是基於個股本身已確認的技術訊號,而非整體市場的順風。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "NEO",
+      "conviction": "medium",
+      "reasoning": "All four bullish signals confirmed with RSI at 58.7, leaving the most room before overbought among top candidates."
+    },
+    {
+      "action": "BUY",
+      "ticker": "BRKR",
+      "conviction": "medium",
+      "reasoning": "Full multi-signal confirmation (MACD crossover, rising histogram, price above SMA-20, volume surge) with RSI at 63.2 still below overbought."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ICLR",
+      "conviction": "medium",
+      "reasoning": "Full multi-signal confirmation with RSI 62.4 and volume surge indicating institutional participation despite a flat index day."
+    }
+  ],
   "outcomes": {
     "total_value": 14355.735246181488,
     "cash": 789.2850012779236,
