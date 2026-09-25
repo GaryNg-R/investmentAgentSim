@@ -1,0 +1,65 @@
+{
+  "date": "2026-09-25",
+  "briefing": "NASDAQ and S&P 500 were essentially flat today, so we're not chasing a broad risk-on rally. However, NEO showed a full technical confluence (MACD crossover, bullish RSI, price above SMA-20, volume surge), which is the same institutional-participation signature that has worked well before, so we deployed a portion of idle cash into it while keeping the rest in reserve for a clearer risk-on day.",
+  "daily_lesson": {
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, healthy RSI, price above its moving average, and a volume surge — to line up together before buying, rather than acting on just one signal. This reduces the chance of chasing a false breakout and increases confidence that real buying interest (often institutional) is behind the move.",
+    "explanation_zh": "動能確認是指在買入前，等待多個技術指標（例如MACD黃金交叉、健康的RSI水平、股價站上均線，以及成交量放大）同時出現，而不是僅憑單一訊號行動。這樣可以降低追高假突破的風險，並提高信心，確認背後是真實（往往是機構）的買盤支撐。"
+  },
+  "market_education": {
+    "summary_en": "Markets traded essentially flat today with NASDAQ and the S&P 500 both roughly unchanged, reflecting a lack of major new catalysts to push sentiment strongly in either direction. In quiet sessions like this, individual stocks can still move sharply on company-specific news or technical breakouts even while the index-level averages stay near zero. That's what we saw in a handful of small and mid-cap names showing strong volume-backed breakouts despite the calm broader tape.",
+    "summary_zh": "今日大盤走勢平淡，納斯達克指數與標普500指數皆幾乎持平，顯示市場缺乏重大催化因素以推動明確方向。在這種淡靜的交易日中，個股仍可能因公司特定消息或技術面突破而出現顯著波動，即使大盤整體維持在接近平盤的水準。今天就有部分中小型股在成交量放大的帶動下出現強勁突破，與大盤的平靜形成對比。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "NEO",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (MACD bullish crossover, RSI 59.5 in the healthy bullish zone, price above SMA-20, volume surge) signals genuine institutional buying even though the broader market is flat today."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14355.735246181488,
+    "cash": 789.2850012779236,
+    "pnl_dollar": 4355.735246181488,
+    "pnl_pct": 43.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
