@@ -1,34 +1,34 @@
 {
   "date": "2026-09-25",
-  "briefing": "Markets were flat today (NASDAQ +0.4%, S&P 500 +0.4%), a neutral session overall. Rather than forcing trades on market direction alone, we filled our 3 open portfolio slots with the highest-scoring candidates (ALM, MAAS, TSEM) that each showed strong individual technical confirmation — bullish RSI, MACD crossover, rising momentum, and price above their 20-day average.",
+  "briefing": "Markets were flat today (NASDAQ +0.5%, S&P 500 +0.5%), a neutral session with no strong directional signal. With $789.29 in cash and 3 open slots, we deployed into three fully-confirmed momentum names (FIGS, PENG, ACLS) rather than holding idle cash, per the risk rules' preference for filling slots when cash exceeds $500.",
   "daily_lesson": {
-    "term": "Technical Confirmation",
-    "explanation_en": "Technical confirmation means using multiple indicators together — like RSI, MACD, and moving averages — to verify a stock's momentum before buying, rather than relying on just one signal. When several indicators agree, the setup is considered more reliable, even if the overall market is flat that day.",
-    "explanation_zh": "技術確認是指同時運用多項技術指標(例如相對強弱指數RSI、MACD及移動平均線)來驗證股票的升勢,而非單憑一項訊號就作出買入決定。當多項指標同時發出一致訊號時,該入市時機被視為較為可靠,即使當日大盤走勢平淡亦然。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means only acting on a stock signal when multiple independent indicators agree — for example, a bullish MACD crossover, RSI in a healthy (not overbought) range, price above its moving average, and a volume surge all at once. Relying on just one signal, like a price spike alone, is much more likely to be noise than a real trend.",
+    "explanation_zh": "動能確認是指只有在多個獨立技術指標同時出現一致訊號時才進行交易，例如MACD黃金交叉、RSI處於健康（非超買）區間、股價站上均線，以及成交量放大同時出現。若只依賴單一訊號（例如單純的價格急漲），很可能只是雜訊而非真正的趨勢。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 traded roughly flat today, up about 0.4% each, indicating a lack of strong directional conviction from investors. In the absence of major catalysts, the market often consolidates near prior levels while individual stocks can still show meaningful technical strength. Today's gains in select momentum names suggest sector- or stock-specific interest rather than a broad market move.",
-    "summary_zh": "今日納斯達克指數及標普500指數均只微升約0.4%,顯示大市方向不明確,投資者觀望氣氛濃厚。在缺乏重大消息刺激下,大盤傾向於在近期水平附近整固,但個別股份仍可能展現強勁技術走勢。今日部分動能股表現突出,反映资金流向個別板塊或股份,而非全面性的市場升勢。",
+    "summary_en": "Broad indices drifted modestly higher today with NASDAQ and S&P 500 both up about 0.5%, reflecting a lack of major catalysts rather than any strong bullish or bearish driver. Trading was largely rotational, with money flowing into a handful of stocks showing strong technical setups — bullish MACD crossovers, healthy RSI readings, and above-average volume. This kind of quiet, low-volatility session is typical between major economic data releases or earnings events.",
+    "summary_zh": "今日大盤走勢平淡，納斯達克指數及標普500指數均上漲約0.5%，反映市場缺乏明顯的利多或利空因素，屬於方向不明的觀望格局。資金主要流向技術面表現強勁的個股，包括出現MACD黃金交叉、RSI處於健康區間、以及成交量放大的股票。這類低波動的平靜交易日，通常出現在重大經濟數據公布或財報季之間的空檔期。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ALM",
-      "conviction": "medium",
-      "reasoning": "Top-scored candidate (95) with RSI in bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20 — strong multi-signal setup despite a neutral broader market."
+      "ticker": "FIGS",
+      "conviction": "high",
+      "reasoning": "Score 100 with full signal confirmation — MACD bullish crossover, RSI 66.9 in bullish zone, price above SMA-20, and a volume surge together indicate institutional buying."
     },
     {
       "action": "BUY",
-      "ticker": "MAAS",
-      "conviction": "medium",
-      "reasoning": "Same four-signal confirmation as ALM (bullish RSI, MACD crossover, rising histogram, price above SMA-20) with a score of 95, offering diversification at a low price point."
+      "ticker": "PENG",
+      "conviction": "high",
+      "reasoning": "Score 100 with the same four-signal confirmation (MACD crossover, RSI 65.2, price above SMA-20, volume surge), matching our highest-conviction setup criteria."
     },
     {
       "action": "BUY",
-      "ticker": "TSEM",
+      "ticker": "ACLS",
       "conviction": "medium",
-      "reasoning": "Score of 95 with bullish RSI, MACD crossover, rising histogram, and price above SMA-20 gives genuine technical confirmation to deploy idle cash into an open slot."
+      "reasoning": "Score 100 with MACD crossover, rising histogram, price above SMA-20 and volume surge, though RSI at 70.0 sits right at the overbought edge so sized as medium conviction."
     }
   ],
   "outcomes": {
