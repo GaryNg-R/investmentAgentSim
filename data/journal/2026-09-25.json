@@ -1,14 +1,14 @@
 {
   "date": "2026-09-25",
-  "briefing": "Markets were neutral today with NASDAQ +0.4% and S&P 500 +0.3%, no strong risk-on signal. Rather than force capital into all 3 open slots, we made one measured buy in TSEM, which shows clean multi-signal momentum without being overbought, and kept the remainder of cash in reserve for a stronger risk-on day.",
+  "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.5%, S&P500 +0.4%), a neutral day with no clear risk-on or risk-off signal. With 3 open portfolio slots and cash above the $500 threshold, we deployed capital into three diversified, high-scoring candidates (TSEM, AAL, DELL) rather than concentrating further in semiconductors where we're already exposed via MU and INOD.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing upward price and indicator strength (like RSI in a healthy bullish range and MACD crossovers), on the theory that stocks moving up tend to keep moving up in the short term. It works best when confirmed by multiple signals together rather than just one, which reduces the chance of chasing a false signal.",
-    "explanation_zh": "動能投資是指買入價格及技術指標已顯示上升動力的股票（例如RSI處於健康的看漲區間、MACD出現黃金交叉），其理念是短期內上升中的股票有機會延續升勢。當多個信號同時確認時效果最佳，可減少誤判單一假訊號的風險。"
+    "term": "Portfolio Diversification",
+    "explanation_en": "Diversification means spreading investments across different sectors or industries so that a downturn in any one area doesn't sink the whole portfolio. Today we filled open slots with picks from airlines, hardware, and semiconductor manufacturing rather than piling further into sectors we already held heavily, reducing concentration risk.",
+    "explanation_zh": "分散投資是指將資金配置到不同產業或板塊,避免單一領域下跌時拖累整個投資組合。今日我們在填補空缺倉位時,選擇了航空、硬體與半導體製造等不同板塊的標的,而非繼續加碼已持重倉的產業,藉此降低集中風險。"
   },
   "market_education": {
-    "summary_en": "Both major indices posted small gains today, with the NASDAQ up 0.4% and the S&P 500 up 0.3%, reflecting a quiet, directionless trading session rather than any major catalyst. Without a strong macro trigger, most stocks drifted in a narrow range as investors awaited clearer signals. This kind of low-volatility day is typical between major economic data releases or earnings events.",
-    "summary_zh": "今日大市表現溫和，納斯達克指數上升0.4%，標普500指數上升0.3%，屬於缺乏明確方向的平淡交易日，未見重大催化因素帶動。在沒有強烈宏觀消息刺激下，大部分股份僅在窄幅區間內游走，投資者仍在等待更明確的市場信號。這類低波動交易日通常出現在重要經濟數據或業績公佈之間的空檔期。",
+    "summary_en": "Broad indices posted modest gains today with NASDAQ up 0.5% and the S&P 500 up 0.4%, reflecting a quiet, directionless trading session rather than any major catalyst. No single headline drove the move; instead it looks like routine consolidation after recent volatility. Without a strong risk-on or risk-off signal, most of the day's action came from stock-specific momentum rather than macro news.",
+    "summary_zh": "大盤今日表現溫和上揚,納斯達克指數升0.5%,標普500指數升0.4%,反映市場處於觀望整理階段,並未出現明顯的重大消息面刺激。今日走勢較像是近期波動後的常規整固,而非受單一頭條新聞帶動。在缺乏明確風險偏好或迴避訊號的情況下,今日多數表現來自個股動能而非總體經濟消息。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,19 @@
       "action": "BUY",
       "ticker": "TSEM",
       "conviction": "medium",
-      "reasoning": "Score 95 with RSI 61.1 in the healthy bullish zone (not overbought), bullish MACD crossover, and price above SMA-20 signal a genuine momentum setup worth deploying some of the idle cash into."
+      "reasoning": "Tower Semiconductor shows a clean bullish setup with RSI at 56.9 (not yet overbought), MACD crossover, and price above SMA-20, giving the most room to run among top candidates."
+    },
+    {
+      "action": "BUY",
+      "ticker": "AAL",
+      "conviction": "medium",
+      "reasoning": "American Airlines offers sector diversification away from tech/semis with RSI 62.7, MACD bullish crossover, and price above SMA-20."
+    },
+    {
+      "action": "BUY",
+      "ticker": "DELL",
+      "conviction": "medium",
+      "reasoning": "Dell adds large-cap hardware exposure with RSI 61.8, bullish MACD crossover, and rising histogram momentum, distinct from existing semiconductor-heavy holdings."
     }
   ],
   "outcomes": {

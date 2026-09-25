@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-09-25T16:01:07.949336+00:00",
+  "saved_at": "2026-09-25T17:01:02.725315+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,20 +7,32 @@
         "action": "BUY",
         "ticker": "TSEM",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 61.1 in the healthy bullish zone (not overbought), bullish MACD crossover, and price above SMA-20 signal a genuine momentum setup worth deploying some of the idle cash into."
+        "reasoning": "Tower Semiconductor shows a clean bullish setup with RSI at 56.9 (not yet overbought), MACD crossover, and price above SMA-20, giving the most room to run among top candidates."
+      },
+      {
+        "action": "BUY",
+        "ticker": "AAL",
+        "conviction": "medium",
+        "reasoning": "American Airlines offers sector diversification away from tech/semis with RSI 62.7, MACD bullish crossover, and price above SMA-20."
+      },
+      {
+        "action": "BUY",
+        "ticker": "DELL",
+        "conviction": "medium",
+        "reasoning": "Dell adds large-cap hardware exposure with RSI 61.8, bullish MACD crossover, and rising histogram momentum, distinct from existing semiconductor-heavy holdings."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were neutral today with NASDAQ +0.4% and S&P 500 +0.3%, no strong risk-on signal. Rather than force capital into all 3 open slots, we made one measured buy in TSEM, which shows clean multi-signal momentum without being overbought, and kept the remainder of cash in reserve for a stronger risk-on day.",
+    "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.5%, S&P500 +0.4%), a neutral day with no clear risk-on or risk-off signal. With 3 open portfolio slots and cash above the $500 threshold, we deployed capital into three diversified, high-scoring candidates (TSEM, AAL, DELL) rather than concentrating further in semiconductors where we're already exposed via MU and INOD.",
     "market_education": {
-      "summary_en": "Both major indices posted small gains today, with the NASDAQ up 0.4% and the S&P 500 up 0.3%, reflecting a quiet, directionless trading session rather than any major catalyst. Without a strong macro trigger, most stocks drifted in a narrow range as investors awaited clearer signals. This kind of low-volatility day is typical between major economic data releases or earnings events.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u6eab\u548c\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53470.4%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53470.3%\uff0c\u5c6c\u65bc\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u7684\u5e73\u6de1\u4ea4\u6613\u65e5\uff0c\u672a\u898b\u91cd\u5927\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u3002\u5728\u6c92\u6709\u5f37\u70c8\u5b8f\u89c0\u6d88\u606f\u523a\u6fc0\u4e0b\uff0c\u5927\u90e8\u5206\u80a1\u4efd\u50c5\u5728\u7a84\u5e45\u5340\u9593\u5167\u6e38\u8d70\uff0c\u6295\u8cc7\u8005\u4ecd\u5728\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u5e02\u5834\u4fe1\u865f\u3002\u9019\u985e\u4f4e\u6ce2\u52d5\u4ea4\u6613\u65e5\u901a\u5e38\u51fa\u73fe\u5728\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u516c\u4f48\u4e4b\u9593\u7684\u7a7a\u6a94\u671f\u3002",
+      "summary_en": "Broad indices posted modest gains today with NASDAQ up 0.5% and the S&P 500 up 0.4%, reflecting a quiet, directionless trading session rather than any major catalyst. No single headline drove the move; instead it looks like routine consolidation after recent volatility. Without a strong risk-on or risk-off signal, most of the day's action came from stock-specific momentum rather than macro news.",
+      "summary_zh": "\u5927\u76e4\u4eca\u65e5\u8868\u73fe\u6eab\u548c\u4e0a\u63da,\u7d0d\u65af\u9054\u514b\u6307\u6578\u53470.5%,\u6a19\u666e500\u6307\u6578\u53470.4%,\u53cd\u6620\u5e02\u5834\u8655\u65bc\u89c0\u671b\u6574\u7406\u968e\u6bb5,\u4e26\u672a\u51fa\u73fe\u660e\u986f\u7684\u91cd\u5927\u6d88\u606f\u9762\u523a\u6fc0\u3002\u4eca\u65e5\u8d70\u52e2\u8f03\u50cf\u662f\u8fd1\u671f\u6ce2\u52d5\u5f8c\u7684\u5e38\u898f\u6574\u56fa,\u800c\u975e\u53d7\u55ae\u4e00\u982d\u689d\u65b0\u805e\u5e36\u52d5\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u98a8\u96aa\u504f\u597d\u6216\u8ff4\u907f\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b,\u4eca\u65e5\u591a\u6578\u8868\u73fe\u4f86\u81ea\u500b\u80a1\u52d5\u80fd\u800c\u975e\u7e3d\u9ad4\u7d93\u6fdf\u6d88\u606f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already showing upward price and indicator strength (like RSI in a healthy bullish range and MACD crossovers), on the theory that stocks moving up tend to keep moving up in the short term. It works best when confirmed by multiple signals together rather than just one, which reduces the chance of chasing a false signal.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u50f9\u683c\u53ca\u6280\u8853\u6307\u6a19\u5df2\u986f\u793a\u4e0a\u5347\u52d5\u529b\u7684\u80a1\u7968\uff08\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u7684\u770b\u6f32\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff09\uff0c\u5176\u7406\u5ff5\u662f\u77ed\u671f\u5167\u4e0a\u5347\u4e2d\u7684\u80a1\u7968\u6709\u6a5f\u6703\u5ef6\u7e8c\u5347\u52e2\u3002\u7576\u591a\u500b\u4fe1\u865f\u540c\u6642\u78ba\u8a8d\u6642\u6548\u679c\u6700\u4f73\uff0c\u53ef\u6e1b\u5c11\u8aa4\u5224\u55ae\u4e00\u5047\u8a0a\u865f\u7684\u98a8\u96aa\u3002"
+      "term": "Portfolio Diversification",
+      "explanation_en": "Diversification means spreading investments across different sectors or industries so that a downturn in any one area doesn't sink the whole portfolio. Today we filled open slots with picks from airlines, hardware, and semiconductor manufacturing rather than piling further into sectors we already held heavily, reducing concentration risk.",
+      "explanation_zh": "\u5206\u6563\u6295\u8cc7\u662f\u6307\u5c07\u8cc7\u91d1\u914d\u7f6e\u5230\u4e0d\u540c\u7522\u696d\u6216\u677f\u584a,\u907f\u514d\u55ae\u4e00\u9818\u57df\u4e0b\u8dcc\u6642\u62d6\u7d2f\u6574\u500b\u6295\u8cc7\u7d44\u5408\u3002\u4eca\u65e5\u6211\u5011\u5728\u586b\u88dc\u7a7a\u7f3a\u5009\u4f4d\u6642,\u9078\u64c7\u4e86\u822a\u7a7a\u3001\u786c\u9ad4\u8207\u534a\u5c0e\u9ad4\u88fd\u9020\u7b49\u4e0d\u540c\u677f\u584a\u7684\u6a19\u7684,\u800c\u975e\u7e7c\u7e8c\u52a0\u78bc\u5df2\u6301\u91cd\u5009\u7684\u7522\u696d,\u85c9\u6b64\u964d\u4f4e\u96c6\u4e2d\u98a8\u96aa\u3002"
     }
   }
 }
