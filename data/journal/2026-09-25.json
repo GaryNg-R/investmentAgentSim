@@ -1,28 +1,34 @@
 {
   "date": "2026-09-25",
-  "briefing": "NASDAQ and S&P 500 both edged up +0.5% today, a neutral, low-conviction session with no strong breakout signal. With cash above the $500 threshold and 3 open slots, we deployed modestly into two technically-confirmed momentum names (HRI, TSEM) at medium conviction rather than maxing out all slots, while holding the rest of the portfolio unchanged.",
+  "briefing": "Markets were flat today (NASDAQ +0.4%, S&P 500 +0.4%), a neutral session overall. Rather than forcing trades on market direction alone, we filled our 3 open portfolio slots with the highest-scoring candidates (ALM, MAAS, TSEM) that each showed strong individual technical confirmation — bullish RSI, MACD crossover, rising momentum, and price above their 20-day average.",
   "daily_lesson": {
     "term": "Technical Confirmation",
-    "explanation_en": "Technical confirmation means only acting on a signal (like a MACD crossover) when several independent indicators agree — RSI in a healthy range, price above its moving average, and rising momentum all pointing the same direction. Relying on one signal alone is more likely to be noise; multiple aligned signals reduce the chance of a false start.",
-    "explanation_zh": "技術確認是指只有在多個獨立指標同時指向同一方向時才採取行動,例如MACD黃金交叉、RSI處於健康區間、股價高於均線,並且動能持續上升。單一指標容易是市場雜訊,多重訊號同步確認則能降低假訊號的風險。"
+    "explanation_en": "Technical confirmation means using multiple indicators together — like RSI, MACD, and moving averages — to verify a stock's momentum before buying, rather than relying on just one signal. When several indicators agree, the setup is considered more reliable, even if the overall market is flat that day.",
+    "explanation_zh": "技術確認是指同時運用多項技術指標(例如相對強弱指數RSI、MACD及移動平均線)來驗證股票的升勢,而非單憑一項訊號就作出買入決定。當多項指標同時發出一致訊號時,該入市時機被視為較為可靠,即使當日大盤走勢平淡亦然。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today with NASDAQ and S&P 500 each up about 0.5%, a quiet, directionless session rather than a decisive risk-on or risk-off move. No standout catalyst emerged; trading looked like routine consolidation after recent gains. With no fresh news items provided today, this move reflects broad market drift rather than a specific headline-driven event.",
-    "summary_zh": "今日大市溫和上揚,納斯達克指數及標普500指數均升約0.5%,屬於方向不明的平淡交易日,未見明顯的風險偏好轉向。市場暫無特別催化劑,走勢較似近期升勢後的整固。由於今日未有提供具體新聞頭條,這波動更多反映大市自然波幅,而非個別消息刺激。",
+    "summary_en": "Both the NASDAQ and S&P 500 traded roughly flat today, up about 0.4% each, indicating a lack of strong directional conviction from investors. In the absence of major catalysts, the market often consolidates near prior levels while individual stocks can still show meaningful technical strength. Today's gains in select momentum names suggest sector- or stock-specific interest rather than a broad market move.",
+    "summary_zh": "今日納斯達克指數及標普500指數均只微升約0.4%,顯示大市方向不明確,投資者觀望氣氛濃厚。在缺乏重大消息刺激下,大盤傾向於在近期水平附近整固,但個別股份仍可能展現強勁技術走勢。今日部分動能股表現突出,反映资金流向個別板塊或股份,而非全面性的市場升勢。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "HRI",
+      "ticker": "ALM",
       "conviction": "medium",
-      "reasoning": "RSI 55.2 with confirmed MACD bullish crossover, rising histogram, and price above SMA-20 gives room to run without being overbought."
+      "reasoning": "Top-scored candidate (95) with RSI in bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20 — strong multi-signal setup despite a neutral broader market."
+    },
+    {
+      "action": "BUY",
+      "ticker": "MAAS",
+      "conviction": "medium",
+      "reasoning": "Same four-signal confirmation as ALM (bullish RSI, MACD crossover, rising histogram, price above SMA-20) with a score of 95, offering diversification at a low price point."
     },
     {
       "action": "BUY",
       "ticker": "TSEM",
       "conviction": "medium",
-      "reasoning": "Same clean multi-signal setup as HRI (RSI 55.2, MACD crossover, price above SMA-20) and diversifies away from existing tech/growth exposure."
+      "reasoning": "Score of 95 with bullish RSI, MACD crossover, rising histogram, and price above SMA-20 gives genuine technical confirmation to deploy idle cash into an open slot."
     }
   ],
   "outcomes": {
