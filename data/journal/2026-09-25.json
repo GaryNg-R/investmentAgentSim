@@ -1,17 +1,24 @@
 {
   "date": "2026-09-25",
-  "briefing": "Markets were flat today with NASDAQ and S&P 500 both up just +0.2% — a neutral, low-conviction session. Despite having $789 in cash and 3 open slots, none of today's top-scoring candidates showed the full four-signal confirmation (RSI, MACD crossover, price/SMA-20, and volume surge) needed for a high-conviction buy, so we held cash rather than forcing a trade.",
+  "briefing": "Markets were neutral today with NASDAQ +0.4% and S&P 500 +0.3%, no strong risk-on signal. Rather than force capital into all 3 open slots, we made one measured buy in TSEM, which shows clean multi-signal momentum without being overbought, and kept the remainder of cash in reserve for a stronger risk-on day.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash you keep on hand rather than investing immediately, so you can act when a genuinely strong opportunity appears. Today's candidates looked decent but lacked full confirmation (like a volume surge), so holding cash instead of forcing a buy preserves flexibility for a better setup later.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資人保留現金而非立即全數投入，以便在真正出現強勢機會時有資金可以進場。今日的候選股票雖有部分利多訊號，但缺乏成交量放大等完整確認，因此選擇持有現金、不勉強進場，為日後更佳的進場時機保留彈性。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing upward price and indicator strength (like RSI in a healthy bullish range and MACD crossovers), on the theory that stocks moving up tend to keep moving up in the short term. It works best when confirmed by multiple signals together rather than just one, which reduces the chance of chasing a false signal.",
+    "explanation_zh": "動能投資是指買入價格及技術指標已顯示上升動力的股票（例如RSI處於健康的看漲區間、MACD出現黃金交叉），其理念是短期內上升中的股票有機會延續升勢。當多個信號同時確認時效果最佳，可減少誤判單一假訊號的風險。"
   },
   "market_education": {
-    "summary_en": "Broad indices were essentially unchanged today, with the NASDAQ and S&P 500 each up roughly 0.2%, suggesting investors are in a wait-and-see mode without a strong catalyst pushing sentiment in either direction. Several growth and semiconductor names on the screener showed bullish technical setups (MACD crossovers, RSI in the healthy 55-70 range), but the absence of confirming volume surges means the moves may lack broader institutional participation. With no major economic data or earnings catalysts driving the tape, this looks like consolidation after recent gains rather than a new trend.",
-    "summary_zh": "今日大盤走勢平淡，納斯達克及標普500指數皆僅微升約0.2%，顯示投資人在缺乏明確催化因素下採取觀望態度。篩選名單中部分成長股與半導體股呈現技術面偏多訊號（如MACD黃金交叉、RSI處於55至70的健康區間），但由於未見成交量明顯放大配合，這些漲勢是否有法人資金真正進場仍待觀察。在沒有重大經濟數據或財報消息帶動下，今日盤勢較像是近期漲勢後的整理階段，而非新趨勢的展開。",
+    "summary_en": "Both major indices posted small gains today, with the NASDAQ up 0.4% and the S&P 500 up 0.3%, reflecting a quiet, directionless trading session rather than any major catalyst. Without a strong macro trigger, most stocks drifted in a narrow range as investors awaited clearer signals. This kind of low-volatility day is typical between major economic data releases or earnings events.",
+    "summary_zh": "今日大市表現溫和，納斯達克指數上升0.4%，標普500指數上升0.3%，屬於缺乏明確方向的平淡交易日，未見重大催化因素帶動。在沒有強烈宏觀消息刺激下，大部分股份僅在窄幅區間內游走，投資者仍在等待更明確的市場信號。這類低波動交易日通常出現在重要經濟數據或業績公佈之間的空檔期。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "TSEM",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 61.1 in the healthy bullish zone (not overbought), bullish MACD crossover, and price above SMA-20 signal a genuine momentum setup worth deploying some of the idle cash into."
+    }
+  ],
   "outcomes": {
     "total_value": 14355.735246181488,
     "cash": 789.2850012779236,

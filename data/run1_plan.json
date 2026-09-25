@@ -1,19 +1,26 @@
 {
-  "saved_at": "2026-09-25T15:00:50.476396+00:00",
+  "saved_at": "2026-09-25T16:01:07.949336+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [],
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "TSEM",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 61.1 in the healthy bullish zone (not overbought), bullish MACD crossover, and price above SMA-20 signal a genuine momentum setup worth deploying some of the idle cash into."
+      }
+    ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat today with NASDAQ and S&P 500 both up just +0.2% \u2014 a neutral, low-conviction session. Despite having $789 in cash and 3 open slots, none of today's top-scoring candidates showed the full four-signal confirmation (RSI, MACD crossover, price/SMA-20, and volume surge) needed for a high-conviction buy, so we held cash rather than forcing a trade.",
+    "briefing": "Markets were neutral today with NASDAQ +0.4% and S&P 500 +0.3%, no strong risk-on signal. Rather than force capital into all 3 open slots, we made one measured buy in TSEM, which shows clean multi-signal momentum without being overbought, and kept the remainder of cash in reserve for a stronger risk-on day.",
     "market_education": {
-      "summary_en": "Broad indices were essentially unchanged today, with the NASDAQ and S&P 500 each up roughly 0.2%, suggesting investors are in a wait-and-see mode without a strong catalyst pushing sentiment in either direction. Several growth and semiconductor names on the screener showed bullish technical setups (MACD crossovers, RSI in the healthy 55-70 range), but the absence of confirming volume surges means the moves may lack broader institutional participation. With no major economic data or earnings catalysts driving the tape, this looks like consolidation after recent gains rather than a new trend.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u7686\u50c5\u5fae\u5347\u7d040.2%\uff0c\u986f\u793a\u6295\u8cc7\u4eba\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u56e0\u7d20\u4e0b\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002\u7be9\u9078\u540d\u55ae\u4e2d\u90e8\u5206\u6210\u9577\u80a1\u8207\u534a\u5c0e\u9ad4\u80a1\u5448\u73fe\u6280\u8853\u9762\u504f\u591a\u8a0a\u865f\uff08\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc55\u81f370\u7684\u5065\u5eb7\u5340\u9593\uff09\uff0c\u4f46\u7531\u65bc\u672a\u898b\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\u914d\u5408\uff0c\u9019\u4e9b\u6f32\u52e2\u662f\u5426\u6709\u6cd5\u4eba\u8cc7\u91d1\u771f\u6b63\u9032\u5834\u4ecd\u5f85\u89c0\u5bdf\u3002\u5728\u6c92\u6709\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u6d88\u606f\u5e36\u52d5\u4e0b\uff0c\u4eca\u65e5\u76e4\u52e2\u8f03\u50cf\u662f\u8fd1\u671f\u6f32\u52e2\u5f8c\u7684\u6574\u7406\u968e\u6bb5\uff0c\u800c\u975e\u65b0\u8da8\u52e2\u7684\u5c55\u958b\u3002",
+      "summary_en": "Both major indices posted small gains today, with the NASDAQ up 0.4% and the S&P 500 up 0.3%, reflecting a quiet, directionless trading session rather than any major catalyst. Without a strong macro trigger, most stocks drifted in a narrow range as investors awaited clearer signals. This kind of low-volatility day is typical between major economic data releases or earnings events.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u6eab\u548c\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53470.4%\uff0c\u6a19\u666e500\u6307\u6578\u4e0a\u53470.3%\uff0c\u5c6c\u65bc\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u7684\u5e73\u6de1\u4ea4\u6613\u65e5\uff0c\u672a\u898b\u91cd\u5927\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u3002\u5728\u6c92\u6709\u5f37\u70c8\u5b8f\u89c0\u6d88\u606f\u523a\u6fc0\u4e0b\uff0c\u5927\u90e8\u5206\u80a1\u4efd\u50c5\u5728\u7a84\u5e45\u5340\u9593\u5167\u6e38\u8d70\uff0c\u6295\u8cc7\u8005\u4ecd\u5728\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u5e02\u5834\u4fe1\u865f\u3002\u9019\u985e\u4f4e\u6ce2\u52d5\u4ea4\u6613\u65e5\u901a\u5e38\u51fa\u73fe\u5728\u91cd\u8981\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u516c\u4f48\u4e4b\u9593\u7684\u7a7a\u6a94\u671f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Dry Powder",
-      "explanation_en": "\"Dry powder\" refers to cash you keep on hand rather than investing immediately, so you can act when a genuinely strong opportunity appears. Today's candidates looked decent but lacked full confirmation (like a volume surge), so holding cash instead of forcing a buy preserves flexibility for a better setup later.",
-      "explanation_zh": "\u300c\u4e7e\u706b\u85e5\u300d\uff08Dry Powder\uff09\u6307\u6295\u8cc7\u4eba\u4fdd\u7559\u73fe\u91d1\u800c\u975e\u7acb\u5373\u5168\u6578\u6295\u5165\uff0c\u4ee5\u4fbf\u5728\u771f\u6b63\u51fa\u73fe\u5f37\u52e2\u6a5f\u6703\u6642\u6709\u8cc7\u91d1\u53ef\u4ee5\u9032\u5834\u3002\u4eca\u65e5\u7684\u5019\u9078\u80a1\u7968\u96d6\u6709\u90e8\u5206\u5229\u591a\u8a0a\u865f\uff0c\u4f46\u7f3a\u4e4f\u6210\u4ea4\u91cf\u653e\u5927\u7b49\u5b8c\u6574\u78ba\u8a8d\uff0c\u56e0\u6b64\u9078\u64c7\u6301\u6709\u73fe\u91d1\u3001\u4e0d\u52c9\u5f37\u9032\u5834\uff0c\u70ba\u65e5\u5f8c\u66f4\u4f73\u7684\u9032\u5834\u6642\u6a5f\u4fdd\u7559\u5f48\u6027\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already showing upward price and indicator strength (like RSI in a healthy bullish range and MACD crossovers), on the theory that stocks moving up tend to keep moving up in the short term. It works best when confirmed by multiple signals together rather than just one, which reduces the chance of chasing a false signal.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u50f9\u683c\u53ca\u6280\u8853\u6307\u6a19\u5df2\u986f\u793a\u4e0a\u5347\u52d5\u529b\u7684\u80a1\u7968\uff08\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u7684\u770b\u6f32\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\uff09\uff0c\u5176\u7406\u5ff5\u662f\u77ed\u671f\u5167\u4e0a\u5347\u4e2d\u7684\u80a1\u7968\u6709\u6a5f\u6703\u5ef6\u7e8c\u5347\u52e2\u3002\u7576\u591a\u500b\u4fe1\u865f\u540c\u6642\u78ba\u8a8d\u6642\u6548\u679c\u6700\u4f73\uff0c\u53ef\u6e1b\u5c11\u8aa4\u5224\u55ae\u4e00\u5047\u8a0a\u865f\u7684\u98a8\u96aa\u3002"
     }
   }
 }
