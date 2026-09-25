@@ -1,14 +1,14 @@
 {
   "date": "2026-09-25",
-  "briefing": "Markets were flat today (NASDAQ +0.5%, S&P 500 +0.5%), a neutral session with no strong directional signal. With $789.29 in cash and 3 open slots, we deployed into three fully-confirmed momentum names (FIGS, PENG, ACLS) rather than holding idle cash, per the risk rules' preference for filling slots when cash exceeds $500.",
+  "briefing": "Markets were flat today (NASDAQ and S&P500 both +0.5%), a neutral session with no major risk-on or risk-off signal. With 3 open slots and cash above the $500 threshold, we deployed into FIGS and AEHR, the two highest-scoring candidates showing full technical confirmation (RSI, MACD, price vs SMA-20, and volume surge), while keeping the rest of the portfolio untouched.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means only acting on a stock signal when multiple independent indicators agree — for example, a bullish MACD crossover, RSI in a healthy (not overbought) range, price above its moving average, and a volume surge all at once. Relying on just one signal, like a price spike alone, is much more likely to be noise than a real trend.",
-    "explanation_zh": "動能確認是指只有在多個獨立技術指標同時出現一致訊號時才進行交易，例如MACD黃金交叉、RSI處於健康（非超買）區間、股價站上均線，以及成交量放大同時出現。若只依賴單一訊號（例如單純的價格急漲），很可能只是雜訊而非真正的趨勢。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "When picking a stock, relying on just one indicator (like RSI or MACD alone) can be misleading — random noise can trigger a single signal without real momentum behind it. Multi-signal confirmation means waiting until several independent indicators (RSI, MACD crossover, price vs. moving average, and volume) all point the same bullish direction together, which is a stronger sign of genuine buying interest.",
+    "explanation_zh": "選股時只依賴單一指標（例如RSI或MACD）可能會產生誤導，因為隨機的市場雜訊有時會觸發單一訊號，而背後未必有真正的動力支持。多重訊號確認是指等待多個獨立指標（RSI、MACD黃金交叉、股價高於移動平均線，以及成交量放大）同時發出一致的看漲訊號，這樣才是較可靠的真實買盤強勁的跡象。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted modestly higher today with NASDAQ and S&P 500 both up about 0.5%, reflecting a lack of major catalysts rather than any strong bullish or bearish driver. Trading was largely rotational, with money flowing into a handful of stocks showing strong technical setups — bullish MACD crossovers, healthy RSI readings, and above-average volume. This kind of quiet, low-volatility session is typical between major economic data releases or earnings events.",
-    "summary_zh": "今日大盤走勢平淡，納斯達克指數及標普500指數均上漲約0.5%，反映市場缺乏明顯的利多或利空因素，屬於方向不明的觀望格局。資金主要流向技術面表現強勁的個股，包括出現MACD黃金交叉、RSI處於健康區間、以及成交量放大的股票。這類低波動的平靜交易日，通常出現在重大經濟數據公布或財報季之間的空檔期。",
+    "summary_en": "Today's market was largely directionless, with both the NASDAQ and S&P 500 up a modest 0.5%, suggesting no strong catalyst pushed investors decisively toward risk-on or risk-off positioning. In the absence of major news, price action reflected routine trading rather than a reaction to a specific headline. Sector-level moves were likely driven by individual stock fundamentals and technical setups rather than broad macro themes.",
+    "summary_zh": "今日大市走勢反覆，納指及標普500均只錄得約0.5%的溫和升幅，反映市場缺乏明確催化劑,投資者未有明顯轉向風險偏好或避險情緒。在缺乏重大消息的情況下，價格走勢較多反映日常交易操作，而非對個別頭條新聞的即時反應。板塊表現預料主要由個股基本面及技術走勢主導，而非宏觀主題帶動。",
     "sources": []
   },
   "trades": [
@@ -16,19 +16,13 @@
       "action": "BUY",
       "ticker": "FIGS",
       "conviction": "high",
-      "reasoning": "Score 100 with full signal confirmation — MACD bullish crossover, RSI 66.9 in bullish zone, price above SMA-20, and a volume surge together indicate institutional buying."
+      "reasoning": "Top-scoring candidate (100) with all four confirming signals — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge."
     },
     {
       "action": "BUY",
-      "ticker": "PENG",
+      "ticker": "AEHR",
       "conviction": "high",
-      "reasoning": "Score 100 with the same four-signal confirmation (MACD crossover, RSI 65.2, price above SMA-20, volume surge), matching our highest-conviction setup criteria."
-    },
-    {
-      "action": "BUY",
-      "ticker": "ACLS",
-      "conviction": "medium",
-      "reasoning": "Score 100 with MACD crossover, rising histogram, price above SMA-20 and volume surge, though RSI at 70.0 sits right at the overbought edge so sized as medium conviction."
+      "reasoning": "Tied for top score with full multi-signal confirmation (RSI, MACD, SMA-20, volume), and open cash plus available slots favor deploying capital per the risk rules."
     }
   ],
   "outcomes": {
