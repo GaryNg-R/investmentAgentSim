@@ -1,34 +1,28 @@
 {
   "date": "2026-09-25",
-  "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.5%, S&P500 +0.4%), a neutral day with no clear risk-on or risk-off signal. With 3 open portfolio slots and cash above the $500 threshold, we deployed capital into three diversified, high-scoring candidates (TSEM, AAL, DELL) rather than concentrating further in semiconductors where we're already exposed via MU and INOD.",
+  "briefing": "NASDAQ and S&P 500 both edged up +0.5% today, a neutral, low-conviction session with no strong breakout signal. With cash above the $500 threshold and 3 open slots, we deployed modestly into two technically-confirmed momentum names (HRI, TSEM) at medium conviction rather than maxing out all slots, while holding the rest of the portfolio unchanged.",
   "daily_lesson": {
-    "term": "Portfolio Diversification",
-    "explanation_en": "Diversification means spreading investments across different sectors or industries so that a downturn in any one area doesn't sink the whole portfolio. Today we filled open slots with picks from airlines, hardware, and semiconductor manufacturing rather than piling further into sectors we already held heavily, reducing concentration risk.",
-    "explanation_zh": "分散投資是指將資金配置到不同產業或板塊,避免單一領域下跌時拖累整個投資組合。今日我們在填補空缺倉位時,選擇了航空、硬體與半導體製造等不同板塊的標的,而非繼續加碼已持重倉的產業,藉此降低集中風險。"
+    "term": "Technical Confirmation",
+    "explanation_en": "Technical confirmation means only acting on a signal (like a MACD crossover) when several independent indicators agree — RSI in a healthy range, price above its moving average, and rising momentum all pointing the same direction. Relying on one signal alone is more likely to be noise; multiple aligned signals reduce the chance of a false start.",
+    "explanation_zh": "技術確認是指只有在多個獨立指標同時指向同一方向時才採取行動,例如MACD黃金交叉、RSI處於健康區間、股價高於均線,並且動能持續上升。單一指標容易是市場雜訊,多重訊號同步確認則能降低假訊號的風險。"
   },
   "market_education": {
-    "summary_en": "Broad indices posted modest gains today with NASDAQ up 0.5% and the S&P 500 up 0.4%, reflecting a quiet, directionless trading session rather than any major catalyst. No single headline drove the move; instead it looks like routine consolidation after recent volatility. Without a strong risk-on or risk-off signal, most of the day's action came from stock-specific momentum rather than macro news.",
-    "summary_zh": "大盤今日表現溫和上揚,納斯達克指數升0.5%,標普500指數升0.4%,反映市場處於觀望整理階段,並未出現明顯的重大消息面刺激。今日走勢較像是近期波動後的常規整固,而非受單一頭條新聞帶動。在缺乏明確風險偏好或迴避訊號的情況下,今日多數表現來自個股動能而非總體經濟消息。",
+    "summary_en": "Major indices drifted modestly higher today with NASDAQ and S&P 500 each up about 0.5%, a quiet, directionless session rather than a decisive risk-on or risk-off move. No standout catalyst emerged; trading looked like routine consolidation after recent gains. With no fresh news items provided today, this move reflects broad market drift rather than a specific headline-driven event.",
+    "summary_zh": "今日大市溫和上揚,納斯達克指數及標普500指數均升約0.5%,屬於方向不明的平淡交易日,未見明顯的風險偏好轉向。市場暫無特別催化劑,走勢較似近期升勢後的整固。由於今日未有提供具體新聞頭條,這波動更多反映大市自然波幅,而非個別消息刺激。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
+      "ticker": "HRI",
+      "conviction": "medium",
+      "reasoning": "RSI 55.2 with confirmed MACD bullish crossover, rising histogram, and price above SMA-20 gives room to run without being overbought."
+    },
+    {
+      "action": "BUY",
       "ticker": "TSEM",
       "conviction": "medium",
-      "reasoning": "Tower Semiconductor shows a clean bullish setup with RSI at 56.9 (not yet overbought), MACD crossover, and price above SMA-20, giving the most room to run among top candidates."
-    },
-    {
-      "action": "BUY",
-      "ticker": "AAL",
-      "conviction": "medium",
-      "reasoning": "American Airlines offers sector diversification away from tech/semis with RSI 62.7, MACD bullish crossover, and price above SMA-20."
-    },
-    {
-      "action": "BUY",
-      "ticker": "DELL",
-      "conviction": "medium",
-      "reasoning": "Dell adds large-cap hardware exposure with RSI 61.8, bullish MACD crossover, and rising histogram momentum, distinct from existing semiconductor-heavy holdings."
+      "reasoning": "Same clean multi-signal setup as HRI (RSI 55.2, MACD crossover, price above SMA-20) and diversifies away from existing tech/growth exposure."
     }
   ],
   "outcomes": {
