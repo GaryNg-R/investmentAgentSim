@@ -1,30 +1,17 @@
 {
   "date": "2026-09-25",
-  "briefing": "Markets were flat today (NASDAQ +0.4%, S&P500 +0.3%), but two candidates, BE and BB, showed all four bullish technical signals together, so we used some of the idle cash to open two new diversifying positions rather than waiting further.",
+  "briefing": "Markets were flat today with NASDAQ and S&P 500 both up just +0.2% — a neutral, low-conviction session. Despite having $789 in cash and 3 open slots, none of today's top-scoring candidates showed the full four-signal confirmation (RSI, MACD crossover, price/SMA-20, and volume surge) needed for a high-conviction buy, so we held cash rather than forcing a trade.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "This is when several independent technical indicators — like RSI, MACD, price versus moving average, and trading volume — all point the same direction at once. When they align, it gives more confidence in a trade than relying on just one signal, even if the overall market is quiet that day.",
-    "explanation_zh": "多重訊號確認是指多個獨立的技術指標，例如RSI、MACD、股價與移動平均線的關係，以及成交量，同時指向同一方向。當這些訊號一致時，即使當日大市表現平淡，也能為個股交易決定提供更高信心。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash you keep on hand rather than investing immediately, so you can act when a genuinely strong opportunity appears. Today's candidates looked decent but lacked full confirmation (like a volume surge), so holding cash instead of forcing a buy preserves flexibility for a better setup later.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資人保留現金而非立即全數投入，以便在真正出現強勢機會時有資金可以進場。今日的候選股票雖有部分利多訊號，但缺乏成交量放大等完整確認，因此選擇持有現金、不勉強進場，為日後更佳的進場時機保留彈性。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted only slightly higher today, with the S&P 500 up 0.3% and the NASDAQ up 0.4%, suggesting investors were largely in a wait-and-see mode rather than reacting to major catalysts. Individual stock movement was more pronounced than the index-level move, with several momentum names showing coordinated volume and trend signals even as the broader market stayed quiet. No major headline-driven catalysts were identified for today's session.",
-    "summary_zh": "今日大市走勢平淡，標普500指數升0.3%，納斯達克指數升0.4%，反映投資者普遍處於觀望狀態，未見明顯的重大消息刺激。相比之下，個別具動能的股份表現較為突出，成交量及技術指標同步發出買入訊號，即使大市整體波動不大。今日未有發現明顯的頭條新聞驅動因素。",
+    "summary_en": "Broad indices were essentially unchanged today, with the NASDAQ and S&P 500 each up roughly 0.2%, suggesting investors are in a wait-and-see mode without a strong catalyst pushing sentiment in either direction. Several growth and semiconductor names on the screener showed bullish technical setups (MACD crossovers, RSI in the healthy 55-70 range), but the absence of confirming volume surges means the moves may lack broader institutional participation. With no major economic data or earnings catalysts driving the tape, this looks like consolidation after recent gains rather than a new trend.",
+    "summary_zh": "今日大盤走勢平淡，納斯達克及標普500指數皆僅微升約0.2%，顯示投資人在缺乏明確催化因素下採取觀望態度。篩選名單中部分成長股與半導體股呈現技術面偏多訊號（如MACD黃金交叉、RSI處於55至70的健康區間），但由於未見成交量明顯放大配合，這些漲勢是否有法人資金真正進場仍待觀察。在沒有重大經濟數據或財報消息帶動下，今日盤勢較像是近期漲勢後的整理階段，而非新趨勢的展開。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "BE",
-      "conviction": "high",
-      "reasoning": "All four signals aligned (bullish RSI, MACD crossover, rising histogram, volume surge) and adds clean-energy exposure not already in the portfolio."
-    },
-    {
-      "action": "BUY",
-      "ticker": "BB",
-      "conviction": "medium",
-      "reasoning": "Full signal confirmation with a bullish RSI and volume surge gives a lower-priced, diversifying software/security position to deploy idle cash."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14355.735246181488,
     "cash": 789.2850012779236,
