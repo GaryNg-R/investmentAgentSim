@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-09-25T21:01:10.181783+00:00",
+  "saved_at": "2026-09-28T13:01:16.693522+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,32 @@
         "action": "BUY",
         "ticker": "FIGS",
         "conviction": "high",
-        "reasoning": "Top-scoring candidate (100) with all four confirming signals \u2014 bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge."
+        "reasoning": "Score 100 with full signal confirmation (RSI 66.9 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge)."
+      },
+      {
+        "action": "BUY",
+        "ticker": "PENG",
+        "conviction": "high",
+        "reasoning": "Score 100 with full signal confirmation (RSI 63.5 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge)."
       },
       {
         "action": "BUY",
         "ticker": "AEHR",
-        "conviction": "high",
-        "reasoning": "Tied for top score with full multi-signal confirmation (RSI, MACD, SMA-20, volume), and open cash plus available slots favor deploying capital per the risk rules."
+        "conviction": "medium",
+        "reasoning": "Score 100 with full signal confirmation but RSI 69.7 is close to the overbought line, so sizing smaller than the other two picks."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat today (NASDAQ and S&P500 both +0.5%), a neutral session with no major risk-on or risk-off signal. With 3 open slots and cash above the $500 threshold, we deployed into FIGS and AEHR, the two highest-scoring candidates showing full technical confirmation (RSI, MACD, price vs SMA-20, and volume surge), while keeping the rest of the portfolio untouched.",
+    "briefing": "Market is neutral today with NASDAQ and S&P500 both up about 0.5%. Rather than holding idle cash with 3 open slots and $789 available, we're deploying into three stocks (FIGS, PENG, AEHR) that all show the strongest possible technical setup: bullish RSI, MACD crossover, rising momentum, price above trend, and a volume surge. Existing positions are held unchanged since the market doesn't warrant exiting winners on a quiet day.",
     "market_education": {
-      "summary_en": "Today's market was largely directionless, with both the NASDAQ and S&P 500 up a modest 0.5%, suggesting no strong catalyst pushed investors decisively toward risk-on or risk-off positioning. In the absence of major news, price action reflected routine trading rather than a reaction to a specific headline. Sector-level moves were likely driven by individual stock fundamentals and technical setups rather than broad macro themes.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8d70\u52e2\u53cd\u8986\uff0c\u7d0d\u6307\u53ca\u6a19\u666e500\u5747\u53ea\u9304\u5f97\u7d040.5%\u7684\u6eab\u548c\u5347\u5e45\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u5291,\u6295\u8cc7\u8005\u672a\u6709\u660e\u986f\u8f49\u5411\u98a8\u96aa\u504f\u597d\u6216\u907f\u96aa\u60c5\u7dd2\u3002\u5728\u7f3a\u4e4f\u91cd\u5927\u6d88\u606f\u7684\u60c5\u6cc1\u4e0b\uff0c\u50f9\u683c\u8d70\u52e2\u8f03\u591a\u53cd\u6620\u65e5\u5e38\u4ea4\u6613\u64cd\u4f5c\uff0c\u800c\u975e\u5c0d\u500b\u5225\u982d\u689d\u65b0\u805e\u7684\u5373\u6642\u53cd\u61c9\u3002\u677f\u584a\u8868\u73fe\u9810\u6599\u4e3b\u8981\u7531\u500b\u80a1\u57fa\u672c\u9762\u53ca\u6280\u8853\u8d70\u52e2\u4e3b\u5c0e\uff0c\u800c\u975e\u5b8f\u89c0\u4e3b\u984c\u5e36\u52d5\u3002",
+      "summary_en": "Major indices drifted modestly higher today, with the NASDAQ and S&P 500 each up around 0.5% in a broadly neutral, low-volatility session. No major catalyst news was available in today's feed to explain the move, suggesting it reflects routine trading flow rather than a specific headline event. Stock-specific momentum was more notable than the index-level move, with several small and mid-cap names showing strong technical breakouts on above-average volume.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u6eab\u548c\u5411\u4e0a\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53ca\u6a19\u666e500\u6307\u6578\u5404\u4e0a\u6f32\u7d040.5%\uff0c\u5c6c\u65bc\u4e2d\u6027\u3001\u4f4e\u6ce2\u52d5\u7684\u4ea4\u6613\u65e5\u3002\u76ee\u524d\u4e26\u7121\u91cd\u5927\u65b0\u805e\u53ef\u89e3\u91cb\u4eca\u65e5\u8d70\u52e2\uff0c\u986f\u793a\u9019\u8f03\u53ef\u80fd\u662f\u4f8b\u884c\u8cc7\u91d1\u6d41\u52d5\u6240\u81f4\uff0c\u800c\u975e\u53d7\u7279\u5b9a\u6d88\u606f\u9762\u5f71\u97ff\u3002\u76f8\u8f03\u65bc\u5927\u76e4\u8868\u73fe\uff0c\u500b\u80a1\u5c64\u9762\u7684\u52d5\u80fd\u66f4\u70ba\u7a81\u51fa\uff0c\u591a\u96bb\u4e2d\u5c0f\u578b\u80a1\u5728\u6210\u4ea4\u91cf\u653e\u5927\u7684\u60c5\u6cc1\u4e0b\u51fa\u73fe\u660e\u986f\u6280\u8853\u9762\u7a81\u7834\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Multi-Signal Confirmation",
-      "explanation_en": "When picking a stock, relying on just one indicator (like RSI or MACD alone) can be misleading \u2014 random noise can trigger a single signal without real momentum behind it. Multi-signal confirmation means waiting until several independent indicators (RSI, MACD crossover, price vs. moving average, and volume) all point the same bullish direction together, which is a stronger sign of genuine buying interest.",
-      "explanation_zh": "\u9078\u80a1\u6642\u53ea\u4f9d\u8cf4\u55ae\u4e00\u6307\u6a19\uff08\u4f8b\u5982RSI\u6216MACD\uff09\u53ef\u80fd\u6703\u7522\u751f\u8aa4\u5c0e\uff0c\u56e0\u70ba\u96a8\u6a5f\u7684\u5e02\u5834\u96dc\u8a0a\u6709\u6642\u6703\u89f8\u767c\u55ae\u4e00\u8a0a\u865f\uff0c\u800c\u80cc\u5f8c\u672a\u5fc5\u6709\u771f\u6b63\u7684\u52d5\u529b\u652f\u6301\u3002\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u7b49\u5f85\u591a\u500b\u7368\u7acb\u6307\u6a19\uff08RSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\uff09\u540c\u6642\u767c\u51fa\u4e00\u81f4\u7684\u770b\u6f32\u8a0a\u865f\uff0c\u9019\u6a23\u624d\u662f\u8f03\u53ef\u9760\u7684\u771f\u5be6\u8cb7\u76e4\u5f37\u52c1\u7684\u8de1\u8c61\u3002"
+      "explanation_en": "When several technical indicators \u2014 like RSI, MACD, price trend, and trading volume \u2014 all point the same bullish direction at once, it's a stronger signal than any single indicator alone. Today's buys were chosen because they showed all four signals together, which reduces the chance of chasing a random price blip.",
+      "explanation_zh": "\u7576\u591a\u500b\u6280\u8853\u6307\u6a19\uff08\u4f8b\u5982RSI\u3001MACD\u3001\u50f9\u683c\u8da8\u52e2\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u500b\u770b\u6f32\u65b9\u5411\u6642\uff0c\u9019\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u5177\u8aaa\u670d\u529b\u3002\u4eca\u65e5\u9078\u64c7\u8cb7\u5165\u7684\u80a1\u7968\u540c\u6642\u7b26\u5408\u9019\u56db\u9805\u8a0a\u865f\uff0c\u80fd\u964d\u4f4e\u8ffd\u9ad8\u5230\u96a8\u6a5f\u50f9\u683c\u6ce2\u52d5\u7684\u98a8\u96aa\u3002"
     }
   }
 }
