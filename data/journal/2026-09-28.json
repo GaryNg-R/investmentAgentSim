@@ -1,30 +1,17 @@
 {
   "date": "2026-09-28",
-  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.7%, S&P 500 -0.6%), a neutral session overall. With $889 in cash and 3 open slots, we deployed into CMG and ELVN, the only two candidates showing full 5-signal confirmation (RSI, MACD crossover, rising momentum, price trend, and volume surge), sized moderately given the lack of a broader risk-on tailwind.",
+  "briefing": "Markets drifted lower today with NASDAQ -0.6% and S&P 500 -0.5%, a neutral-to-slightly-negative session without a clear risk-on catalyst. Several screened candidates (DFTX, BB, LQDA, VOYG and others) show strong bullish technicals, but per past lessons we hold off deploying the remaining cash until a genuine risk-on day confirms broader participation. Existing positions are held unchanged, with stop-loss and profit-target rules continuing to manage risk automatically.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of relying on just one indicator, traders look for multiple technical signals to agree at once — like RSI in a healthy range, a bullish MACD crossover, price above its moving average, and a volume surge together. When all these align, it suggests real buying interest rather than random noise, which is why CMG and ELVN stood out today even in a flat market.",
-    "explanation_zh": "與其只依賴單一指標，交易者會尋找多個技術訊號同時出現一致的情況——例如RSI處於健康區間、MACD黃金交叉、股價站上均線，加上成交量放大。當這些訊號同時出現時，代表背後可能有真實的買盤支撐，而非單純雜訊，這也是為什麼CMG和ELVN即使在平淡的市場中仍然脫穎而出。"
+    "term": "Risk-Off (Patience)",
+    "explanation_en": "A 'risk-off' or neutral day is when the market shows no strong conviction in either direction, and the disciplined move is often to hold cash rather than force new trades. Even with strong-looking candidates available, waiting for a genuine risk-on signal (like a sharp market rally) helps avoid chasing momentum that may not follow through.",
+    "explanation_zh": "「觀望」或中性市況是指市場缺乏明確方向,此時謹慎的做法往往是持有現金,而非勉強進場交易。即使有看似強勢的候選股票,等待真正的「風險偏好」訊號(例如大市明顯上升)出現,有助避免追高後動力未能持續的風險。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent moves rather than a clear risk-off signal. Trading was largely rotational, with strength concentrated in a handful of names showing strong technical setups rather than broad-based sector moves. Overall breadth stayed neutral, consistent with a consolidation phase in the market.",
-    "summary_zh": "今日大盤小幅下跌，NASDAQ跌0.7%、標普500跌0.6%，並無單一明確的利空消息，比較像是近期升勢後的盤整而非全面risk-off。市場資金呈現輪動格局，強勢股集中在技術面訊號完整的個股，而非全面性的板塊性行情。整體市場寬度維持中性，符合盤整階段的特徵。",
+    "summary_en": "Broad indices slipped modestly today, with NASDAQ down 0.6% and the S&P 500 down 0.5%, reflecting a cautious, low-conviction tone across the market rather than any single dramatic driver. Trading volumes and price action suggest investors are consolidating recent gains rather than aggressively buying or selling. Without a clear catalyst, this kind of drift is typical of a market pausing to digest prior moves before its next directional push.",
+    "summary_zh": "今日大市普遍輕微下跌,納指跌0.6%,標普500指數跌0.5%,反映市場氣氛審慎,缺乏明確方向。成交及價格走勢顯示投資者傾向鞏固早前升幅,而非積極買賣。在沒有明顯催化因素下,這種橫盤整固走勢屬市場消化過往升勢、等待下一步方向的正常現象。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "CMG",
-      "conviction": "medium",
-      "reasoning": "Full signal confirmation (RSI 60.2, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) meets the multi-signal bar for a buy even on a neutral market day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "ELVN",
-      "conviction": "medium",
-      "reasoning": "Same full multi-signal confirmation as CMG (RSI bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies deploying idle cash into an open slot."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,

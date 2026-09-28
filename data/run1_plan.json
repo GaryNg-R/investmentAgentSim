@@ -1,32 +1,19 @@
 {
-  "saved_at": "2026-09-28T17:00:49.576321+00:00",
+  "saved_at": "2026-09-28T18:00:50.508752+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "CMG",
-        "conviction": "medium",
-        "reasoning": "Full signal confirmation (RSI 60.2, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) meets the multi-signal bar for a buy even on a neutral market day."
-      },
-      {
-        "action": "BUY",
-        "ticker": "ELVN",
-        "conviction": "medium",
-        "reasoning": "Same full multi-signal confirmation as CMG (RSI bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies deploying idle cash into an open slot."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.7%, S&P 500 -0.6%), a neutral session overall. With $889 in cash and 3 open slots, we deployed into CMG and ELVN, the only two candidates showing full 5-signal confirmation (RSI, MACD crossover, rising momentum, price trend, and volume surge), sized moderately given the lack of a broader risk-on tailwind.",
+    "briefing": "Markets drifted lower today with NASDAQ -0.6% and S&P 500 -0.5%, a neutral-to-slightly-negative session without a clear risk-on catalyst. Several screened candidates (DFTX, BB, LQDA, VOYG and others) show strong bullish technicals, but per past lessons we hold off deploying the remaining cash until a genuine risk-on day confirms broader participation. Existing positions are held unchanged, with stop-loss and profit-target rules continuing to manage risk automatically.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent moves rather than a clear risk-off signal. Trading was largely rotational, with strength concentrated in a handful of names showing strong technical setups rather than broad-based sector moves. Overall breadth stayed neutral, consistent with a consolidation phase in the market.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u5c0f\u5e45\u4e0b\u8dcc\uff0cNASDAQ\u8dcc0.7%\u3001\u6a19\u666e500\u8dcc0.6%\uff0c\u4e26\u7121\u55ae\u4e00\u660e\u78ba\u7684\u5229\u7a7a\u6d88\u606f\uff0c\u6bd4\u8f03\u50cf\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u76e4\u6574\u800c\u975e\u5168\u9762risk-off\u3002\u5e02\u5834\u8cc7\u91d1\u5448\u73fe\u8f2a\u52d5\u683c\u5c40\uff0c\u5f37\u52e2\u80a1\u96c6\u4e2d\u5728\u6280\u8853\u9762\u8a0a\u865f\u5b8c\u6574\u7684\u500b\u80a1\uff0c\u800c\u975e\u5168\u9762\u6027\u7684\u677f\u584a\u6027\u884c\u60c5\u3002\u6574\u9ad4\u5e02\u5834\u5bec\u5ea6\u7dad\u6301\u4e2d\u6027\uff0c\u7b26\u5408\u76e4\u6574\u968e\u6bb5\u7684\u7279\u5fb5\u3002",
+      "summary_en": "Broad indices slipped modestly today, with NASDAQ down 0.6% and the S&P 500 down 0.5%, reflecting a cautious, low-conviction tone across the market rather than any single dramatic driver. Trading volumes and price action suggest investors are consolidating recent gains rather than aggressively buying or selling. Without a clear catalyst, this kind of drift is typical of a market pausing to digest prior moves before its next directional push.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u8f15\u5fae\u4e0b\u8dcc,\u7d0d\u6307\u8dcc0.6%,\u6a19\u666e500\u6307\u6578\u8dcc0.5%,\u53cd\u6620\u5e02\u5834\u6c23\u6c1b\u5be9\u614e,\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u3002\u6210\u4ea4\u53ca\u50f9\u683c\u8d70\u52e2\u986f\u793a\u6295\u8cc7\u8005\u50be\u5411\u978f\u56fa\u65e9\u524d\u5347\u5e45,\u800c\u975e\u7a4d\u6975\u8cb7\u8ce3\u3002\u5728\u6c92\u6709\u660e\u986f\u50ac\u5316\u56e0\u7d20\u4e0b,\u9019\u7a2e\u6a6b\u76e4\u6574\u56fa\u8d70\u52e2\u5c6c\u5e02\u5834\u6d88\u5316\u904e\u5f80\u5347\u52e2\u3001\u7b49\u5f85\u4e0b\u4e00\u6b65\u65b9\u5411\u7684\u6b63\u5e38\u73fe\u8c61\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Instead of relying on just one indicator, traders look for multiple technical signals to agree at once \u2014 like RSI in a healthy range, a bullish MACD crossover, price above its moving average, and a volume surge together. When all these align, it suggests real buying interest rather than random noise, which is why CMG and ELVN stood out today even in a flat market.",
-      "explanation_zh": "\u8207\u5176\u53ea\u4f9d\u8cf4\u55ae\u4e00\u6307\u6a19\uff0c\u4ea4\u6613\u8005\u6703\u5c0b\u627e\u591a\u500b\u6280\u8853\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u4e00\u81f4\u7684\u60c5\u6cc1\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda\uff0c\u52a0\u4e0a\u6210\u4ea4\u91cf\u653e\u5927\u3002\u7576\u9019\u4e9b\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u6642\uff0c\u4ee3\u8868\u80cc\u5f8c\u53ef\u80fd\u6709\u771f\u5be6\u7684\u8cb7\u76e4\u652f\u6490\uff0c\u800c\u975e\u55ae\u7d14\u96dc\u8a0a\uff0c\u9019\u4e5f\u662f\u70ba\u4ec0\u9ebcCMG\u548cELVN\u5373\u4f7f\u5728\u5e73\u6de1\u7684\u5e02\u5834\u4e2d\u4ecd\u7136\u812b\u7a4e\u800c\u51fa\u3002"
+      "term": "Risk-Off (Patience)",
+      "explanation_en": "A 'risk-off' or neutral day is when the market shows no strong conviction in either direction, and the disciplined move is often to hold cash rather than force new trades. Even with strong-looking candidates available, waiting for a genuine risk-on signal (like a sharp market rally) helps avoid chasing momentum that may not follow through.",
+      "explanation_zh": "\u300c\u89c0\u671b\u300d\u6216\u4e2d\u6027\u5e02\u6cc1\u662f\u6307\u5e02\u5834\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411,\u6b64\u6642\u8b39\u614e\u7684\u505a\u6cd5\u5f80\u5f80\u662f\u6301\u6709\u73fe\u91d1,\u800c\u975e\u52c9\u5f37\u9032\u5834\u4ea4\u6613\u3002\u5373\u4f7f\u6709\u770b\u4f3c\u5f37\u52e2\u7684\u5019\u9078\u80a1\u7968,\u7b49\u5f85\u771f\u6b63\u7684\u300c\u98a8\u96aa\u504f\u597d\u300d\u8a0a\u865f(\u4f8b\u5982\u5927\u5e02\u660e\u986f\u4e0a\u5347)\u51fa\u73fe,\u6709\u52a9\u907f\u514d\u8ffd\u9ad8\u5f8c\u52d5\u529b\u672a\u80fd\u6301\u7e8c\u7684\u98a8\u96aa\u3002"
     }
   }
 }
