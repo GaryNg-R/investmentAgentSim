@@ -1,17 +1,30 @@
 {
   "date": "2026-09-28",
-  "briefing": "Markets were mildly risk-off today with NASDAQ down 0.9% and the S&P 500 down 0.8%. None of the screened candidates showed the full four-signal confirmation (crossover, bullish RSI, price above SMA-20, and volume surge) needed for a high-conviction buy, so we're holding cash and existing positions rather than forcing a trade.",
+  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.7%, S&P 500 -0.6%), a neutral session overall. With $889 in cash and 3 open slots, we deployed into CMG and ELVN, the only two candidates showing full 5-signal confirmation (RSI, MACD crossover, rising momentum, price trend, and volume surge), sized moderately given the lack of a broader risk-on tailwind.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A risk-off day is when investors pull back from riskier assets amid uncertainty, causing broad indices to dip even without a specific negative catalyst. On days like this, the disciplined move is to hold existing positions and wait for a clearer, well-confirmed setup rather than forcing new trades just to use available cash.",
-    "explanation_zh": "「避險」（Risk-Off）指投資人在不確定氣氛下減少持有風險性資產，導致大盤指數普遍下跌，即使沒有明確的利空消息。在這類日子裡，較穩健的做法是持有現有部位、耐心等待更明確且有成交量確認的進場訊號，而不是為了消化現金而勉強交易。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of relying on just one indicator, traders look for multiple technical signals to agree at once — like RSI in a healthy range, a bullish MACD crossover, price above its moving average, and a volume surge together. When all these align, it suggests real buying interest rather than random noise, which is why CMG and ELVN stood out today even in a flat market.",
+    "explanation_zh": "與其只依賴單一指標，交易者會尋找多個技術訊號同時出現一致的情況——例如RSI處於健康區間、MACD黃金交叉、股價站上均線，加上成交量放大。當這些訊號同時出現時，代表背後可能有真實的買盤支撐，而非單純雜訊，這也是為什麼CMG和ELVN即使在平淡的市場中仍然脫穎而出。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted lower today, with both the NASDAQ and S&P 500 posting modest declines of under 1%. There's no single dominant catalyst evident from the available data — this looks like a routine pullback rather than a sharp risk-off event. Momentum candidates remain plentiful but lack the volume confirmation that typically separates a real breakout from routine drift.",
-    "summary_zh": "今日大盤普遍走弱，納斯達克及標普500指數皆下跌不足1%。從現有數據看不出明顯的單一觸發因素，較像是常規回調而非劇烈的避險賣壓。市場上雖然仍有不少動能股票候選，但普遍缺乏成交量放大的確認訊號，難以判斷是真正突破還是普通波動。",
+    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent moves rather than a clear risk-off signal. Trading was largely rotational, with strength concentrated in a handful of names showing strong technical setups rather than broad-based sector moves. Overall breadth stayed neutral, consistent with a consolidation phase in the market.",
+    "summary_zh": "今日大盤小幅下跌，NASDAQ跌0.7%、標普500跌0.6%，並無單一明確的利空消息，比較像是近期升勢後的盤整而非全面risk-off。市場資金呈現輪動格局，強勢股集中在技術面訊號完整的個股，而非全面性的板塊性行情。整體市場寬度維持中性，符合盤整階段的特徵。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "CMG",
+      "conviction": "medium",
+      "reasoning": "Full signal confirmation (RSI 60.2, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) meets the multi-signal bar for a buy even on a neutral market day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ELVN",
+      "conviction": "medium",
+      "reasoning": "Same full multi-signal confirmation as CMG (RSI bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies deploying idle cash into an open slot."
+    }
+  ],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
