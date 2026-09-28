@@ -1,17 +1,24 @@
 {
   "date": "2026-09-28",
-  "briefing": "Markets pulled back modestly today (NASDAQ -0.9%, S&P 500 -0.8%), a neutral-to-cautious session rather than a genuine risk-on setup. Despite several candidates (VSXY, NAMS, BURL) showing full bullish confirmation, we're holding cash and existing positions rather than forcing new buys on a down day, consistent with the lesson that neutral/negative sessions call for patience while stop-losses and profit targets do their job on current holdings.",
+  "briefing": "Markets were roughly flat-to-down today (NASDAQ -0.9%, S&P 500 -0.8%), a neutral session with no clear risk-on catalyst. Rather than force capital into the market broadly, we made one targeted buy in ALVO, the only candidate showing all four confirmation signals (RSI, MACD crossover, momentum, and volume) at once; existing positions were held unchanged.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors turn cautious and pull back from riskier assets like stocks, often shown by broad index declines without a specific bad-news trigger. The smart move on these days is usually to sit tight rather than chase new positions, since forcing trades into a soft market increases the odds of buying right before further weakness.",
-    "explanation_zh": "「risk-off（避險情緒）」是指投資者轉趨審慎，減少持有股票等高風險資產，通常表現為大市普遍下跌，而非有特定壞消息觸發。在這種日子，較明智的做法通常是按兵不動，而非勉強開新倉，因為在偏弱的市況下強行入市，容易在市況進一步走弱前追高買入。"
+    "term": "Signal Confluence",
+    "explanation_en": "Signal confluence means waiting for multiple independent indicators — like RSI, MACD, price trend, and volume — to all point the same direction before acting, rather than relying on just one. It reduces the chance of chasing a false signal, especially on days when the overall market isn't giving a clear direction.",
+    "explanation_zh": "訊號共振是指等待多個獨立指標（如RSI、MACD、價格趨勢與成交量）同時指向同一方向後才進場，而非僅依賴單一訊號。這樣可以降低追高殺低、誤判假訊號的風險，尤其是在大盤方向不明確的日子裡更為重要。"
   },
   "market_education": {
-    "summary_en": "Major indices slipped today, with the NASDAQ down 0.9% and the S&P 500 down 0.8%, reflecting a broadly cautious tone across equities. Without a clear positive catalyst, most sectors traded lower in sympathy with the overall market pullback. This kind of mild, broad-based weakness often reflects profit-taking or hesitation ahead of upcoming data rather than a fundamental shift in outlook.",
-    "summary_zh": "今日大市普遍回軟，納指下跌0.9%，標普500指數跌0.8%，反映市場氣氛偏向審慎。由於缺乏明確利好消息帶動，大部分板塊跟隨大市走弱。這類溫和而廣泛的回調，往往反映獲利回吐或投資者在重要數據公布前觀望，而非基本面出現根本轉變。",
+    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent moves rather than a shift in sentiment. Trading volume across most names was unremarkable, consistent with a consolidation day rather than broad risk-off selling. A handful of individual stocks, like ALVO, still showed strong technical setups even as the broader market stayed flat.",
+    "summary_zh": "今日大盤指數小幅下跌，並無單一主導因素，較像是近期漲勢後的整理，而非市場情緒轉向風險趨避。多數個股成交量平淡，顯示屬於盤整日而非全面拋售。不過部分個股如ALVO在大盤持平的情況下，仍展現出強勁的技術面訊號。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "ALVO",
+      "conviction": "high",
+      "reasoning": "All four confirmation signals align (RSI 66.3 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge), indicating genuine institutional buying despite a flat-to-slightly-negative broader market."
+    }
+  ],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
