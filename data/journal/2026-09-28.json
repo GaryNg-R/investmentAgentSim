@@ -1,17 +1,30 @@
 {
   "date": "2026-09-28",
-  "briefing": "Markets drifted lower today with NASDAQ -0.6% and S&P 500 -0.5%, a neutral-to-slightly-negative session without a clear risk-on catalyst. Several screened candidates (DFTX, BB, LQDA, VOYG and others) show strong bullish technicals, but per past lessons we hold off deploying the remaining cash until a genuine risk-on day confirms broader participation. Existing positions are held unchanged, with stop-loss and profit-target rules continuing to manage risk automatically.",
+  "briefing": "Markets drifted slightly lower today with NASDAQ and S&P500 both down about 0.6%, a neutral session with no major risk-off signal. With cash above the $500 threshold and 3 open slots, we made two measured medium-conviction buys (BURL, MBX) on clean technical setups while holding all existing positions.",
   "daily_lesson": {
-    "term": "Risk-Off (Patience)",
-    "explanation_en": "A 'risk-off' or neutral day is when the market shows no strong conviction in either direction, and the disciplined move is often to hold cash rather than force new trades. Even with strong-looking candidates available, waiting for a genuine risk-on signal (like a sharp market rally) helps avoid chasing momentum that may not follow through.",
-    "explanation_zh": "「觀望」或中性市況是指市場缺乏明確方向,此時謹慎的做法往往是持有現金,而非勉強進場交易。即使有看似強勢的候選股票,等待真正的「風險偏好」訊號(例如大市明顯上升)出現,有助避免追高後動力未能持續的風險。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means checking that multiple technical signals — like a MACD crossover, healthy RSI, and price above its moving average — all agree before buying, rather than acting on just one signal. Today's buys were chosen because they showed this kind of alignment, which reduces the chance of chasing a false or short-lived move.",
+    "explanation_zh": "動能確認是指在買入前檢查多項技術指標（如MACD黃金交叉、健康的RSI水平、股價站上均線）是否同時一致，而非僅憑單一訊號行動。今日選中的標的正是因為呈現這種多重訊號一致的情況，有助降低追高或誤判短暫波動的風險。"
   },
   "market_education": {
-    "summary_en": "Broad indices slipped modestly today, with NASDAQ down 0.6% and the S&P 500 down 0.5%, reflecting a cautious, low-conviction tone across the market rather than any single dramatic driver. Trading volumes and price action suggest investors are consolidating recent gains rather than aggressively buying or selling. Without a clear catalyst, this kind of drift is typical of a market pausing to digest prior moves before its next directional push.",
-    "summary_zh": "今日大市普遍輕微下跌,納指跌0.6%,標普500指數跌0.5%,反映市場氣氛審慎,缺乏明確方向。成交及價格走勢顯示投資者傾向鞏固早前升幅,而非積極買賣。在沒有明顯催化因素下,這種橫盤整固走勢屬市場消化過往升勢、等待下一步方向的正常現象。",
+    "summary_en": "Both NASDAQ and the S&P 500 slipped roughly 0.6% today in quiet, directionless trading with no single dominant catalyst driving the move. This kind of mild, broad-based pullback is typical of consolidation after recent gains rather than a shift in trend. No major economic or company-specific headlines stood out as the primary driver.",
+    "summary_zh": "納斯達克指數與標普500指數今日雙雙下跌約0.6%，市場交投清淡且缺乏明顯方向，未見單一主導因素推動走勢。這種溫和且普遍性的回檔通常反映近期漲勢後的整理，而非趨勢轉變的訊號，亦未見重大經濟或個股新聞成為主要推手。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "BURL",
+      "conviction": "medium",
+      "reasoning": "MACD bullish crossover with rising histogram and price above SMA-20 in a non-overbought RSI zone (67.3) signals healthy momentum in an established retailer."
+    },
+    {
+      "action": "BUY",
+      "ticker": "MBX",
+      "conviction": "medium",
+      "reasoning": "Clean multi-signal setup (MACD crossover, rising histogram, price above SMA-20, RSI 56.4) offers diversification into pharma without chasing an overbought name."
+    }
+  ],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
