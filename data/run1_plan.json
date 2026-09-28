@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-09-28T14:00:52.829261+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-09-28T15:00:29.822086+00:00",
+  "market_direction": "risk_off",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "PSKY",
-        "conviction": "medium",
-        "reasoning": "Top-scored candidate with RSI in the bullish zone, a fresh MACD crossover, rising histogram, and price above SMA-20 gives genuine multi-signal confirmation despite a neutral broader market."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.5%, S&P500 -0.4%), so we held our seven existing positions rather than forcing trades. We added one selective position, PSKY, which showed strong individual technical confirmation even though the overall market lacked a clear risk-on signal.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Markets fell today with NASDAQ down 1.2% and S&P 500 down 0.9%, putting conditions in risk-off territory. No new candidates were screened, so we're holding our 7 existing positions and keeping cash in reserve rather than forcing a buy.",
     "market_education": {
-      "summary_en": "Broad indices drifted modestly lower today with no single dominant catalyst, reflecting a pause rather than a clear directional move. In quiet, mixed sessions like this, individual stocks can still show strong technical setups even while the overall market is directionless. We used that divergence to selectively add one high-conviction technical candidate rather than buying broadly.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6307\u6578\u5c0f\u5e45\u56de\u843d\uff0c\u672a\u898b\u660e\u986f\u55ae\u4e00\u50ac\u5316\u56e0\u7d20\uff0c\u53cd\u6620\u5e02\u5834\u8655\u65bc\u89c0\u671b\u6574\u7406\u968e\u6bb5\u800c\u975e\u660e\u78ba\u65b9\u5411\u6027\u8d70\u52e2\u3002\u5728\u9019\u7a2e\u65b9\u5411\u4e0d\u660e\u7684\u76e4\u6574\u884c\u60c5\u4e2d\uff0c\u500b\u5225\u80a1\u7968\u4ecd\u53ef\u80fd\u51fa\u73fe\u5f37\u52c1\u7684\u6280\u8853\u9762\u8a0a\u865f\u3002\u6211\u5011\u5229\u7528\u9019\u7a2e\u5206\u6b67\uff0c\u9078\u64c7\u6027\u5730\u52a0\u78bc\u4e00\u6a94\u6280\u8853\u9762\u8a0a\u865f\u9f4a\u5099\u7684\u9ad8\u4fe1\u5fc3\u6a19\u7684\uff0c\u800c\u975e\u5168\u9762\u8cb7\u5165\u3002",
+      "summary_en": "Broad indices declined today, with the NASDAQ underperforming the S&P 500, suggesting growth and tech-heavy names faced more selling pressure than the broader market. This kind of risk-off move typically reflects investors rotating away from higher-beta stocks amid uncertainty. Without specific confirmed headlines available today, the safest read is a broad-based pullback rather than a single-stock event.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u4e0b\u8dcc\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u6307\u6578\uff0c\u986f\u793a\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u627f\u53d7\u7684\u8ce3\u58d3\u8f03\u5927\u76e4\u66f4\u91cd\u3002\u9019\u985e\u907f\u96aa\u60c5\u7dd2\u5347\u6eab\u7684\u8d70\u52e2\uff0c\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u4eba\u5f9e\u9ad8\u6ce2\u52d5\u6027\u80a1\u7968\u8f49\u5411\u8f03\u4fdd\u5b88\u7684\u8cc7\u7522\u3002\u7531\u65bc\u4eca\u65e5\u66ab\u7121\u78ba\u5207\u65b0\u805e\u4f86\u6e90\u53ef\u4f9b\u5f15\u7528\uff0c\u8f03\u7a69\u59a5\u7684\u89e3\u8b80\u662f\u6574\u9ad4\u5e02\u5834\u7684\u666e\u904d\u56de\u6a94\uff0c\u800c\u975e\u55ae\u4e00\u500b\u80a1\u4e8b\u4ef6\u6240\u81f4\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like RSI in a healthy range, a MACD crossover, and price above its moving average \u2014 to agree before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\uff0c\u7b49\u5f85\u591a\u9805\u6280\u8853\u6307\u6a19\uff08\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda\uff09\u540c\u6642\u767c\u51fa\u4e00\u81f4\u8a0a\u865f\uff0c\u800c\u975e\u50c5\u6191\u55ae\u4e00\u6307\u6a19\u884c\u52d5\u3002\u9019\u6a23\u53ef\u4ee5\u964d\u4f4e\u8ffd\u9ad8\u6216\u8aa4\u5224\u77ed\u66ab\u6ce2\u52d5\u7684\u98a8\u96aa\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "'Risk-off' describes a market mood where investors sell riskier assets like growth stocks and move toward safer holdings or cash. On days like this, it's often better to hold existing positions and avoid chasing new trades until momentum turns positive again.",
+      "explanation_zh": "\u300c\u907f\u96aa\u60c5\u7dd2\uff08Risk-Off\uff09\u300d\u662f\u6307\u6295\u8cc7\u4eba\u62cb\u552e\u6210\u9577\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff0c\u8f49\u800c\u6301\u6709\u73fe\u91d1\u6216\u8f03\u5b89\u5168\u8cc7\u7522\u7684\u5e02\u5834\u6c1b\u570d\u3002\u5728\u9019\u7a2e\u65e5\u5b50\uff0c\u901a\u5e38\u6700\u597d\u6301\u6709\u73fe\u6709\u90e8\u4f4d\u3001\u907f\u514d\u8ffd\u52a0\u65b0\u4ea4\u6613\uff0c\u76f4\u5230\u5e02\u5834\u52d5\u80fd\u91cd\u65b0\u8f49\u70ba\u6b63\u5411\u70ba\u6b62\u3002"
     }
   }
 }
