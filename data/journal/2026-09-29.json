@@ -1,22 +1,22 @@
 {
   "date": "2026-09-29",
-  "briefing": "Markets were flat today (NASDAQ +0.1%, S&P 500 -0.1%) with no clear directional signal. Rather than force capital into the market on a neutral day, we deployed into LBTYB, the one stock showing full multi-signal confirmation including a volume surge, and left the other two open slots idle to wait for genuine risk-on setups.",
+  "briefing": "Markets were flat to slightly down (NASDAQ -0.1%, S&P 500 -0.2%) with no clear risk-on or risk-off signal. Rather than fully deploying all $889 of available cash into three new positions on a lukewarm day, I'm adding one high-conviction position (MGNI) that shows full multi-signal confirmation, keeping remaining cash and open slots ready for a stronger setup.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading activity, which suggests real institutional buying rather than a random blip. A stock rising on low volume is less trustworthy than one rising on a volume surge, since the latter shows many market participants agree on the direction.",
-    "explanation_zh": "成交量確認是指檢查價格變動是否伴隨高於平常的交易活動，這顯示可能有真正的機構資金買入，而非隨機波動。股價在低成交量下上升的可信度較低，相反若配合成交量急增則顯示大量市場參與者認同該方向。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying on just one bullish sign, experienced investors look for multiple signals lining up together — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge — before committing money. Today's buy candidate showed all four, which is a much stronger setup than a stock with just one bullish signal.",
+    "explanation_zh": "有經驗的投資者不會只憑單一利好訊號就進場，而是等待多個訊號同時出現——例如RSI處於健康區間、MACD出現黃金交叉、股價高於移動平均線，以及成交量放大——才決定投入資金。今日選中的標的同時符合這四項條件，比只有單一利好訊號的股票具備更強的進場理據。"
   },
   "market_education": {
-    "summary_en": "Major indices traded in a narrow range today, with the NASDAQ inching up 0.1% while the S&P 500 slipped 0.1%, reflecting a lack of fresh macro catalysts. Trading volume across most names was unremarkable, consistent with a consolidation phase rather than a trending move. One notable exception was LBTYB, which saw a volume surge alongside a bullish MACD crossover, suggesting stock-specific institutional buying rather than a broad market shift.",
-    "summary_zh": "大市今日窄幅上落，納指微升0.1%，標普500則微跌0.1%，反映市場缺乏明確的宏觀催化劑。大部分股份成交量平平，屬於整固階段而非趨勢性行情。唯獨LBTYB出現成交量急增，配合MACD黃金交叉，顯示個股層面可能有機構資金流入，而非整體市場轉向。",
+    "summary_en": "Major indices traded roughly flat today, with the NASDAQ down about 0.1% and the S&P 500 down about 0.2%, reflecting a lack of major catalysts rather than any broad selloff. Trading stayed range-bound as investors awaited clearer directional signals before committing more capital. No single headline drove the move — it was a quiet, low-conviction session.",
+    "summary_zh": "今日大盤走勢大致持平，納指下跌約0.1%，標普500下跌約0.2%，主要反映市場缺乏重大催化因素，而非出現廣泛拋售。交投維持區間震盪，投資者在加碼前仍等待更明確的方向訊號。今日並無單一重大消息主導市場走勢，屬於淡靜、觀望氣氛濃厚的一日。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "LBTYB",
+      "ticker": "MGNI",
       "conviction": "high",
-      "reasoning": "Only candidate with full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20) plus a volume surge indicating institutional participation, justifying a buy despite the flat overall market."
+      "reasoning": "Top-scoring candidate (100) with all four confirmation signals — bullish RSI, MACD crossover, rising histogram, and volume surge — meeting the strategy's high-conviction bar."
     }
   ],
   "outcomes": {
