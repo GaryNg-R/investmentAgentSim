@@ -1,24 +1,17 @@
 {
   "date": "2026-09-29",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.2%, S&P 500 -0.3%), a neutral session with no clear directional catalyst. With $889 in cash and 3 open slots, we deployed a portion into PLBL, the only candidate showing all five bullish signals including a volume surge, while leaving remaining positions untouched per our rule of not exiting strong holdings on quiet days.",
+  "briefing": "Markets were flat and slightly negative today (NASDAQ -0.3%, S&P 500 -0.3%), a neutral session rather than a clear risk-on move. Despite several high-scoring candidates (WRBY, RCL, MGNI, AGX and others at 95) showing strong technical setups, we're holding the $889 cash and 3 open slots rather than forcing new positions on a low-conviction day, consistent with past lessons that neutral days call for patience. All 7 existing positions remain held and continue to be governed by automatic stop-loss/profit-target rules.",
   "daily_lesson": {
-    "term": "MACD Crossover",
-    "explanation_en": "A MACD crossover happens when a stock's short-term momentum line moves above its signal line, often seen as an early sign that buying pressure is building. Traders combine it with other signals, like RSI and volume, to confirm a genuine trend rather than a false alarm. Today's buy candidate showed this crossover alongside several other confirming signals.",
-    "explanation_zh": "MACD黃金交叉是指股票的短期動能線升穿訊號線，通常被視為買盤力量增強的早期跡象。交易者會配合其他指標（如RSI及成交量）一併確認，以避免誤判為假訊號。今日選中的買入標的正正同時出現此交叉及多個其他確認訊號。"
+    "term": "Market Consolidation",
+    "explanation_en": "Consolidation happens when a market trades in a narrow, directionless range instead of trending clearly up or down — like today's roughly flat NASDAQ and S&P 500. During consolidation, it's often wiser to hold cash and existing winners rather than chase new positions, since the lack of a clear trend makes breakouts less reliable and reversals more likely.",
+    "explanation_zh": "「盤整」是指市場在窄幅區間內橫行整理，沒有明顯的升跌趨勢，正如今日納指及標普500走勢大致持平。在盤整期間，與其追入新股份，不如持有現金及已有的獲利倉位，因為缺乏明確趨勢會令突破訊號的可靠性降低，逆轉的機會相對較高。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.2% and the S&P 500 down 0.3%, reflecting a quiet, directionless session rather than any major news-driven selloff. No single catalyst dominated headlines, so trading stayed range-bound. This kind of low-volatility, mixed-signal day is typical between major economic data releases or earnings cycles.",
-    "summary_zh": "今日大市窄幅整理，納指微跌0.2%，標普500指數跌0.3%，並無重大消息主導市場，屬於方向不明的淡靜交易日。市場缺乏單一催化劑，成交在區間內波動。此類低波動、訊號混雜的日子，通常出現在重要經濟數據或業績公佈之間的空檔期。",
+    "summary_en": "Today's session was essentially flat, with both the NASDAQ and S&P 500 down about 0.3% in a low-conviction, directionless trading day. There was no dominant catalyst pushing markets strongly in either direction, which typically reflects investors digesting recent data without a clear new signal. In these conditions, strong individual stock setups can still emerge, but broad market participation and volume tend to be lighter, making follow-through less reliable.",
+    "summary_zh": "今日大市走勢大致持平，納指及標普500指數均下跌約0.3%，屬於一個方向不明、交投意欲較低的交易日。市場並未見有明顯的催化因素帶動大幅波動，反映投資者仍在消化近期數據，缺乏新的明確方向。在此情況下，個別股份仍可能出現不錯的技術形態，但大市整體參與度及成交量普遍偏低，追漲的可持續性相對較弱。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "PLBL",
-      "conviction": "high",
-      "reasoning": "Highest-scoring candidate (100) with full multi-signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge — justifying deployment of idle cash even on a neutral market day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
