@@ -1,14 +1,14 @@
 {
   "date": "2026-09-29",
-  "briefing": "Markets were flat today with NASDAQ +0.1% and S&P 500 -0.1%, showing no clear directional conviction. Per prior lessons learned, we only deploy fresh capital into new positions on genuine risk-on days (NASDAQ +2% or more), so we're holding cash and letting existing positions ride rather than forcing a buy.",
+  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.1%, S&P 500 -0.3%), showing no clear risk-on signal. With 3 open slots and $889 in cash, we're holding rather than forcing a buy since no candidate shows the full multi-signal confirmation (including a volume surge) that past lessons require for high-conviction entries; existing positions remain intact and governed by automatic stop-loss/profit-target rules.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-Off describes a cautious market stance where investors avoid adding new exposure until conditions show clearer bullish confirmation. Today's neutral market (NASDAQ +0.1%) didn't meet the bar for deploying new capital, so holding cash and existing positions was the disciplined choice rather than forcing trades.",
-    "explanation_zh": "「Risk-Off」（避險模式）指投資者在市場方向未明朗前，傾向審慎行事、避免增加新持倉。今日大市走勢中性（納指僅升0.1%），未達到部署新資金的門檻，因此持有現金及現有持倉、不勉強進行交易，才是較為紀律嚴謹的做法。"
+    "term": "Market Consolidation",
+    "explanation_en": "Consolidation is when a market trades in a narrow range without a clear up or down trend, often after a period of bigger moves. During these phases, disciplined investors often wait for clearer signals rather than trading just to stay active, since forcing trades in directionless markets tends to add risk without added reward.",
+    "explanation_zh": "整固（Consolidation）是指市場在較大波動後，於狹窄區間內橫行，缺乏明確升跌趨勢的階段。在這段時期，有紀律的投資者通常會耐心等待更清晰的訊號，而非為求「有交易」而勉強進場，因為在缺乏方向的市況下強行交易，只會增加風險而未必帶來相應回報。"
   },
   "market_education": {
-    "summary_en": "Today's trading was essentially directionless, with the NASDAQ edging up 0.1% while the S&P 500 dipped 0.1%, reflecting a market in a holding pattern rather than reacting to any major catalyst. Without a strong risk-on or risk-off signal, institutional participation appears muted, which is consistent with sideways, low-volume price action. In the absence of a clear trend, it's prudent to preserve capital rather than chase momentum that isn't confirmed by broader market strength.",
-    "summary_zh": "今日大市走勢波瀾不驚，納指微升0.1%，標普500則微跌0.1%，反映市場處於觀望狀態，未有明顯催化劑帶動方向。在缺乏強烈的風險偏好或避險訊號下，機構參與度似乎較為淡靜，與窄幅波動、成交量偏低的走勢吻合。在趨勢未明朗之前，保留現金比追逐未經大市確認的動力更為穩健。",
+    "summary_en": "Major indices drifted slightly lower today, with the S&P 500 down 0.3% and the NASDAQ roughly flat at -0.1%, reflecting a lack of strong catalysts in either direction. This kind of quiet, low-volatility session often happens between larger news events, as investors digest recent data without a clear reason to aggressively buy or sell. Without a decisive move, momentum-based strategies typically favor patience over forcing new trades.",
+    "summary_zh": "今日大市小幅回落，標普500指數跌0.3%，納指則近乎持平，跌0.1%，反映市場缺乏明顯的方向性催化劑。這種低波動的整固日子通常出現在重大消息公布之間，投資者在缺乏明確理由的情況下傾向觀望，而非積極買賣。在沒有明確突破訊號的情況下，動能策略一般傾向按兵不動，而非勉強進場。",
     "sources": []
   },
   "trades": [],
