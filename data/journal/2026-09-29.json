@@ -1,17 +1,24 @@
 {
   "date": "2026-09-29",
-  "briefing": "Markets were flat and slightly negative today (NASDAQ -0.3%, S&P 500 -0.3%), a neutral session rather than a clear risk-on move. Despite several high-scoring candidates (WRBY, RCL, MGNI, AGX and others at 95) showing strong technical setups, we're holding the $889 cash and 3 open slots rather than forcing new positions on a low-conviction day, consistent with past lessons that neutral days call for patience. All 7 existing positions remain held and continue to be governed by automatic stop-loss/profit-target rules.",
+  "briefing": "Markets were flat today (NASDAQ +0.1%, S&P 500 -0.1%) with no clear directional signal. Rather than force capital into the market on a neutral day, we deployed into LBTYB, the one stock showing full multi-signal confirmation including a volume surge, and left the other two open slots idle to wait for genuine risk-on setups.",
   "daily_lesson": {
-    "term": "Market Consolidation",
-    "explanation_en": "Consolidation happens when a market trades in a narrow, directionless range instead of trending clearly up or down — like today's roughly flat NASDAQ and S&P 500. During consolidation, it's often wiser to hold cash and existing winners rather than chase new positions, since the lack of a clear trend makes breakouts less reliable and reversals more likely.",
-    "explanation_zh": "「盤整」是指市場在窄幅區間內橫行整理，沒有明顯的升跌趨勢，正如今日納指及標普500走勢大致持平。在盤整期間，與其追入新股份，不如持有現金及已有的獲利倉位，因為缺乏明確趨勢會令突破訊號的可靠性降低，逆轉的機會相對較高。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading activity, which suggests real institutional buying rather than a random blip. A stock rising on low volume is less trustworthy than one rising on a volume surge, since the latter shows many market participants agree on the direction.",
+    "explanation_zh": "成交量確認是指檢查價格變動是否伴隨高於平常的交易活動，這顯示可能有真正的機構資金買入，而非隨機波動。股價在低成交量下上升的可信度較低，相反若配合成交量急增則顯示大量市場參與者認同該方向。"
   },
   "market_education": {
-    "summary_en": "Today's session was essentially flat, with both the NASDAQ and S&P 500 down about 0.3% in a low-conviction, directionless trading day. There was no dominant catalyst pushing markets strongly in either direction, which typically reflects investors digesting recent data without a clear new signal. In these conditions, strong individual stock setups can still emerge, but broad market participation and volume tend to be lighter, making follow-through less reliable.",
-    "summary_zh": "今日大市走勢大致持平，納指及標普500指數均下跌約0.3%，屬於一個方向不明、交投意欲較低的交易日。市場並未見有明顯的催化因素帶動大幅波動，反映投資者仍在消化近期數據，缺乏新的明確方向。在此情況下，個別股份仍可能出現不錯的技術形態，但大市整體參與度及成交量普遍偏低，追漲的可持續性相對較弱。",
+    "summary_en": "Major indices traded in a narrow range today, with the NASDAQ inching up 0.1% while the S&P 500 slipped 0.1%, reflecting a lack of fresh macro catalysts. Trading volume across most names was unremarkable, consistent with a consolidation phase rather than a trending move. One notable exception was LBTYB, which saw a volume surge alongside a bullish MACD crossover, suggesting stock-specific institutional buying rather than a broad market shift.",
+    "summary_zh": "大市今日窄幅上落，納指微升0.1%，標普500則微跌0.1%，反映市場缺乏明確的宏觀催化劑。大部分股份成交量平平，屬於整固階段而非趨勢性行情。唯獨LBTYB出現成交量急增，配合MACD黃金交叉，顯示個股層面可能有機構資金流入，而非整體市場轉向。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "LBTYB",
+      "conviction": "high",
+      "reasoning": "Only candidate with full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20) plus a volume surge indicating institutional participation, justifying a buy despite the flat overall market."
+    }
+  ],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
