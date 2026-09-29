@@ -1,17 +1,36 @@
 {
   "date": "2026-09-29",
-  "briefing": "Broader market is neutral-to-slightly-negative today (NASDAQ -0.9%, S&P 500 -0.8%), not the clear risk-on setup we look for before deploying fresh cash. With 3 open slots and cash above $500, we're holding rather than forcing a buy — consistent with past lessons that neutral days call for patience, and existing positions stay untouched to let stop-loss/profit-target rules do their job.",
+  "briefing": "Markets were essentially flat today (NASDAQ -0.0%, S&P500 -0.1%), so we didn't chase the index but still deployed idle cash into three stocks showing full bullish technical confirmation across RSI, MACD, trend, and volume. We held all existing positions since none triggered stop-loss or profit-target levels and the portfolio remains up +44.6%.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off describes a market mood where investors become more cautious and hold back from new bets, often when overall index moves are flat-to-negative rather than clearly trending up. On days like this, disciplined investors avoid chasing individual stock signals just to stay busy, and instead wait for a broader confirmation — like a strong market-wide rally — before committing new capital.",
-    "explanation_zh": "「Risk-Off」（避險情緒）指市場氣氛轉趨謹慎，投資人傾向減少新的投資動作，通常出現在大盤走勢持平或偏弱、而非明顯上升趨勢時。在這種日子，有紀律的投資人不會只因為看到個股訊號就急於進場，而是耐心等待更明確的訊號（例如大盤全面上漲）才投入新資金。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like rising price, strong volume, and positive technical indicators, rather than waiting for the overall market to move. Today we used this approach on individual stocks even though the broader market was flat.",
+    "explanation_zh": "動能投資是指買入已經呈現上升趨勢的股票，依據價格上揚、成交量放大及技術指標轉強等訊號進行判斷，而非等待大盤整體出現明確方向。今日即使大盤持平，我們仍運用此策略挑選個別具備強勁動能的股票。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted lower today with NASDAQ down 0.9% and the S&P 500 down 0.8%, a broad but modest pullback rather than a sharp risk-off move. No single catalyst stands out in the data available today — it reads as routine consolidation after recent gains rather than a fundamental shift. Individual stocks still showing strong technical setups (bullish MACD crossovers, RSI in the healthy 55-70 zone) suggest selective strength beneath a soft overall tape.",
-    "summary_zh": "今日大盤普遍走弱，納斯達克指數下跌0.9%，標普500指數下跌0.8%，屬於溫和的整體回調，而非劇烈的risk-off拋售。目前沒有明確的單一觸發因素，較像是近期漲勢後的例行整理，而非基本面轉變。不過仍有部分個股維持強勁技術面（MACD黃金交叉、RSI處於55-70的健康區間），顯示大盤疲弱下仍有個股逆勢走強。",
+    "summary_en": "Major indices were roughly unchanged today, reflecting a lack of major market-moving catalysts. With no strong directional signal from the broad market, we focused on individual stocks showing strong technical momentum rather than betting on overall market direction. This stock-picking approach can add value even in a flat tape.",
+    "summary_zh": "今日大盤走勢大致持平（納指-0.0%，標普500 -0.1%），市場缺乏明顯的方向性催化因素。在大盤未有明確訊號的情況下，我們轉而聚焦於個別具備強勁技術動能的股票，而非單純押注大盤走勢。這種選股策略即使在盤整市況下仍有機會創造超額回報。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "GLW",
+      "conviction": "high",
+      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) with a non-overbought RSI of 62.2 and no overlap with current holdings."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SMTC",
+      "conviction": "high",
+      "reasoning": "Score 100 with all bullish signals confirmed and RSI 62.2 in the healthy momentum zone, adding analog-semiconductor exposure distinct from existing positions."
+    },
+    {
+      "action": "BUY",
+      "ticker": "MGNI",
+      "conviction": "medium",
+      "reasoning": "Full signal confirmation at a low share price gives efficient diversification into ad-tech, an uncorrelated sector versus current holdings."
+    }
+  ],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
