@@ -1,28 +1,34 @@
 {
   "date": "2026-09-30",
-  "briefing": "Markets were essentially flat today (NASDAQ -0.1%, S&P500 -0.2%), a neutral tape overall. Rather than forcing capital to work broadly, we selectively added MGNI and VEON, the two candidates with complete multi-indicator confirmation, while keeping the rest of cash in reserve for a clearer risk-on signal.",
+  "briefing": "NASDAQ +0.9% and S&P 500 +0.5% mark a moderate risk-on day. With 3 open slots and cash above the deployment threshold, we filled all three with the top fully-confirmed momentum candidates (SYRE, HIMS, HPE), each showing MACD bullish crossover, healthy RSI, price above SMA-20, and volume surge together.",
   "daily_lesson": {
     "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means waiting until several independent technical indicators — like RSI, MACD, price versus moving averages, and volume — all point the same direction before making a trade. This reduces the chance of acting on a false signal, since it's less likely that many indicators are wrong at the same time.",
-    "explanation_zh": "多重訊號確認是指等待多項獨立技術指標（如RSI、MACD、股價與移動平均線的關係及成交量）同時指向同一方向後才進行交易。這種方法可以降低因單一假訊號而作出錯誤決策的機會，因為多個指標同時出錯的機率較低。"
+    "explanation_en": "When multiple technical indicators — like a MACD bullish crossover, healthy RSI, price above its moving average, and a volume surge — all line up together, it suggests real buying interest rather than a random price blip. Waiting for this kind of confluence before buying helps avoid chasing false signals.",
+    "explanation_zh": "當多個技術指標— 例如MACD黃金交叉、健康的RSI水平、股價高於均線，以及成交量激增 — 同時出現時，代表市場有真實的買盤支持，而非隨機波動。等待這種多重訊號確認後才入市，有助避免追逐假訊號。"
   },
   "market_education": {
-    "summary_en": "Major indices traded roughly flat today, with the NASDAQ down 0.1% and the S&P 500 down 0.2%, reflecting a lack of strong directional catalysts. Trading stayed range-bound as investors appeared to be in a wait-and-see mode rather than reacting to any major shock. Individual stock moves diverged sharply from the index-level calm, with names like MGNI and VEON showing standout volume-backed breakouts.",
-    "summary_zh": "今日大盤走勢大致持平，納指下跌0.1%，標普500指數下跌0.2%，反映市場缺乏明確方向性催化劑。大市維持窄幅整理，投資者普遍採取觀望態度，未見對重大消息作出明顯反應。相比指數層面的平靜，個股表現則出現明顯分化，MGNI及VEON等股份均錄得放量突破的強勢表現。",
+    "summary_en": "Equities drifted higher today with the NASDAQ outpacing the S&P 500, consistent with a broad risk-on tone rather than any single catalyst. No specific news headlines were available in today's feed to attribute the move to a particular event. The gains were modest but broad enough to support selective new positions in stocks showing strong technical confirmation.",
+    "summary_zh": "今日大市溫和上揚，納指升幅跑贏標普500指數，反映市場整體風險偏好回升，而非單一消息推動。今日新聞資訊中未有具體頭條可供引用解釋今次升勢。升幅雖屬溫和，但已足夠支持在技術面確認強勁的個股上作出精選買入。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "MGNI",
+      "ticker": "SYRE",
       "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) meets our high-conviction bar even on a neutral broad-market day."
+      "reasoning": "All four confirmation signals align (RSI 64.7 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "VEON",
+      "ticker": "HIMS",
       "conviction": "high",
-      "reasoning": "Same full five-signal confirmation as MGNI with healthy RSI well below overbought, offering diversification outside ad-tech."
+      "reasoning": "Full multi-signal confirmation with RSI 62.7 in healthy bullish zone and volume surge confirming institutional participation."
+    },
+    {
+      "action": "BUY",
+      "ticker": "HPE",
+      "conviction": "high",
+      "reasoning": "All four confirmation signals present with RSI 62.8 well below overbought, indicating room to run."
     }
   ],
   "outcomes": {
