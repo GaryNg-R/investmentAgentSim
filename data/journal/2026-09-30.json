@@ -1,28 +1,28 @@
 {
   "date": "2026-09-30",
-  "briefing": "Markets were neutral today (NASDAQ +0.8%, S&P 500 +0.3%) with no major risk-off signals. With $889 in cash and 3 open slots, we deployed into two of the highest-scoring momentum candidates, NWCL and NICE, both showing bullish MACD and RSI setups.",
+  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 -0.2%), a neutral session with no clear directional catalyst. Rather than force capital into mediocre setups, we deployed a portion of idle cash into two stocks (BRZE, ACMR) that cleared the full four-signal bar — RSI, MACD, SMA-20 trend, and volume surge all aligned — leaving one slot open for a stronger risk-on day. Existing positions were left untouched since none triggered stop-loss or profit-target rules.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, using indicators like RSI and MACD to confirm the trend is likely to continue. Today's buys were chosen because they showed multiple bullish signals — rising price above their moving average and a bullish MACD crossover — suggesting continued upward momentum.",
-    "explanation_zh": "動量投資是指買入已經呈上升趨勢的股票，並利用RSI和MACD等指標確認趨勢有機會持續。今日選中的股票同時出現多項看漲訊號——股價高於移動平均線及MACD黃金交叉——顯示上升動力有望延續。"
+    "term": "Technical Confluence",
+    "explanation_en": "Technical confluence means multiple independent indicators — like RSI, MACD, moving averages, and volume — all pointing the same direction at once. When four signals line up together, it's much more likely real buyers are stepping in, rather than the stock just having a random one-day bounce.",
+    "explanation_zh": "技術指標共振（Technical Confluence）指多個獨立指標——例如RSI、MACD、移動平均線及成交量——同時指向同一方向。當四個訊號一致出現時，代表真正有買盤進場的機會較高，而不只是股價隨機反彈一日。"
   },
   "market_education": {
-    "summary_en": "Markets drifted modestly higher today with the NASDAQ up 0.8% and the S&P 500 up 0.3%, reflecting a broadly neutral risk environment without a clear catalyst. Trading stayed range-bound as investors awaited fresh economic data or earnings signals. No major headlines drove significant moves in either direction.",
-    "summary_zh": "今日大市溫和上揚，納指升0.8%，標普500指數升0.3%，反映市場情緒中性，缺乏明顯催化劑。投資者在等待新的經濟數據或業績消息期間，成交維持區間波動，未見重大消息主導市場方向。",
+    "summary_en": "Today's market action was essentially a coin-flip between the NASDAQ (+0.2%) and S&P 500 (-0.2%), indicating no dominant macro narrative was pushing investors strongly in either direction. In the absence of major catalysts, trading tends to be driven more by individual stock fundamentals and technical setups than broad sentiment. That's why today's decisions leaned on stock-specific technical confirmation rather than a market-wide read.",
+    "summary_zh": "今日大市表現持平，納指微升0.2%，標普500則微跌0.2%，反映市場缺乏明顯的主導消息面推動方向。在沒有重大催化劑的情況下，交易更多取決於個股基本面及技術走勢，而非整體市場情緒。因此今日的買入決定主要依據個股的技術指標確認，而非大市方向。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NWCL",
-      "conviction": "medium",
-      "reasoning": "Top momentum score with RSI 63.2 in bullish zone, MACD bullish crossover, and rising histogram, though no volume surge confirmation yet."
+      "ticker": "BRZE",
+      "conviction": "high",
+      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) signals genuine institutional buying, not just a neutral-day filler trade."
     },
     {
       "action": "BUY",
-      "ticker": "NICE",
-      "conviction": "medium",
-      "reasoning": "Score 95 with RSI 62.4 (less overbought than peers), MACD bullish crossover, and price above SMA-20, deploying idle cash into an open slot per risk rules."
+      "ticker": "ACMR",
+      "conviction": "high",
+      "reasoning": "Same four-signal confluence as BRZE with a different sector (semiconductor equipment), adding diversification while cash sits well above the $500 deployment threshold."
     }
   ],
   "outcomes": {
