@@ -1,28 +1,28 @@
 {
   "date": "2026-09-30",
-  "briefing": "NASDAQ +1.0% and S&P 500 +0.6% mark a moderate risk-on day. With 3 open slots and cash above the $500 threshold, we added two diversifying names (MP, AMR) at medium conviction since today's move lacks the +2% NASDAQ or volume-surge confirmation needed for high-conviction sizing.",
+  "briefing": "Markets were modestly risk-on today with NASDAQ +1.1% and S&P 500 +0.6%. With 3 open slots and cash above the $500 threshold, we deployed into CBOE and PARR to diversify beyond our tech-heavy holdings while leaving one slot open for a stronger conviction setup.",
   "daily_lesson": {
     "term": "Diversification",
-    "explanation_en": "Diversification means spreading investments across different sectors so a downturn in one area doesn't sink the whole portfolio. Today's buys (MP in materials, AMR in transportation) add exposure outside our existing tech-heavy holdings like QQQ, MU, and INOD.",
-    "explanation_zh": "分散投資是指將資金分配到不同行業，避免單一板塊下跌拖垮整個投資組合。今日買入的MP（稀土材料）和AMR（運輸）為組合增添了新板塊，平衡現有偏重科技股（如QQQ、MU、INOD）的配置。"
+    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink the whole portfolio. Today we chose an exchange operator and an energy stock instead of adding more tech, since our portfolio was already concentrated in semiconductors and AI-related names.",
+    "explanation_zh": "分散投資是指把資金分配到不同行業，避免單一板塊下跌拖垮整個投資組合。今天我們選擇了交易所營運商和能源股，而非再加碼科技股，因為投資組合已經在半導體和人工智能相關股票上較為集中。"
   },
   "market_education": {
-    "summary_en": "Broad indices advanced today, with NASDAQ leading at +1.0% and the S&P 500 up +0.6%, indicating a modest risk-on tilt among investors. The gains were broad-based rather than concentrated in a single catalyst, consistent with steady buying interest rather than a sharp momentum spike. Without a specific headline-driving event, this looks like continued grinding strength in the underlying trend.",
-    "summary_zh": "今日大盤普遍上漲，納指領漲收升1.0%，標普500則上升0.6%，反映市場風險偏好稍為回升。今次升幅屬全面性質，並非由單一消息帶動，較似是資金持續流入而非爆發式的動能拉升。在缺乏明確消息面刺激下，這更像是原有升勢的延續。",
+    "summary_en": "Broad equity indices posted modest gains today, with the NASDAQ outperforming the S&P 500, suggesting continued but measured risk appetite among investors. There was no major single catalyst driving the move, consistent with a steady grind-higher pattern typical of a maturing bull market. Breadth across the screened candidates was strong, with many stocks showing simultaneous bullish RSI, MACD, and moving-average signals.",
+    "summary_zh": "今日大盤溫和上漲，納指升1.1%，標普500升0.6%，顯示市場風險偏好持續但幅度溫和。今天並無重大單一觸發因素，較符合牛市後段穩步向上的走勢。篩選出的候選股票中，多支同時出現RSI、MACD及均線的多重看漲訊號，反映市場廣度良好。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "MP",
+      "ticker": "CBOE",
       "conviction": "medium",
-      "reasoning": "RSI 58.4 in the bullish zone with MACD bullish crossover and price above SMA-20, adding rare-earth materials exposure to diversify away from tech-heavy holdings."
+      "reasoning": "Bullish RSI/MACD/SMA-20 alignment and top score of 95 while diversifying away from the portfolio's heavy tech/semiconductor tilt into financial exchanges."
     },
     {
       "action": "BUY",
-      "ticker": "AMR",
+      "ticker": "PARR",
       "conviction": "medium",
-      "reasoning": "RSI 56.7 bullish with confirmed MACD crossover and price above SMA-20, adding transportation sector exposure while filling an open slot on a risk-on day."
+      "reasoning": "Strong momentum score of 95 with RSI, MACD crossover, and price above SMA-20 confirmed, adding energy sector exposure to reduce concentration risk."
     }
   ],
   "outcomes": {
