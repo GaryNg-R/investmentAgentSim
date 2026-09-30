@@ -1,34 +1,28 @@
 {
   "date": "2026-09-30",
-  "briefing": "NASDAQ +0.9% and S&P 500 +0.5% mark a moderate risk-on day. With 3 open slots and cash above the deployment threshold, we filled all three with the top fully-confirmed momentum candidates (SYRE, HIMS, HPE), each showing MACD bullish crossover, healthy RSI, price above SMA-20, and volume surge together.",
+  "briefing": "NASDAQ +1.0% and S&P 500 +0.6% mark a moderate risk-on day. With 3 open slots and cash above the $500 threshold, we added two diversifying names (MP, AMR) at medium conviction since today's move lacks the +2% NASDAQ or volume-surge confirmation needed for high-conviction sizing.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "When multiple technical indicators — like a MACD bullish crossover, healthy RSI, price above its moving average, and a volume surge — all line up together, it suggests real buying interest rather than a random price blip. Waiting for this kind of confluence before buying helps avoid chasing false signals.",
-    "explanation_zh": "當多個技術指標— 例如MACD黃金交叉、健康的RSI水平、股價高於均線，以及成交量激增 — 同時出現時，代表市場有真實的買盤支持，而非隨機波動。等待這種多重訊號確認後才入市，有助避免追逐假訊號。"
+    "term": "Diversification",
+    "explanation_en": "Diversification means spreading investments across different sectors so a downturn in one area doesn't sink the whole portfolio. Today's buys (MP in materials, AMR in transportation) add exposure outside our existing tech-heavy holdings like QQQ, MU, and INOD.",
+    "explanation_zh": "分散投資是指將資金分配到不同行業，避免單一板塊下跌拖垮整個投資組合。今日買入的MP（稀土材料）和AMR（運輸）為組合增添了新板塊，平衡現有偏重科技股（如QQQ、MU、INOD）的配置。"
   },
   "market_education": {
-    "summary_en": "Equities drifted higher today with the NASDAQ outpacing the S&P 500, consistent with a broad risk-on tone rather than any single catalyst. No specific news headlines were available in today's feed to attribute the move to a particular event. The gains were modest but broad enough to support selective new positions in stocks showing strong technical confirmation.",
-    "summary_zh": "今日大市溫和上揚，納指升幅跑贏標普500指數，反映市場整體風險偏好回升，而非單一消息推動。今日新聞資訊中未有具體頭條可供引用解釋今次升勢。升幅雖屬溫和，但已足夠支持在技術面確認強勁的個股上作出精選買入。",
+    "summary_en": "Broad indices advanced today, with NASDAQ leading at +1.0% and the S&P 500 up +0.6%, indicating a modest risk-on tilt among investors. The gains were broad-based rather than concentrated in a single catalyst, consistent with steady buying interest rather than a sharp momentum spike. Without a specific headline-driving event, this looks like continued grinding strength in the underlying trend.",
+    "summary_zh": "今日大盤普遍上漲，納指領漲收升1.0%，標普500則上升0.6%，反映市場風險偏好稍為回升。今次升幅屬全面性質，並非由單一消息帶動，較似是資金持續流入而非爆發式的動能拉升。在缺乏明確消息面刺激下，這更像是原有升勢的延續。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "SYRE",
-      "conviction": "high",
-      "reasoning": "All four confirmation signals align (RSI 64.7 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) on a risk-on day."
+      "ticker": "MP",
+      "conviction": "medium",
+      "reasoning": "RSI 58.4 in the bullish zone with MACD bullish crossover and price above SMA-20, adding rare-earth materials exposure to diversify away from tech-heavy holdings."
     },
     {
       "action": "BUY",
-      "ticker": "HIMS",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation with RSI 62.7 in healthy bullish zone and volume surge confirming institutional participation."
-    },
-    {
-      "action": "BUY",
-      "ticker": "HPE",
-      "conviction": "high",
-      "reasoning": "All four confirmation signals present with RSI 62.8 well below overbought, indicating room to run."
+      "ticker": "AMR",
+      "conviction": "medium",
+      "reasoning": "RSI 56.7 bullish with confirmed MACD crossover and price above SMA-20, adding transportation sector exposure while filling an open slot on a risk-on day."
     }
   ],
   "outcomes": {
