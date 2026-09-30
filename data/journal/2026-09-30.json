@@ -1,34 +1,28 @@
 {
   "date": "2026-09-30",
-  "briefing": "Markets were modestly positive today with NASDAQ +0.9% and S&P 500 +0.5%, a neutral-to-slightly-bullish backdrop. With three open slots and cash above the $500 deployment threshold, we filled positions with our highest-conviction screened candidate (NWCL, full multi-signal confirmation) plus two solid momentum names (ALMR, MP) to diversify away from our semiconductor-heavy existing book.",
+  "briefing": "Markets were neutral today (NASDAQ +0.8%, S&P 500 +0.3%) with no major risk-off signals. With $889 in cash and 3 open slots, we deployed into two of the highest-scoring momentum candidates, NWCL and NICE, both showing bullish MACD and RSI setups.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a moving average crossover, healthy RSI, price above a key average, and a volume spike — to all line up before buying, rather than acting on just one signal. This reduces the chance of chasing a false breakout, since several indicators agreeing suggests real buying interest rather than random noise.",
-    "explanation_zh": "動能確認是指在買入前等待多個技術訊號同時出現，例如均線交叉、健康的RSI水平、價格高於關鍵均線，以及成交量放大，而不是僅依賴單一訊號進場。這樣可以降低追高假突破的風險，因為多項指標同時符合，通常代表真實的買盤力量，而非隨機波動。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, using indicators like RSI and MACD to confirm the trend is likely to continue. Today's buys were chosen because they showed multiple bullish signals — rising price above their moving average and a bullish MACD crossover — suggesting continued upward momentum.",
+    "explanation_zh": "動量投資是指買入已經呈上升趨勢的股票，並利用RSI和MACD等指標確認趨勢有機會持續。今日選中的股票同時出現多項看漲訊號——股價高於移動平均線及MACD黃金交叉——顯示上升動力有望延續。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted modestly higher today, with the S&P 500 up 0.5% and the NASDAQ up 0.9%, reflecting steady but unspectacular risk appetite rather than any single catalyst. Small-cap and mid-cap momentum names showed stronger relative strength than mega-caps, consistent with continued rotation into growth names with fresh technical breakouts. No major macro data releases stood out today, so price action was largely driven by sector-level positioning and individual earnings/technical setups.",
-    "summary_zh": "今日大盤溫和上揚，標普500指數升0.5%，納斯達克指數升0.9%，反映市場風險偏好穩健但並無特別亮點。相對於大型股，中小型動能股表現更為強勁，顯示資金持續輪動至具備技術突破訊號的成長股。今日並無重大宏觀經濟數據公布，價格走勢主要受個股技術面及板塊資金流向主導。",
+    "summary_en": "Markets drifted modestly higher today with the NASDAQ up 0.8% and the S&P 500 up 0.3%, reflecting a broadly neutral risk environment without a clear catalyst. Trading stayed range-bound as investors awaited fresh economic data or earnings signals. No major headlines drove significant moves in either direction.",
+    "summary_zh": "今日大市溫和上揚，納指升0.8%，標普500指數升0.3%，反映市場情緒中性，缺乏明顯催化劑。投資者在等待新的經濟數據或業績消息期間，成交維持區間波動，未見重大消息主導市場方向。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
       "ticker": "NWCL",
-      "conviction": "high",
-      "reasoning": "Top-scoring candidate (100) with full signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge indicating institutional buying."
+      "conviction": "medium",
+      "reasoning": "Top momentum score with RSI 63.2 in bullish zone, MACD bullish crossover, and rising histogram, though no volume surge confirmation yet."
     },
     {
       "action": "BUY",
-      "ticker": "ALMR",
+      "ticker": "NICE",
       "conviction": "medium",
-      "reasoning": "Strong score (95) with MACD crossover, rising histogram, and price above SMA-20, though lacking a volume surge confirmation."
-    },
-    {
-      "action": "BUY",
-      "ticker": "MP",
-      "conviction": "medium",
-      "reasoning": "Score 95 with bullish RSI, MACD crossover and rising histogram; adds sector diversification away from existing semiconductor/tech-heavy holdings."
+      "reasoning": "Score 95 with RSI 62.4 (less overbought than peers), MACD bullish crossover, and price above SMA-20, deploying idle cash into an open slot per risk rules."
     }
   ],
   "outcomes": {
