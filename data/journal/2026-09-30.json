@@ -1,28 +1,28 @@
 {
   "date": "2026-09-30",
-  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 -0.2%), a neutral session with no clear directional catalyst. Rather than force capital into mediocre setups, we deployed a portion of idle cash into two stocks (BRZE, ACMR) that cleared the full four-signal bar — RSI, MACD, SMA-20 trend, and volume surge all aligned — leaving one slot open for a stronger risk-on day. Existing positions were left untouched since none triggered stop-loss or profit-target rules.",
+  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P500 -0.3%), a neutral session with no clear directional catalyst. With cash above the $500 threshold and 3 open slots, we filled two slots using stocks showing full multi-signal confirmation (RSI, MACD, SMA, volume) rather than holding idle capital, while leaving one slot open for a stronger setup.",
   "daily_lesson": {
-    "term": "Technical Confluence",
-    "explanation_en": "Technical confluence means multiple independent indicators — like RSI, MACD, moving averages, and volume — all pointing the same direction at once. When four signals line up together, it's much more likely real buyers are stepping in, rather than the stock just having a random one-day bounce.",
-    "explanation_zh": "技術指標共振（Technical Confluence）指多個獨立指標——例如RSI、MACD、移動平均線及成交量——同時指向同一方向。當四個訊號一致出現時，代表真正有買盤進場的機會較高，而不只是股價隨機反彈一日。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like price above its moving average, rising RSI, and a bullish MACD crossover — the idea being that stocks moving up tend to keep moving up in the short term. Today's buys were chosen specifically because they showed several of these signals confirming together, not just one in isolation.",
+    "explanation_zh": "動量投資（Momentum Investing）是指買入正處於上升趨勢的股票，依據的信號包括股價高於移動平均線、RSI指標上升，以及MACD出現黃金交叉——背後邏輯是短期內上升股票傾向延續升勢。今日選股正是因為多項技術信號同時確認向好，而非單一信號的偶然波動。"
   },
   "market_education": {
-    "summary_en": "Today's market action was essentially a coin-flip between the NASDAQ (+0.2%) and S&P 500 (-0.2%), indicating no dominant macro narrative was pushing investors strongly in either direction. In the absence of major catalysts, trading tends to be driven more by individual stock fundamentals and technical setups than broad sentiment. That's why today's decisions leaned on stock-specific technical confirmation rather than a market-wide read.",
-    "summary_zh": "今日大市表現持平，納指微升0.2%，標普500則微跌0.2%，反映市場缺乏明顯的主導消息面推動方向。在沒有重大催化劑的情況下，交易更多取決於個股基本面及技術走勢，而非整體市場情緒。因此今日的買入決定主要依據個股的技術指標確認，而非大市方向。",
+    "summary_en": "Major indices traded in a narrow range today, with the NASDAQ edging up 0.2% while the S&P 500 slipped 0.3%, reflecting a lack of strong catalysts on either side. Trading activity suggests investors are in a wait-and-see mode rather than reacting to major news. This kind of mixed, low-conviction session is common between earnings cycles or macro data releases.",
+    "summary_zh": "今日大市窄幅上落，納斯達克指數微升0.2%，標普500指數則回落0.3%，反映市場缺乏明確方向性消息刺激。成交活動顯示投資者普遍持觀望態度，未有因重大消息而大幅加減碼。此類升跌互見、信心不足的交易日，在業績期或宏觀數據公佈之間頗為常見。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "BRZE",
+      "ticker": "BPYPP",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) signals genuine institutional buying, not just a neutral-day filler trade."
+      "reasoning": "Highest momentum score (100) with full multi-signal confirmation — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and volume surge."
     },
     {
       "action": "BUY",
-      "ticker": "ACMR",
-      "conviction": "high",
-      "reasoning": "Same four-signal confluence as BRZE with a different sector (semiconductor equipment), adding diversification while cash sits well above the $500 deployment threshold."
+      "ticker": "ROG",
+      "conviction": "medium",
+      "reasoning": "Strong multi-signal setup (RSI 62.8, MACD bullish crossover, price above SMA-20, volume surge) to deploy idle cash above the $500 threshold with open slots available."
     }
   ],
   "outcomes": {
