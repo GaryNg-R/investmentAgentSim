@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-30",
+  "briefing": "Markets were essentially flat today (NASDAQ -0.1%, S&P500 -0.2%), a neutral tape overall. Rather than forcing capital to work broadly, we selectively added MGNI and VEON, the two candidates with complete multi-indicator confirmation, while keeping the rest of cash in reserve for a clearer risk-on signal.",
+  "daily_lesson": {
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means waiting until several independent technical indicators — like RSI, MACD, price versus moving averages, and volume — all point the same direction before making a trade. This reduces the chance of acting on a false signal, since it's less likely that many indicators are wrong at the same time.",
+    "explanation_zh": "多重訊號確認是指等待多項獨立技術指標（如RSI、MACD、股價與移動平均線的關係及成交量）同時指向同一方向後才進行交易。這種方法可以降低因單一假訊號而作出錯誤決策的機會，因為多個指標同時出錯的機率較低。"
+  },
+  "market_education": {
+    "summary_en": "Major indices traded roughly flat today, with the NASDAQ down 0.1% and the S&P 500 down 0.2%, reflecting a lack of strong directional catalysts. Trading stayed range-bound as investors appeared to be in a wait-and-see mode rather than reacting to any major shock. Individual stock moves diverged sharply from the index-level calm, with names like MGNI and VEON showing standout volume-backed breakouts.",
+    "summary_zh": "今日大盤走勢大致持平，納指下跌0.1%，標普500指數下跌0.2%，反映市場缺乏明確方向性催化劑。大市維持窄幅整理，投資者普遍採取觀望態度，未見對重大消息作出明顯反應。相比指數層面的平靜，個股表現則出現明顯分化，MGNI及VEON等股份均錄得放量突破的強勢表現。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "MGNI",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) meets our high-conviction bar even on a neutral broad-market day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "VEON",
+      "conviction": "high",
+      "reasoning": "Same full five-signal confirmation as MGNI with healthy RSI well below overbought, offering diversification outside ad-tech."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14455.735246181488,
+    "cash": 889.2850012779236,
+    "pnl_dollar": 4455.735246181488,
+    "pnl_pct": 44.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
