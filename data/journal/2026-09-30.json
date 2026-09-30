@@ -1,28 +1,34 @@
 {
   "date": "2026-09-30",
-  "briefing": "Markets were modestly risk-on today with NASDAQ +1.1% and S&P 500 +0.6%. With 3 open slots and cash above the $500 threshold, we deployed into CBOE and PARR to diversify beyond our tech-heavy holdings while leaving one slot open for a stronger conviction setup.",
+  "briefing": "Markets were modestly risk-on today (NASDAQ +1.0%, S&P 500 +0.5%). With 3 open slots and cash above the $500 threshold, deployed into three diversified momentum names (software, materials, financials) at medium conviction since none showed the full four-signal confirmation (missing volume surge). Existing positions held unchanged given the neutral-to-mild market tone.",
   "daily_lesson": {
-    "term": "Diversification",
-    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink the whole portfolio. Today we chose an exchange operator and an energy stock instead of adding more tech, since our portfolio was already concentrated in semiconductors and AI-related names.",
-    "explanation_zh": "分散投資是指把資金分配到不同行業，避免單一板塊下跌拖垮整個投資組合。今天我們選擇了交易所營運商和能源股，而非再加碼科技股，因為投資組合已經在半導體和人工智能相關股票上較為集中。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Before buying a stock on momentum, it's safer to check multiple technical signals together — like RSI being in a healthy bullish range, MACD showing a bullish crossover, and price trading above its 20-day moving average — rather than relying on just one indicator. When all signals line up, including a volume surge, conviction can be high; when only some align, it's wiser to size the position more conservatively.",
+    "explanation_zh": "在依動能買入股票前,同時檢視多項技術指標會比只看單一指標更為穩健,例如RSI處於健康的多頭區間、MACD出現黃金交叉、股價站上20日均線等。當所有訊號(包含成交量放大)都一致時,可以提高信心;若只有部分訊號吻合,則應採取較保守的部位規模。"
   },
   "market_education": {
-    "summary_en": "Broad equity indices posted modest gains today, with the NASDAQ outperforming the S&P 500, suggesting continued but measured risk appetite among investors. There was no major single catalyst driving the move, consistent with a steady grind-higher pattern typical of a maturing bull market. Breadth across the screened candidates was strong, with many stocks showing simultaneous bullish RSI, MACD, and moving-average signals.",
-    "summary_zh": "今日大盤溫和上漲，納指升1.1%，標普500升0.6%，顯示市場風險偏好持續但幅度溫和。今天並無重大單一觸發因素，較符合牛市後段穩步向上的走勢。篩選出的候選股票中，多支同時出現RSI、MACD及均線的多重看漲訊號，反映市場廣度良好。",
+    "summary_en": "Broad markets edged higher today with the NASDAQ outperforming the S&P 500, suggesting continued but moderate risk appetite among investors. Technology and growth names generally led the modest advance. No major headline catalysts were provided for today's session, so the move appears driven by steady underlying momentum rather than a specific news event.",
+    "summary_zh": "今日大盤溫和上揚,納斯達克指數表現優於標普500指數,顯示投資人風險偏好持續但幅度溫和。科技與成長股普遍帶動小幅上漲。今日並無提供重大新聞觸發因素,顯示這波走勢較可能是延續既有動能所致,而非受單一消息面影響。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CBOE",
+      "ticker": "BRZE",
       "conviction": "medium",
-      "reasoning": "Bullish RSI/MACD/SMA-20 alignment and top score of 95 while diversifying away from the portfolio's heavy tech/semiconductor tilt into financial exchanges."
+      "reasoning": "Bullish RSI, MACD crossover, and price above SMA-20 show solid momentum, though lacking a volume surge for high conviction."
     },
     {
       "action": "BUY",
-      "ticker": "PARR",
+      "ticker": "MP",
       "conviction": "medium",
-      "reasoning": "Strong momentum score of 95 with RSI, MACD crossover, and price above SMA-20 confirmed, adding energy sector exposure to reduce concentration risk."
+      "reasoning": "Rare earth materials name with RSI 56.8 still early in the bullish zone and confirmed MACD crossover above rising SMA-20."
+    },
+    {
+      "action": "BUY",
+      "ticker": "CBOE",
+      "conviction": "medium",
+      "reasoning": "Financial exchange name adds sector diversification with confirmed MACD crossover and price above SMA-20."
     }
   ],
   "outcomes": {
