@@ -1,22 +1,22 @@
 {
   "date": "2026-10-01",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.3%, S&P 500 -0.2%), a neutral session with no clear directional catalyst. With cash above the deployment threshold and open slots available, we added one medium-conviction position in EPAM on strong technical signals while holding the rest of the portfolio steady and saving remaining dry powder for a clearer risk-on setup.",
+  "briefing": "Markets were flat today (NASDAQ -0.3%, S&P 500 -0.2%), so we're not forcing aggressive deployment, but with $889 cash and 3 open slots well above the $500 threshold we added one medium-conviction position in GWRE for diversification while letting existing winners run.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means only acting on a bullish signal when multiple indicators agree — for example RSI in a healthy range, a MACD crossover, and price trading above its moving average all pointing the same way. Relying on just one signal (like RSI alone) can lead to false starts, so combining signals reduces the chance of buying into a fakeout.",
-    "explanation_zh": "動能確認是指只有在多項技術指標同時發出看好訊號時才採取行動，例如RSI處於健康區間、MACD出現黃金交叉，以及股價高於其移動平均線。單靠一個指標（例如只看RSI）容易誤判，結合多項訊號可以降低追高落空的風險。"
+    "term": "Diversification",
+    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink the whole portfolio. Today's buy added a software/insurance-tech name to a portfolio that was heavily weighted toward semiconductors and hardware, reducing the risk of a single-sector shock.",
+    "explanation_zh": "分散投資是指將資金分配到不同行業，以免單一行業的下跌拖累整個投資組合。今日買入的是軟件╱保險科技股，有助平衡組合內原本偏重半導體及硬件股的風險。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today in a quiet, directionless session with no major catalyst driving broad risk appetite. Trading volume and volatility stayed subdued, consistent with a market pausing to digest recent gains rather than reacting to new information. Individual stocks with strong technical setups, like EPAM, continued to show momentum even as the broader indices were flat.",
-    "summary_zh": "今日大市窄幅震盪，納指及標普500分別小跌0.3%及0.2%，市場缺乏明確方向，屬於消化近期升幅的觀望格局。成交量及波幅均維持平靜,反映投資者未有明顯加碼或減碼意欲。不過個別具強勁技術形態的股份，例如EPAM，即使大市平淡仍展現上升動能。",
+    "summary_en": "Major indices drifted slightly lower today in quiet, directionless trading with no major catalyst driving the move. Both the NASDAQ and S&P 500 posted small losses under 1%, consistent with a pause after recent gains rather than any shift in sentiment. Trading volume and volatility stayed muted, suggesting investors are waiting for fresh data before taking a strong directional view.",
+    "summary_zh": "今日大市窄幅波動，納指及標普500均錄得輕微跌幅，未見明顯利淡消息帶動，市場氣氛屬觀望性質，較似是近期升勢後的短暫整固，而非趨勢逆轉。成交量及波幅均維持平靜，反映投資者正等待更多經濟數據以尋找方向。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "EPAM",
+      "ticker": "GWRE",
       "conviction": "medium",
-      "reasoning": "RSI 66.7 in bullish zone with MACD bullish crossover, rising histogram, and price above SMA-20 offers solid momentum confirmation and sector diversification away from existing semiconductor-heavy holdings."
+      "reasoning": "Score 95 with RSI in bullish zone, bullish MACD crossover, and price above SMA-20 gives solid momentum, and it adds software-sector diversification versus the portfolio's existing semiconductor/hardware tilt."
     }
   ],
   "outcomes": {
