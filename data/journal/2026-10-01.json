@@ -1,30 +1,17 @@
 {
   "date": "2026-10-01",
-  "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.2%), so there's no broad risk-on signal, but two stocks (EFXT and KD) showed all four bullish confirmation signals together, which past experience says is worth acting on at the individual-stock level. With $889 cash and 3 open slots, we filled two of them with these high-conviction names rather than letting cash sit idle, while leaving existing positions untouched to let stop-losses and profit targets do their job.",
+  "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.2%), a neutral session with no clear risk-on signal. Despite three open slots and $889 in cash, several candidates (CRDO, PBF, SNAP) show strong multi-signal setups, but past lessons say not to force buys on neutral days — better to hold cash and wait for a genuine risk-on move (NASDAQ +2%+) to deploy it with conviction. All 7 existing positions are held unchanged; stop-loss and profit-target rules will handle exits automatically if triggered.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means waiting until several independent technical indicators — like RSI, MACD, price vs. moving average, and trading volume — all point the same direction before acting, rather than relying on just one signal. This reduces the chance of chasing a false or short-lived move, since it's much harder for four separate indicators to align by coincidence than for just one to do so.",
-    "explanation_zh": "多重訊號確認是指同時等待多個獨立的技術指標（例如RSI、MACD、股價相對移動平均線的位置，以及成交量）都指向同一方向，才作出交易決定，而非單憑一個指標行動。這樣可以大幅減少追高或誤判短暫波動的風險，因為四個指標同時同向出現的機率，遠低於單一指標偶然發出訊號的機率。"
+    "term": "Patience",
+    "explanation_en": "Patience in trading means resisting the urge to act just because you have cash available or open slots to fill. Even when candidates look attractive on paper, waiting for a clearer market signal — like a strong risk-on day — often leads to better entry points and avoids chasing weak momentum.",
+    "explanation_zh": "交易中的「耐性」是指不要因為手頭有現金或有空置倉位,就勉強進行買賣。即使某些候選股票在數據上看起來不錯,耐心等待更明確的市場信號(例如強烈的風險偏好日)往往能帶來更好的入市時機,並避免追逐疲弱的升勢。"
   },
   "market_education": {
-    "summary_en": "Broader indices were essentially flat today, with the S&P 500 up a modest 0.2% and the NASDAQ unchanged, suggesting investors are in a wait-and-see mode rather than reacting to major catalysts. Despite the muted index-level action, select mid-cap names like EFXT and KD showed strong individual momentum with volume surges, indicating stock-specific buying interest rather than a market-wide trend. This kind of divergence between flat indices and strong individual names is common and often reflects sector rotation or company-specific news rather than macro sentiment shifts.",
-    "summary_zh": "今日大盤表現平淡，標普500指數僅微升0.2%，納指持平，顯示投資者普遍處於觀望狀態，未見明顯催化因素帶動資金流向。然而，個別中型股如EFXT及KD卻錄得強勁升勢，並伴隨成交量明顯放大，反映資金正針對個股基本面或消息面進行佈局，而非跟隨大市方向。這種大盤平靜但個股活躍的背離現象，往往反映板塊輪動或企業特定消息，而非宏觀情緒轉變。",
+    "summary_en": "Major indices traded essentially flat today, with the S&P 500 inching up 0.2% and the Nasdaq unchanged, suggesting investors are in a wait-and-see mode rather than reacting to major catalysts. Without a strong directional push in either large-cap tech or the broader market, there's little evidence of fresh institutional buying or selling pressure. This kind of quiet, low-volatility session is common between major earnings or macro data releases.",
+    "summary_zh": "大市今日表現大致持平,標普500指數微升0.2%,納斯達克指數則維持不變,反映投資者目前處於觀望狀態,未見明顯的方向性走勢。由於大型科技股及整體市場均缺乏強勁的買賣動力,顯示機構資金暫未有明顯進出。這種低波動的平靜交易日,通常出現在重大業績或宏觀數據公佈之間的空檔期。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "EFXT",
-      "conviction": "high",
-      "reasoning": "All four bullish signals align (RSI in bullish zone, MACD crossover, price above SMA-20, volume surge), filling an open slot with available cash despite a neutral broader market."
-    },
-    {
-      "action": "BUY",
-      "ticker": "KD",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (RSI 61.1, MACD bullish crossover, price above SMA-20, volume surge) justifies deploying idle cash into a second open slot."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
