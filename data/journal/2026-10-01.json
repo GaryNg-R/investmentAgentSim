@@ -1,22 +1,22 @@
 {
   "date": "2026-10-01",
-  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.2%, S&P 500 -0.3%), giving no strong risk-on or risk-off signal. Rather than idling cash or exiting existing winners, we added one high-conviction position in CTSH, the single name with full multi-signal confirmation, and left the other 7 holdings untouched.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.3%, S&P 500 -0.2%), a neutral session with no clear directional catalyst. With cash above the deployment threshold and open slots available, we added one medium-conviction position in EPAM on strong technical signals while holding the rest of the portfolio steady and saving remaining dry powder for a clearer risk-on setup.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of acting on a single bullish clue, disciplined investors wait for several signals — like a MACD crossover, a healthy (not overbought) RSI, price above its moving average, and a volume surge — to line up together. When multiple independent signals agree, it lowers the chance of a false alarm and gives more confidence that real buying interest, not noise, is driving the move.",
-    "explanation_zh": "有紀律的投資者不會單憑一個利好訊號就行動，而是等待多個訊號同時出現，例如MACD黃金交叉、RSI處於健康（非超買）區間、股價高於其移動平均線，以及成交量放大。當多個獨立訊號一致時，可大幅降低假訊號的機會，亦更能確認背後是真實買盤，而非市場雜訊。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means only acting on a bullish signal when multiple indicators agree — for example RSI in a healthy range, a MACD crossover, and price trading above its moving average all pointing the same way. Relying on just one signal (like RSI alone) can lead to false starts, so combining signals reduces the chance of buying into a fakeout.",
+    "explanation_zh": "動能確認是指只有在多項技術指標同時發出看好訊號時才採取行動，例如RSI處於健康區間、MACD出現黃金交叉，以及股價高於其移動平均線。單靠一個指標（例如只看RSI）容易誤判，結合多項訊號可以降低追高落空的風險。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly lower today, with the NASDAQ down 0.2% and the S&P 500 down 0.3%, consistent with a quiet, low-catalyst trading session rather than any major news event. Without a clear economic surprise or earnings shock to drive flows, trading volume and conviction stayed muted across most sectors. Days like this are typically consolidation periods where the market digests recent moves before its next directional push.",
-    "summary_zh": "大市今日略為走軟，納指下跌0.2%，標普500指數下跌0.3%，反映市場缺乏明顯刺激因素，交投清淡。由於沒有重大經濟數據或業績意外帶動資金流向，多數板塊的買賣意欲均顯得保守。這類日子通常屬於市場消化先前升跌、等待下一個方向性走勢的整固階段。",
+    "summary_en": "Major indices drifted slightly lower today in a quiet, directionless session with no major catalyst driving broad risk appetite. Trading volume and volatility stayed subdued, consistent with a market pausing to digest recent gains rather than reacting to new information. Individual stocks with strong technical setups, like EPAM, continued to show momentum even as the broader indices were flat.",
+    "summary_zh": "今日大市窄幅震盪，納指及標普500分別小跌0.3%及0.2%，市場缺乏明確方向，屬於消化近期升幅的觀望格局。成交量及波幅均維持平靜,反映投資者未有明顯加碼或減碼意欲。不過個別具強勁技術形態的股份，例如EPAM，即使大市平淡仍展現上升動能。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CTSH",
-      "conviction": "high",
-      "reasoning": "CTSH is the only candidate showing all four confirmation signals — MACD bullish crossover, RSI 65.1 in the bullish zone, price above SMA-20, and a volume surge — indicating genuine buying interest even on an otherwise neutral day."
+      "ticker": "EPAM",
+      "conviction": "medium",
+      "reasoning": "RSI 66.7 in bullish zone with MACD bullish crossover, rising histogram, and price above SMA-20 offers solid momentum confirmation and sector diversification away from existing semiconductor-heavy holdings."
     }
   ],
   "outcomes": {
