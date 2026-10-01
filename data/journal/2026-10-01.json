@@ -1,28 +1,22 @@
 {
   "date": "2026-10-01",
-  "briefing": "Markets were essentially flat today (NASDAQ +0.2%, S&P 500 +0.0%), so there was no broad risk-on or risk-off signal. With cash above the $500 threshold and 3 open slots, we deployed into TSEM and XENE, the only two names showing full multi-signal confirmation (RSI, MACD, price vs SMA-20, and volume all aligned), and left existing positions untouched.",
+  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.2%, S&P 500 -0.3%), giving no strong risk-on or risk-off signal. Rather than idling cash or exiting existing winners, we added one high-conviction position in CTSH, the single name with full multi-signal confirmation, and left the other 7 holdings untouched.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for several technical signals to line up together — like RSI in a healthy bullish range, a MACD bullish crossover, price above its moving average, and a volume surge — before buying. A single bullish signal can be noise, but when they all agree, it's a stronger sign that real buying interest (not just a random blip) is behind the move.",
-    "explanation_zh": "動能確認是指在買入前,等待多個技術指標同時發出一致的訊號——例如RSI處於健康的上升區間、MACD出現黃金交叉、股價高於其移動平均線,以及成交量放大。單一的利好訊號可能只是噪音,但當所有訊號同時出現時,就更有力地顯示背後是真實的買盤興趣,而不是偶然的波動。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of acting on a single bullish clue, disciplined investors wait for several signals — like a MACD crossover, a healthy (not overbought) RSI, price above its moving average, and a volume surge — to line up together. When multiple independent signals agree, it lowers the chance of a false alarm and gives more confidence that real buying interest, not noise, is driving the move.",
+    "explanation_zh": "有紀律的投資者不會單憑一個利好訊號就行動，而是等待多個訊號同時出現，例如MACD黃金交叉、RSI處於健康（非超買）區間、股價高於其移動平均線，以及成交量放大。當多個獨立訊號一致時，可大幅降低假訊號的機會，亦更能確認背後是真實買盤，而非市場雜訊。"
   },
   "market_education": {
-    "summary_en": "Today's session was quiet with NASDAQ roughly flat (+0.2%) and the S&P 500 unchanged, suggesting no major macro catalyst moved sentiment either way. Trading activity was concentrated in individual stock stories rather than a broad index-wide move. No specific news headlines were available in today's feed to attribute the muted action to a single cause.",
-    "summary_zh": "今日大市表現平靜,納指微升0.2%,標普500指數幾乎沒有變動,反映市場缺乏明顯的宏觀催化劑帶動方向。成交主要集中在個股故事,而非整體指數的大幅波動。今日資訊未提供具體新聞標題,故未能歸因於單一事件。",
+    "summary_en": "Major indices drifted modestly lower today, with the NASDAQ down 0.2% and the S&P 500 down 0.3%, consistent with a quiet, low-catalyst trading session rather than any major news event. Without a clear economic surprise or earnings shock to drive flows, trading volume and conviction stayed muted across most sectors. Days like this are typically consolidation periods where the market digests recent moves before its next directional push.",
+    "summary_zh": "大市今日略為走軟，納指下跌0.2%，標普500指數下跌0.3%，反映市場缺乏明顯刺激因素，交投清淡。由於沒有重大經濟數據或業績意外帶動資金流向，多數板塊的買賣意欲均顯得保守。這類日子通常屬於市場消化先前升跌、等待下一個方向性走勢的整固階段。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TSEM",
+      "ticker": "CTSH",
       "conviction": "high",
-      "reasoning": "Only candidate with full 4-signal confluence (bullish RSI, MACD crossover, price above SMA-20, volume surge) indicating genuine institutional participation."
-    },
-    {
-      "action": "BUY",
-      "ticker": "XENE",
-      "conviction": "high",
-      "reasoning": "Same full multi-signal confirmation as TSEM (RSI, MACD, SMA-20, volume surge all aligned bullish)."
+      "reasoning": "CTSH is the only candidate showing all four confirmation signals — MACD bullish crossover, RSI 65.1 in the bullish zone, price above SMA-20, and a volume surge — indicating genuine buying interest even on an otherwise neutral day."
     }
   ],
   "outcomes": {

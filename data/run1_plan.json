@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-10-01T14:01:22.831961+00:00",
+  "saved_at": "2026-10-01T15:01:06.772468+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "TSEM",
+        "ticker": "CTSH",
         "conviction": "high",
-        "reasoning": "Only candidate with full 4-signal confluence (bullish RSI, MACD crossover, price above SMA-20, volume surge) indicating genuine institutional participation."
-      },
-      {
-        "action": "BUY",
-        "ticker": "XENE",
-        "conviction": "high",
-        "reasoning": "Same full multi-signal confirmation as TSEM (RSI, MACD, SMA-20, volume surge all aligned bullish)."
+        "reasoning": "CTSH is the only candidate showing all four confirmation signals \u2014 MACD bullish crossover, RSI 65.1 in the bullish zone, price above SMA-20, and a volume surge \u2014 indicating genuine buying interest even on an otherwise neutral day."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today (NASDAQ +0.2%, S&P 500 +0.0%), so there was no broad risk-on or risk-off signal. With cash above the $500 threshold and 3 open slots, we deployed into TSEM and XENE, the only two names showing full multi-signal confirmation (RSI, MACD, price vs SMA-20, and volume all aligned), and left existing positions untouched.",
+    "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.2%, S&P 500 -0.3%), giving no strong risk-on or risk-off signal. Rather than idling cash or exiting existing winners, we added one high-conviction position in CTSH, the single name with full multi-signal confirmation, and left the other 7 holdings untouched.",
     "market_education": {
-      "summary_en": "Today's session was quiet with NASDAQ roughly flat (+0.2%) and the S&P 500 unchanged, suggesting no major macro catalyst moved sentiment either way. Trading activity was concentrated in individual stock stories rather than a broad index-wide move. No specific news headlines were available in today's feed to attribute the muted action to a single cause.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u5e73\u975c,\u7d0d\u6307\u5fae\u53470.2%,\u6a19\u666e500\u6307\u6578\u5e7e\u4e4e\u6c92\u6709\u8b8a\u52d5,\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u7684\u5b8f\u89c0\u50ac\u5316\u5291\u5e36\u52d5\u65b9\u5411\u3002\u6210\u4ea4\u4e3b\u8981\u96c6\u4e2d\u5728\u500b\u80a1\u6545\u4e8b,\u800c\u975e\u6574\u9ad4\u6307\u6578\u7684\u5927\u5e45\u6ce2\u52d5\u3002\u4eca\u65e5\u8cc7\u8a0a\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c,\u6545\u672a\u80fd\u6b78\u56e0\u65bc\u55ae\u4e00\u4e8b\u4ef6\u3002",
+      "summary_en": "Major indices drifted modestly lower today, with the NASDAQ down 0.2% and the S&P 500 down 0.3%, consistent with a quiet, low-catalyst trading session rather than any major news event. Without a clear economic surprise or earnings shock to drive flows, trading volume and conviction stayed muted across most sectors. Days like this are typically consolidation periods where the market digests recent moves before its next directional push.",
+      "summary_zh": "\u5927\u5e02\u4eca\u65e5\u7565\u70ba\u8d70\u8edf\uff0c\u7d0d\u6307\u4e0b\u8dcc0.2%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.3%\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u523a\u6fc0\u56e0\u7d20\uff0c\u4ea4\u6295\u6e05\u6de1\u3002\u7531\u65bc\u6c92\u6709\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u696d\u7e3e\u610f\u5916\u5e36\u52d5\u8cc7\u91d1\u6d41\u5411\uff0c\u591a\u6578\u677f\u584a\u7684\u8cb7\u8ce3\u610f\u6b32\u5747\u986f\u5f97\u4fdd\u5b88\u3002\u9019\u985e\u65e5\u5b50\u901a\u5e38\u5c6c\u65bc\u5e02\u5834\u6d88\u5316\u5148\u524d\u5347\u8dcc\u3001\u7b49\u5f85\u4e0b\u4e00\u500b\u65b9\u5411\u6027\u8d70\u52e2\u7684\u6574\u56fa\u968e\u6bb5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means waiting for several technical signals to line up together \u2014 like RSI in a healthy bullish range, a MACD bullish crossover, price above its moving average, and a volume surge \u2014 before buying. A single bullish signal can be noise, but when they all agree, it's a stronger sign that real buying interest (not just a random blip) is behind the move.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d,\u7b49\u5f85\u591a\u500b\u6280\u8853\u6307\u6a19\u540c\u6642\u767c\u51fa\u4e00\u81f4\u7684\u8a0a\u865f\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u7684\u4e0a\u5347\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u5176\u79fb\u52d5\u5e73\u5747\u7dda,\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u3002\u55ae\u4e00\u7684\u5229\u597d\u8a0a\u865f\u53ef\u80fd\u53ea\u662f\u566a\u97f3,\u4f46\u7576\u6240\u6709\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u6642,\u5c31\u66f4\u6709\u529b\u5730\u986f\u793a\u80cc\u5f8c\u662f\u771f\u5be6\u7684\u8cb7\u76e4\u8208\u8da3,\u800c\u4e0d\u662f\u5076\u7136\u7684\u6ce2\u52d5\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Instead of acting on a single bullish clue, disciplined investors wait for several signals \u2014 like a MACD crossover, a healthy (not overbought) RSI, price above its moving average, and a volume surge \u2014 to line up together. When multiple independent signals agree, it lowers the chance of a false alarm and gives more confidence that real buying interest, not noise, is driving the move.",
+      "explanation_zh": "\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u4e0d\u6703\u55ae\u6191\u4e00\u500b\u5229\u597d\u8a0a\u865f\u5c31\u884c\u52d5\uff0c\u800c\u662f\u7b49\u5f85\u591a\u500b\u8a0a\u865f\u540c\u6642\u51fa\u73fe\uff0c\u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\uff08\u975e\u8d85\u8cb7\uff09\u5340\u9593\u3001\u80a1\u50f9\u9ad8\u65bc\u5176\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u3002\u7576\u591a\u500b\u7368\u7acb\u8a0a\u865f\u4e00\u81f4\u6642\uff0c\u53ef\u5927\u5e45\u964d\u4f4e\u5047\u8a0a\u865f\u7684\u6a5f\u6703\uff0c\u4ea6\u66f4\u80fd\u78ba\u8a8d\u80cc\u5f8c\u662f\u771f\u5be6\u8cb7\u76e4\uff0c\u800c\u975e\u5e02\u5834\u96dc\u8a0a\u3002"
     }
   }
 }
