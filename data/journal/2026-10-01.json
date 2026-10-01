@@ -1,17 +1,30 @@
 {
   "date": "2026-10-01",
-  "briefing": "Markets were flat today (NASDAQ +0.3%, S&P 500 +0.3%) with no clear risk-on signal. Top candidates show bullish RSI/MACD setups but lack the volume-surge confirmation needed for high-conviction entries, so we're holding our 7 positions and keeping cash in reserve for a stronger setup.",
+  "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.2%), so there's no broad risk-on signal, but two stocks (EFXT and KD) showed all four bullish confirmation signals together, which past experience says is worth acting on at the individual-stock level. With $889 cash and 3 open slots, we filled two of them with these high-conviction names rather than letting cash sit idle, while leaving existing positions untouched to let stop-losses and profit targets do their job.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. On a neutral day like today, with no candidates showing full multi-signal confirmation (momentum, trend, and volume all aligned), it's often better to hold cash than to force a trade just to stay fully invested.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者預留在場邊的現金，待真正出現強勁機會時才部署。像今日這種中性市況，沒有候選股票同時具備動量、趨勢及成交量三重訊號確認，持有現金觀望，往往比勉強買入以求「全倉」更為明智。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means waiting until several independent technical indicators — like RSI, MACD, price vs. moving average, and trading volume — all point the same direction before acting, rather than relying on just one signal. This reduces the chance of chasing a false or short-lived move, since it's much harder for four separate indicators to align by coincidence than for just one to do so.",
+    "explanation_zh": "多重訊號確認是指同時等待多個獨立的技術指標（例如RSI、MACD、股價相對移動平均線的位置，以及成交量）都指向同一方向，才作出交易決定，而非單憑一個指標行動。這樣可以大幅減少追高或誤判短暫波動的風險，因為四個指標同時同向出現的機率，遠低於單一指標偶然發出訊號的機率。"
   },
   "market_education": {
-    "summary_en": "Major indices traded roughly flat today, with both the NASDAQ and S&P 500 up about 0.3%, reflecting a lack of strong directional catalysts. Without major news driving sentiment, investors largely stayed on the sidelines, consolidating recent gains rather than pushing into new highs. This kind of quiet, low-volatility session often precedes a bigger move once a clearer catalyst emerges.",
-    "summary_zh": "今日大市窄幅徘徊，納斯達克指數及標普500指數均微升約0.3%，反映市場缺乏明顯的方向性催化劑。由於未有重大消息左右情緒，投資者普遍觀望，鞏固近期升幅而非進一步造好。這種低波動的平靜市況，往往是醞釀下一輪較大行情的前奏。",
+    "summary_en": "Broader indices were essentially flat today, with the S&P 500 up a modest 0.2% and the NASDAQ unchanged, suggesting investors are in a wait-and-see mode rather than reacting to major catalysts. Despite the muted index-level action, select mid-cap names like EFXT and KD showed strong individual momentum with volume surges, indicating stock-specific buying interest rather than a market-wide trend. This kind of divergence between flat indices and strong individual names is common and often reflects sector rotation or company-specific news rather than macro sentiment shifts.",
+    "summary_zh": "今日大盤表現平淡，標普500指數僅微升0.2%，納指持平，顯示投資者普遍處於觀望狀態，未見明顯催化因素帶動資金流向。然而，個別中型股如EFXT及KD卻錄得強勁升勢，並伴隨成交量明顯放大，反映資金正針對個股基本面或消息面進行佈局，而非跟隨大市方向。這種大盤平靜但個股活躍的背離現象，往往反映板塊輪動或企業特定消息，而非宏觀情緒轉變。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "EFXT",
+      "conviction": "high",
+      "reasoning": "All four bullish signals align (RSI in bullish zone, MACD crossover, price above SMA-20, volume surge), filling an open slot with available cash despite a neutral broader market."
+    },
+    {
+      "action": "BUY",
+      "ticker": "KD",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (RSI 61.1, MACD bullish crossover, price above SMA-20, volume surge) justifies deploying idle cash into a second open slot."
+    }
+  ],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
