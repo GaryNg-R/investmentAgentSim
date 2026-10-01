@@ -1,24 +1,17 @@
 {
   "date": "2026-10-01",
-  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.2%), so we held our existing 7 positions rather than forcing extra trades. We added one selective high-conviction buy in KD, which uniquely showed full multi-signal confirmation including a volume surge, while keeping the rest of our cash in reserve for a stronger risk-on day.",
+  "briefing": "Markets were flat today (NASDAQ +0.3%, S&P 500 +0.3%) with no clear risk-on signal. Top candidates show bullish RSI/MACD setups but lack the volume-surge confirmation needed for high-conviction entries, so we're holding our 7 positions and keeping cash in reserve for a stronger setup.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, which suggests real institutional buying rather than a random blip. When a stock shows bullish price action alongside a volume surge, it's a stronger signal than price movement alone.",
-    "explanation_zh": "成交量確認係指股價嘅升幅伴隨住異常高嘅成交量，顯示背後可能有機構投資者真金白銀買入，而唔係隨機波動。當一隻股票同時出現利好嘅價格走勢同成交量飆升，呢個信號會比單純價格變化更加可靠。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to deploy when a genuinely strong opportunity appears. On a neutral day like today, with no candidates showing full multi-signal confirmation (momentum, trend, and volume all aligned), it's often better to hold cash than to force a trade just to stay fully invested.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者預留在場邊的現金，待真正出現強勁機會時才部署。像今日這種中性市況，沒有候選股票同時具備動量、趨勢及成交量三重訊號確認，持有現金觀望，往往比勉強買入以求「全倉」更為明智。"
   },
   "market_education": {
-    "summary_en": "Markets traded essentially flat today with both the NASDAQ and S&P 500 up just 0.2%, indicating no major catalyst moved investor sentiment in either direction. With no sector-wide risk-on or risk-off trigger, stock-specific fundamentals and technical signals mattered more than broad market direction today. This is a typical consolidation day where individual stock momentum, like KD's volume-backed breakout, stands out against an otherwise quiet tape.",
-    "summary_zh": "今日大市幾乎橫行，納指同標普500指數同樣只升0.2%，顯示市場缺乏明顯利好或利淡消息帶動方向。喺冇整體風險偏好轉變嘅情況下，個股嘅基本面同技術走勢就顯得更加重要。今日屬於典型嘅整固日，好似KD呢類有成交量配合嘅突破股，就喺平淡嘅大市中特別突出。",
+    "summary_en": "Major indices traded roughly flat today, with both the NASDAQ and S&P 500 up about 0.3%, reflecting a lack of strong directional catalysts. Without major news driving sentiment, investors largely stayed on the sidelines, consolidating recent gains rather than pushing into new highs. This kind of quiet, low-volatility session often precedes a bigger move once a clearer catalyst emerges.",
+    "summary_zh": "今日大市窄幅徘徊，納斯達克指數及標普500指數均微升約0.3%，反映市場缺乏明顯的方向性催化劑。由於未有重大消息左右情緒，投資者普遍觀望，鞏固近期升幅而非進一步造好。這種低波動的平靜市況，往往是醞釀下一輪較大行情的前奏。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "KD",
-      "conviction": "high",
-      "reasoning": "KD shows all four confirming signals (bullish RSI 69.5, MACD bullish crossover, price above SMA-20, and a volume surge), the exact institutional-participation pattern our strategy memory flags as high conviction."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
