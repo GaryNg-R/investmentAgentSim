@@ -1,22 +1,22 @@
 {
   "date": "2026-10-01",
-  "briefing": "Markets were flat today (NASDAQ -0.3%, S&P 500 -0.2%), so we're not forcing aggressive deployment, but with $889 cash and 3 open slots well above the $500 threshold we added one medium-conviction position in GWRE for diversification while letting existing winners run.",
+  "briefing": "Markets were flat today (NASDAQ +0.2%, S&P 500 +0.2%), so we held our existing 7 positions rather than forcing extra trades. We added one selective high-conviction buy in KD, which uniquely showed full multi-signal confirmation including a volume surge, while keeping the rest of our cash in reserve for a stronger risk-on day.",
   "daily_lesson": {
-    "term": "Diversification",
-    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink the whole portfolio. Today's buy added a software/insurance-tech name to a portfolio that was heavily weighted toward semiconductors and hardware, reducing the risk of a single-sector shock.",
-    "explanation_zh": "分散投資是指將資金分配到不同行業，以免單一行業的下跌拖累整個投資組合。今日買入的是軟件╱保險科技股，有助平衡組合內原本偏重半導體及硬件股的風險。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, which suggests real institutional buying rather than a random blip. When a stock shows bullish price action alongside a volume surge, it's a stronger signal than price movement alone.",
+    "explanation_zh": "成交量確認係指股價嘅升幅伴隨住異常高嘅成交量，顯示背後可能有機構投資者真金白銀買入，而唔係隨機波動。當一隻股票同時出現利好嘅價格走勢同成交量飆升，呢個信號會比單純價格變化更加可靠。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today in quiet, directionless trading with no major catalyst driving the move. Both the NASDAQ and S&P 500 posted small losses under 1%, consistent with a pause after recent gains rather than any shift in sentiment. Trading volume and volatility stayed muted, suggesting investors are waiting for fresh data before taking a strong directional view.",
-    "summary_zh": "今日大市窄幅波動，納指及標普500均錄得輕微跌幅，未見明顯利淡消息帶動，市場氣氛屬觀望性質，較似是近期升勢後的短暫整固，而非趨勢逆轉。成交量及波幅均維持平靜，反映投資者正等待更多經濟數據以尋找方向。",
+    "summary_en": "Markets traded essentially flat today with both the NASDAQ and S&P 500 up just 0.2%, indicating no major catalyst moved investor sentiment in either direction. With no sector-wide risk-on or risk-off trigger, stock-specific fundamentals and technical signals mattered more than broad market direction today. This is a typical consolidation day where individual stock momentum, like KD's volume-backed breakout, stands out against an otherwise quiet tape.",
+    "summary_zh": "今日大市幾乎橫行，納指同標普500指數同樣只升0.2%，顯示市場缺乏明顯利好或利淡消息帶動方向。喺冇整體風險偏好轉變嘅情況下，個股嘅基本面同技術走勢就顯得更加重要。今日屬於典型嘅整固日，好似KD呢類有成交量配合嘅突破股，就喺平淡嘅大市中特別突出。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "GWRE",
-      "conviction": "medium",
-      "reasoning": "Score 95 with RSI in bullish zone, bullish MACD crossover, and price above SMA-20 gives solid momentum, and it adds software-sector diversification versus the portfolio's existing semiconductor/hardware tilt."
+      "ticker": "KD",
+      "conviction": "high",
+      "reasoning": "KD shows all four confirming signals (bullish RSI 69.5, MACD bullish crossover, price above SMA-20, and a volume surge), the exact institutional-participation pattern our strategy memory flags as high conviction."
     }
   ],
   "outcomes": {
