@@ -1,34 +1,34 @@
 {
   "date": "2026-10-02",
-  "briefing": "NASDAQ +1.2% and S&P 500 +0.7% confirm a risk-on day, so we deployed idle cash into three of the highest-scoring momentum candidates (NU, KRMN, INIO) rather than holding back. Existing positions are left untouched since the market doesn't warrant exiting winners on a strong day.",
+  "briefing": "NASDAQ +1.1% and S&P 500 +0.7% confirm a risk-on day, so with 3 open slots and cash above the $500 threshold we deployed into our three highest-scoring, non-overbought momentum candidates (PPC, KRMN, JBS) rather than sitting on idle cash. Existing positions are held unchanged since nothing here warrants an exit on a constructive market day.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like rising price, bullish moving averages, and strong relative strength (RSI). The idea is that stocks moving up tend to keep moving up in the short term, so today's buys were chosen because they showed multiple confirming bullish signals together.",
-    "explanation_zh": "動能投資（Momentum Investing）是指買入已經處於上升趨勢的股票，依據的訊號包括價格上升、均線呈現利好排列，以及相對強度指標（RSI）走強。其理念是短期內上升中的股票往往會延續升勢，因此今日的買入選擇都同時出現多個利好訊號確認。"
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today's buys were chosen because they showed multiple confirming technical signals together — bullish RSI, a MACD crossover, and price above the 20-day moving average — rather than relying on just one indicator.",
+    "explanation_zh": "動能投資（Momentum Investing）是指買入已經處於上升趨勢的股票，其理念是近期表現強勁的股票在短期內往往會延續走勢。今日選股是因為同時出現多個技術指標確認訊號——RSI處於多頭區間、MACD出現黃金交叉、股價高於20日均線——而非僅依賴單一指標做判斷。"
   },
   "market_education": {
-    "summary_en": "Markets moved broadly higher today with NASDAQ outpacing the S&P 500, a pattern typically driven by renewed buying in growth and tech-adjacent names during risk-on sessions. No specific company headlines were available in today's feed to attribute the move to a single catalyst. The breadth of the gain (both indices up together) suggests a market-wide shift in sentiment rather than an isolated event.",
-    "summary_zh": "今日大市普遍上揚，納斯達克指數升幅跑贏標普500指數，這種走勢通常反映市場在風險偏好（risk-on）情緒下重新流入科技及成長股。今日資訊中未有具體的企業新聞標題可歸因於某單一事件。兩大指數同步上升，顯示市場情緒整體轉強，而非個別消息刺激。",
+    "summary_en": "Broad market gains today, with the NASDAQ up 1.1% and the S&P 500 up 0.7%, reflect a general risk-on tone among investors rather than any single catalyst noted in available data. Momentum names with strong technical setups (RSI in bullish range, MACD crossovers, price above moving averages) tend to outperform on days like this as capital flows into names already showing institutional buying interest. No specific news headlines were available to cite for today's move.",
+    "summary_zh": "今日大盤普遍上漲，納斯達克指數上升1.1%，標普500指數上升0.7%，反映市場整體偏向風險偏好（risk-on）氛圍，而非單一特定消息面因素。在這類日子，技術面強勁的動能股（RSI處於多頭區間、MACD出現黃金交叉、股價高於移動均線）往往表現較佳，因資金傾向流入已顯示機構買盤興趣的個股。今日暫無可引用的具體新聞標題。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NU",
+      "ticker": "PPC",
       "conviction": "medium",
-      "reasoning": "RSI 64 in bullish zone with MACD bullish crossover and rising histogram above SMA-20, fitting the risk-on day without being overbought."
+      "reasoning": "Score 95 with RSI 55.6 in the healthy bullish zone, MACD bullish crossover, and price above SMA-20 signal room to run before overbought."
     },
     {
       "action": "BUY",
       "ticker": "KRMN",
       "conviction": "medium",
-      "reasoning": "Top score with RSI 61.3, bullish MACD crossover and price above SMA-20 gives solid momentum confirmation without overbought risk."
+      "reasoning": "Score 95 with RSI 62.2, confirmed MACD crossover and rising histogram, price above SMA-20 on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "INIO",
+      "ticker": "JBS",
       "conviction": "medium",
-      "reasoning": "Score 95 with bullish RSI, MACD crossover and rising histogram supports deploying cash into a genuine risk-on setup."
+      "reasoning": "Score 95 with RSI 62.8 still well below overbought, MACD crossover and price above SMA-20 support continued momentum."
     }
   ],
   "outcomes": {
