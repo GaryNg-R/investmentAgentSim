@@ -1,14 +1,14 @@
 {
   "date": "2026-10-02",
-  "briefing": "Markets are risk-on today with NASDAQ +1.2% and S&P 500 +0.7%. With cash above the deployment threshold and two open slots, we bought QGEN (highest-conviction setup with a volume-confirmed breakout) and PL (strong momentum, lower overbought risk) while leaving one slot open to stay disciplined.",
+  "briefing": "Markets were risk-on today with NASDAQ up 1.2% and S&P 500 up 0.7%. With $889 in cash and 3 open slots, we deployed into QGEN and SPCX, both showing full multi-signal bullish confirmation (RSI, MACD crossover, rising momentum, price above SMA-20), while holding our existing winners.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "When a stock's price rises on unusually high trading volume, it suggests that large institutional investors are participating in the move, not just a handful of small traders. This makes the breakout more reliable than a price move on low or average volume.",
-    "explanation_zh": "當股價上升並伴隨異常高的成交量時，代表大型機構投資者正參與其中，而非僅有少數散戶交易。相比成交量偏低或平均時的價格變動，這種突破更為可靠。"
+    "term": "Technical Confluence",
+    "explanation_en": "Technical confluence means multiple independent indicators — like RSI, MACD, and moving averages — all point the same direction at once. When several signals agree, it's generally considered stronger evidence of a real trend than relying on just one indicator alone.",
+    "explanation_zh": "技術指標共振是指多個獨立指標(如RSI、MACD及移動平均線)同時指向同一方向。當多項訊號一致時，通常被視為比單靠一個指標更可靠的趨勢證據。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today reflect continued risk appetite among investors, with the NASDAQ outperforming the S&P 500, suggesting growth and tech names are leading the rally. No specific news catalysts were provided for today's session, so the move appears driven by broad sentiment rather than a single headline event.",
-    "summary_zh": "今日大市普遍上漲，反映投資者風險胃納持續回升，納斯達克表現優於標普500，顯示增長股及科技股領漲大市。今日未有提供具體新聞消息，故此次升勢似乎由整體市場情緒帶動，而非單一事件觸發。",
+    "summary_en": "Broad market strength today, with the NASDAQ outpacing the S&P 500, suggests continued risk appetite for growth and tech-adjacent names. Momentum names showing multiple confirming technical signals — healthy RSI, bullish MACD crossovers, and prices holding above their 20-day averages — tend to attract further buying interest in these conditions. No major single catalyst stood out; the gains appear broad-based rather than news-driven.",
+    "summary_zh": "今日大市表現強勁，納指升幅跑贏標普500指數，反映市場對科技及成長股的風險胃納持續。多隻股票同時出現技術指標共振訊號——包括RSI處於健康區間、MACD出現黃金交叉、股價企穩於20日均線之上——在此市況下往往更易吸引資金追捧。今日升勢屬大市普遍性上揚,並非由單一重大消息帶動。",
     "sources": []
   },
   "trades": [
@@ -16,13 +16,13 @@
       "action": "BUY",
       "ticker": "QGEN",
       "conviction": "high",
-      "reasoning": "Top-scored candidate with full signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge indicating institutional buying."
+      "reasoning": "Score 95 with full bullish confirmation (RSI 61, MACD crossover, rising histogram, price above SMA-20) and adds healthcare diversification away from tech-heavy holdings."
     },
     {
       "action": "BUY",
-      "ticker": "PL",
+      "ticker": "SPCX",
       "conviction": "medium",
-      "reasoning": "Strong momentum setup with RSI furthest from overbought among the 95-score tier, MACD crossover and rising histogram, adding diversification away from existing semiconductor-heavy holdings."
+      "reasoning": "Score 95 with all four bullish signals confirmed on a risk-on day, deploying idle cash into a new sector (aerospace) for diversification."
     }
   ],
   "outcomes": {
