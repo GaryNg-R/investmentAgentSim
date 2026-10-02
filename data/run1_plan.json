@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-10-02T13:01:14.998192+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-10-02T14:01:06.001337+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "CRDO",
+        "ticker": "RKLB",
         "conviction": "high",
-        "reasoning": "Full five-signal confirmation (bullish RSI, MACD crossover with rising histogram, price above SMA-20, volume surge) signals strong institutional buying despite a flat broader market."
+        "reasoning": "Full bullish signal confirmation (MACD crossover, RSI 63.4, price above SMA-20, volume surge) on a risk-on day, and adds space/aerospace exposure not currently in the portfolio."
       },
       {
         "action": "BUY",
-        "ticker": "PBF",
+        "ticker": "TSLA",
+        "conviction": "high",
+        "reasoning": "Top-scored large-cap with all four momentum signals confirmed, giving more liquid, lower-volatility exposure than the smaller-cap candidates."
+      },
+      {
+        "action": "BUY",
+        "ticker": "PCG",
         "conviction": "medium",
-        "reasoning": "Same five-signal confirmation as CRDO with RSI nearing overbought, so sized smaller for diversification into energy while filling an open slot."
+        "reasoning": "Same full signal confirmation as the top candidates but in a defensive utility sector, diversifying away from the tech/semi tilt already in the portfolio."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were essentially flat today (NASDAQ +0.0%, S&P 500 +0.2%), a neutral session with no broad risk-on or risk-off signal. With cash well above the deployment threshold and open slots available, we selectively added two names showing full multi-signal technical confirmation (CRDO, PBF) rather than holding all cash idle, while leaving one slot open given the lack of a strong market tailwind.",
+    "briefing": "Markets are risk-on today with NASDAQ +1.4% and S&P 500 +0.8%. With $889 cash and 3 open slots, we deployed into RKLB, TSLA, and PCG \u2014 all showing full bullish momentum confirmation (MACD crossover, healthy RSI, price above SMA-20, volume surge) while favoring sectors we weren't yet exposed to over the crowded crypto-miner names on the list.",
     "market_education": {
-      "summary_en": "Major indices traded essentially sideways today, with the S&P 500 inching up 0.2% and the NASDAQ flat, reflecting a lack of major catalysts to push markets decisively in either direction. Without a clear macro trigger, trading activity concentrated in individual stocks showing strong technical setups rather than broad sector rotation. This kind of quiet, directionless session is common between major economic data releases or earnings catalysts.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u6301\u5e73\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u53470.2%\uff0c\u7d0d\u6307\u5247\u5e7e\u4e4e\u96f6\u8b8a\u52d5\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u91cd\u5927\u50ac\u5316\u56e0\u7d20\u63a8\u52d5\u65b9\u5411\u6027\u8d70\u52e2\u3002\u5728\u6c92\u6709\u660e\u78ba\u5b8f\u89c0\u9a45\u52d5\u4e0b\uff0c\u8cc7\u91d1\u66f4\u591a\u96c6\u4e2d\u65bc\u500b\u5225\u5177\u5f37\u52c1\u6280\u8853\u5f62\u614b\u7684\u80a1\u7968\uff0c\u800c\u975e\u677f\u584a\u6027\u8f2a\u52d5\u3002\u9019\u7a2e\u6e05\u6de1\u4e14\u65b9\u5411\u4e0d\u660e\u7684\u4ea4\u6613\u65e5\uff0c\u5728\u91cd\u5927\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u516c\u5e03\u4e4b\u9593\u76f8\u7576\u5e38\u898b\u3002",
+      "summary_en": "Broad risk appetite returned today, lifting both the NASDAQ and S&P 500, with technology and growth names leading the advance. Trading volume surged across many momentum names, suggesting institutional buyers stepped back in rather than just retail speculation. No single catalyst dominated; it reads as a broad continuation of the recent risk-on trend rather than one specific news event.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u98a8\u96aa\u504f\u597d\u56de\u5347,\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u63da,\u79d1\u6280\u53ca\u589e\u9577\u80a1\u9818\u6f32\u3002\u591a\u96bb\u52d5\u80fd\u80a1\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927,\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u91cd\u65b0\u9032\u5834,\u800c\u975e\u55ae\u7d14\u6563\u6236\u7092\u4f5c\u3002\u5e02\u5834\u4e26\u7121\u55ae\u4e00\u4e3b\u5c0e\u6d88\u606f,\u66f4\u50cf\u662f\u8fd1\u671f\u98a8\u96aa\u504f\u597d\u5347\u6eab\u8da8\u52e2\u7684\u5ef6\u7e8c\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that the trend is likely to continue in the near term. Today's market overall was flat, but individual stocks like CRDO and PBF showed multiple confirming technical signals (rising MACD, healthy RSI, volume surge), which is the kind of setup momentum investors look for even when the broader index isn't moving much.",
-      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u50f9\u683c\u548c\u6210\u4ea4\u91cf\u5df2\u986f\u793a\u5f37\u52c1\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u7406\u8ad6\u4f9d\u64da\u662f\u9019\u7a2e\u8da8\u52e2\u5728\u77ed\u671f\u5167\u53ef\u80fd\u6301\u7e8c\u3002\u96d6\u7136\u4eca\u65e5\u5927\u76e4\u6574\u9ad4\u6301\u5e73\uff0c\u4f46\u50cfCRDO\u548cPBF\u9019\u985e\u500b\u80a1\u537b\u51fa\u73fe\u591a\u9805\u78ba\u8a8d\u6027\u6280\u8853\u8a0a\u865f\uff08MACD\u4e0a\u5347\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001\u6210\u4ea4\u91cf\u653e\u5927\uff09\uff0c\u9019\u6b63\u662f\u52d5\u91cf\u6295\u8cc7\u8005\u5373\u4f7f\u5728\u5927\u76e4\u8b8a\u5316\u4e0d\u5927\u6642\u4e5f\u6703\u7559\u610f\u7684\u8cb7\u5165\u6a5f\u6703\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strength tends to continue in the short term. Today's picks all showed four confirming signals together \u2014 rising price, healthy RSI, a bullish MACD crossover, and a volume surge \u2014 which is a stronger signal than any single indicator alone.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u6b63\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u80cc\u5f8c\u7684\u7406\u5ff5\u662f\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u7968\u5f80\u5f80\u6703\u5ef6\u7e8c\u5176\u8d70\u52e2\u3002\u4eca\u5929\u9078\u4e2d\u7684\u80a1\u7968\u540c\u6642\u51fa\u73fe\u56db\u500b\u78ba\u8a8d\u8a0a\u865f\u2014\u2014\u80a1\u50f9\u4e0a\u5347\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9,\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u5177\u8aaa\u670d\u529b\u3002"
     }
   }
 }
