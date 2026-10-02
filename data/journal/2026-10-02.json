@@ -1,34 +1,28 @@
 {
   "date": "2026-10-02",
-  "briefing": "Markets were risk-on today with NASDAQ up 1.5% and the S&P 500 up 0.9%, continuing recent bullish momentum. With $889 in cash and 3 open slots, we deployed into three diversified momentum names (RKLB, SEDG, NOK) that show bullish RSI, MACD crossovers and rising momentum, while holding all existing positions since none hit stop-loss or profit-target levels.",
+  "briefing": "Markets are risk-on today with NASDAQ +1.2% and S&P 500 +0.7%. With cash above the deployment threshold and two open slots, we bought QGEN (highest-conviction setup with a volume-confirmed breakout) and PL (strong momentum, lower overbought risk) while leaving one slot open to stay disciplined.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Today's buys were chosen because they showed multiple bullish technical signals together, like a rising price trend and positive momentum indicators, rather than just one signal alone.",
-    "explanation_zh": "動能投資是指買入近期表現強勢、持續上升的股票，原理是短期內強勢股票往往會延續升勢。今日選股時特別留意同時出現多個看漲技術訊號的股票，例如股價上升趨勢配合正面的動能指標，而非單憑一個訊號就作出買入決定。"
+    "term": "Volume Confirmation",
+    "explanation_en": "When a stock's price rises on unusually high trading volume, it suggests that large institutional investors are participating in the move, not just a handful of small traders. This makes the breakout more reliable than a price move on low or average volume.",
+    "explanation_zh": "當股價上升並伴隨異常高的成交量時，代表大型機構投資者正參與其中，而非僅有少數散戶交易。相比成交量偏低或平均時的價格變動，這種突破更為可靠。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today were driven by continued risk-on sentiment across tech and growth sectors, with the NASDAQ outperforming the S&P 500 as investors rotated into momentum names. No major negative catalysts emerged, allowing bullish technical setups (MACD crossovers, RSI in healthy ranges) to persist across many growth stocks. This follow-through strength after prior risk-on sessions suggests institutional buying remains supportive of equities.",
-    "summary_zh": "今日大盤延續風險偏好情緒，科技股及成長股普遍上漲，納斯達克指數升幅跑贏標普500指數，反映資金持續流入動能股。市場未見重大利淡消息，令不少成長股的技術指標（如MACD黃金交叉、RSI處於健康區間）得以延續升勢。這次承接早前風險偏好市況的強勢，顯示機構資金仍對股市提供支持。",
+    "summary_en": "Broad market gains today reflect continued risk appetite among investors, with the NASDAQ outperforming the S&P 500, suggesting growth and tech names are leading the rally. No specific news catalysts were provided for today's session, so the move appears driven by broad sentiment rather than a single headline event.",
+    "summary_zh": "今日大市普遍上漲，反映投資者風險胃納持續回升，納斯達克表現優於標普500，顯示增長股及科技股領漲大市。今日未有提供具體新聞消息，故此次升勢似乎由整體市場情緒帶動，而非單一事件觸發。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "RKLB",
-      "conviction": "medium",
-      "reasoning": "Score 95 with RSI 63.9 in bullish zone, bullish MACD crossover and rising histogram, and price above SMA-20 signal continued momentum, adding sector diversification away from existing tech-heavy holdings."
+      "ticker": "QGEN",
+      "conviction": "high",
+      "reasoning": "Top-scored candidate with full signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge indicating institutional buying."
     },
     {
       "action": "BUY",
-      "ticker": "SEDG",
+      "ticker": "PL",
       "conviction": "medium",
-      "reasoning": "Clean bullish setup (RSI 62.0, MACD crossover, rising histogram, price above SMA-20) in solar/clean energy, diversifying the portfolio beyond current semiconductor and index exposure."
-    },
-    {
-      "action": "BUY",
-      "ticker": "NOK",
-      "conviction": "medium",
-      "reasoning": "RSI 64.4 with confirmed bullish MACD crossover and rising histogram above SMA-20 offers a lower-priced momentum add in telecom hardware, further diversifying sector exposure on a risk-on day."
+      "reasoning": "Strong momentum setup with RSI furthest from overbought among the 95-score tier, MACD crossover and rising histogram, adding diversification away from existing semiconductor-heavy holdings."
     }
   ],
   "outcomes": {
