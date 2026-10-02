@@ -1,34 +1,34 @@
 {
   "date": "2026-10-02",
-  "briefing": "NASDAQ +1.1% and S&P 500 +0.7% confirm a risk-on day, so with 3 open slots and cash above the $500 threshold we deployed into our three highest-scoring, non-overbought momentum candidates (PPC, KRMN, JBS) rather than sitting on idle cash. Existing positions are held unchanged since nothing here warrants an exit on a constructive market day.",
+  "briefing": "NASDAQ +1.2% and S&P 500 +0.7% confirm a risk-on day, so per our strategy of deploying idle cash on genuine risk-on signals, we're filling all 3 open slots with PPC and AADX (full multi-signal confirmation) and TGB (medium conviction). Existing 7 positions are held unchanged — stop-loss and profit targets will handle exits automatically.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today's buys were chosen because they showed multiple confirming technical signals together — bullish RSI, a MACD crossover, and price above the 20-day moving average — rather than relying on just one indicator.",
-    "explanation_zh": "動能投資（Momentum Investing）是指買入已經處於上升趨勢的股票，其理念是近期表現強勁的股票在短期內往往會延續走勢。今日選股是因為同時出現多個技術指標確認訊號——RSI處於多頭區間、MACD出現黃金交叉、股價高於20日均線——而非僅依賴單一指標做判斷。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying on just one bullish sign, strong traders wait for several indicators — like RSI, MACD, price trend, and trading volume — to all point the same direction at once. When multiple signals agree, it's more likely real money (not just noise) is driving the move.",
+    "explanation_zh": "強勢的交易者不會只憑單一利好訊號就買入，而是等待多個指標——例如RSI、MACD、價格趨勢及成交量——同時指向同一方向。當多個訊號一致時，代表背後很可能有真實資金流入，而非單純市場雜訊。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today, with the NASDAQ up 1.1% and the S&P 500 up 0.7%, reflect a general risk-on tone among investors rather than any single catalyst noted in available data. Momentum names with strong technical setups (RSI in bullish range, MACD crossovers, price above moving averages) tend to outperform on days like this as capital flows into names already showing institutional buying interest. No specific news headlines were available to cite for today's move.",
-    "summary_zh": "今日大盤普遍上漲，納斯達克指數上升1.1%，標普500指數上升0.7%，反映市場整體偏向風險偏好（risk-on）氛圍，而非單一特定消息面因素。在這類日子，技術面強勁的動能股（RSI處於多頭區間、MACD出現黃金交叉、股價高於移動均線）往往表現較佳，因資金傾向流入已顯示機構買盤興趣的個股。今日暫無可引用的具體新聞標題。",
+    "summary_en": "Broad market strength today pushed both the NASDAQ and S&P 500 higher, with tech and growth names leading the advance. Rising volume alongside bullish MACD crossovers across several small and mid-cap names suggests institutional buyers are stepping back in rather than just short-term speculation. No single headline-driven catalyst stands out; this looks like a broad risk-on rotation.",
+    "summary_zh": "今日大盤普遍走強，納斯達克及標普500指數同步上揚，科技及增長股領漲。多隻中小型股出現MACD黃金交叉並伴隨成交量放大，顯示機構資金正重新進場，而非單純短線投機。今次未見單一新聞觸發因素，較似是一次廣泛的風險偏好（risk-on）輪動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
       "ticker": "PPC",
-      "conviction": "medium",
-      "reasoning": "Score 95 with RSI 55.6 in the healthy bullish zone, MACD bullish crossover, and price above SMA-20 signal room to run before overbought."
+      "conviction": "high",
+      "reasoning": "All four confirmation signals align — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge — on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "KRMN",
-      "conviction": "medium",
-      "reasoning": "Score 95 with RSI 62.2, confirmed MACD crossover and rising histogram, price above SMA-20 on a risk-on day."
+      "ticker": "AADX",
+      "conviction": "high",
+      "reasoning": "Same full four-signal confirmation as PPC (RSI, MACD crossover, price above SMA-20, volume surge) indicating genuine institutional participation."
     },
     {
       "action": "BUY",
-      "ticker": "JBS",
+      "ticker": "TGB",
       "conviction": "medium",
-      "reasoning": "Score 95 with RSI 62.8 still well below overbought, MACD crossover and price above SMA-20 support continued momentum."
+      "reasoning": "Strong bullish RSI and MACD crossover with price above SMA-20, though lacking a volume surge, fills the third open slot on a risk-on day."
     }
   ],
   "outcomes": {
