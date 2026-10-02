@@ -1,34 +1,34 @@
 {
   "date": "2026-10-02",
-  "briefing": "Markets are risk-on today with NASDAQ +1.4% and S&P 500 +0.8%. With $889 cash and 3 open slots, we deployed into RKLB, TSLA, and PCG — all showing full bullish momentum confirmation (MACD crossover, healthy RSI, price above SMA-20, volume surge) while favoring sectors we weren't yet exposed to over the crowded crypto-miner names on the list.",
+  "briefing": "Markets were risk-on today with NASDAQ up 1.5% and the S&P 500 up 0.9%, continuing recent bullish momentum. With $889 in cash and 3 open slots, we deployed into three diversified momentum names (RKLB, SEDG, NOK) that show bullish RSI, MACD crossovers and rising momentum, while holding all existing positions since none hit stop-loss or profit-target levels.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strength tends to continue in the short term. Today's picks all showed four confirming signals together — rising price, healthy RSI, a bullish MACD crossover, and a volume surge — which is a stronger signal than any single indicator alone.",
-    "explanation_zh": "動能投資是指買入正處於上升趨勢的股票,背後的理念是短期內強勢股票往往會延續其走勢。今天選中的股票同時出現四個確認訊號——股價上升、RSI處於健康區間、MACD出現黃金交叉,以及成交量放大——比單一指標更具說服力。"
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Today's buys were chosen because they showed multiple bullish technical signals together, like a rising price trend and positive momentum indicators, rather than just one signal alone.",
+    "explanation_zh": "動能投資是指買入近期表現強勢、持續上升的股票，原理是短期內強勢股票往往會延續升勢。今日選股時特別留意同時出現多個看漲技術訊號的股票，例如股價上升趨勢配合正面的動能指標，而非單憑一個訊號就作出買入決定。"
   },
   "market_education": {
-    "summary_en": "Broad risk appetite returned today, lifting both the NASDAQ and S&P 500, with technology and growth names leading the advance. Trading volume surged across many momentum names, suggesting institutional buyers stepped back in rather than just retail speculation. No single catalyst dominated; it reads as a broad continuation of the recent risk-on trend rather than one specific news event.",
-    "summary_zh": "今日市場風險偏好回升,納斯達克及標普500指數同步上揚,科技及增長股領漲。多隻動能股成交量明顯放大,顯示機構資金重新進場,而非單純散戶炒作。市場並無單一主導消息,更像是近期風險偏好升溫趨勢的延續。",
+    "summary_en": "Broad market gains today were driven by continued risk-on sentiment across tech and growth sectors, with the NASDAQ outperforming the S&P 500 as investors rotated into momentum names. No major negative catalysts emerged, allowing bullish technical setups (MACD crossovers, RSI in healthy ranges) to persist across many growth stocks. This follow-through strength after prior risk-on sessions suggests institutional buying remains supportive of equities.",
+    "summary_zh": "今日大盤延續風險偏好情緒，科技股及成長股普遍上漲，納斯達克指數升幅跑贏標普500指數，反映資金持續流入動能股。市場未見重大利淡消息，令不少成長股的技術指標（如MACD黃金交叉、RSI處於健康區間）得以延續升勢。這次承接早前風險偏好市況的強勢，顯示機構資金仍對股市提供支持。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
       "ticker": "RKLB",
-      "conviction": "high",
-      "reasoning": "Full bullish signal confirmation (MACD crossover, RSI 63.4, price above SMA-20, volume surge) on a risk-on day, and adds space/aerospace exposure not currently in the portfolio."
-    },
-    {
-      "action": "BUY",
-      "ticker": "TSLA",
-      "conviction": "high",
-      "reasoning": "Top-scored large-cap with all four momentum signals confirmed, giving more liquid, lower-volatility exposure than the smaller-cap candidates."
-    },
-    {
-      "action": "BUY",
-      "ticker": "PCG",
       "conviction": "medium",
-      "reasoning": "Same full signal confirmation as the top candidates but in a defensive utility sector, diversifying away from the tech/semi tilt already in the portfolio."
+      "reasoning": "Score 95 with RSI 63.9 in bullish zone, bullish MACD crossover and rising histogram, and price above SMA-20 signal continued momentum, adding sector diversification away from existing tech-heavy holdings."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SEDG",
+      "conviction": "medium",
+      "reasoning": "Clean bullish setup (RSI 62.0, MACD crossover, rising histogram, price above SMA-20) in solar/clean energy, diversifying the portfolio beyond current semiconductor and index exposure."
+    },
+    {
+      "action": "BUY",
+      "ticker": "NOK",
+      "conviction": "medium",
+      "reasoning": "RSI 64.4 with confirmed bullish MACD crossover and rising histogram above SMA-20 offers a lower-priced momentum add in telecom hardware, further diversifying sector exposure on a risk-on day."
     }
   ],
   "outcomes": {
