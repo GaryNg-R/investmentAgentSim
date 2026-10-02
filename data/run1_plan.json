@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-10-02T17:00:46.066187+00:00",
+  "saved_at": "2026-10-02T18:01:02.243142+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "QGEN",
-        "conviction": "high",
-        "reasoning": "Score 95 with full bullish confirmation (RSI 61, MACD crossover, rising histogram, price above SMA-20) and adds healthcare diversification away from tech-heavy holdings."
+        "ticker": "NU",
+        "conviction": "medium",
+        "reasoning": "RSI 64 in bullish zone with MACD bullish crossover and rising histogram above SMA-20, fitting the risk-on day without being overbought."
       },
       {
         "action": "BUY",
-        "ticker": "SPCX",
+        "ticker": "KRMN",
         "conviction": "medium",
-        "reasoning": "Score 95 with all four bullish signals confirmed on a risk-on day, deploying idle cash into a new sector (aerospace) for diversification."
+        "reasoning": "Top score with RSI 61.3, bullish MACD crossover and price above SMA-20 gives solid momentum confirmation without overbought risk."
+      },
+      {
+        "action": "BUY",
+        "ticker": "INIO",
+        "conviction": "medium",
+        "reasoning": "Score 95 with bullish RSI, MACD crossover and rising histogram supports deploying cash into a genuine risk-on setup."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were risk-on today with NASDAQ up 1.2% and S&P 500 up 0.7%. With $889 in cash and 3 open slots, we deployed into QGEN and SPCX, both showing full multi-signal bullish confirmation (RSI, MACD crossover, rising momentum, price above SMA-20), while holding our existing winners.",
+    "briefing": "NASDAQ +1.2% and S&P 500 +0.7% confirm a risk-on day, so we deployed idle cash into three of the highest-scoring momentum candidates (NU, KRMN, INIO) rather than holding back. Existing positions are left untouched since the market doesn't warrant exiting winners on a strong day.",
     "market_education": {
-      "summary_en": "Broad market strength today, with the NASDAQ outpacing the S&P 500, suggests continued risk appetite for growth and tech-adjacent names. Momentum names showing multiple confirming technical signals \u2014 healthy RSI, bullish MACD crossovers, and prices holding above their 20-day averages \u2014 tend to attract further buying interest in these conditions. No major single catalyst stood out; the gains appear broad-based rather than news-driven.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u5f37\u52c1\uff0c\u7d0d\u6307\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u79d1\u6280\u53ca\u6210\u9577\u80a1\u7684\u98a8\u96aa\u80c3\u7d0d\u6301\u7e8c\u3002\u591a\u96bb\u80a1\u7968\u540c\u6642\u51fa\u73fe\u6280\u8853\u6307\u6a19\u5171\u632f\u8a0a\u865f\u2014\u2014\u5305\u62ecRSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u4f01\u7a69\u65bc20\u65e5\u5747\u7dda\u4e4b\u4e0a\u2014\u2014\u5728\u6b64\u5e02\u6cc1\u4e0b\u5f80\u5f80\u66f4\u6613\u5438\u5f15\u8cc7\u91d1\u8ffd\u6367\u3002\u4eca\u65e5\u5347\u52e2\u5c6c\u5927\u5e02\u666e\u904d\u6027\u4e0a\u63da,\u4e26\u975e\u7531\u55ae\u4e00\u91cd\u5927\u6d88\u606f\u5e36\u52d5\u3002",
+      "summary_en": "Markets moved broadly higher today with NASDAQ outpacing the S&P 500, a pattern typically driven by renewed buying in growth and tech-adjacent names during risk-on sessions. No specific company headlines were available in today's feed to attribute the move to a single catalyst. The breadth of the gain (both indices up together) suggests a market-wide shift in sentiment rather than an isolated event.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u9019\u7a2e\u8d70\u52e2\u901a\u5e38\u53cd\u6620\u5e02\u5834\u5728\u98a8\u96aa\u504f\u597d\uff08risk-on\uff09\u60c5\u7dd2\u4e0b\u91cd\u65b0\u6d41\u5165\u79d1\u6280\u53ca\u6210\u9577\u80a1\u3002\u4eca\u65e5\u8cc7\u8a0a\u4e2d\u672a\u6709\u5177\u9ad4\u7684\u4f01\u696d\u65b0\u805e\u6a19\u984c\u53ef\u6b78\u56e0\u65bc\u67d0\u55ae\u4e00\u4e8b\u4ef6\u3002\u5169\u5927\u6307\u6578\u540c\u6b65\u4e0a\u5347\uff0c\u986f\u793a\u5e02\u5834\u60c5\u7dd2\u6574\u9ad4\u8f49\u5f37\uff0c\u800c\u975e\u500b\u5225\u6d88\u606f\u523a\u6fc0\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Technical Confluence",
-      "explanation_en": "Technical confluence means multiple independent indicators \u2014 like RSI, MACD, and moving averages \u2014 all point the same direction at once. When several signals agree, it's generally considered stronger evidence of a real trend than relying on just one indicator alone.",
-      "explanation_zh": "\u6280\u8853\u6307\u6a19\u5171\u632f\u662f\u6307\u591a\u500b\u7368\u7acb\u6307\u6a19(\u5982RSI\u3001MACD\u53ca\u79fb\u52d5\u5e73\u5747\u7dda)\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u3002\u7576\u591a\u9805\u8a0a\u865f\u4e00\u81f4\u6642\uff0c\u901a\u5e38\u88ab\u8996\u70ba\u6bd4\u55ae\u9760\u4e00\u500b\u6307\u6a19\u66f4\u53ef\u9760\u7684\u8da8\u52e2\u8b49\u64da\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like rising price, bullish moving averages, and strong relative strength (RSI). The idea is that stocks moving up tend to keep moving up in the short term, so today's buys were chosen because they showed multiple confirming bullish signals together.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u4f9d\u64da\u7684\u8a0a\u865f\u5305\u62ec\u50f9\u683c\u4e0a\u5347\u3001\u5747\u7dda\u5448\u73fe\u5229\u597d\u6392\u5217\uff0c\u4ee5\u53ca\u76f8\u5c0d\u5f37\u5ea6\u6307\u6a19\uff08RSI\uff09\u8d70\u5f37\u3002\u5176\u7406\u5ff5\u662f\u77ed\u671f\u5167\u4e0a\u5347\u4e2d\u7684\u80a1\u7968\u5f80\u5f80\u6703\u5ef6\u7e8c\u5347\u52e2\uff0c\u56e0\u6b64\u4eca\u65e5\u7684\u8cb7\u5165\u9078\u64c7\u90fd\u540c\u6642\u51fa\u73fe\u591a\u500b\u5229\u597d\u8a0a\u865f\u78ba\u8a8d\u3002"
     }
   }
 }

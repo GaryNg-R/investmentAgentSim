@@ -1,28 +1,34 @@
 {
   "date": "2026-10-02",
-  "briefing": "Markets were risk-on today with NASDAQ up 1.2% and S&P 500 up 0.7%. With $889 in cash and 3 open slots, we deployed into QGEN and SPCX, both showing full multi-signal bullish confirmation (RSI, MACD crossover, rising momentum, price above SMA-20), while holding our existing winners.",
+  "briefing": "NASDAQ +1.2% and S&P 500 +0.7% confirm a risk-on day, so we deployed idle cash into three of the highest-scoring momentum candidates (NU, KRMN, INIO) rather than holding back. Existing positions are left untouched since the market doesn't warrant exiting winners on a strong day.",
   "daily_lesson": {
-    "term": "Technical Confluence",
-    "explanation_en": "Technical confluence means multiple independent indicators — like RSI, MACD, and moving averages — all point the same direction at once. When several signals agree, it's generally considered stronger evidence of a real trend than relying on just one indicator alone.",
-    "explanation_zh": "技術指標共振是指多個獨立指標(如RSI、MACD及移動平均線)同時指向同一方向。當多項訊號一致時，通常被視為比單靠一個指標更可靠的趨勢證據。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like rising price, bullish moving averages, and strong relative strength (RSI). The idea is that stocks moving up tend to keep moving up in the short term, so today's buys were chosen because they showed multiple confirming bullish signals together.",
+    "explanation_zh": "動能投資（Momentum Investing）是指買入已經處於上升趨勢的股票，依據的訊號包括價格上升、均線呈現利好排列，以及相對強度指標（RSI）走強。其理念是短期內上升中的股票往往會延續升勢，因此今日的買入選擇都同時出現多個利好訊號確認。"
   },
   "market_education": {
-    "summary_en": "Broad market strength today, with the NASDAQ outpacing the S&P 500, suggests continued risk appetite for growth and tech-adjacent names. Momentum names showing multiple confirming technical signals — healthy RSI, bullish MACD crossovers, and prices holding above their 20-day averages — tend to attract further buying interest in these conditions. No major single catalyst stood out; the gains appear broad-based rather than news-driven.",
-    "summary_zh": "今日大市表現強勁，納指升幅跑贏標普500指數，反映市場對科技及成長股的風險胃納持續。多隻股票同時出現技術指標共振訊號——包括RSI處於健康區間、MACD出現黃金交叉、股價企穩於20日均線之上——在此市況下往往更易吸引資金追捧。今日升勢屬大市普遍性上揚,並非由單一重大消息帶動。",
+    "summary_en": "Markets moved broadly higher today with NASDAQ outpacing the S&P 500, a pattern typically driven by renewed buying in growth and tech-adjacent names during risk-on sessions. No specific company headlines were available in today's feed to attribute the move to a single catalyst. The breadth of the gain (both indices up together) suggests a market-wide shift in sentiment rather than an isolated event.",
+    "summary_zh": "今日大市普遍上揚，納斯達克指數升幅跑贏標普500指數，這種走勢通常反映市場在風險偏好（risk-on）情緒下重新流入科技及成長股。今日資訊中未有具體的企業新聞標題可歸因於某單一事件。兩大指數同步上升，顯示市場情緒整體轉強，而非個別消息刺激。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "QGEN",
-      "conviction": "high",
-      "reasoning": "Score 95 with full bullish confirmation (RSI 61, MACD crossover, rising histogram, price above SMA-20) and adds healthcare diversification away from tech-heavy holdings."
+      "ticker": "NU",
+      "conviction": "medium",
+      "reasoning": "RSI 64 in bullish zone with MACD bullish crossover and rising histogram above SMA-20, fitting the risk-on day without being overbought."
     },
     {
       "action": "BUY",
-      "ticker": "SPCX",
+      "ticker": "KRMN",
       "conviction": "medium",
-      "reasoning": "Score 95 with all four bullish signals confirmed on a risk-on day, deploying idle cash into a new sector (aerospace) for diversification."
+      "reasoning": "Top score with RSI 61.3, bullish MACD crossover and price above SMA-20 gives solid momentum confirmation without overbought risk."
+    },
+    {
+      "action": "BUY",
+      "ticker": "INIO",
+      "conviction": "medium",
+      "reasoning": "Score 95 with bullish RSI, MACD crossover and rising histogram supports deploying cash into a genuine risk-on setup."
     }
   ],
   "outcomes": {
