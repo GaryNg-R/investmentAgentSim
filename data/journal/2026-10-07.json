@@ -1,22 +1,22 @@
 {
   "date": "2026-10-07",
-  "briefing": "Markets drifted slightly lower today (NASDAQ -0.8%, S&P 500 -0.6%) on no clear catalyst, so this is a neutral, not risk-on, session. We're holding all existing positions and adding only SMMT, the single candidate with full multi-signal confirmation, rather than forcing capital into the other open slots.",
+  "briefing": "Markets were neutral today (NASDAQ -0.5%, S&P 500 -0.4%) with no clear directional catalyst. We added PTGX, the lone candidate showing complete multi-signal confirmation, while holding the rest of our cash reserve rather than forcing buys into weaker setups.",
   "daily_lesson": {
-    "term": "Technical Confirmation",
-    "explanation_en": "Technical confirmation means waiting for multiple independent signals — like RSI, MACD, price versus moving averages, and volume — to all line up before trusting a stock's momentum. A single bullish signal can be noise, but when four signals agree, it suggests real buying interest rather than a random price blip.",
-    "explanation_zh": "技術確認是指在信任一隻股票的動力之前，等待多個獨立訊號（例如RSI、MACD、股價相對均線位置及成交量）同時出現一致方向。單一利好訊號可能只是雜訊，但當四個訊號同時吻合時，就更能反映真實的買盤興趣，而非隨機的價格波動。"
+    "term": "Signal Confluence",
+    "explanation_en": "Signal confluence means waiting until several independent technical indicators — like RSI, MACD, price trend, and volume — all point the same bullish direction before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move, since multiple confirming signals suggest broader participation behind the price action.",
+    "explanation_zh": "訊號共振（Signal Confluence）是指在買入前，等待多個獨立技術指標（例如RSI、MACD、價格趨勢及成交量）同時發出一致的看漲訊號，而非僅憑單一指標行動。這樣可以降低追逐虛假或短暫升勢的風險，因為多重確認訊號代表價格走勢背後有更廣泛的市場參與支持。"
   },
   "market_education": {
-    "summary_en": "Major indexes slipped modestly today with NASDAQ down 0.8% and the S&P 500 down 0.6%, a broad, low-conviction pullback rather than a reaction to any single major headline. Trading stayed choppy across sectors without a clear risk-on or risk-off theme emerging. In the absence of major news catalysts, price action looks more like routine consolidation after recent gains than the start of a deeper correction.",
-    "summary_zh": "今日大型指數普遍小幅走低，納斯達克下跌0.8%，標普500下跌0.6%，屬於廣泛而缺乏明確方向的回調，並非由單一重大消息觸發。各板塊交投反覆，未見明顯的風險偏好或避險主軸。在缺乏重大消息催化的情況下，這次表現較像近期升勢後的例行整固，而非深度調整的開端。",
+    "summary_en": "Major indices drifted modestly lower today with the NASDAQ down 0.5% and the S&P 500 down 0.4%, consistent with a quiet, directionless session rather than any single dominant catalyst. Trading volumes and price action suggest investors were largely in a wait-and-see mode. Without a clear macro trigger, individual stock setups like PTGX's strong technical confirmation stood out more than broad market moves.",
+    "summary_zh": "今日大市普遍回軟，納斯達克指數下跌0.5%，標普500指數下跌0.4%，走勢反映市場缺乏明確方向，屬於觀望性質的淡靜交易日。成交量及價格走勢顯示投資者普遍持觀望態度，未見單一主導消息刺激大市。在缺乏宏觀催化劑的情況下，個股如PTGX展現的強勁技術面訊號反而更為突出。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "SMMT",
+      "ticker": "PTGX",
       "conviction": "high",
-      "reasoning": "SMMT is the only candidate showing all four confirming signals (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge), meeting the multi-signal bar for high-conviction buys even as the broader market drifts slightly lower."
+      "reasoning": "Only candidate with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge) indicating genuine institutional participation."
     }
   ],
   "outcomes": {
