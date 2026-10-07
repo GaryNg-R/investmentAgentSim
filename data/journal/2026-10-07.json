@@ -1,14 +1,14 @@
 {
   "date": "2026-10-07",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.2%, S&P 500 -0.2%), so no broad risk-on or risk-off signal. We still had two open slots and over $800 in idle cash, and two candidates (BCRX, NAVN) showed complete technical confirmation across RSI, MACD, SMA, and volume, so we deployed into those while leaving one slot open rather than force a third weaker pick.",
+  "briefing": "Markets were essentially flat today (NASDAQ -0.2%, S&P500 -0.2%) with no major catalyst. With 3 open slots and cash above our $500 deployment threshold, we filled them with BCRX, NAVN, and PRGO — all showing full momentum confirmation across RSI, MACD, and volume, which matters more than the index's neutral tone today.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that the trend is likely to continue short-term. Today we used this by picking stocks with multiple confirming signals (RSI, MACD, moving averages, volume) even though the overall market was flat.",
-    "explanation_zh": "動能投資是指買入價格與成交量已出現強勢上升趨勢的股票，理論基礎是短期趨勢有延續的傾向。今日即使大盤表現平淡，我們仍選擇了同時出現多項確認訊號（RSI、MACD、均線、成交量）的個股進行買入。"
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, regardless of what the overall market is doing that day. Today the broader market was flat, but individual stocks like BCRX, NAVN, and PRGO showed strong technical signals (rising price, healthy RSI, bullish MACD, surging volume), which is why they were selected despite the neutral backdrop.",
+    "explanation_zh": "動量投資（Momentum Investing）是指買入價格與成交量已顯示強勁上升趨勢的股票，而不theless 當日大盤表現如何。今日大盤走勢平淡，但個股如BCRX、NAVN及PRGO卻展現出強勁的技術訊號（股價上升、RSI健康、MACD轉強、成交量激增），因此即使大盤中性，仍值得買入。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent moves rather than a shift in sentiment. In quiet, directionless sessions like this, stock-specific technical setups can still offer attractive entries even when the broader market isn't trending. No specific news headlines were available to cite for today's move.",
-    "summary_zh": "今日大盤指數小幅走低，NASDAQ 及標普500均下跌約0.2%，並無明顯單一催化因素，較像是近期漲勢後的短暫停頓，而非市場氣氛轉變。在這種缺乏方向的平淡交易日，個股若出現技術面確認訊號，仍可提供不錯的進場機會。今日並無可引用的具體新聞標題。",
+    "summary_en": "Broader indices were essentially unchanged today, with the NASDAQ and S&P 500 each slipping about 0.2% in quiet, directionless trading. No single headline-driving event stood out, consistent with a pause after recent moves rather than a shift in sentiment. Because no major news catalysts were available for today's session, we're not citing specific headlines here.",
+    "summary_zh": "今日大盤走勢持平，納斯達克指數及標普500指數均微跌約0.2%，成交氣氛清淡，缺乏明顯方向。市場似乎在近期波動後進入觀望階段，並未出現主導當日走勢的重大消息，因此今次未能引用具體新聞標題。",
     "sources": []
   },
   "trades": [
@@ -16,13 +16,19 @@
       "action": "BUY",
       "ticker": "BCRX",
       "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (bullish RSI zone, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies deploying open capital despite a neutral broad market."
+      "reasoning": "Full multi-signal confirmation (RSI 61.7 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) indicates strong momentum independent of the flat broader market."
     },
     {
       "action": "BUY",
       "ticker": "NAVN",
       "conviction": "high",
-      "reasoning": "Same complete five-signal confirmation as BCRX indicates genuine institutional participation rather than a random spike, warranting a high-conviction entry."
+      "reasoning": "All four confirmation signals present (RSI 66.8, MACD crossover, rising histogram, price above SMA-20, volume surge) signal institutional participation."
+    },
+    {
+      "action": "BUY",
+      "ticker": "PRGO",
+      "conviction": "high",
+      "reasoning": "Clean multi-signal setup (RSI 57.7, MACD crossover, rising histogram, price above SMA-20, volume surge) with room to run before overbought."
     }
   ],
   "outcomes": {
