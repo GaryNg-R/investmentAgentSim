@@ -1,34 +1,22 @@
 {
   "date": "2026-10-07",
-  "briefing": "Markets were modestly negative today (NASDAQ -0.7%, S&P 500 -0.6%), a neutral-to-soft session with no major risk-off signal. With 3 open portfolio slots and cash above the $500 deployment threshold, we filled those slots with the highest-scoring, multi-signal-confirmed candidates (HALO, AAPL, ZIM) rather than letting cash sit idle, while holding all existing positions unchanged.",
+  "briefing": "Markets drifted slightly lower today (NASDAQ -0.8%, S&P 500 -0.6%) on no clear catalyst, so this is a neutral, not risk-on, session. We're holding all existing positions and adding only SMMT, the single candidate with full multi-signal confirmation, rather than forcing capital into the other open slots.",
   "daily_lesson": {
-    "term": "Cash Drag",
-    "explanation_en": "Cash drag happens when uninvested money sits idle in a portfolio instead of earning returns, slowly dragging down overall performance versus a fully invested benchmark like the S&P 500. That's why, once risk rules are satisfied, it's often better to deploy idle cash into your best-scoring candidates rather than let it sit on the sidelines.",
-    "explanation_zh": "「現金拖累」(Cash Drag) 指資金閒置未作投資,未能賺取回報,長遠會拉低整體投資組合表現,跑輸如標普500等完全投資的指數。因此在符合風險管理規則的前提下,將閒置現金配置到評分最高的標的,通常比持有現金觀望更為有利。"
+    "term": "Technical Confirmation",
+    "explanation_en": "Technical confirmation means waiting for multiple independent signals — like RSI, MACD, price versus moving averages, and volume — to all line up before trusting a stock's momentum. A single bullish signal can be noise, but when four signals agree, it suggests real buying interest rather than a random price blip.",
+    "explanation_zh": "技術確認是指在信任一隻股票的動力之前，等待多個獨立訊號（例如RSI、MACD、股價相對均線位置及成交量）同時出現一致方向。單一利好訊號可能只是雜訊，但當四個訊號同時吻合時，就更能反映真實的買盤興趣，而非隨機的價格波動。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst reported, consistent with a routine consolidation after recent gains. Trading volumes and price moves were modest across both NASDAQ and S&P 500, suggesting profit-taking rather than a shift in broader sentiment. No major negative headlines emerged to justify a defensive posture, so the selloff looks like normal short-term noise.",
-    "summary_zh": "今日大市輕微回軟，NASDAQ及標普500均錄得溫和跌幅，但未見有重大單一消息主導市場。成交量及波幅均屬正常水平,反映較似獲利回吐而非市場氣氛逆轉。由於沒有重大負面消息支持防守性部署,今次回調較大機會屬短期技術性整理。",
+    "summary_en": "Major indexes slipped modestly today with NASDAQ down 0.8% and the S&P 500 down 0.6%, a broad, low-conviction pullback rather than a reaction to any single major headline. Trading stayed choppy across sectors without a clear risk-on or risk-off theme emerging. In the absence of major news catalysts, price action looks more like routine consolidation after recent gains than the start of a deeper correction.",
+    "summary_zh": "今日大型指數普遍小幅走低，納斯達克下跌0.8%，標普500下跌0.6%，屬於廣泛而缺乏明確方向的回調，並非由單一重大消息觸發。各板塊交投反覆，未見明顯的風險偏好或避險主軸。在缺乏重大消息催化的情況下，這次表現較像近期升勢後的例行整固，而非深度調整的開端。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "HALO",
+      "ticker": "SMMT",
       "conviction": "high",
-      "reasoning": "All four bullish signals align (RSI in bullish zone, MACD crossover with rising histogram, price above SMA-20, volume surge) confirming strong momentum."
-    },
-    {
-      "action": "BUY",
-      "ticker": "AAPL",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (bullish RSI, MACD crossover with rising histogram, price above SMA-20, volume surge) signals institutional participation."
-    },
-    {
-      "action": "BUY",
-      "ticker": "ZIM",
-      "conviction": "medium",
-      "reasoning": "Bullish RSI, MACD crossover, rising histogram and price above SMA-20 support the trend, though lacking a volume surge keeps conviction medium."
+      "reasoning": "SMMT is the only candidate showing all four confirming signals (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge), meeting the multi-signal bar for high-conviction buys even as the broader market drifts slightly lower."
     }
   ],
   "outcomes": {
