@@ -1,28 +1,34 @@
 {
   "date": "2026-10-07",
-  "briefing": "Markets were quietly positive today (NASDAQ +0.4%, S&P500 +0.6%) with no major risk-on surge. Rather than hold all cash idle, we deployed into FTAI and UEC, the two candidates showing the strongest multi-signal technical confirmation, while leaving existing winners untouched.",
+  "briefing": "Markets were modestly negative today (NASDAQ -0.7%, S&P 500 -0.6%), a neutral-to-soft session with no major risk-off signal. With 3 open portfolio slots and cash above the $500 deployment threshold, we filled those slots with the highest-scoring, multi-signal-confirmed candidates (HALO, AAPL, ZIM) rather than letting cash sit idle, while holding all existing positions unchanged.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong recent performance tends to continue in the near term. Today's picks were chosen because they showed multiple confirming signals together — rising price, bullish RSI, a MACD crossover, and a volume surge — rather than just one isolated indicator.",
-    "explanation_zh": "動量投資是指買入已經呈現上升趨勢的股票，理論基礎是近期表現強勢的股票短期內傾向延續升勢。今日選股是因為同時出現多項確認訊號——價格上升、RSI處於多頭區間、MACD出現黃金交叉、以及成交量放大——而非僅憑單一指標作判斷。"
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag happens when uninvested money sits idle in a portfolio instead of earning returns, slowly dragging down overall performance versus a fully invested benchmark like the S&P 500. That's why, once risk rules are satisfied, it's often better to deploy idle cash into your best-scoring candidates rather than let it sit on the sidelines.",
+    "explanation_zh": "「現金拖累」(Cash Drag) 指資金閒置未作投資,未能賺取回報,長遠會拉低整體投資組合表現,跑輸如標普500等完全投資的指數。因此在符合風險管理規則的前提下,將閒置現金配置到評分最高的標的,通常比持有現金觀望更為有利。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today without a single dominant catalyst, consistent with a steady, low-volatility grind higher rather than a sharp risk-on rally. Stock-specific strength, like the volume-backed breakouts in FTAI and UEC, stood out more than broad macro moves. No major news headlines were available in today's feed to attribute the move to a specific event.",
-    "summary_zh": "今日大盤溫和上揚，NASDAQ升0.4%，標普500升0.6%，並無單一重大消息主導走勢，屬於低波動的穩步上行格局。相對於大盤表現，個股如FTAI、UEC等出現成交量放大的突破訊號，反而更值得留意。今日資料中並無具體新聞標題可供引用解釋此次波動成因。",
+    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst reported, consistent with a routine consolidation after recent gains. Trading volumes and price moves were modest across both NASDAQ and S&P 500, suggesting profit-taking rather than a shift in broader sentiment. No major negative headlines emerged to justify a defensive posture, so the selloff looks like normal short-term noise.",
+    "summary_zh": "今日大市輕微回軟，NASDAQ及標普500均錄得溫和跌幅，但未見有重大單一消息主導市場。成交量及波幅均屬正常水平,反映較似獲利回吐而非市場氣氛逆轉。由於沒有重大負面消息支持防守性部署,今次回調較大機會屬短期技術性整理。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FTAI",
+      "ticker": "HALO",
       "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (RSI bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) matches our highest-conviction setup criteria."
+      "reasoning": "All four bullish signals align (RSI in bullish zone, MACD crossover with rising histogram, price above SMA-20, volume surge) confirming strong momentum."
     },
     {
       "action": "BUY",
-      "ticker": "UEC",
+      "ticker": "AAPL",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (bullish RSI, MACD crossover with rising histogram, price above SMA-20, volume surge) signals institutional participation."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ZIM",
       "conviction": "medium",
-      "reasoning": "Strong four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) justifies filling another open slot."
+      "reasoning": "Bullish RSI, MACD crossover, rising histogram and price above SMA-20 support the trend, though lacking a volume surge keeps conviction medium."
     }
   ],
   "outcomes": {
