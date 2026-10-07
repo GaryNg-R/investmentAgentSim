@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-10-07T17:01:05.292870+00:00",
+  "saved_at": "2026-10-07T18:01:16.466587+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "BCRX",
-        "conviction": "high",
-        "reasoning": "RSI 59.4 in the bullish zone with confirmed MACD crossover, rising histogram, and price above SMA-20 gives full multi-signal confirmation at a non-overbought entry."
+        "ticker": "BVC",
+        "conviction": "medium",
+        "reasoning": "Top-scored candidate with RSI in bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20, but lacking volume confirmation so sized as medium conviction on a neutral market day."
       },
       {
         "action": "BUY",
-        "ticker": "SNDK",
-        "conviction": "high",
-        "reasoning": "Lowest RSI (56.8) among the top-scored names with the same four-signal bullish confirmation, offering the most room to run before overbought."
+        "ticker": "BCRX",
+        "conviction": "medium",
+        "reasoning": "Same four-signal technical setup as BVC (bullish RSI, MACD crossover, rising histogram, price above SMA-20) offering diversification away from existing tech/semis exposure."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were roughly flat to slightly down today (NASDAQ -0.5%, S&P500 -0.4%), a neutral session with no broad risk-on or risk-off signal. Rather than force capital into mediocre names, we used two open slots on BCRX and SNDK, the two top-scored candidates with the cleanest multi-indicator confirmation (RSI in the healthy 55-70 zone, bullish MACD crossover, rising histogram, price above SMA-20) and the least overbought risk, keeping one slot and cash in reserve.",
+    "briefing": "Markets were roughly flat today (NASDAQ -0.4%, S&P500 -0.2%), a neutral session with no clear risk-on or risk-off signal. With cash well above the $500 threshold and 3 open slots, we filled two of them with BVC and BCRX, which show strong but not full-confirmation technical setups, while leaving one slot and some cash in reserve for a stronger risk-on setup.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today in a quiet, directionless session, with NASDAQ down 0.5% and the S&P 500 down 0.4%. There was no single dominant catalyst driving the move, consistent with a market pausing to digest recent gains rather than reacting to new negative news. Individual stocks with strong technical setups, like BCRX and SNDK, continued showing bullish momentum even as the broader indices were flat.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7a84\u5e45\u9707\u76ea\uff0c\u7d0d\u6307\u8dcc0.5%\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.4%\uff0c\u8d70\u52e2\u6b20\u65b9\u5411\u6027\u3002\u5e02\u5834\u4e26\u7121\u55ae\u4e00\u4e3b\u5c0e\u6d88\u606f\u5e36\u52d5\u8dcc\u52e2\uff0c\u8f03\u4f3c\u662f\u6d88\u5316\u8fd1\u671f\u5347\u5e45\u5f8c\u7684\u6574\u56fa\u968e\u6bb5\uff0c\u800c\u975e\u53d7\u8ca0\u9762\u6d88\u606f\u885d\u64ca\u3002\u8207\u6b64\u540c\u6642\uff0c\u500b\u5225\u80a1\u4efd\u5982BCRX\u53caSNDK\u4ecd\u9304\u5f97\u6280\u8853\u9762\u8d70\u5f37\uff0c\u986f\u793a\u5927\u5e02\u5e73\u6de1\u4e4b\u969b\u4ecd\u6709\u8cc7\u91d1\u8ffd\u9010\u5f37\u52e2\u80a1\u3002",
+      "summary_en": "Major indexes traded in a narrow, mixed range today with no dominant catalyst pushing stocks sharply in either direction. The modest pullback in the NASDAQ versus the smaller S&P 500 decline suggests slightly more caution in higher-growth, rate-sensitive names than in the broader market. Without a strong directional driver, this looks like consolidation after recent moves rather than a shift in sentiment.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7a84\u5e45\u4e0a\u843d\uff0c\u672a\u6709\u660e\u986f\u50ac\u5316\u5291\u5e36\u52d5\u80a1\u5e02\u5927\u5e45\u5347\u8dcc\u3002\u7d0d\u6307\u8dcc\u5e45\u8f03\u6a19\u666e500\u6307\u6578\u7565\u5927\uff0c\u53cd\u6620\u5c0d\u9ad8\u589e\u9577\u3001\u5c0d\u5229\u7387\u8f03\u654f\u611f\u7684\u80a1\u4efd\u4ecd\u6709\u5c11\u8a31\u89c0\u671b\u60c5\u7dd2\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u4e0b\uff0c\u4eca\u65e5\u8868\u73fe\u8f03\u4f3c\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u6574\u56fa\uff0c\u800c\u975e\u5e02\u5834\u60c5\u7dd2\u9006\u8f49\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Technical Confirmation",
-      "explanation_en": "Technical confirmation means waiting for several independent signals\u2014like RSI, MACD, and price versus moving averages\u2014to all point the same bullish direction before buying, instead of relying on just one. This reduces the chance of chasing a false signal, since multiple agreeing indicators suggest real buying interest rather than random noise.",
-      "explanation_zh": "\u6280\u8853\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d,\u540c\u6642\u53c3\u8003\u591a\u500b\u7368\u7acb\u6307\u6a19(\u4f8b\u5982RSI\u3001MACD\u53ca\u80a1\u50f9\u8207\u5747\u7dda\u7684\u95dc\u4fc2),\u78ba\u4fdd\u5b83\u5011\u5168\u90e8\u6307\u5411\u540c\u4e00\u500b\u770b\u6f32\u65b9\u5411,\u800c\u975e\u53ea\u6191\u55ae\u4e00\u8a0a\u865f\u4e0b\u6c7a\u5b9a\u3002\u9019\u6a23\u53ef\u4ee5\u6e1b\u5c11\u8aa4\u5224\u5047\u8a0a\u865f\u7684\u6a5f\u6703,\u56e0\u70ba\u591a\u9805\u6307\u6a19\u540c\u6642\u78ba\u8a8d,\u4ee3\u8868\u771f\u5be6\u7684\u8cb7\u76e4\u529b\u91cf,\u800c\u975e\u5076\u7136\u7684\u5e02\u5834\u96dc\u8a0a\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD crossovers, and price above moving averages, on the theory that recent winners tend to keep winning in the near term. It works best when multiple signals confirm each other, and is riskier when only one or two signals line up.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u4f9d\u64daRSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\u7b49\u8a0a\u865f\uff0c\u5047\u8a2d\u8fd1\u671f\u8868\u73fe\u5f37\u52e2\u7684\u80a1\u7968\u77ed\u671f\u5167\u6703\u5ef6\u7e8c\u5347\u52e2\u3002\u7576\u591a\u9805\u8a0a\u865f\u540c\u6642\u78ba\u8a8d\u6642\uff0c\u7b56\u7565\u6548\u679c\u8f03\u4f73\uff1b\u82e5\u53ea\u6709\u4e00\u5169\u500b\u8a0a\u865f\u543b\u5408\uff0c\u98a8\u96aa\u5247\u76f8\u5c0d\u8f03\u9ad8\u3002"
     }
   }
 }

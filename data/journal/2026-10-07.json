@@ -1,28 +1,28 @@
 {
   "date": "2026-10-07",
-  "briefing": "Markets were roughly flat to slightly down today (NASDAQ -0.5%, S&P500 -0.4%), a neutral session with no broad risk-on or risk-off signal. Rather than force capital into mediocre names, we used two open slots on BCRX and SNDK, the two top-scored candidates with the cleanest multi-indicator confirmation (RSI in the healthy 55-70 zone, bullish MACD crossover, rising histogram, price above SMA-20) and the least overbought risk, keeping one slot and cash in reserve.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.4%, S&P500 -0.2%), a neutral session with no clear risk-on or risk-off signal. With cash well above the $500 threshold and 3 open slots, we filled two of them with BVC and BCRX, which show strong but not full-confirmation technical setups, while leaving one slot and some cash in reserve for a stronger risk-on setup.",
   "daily_lesson": {
-    "term": "Technical Confirmation",
-    "explanation_en": "Technical confirmation means waiting for several independent signals—like RSI, MACD, and price versus moving averages—to all point the same bullish direction before buying, instead of relying on just one. This reduces the chance of chasing a false signal, since multiple agreeing indicators suggest real buying interest rather than random noise.",
-    "explanation_zh": "技術確認是指在買入前,同時參考多個獨立指標(例如RSI、MACD及股價與均線的關係),確保它們全部指向同一個看漲方向,而非只憑單一訊號下決定。這樣可以減少誤判假訊號的機會,因為多項指標同時確認,代表真實的買盤力量,而非偶然的市場雜訊。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD crossovers, and price above moving averages, on the theory that recent winners tend to keep winning in the near term. It works best when multiple signals confirm each other, and is riskier when only one or two signals line up.",
+    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票，依據RSI、MACD黃金交叉及股價高於移動平均線等訊號，假設近期表現強勢的股票短期內會延續升勢。當多項訊號同時確認時，策略效果較佳；若只有一兩個訊號吻合，風險則相對較高。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today in a quiet, directionless session, with NASDAQ down 0.5% and the S&P 500 down 0.4%. There was no single dominant catalyst driving the move, consistent with a market pausing to digest recent gains rather than reacting to new negative news. Individual stocks with strong technical setups, like BCRX and SNDK, continued showing bullish momentum even as the broader indices were flat.",
-    "summary_zh": "今日大市窄幅震盪，納指跌0.5%，標普500指數跌0.4%，走勢欠方向性。市場並無單一主導消息帶動跌勢，較似是消化近期升幅後的整固階段，而非受負面消息衝擊。與此同時，個別股份如BCRX及SNDK仍錄得技術面走強，顯示大市平淡之際仍有資金追逐強勢股。",
+    "summary_en": "Major indexes traded in a narrow, mixed range today with no dominant catalyst pushing stocks sharply in either direction. The modest pullback in the NASDAQ versus the smaller S&P 500 decline suggests slightly more caution in higher-growth, rate-sensitive names than in the broader market. Without a strong directional driver, this looks like consolidation after recent moves rather than a shift in sentiment.",
+    "summary_zh": "今日大市窄幅上落，未有明顯催化劑帶動股市大幅升跌。納指跌幅較標普500指數略大，反映對高增長、對利率較敏感的股份仍有少許觀望情緒。在缺乏明確方向下，今日表現較似是近期升勢後的整固，而非市場情緒逆轉。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "BCRX",
-      "conviction": "high",
-      "reasoning": "RSI 59.4 in the bullish zone with confirmed MACD crossover, rising histogram, and price above SMA-20 gives full multi-signal confirmation at a non-overbought entry."
+      "ticker": "BVC",
+      "conviction": "medium",
+      "reasoning": "Top-scored candidate with RSI in bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20, but lacking volume confirmation so sized as medium conviction on a neutral market day."
     },
     {
       "action": "BUY",
-      "ticker": "SNDK",
-      "conviction": "high",
-      "reasoning": "Lowest RSI (56.8) among the top-scored names with the same four-signal bullish confirmation, offering the most room to run before overbought."
+      "ticker": "BCRX",
+      "conviction": "medium",
+      "reasoning": "Same four-signal technical setup as BVC (bullish RSI, MACD crossover, rising histogram, price above SMA-20) offering diversification away from existing tech/semis exposure."
     }
   ],
   "outcomes": {
