@@ -1,22 +1,28 @@
 {
   "date": "2026-10-07",
-  "briefing": "Markets were neutral today (NASDAQ -0.5%, S&P 500 -0.4%) with no clear directional catalyst. We added PTGX, the lone candidate showing complete multi-signal confirmation, while holding the rest of our cash reserve rather than forcing buys into weaker setups.",
+  "briefing": "Markets were roughly flat to slightly down today (NASDAQ -0.5%, S&P500 -0.4%), a neutral session with no broad risk-on or risk-off signal. Rather than force capital into mediocre names, we used two open slots on BCRX and SNDK, the two top-scored candidates with the cleanest multi-indicator confirmation (RSI in the healthy 55-70 zone, bullish MACD crossover, rising histogram, price above SMA-20) and the least overbought risk, keeping one slot and cash in reserve.",
   "daily_lesson": {
-    "term": "Signal Confluence",
-    "explanation_en": "Signal confluence means waiting until several independent technical indicators — like RSI, MACD, price trend, and volume — all point the same bullish direction before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move, since multiple confirming signals suggest broader participation behind the price action.",
-    "explanation_zh": "訊號共振（Signal Confluence）是指在買入前，等待多個獨立技術指標（例如RSI、MACD、價格趨勢及成交量）同時發出一致的看漲訊號，而非僅憑單一指標行動。這樣可以降低追逐虛假或短暫升勢的風險，因為多重確認訊號代表價格走勢背後有更廣泛的市場參與支持。"
+    "term": "Technical Confirmation",
+    "explanation_en": "Technical confirmation means waiting for several independent signals—like RSI, MACD, and price versus moving averages—to all point the same bullish direction before buying, instead of relying on just one. This reduces the chance of chasing a false signal, since multiple agreeing indicators suggest real buying interest rather than random noise.",
+    "explanation_zh": "技術確認是指在買入前,同時參考多個獨立指標(例如RSI、MACD及股價與均線的關係),確保它們全部指向同一個看漲方向,而非只憑單一訊號下決定。這樣可以減少誤判假訊號的機會,因為多項指標同時確認,代表真實的買盤力量,而非偶然的市場雜訊。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly lower today with the NASDAQ down 0.5% and the S&P 500 down 0.4%, consistent with a quiet, directionless session rather than any single dominant catalyst. Trading volumes and price action suggest investors were largely in a wait-and-see mode. Without a clear macro trigger, individual stock setups like PTGX's strong technical confirmation stood out more than broad market moves.",
-    "summary_zh": "今日大市普遍回軟，納斯達克指數下跌0.5%，標普500指數下跌0.4%，走勢反映市場缺乏明確方向，屬於觀望性質的淡靜交易日。成交量及價格走勢顯示投資者普遍持觀望態度，未見單一主導消息刺激大市。在缺乏宏觀催化劑的情況下，個股如PTGX展現的強勁技術面訊號反而更為突出。",
+    "summary_en": "Major indices drifted slightly lower today in a quiet, directionless session, with NASDAQ down 0.5% and the S&P 500 down 0.4%. There was no single dominant catalyst driving the move, consistent with a market pausing to digest recent gains rather than reacting to new negative news. Individual stocks with strong technical setups, like BCRX and SNDK, continued showing bullish momentum even as the broader indices were flat.",
+    "summary_zh": "今日大市窄幅震盪，納指跌0.5%，標普500指數跌0.4%，走勢欠方向性。市場並無單一主導消息帶動跌勢，較似是消化近期升幅後的整固階段，而非受負面消息衝擊。與此同時，個別股份如BCRX及SNDK仍錄得技術面走強，顯示大市平淡之際仍有資金追逐強勢股。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "PTGX",
+      "ticker": "BCRX",
       "conviction": "high",
-      "reasoning": "Only candidate with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge) indicating genuine institutional participation."
+      "reasoning": "RSI 59.4 in the bullish zone with confirmed MACD crossover, rising histogram, and price above SMA-20 gives full multi-signal confirmation at a non-overbought entry."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SNDK",
+      "conviction": "high",
+      "reasoning": "Lowest RSI (56.8) among the top-scored names with the same four-signal bullish confirmation, offering the most room to run before overbought."
     }
   ],
   "outcomes": {
