@@ -1,22 +1,28 @@
 {
   "date": "2026-10-07",
-  "briefing": "Market was flat-to-slightly-negative today (NASDAQ -0.3%, S&P500 -0.2%), not a risk-off day, so existing positions were left alone. With 3 open slots and cash above $500, deployed into MRNA, the strongest-scoring candidate with the most room left before overbought.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.2%, S&P 500 -0.2%), so no broad risk-on or risk-off signal. We still had two open slots and over $800 in idle cash, and two candidates (BCRX, NAVN) showed complete technical confirmation across RSI, MACD, SMA, and volume, so we deployed into those while leaving one slot open rather than force a third weaker pick.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing upward price and indicator trends (like RSI in a healthy bullish range and MACD crossing above its signal line), on the theory that strength tends to continue in the near term. Today's buy was chosen because it scored highest on these combined signals while still having room to run before becoming overbought.",
-    "explanation_zh": "動量投資是指買入已經顯示上升趨勢的股票（例如RSI處於健康的多頭區間、MACD向上穿越訊號線），因為這些強勢股短期內往往會延續其走勢。今日選擇買入的標的正是因為在這些綜合訊號中評分最高，且距離超買區仍有上升空間。"
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that the trend is likely to continue short-term. Today we used this by picking stocks with multiple confirming signals (RSI, MACD, moving averages, volume) even though the overall market was flat.",
+    "explanation_zh": "動能投資是指買入價格與成交量已出現強勢上升趨勢的股票，理論基礎是短期趨勢有延續的傾向。今日即使大盤表現平淡，我們仍選擇了同時出現多項確認訊號（RSI、MACD、均線、成交量）的個股進行買入。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no major catalyst driving the move, consistent with a quiet consolidation session rather than a trend reversal. Trading stayed within a narrow range as investors awaited fresh economic data. No single headline-driven event explains the modest pullback.",
-    "summary_zh": "今日大盤輕微下跌，NASDAQ跌0.3%、標普500跌0.2%，市場缺乏明顯催化劑，較像是觀望整理而非趨勢反轉。交投維持窄幅波動，投資人等待新的經濟數據公佈，並無單一重大新聞事件可解釋此次小幅回落。",
+    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, reflecting a pause after recent moves rather than a shift in sentiment. In quiet, directionless sessions like this, stock-specific technical setups can still offer attractive entries even when the broader market isn't trending. No specific news headlines were available to cite for today's move.",
+    "summary_zh": "今日大盤指數小幅走低，NASDAQ 及標普500均下跌約0.2%，並無明顯單一催化因素，較像是近期漲勢後的短暫停頓，而非市場氣氛轉變。在這種缺乏方向的平淡交易日，個股若出現技術面確認訊號，仍可提供不錯的進場機會。今日並無可引用的具體新聞標題。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "MRNA",
-      "conviction": "medium",
-      "reasoning": "Strong momentum score (95) with RSI 56.7 still well below overbought and a confirmed MACD bullish crossover with rising histogram, fitting an open slot while cash sits above the $500 threshold."
+      "ticker": "BCRX",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (bullish RSI zone, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies deploying open capital despite a neutral broad market."
+    },
+    {
+      "action": "BUY",
+      "ticker": "NAVN",
+      "conviction": "high",
+      "reasoning": "Same complete five-signal confirmation as BCRX indicates genuine institutional participation rather than a random spike, warranting a high-conviction entry."
     }
   ],
   "outcomes": {
