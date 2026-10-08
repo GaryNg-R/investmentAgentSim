@@ -1,34 +1,34 @@
 {
   "date": "2026-10-08",
-  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.2%), but several individual stocks showed strong, fully-confirmed momentum setups regardless of the broad market mood. We used three open slots to buy BCRX, PRGO, and PI, each showing the full four-signal confirmation (RSI, MACD, price vs SMA-20, volume) that past experience shows indicates real institutional buying rather than noise.",
+  "briefing": "Markets were roughly flat-to-slightly-down today (NASDAQ -0.6%, S&P 500 -0.3%), a neutral session overall. Three candidates — ACN, STNG, and GFS — showed perfect momentum scores with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge), so we used open slots and idle cash above the $500 threshold to add diversified exposure despite the muted broader tape.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today we looked for stocks confirmed by four separate technical signals at once (RSI, MACD, price vs. moving average, and volume) rather than relying on just one indicator, which reduces the chance of chasing a false signal.",
-    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票，其理念是近期表現強勢的股票在短期內傾向延續升勢。今天我們特別尋找同時獲得四個技術指標確認（RSI、MACD、股價與移動平均線的關係，以及成交量）的股票，而非只依賴單一指標，這樣可以降低追錯訊號的風險。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent indicators — like RSI, MACD, price vs. moving average, and volume — all point the same direction at once. This reduces the chance of chasing a random price blip and increases confidence that real buying interest (often institutional) is behind the move.",
+    "explanation_zh": "多重訊號確認是指只有在多個獨立指標（例如RSI、MACD、股價相對於移動平均線的位置，以及成交量）同時指向同一方向時，才採取交易行動。這樣可以降低追逐隨機價格波動的風險，並提高判斷背後存在真實（通常是機構）買盤的信心。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted slightly lower today, with both the NASDAQ and S&P 500 down about 0.2% in a quiet, directionless session. There was no major macro catalyst driving the move — it reflects a market pausing rather than reversing. Beneath the flat surface, select individual names like BCRX, PRGO, and PI showed strong technical breakouts, showing that stock-specific momentum can diverge from index-level trends.",
-    "summary_zh": "大盤今日略為走弱，納斯達克指數及標普500指數均下跌約0.2%，成交清淡且缺乏明確方向。市場並無重大宏觀消息刺激，這次下跌更像是短暫休息而非趨勢反轉。值得留意的是，在大盤表現平淡之際，BCRX、PRGO及PI等個股卻出現強勁技術突破，顯示個股動能可以獨立於大盤趨勢之外。",
+    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, consistent with a quiet, directionless session rather than any broad risk-off move. Despite the flat macro backdrop, several individual names showed strong stock-specific technical setups, underscoring that company-level momentum can diverge from the index trend. No major market-moving headlines were identified for today's session.",
+    "summary_zh": "今日大市輕微回落，納斯達克指數下跌0.6%，標普500指數下跌0.3%，屬於低波動、方向不明的交易日，而非廣泛的避險拋售。儘管大盤表現平淡，部分個股仍錄得強勁的技術走勢，反映個股動能可以脫離大盤走向。今日未見明顯的市場重大新聞。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "BCRX",
+      "ticker": "ACN",
       "conviction": "high",
-      "reasoning": "Perfect 100 score with full 4-signal confirmation (bullish RSI, MACD crossover with rising histogram, price above SMA-20, volume surge)."
+      "reasoning": "Perfect 100 score with full multi-signal confirmation (RSI bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) indicating strong institutional participation."
     },
     {
       "action": "BUY",
-      "ticker": "PRGO",
-      "conviction": "high",
-      "reasoning": "Full 4-signal confirmation at a moderate RSI of 57.7 suggests early-stage institutional buying, diversifying into consumer health."
+      "ticker": "STNG",
+      "conviction": "medium",
+      "reasoning": "Full multi-signal confirmation at a 100 score adds shipping-sector diversification away from existing tech-heavy holdings."
     },
     {
       "action": "BUY",
-      "ticker": "PI",
-      "conviction": "high",
-      "reasoning": "Full 4-signal confirmation with healthy RSI of 60.0 and price breaking above SMA-20 on volume surge."
+      "ticker": "GFS",
+      "conviction": "medium",
+      "reasoning": "Full multi-signal confirmation at a 100 score offers semiconductor exposure distinct from current MU position, filling an open slot with idle cash."
     }
   ],
   "outcomes": {
