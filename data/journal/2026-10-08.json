@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-08",
+  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.2%), but several individual stocks showed strong, fully-confirmed momentum setups regardless of the broad market mood. We used three open slots to buy BCRX, PRGO, and PI, each showing the full four-signal confirmation (RSI, MACD, price vs SMA-20, volume) that past experience shows indicates real institutional buying rather than noise.",
+  "daily_lesson": {
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today we looked for stocks confirmed by four separate technical signals at once (RSI, MACD, price vs. moving average, and volume) rather than relying on just one indicator, which reduces the chance of chasing a false signal.",
+    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票，其理念是近期表現強勢的股票在短期內傾向延續升勢。今天我們特別尋找同時獲得四個技術指標確認（RSI、MACD、股價與移動平均線的關係，以及成交量）的股票，而非只依賴單一指標，這樣可以降低追錯訊號的風險。"
+  },
+  "market_education": {
+    "summary_en": "Broad indices drifted slightly lower today, with both the NASDAQ and S&P 500 down about 0.2% in a quiet, directionless session. There was no major macro catalyst driving the move — it reflects a market pausing rather than reversing. Beneath the flat surface, select individual names like BCRX, PRGO, and PI showed strong technical breakouts, showing that stock-specific momentum can diverge from index-level trends.",
+    "summary_zh": "大盤今日略為走弱，納斯達克指數及標普500指數均下跌約0.2%，成交清淡且缺乏明確方向。市場並無重大宏觀消息刺激，這次下跌更像是短暫休息而非趨勢反轉。值得留意的是，在大盤表現平淡之際，BCRX、PRGO及PI等個股卻出現強勁技術突破，顯示個股動能可以獨立於大盤趨勢之外。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "BCRX",
+      "conviction": "high",
+      "reasoning": "Perfect 100 score with full 4-signal confirmation (bullish RSI, MACD crossover with rising histogram, price above SMA-20, volume surge)."
+    },
+    {
+      "action": "BUY",
+      "ticker": "PRGO",
+      "conviction": "high",
+      "reasoning": "Full 4-signal confirmation at a moderate RSI of 57.7 suggests early-stage institutional buying, diversifying into consumer health."
+    },
+    {
+      "action": "BUY",
+      "ticker": "PI",
+      "conviction": "high",
+      "reasoning": "Full 4-signal confirmation with healthy RSI of 60.0 and price breaking above SMA-20 on volume surge."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14455.735246181488,
+    "cash": 889.2850012779236,
+    "pnl_dollar": 4455.735246181488,
+    "pnl_pct": 44.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
