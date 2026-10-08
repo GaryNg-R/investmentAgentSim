@@ -1,14 +1,14 @@
 {
   "date": "2026-10-08",
-  "briefing": "NASDAQ fell 1.5% and the S&P 500 fell 0.7% today, putting the market in a risk-off mode with no new stock candidates screened. Existing positions are being held steady rather than sold on a single down day, consistent with past lessons about not panic-selling on neutral-to-negative sessions.",
+  "briefing": "Markets pulled back today with NASDAQ down 1.4% and S&P 500 down 0.6%, putting conditions in risk-off territory. No new candidates were screened, so I'm holding all 7 existing positions and keeping the 3 open slots in cash rather than forcing a buy into weakness.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safer holdings, often triggered by economic worries or uncertainty. On days like this, it's usually better to hold existing positions and avoid forcing new trades rather than chasing a declining market.",
-    "explanation_zh": "「risk-off」（避險）日是指投資者普遍賣出風險較高的資產（例如增長型股票），轉而持有較穩健的資產，通常由經濟憂慮或不確定性觸發。在這種日子，持有現有倉位、避免勉強進行新交易，通常比在下跌市中追入更為穩妥。"
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safer holdings or cash, often causing most indices to fall together. On these days, it's usually wiser to hold existing positions and wait rather than buy new stocks, since the odds of a new position working out are lower when overall market sentiment is negative.",
+    "explanation_zh": "「避險」(Risk-Off)日是指投資者普遍賣出成長股等風險較高的資產,轉向較安全的持倉或現金,通常導致大部分指數同步下跌。在這種日子,通常持有現有倉位並耐心等待比買入新股票更為明智,因為當整體市場情緒偏向負面時,新倉位成功的機率較低。"
   },
   "market_education": {
-    "summary_en": "Broad market weakness today pushed both the NASDAQ and S&P 500 lower, with technology and growth-sensitive names leading the decline. Risk-off days like this typically reflect investors rotating out of higher-beta positions into safer assets amid uncertainty. No specific company headlines were available in today's screen to pinpoint the exact catalyst.",
-    "summary_zh": "今日大市普遍偏弱，納斯達克及標普500指數同步下跌，科技股及高貝他系數股份跌幅較大。此類「risk-off」（避險）走勢通常反映投資者將資金由高風險資產轉向較穩健的資產。今日篩選結果中未有具體新聞標題可供引用，故未能確定確切觸發因素。",
+    "summary_en": "Broad market indices declined today, with tech-heavy NASDAQ underperforming the S&P 500, suggesting investors rotated out of higher-risk growth names. No specific catalyst headlines were available in today's screen, but the broad-based decline across both indices points to a general risk-off sentiment shift rather than a single-stock event. In these conditions, preserving capital and avoiding new high-beta exposure is typically favored over chasing dips.",
+    "summary_zh": "今日大盤普遍下跌,科技股為主的納斯達克指數跌幅(-1.4%)超過標普500指數(-0.6%),反映投資者從高風險成長股撤出資金。今日篩選未提供具體新聞標題,但兩大指數同步下跌顯示市場情緒轉為避險,而非單一股票事件所致。在此環境下,保留現金、避免新增高波動倉位通常比追低更為穩健。",
     "sources": []
   },
   "trades": [],
