@@ -1,28 +1,22 @@
 {
   "date": "2026-10-08",
-  "briefing": "Markets were flat-to-slightly-down today (S&P -0.3%, Nasdaq -0.4%), a neutral session with no broad risk-on signal. Rather than forcing a buy just to deploy idle cash, we only bought MANE and GFS, the two candidates showing complete technical confirmation across RSI, MACD, price trend, and volume. Existing positions were left untouched to let stop-loss and profit-target rules work automatically.",
+  "briefing": "Markets were mildly negative today with NASDAQ -0.7% and S&P 500 -0.4%, a neutral-to-soft session with no clear catalyst. Rather than force capital into weaker setups, we added only MDT, the one candidate with complete signal confirmation, and left two slots open to preserve dry powder for a stronger risk-on day.",
   "daily_lesson": {
-    "term": "Signal Confluence",
-    "explanation_en": "Signal confluence means waiting until multiple independent indicators — like RSI, MACD, price trend, and trading volume — all point the same direction before acting. A single bullish signal can be noise, but when several line up together it's much more likely to reflect real buying interest rather than a random price blip.",
-    "explanation_zh": "訊號匯聚是指等待多個獨立指標（如RSI、MACD、價格趨勢和成交量）同時指向同一方向後才採取行動。單一的看漲訊號可能只是噪音，但當多個指標同時出現時，更有可能反映真實的買盤動能，而不是隨機的價格波動。"
+    "term": "Idiosyncratic Risk",
+    "explanation_en": "Idiosyncratic risk refers to factors specific to one company or stock, separate from what's happening to the overall market. Today MDT showed strong bullish signals even though the broader market dipped slightly, which is why a single stock can still be a good buy on a day the overall index is down.",
+    "explanation_zh": "個股風險（Idiosyncratic Risk）指的是只影響單一公司或股票的因素，與大盤走勢無關。今日MDT出現強烈利好訊號，即使大盤整體輕微下跌，個股仍可因自身因素表現強勁，所以在大盤偏弱的日子，仍可以買入訊號特別強的個股。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, consistent with a quiet, range-bound session. Without a strong macro trigger, individual stock-level technical signals became the more reliable guide for new positions. This kind of neutral tape often precedes either a continuation of consolidation or a breakout once a clearer catalyst emerges.",
-    "summary_zh": "今日大盤小幅走低，未見明顯的單一催化因素，呈現區間整理的格局。在缺乏強烈宏觀驅動力的情況下，個股層面的技術訊號成為挑選新倉位更可靠的依據。這種中性盤勢通常預示著整理行情的延續，或是等待更明確的催化劑出現後才會突破。",
+    "summary_en": "US equities drifted modestly lower today, with the Nasdaq down 0.7% and the S&P 500 down 0.4%, in a quiet, directionless session rather than a reaction to any single major headline. The pullback looks consistent with routine consolidation after recent gains, with investors trimming some richly valued growth positions while rotating into steadier names. Overall breadth was mixed, suggesting the move was more about profit-taking than a shift in underlying sentiment.",
+    "summary_zh": "美股今日溫和下跌，納指跌0.7%，標普500跌0.4%，屬於缺乏明確消息面刺激的淡靜交易日。這次回調看來只是近期升勢後的正常整固，部分投資者趁高估值成長股獲利，資金轉向較穩健的板塊。大市廣度參差，反映此次波動更多是獲利回吐，而非市場氣氛出現根本轉變。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "MANE",
+      "ticker": "MDT",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover with rising histogram, price above SMA-20, and volume surge) signals genuine institutional buying, not a forced deployment."
-    },
-    {
-      "action": "BUY",
-      "ticker": "GFS",
-      "conviction": "high",
-      "reasoning": "Same complete four-signal confirmation as MANE (RSI 64.4, MACD crossover, price above SMA-20, volume surge) makes this a genuine high-conviction setup worth filling an open slot for."
+      "reasoning": "Full multi-signal confirmation (RSI 57 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge) shows strong institutional buying even as the broader market drifts lower today."
     }
   ],
   "outcomes": {
