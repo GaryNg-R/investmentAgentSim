@@ -1,34 +1,28 @@
 {
   "date": "2026-10-08",
-  "briefing": "Markets were roughly flat-to-slightly-down today (NASDAQ -0.6%, S&P 500 -0.3%), a neutral session overall. Three candidates — ACN, STNG, and GFS — showed perfect momentum scores with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge), so we used open slots and idle cash above the $500 threshold to add diversified exposure despite the muted broader tape.",
+  "briefing": "Markets were flat-to-slightly-down today (S&P -0.3%, Nasdaq -0.4%), a neutral session with no broad risk-on signal. Rather than forcing a buy just to deploy idle cash, we only bought MANE and GFS, the two candidates showing complete technical confirmation across RSI, MACD, price trend, and volume. Existing positions were left untouched to let stop-loss and profit-target rules work automatically.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent indicators — like RSI, MACD, price vs. moving average, and volume — all point the same direction at once. This reduces the chance of chasing a random price blip and increases confidence that real buying interest (often institutional) is behind the move.",
-    "explanation_zh": "多重訊號確認是指只有在多個獨立指標（例如RSI、MACD、股價相對於移動平均線的位置，以及成交量）同時指向同一方向時，才採取交易行動。這樣可以降低追逐隨機價格波動的風險，並提高判斷背後存在真實（通常是機構）買盤的信心。"
+    "term": "Signal Confluence",
+    "explanation_en": "Signal confluence means waiting until multiple independent indicators — like RSI, MACD, price trend, and trading volume — all point the same direction before acting. A single bullish signal can be noise, but when several line up together it's much more likely to reflect real buying interest rather than a random price blip.",
+    "explanation_zh": "訊號匯聚是指等待多個獨立指標（如RSI、MACD、價格趨勢和成交量）同時指向同一方向後才採取行動。單一的看漲訊號可能只是噪音，但當多個指標同時出現時，更有可能反映真實的買盤動能，而不是隨機的價格波動。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, consistent with a quiet, directionless session rather than any broad risk-off move. Despite the flat macro backdrop, several individual names showed strong stock-specific technical setups, underscoring that company-level momentum can diverge from the index trend. No major market-moving headlines were identified for today's session.",
-    "summary_zh": "今日大市輕微回落，納斯達克指數下跌0.6%，標普500指數下跌0.3%，屬於低波動、方向不明的交易日，而非廣泛的避險拋售。儘管大盤表現平淡，部分個股仍錄得強勁的技術走勢，反映個股動能可以脫離大盤走向。今日未見明顯的市場重大新聞。",
+    "summary_en": "Major indices drifted slightly lower today with no single dominant catalyst, consistent with a quiet, range-bound session. Without a strong macro trigger, individual stock-level technical signals became the more reliable guide for new positions. This kind of neutral tape often precedes either a continuation of consolidation or a breakout once a clearer catalyst emerges.",
+    "summary_zh": "今日大盤小幅走低，未見明顯的單一催化因素，呈現區間整理的格局。在缺乏強烈宏觀驅動力的情況下，個股層面的技術訊號成為挑選新倉位更可靠的依據。這種中性盤勢通常預示著整理行情的延續，或是等待更明確的催化劑出現後才會突破。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "ACN",
+      "ticker": "MANE",
       "conviction": "high",
-      "reasoning": "Perfect 100 score with full multi-signal confirmation (RSI bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) indicating strong institutional participation."
-    },
-    {
-      "action": "BUY",
-      "ticker": "STNG",
-      "conviction": "medium",
-      "reasoning": "Full multi-signal confirmation at a 100 score adds shipping-sector diversification away from existing tech-heavy holdings."
+      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover with rising histogram, price above SMA-20, and volume surge) signals genuine institutional buying, not a forced deployment."
     },
     {
       "action": "BUY",
       "ticker": "GFS",
-      "conviction": "medium",
-      "reasoning": "Full multi-signal confirmation at a 100 score offers semiconductor exposure distinct from current MU position, filling an open slot with idle cash."
+      "conviction": "high",
+      "reasoning": "Same complete four-signal confirmation as MANE (RSI 64.4, MACD crossover, price above SMA-20, volume surge) makes this a genuine high-conviction setup worth filling an open slot for."
     }
   ],
   "outcomes": {
