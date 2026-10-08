@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-10-08T16:01:08.179801+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-10-08T17:00:29.084700+00:00",
+  "market_direction": "risk_off",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "MDT",
-        "conviction": "high",
-        "reasoning": "Full multi-signal confirmation (RSI 57 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge) shows strong institutional buying even as the broader market drifts lower today."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Markets were mildly negative today with NASDAQ -0.7% and S&P 500 -0.4%, a neutral-to-soft session with no clear catalyst. Rather than force capital into weaker setups, we added only MDT, the one candidate with complete signal confirmation, and left two slots open to preserve dry powder for a stronger risk-on day.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Markets pulled back today with NASDAQ down 1.1% and S&P 500 down 0.6%, putting conditions in risk-off territory. No new candidates were screened, so we're holding all 7 existing positions and keeping cash on the sidelines rather than forcing a buy.",
     "market_education": {
-      "summary_en": "US equities drifted modestly lower today, with the Nasdaq down 0.7% and the S&P 500 down 0.4%, in a quiet, directionless session rather than a reaction to any single major headline. The pullback looks consistent with routine consolidation after recent gains, with investors trimming some richly valued growth positions while rotating into steadier names. Overall breadth was mixed, suggesting the move was more about profit-taking than a shift in underlying sentiment.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u6eab\u548c\u4e0b\u8dcc\uff0c\u7d0d\u6307\u8dcc0.7%\uff0c\u6a19\u666e500\u8dcc0.4%\uff0c\u5c6c\u65bc\u7f3a\u4e4f\u660e\u78ba\u6d88\u606f\u9762\u523a\u6fc0\u7684\u6de1\u975c\u4ea4\u6613\u65e5\u3002\u9019\u6b21\u56de\u8abf\u770b\u4f86\u53ea\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u6b63\u5e38\u6574\u56fa\uff0c\u90e8\u5206\u6295\u8cc7\u8005\u8d81\u9ad8\u4f30\u503c\u6210\u9577\u80a1\u7372\u5229\uff0c\u8cc7\u91d1\u8f49\u5411\u8f03\u7a69\u5065\u7684\u677f\u584a\u3002\u5927\u5e02\u5ee3\u5ea6\u53c3\u5dee\uff0c\u53cd\u6620\u6b64\u6b21\u6ce2\u52d5\u66f4\u591a\u662f\u7372\u5229\u56de\u5410\uff0c\u800c\u975e\u5e02\u5834\u6c23\u6c1b\u51fa\u73fe\u6839\u672c\u8f49\u8b8a\u3002",
+      "summary_en": "Tech and broad-market stocks slipped today as investors grew cautious, pulling NASDAQ down 1.1% and the S&P 500 down 0.6%. The pullback reflects a broader risk-off shift rather than any single company-specific event in our portfolio. With momentum signals weak across the board, no new stocks cleared the screening bar today.",
+      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u80a1\u53ca\u5927\u76e4\u80a1\u666e\u904d\u8d70\u5f31\uff0c\u6295\u8cc7\u8005\u8f49\u8da8\u5be9\u614e\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc1.1%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.6%\u3002\u6b64\u6b21\u56de\u8abf\u53cd\u6620\u6574\u9ad4\u5e02\u5834\u98a8\u96aa\u504f\u597d\u8f49\u5f31\uff0c\u4e26\u975e\u500b\u80a1\u7279\u5b9a\u4e8b\u4ef6\u6240\u81f4\u3002\u7531\u65bc\u5e02\u5834\u52d5\u80fd\u8a0a\u865f\u666e\u904d\u75b2\u5f31\uff0c\u4eca\u65e5\u4e26\u7121\u65b0\u80a1\u7968\u901a\u904e\u7be9\u9078\u9580\u6abb\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Idiosyncratic Risk",
-      "explanation_en": "Idiosyncratic risk refers to factors specific to one company or stock, separate from what's happening to the overall market. Today MDT showed strong bullish signals even though the broader market dipped slightly, which is why a single stock can still be a good buy on a day the overall index is down.",
-      "explanation_zh": "\u500b\u80a1\u98a8\u96aa\uff08Idiosyncratic Risk\uff09\u6307\u7684\u662f\u53ea\u5f71\u97ff\u55ae\u4e00\u516c\u53f8\u6216\u80a1\u7968\u7684\u56e0\u7d20\uff0c\u8207\u5927\u76e4\u8d70\u52e2\u7121\u95dc\u3002\u4eca\u65e5MDT\u51fa\u73fe\u5f37\u70c8\u5229\u597d\u8a0a\u865f\uff0c\u5373\u4f7f\u5927\u76e4\u6574\u9ad4\u8f15\u5fae\u4e0b\u8dcc\uff0c\u500b\u80a1\u4ecd\u53ef\u56e0\u81ea\u8eab\u56e0\u7d20\u8868\u73fe\u5f37\u52c1\uff0c\u6240\u4ee5\u5728\u5927\u76e4\u504f\u5f31\u7684\u65e5\u5b50\uff0c\u4ecd\u53ef\u4ee5\u8cb7\u5165\u8a0a\u865f\u7279\u5225\u5f37\u7684\u500b\u80a1\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "'Risk-off' describes a market mood where investors pull back from riskier assets like growth stocks and move toward safety, often triggered by uncertainty about the economy or interest rates. On days like this, it's usually smarter to hold existing positions and wait rather than chase new trades, since momentum and volume signals tend to be unreliable.",
+      "explanation_zh": "\u300crisk-off\u300d\uff08\u98a8\u96aa\u898f\u907f\uff09\u662f\u6307\u6295\u8cc7\u8005\u5728\u9762\u5c0d\u7d93\u6fdf\u6216\u5229\u7387\u4e0d\u78ba\u5b9a\u6027\u6642\uff0c\u50be\u5411\u6e1b\u5c11\u6301\u6709\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\uff08\u5982\u6210\u9577\u80a1\uff09\uff0c\u8f49\u5411\u8f03\u5b89\u5168\u7684\u8cc7\u7522\u3002\u5728\u9019\u7a2e\u5e02\u6cc1\u4e0b\uff0c\u901a\u5e38\u8f03\u660e\u667a\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u5009\u4f4d\u4e26\u89c0\u671b\uff0c\u800c\u975e\u8ffd\u9010\u65b0\u4ea4\u6613\uff0c\u56e0\u70ba\u52d5\u80fd\u8207\u6210\u4ea4\u91cf\u8a0a\u865f\u5728\u6b64\u6642\u5f80\u5f80\u4e0d\u53ef\u9760\u3002"
     }
   }
 }

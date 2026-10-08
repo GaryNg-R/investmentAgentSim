@@ -1,24 +1,17 @@
 {
   "date": "2026-10-08",
-  "briefing": "Markets were mildly negative today with NASDAQ -0.7% and S&P 500 -0.4%, a neutral-to-soft session with no clear catalyst. Rather than force capital into weaker setups, we added only MDT, the one candidate with complete signal confirmation, and left two slots open to preserve dry powder for a stronger risk-on day.",
+  "briefing": "Markets pulled back today with NASDAQ down 1.1% and S&P 500 down 0.6%, putting conditions in risk-off territory. No new candidates were screened, so we're holding all 7 existing positions and keeping cash on the sidelines rather than forcing a buy.",
   "daily_lesson": {
-    "term": "Idiosyncratic Risk",
-    "explanation_en": "Idiosyncratic risk refers to factors specific to one company or stock, separate from what's happening to the overall market. Today MDT showed strong bullish signals even though the broader market dipped slightly, which is why a single stock can still be a good buy on a day the overall index is down.",
-    "explanation_zh": "個股風險（Idiosyncratic Risk）指的是只影響單一公司或股票的因素，與大盤走勢無關。今日MDT出現強烈利好訊號，即使大盤整體輕微下跌，個股仍可因自身因素表現強勁，所以在大盤偏弱的日子，仍可以買入訊號特別強的個股。"
+    "term": "Risk-Off",
+    "explanation_en": "'Risk-off' describes a market mood where investors pull back from riskier assets like growth stocks and move toward safety, often triggered by uncertainty about the economy or interest rates. On days like this, it's usually smarter to hold existing positions and wait rather than chase new trades, since momentum and volume signals tend to be unreliable.",
+    "explanation_zh": "「risk-off」（風險規避）是指投資者在面對經濟或利率不確定性時，傾向減少持有風險較高的資產（如成長股），轉向較安全的資產。在這種市況下，通常較明智的做法是持有現有倉位並觀望，而非追逐新交易，因為動能與成交量訊號在此時往往不可靠。"
   },
   "market_education": {
-    "summary_en": "US equities drifted modestly lower today, with the Nasdaq down 0.7% and the S&P 500 down 0.4%, in a quiet, directionless session rather than a reaction to any single major headline. The pullback looks consistent with routine consolidation after recent gains, with investors trimming some richly valued growth positions while rotating into steadier names. Overall breadth was mixed, suggesting the move was more about profit-taking than a shift in underlying sentiment.",
-    "summary_zh": "美股今日溫和下跌，納指跌0.7%，標普500跌0.4%，屬於缺乏明確消息面刺激的淡靜交易日。這次回調看來只是近期升勢後的正常整固，部分投資者趁高估值成長股獲利，資金轉向較穩健的板塊。大市廣度參差，反映此次波動更多是獲利回吐，而非市場氣氛出現根本轉變。",
+    "summary_en": "Tech and broad-market stocks slipped today as investors grew cautious, pulling NASDAQ down 1.1% and the S&P 500 down 0.6%. The pullback reflects a broader risk-off shift rather than any single company-specific event in our portfolio. With momentum signals weak across the board, no new stocks cleared the screening bar today.",
+    "summary_zh": "今日科技股及大盤股普遍走弱，投資者轉趨審慎，納斯達克指數下跌1.1%，標普500指數下跌0.6%。此次回調反映整體市場風險偏好轉弱，並非個股特定事件所致。由於市場動能訊號普遍疲弱，今日並無新股票通過篩選門檻。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "MDT",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (RSI 57 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge) shows strong institutional buying even as the broader market drifts lower today."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
