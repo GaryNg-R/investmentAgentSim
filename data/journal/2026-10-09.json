@@ -1,14 +1,14 @@
 {
   "date": "2026-10-09",
-  "briefing": "Markets were mildly risk-on today with NASDAQ and S&P500 both up 0.6%, not a strong breakout but still constructive. With $889 cash and 3 open slots, we deployed into three fully-confirmed momentum names (TSLA, PCVX, CRCL) that each show RSI in the healthy bullish zone, bullish MACD crossovers, rising histograms, and price above SMA-20, while avoiding the overbought names on the list.",
+  "briefing": "NASDAQ and S&P 500 both edged up 0.6% today, a mild risk-on tone rather than a strong breakout. With cash above the $500 threshold and 3 open slots, we deployed modestly into TSLA and DOCN, both showing full bullish signal stacks without being overbought, while keeping one slot and reserve cash for a stronger confirmation day.",
   "daily_lesson": {
-    "term": "Technical Confirmation",
-    "explanation_en": "Technical confirmation means waiting for multiple indicators — like RSI in a healthy range, a MACD bullish crossover, and price above a moving average — to align before buying, rather than acting on just one signal. This reduces the chance of chasing a false breakout.",
-    "explanation_zh": "技術確認是指在買入前等待多個指標（例如RSI處於健康區間、MACD出現黃金交叉、股價高於均線）同時出現，而不是僅憑單一信號行動。這樣可以降低追逐假突破的風險。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means checking multiple technical signals together—like MACD crossovers, RSI position, and price versus moving averages—before buying, rather than relying on just one indicator. This reduces the chance of chasing a false signal and helps size conviction appropriately on days when the broader market move is modest, like today's +0.6% gain.",
+    "explanation_zh": "動能確認是指在買入前同時參考多個技術指標(例如MACD黃金交叉、RSI水平、股價與移動平均線的關係),而非只依賴單一指標。這樣可以減少追逐假訊號的風險,並有助於在大市升幅溫和(如今日只升0.6%)的日子,更準確地評估買入的信心程度。"
   },
   "market_education": {
-    "summary_en": "Equities edged higher today with the S&P 500 and NASDAQ each gaining about 0.6%, a modest but positive move rather than a sharp rally. The gain reflects steady buying interest without any single dominant catalyst evident in the available data. Breadth among momentum names remained healthy, with several mid-cap growth stocks showing confirmed bullish technical setups.",
-    "summary_zh": "今日美股溫和上揚，標普500指數及納斯達克指數均升約0.6%，屬於穩健但非急升的走勢。市場買盤持續，暫未見明顯單一催化因素推動。多隻中型增長股的技術指標保持強勁，動能信號確認良好。",
+    "summary_en": "Markets drifted modestly higher today with both major indices up about 0.6%, reflecting a cautiously positive but not euphoric tone. There was no single dramatic catalyst driving the move, which is typical of a steady grind-higher session rather than a news-driven rally. Breadth across growth names with healthy technical setups (bullish MACD crossovers, rising momentum) suggests underlying buyer interest without excessive speculation.",
+    "summary_zh": "今日大市溫和上揚,納指及標普500均升約0.6%,反映市場氣氛審慎樂觀,但未見過熱追捧。今次上升並非由單一重大消息帶動,較似是穩定向上的格局,而非新聞驅動的急升。多隻具備健康技術面(MACD黃金交叉、動能上升)的成長股造好,顯示買盤仍然存在,但未見過度投機。",
     "sources": []
   },
   "trades": [
@@ -16,19 +16,13 @@
       "action": "BUY",
       "ticker": "TSLA",
       "conviction": "medium",
-      "reasoning": "Score 95 with RSI 60.8 in bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20 confirms multi-signal momentum."
+      "reasoning": "Score 95 with MACD bullish crossover, rising histogram, and price above SMA-20 while RSI at 60.9 stays in the healthy momentum zone rather than overbought."
     },
     {
       "action": "BUY",
-      "ticker": "PCVX",
+      "ticker": "DOCN",
       "conviction": "medium",
-      "reasoning": "Score 95 biotech name with RSI 65.5, bullish MACD crossover and rising histogram diversifies away from existing tech-heavy holdings."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CRCL",
-      "conviction": "medium",
-      "reasoning": "Score 95 with all four confirmation signals (RSI 65.0, MACD crossover, rising histogram, price above SMA-20) adds exposure outside current sector mix."
+      "reasoning": "Score 95 with the lowest RSI (56.3) among top candidates, bullish MACD crossover and rising histogram, offering cloud-infra diversification away from existing holdings."
     }
   ],
   "outcomes": {
