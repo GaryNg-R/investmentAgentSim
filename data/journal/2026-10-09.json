@@ -1,22 +1,28 @@
 {
   "date": "2026-10-09",
-  "briefing": "Markets were flat today with NASDAQ and S&P 500 both up +0.3%, a neutral session with no major moves. We added a single new position in QRVO, a semiconductor name showing strong confirmed momentum signals, while keeping the rest of cash in reserve since the broader market didn't show a clear risk-on signal.",
+  "briefing": "Market is neutral today (NASDAQ +0.6%, S&P 500 +0.5%) with no strong risk-on signal, so we're not forcing full deployment of all three open slots. We're adding two moderate-conviction momentum names (NN, VSAT) with confirmed MACD/RSI/SMA-20 setups to put some of the idle cash to work while keeping a buffer and letting existing winners run.",
   "daily_lesson": {
     "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, healthy RSI, price above a moving average, and a volume surge — to all line up before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move.",
-    "explanation_zh": "動量確認係指喺買入之前，等待多個技術訊號——例如MACD黃金交叉、健康嘅RSI水平、股價高於移動平均線，以及成交量放大——同時出現，而唔係單靠一個訊號就落實交易。呢個做法可以減少追錯虛假或短暫升浪嘅機會。"
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a rising MACD, a healthy RSI, and price above its moving average — to agree before buying, rather than acting on just one signal. It helps avoid chasing false breakouts, especially on quiet, neutral market days like today.",
+    "explanation_zh": "動能確認是指在買入前，等待多個技術指標（例如MACD上升、RSI處於健康區間、股價高於移動平均線）同時發出一致訊號，而不是只靠單一信號行動。這有助避免在今日這種平靜、中性的市況下，追逐虛假的突破。"
   },
   "market_education": {
-    "summary_en": "Trading was quiet today, with both the NASDAQ and S&P 500 posting modest gains of about 0.3%, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a strong directional push, most stocks drifted sideways rather than showing clear breakouts. This kind of low-volatility day often reflects markets digesting recent moves before the next catalyst, such as earnings or economic data, arrives.",
-    "summary_zh": "今日大市交投淡靜，納斯達克指數及標普500指數同步微升約0.3%，反映投資者普遍採取觀望態度，未見有明顯催化劑刺激市場。在缺乏強烈方向性因素下，大部分股份只係橫行整理，未見明顯突破。呢種低波幅走勢通常反映市場正消化近期升跌，等候下一個刺激因素，例如企業盈利或經濟數據公佈。",
+    "summary_en": "Today's modest NASDAQ (+0.6%) and S&P 500 (+0.5%) gains reflect a broadly calm, low-volatility session without a major catalyst pushing stocks sharply in either direction. In the absence of strong risk-on conviction signals like a volume surge, the market is best read as consolidating rather than breaking out. No specific news headlines were available in today's data feed to cite.",
+    "summary_zh": "今日納指(+0.6%)及標普500(+0.5%)只錄得溫和升幅，反映市況大致平靜，未見明顯重大消息刺激股價大幅波動。在缺乏成交量激增等強烈「風險偏好」信號的情況下，現時市場較像在整固而非突破。今日數據中未提供具體新聞標題可供引用。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "QRVO",
+      "ticker": "NN",
       "conviction": "medium",
-      "reasoning": "QRVO shows full multi-signal confirmation (MACD bullish crossover, RSI 47.6 below 70, price above SMA-20, volume surge), adding diversified semiconductor exposure alongside existing MU position."
+      "reasoning": "RSI 55.3 leaves room to run and MACD/SMA-20 confirm bullish momentum, but neutral broad market tape keeps conviction medium rather than high."
+    },
+    {
+      "action": "BUY",
+      "ticker": "VSAT",
+      "conviction": "medium",
+      "reasoning": "RSI 62.2 with bullish MACD crossover and price above SMA-20 shows solid momentum without being overbought, worth deploying some idle cash into."
     }
   ],
   "outcomes": {
