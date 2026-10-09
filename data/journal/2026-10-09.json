@@ -1,28 +1,34 @@
 {
   "date": "2026-10-09",
-  "briefing": "Markets were mildly risk-on today with both NASDAQ and S&P 500 up 0.7%. With cash above the $500 threshold and 3 open slots, we deployed into two top-scoring momentum candidates (DOCN, GRAL) while leaving one slot and cash reserved since the rally wasn't a strong breakout.",
+  "briefing": "Markets edged higher today with NASDAQ and S&P 500 both up 0.6%, a mild risk-on tone. With 3 open slots and $889 in cash, we deployed into NVAX, AUGO, and CAI — the only candidates showing all four bullish confirmation signals (RSI, MACD crossover, price above SMA-20, and volume surge).",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Today we picked DOCN and GRAL because their price, RSI, and MACD indicators all confirmed an established uptrend rather than just a single bullish signal.",
-    "explanation_zh": "動能投資是指買入近期走勢強勁、持續上漲的股票,其邏輯是強勢表現在短期內往往會延續。今天我們選擇DOCN和GRAL,是因為它們的價格、RSI與MACD指標都共同確認了既有的上升趨勢,而非僅憑單一訊號進場。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying on a single bullish hint, strong traders wait for several indicators — like RSI, MACD, price trend, and volume — to all point the same direction at once. This reduces the chance of chasing a false signal and increases confidence that real buying interest is behind the move.",
+    "explanation_zh": "與其單憑一個看漲訊號就進場，穩健的交易者會等待多項指標（例如RSI、MACD、價格趨勢及成交量）同時發出一致的看漲訊號。這樣可以減低追逐假訊號的風險，並提高背後確實有真實買盤支持這波動的信心。"
   },
   "market_education": {
-    "summary_en": "Broad indices edged higher today, with the NASDAQ and S&P 500 both gaining 0.7%, reflecting steady but unspectacular buying interest across sectors. There was no single dominant news catalyst driving the move — it appears to be a continuation of the recent bullish momentum trend seen across the screened stock list. Many growth and tech names showed healthy MACD crossovers and RSI readings in bullish-but-not-overbought territory, suggesting orderly institutional buying rather than speculative chasing.",
-    "summary_zh": "今日大盤普遍走高,納斯達克與標普500指數同步上漲0.7%,反映市場買盤穩健但未見爆發性行情。今天並沒有單一重大新聞事件推動這波漲勢,較像是近期多頭動能的延續。多檔成長股及科技股的技術指標顯示MACD黃金交叉、RSI處於多頭區間但未達超買,顯示資金是穩健布局而非追高炒作。",
+    "summary_en": "Equities drifted modestly higher today, with both the NASDAQ and S&P 500 gaining 0.6% in a broad, low-volatility advance. No single catalyst stood out; the move looked like steady buying interest continuing to support risk assets. Breadth favored growth and momentum names, consistent with the risk-on classification.",
+    "summary_zh": "今日美股溫和走高，納斯達克指數及標普500指數同步上升0.6%，走勢屬於低波動的穩步上揚。市場並無單一重大消息推動，更多是資金持續流入風險資產所致。成長股及強勢股表現相對領先，符合「風險偏好」的市況定調。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "DOCN",
-      "conviction": "medium",
-      "reasoning": "Strong momentum score of 95 with RSI at 56.8 (room to run before overbought), MACD bullish crossover, and price above SMA-20 fits risk-on conditions."
+      "ticker": "NVAX",
+      "conviction": "high",
+      "reasoning": "All four confirmation signals align (bullish RSI, MACD crossover, price above SMA-20, volume surge) on the top-scored candidate."
     },
     {
       "action": "BUY",
-      "ticker": "GRAL",
-      "conviction": "medium",
-      "reasoning": "Top-tier score of 95 with RSI 59.9 still in healthy bullish zone and confirmed MACD crossover, good fit for an open slot on a risk-on day."
+      "ticker": "AUGO",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (RSI 69.6, MACD crossover, above SMA-20, volume surge) matches the highest-conviction setup from past lessons."
+    },
+    {
+      "action": "BUY",
+      "ticker": "CAI",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation with volume surge fills the last open slot on a risk-on day with cash above the $500 threshold."
     }
   ],
   "outcomes": {
