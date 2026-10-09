@@ -1,28 +1,28 @@
 {
   "date": "2026-10-09",
-  "briefing": "NASDAQ and S&P 500 both edged up 0.6% today, a mild risk-on tone rather than a strong breakout. With cash above the $500 threshold and 3 open slots, we deployed modestly into TSLA and DOCN, both showing full bullish signal stacks without being overbought, while keeping one slot and reserve cash for a stronger confirmation day.",
+  "briefing": "Markets were mildly risk-on today with both NASDAQ and S&P 500 up 0.7%. With cash above the $500 threshold and 3 open slots, we deployed into two top-scoring momentum candidates (DOCN, GRAL) while leaving one slot and cash reserved since the rally wasn't a strong breakout.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means checking multiple technical signals together—like MACD crossovers, RSI position, and price versus moving averages—before buying, rather than relying on just one indicator. This reduces the chance of chasing a false signal and helps size conviction appropriately on days when the broader market move is modest, like today's +0.6% gain.",
-    "explanation_zh": "動能確認是指在買入前同時參考多個技術指標(例如MACD黃金交叉、RSI水平、股價與移動平均線的關係),而非只依賴單一指標。這樣可以減少追逐假訊號的風險,並有助於在大市升幅溫和(如今日只升0.6%)的日子,更準確地評估買入的信心程度。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the short term. Today we picked DOCN and GRAL because their price, RSI, and MACD indicators all confirmed an established uptrend rather than just a single bullish signal.",
+    "explanation_zh": "動能投資是指買入近期走勢強勁、持續上漲的股票,其邏輯是強勢表現在短期內往往會延續。今天我們選擇DOCN和GRAL,是因為它們的價格、RSI與MACD指標都共同確認了既有的上升趨勢,而非僅憑單一訊號進場。"
   },
   "market_education": {
-    "summary_en": "Markets drifted modestly higher today with both major indices up about 0.6%, reflecting a cautiously positive but not euphoric tone. There was no single dramatic catalyst driving the move, which is typical of a steady grind-higher session rather than a news-driven rally. Breadth across growth names with healthy technical setups (bullish MACD crossovers, rising momentum) suggests underlying buyer interest without excessive speculation.",
-    "summary_zh": "今日大市溫和上揚,納指及標普500均升約0.6%,反映市場氣氛審慎樂觀,但未見過熱追捧。今次上升並非由單一重大消息帶動,較似是穩定向上的格局,而非新聞驅動的急升。多隻具備健康技術面(MACD黃金交叉、動能上升)的成長股造好,顯示買盤仍然存在,但未見過度投機。",
+    "summary_en": "Broad indices edged higher today, with the NASDAQ and S&P 500 both gaining 0.7%, reflecting steady but unspectacular buying interest across sectors. There was no single dominant news catalyst driving the move — it appears to be a continuation of the recent bullish momentum trend seen across the screened stock list. Many growth and tech names showed healthy MACD crossovers and RSI readings in bullish-but-not-overbought territory, suggesting orderly institutional buying rather than speculative chasing.",
+    "summary_zh": "今日大盤普遍走高,納斯達克與標普500指數同步上漲0.7%,反映市場買盤穩健但未見爆發性行情。今天並沒有單一重大新聞事件推動這波漲勢,較像是近期多頭動能的延續。多檔成長股及科技股的技術指標顯示MACD黃金交叉、RSI處於多頭區間但未達超買,顯示資金是穩健布局而非追高炒作。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TSLA",
+      "ticker": "DOCN",
       "conviction": "medium",
-      "reasoning": "Score 95 with MACD bullish crossover, rising histogram, and price above SMA-20 while RSI at 60.9 stays in the healthy momentum zone rather than overbought."
+      "reasoning": "Strong momentum score of 95 with RSI at 56.8 (room to run before overbought), MACD bullish crossover, and price above SMA-20 fits risk-on conditions."
     },
     {
       "action": "BUY",
-      "ticker": "DOCN",
+      "ticker": "GRAL",
       "conviction": "medium",
-      "reasoning": "Score 95 with the lowest RSI (56.3) among top candidates, bullish MACD crossover and rising histogram, offering cloud-infra diversification away from existing holdings."
+      "reasoning": "Top-tier score of 95 with RSI 59.9 still in healthy bullish zone and confirmed MACD crossover, good fit for an open slot on a risk-on day."
     }
   ],
   "outcomes": {
