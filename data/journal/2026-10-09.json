@@ -1,34 +1,34 @@
 {
   "date": "2026-10-09",
-  "briefing": "Markets edged higher today with NASDAQ and S&P 500 both up 0.6%, a mild risk-on tone. With 3 open slots and $889 in cash, we deployed into NVAX, AUGO, and CAI — the only candidates showing all four bullish confirmation signals (RSI, MACD crossover, price above SMA-20, and volume surge).",
+  "briefing": "Markets are modestly risk-on today with NASDAQ and S&P 500 both up 0.6%. With $889 in idle cash and 3 open slots, we deployed into DOCN, NG, and AMBA — all showing full multi-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, volume surge) rather than letting cash sit idle.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of buying on a single bullish hint, strong traders wait for several indicators — like RSI, MACD, price trend, and volume — to all point the same direction at once. This reduces the chance of chasing a false signal and increases confidence that real buying interest is behind the move.",
-    "explanation_zh": "與其單憑一個看漲訊號就進場，穩健的交易者會等待多項指標（例如RSI、MACD、價格趨勢及成交量）同時發出一致的看漲訊號。這樣可以減低追逐假訊號的風險，並提高背後確實有真實買盤支持這波動的信心。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, healthy RSI, price above its moving average, and a volume surge — to line up together before buying, rather than acting on just one signal. This reduces the chance of chasing a false breakout.",
+    "explanation_zh": "動能確認是指在買入前,等待多個技術指標(例如MACD黃金交叉、健康的RSI水平、股價高於移動平均線,以及成交量放大)同時出現,而非只憑單一訊號進場。這樣可以降低追逐假突破的風險。"
   },
   "market_education": {
-    "summary_en": "Equities drifted modestly higher today, with both the NASDAQ and S&P 500 gaining 0.6% in a broad, low-volatility advance. No single catalyst stood out; the move looked like steady buying interest continuing to support risk assets. Breadth favored growth and momentum names, consistent with the risk-on classification.",
-    "summary_zh": "今日美股溫和走高，納斯達克指數及標普500指數同步上升0.6%，走勢屬於低波動的穩步上揚。市場並無單一重大消息推動，更多是資金持續流入風險資產所致。成長股及強勢股表現相對領先，符合「風險偏好」的市況定調。",
+    "summary_en": "Equities drifted modestly higher today, with both the NASDAQ and S&P 500 adding 0.6% in a broad, low-drama advance rather than any single catalyst-driven move. Breadth looked healthy across growth names, with several mid-cap tech and healthcare stocks showing institutional-grade volume surges alongside bullish MACD crossovers. The move looks more like steady accumulation than a news-driven spike, consistent with a calm risk-on tape.",
+    "summary_zh": "今日大盤溫和上揚,納指及標普500指數皆升0.6%,屬於廣泛性、無特定單一消息驅動的穩步上漲。多隻中型科技及醫療股同時出現MACD黃金交叉及成交量放大,顯示機構資金持續流入,市場氣氛偏向穩健的risk-on格局,而非單一新聞刺激下的急漲。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NVAX",
+      "ticker": "DOCN",
       "conviction": "high",
-      "reasoning": "All four confirmation signals align (bullish RSI, MACD crossover, price above SMA-20, volume surge) on the top-scored candidate."
+      "reasoning": "All four confirmation signals align (MACD bullish crossover, RSI 58.7 in bullish zone with room to run, price above SMA-20, volume surge) on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "AUGO",
+      "ticker": "NG",
       "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (RSI 69.6, MACD crossover, above SMA-20, volume surge) matches the highest-conviction setup from past lessons."
+      "reasoning": "Full multi-signal confirmation with RSI 61.2 well below overbought and a volume surge confirming institutional participation."
     },
     {
       "action": "BUY",
-      "ticker": "CAI",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation with volume surge fills the last open slot on a risk-on day with cash above the $500 threshold."
+      "ticker": "AMBA",
+      "conviction": "medium",
+      "reasoning": "Strong momentum score with all four confirmation signals present, filling the third open slot while deploying idle cash above the $500 threshold."
     }
   ],
   "outcomes": {
