@@ -1,30 +1,17 @@
 {
   "date": "2026-10-09",
-  "briefing": "Market is neutral today (NASDAQ +0.6%, S&P 500 +0.5%) with no strong risk-on signal, so we're not forcing full deployment of all three open slots. We're adding two moderate-conviction momentum names (NN, VSAT) with confirmed MACD/RSI/SMA-20 setups to put some of the idle cash to work while keeping a buffer and letting existing winners run.",
+  "briefing": "Markets were quietly higher today with NASDAQ +0.5% and S&P 500 +0.4% — a neutral, low-conviction session. None of today's top-scoring candidates showed the full four-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and a volume surge) that past experience says separates real institutional buying from noise, so we held cash and existing positions rather than forcing a trade into open slots.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a rising MACD, a healthy RSI, and price above its moving average — to agree before buying, rather than acting on just one signal. It helps avoid chasing false breakouts, especially on quiet, neutral market days like today.",
-    "explanation_zh": "動能確認是指在買入前，等待多個技術指標（例如MACD上升、RSI處於健康區間、股價高於移動平均線）同時發出一致訊號，而不是只靠單一信號行動。這有助避免在今日這種平靜、中性的市況下，追逐虛假的突破。"
+    "term": "Signal Confirmation",
+    "explanation_en": "Before buying, experienced traders look for multiple indicators to agree — like a bullish MACD crossover, healthy RSI, price above its moving average, AND a volume surge. When only some of these line up, it's often a weaker, less reliable setup, and patience to wait for full confirmation usually pays off.",
+    "explanation_zh": "有經驗的交易者在買入前，通常會等待多項技術指標同時發出一致訊號，例如MACD黃金交叉、健康的RSI水平、股價站上均線，以及成交量放大。如果只有部分訊號成立，代表進場訊號較弱也較不可靠，耐心等待全部訊號確認往往更有利。"
   },
   "market_education": {
-    "summary_en": "Today's modest NASDAQ (+0.6%) and S&P 500 (+0.5%) gains reflect a broadly calm, low-volatility session without a major catalyst pushing stocks sharply in either direction. In the absence of strong risk-on conviction signals like a volume surge, the market is best read as consolidating rather than breaking out. No specific news headlines were available in today's data feed to cite.",
-    "summary_zh": "今日納指(+0.6%)及標普500(+0.5%)只錄得溫和升幅，反映市況大致平靜，未見明顯重大消息刺激股價大幅波動。在缺乏成交量激增等強烈「風險偏好」信號的情況下，現時市場較像在整固而非突破。今日數據中未提供具體新聞標題可供引用。",
+    "summary_en": "Major indices drifted modestly higher without a clear catalyst, continuing a quiet consolidation phase rather than a sharp directional move. Volume and participation across the screened candidates were unremarkable, suggesting traders are waiting for a clearer signal before committing fresh capital. This kind of low-volatility grind is common between earnings seasons or major macro data releases.",
+    "summary_zh": "大型指數今日小幅上揚，但缺乏明顯的催化因素，市場仍處於區間整理階段而非明確的方向性行情。觀察名單中的候選股成交量與參與度皆平平，顯示投資者在投入新資金前仍在等待更明確的訊號。這種低波動的盤整行情在財報季之間或重大宏觀數據公布前相當常見。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "NN",
-      "conviction": "medium",
-      "reasoning": "RSI 55.3 leaves room to run and MACD/SMA-20 confirm bullish momentum, but neutral broad market tape keeps conviction medium rather than high."
-    },
-    {
-      "action": "BUY",
-      "ticker": "VSAT",
-      "conviction": "medium",
-      "reasoning": "RSI 62.2 with bullish MACD crossover and price above SMA-20 shows solid momentum without being overbought, worth deploying some idle cash into."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14455.735246181488,
     "cash": 889.2850012779236,
