@@ -1,22 +1,28 @@
 {
   "date": "2026-10-12",
-  "briefing": "Markets were essentially flat today (NASDAQ -0.3%, S&P 500 -0.0%), a neutral session with no clear risk-on or risk-off signal. We held all 7 existing positions and added META, the only candidate showing the full set of bullish technical signals including a volume surge, while leaving the other 2 open slots unfilled since no other ticker met the same bar of confirmation.",
+  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.2%, S&P500 +0.0%), with no strong risk-on or risk-off signal. We partially filled open slots with two top-scoring, multi-signal-confirmed candidates (MANH, VSXY) at medium conviction since volume confirmation was absent, while holding all 7 existing positions and keeping one slot plus some cash in reserve.",
   "daily_lesson": {
-    "term": "Technical Confluence",
-    "explanation_en": "Technical confluence means multiple independent indicators — like RSI, MACD, moving averages, and volume — all point the same direction at once, making a signal more reliable than any single indicator alone. Today's META buy is an example: it showed bullish RSI, a MACD crossover, price above its moving average, AND a volume surge together, which is a stronger setup than a stock showing just one of those signals.",
-    "explanation_zh": "技術指標共振（Technical Confluence）指多個獨立技術指標——例如RSI、MACD、移動平均線及成交量——同時指向同一方向，令訊號比單一指標更可靠。今日買入META便是例子：其RSI偏多、MACD出現黃金交叉、股價高於移動平均線，加上成交量明顯放大，四項訊號同時出現，比只有單一訊號的股票更具說服力。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing upward price trends, confirmed by indicators like RSI and MACD, on the theory that stocks moving up tend to keep moving up in the near term. It works best when multiple signals line up together, and conviction should be scaled down when a key confirming signal — like a volume surge — is missing.",
+    "explanation_zh": "動量投資策略是指買入已經呈現上升趨勢的股票，並以RSI、MACD等技術指標加以確認，其理念是股價上升的動力短期內往往會延續。這策略在多項訊號同時出現時效果最佳；若缺少例如成交量放大等關鍵確認訊號，便應適度降低持股信心及注碼。"
   },
   "market_education": {
-    "summary_en": "Trading was quiet and directionless today, with the NASDAQ and S&P 500 both essentially unchanged as investors lacked a clear catalyst to push markets meaningfully in either direction. Volume and volatility stayed muted, typical of a consolidation session where traders wait for the next earnings report or economic data point. No major headlines drove today's price action.",
-    "summary_zh": "今日大市交投淡靜、方向不明，納指及標普500指數均近乎平盤收市，投資者缺乏明確催化劑帶動大市朝任何方向明顯移動。成交量及波幅均偏低，屬於典型的整固行情，市場正等待下一份財報或經濟數據公布。今日並無重大新聞消息主導股價走勢。",
+    "summary_en": "Major indices traded essentially sideways today, with the NASDAQ down a fraction and the S&P 500 roughly flat, suggesting investors are in a wait-and-see mode rather than reacting to major catalysts. Without a strong directional move, there's little evidence of either broad risk appetite or risk aversion driving trading. This kind of quiet session often reflects markets digesting recent data ahead of upcoming earnings or economic releases.",
+    "summary_zh": "今日大市大致橫行整理，納斯達克指數微跌0.2%，標普500指數則近乎持平，反映投資者普遍處於觀望狀態，未見明顯的市場催化劑帶動方向。在缺乏強烈升跌動力下，難以判斷資金是趨向風險偏好還是風險規避。這種偏淡靜的交易日子，往往顯示市場在消化近期數據，靜待稍後的業績或經濟數據公佈。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "META",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge) justifies deploying part of idle cash even on an otherwise neutral market day."
+      "ticker": "MANH",
+      "conviction": "medium",
+      "reasoning": "Top-scoring candidate (95) with RSI in bullish zone, MACD bullish crossover, and price above SMA-20, though lacking volume confirmation on a neutral market day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "VSXY",
+      "conviction": "medium",
+      "reasoning": "Shares the same 95 score and three-signal confirmation (RSI 59.1, MACD crossover, price above SMA-20) as other top candidates, offering diversification into a new name."
     }
   ],
   "outcomes": {
