@@ -1,17 +1,36 @@
 {
   "date": "2026-10-12",
-  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.4%, S&P 500 -0.1%), not the risk-on confirmation needed to deploy new capital. With 3 open slots and cash above the deployment threshold, we're holding rather than forcing buys on a neutral day, consistent with past lessons that patience on neutral days beats chasing deployment for its own sake. Existing positions are left to run; stop-loss and profit-target rules will handle exits automatically.",
+  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.4%, S&P -0.1%), a neutral session with no clear directional catalyst. With $989 in cash and 3 open slots, we deployed into three fully-confirmed momentum setups (DHT, KSS, CNR) rather than letting capital sit idle, per the risk-rule preference to fill open slots when cash exceeds $500. Existing positions are held unchanged since none hit stop-loss or profit-target levels.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' or neutral market day is when investors hold back from aggressive new bets because there's no clear signal that stocks are about to rally. Even if cash is available, buying just to 'put money to work' on a weak signal often leads to worse entries than waiting for genuine momentum to confirm. Patience during these quiet stretches protects capital for when a real opportunity appears.",
-    "explanation_zh": "「risk-off」或中性市況是指投資者在沒有明確訊號顯示股市將上升時，不願意貿然加大注碼。即使手頭有現金，單純為了「用盡資金」而在訊號疲弱時買入，往往會換來較差的進場價位。在這些淡靜時期保持耐性，才能在真正機會出現時把資金用在最合適的地方。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong recent performance tends to continue in the near term. Today's buys were selected because they showed multiple confirming technical signals together — not just one indicator — which reduces the chance of chasing a false signal.",
+    "explanation_zh": "動能投資是指買入已經處於上升趨勢的股票，理論依據是近期表現強勢的股票短期內往往會延續漲勢。今日的買入標的是因為同時出現多個技術指標確認訊號，而非僅依賴單一指標，這樣可以降低誤判假訊號的風險。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no major catalyst, as NASDAQ slipped 0.4% and the S&P 500 eased 0.1% in a quiet, low-conviction session. Without a clear risk-on or risk-off trigger, trading volume and momentum signals were mixed across the screened candidates. This kind of directionless chop is common between major data releases or earnings catalysts.",
-    "summary_zh": "今日大市輕微下滑，缺乏明顯催化因素，納斯達克指數跌0.4%，標普500指數跌0.1%，整體走勢淡靜、方向不明確。由於沒有明確的risk-on或risk-off訊號，篩選名單中的動能指標也呈現好壞參半的局面。這種橫行格局在重大數據或業績公布之間頗為常見。",
+    "summary_en": "Major indices traded in a narrow range today with no single dominant catalyst, reflecting a market in consolidation mode after recent moves. Sector-level divergence was visible, with some retail and shipping names showing volume-backed breakouts even as the broader averages stayed flat. This kind of quiet, mixed tape is typical between larger macro data releases or earnings catalysts.",
+    "summary_zh": "今日大盤呈現窄幅震盪格局，沒有單一明顯的消息面催化劑，顯示大盤正處於近期漲勢後的整理階段。個股層面出現分歧，部分零售與航運類股在成交量放大的支撐下出現突破走勢，儘管主要指數維持平盤。這種淡靜、分歧的盤面在重大宏觀數據或財報公布之間相當常見。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "DHT",
+      "conviction": "high",
+      "reasoning": "Full five-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) makes this the top-scored candidate."
+    },
+    {
+      "action": "BUY",
+      "ticker": "KSS",
+      "conviction": "high",
+      "reasoning": "Matches DHT's full five-signal setup with strong volume confirmation, indicating genuine institutional buying rather than noise."
+    },
+    {
+      "action": "BUY",
+      "ticker": "CNR",
+      "conviction": "medium",
+      "reasoning": "Four-signal confirmation with RSI at a healthier 60.5 (less overbought than peers) gives room to run before hitting resistance."
+    }
+  ],
   "outcomes": {
     "total_value": 14555.735246181488,
     "cash": 989.2850012779236,
