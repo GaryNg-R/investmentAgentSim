@@ -1,14 +1,14 @@
 {
   "date": "2026-10-12",
-  "briefing": "Markets were flat-to-slightly negative today (NASDAQ -0.4%, S&P 500 -0.1%), not the risk-on setup our strategy requires for new deployments. Several candidates (VSXY, FICO, VIST, DK, YPF, TDS) show strong MACD/RSI/SMA alignment but lack confirmed volume surge data, so we're holding our 3 open slots and $989 cash rather than forcing a buy. All 7 existing positions remain held — profit targets and stop-losses will manage them automatically.",
+  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.4%, S&P 500 -0.1%), not the risk-on confirmation needed to deploy new capital. With 3 open slots and cash above the deployment threshold, we're holding rather than forcing buys on a neutral day, consistent with past lessons that patience on neutral days beats chasing deployment for its own sake. Existing positions are left to run; stop-loss and profit-target rules will handle exits automatically.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash you keep uninvested, ready to deploy when a strong opportunity appears, rather than rushing into mediocre setups just to stay fully invested. Holding cash on a neutral day isn't a missed opportunity — it preserves flexibility and risk control for when conviction is higher.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指的是投資者保留現金不急於投資，等待出現真正具吸引力的機會才出手，而不是為了「用盡資金」而勉強買入普通的標的。在市場方向不明的日子持有現金並非錯失良機，而是保留靈活性，待信號更明確時再加大力度。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' or neutral market day is when investors hold back from aggressive new bets because there's no clear signal that stocks are about to rally. Even if cash is available, buying just to 'put money to work' on a weak signal often leads to worse entries than waiting for genuine momentum to confirm. Patience during these quiet stretches protects capital for when a real opportunity appears.",
+    "explanation_zh": "「risk-off」或中性市況是指投資者在沒有明確訊號顯示股市將上升時，不願意貿然加大注碼。即使手頭有現金，單純為了「用盡資金」而在訊號疲弱時買入，往往會換來較差的進場價位。在這些淡靜時期保持耐性，才能在真正機會出現時把資金用在最合適的地方。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with no major catalyst, reflecting a quiet, directionless session rather than any significant risk-off move. Trading volumes and momentum signals across our screened candidates were constructive but not decisively confirmed, suggesting institutional conviction hasn't fully built yet. In the absence of a clear signal, markets often consolidate before the next directional move.",
-    "summary_zh": "今日大盤輕微下跌，NASDAQ跌0.4%，標普500跌0.1%，市場缺乏明確催化劑，屬於方向不明的淡靜交易日。雖然部分篩選股票的動能指標（如MACD、RSI）表現不俗，但成交量未見明顯放大，顯示資金尚未全面確認入市信號。在缺乏明確方向時，市場通常會先行整理，再等待下一波走勢。",
+    "summary_en": "Major indices drifted slightly lower today with no major catalyst, as NASDAQ slipped 0.4% and the S&P 500 eased 0.1% in a quiet, low-conviction session. Without a clear risk-on or risk-off trigger, trading volume and momentum signals were mixed across the screened candidates. This kind of directionless chop is common between major data releases or earnings catalysts.",
+    "summary_zh": "今日大市輕微下滑，缺乏明顯催化因素，納斯達克指數跌0.4%，標普500指數跌0.1%，整體走勢淡靜、方向不明確。由於沒有明確的risk-on或risk-off訊號，篩選名單中的動能指標也呈現好壞參半的局面。這種橫行格局在重大數據或業績公布之間頗為常見。",
     "sources": []
   },
   "trades": [],
