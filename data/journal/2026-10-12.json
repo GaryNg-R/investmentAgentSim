@@ -1,34 +1,28 @@
 {
   "date": "2026-10-12",
-  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.4%, S&P -0.1%), a neutral session with no clear directional catalyst. With $989 in cash and 3 open slots, we deployed into three fully-confirmed momentum setups (DHT, KSS, CNR) rather than letting capital sit idle, per the risk-rule preference to fill open slots when cash exceeds $500. Existing positions are held unchanged since none hit stop-loss or profit-target levels.",
+  "briefing": "Market was flat today (NASDAQ -0.4%, S&P 500 -0.1%), but two candidates, DHT and KSS, showed every bullish technical signal at once, which is a strong enough individual setup to justify deploying some of the idle cash into two of the three open slots while keeping one slot and reserve cash for a future risk-on day.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong recent performance tends to continue in the near term. Today's buys were selected because they showed multiple confirming technical signals together — not just one indicator — which reduces the chance of chasing a false signal.",
-    "explanation_zh": "動能投資是指買入已經處於上升趨勢的股票，理論依據是近期表現強勢的股票短期內往往會延續漲勢。今日的買入標的是因為同時出現多個技術指標確認訊號，而非僅依賴單一指標，這樣可以降低誤判假訊號的風險。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means a stock's bullish signal is backed by multiple independent indicators at once, such as RSI, MACD, price trend, and trading volume, rather than just one. When several signals line up together, it suggests real buying interest (often institutional) rather than a random price blip, making the setup more reliable even if the broader market is flat.",
+    "explanation_zh": "動能確認是指一隻股票的好淡訊號同時獲得多個獨立指標支持，例如RSI、MACD、價格走勢及成交量，而非單一指標。當多個訊號同時出現時，往往反映真實的買盤（通常是機構資金）湧入，而非偶然的價格波動，因此即使大市表現平淡，這類設置仍具較高可信度。"
   },
   "market_education": {
-    "summary_en": "Major indices traded in a narrow range today with no single dominant catalyst, reflecting a market in consolidation mode after recent moves. Sector-level divergence was visible, with some retail and shipping names showing volume-backed breakouts even as the broader averages stayed flat. This kind of quiet, mixed tape is typical between larger macro data releases or earnings catalysts.",
-    "summary_zh": "今日大盤呈現窄幅震盪格局，沒有單一明顯的消息面催化劑，顯示大盤正處於近期漲勢後的整理階段。個股層面出現分歧，部分零售與航運類股在成交量放大的支撐下出現突破走勢，儘管主要指數維持平盤。這種淡靜、分歧的盤面在重大宏觀數據或財報公布之間相當常見。",
+    "summary_en": "Major indices drifted slightly lower today with no major macro catalyst, reflecting a quiet, directionless session rather than a broad risk-off move. Within that flat tape, a handful of individual names like DHT and KSS bucked the trend with volume-confirmed breakouts, showing that stock-specific momentum can diverge from the overall market mood. This kind of idiosyncratic strength is often driven by company-level news or sector rotation rather than macro sentiment.",
+    "summary_zh": "大市今日略為走軟，納指跌0.4%，標普500跌0.1%，並無重大宏觀消息觸發，反映市況屬於平靜、方向不明的交易日，而非廣泛的避險拋售。在大市偏軟之際，個別股份如DHT及KSS卻逆勢出現放量突破，顯示個股動能可以脫離大市情緒獨立表現，而這種背馳強勢通常源於公司層面消息或板塊輪動,而非宏觀因素。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
       "ticker": "DHT",
-      "conviction": "high",
-      "reasoning": "Full five-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) makes this the top-scored candidate."
+      "conviction": "medium",
+      "reasoning": "Perfect 100 score with all five technical signals aligned (RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) indicating genuine institutional participation despite a neutral broad market."
     },
     {
       "action": "BUY",
       "ticker": "KSS",
-      "conviction": "high",
-      "reasoning": "Matches DHT's full five-signal setup with strong volume confirmation, indicating genuine institutional buying rather than noise."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CNR",
       "conviction": "medium",
-      "reasoning": "Four-signal confirmation with RSI at a healthier 60.5 (less overbought than peers) gives room to run before hitting resistance."
+      "reasoning": "Matches the same full multi-signal confirmation as DHT, offering a second high-quality setup to deploy idle cash into an open slot."
     }
   ],
   "outcomes": {
