@@ -1,28 +1,22 @@
 {
   "date": "2026-10-12",
-  "briefing": "Markets were flat today (NASDAQ -0.1%, S&P 500 +0.0%), so we held off on aggressive deployment, but FSLR and META both showed every bullish technical signal at once, which has historically marked real momentum rather than noise. We added modest, medium-conviction positions in both while leaving one slot open and keeping existing holdings untouched.",
+  "briefing": "Markets were essentially flat today (NASDAQ -0.3%, S&P 500 -0.0%), a neutral session with no clear risk-on or risk-off signal. We held all 7 existing positions and added META, the only candidate showing the full set of bullish technical signals including a volume surge, while leaving the other 2 open slots unfilled since no other ticker met the same bar of confirmation.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting until several independent technical signals — like RSI, MACD, price versus a moving average, and trading volume — all point the same bullish direction before trusting a trade. A single signal can be noise, but when they align together, it's more likely real buying interest is driving the stock, even if the overall market is flat.",
-    "explanation_zh": "動能確認是指等待多個獨立的技術指標（例如RSI、MACD、股價與移動平均線的關係，以及成交量）同時指向同一個看漲方向，才信任該交易訊號。單一指標可能只是雜訊，但當多個指標一致時，更能反映真實的買盤力量正在推動股價，即使大盤當日表現平淡也是如此。"
+    "term": "Technical Confluence",
+    "explanation_en": "Technical confluence means multiple independent indicators — like RSI, MACD, moving averages, and volume — all point the same direction at once, making a signal more reliable than any single indicator alone. Today's META buy is an example: it showed bullish RSI, a MACD crossover, price above its moving average, AND a volume surge together, which is a stronger setup than a stock showing just one of those signals.",
+    "explanation_zh": "技術指標共振（Technical Confluence）指多個獨立技術指標——例如RSI、MACD、移動平均線及成交量——同時指向同一方向，令訊號比單一指標更可靠。今日買入META便是例子：其RSI偏多、MACD出現黃金交叉、股價高於移動平均線，加上成交量明顯放大，四項訊號同時出現，比只有單一訊號的股票更具說服力。"
   },
   "market_education": {
-    "summary_en": "Broader indices were essentially unchanged today, with NASDAQ down a fractional 0.1% and the S&P 500 flat, suggesting no major macro catalyst moved the market either way. Within that quiet backdrop, individual stocks like FSLR and META still showed strong stock-specific momentum with volume surges, showing that company-level setups can diverge from the index-level picture. No major market-moving headlines were identified for today's session.",
-    "summary_zh": "大盤今日表現平淡，納斯達克微跌0.1%，標普500指數持平，顯示今日並無重大宏觀因素牽動市場方向。不過在大盤淡靜之際，FSLR及META等個股仍出現強勁的技術動能及成交量放大，反映個股表現可以脫離大盤走勢，呈現獨立行情。今日未見足以左右大盤的重大新聞標題。",
+    "summary_en": "Trading was quiet and directionless today, with the NASDAQ and S&P 500 both essentially unchanged as investors lacked a clear catalyst to push markets meaningfully in either direction. Volume and volatility stayed muted, typical of a consolidation session where traders wait for the next earnings report or economic data point. No major headlines drove today's price action.",
+    "summary_zh": "今日大市交投淡靜、方向不明，納指及標普500指數均近乎平盤收市，投資者缺乏明確催化劑帶動大市朝任何方向明顯移動。成交量及波幅均偏低，屬於典型的整固行情，市場正等待下一份財報或經濟數據公布。今日並無重大新聞消息主導股價走勢。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FSLR",
-      "conviction": "medium",
-      "reasoning": "All four confirmation signals align (bullish RSI, MACD crossover with rising histogram, price above SMA-20, volume surge) indicating genuine institutional buying despite a flat broader market."
-    },
-    {
-      "action": "BUY",
       "ticker": "META",
-      "conviction": "medium",
-      "reasoning": "Full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a mega-cap name offers a lower-risk way to deploy idle cash on an otherwise neutral day."
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge) justifies deploying part of idle cash even on an otherwise neutral market day."
     }
   ],
   "outcomes": {
