@@ -1,30 +1,17 @@
 {
   "date": "2026-10-12",
-  "briefing": "Markets were flat to slightly negative today (NASDAQ -0.2%, S&P500 +0.0%), with no strong risk-on or risk-off signal. We partially filled open slots with two top-scoring, multi-signal-confirmed candidates (MANH, VSXY) at medium conviction since volume confirmation was absent, while holding all 7 existing positions and keeping one slot plus some cash in reserve.",
+  "briefing": "Markets were flat-to-slightly negative today (NASDAQ -0.4%, S&P 500 -0.1%), not the risk-on setup our strategy requires for new deployments. Several candidates (VSXY, FICO, VIST, DK, YPF, TDS) show strong MACD/RSI/SMA alignment but lack confirmed volume surge data, so we're holding our 3 open slots and $989 cash rather than forcing a buy. All 7 existing positions remain held — profit targets and stop-losses will manage them automatically.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing upward price trends, confirmed by indicators like RSI and MACD, on the theory that stocks moving up tend to keep moving up in the near term. It works best when multiple signals line up together, and conviction should be scaled down when a key confirming signal — like a volume surge — is missing.",
-    "explanation_zh": "動量投資策略是指買入已經呈現上升趨勢的股票，並以RSI、MACD等技術指標加以確認，其理念是股價上升的動力短期內往往會延續。這策略在多項訊號同時出現時效果最佳；若缺少例如成交量放大等關鍵確認訊號，便應適度降低持股信心及注碼。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash you keep uninvested, ready to deploy when a strong opportunity appears, rather than rushing into mediocre setups just to stay fully invested. Holding cash on a neutral day isn't a missed opportunity — it preserves flexibility and risk control for when conviction is higher.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指的是投資者保留現金不急於投資，等待出現真正具吸引力的機會才出手，而不是為了「用盡資金」而勉強買入普通的標的。在市場方向不明的日子持有現金並非錯失良機，而是保留靈活性，待信號更明確時再加大力度。"
   },
   "market_education": {
-    "summary_en": "Major indices traded essentially sideways today, with the NASDAQ down a fraction and the S&P 500 roughly flat, suggesting investors are in a wait-and-see mode rather than reacting to major catalysts. Without a strong directional move, there's little evidence of either broad risk appetite or risk aversion driving trading. This kind of quiet session often reflects markets digesting recent data ahead of upcoming earnings or economic releases.",
-    "summary_zh": "今日大市大致橫行整理，納斯達克指數微跌0.2%，標普500指數則近乎持平，反映投資者普遍處於觀望狀態，未見明顯的市場催化劑帶動方向。在缺乏強烈升跌動力下，難以判斷資金是趨向風險偏好還是風險規避。這種偏淡靜的交易日子，往往顯示市場在消化近期數據，靜待稍後的業績或經濟數據公佈。",
+    "summary_en": "Major indices drifted slightly lower today with no major catalyst, reflecting a quiet, directionless session rather than any significant risk-off move. Trading volumes and momentum signals across our screened candidates were constructive but not decisively confirmed, suggesting institutional conviction hasn't fully built yet. In the absence of a clear signal, markets often consolidate before the next directional move.",
+    "summary_zh": "今日大盤輕微下跌，NASDAQ跌0.4%，標普500跌0.1%，市場缺乏明確催化劑，屬於方向不明的淡靜交易日。雖然部分篩選股票的動能指標（如MACD、RSI）表現不俗，但成交量未見明顯放大，顯示資金尚未全面確認入市信號。在缺乏明確方向時，市場通常會先行整理，再等待下一波走勢。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "MANH",
-      "conviction": "medium",
-      "reasoning": "Top-scoring candidate (95) with RSI in bullish zone, MACD bullish crossover, and price above SMA-20, though lacking volume confirmation on a neutral market day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "VSXY",
-      "conviction": "medium",
-      "reasoning": "Shares the same 95 score and three-signal confirmation (RSI 59.1, MACD crossover, price above SMA-20) as other top candidates, offering diversification into a new name."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14555.735246181488,
     "cash": 989.2850012779236,
