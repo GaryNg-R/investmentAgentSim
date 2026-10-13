@@ -1,28 +1,22 @@
 {
   "date": "2026-10-13",
-  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.1%), but two names — RGC and BCE — showed full multi-signal confirmation including volume surges, so we used open slots and available cash to add them rather than waiting on an index-level signal.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.3%, S&P 500 -0.2%), so this wasn't a risk-on day to deploy heavily. We added one position, BCE, since it's the only candidate showing all five bullish confirmation signals including a volume surge, and held the rest of the portfolio unchanged.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading volume, which suggests real institutional interest rather than a random fluctuation. A price increase on heavy volume is considered more reliable than the same move on light volume.",
-    "explanation_zh": "成交量確認是指留意股價變動是否伴隨著高於平常的成交量，這顯示有實質的機構資金參與，而非隨機波動。在大成交量下的升勢，通常被視為比低成交量下的同樣升勢更可靠。"
+    "term": "Signal Confirmation",
+    "explanation_en": "On a flat or uncertain market day, it's safer to only buy stocks showing multiple confirming signals together — like a bullish RSI, a MACD crossover, and a volume surge — rather than just one. This combination suggests real buying interest rather than random noise.",
+    "explanation_zh": "在大市方向不明或持平的日子，較安全的做法是只買入同時出現多個確認訊號的股票——例如RSI處於偏好區間、MACD出現黃金交叉，加上成交量放大——而非單一訊號。這種訊號組合顯示真實買盤參與，而非隨機波動。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the NASDAQ down 0.2% and the S&P 500 down 0.1%, reflecting a lack of major catalysts. Despite the quiet broad tape, individual stocks like RGC and BCE saw above-average volume and bullish technical crossovers, suggesting stock-specific buying interest rather than a market-wide trend. No major news events were available to explain today's moves.",
-    "summary_zh": "大市今日走勢平穩，納指微跌0.2%，標普500微跌0.1%，反映缺乏重大消息刺激。不過在大市平靜之際，RGC及BCE等個股錄得成交量明顯放大及技術指標轉強的現象，顯示資金正個別流入部分股份，而非廣泛的市場趨勢。今日未有重大新聞可解釋市況變動。",
+    "summary_en": "Major indices drifted slightly lower today with no major catalyst, reflecting a pause after recent moves rather than a shift in sentiment. Trading stayed within a narrow range as investors awaited clearer signals before committing new capital broadly. This kind of low-volatility, directionless session is typical of a market digesting prior gains.",
+    "summary_zh": "大市今日略為走軟，納指跌0.3%、標普500跌0.2%，並無重大消息刺激，反映市場在早前升勢後進入消化階段。成交保持窄幅波動，投資者在加大注碼前仍在等待更明確的方向訊號。這種低波動、無明顯方向的交易日在大市整固期相當常見。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "RGC",
-      "conviction": "high",
-      "reasoning": "Full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) indicates genuine institutional buying despite a neutral broad market."
-    },
-    {
-      "action": "BUY",
       "ticker": "BCE",
-      "conviction": "high",
-      "reasoning": "Matches all four confirmation signals from past lessons (MACD crossover, bullish RSI zone, price above SMA-20, volume surge), a stock-specific setup independent of the flat index moves."
+      "conviction": "medium",
+      "reasoning": "Full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) makes this the strongest setup on the list even though the broader tape is flat."
     }
   ],
   "outcomes": {
