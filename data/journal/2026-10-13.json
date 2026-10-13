@@ -1,34 +1,28 @@
 {
   "date": "2026-10-13",
-  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.4%, S&P -0.1%), but three candidates — DK, KSS, and DHT — showed full multi-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, volume surge), so we're filling our three open slots with high-conviction names rather than holding idle cash. No existing positions were touched since none hit stop-loss or profit-target levels.",
+  "briefing": "Markets were flat today (NASDAQ and S&P roughly unchanged), so we're not chasing momentum broadly. With 3 open slots and cash above our deployment threshold, we picked BAC and WPP — the two candidates with the strongest, most confirmed technical signals — while leaving one slot and cash in reserve rather than forcing weaker buys on a neutral day.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Instead of relying on just one indicator, momentum confirmation means checking that several signals — like a MACD crossover, healthy RSI level, price above its moving average, and a volume surge — all line up together before buying. This reduces the chance of chasing a false signal or random price spike, even when the overall market looks quiet or neutral.",
-    "explanation_zh": "動能確認是指不單靠一個指標做決定,而是同時檢查多項訊號——例如MACD黃金交叉、RSI處於健康區間、股價站上均線,以及成交量放大——都同步出現時才進場。這樣可以降低追逐假訊號或隨機價格波動的風險,即使大盤整體表現平淡也能找到真正強勢的個股。"
+    "term": "Signal Confirmation",
+    "explanation_en": "Signal confirmation means waiting for multiple technical indicators — like a MACD crossover, healthy RSI, price above a moving average, and strong volume — to agree before buying, rather than acting on just one promising number. This reduces the chance of chasing a false or short-lived move, especially on quiet, directionless days like today.",
+    "explanation_zh": "訊號確認是指在買入前等待多個技術指標（例如MACD黃金交叉、健康的RSI水平、股價高於均線，以及成交量放大）同時一致發出訊號，而不是單憑一個看似不錯的數據就進場。這樣可以減少追逐虛假或短暫波動的風險，在今日這種平淡缺乏方向的市況下尤其重要。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today in quiet, directionless trading, with the S&P 500 down 0.1% and the NASDAQ down 0.4%. There was no single dominant macro catalyst driving the session, consistent with a neutral, wait-and-see tone across risk assets. Beneath the surface, however, select names in energy, retail, and shipping showed strong technical breakouts on above-average volume, suggesting selective institutional buying even as the broader market stayed flat.",
-    "summary_zh": "今日大盤走勢平淡,標普500指數下跌0.1%,納斯達克指數下跌0.4%,市場缺乏明確的主導消息面因素,整體呈現觀望氣氛。不過在指數持平的表面下,部分能源、零售及航運類股在成交量放大的情況下出現技術面突破,顯示資金仍在個股層面進行精選布局。",
+    "summary_en": "Major indices were essentially flat today, with NASDAQ and S&P 500 both near 0% — a consolidation day without a clear directional catalyst. No major headline-driving news was available in today's feed to explain the move beyond typical quiet trading. In the absence of strong market-wide signals, stock selection today relied on individual technical setups rather than macro sentiment.",
+    "summary_zh": "今日大市大致持平，納指與標普500均徘徊在0%附近，屬於缺乏明顯方向性催化劑的整固日。今日資訊中未見足以解釋大市走勢的重大頭條新聞，走勢偏向平淡交易。在欠缺明確市場訊號下，今日選股主要依靠個股技術面分析，而非宏觀情緒。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "DK",
+      "ticker": "BAC",
       "conviction": "high",
-      "reasoning": "RSI 58.7 well within bullish zone, confirmed by MACD crossover, rising histogram, price above SMA-20, and a volume surge — full four-signal confirmation with room before overbought."
+      "reasoning": "BAC shows full multi-signal confirmation (MACD bullish crossover, RSI 51.3 in healthy bullish range, price above SMA-20, and a volume surge), matching our high-conviction checklist."
     },
     {
       "action": "BUY",
-      "ticker": "KSS",
-      "conviction": "high",
-      "reasoning": "Top-scoring candidate with MACD crossover, rising histogram, price above SMA-20, and volume surge all confirming institutional buying despite a neutral tape."
-    },
-    {
-      "action": "BUY",
-      "ticker": "DHT",
+      "ticker": "WPP",
       "conviction": "medium",
-      "reasoning": "Highest score with full signal confirmation, though RSI sits right at the 70 edge of the bullish zone so sized more cautiously."
+      "reasoning": "WPP is the top-scored candidate with a MACD bullish crossover, rising histogram, and price above SMA-20, though RSI is near the upper edge of the bullish zone and volume surge isn't confirmed."
     }
   ],
   "outcomes": {
