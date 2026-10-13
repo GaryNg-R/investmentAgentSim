@@ -1,36 +1,17 @@
 {
   "date": "2026-10-13",
-  "briefing": "Markets were flat to slightly down today (NASDAQ -0.2%, S&P 500 -0.1%) with no strong risk-on or risk-off signal. Since cash was above the $500 threshold with 3 open slots, we deployed modest medium-conviction capital into three diversified, high-scoring momentum names (PARR, CDNA, CHTR) rather than holding idle cash, per the risk rules' preference for filling open slots.",
+  "briefing": "Markets were flat-to-slightly-negative today (NASDAQ -0.3%, S&P 500 -0.1%), with no risk-on signal strong enough to justify deploying the $989 in cash across our 3 open slots. Several screened candidates (PARR, CDNA, VG, NEO, ORCL, CHTR) show strong technical scores, but none carry the volume-surge confirmation our strategy memory flags as needed for high-conviction entries, so we're holding and waiting for a clearer setup.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like rising price above moving averages and bullish technical indicators (RSI, MACD). The idea is that stocks showing strong recent performance tend to keep performing well in the near term, though this can reverse quickly if momentum fades.",
-    "explanation_zh": "動量投資策略是指買入已經呈現上升趨勢的股票,依據的訊號包括股價高於移動平均線,以及RSI、MACD等技術指標呈現利好。這種策略的邏輯是近期表現強勁的股票,短期內有機會延續升勢,但一旦動力減退,走勢亦可能迅速逆轉。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "A stock can look technically strong on paper (good RSI, bullish MACD crossover, price above its moving average) but still lack full confirmation if trading volume isn't backing up the move. Volume surges often signal that institutional investors are participating, not just short-term traders, which makes a breakout more likely to hold. Waiting for that extra signal before buying can help avoid chasing moves that fizzle out.",
+    "explanation_zh": "一隻股票的技術指標可能表面亮麗（RSI理想、MACD黃金交叉、股價高於均線），但若成交量未能同步配合，訊號就未算完整確認。成交量放大通常代表機構投資者參與其中，而非僅是短炒資金，令突破走勢更有機會持續。在買入前等待這額外訊號出現，有助避免追入最終後勁不繼的升浪。"
   },
   "market_education": {
-    "summary_en": "Today's trading was largely directionless, with both the NASDAQ and S&P 500 posting only marginal declines of around 0.1-0.2%. There was no single dominant catalyst driving the session, suggesting markets are consolidating recent gains while investors await further data. This kind of low-volatility, range-bound action is typical between major earnings or macroeconomic releases.",
-    "summary_zh": "今日大市走勢較為反覆,納指及標普500指數分別微跌0.2%及0.1%,未見明顯主導消息帶動。市場似乎處於鞏固早前升幅的階段,投資者正等待更多經濟數據及企業業績公佈。這種低波動、區間徘徊的格局,在重磅消息公佈前的平靜期頗為常見。",
+    "summary_en": "Major indices drifted slightly lower today in quiet, directionless trading, with NASDAQ down 0.3% and the S&P 500 down 0.1%. There was no single dominant catalyst driving the move, suggesting investors are in a wait-and-see mode rather than reacting to a specific shock. Light, mixed trading like this often precedes a bigger directional move once a clearer catalyst emerges.",
+    "summary_zh": "今日大市窄幅波動，納指跌0.3%，標普500跌0.1%，走勢欠缺明顯方向。市場未見單一主導因素帶動，反映投資者正處於觀望狀態，而非對個別消息作出強烈反應。此類淡靜且方向不明的交投，往往是較大行情出現前的醞釀期。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "PARR",
-      "conviction": "medium",
-      "reasoning": "Score 95 with bullish RSI, MACD crossover, rising histogram, and price above SMA-20 gives multi-signal confirmation, and energy refining adds sector diversification away from current holdings."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CDNA",
-      "conviction": "medium",
-      "reasoning": "Full four-signal momentum confirmation (RSI 59 bullish zone, MACD crossover, rising histogram, price above SMA-20) in the diagnostics/healthcare sector not yet represented in the portfolio."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CHTR",
-      "conviction": "medium",
-      "reasoning": "Large-cap telecom/cable name with the same four-signal confirmation and a moderate RSI of 56, offering a steadier risk profile to fill an open slot on an otherwise neutral day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14555.735246181488,
     "cash": 989.2850012779236,
