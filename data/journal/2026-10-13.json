@@ -1,28 +1,28 @@
 {
   "date": "2026-10-13",
-  "briefing": "Markets were flat today (NASDAQ and S&P roughly unchanged), so we're not chasing momentum broadly. With 3 open slots and cash above our deployment threshold, we picked BAC and WPP — the two candidates with the strongest, most confirmed technical signals — while leaving one slot and cash in reserve rather than forcing weaker buys on a neutral day.",
+  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P 500 -0.1%), but two names — RGC and BCE — showed full multi-signal confirmation including volume surges, so we used open slots and available cash to add them rather than waiting on an index-level signal.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Signal confirmation means waiting for multiple technical indicators — like a MACD crossover, healthy RSI, price above a moving average, and strong volume — to agree before buying, rather than acting on just one promising number. This reduces the chance of chasing a false or short-lived move, especially on quiet, directionless days like today.",
-    "explanation_zh": "訊號確認是指在買入前等待多個技術指標（例如MACD黃金交叉、健康的RSI水平、股價高於均線，以及成交量放大）同時一致發出訊號，而不是單憑一個看似不錯的數據就進場。這樣可以減少追逐虛假或短暫波動的風險，在今日這種平淡缺乏方向的市況下尤其重要。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading volume, which suggests real institutional interest rather than a random fluctuation. A price increase on heavy volume is considered more reliable than the same move on light volume.",
+    "explanation_zh": "成交量確認是指留意股價變動是否伴隨著高於平常的成交量，這顯示有實質的機構資金參與，而非隨機波動。在大成交量下的升勢，通常被視為比低成交量下的同樣升勢更可靠。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with NASDAQ and S&P 500 both near 0% — a consolidation day without a clear directional catalyst. No major headline-driving news was available in today's feed to explain the move beyond typical quiet trading. In the absence of strong market-wide signals, stock selection today relied on individual technical setups rather than macro sentiment.",
-    "summary_zh": "今日大市大致持平，納指與標普500均徘徊在0%附近，屬於缺乏明顯方向性催化劑的整固日。今日資訊中未見足以解釋大市走勢的重大頭條新聞，走勢偏向平淡交易。在欠缺明確市場訊號下，今日選股主要依靠個股技術面分析，而非宏觀情緒。",
+    "summary_en": "Major indices were essentially flat today, with the NASDAQ down 0.2% and the S&P 500 down 0.1%, reflecting a lack of major catalysts. Despite the quiet broad tape, individual stocks like RGC and BCE saw above-average volume and bullish technical crossovers, suggesting stock-specific buying interest rather than a market-wide trend. No major news events were available to explain today's moves.",
+    "summary_zh": "大市今日走勢平穩，納指微跌0.2%，標普500微跌0.1%，反映缺乏重大消息刺激。不過在大市平靜之際，RGC及BCE等個股錄得成交量明顯放大及技術指標轉強的現象，顯示資金正個別流入部分股份，而非廣泛的市場趨勢。今日未有重大新聞可解釋市況變動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "BAC",
+      "ticker": "RGC",
       "conviction": "high",
-      "reasoning": "BAC shows full multi-signal confirmation (MACD bullish crossover, RSI 51.3 in healthy bullish range, price above SMA-20, and a volume surge), matching our high-conviction checklist."
+      "reasoning": "Full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) indicates genuine institutional buying despite a neutral broad market."
     },
     {
       "action": "BUY",
-      "ticker": "WPP",
-      "conviction": "medium",
-      "reasoning": "WPP is the top-scored candidate with a MACD bullish crossover, rising histogram, and price above SMA-20, though RSI is near the upper edge of the bullish zone and volume surge isn't confirmed."
+      "ticker": "BCE",
+      "conviction": "high",
+      "reasoning": "Matches all four confirmation signals from past lessons (MACD crossover, bullish RSI zone, price above SMA-20, volume surge), a stock-specific setup independent of the flat index moves."
     }
   ],
   "outcomes": {
