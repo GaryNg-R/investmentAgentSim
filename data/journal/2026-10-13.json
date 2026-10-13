@@ -1,14 +1,14 @@
 {
   "date": "2026-10-13",
-  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P500 -0.0%), but two candidates — PARR and NXT — showed complete technical confirmation across RSI, MACD, price trend, and volume, so we used available cash and open slots to add them rather than letting the neutral tape stop strong individual setups. Existing positions were left untouched since there's no reason to exit on a quiet day.",
+  "briefing": "Market was flat today (NASDAQ -0.2%, S&P500 -0.0%) with no major directional catalyst. With 3 open slots and cash above the $500 threshold, we deployed into PARR and NXT, the two top-scored candidates showing full technical confirmation (RSI, MACD, volume, trend) rather than letting cash sit idle.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI, MACD, price above moving averages, and volume — to all line up before buying a stock. Relying on just one signal can be misleading, but when several agree, it's a stronger sign that real buying interest is behind the move.",
-    "explanation_zh": "動能確認是指在買入股票前，等待多個技術指標（如RSI、MACD、價格高於移動平均線及成交量）同時發出一致訊號。單靠一個指標容易誤判，但當多個指標同時確認時，就更能反映背後有真實的買盤支持。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means waiting for several independent technical indicators — like RSI, MACD crossover, rising volume, and price above a moving average — to all point the same direction before trading, rather than acting on just one signal. This reduces the chance of being fooled by random noise or a single false signal.",
+    "explanation_zh": "多重訊號確認是指在交易前,等待多個獨立的技術指標——例如RSI、MACD黃金交叉、成交量放大,以及股價站上均線——同時指向同一方向,而不是僅依賴單一訊號就下單。這樣可以降低被隨機波動或單一假訊號誤導的風險。"
   },
   "market_education": {
-    "summary_en": "Major indexes traded essentially flat today, with the NASDAQ down a slight 0.2% and the S&P 500 roughly unchanged, suggesting investors are in a wait-and-see mode rather than reacting to major catalysts. Without strong macro news driving sentiment, individual stock moves were largely idiosyncratic. This kind of low-volatility session often precedes a bigger directional move once new information arrives.",
-    "summary_zh": "今日大市大致橫行，納斯達克指數微跌0.2%，標普500指數幾乎平收，反映投資者在觀望，未有重大消息刺激市況。在缺乏宏觀催化劑的情況下，個股表現主要由自身因素主導。這種低波動的交易日往往是醞釀下一輪方向性走勢的前奏。",
+    "summary_en": "Major indices traded essentially flat, with NASDAQ and S&P 500 both closing near breakeven, indicating a lack of strong conviction from buyers or sellers today. No major macro catalysts moved the broad market, so stock-specific momentum (like PARR and NXT) stood out more than index-level trends. In quiet, low-volatility sessions like this, individual technical setups tend to drive relative performance rather than market-wide sentiment.",
+    "summary_zh": "今日大盤走勢持平,納斯達克與標普500指數均收在接近平盤的水平,顯示買賣雙方都缺乏明確方向。由於今日沒有重大宏觀消息衝擊大盤,個股層面的技術動能(例如PARR與NXT)反而比指數走勢更為突出。在這種低波動的平淡交易日,個股的技術面訊號往往比大盤情緒更能決定相對表現。",
     "sources": []
   },
   "trades": [
@@ -16,13 +16,13 @@
       "action": "BUY",
       "ticker": "PARR",
       "conviction": "high",
-      "reasoning": "Perfect momentum score with RSI in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge confirming institutional participation."
+      "reasoning": "Top-scored candidate with full multi-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge)."
     },
     {
       "action": "BUY",
       "ticker": "NXT",
       "conviction": "high",
-      "reasoning": "Matches PARR's full four-signal confirmation (RSI 65.5 bullish zone, MACD crossover, rising histogram, volume surge) for a high-conviction entry despite the neutral broader market."
+      "reasoning": "Second top-scored candidate with identical full multi-signal confirmation, diversifying away from PARR's sector exposure."
     }
   ],
   "outcomes": {
