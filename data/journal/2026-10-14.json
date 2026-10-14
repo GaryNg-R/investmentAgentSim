@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-14",
+  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P500 -0.0%), but PARR and NXT both show complete bullish confirmation across RSI, MACD, trend, and volume — a setup the strategy memory flags as genuine signal rather than noise. Deployed into these two names with 3 open slots, keeping the rest of the portfolio untouched since no positions hit stop-loss or profit-target levels today.",
+  "daily_lesson": {
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that the trend is more likely to continue than reverse in the short term. Today's picks (PARR, NXT) were chosen because multiple independent indicators — RSI, MACD, moving averages, and volume — all pointed the same bullish direction at once, which reduces the odds it's just random noise.",
+    "explanation_zh": "動能投資策略是指買入已經展現強勁價格與成交量上升趨勢的股票，理論基礎是短期內趨勢延續的機率高於反轉。今天選中的PARR和NXT之所以雀屏中選，是因為RSI、MACD、均線與成交量等多項獨立指標同時指向看漲方向，降低了這只是隨機波動的可能性。"
+  },
+  "market_education": {
+    "summary_en": "Broad indices were essentially flat today, with the NASDAQ down 0.2% and the S&P 500 roughly unchanged, suggesting investors were in a wait-and-see mode rather than reacting to major catalysts. In a quiet macro backdrop like this, stock-specific momentum — rather than index-level moves — tends to drive the best opportunities, which is why PARR and NXT stood out individually despite the flat tape. No major market-moving headlines were available in today's data to cite directly.",
+    "summary_zh": "今日大盤表現平淡，納斯達克指數下跌0.2%，標普500指數幾乎持平，顯示投資人普遍採取觀望態度，未見明顯催化因素。在這種宏觀氣氛平靜的環境下，個股的動能表現往往比大盤走勢更能帶來機會，這也是為何PARR和NXT能在平淡盤勢中脫穎而出。今日數據中未提供可引用的具體新聞標題。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "PARR",
+      "conviction": "high",
+      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20 with volume surge) signals genuine institutional buying despite a neutral broad market."
+    },
+    {
+      "action": "BUY",
+      "ticker": "NXT",
+      "conviction": "high",
+      "reasoning": "Matches PARR's full four-signal bullish confirmation, meeting the strategy's bar for high-conviction entries even on a neutral-tape day."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14555.735246181488,
+    "cash": 989.2850012779236,
+    "pnl_dollar": 4555.735246181488,
+    "pnl_pct": 45.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
