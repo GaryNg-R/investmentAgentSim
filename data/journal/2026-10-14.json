@@ -1,30 +1,17 @@
 {
   "date": "2026-10-14",
-  "briefing": "Markets were modestly weaker today with NASDAQ -0.8% and S&P 500 -0.6%, a neutral-to-slightly-negative session rather than a clear risk-on or risk-off signal. Despite the soft tape, AAPL and HALO showed the full set of bullish confirmations (MACD crossover, rising momentum, price above SMA-20, and a volume surge), so we used two of our three open slots to deploy some idle cash into genuinely high-conviction setups while keeping one slot and cash in reserve given the mixed market.",
+  "briefing": "Markets were broadly soft today with NASDAQ down 0.9% and the S&P 500 down 0.7%, a neutral-to-risk-off tape rather than a genuine risk-on setup. Per past lessons, we don't force new buys with idle cash on days like this — we're holding all 7 positions and waiting for a clearer bullish signal (e.g., NASDAQ +2% or more) before deploying the remaining cash into top candidates like MBLY or LLY.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "This means waiting for several technical indicators — like MACD, RSI, price versus moving average, and trading volume — to all agree before trusting a buy signal. When all signals line up, it suggests real buying interest rather than random noise, which is why today's buys were chosen even though the overall market was flat-to-negative.",
-    "explanation_zh": "這是指等待多個技術指標(例如MACD、RSI、股價與移動平均線的關係,以及成交量)同時發出一致訊號,才相信買入訊號是可靠的。當所有訊號一致時,代表市場上有真實的買盤支持,而非隨機波動,這正是即使大市整體偏弱,今日仍選擇買入的原因。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors pull back from riskier assets like growth stocks, often without a single dramatic cause — just broad caution. The smart move on these days is usually to hold steady rather than rush into new positions, saving cash for when momentum clearly turns positive.",
+    "explanation_zh": "「風險偏好降溫」（Risk-Off）是指投資者減少持有成長股等風險較高的資產，通常並非因單一重大事件，而是普遍轉趨謹慎。在這類日子，較明智的做法通常是按兵不動，保留現金，等待市場動能明確轉強時再出手。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted lower today in a broad, low-conviction pullback rather than a reaction to any single catalyst, with NASDAQ underperforming the S&P 500 slightly. Growth and tech-adjacent names were among the softer performers, consistent with a mild risk-trimming day rather than a rotation out of equities. No major company-specific headlines were the primary driver; the move looks more like routine profit-taking after recent gains.",
-    "summary_zh": "今日大型指數普遍小幅走弱,屬於較廣泛、缺乏明確方向的回調,並非單一事件所觸發,納斯達克表現略遜於標普500指數。科技及成長股表現相對疲弱,反映市場情緒偏向溫和減碼而非全面撤出股市。今次波動未見明顯的個股或政策消息主導,較像是近期升勢後的獲利回吐。",
+    "summary_en": "Both major indices pulled back modestly today, with the NASDAQ underperforming the S&P 500, suggesting some profit-taking in higher-growth names. Without a clear positive catalyst, the broad market drifted lower in a typical risk-off/consolidation session. No major index-moving headlines were available in today's data feed to pinpoint a specific driver.",
+    "summary_zh": "今日美股兩大指數同步回落，納指跌幅略高於標普500指數，反映部分高增長股出現獲利回吐。由於缺乏明顯的正面催化劑，大盤呈現典型的風險偏好降溫、整固格局。今日數據中未提供具體的重大新聞標題以說明確切原因。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "AAPL",
-      "conviction": "high",
-      "reasoning": "Full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a liquid mega-cap that diversifies away from existing tech/semi concentration."
-    },
-    {
-      "action": "BUY",
-      "ticker": "HALO",
-      "conviction": "high",
-      "reasoning": "All five technical signals confirm institutional participation and the biotech exposure diversifies the portfolio away from current tech/semiconductor-heavy holdings."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14555.735246181488,
     "cash": 989.2850012779236,
