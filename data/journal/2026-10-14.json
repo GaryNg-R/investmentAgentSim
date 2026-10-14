@@ -1,28 +1,28 @@
 {
   "date": "2026-10-14",
-  "briefing": "Markets were flat today (NASDAQ -0.2%, S&P500 -0.0%), but PARR and NXT both show complete bullish confirmation across RSI, MACD, trend, and volume — a setup the strategy memory flags as genuine signal rather than noise. Deployed into these two names with 3 open slots, keeping the rest of the portfolio untouched since no positions hit stop-loss or profit-target levels today.",
+  "briefing": "Markets were modestly weaker today with NASDAQ -0.8% and S&P 500 -0.6%, a neutral-to-slightly-negative session rather than a clear risk-on or risk-off signal. Despite the soft tape, AAPL and HALO showed the full set of bullish confirmations (MACD crossover, rising momentum, price above SMA-20, and a volume surge), so we used two of our three open slots to deploy some idle cash into genuinely high-conviction setups while keeping one slot and cash in reserve given the mixed market.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price and volume trends, on the theory that the trend is more likely to continue than reverse in the short term. Today's picks (PARR, NXT) were chosen because multiple independent indicators — RSI, MACD, moving averages, and volume — all pointed the same bullish direction at once, which reduces the odds it's just random noise.",
-    "explanation_zh": "動能投資策略是指買入已經展現強勁價格與成交量上升趨勢的股票，理論基礎是短期內趨勢延續的機率高於反轉。今天選中的PARR和NXT之所以雀屏中選，是因為RSI、MACD、均線與成交量等多項獨立指標同時指向看漲方向，降低了這只是隨機波動的可能性。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "This means waiting for several technical indicators — like MACD, RSI, price versus moving average, and trading volume — to all agree before trusting a buy signal. When all signals line up, it suggests real buying interest rather than random noise, which is why today's buys were chosen even though the overall market was flat-to-negative.",
+    "explanation_zh": "這是指等待多個技術指標(例如MACD、RSI、股價與移動平均線的關係,以及成交量)同時發出一致訊號,才相信買入訊號是可靠的。當所有訊號一致時,代表市場上有真實的買盤支持,而非隨機波動,這正是即使大市整體偏弱,今日仍選擇買入的原因。"
   },
   "market_education": {
-    "summary_en": "Broad indices were essentially flat today, with the NASDAQ down 0.2% and the S&P 500 roughly unchanged, suggesting investors were in a wait-and-see mode rather than reacting to major catalysts. In a quiet macro backdrop like this, stock-specific momentum — rather than index-level moves — tends to drive the best opportunities, which is why PARR and NXT stood out individually despite the flat tape. No major market-moving headlines were available in today's data to cite directly.",
-    "summary_zh": "今日大盤表現平淡，納斯達克指數下跌0.2%，標普500指數幾乎持平，顯示投資人普遍採取觀望態度，未見明顯催化因素。在這種宏觀氣氛平靜的環境下，個股的動能表現往往比大盤走勢更能帶來機會，這也是為何PARR和NXT能在平淡盤勢中脫穎而出。今日數據中未提供可引用的具體新聞標題。",
+    "summary_en": "Major indices drifted lower today in a broad, low-conviction pullback rather than a reaction to any single catalyst, with NASDAQ underperforming the S&P 500 slightly. Growth and tech-adjacent names were among the softer performers, consistent with a mild risk-trimming day rather than a rotation out of equities. No major company-specific headlines were the primary driver; the move looks more like routine profit-taking after recent gains.",
+    "summary_zh": "今日大型指數普遍小幅走弱,屬於較廣泛、缺乏明確方向的回調,並非單一事件所觸發,納斯達克表現略遜於標普500指數。科技及成長股表現相對疲弱,反映市場情緒偏向溫和減碼而非全面撤出股市。今次波動未見明顯的個股或政策消息主導,較像是近期升勢後的獲利回吐。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "PARR",
+      "ticker": "AAPL",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20 with volume surge) signals genuine institutional buying despite a neutral broad market."
+      "reasoning": "Full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a liquid mega-cap that diversifies away from existing tech/semi concentration."
     },
     {
       "action": "BUY",
-      "ticker": "NXT",
+      "ticker": "HALO",
       "conviction": "high",
-      "reasoning": "Matches PARR's full four-signal bullish confirmation, meeting the strategy's bar for high-conviction entries even on a neutral-tape day."
+      "reasoning": "All five technical signals confirm institutional participation and the biotech exposure diversifies the portfolio away from current tech/semiconductor-heavy holdings."
     }
   ],
   "outcomes": {
