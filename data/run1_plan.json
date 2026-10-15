@@ -1,38 +1,32 @@
 {
-  "saved_at": "2026-10-15T16:00:49.807202+00:00",
+  "saved_at": "2026-10-15T17:01:07.850197+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "MAAS",
+        "ticker": "CRCL",
         "conviction": "medium",
-        "reasoning": "Top score with RSI in the healthy bullish zone (67.5), MACD bullish crossover, and rising histogram confirm momentum without being overbought."
+        "reasoning": "Score 95 with RSI 62 in bullish zone, bullish MACD crossover, rising histogram, and price above SMA-20 shows genuine confirmed momentum despite the flat market, and adds fintech/payments exposure not already in the portfolio."
       },
       {
         "action": "BUY",
-        "ticker": "COMP",
+        "ticker": "MMYT",
         "conviction": "medium",
-        "reasoning": "Matches MAAS on score with RSI 66 in the bullish zone, MACD crossover, and price above SMA-20, fitting the multi-signal setup the strategy memory favors."
-      },
-      {
-        "action": "BUY",
-        "ticker": "BOOT",
-        "conviction": "medium",
-        "reasoning": "Highest-tier score with RSI 63 still in the bullish 55-70 zone and confirmed MACD/SMA-20 bullish alignment, filling the last open slot."
+        "reasoning": "Score 95 with full multi-signal confirmation (RSI 66, MACD bullish crossover, rising histogram, price above SMA-20) and diversifies into travel/consumer, a sector not currently held."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Market is neutral today (NASDAQ -0.3%, S&P 500 +0.2%) with no strong risk-on or risk-off signal. Cash is well above the $500 threshold with all 3 slots open, so per the risk rules we filled them with the three highest-scoring, non-overbought momentum names (MAAS, COMP, BOOT) at medium conviction rather than chasing overbought names or holding idle cash.",
+    "briefing": "Markets were neutral today (NASDAQ -0.4%, S&P 500 +0.1%), not a strong risk-on signal, but CRCL and MMYT showed genuine confirmed bullish setups across RSI, MACD, and price-vs-SMA20, so we deployed some of the idle cash into those two rather than forcing buys into weaker candidates. Existing positions were held unchanged through the neutral session.",
     "market_education": {
-      "summary_en": "Major indices were roughly flat today, with the S&P 500 inching up 0.2% while the NASDAQ slipped 0.3%, suggesting investors are in a wait-and-see mode rather than reacting to a major catalyst. No single news event stood out to drive broad moves across sectors today. In the absence of a clear directional signal, stock-specific momentum (like the names in our screener) matters more than the overall market trend.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8868\u73fe\u5e73\u6de1\uff0c\u6a19\u666e500\u5fae\u53470.2%\uff0c\u7d0d\u6307\u5247\u5c0f\u8dcc0.3%\uff0c\u986f\u793a\u6295\u8cc7\u8005\u5728\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u5e02\u5834\u8a0a\u865f\uff0c\u4e26\u672a\u5c0d\u91cd\u5927\u6d88\u606f\u4f5c\u51fa\u5f37\u70c8\u53cd\u61c9\u3002\u5e02\u5834\u4e0a\u6c92\u6709\u55ae\u4e00\u65b0\u805e\u4e8b\u4ef6\u4e3b\u5c0e\u6574\u9ad4\u8d70\u52e2\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u7684\u60c5\u6cc1\u4e0b\uff0c\u500b\u80a1\u7684\u52d5\u80fd\u8868\u73fe\uff08\u5982\u672c\u6b21\u7be9\u9078\u5230\u7684\u6a19\u7684\uff09\u6bd4\u5927\u76e4\u8d70\u52e2\u66f4\u5177\u53c3\u8003\u50f9\u503c\u3002",
+      "summary_en": "Major indices were roughly flat today, with the NASDAQ dipping slightly and the S&P 500 edging up, suggesting investors were in a wait-and-see mode rather than reacting to major catalysts. Without a strong directional signal, the broader market consolidated near recent levels. Individual stocks still showed meaningful divergence, with several names exhibiting strong technical momentum even as the indices stayed flat.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8868\u73fe\u5e73\u6de1,\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.4%,\u6a19\u666e500\u6307\u6578\u5247\u5c0f\u5e45\u4e0a\u53470.1%,\u986f\u793a\u6295\u8cc7\u4eba\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6,\u4e26\u672a\u5c0d\u4efb\u4f55\u91cd\u5927\u6d88\u606f\u505a\u51fa\u660e\u986f\u53cd\u61c9\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b,\u5927\u76e4\u7dad\u6301\u5728\u8fd1\u671f\u5340\u9593\u5167\u76e4\u6574\u3002\u4e0d\u904e\u500b\u80a1\u8868\u73fe\u5206\u6b67\u660e\u986f,\u90e8\u5206\u80a1\u7968\u5373\u4f7f\u5728\u5927\u76e4\u6301\u5e73\u7684\u60c5\u6cc1\u4e0b,\u4ecd\u5c55\u73fe\u51fa\u5f37\u52c1\u7684\u6280\u8853\u52d5\u80fd\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD crossovers, and price relative to moving averages, on the theory that stocks in motion tend to stay in motion over the near term. Today's buys were chosen because they showed healthy (not overbought) bullish momentum across multiple technical signals at once.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u4f9d\u64daRSI\u3001MACD\u4ea4\u53c9\u53ca\u50f9\u683c\u8207\u5747\u7dda\u7684\u95dc\u4fc2\u7b49\u8a0a\u865f\uff0c\u7406\u8ad6\u57fa\u790e\u662f\u300c\u5f37\u8005\u6046\u5f37\u300d\uff0c\u80a1\u7968\u77ed\u671f\u5167\u50be\u5411\u5ef6\u7e8c\u539f\u6709\u8d70\u52e2\u3002\u4eca\u65e5\u9078\u5165\u7684\u6a19\u7684\u662f\u56e0\u70ba\u540c\u6642\u51fa\u73fe\u591a\u9805\u6280\u8853\u8a0a\u865f\u78ba\u8a8d\u5065\u5eb7\uff08\u975e\u8d85\u8cb7\uff09\u7684\u4e0a\u5347\u52d5\u80fd\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "Instead of buying every stock that looks slightly bullish, it's safer to wait until several independent signals agree \u2014 like RSI showing healthy (not overbought) momentum, MACD confirming an upward crossover, and price trading above its moving average. When these line up together, it's a stronger sign that a stock's uptrend is real rather than random noise.",
+      "explanation_zh": "\u8207\u5176\u5728\u80a1\u7968\u7a0d\u5fae\u8f49\u5f37\u6642\u5c31\u7acb\u5373\u8cb7\u5165,\u66f4\u7a69\u5065\u7684\u505a\u6cd5\u662f\u7b49\u5f85\u591a\u500b\u7368\u7acb\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u5171\u8b58\u2014\u2014\u4f8b\u5982RSI\u986f\u793a\u5065\u5eb7(\u975e\u8d85\u8cb7)\u7684\u52d5\u80fd\u3001MACD\u78ba\u8a8d\u9ec3\u91d1\u4ea4\u53c9,\u4ee5\u53ca\u80a1\u50f9\u7ad9\u4e0a\u79fb\u52d5\u5e73\u5747\u7dda\u4e4b\u4e0a\u3002\u7576\u9019\u4e9b\u8a0a\u865f\u4e00\u81f4\u51fa\u73fe\u6642,\u4ee3\u8868\u80a1\u7968\u7684\u4e0a\u5347\u8da8\u52e2\u8f03\u53ef\u80fd\u662f\u771f\u5be6\u7684,\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002"
     }
   }
 }

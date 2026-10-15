@@ -1,34 +1,28 @@
 {
   "date": "2026-10-15",
-  "briefing": "Market is neutral today (NASDAQ -0.3%, S&P 500 +0.2%) with no strong risk-on or risk-off signal. Cash is well above the $500 threshold with all 3 slots open, so per the risk rules we filled them with the three highest-scoring, non-overbought momentum names (MAAS, COMP, BOOT) at medium conviction rather than chasing overbought names or holding idle cash.",
+  "briefing": "Markets were neutral today (NASDAQ -0.4%, S&P 500 +0.1%), not a strong risk-on signal, but CRCL and MMYT showed genuine confirmed bullish setups across RSI, MACD, and price-vs-SMA20, so we deployed some of the idle cash into those two rather than forcing buys into weaker candidates. Existing positions were held unchanged through the neutral session.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD crossovers, and price relative to moving averages, on the theory that stocks in motion tend to stay in motion over the near term. Today's buys were chosen because they showed healthy (not overbought) bullish momentum across multiple technical signals at once.",
-    "explanation_zh": "動能投資是指買入已經處於上升趨勢的股票，依據RSI、MACD交叉及價格與均線的關係等訊號，理論基礎是「強者恆強」，股票短期內傾向延續原有走勢。今日選入的標的是因為同時出現多項技術訊號確認健康（非超買）的上升動能。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying every stock that looks slightly bullish, it's safer to wait until several independent signals agree — like RSI showing healthy (not overbought) momentum, MACD confirming an upward crossover, and price trading above its moving average. When these line up together, it's a stronger sign that a stock's uptrend is real rather than random noise.",
+    "explanation_zh": "與其在股票稍微轉強時就立即買入,更穩健的做法是等待多個獨立訊號同時出現共識——例如RSI顯示健康(非超買)的動能、MACD確認黃金交叉,以及股價站上移動平均線之上。當這些訊號一致出現時,代表股票的上升趨勢較可能是真實的,而非隨機波動。"
   },
   "market_education": {
-    "summary_en": "Major indices were roughly flat today, with the S&P 500 inching up 0.2% while the NASDAQ slipped 0.3%, suggesting investors are in a wait-and-see mode rather than reacting to a major catalyst. No single news event stood out to drive broad moves across sectors today. In the absence of a clear directional signal, stock-specific momentum (like the names in our screener) matters more than the overall market trend.",
-    "summary_zh": "今日大盤表現平淡，標普500微升0.2%，納指則小跌0.3%，顯示投資者在等待更明確的市場訊號，並未對重大消息作出強烈反應。市場上沒有單一新聞事件主導整體走勢。在缺乏明確方向的情況下，個股的動能表現（如本次篩選到的標的）比大盤走勢更具參考價值。",
+    "summary_en": "Major indices were roughly flat today, with the NASDAQ dipping slightly and the S&P 500 edging up, suggesting investors were in a wait-and-see mode rather than reacting to major catalysts. Without a strong directional signal, the broader market consolidated near recent levels. Individual stocks still showed meaningful divergence, with several names exhibiting strong technical momentum even as the indices stayed flat.",
+    "summary_zh": "今日大盤表現平淡,納斯達克指數微跌0.4%,標普500指數則小幅上升0.1%,顯示投資人普遍採取觀望態度,並未對任何重大消息做出明顯反應。在缺乏明確方向訊號的情況下,大盤維持在近期區間內盤整。不過個股表現分歧明顯,部分股票即使在大盤持平的情況下,仍展現出強勁的技術動能。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "MAAS",
+      "ticker": "CRCL",
       "conviction": "medium",
-      "reasoning": "Top score with RSI in the healthy bullish zone (67.5), MACD bullish crossover, and rising histogram confirm momentum without being overbought."
+      "reasoning": "Score 95 with RSI 62 in bullish zone, bullish MACD crossover, rising histogram, and price above SMA-20 shows genuine confirmed momentum despite the flat market, and adds fintech/payments exposure not already in the portfolio."
     },
     {
       "action": "BUY",
-      "ticker": "COMP",
+      "ticker": "MMYT",
       "conviction": "medium",
-      "reasoning": "Matches MAAS on score with RSI 66 in the bullish zone, MACD crossover, and price above SMA-20, fitting the multi-signal setup the strategy memory favors."
-    },
-    {
-      "action": "BUY",
-      "ticker": "BOOT",
-      "conviction": "medium",
-      "reasoning": "Highest-tier score with RSI 63 still in the bullish 55-70 zone and confirmed MACD/SMA-20 bullish alignment, filling the last open slot."
+      "reasoning": "Score 95 with full multi-signal confirmation (RSI 66, MACD bullish crossover, rising histogram, price above SMA-20) and diversifies into travel/consumer, a sector not currently held."
     }
   ],
   "outcomes": {
