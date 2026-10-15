@@ -1,14 +1,14 @@
 {
   "date": "2026-10-15",
-  "briefing": "Markets turned risk-off today with NASDAQ down 1.9% and the S&P 500 down 1.1%, and the screener returned no new candidates. We're holding our 7 existing positions unchanged and keeping cash on the sidelines rather than forcing a buy into weakness.",
+  "briefing": "Markets were risk-off today with NASDAQ down 1.2% and S&P 500 down 0.5%, and the screener returned no new candidates. Per the strategy memory, we're holding all 7 existing positions and keeping the remaining cash in reserve rather than forcing a buy into weakness.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and tech shares, often moving toward cash or safer investments. The right response isn't to panic-sell your holdings or force new buys — it's to hold steady, trust your existing stop-loss and profit-target rules, and wait for conditions to improve before deploying fresh capital.",
-    "explanation_zh": "「風險規避」(Risk-Off) 是指投資者普遍賣出科技股、成長股等風險較高的資產，轉而持有現金或更安全的投資。正確的應對方式不是恐慌性拋售現有持股或勉強買入新標的，而是保持冷靜，信任既有的停損與停利機制，等待市況改善後再部署新資金。"
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, often causing indexes like the NASDAQ to fall more than the S&P 500. The smart move on these days is usually to hold steady rather than chase new positions, since volatility tends to punish hasty buying.",
+    "explanation_zh": "「風險規避」(Risk-Off) 是指投資者普遍沽售增長股等較高風險資產，轉投較安全的資產，因此納指等指數通常跌幅會大過標普500。在這類日子，較穩健的做法是持貨觀望，而非急於追入新持倉，因為市況波動往往會令倉促買入付出代價。"
   },
   "market_education": {
-    "summary_en": "Broad-based selling hit tech and growth names harder than the overall market, with NASDAQ's 1.9% decline outpacing the S&P 500's 1.1% drop, a pattern typical of risk-off days where investors rotate out of higher-beta positions. Without new screened candidates, there's no clear catalyst data available today to point to beyond general market-wide de-risking. The safest move is to avoid chasing dips on a down day and let existing stop-losses and profit targets manage the current book.",
-    "summary_zh": "今日市場呈現避險情緒，科技股為主的納斯達克指數下跌1.9%，跌幅超過標普500指數的1.1%，這是典型的風險規避走勢，投資者傾向拋售波動較大的成長股。由於今日篩選系統未提供新的候選標的，暫無具體新聞可說明觸發原因，整體市場似乎在全面降低風險。目前最穩妥的做法是不在下跌日追加買盤，讓現有持倉的停損與停利機制自動發揮作用。",
+    "summary_en": "Broad market weakness pulled both the NASDAQ and S&P 500 lower today, with growth and tech-heavy names underperforming as is typical in risk-off sessions. No major company-specific catalysts were flagged for our current holdings. The decline reflects a general pullback in risk appetite rather than a sector-specific shock.",
+    "summary_zh": "大市今日普遍偏弱，納指及標普500指數同步下跌，科技及增長股表現落後，符合「風險規避」(risk-off) 日子的慣常走勢。現時持倉未見有個股特定的壞消息，跌勢更多反映市場整體風險偏好回落，而非個別行業衝擊。",
     "sources": []
   },
   "trades": [],
