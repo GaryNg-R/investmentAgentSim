@@ -1,24 +1,17 @@
 {
   "date": "2026-10-15",
-  "briefing": "Markets were flat today with NASDAQ -0.2% and S&P 500 +0.2%, a neutral, directionless session. Rather than forcing capital into the market broadly, we bought KRMN, the one candidate showing all four confirming technical signals (momentum, trend, and volume), and left two slots open for stronger setups.",
+  "briefing": "Markets were flat and neutral today (NASDAQ +0.1%, S&P 500 +0.3%) with no clear risk-on signal. Top candidates like FIGR, CRCL, QXO and SOFI show strong momentum (RSI, MACD, price-above-SMA20) but lack the volume-surge confirmation that past lessons flag as needed for high-conviction entries on a quiet day, so we're holding our 7 existing positions and keeping cash in reserve rather than forcing a buy.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a trade idea when several independent indicators — like RSI, MACD, price trend, and volume — all point the same direction at once. Relying on a single signal can lead to false starts, but when momentum, trend, and volume all align, it suggests real buying interest rather than noise.",
-    "explanation_zh": "多重訊號確認是指只有當多項獨立指標（如RSI、MACD、價格趨勢及成交量）同時指向同一方向時，才採取交易行動。僅依賴單一訊號容易誤判，但當動能、趨勢與成交量三者一致時，則更能反映真實的買盤力道，而非單純的雜訊波動。"
+    "term": "Patience",
+    "explanation_en": "Patience in investing means resisting the urge to put cash to work just because it's sitting idle — even when you have room for more positions. On a neutral day with no strong confirming signals (like a volume surge alongside bullish momentum), waiting for a clearer setup protects you from chasing weak trades.",
+    "explanation_zh": "投資中的「耐性」是指不因現金閒置就急於進場，即使投資組合仍有空位。在市場方向不明、缺乏強力確認訊號（例如成交量放大配合升勢）的日子裡，耐心等待更清晰的進場機會，能避免追逐訊號不足的交易。"
   },
   "market_education": {
-    "summary_en": "Major indices traded in a narrow range today, with the NASDAQ dipping slightly while the S&P 500 edged higher, reflecting a lack of strong directional conviction among investors. No major macro catalysts drove the session, so trading largely reflected stock-specific moves rather than broad market sentiment. This kind of mixed, low-volatility action is typical of consolidation phases between larger trends.",
-    "summary_zh": "今日大盤走勢窄幅震盪，納斯達克指數微跌0.2%，標普500指數則小升0.2%，顯示市場缺乏明確方向。由於今日並無重大總經消息帶動，盤面表現主要反映個股層面的資金流動，而非全面性的市場情緒。這種漲跌互見、波動較低的走勢，通常出現在大趨勢之間的整理階段。",
+    "summary_en": "Major indices were essentially flat today, with the S&P 500 up a modest 0.3% and the NASDAQ up just 0.1%, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a strong directional move, momentum traders are seeing fewer high-conviction setups, as reflected in the screened candidate list where top names show bullish technicals but no volume confirmation. This kind of low-volatility, range-bound session often precedes a bigger move once a clear catalyst (earnings, Fed commentary, economic data) emerges.",
+    "summary_zh": "今日大盤表現平淡，標普500指數僅小幅上漲0.3%，納指更只升0.1%，顯示投資者在觀望，未對任何重大消息作出明顯反應。由於缺乏明確方向，動能交易者較難找到高確信度的進場機會——篩選名單中雖有多隻股票技術指標偏多（如RSI、MACD），但普遍缺乏成交量放大的確認訊號。這種低波動、區間徘徊的交易日，往往是在重大催化劑（如業績、聯儲局言論或經濟數據）出現前的醞釀期。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "KRMN",
-      "conviction": "high",
-      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) justifies deploying idle cash even on a neutral macro day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14555.735246181488,
     "cash": 989.2850012779236,
