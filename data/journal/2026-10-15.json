@@ -1,28 +1,22 @@
 {
   "date": "2026-10-15",
-  "briefing": "Markets were flat-to-mixed today (NASDAQ -0.1%, S&P500 +0.3%), a neutral session rather than a clear risk-on signal. With cash well above the $500 threshold and 3 open slots, we filled two of them with the highest-scoring, most multi-signal-confirmed names (BOOT, KRMN) while keeping one slot and cash in reserve rather than fully deploying on a non-confirmatory day.",
+  "briefing": "Markets were flat today with NASDAQ -0.2% and S&P 500 +0.2%, a neutral, directionless session. Rather than forcing capital into the market broadly, we bought KRMN, the one candidate showing all four confirming technical signals (momentum, trend, and volume), and left two slots open for stronger setups.",
   "daily_lesson": {
-    "term": "MACD Crossover",
-    "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often signaling building upward momentum. Combined with rising histogram bars and price above the 20-day average, it's one of the stronger technical confirmations traders look for before entering a position, even on an otherwise quiet market day.",
-    "explanation_zh": "MACD黃金交叉是指股票的MACD線向上穿越訊號線，通常代表上升動能正在形成。若再配合柱狀圖持續走高及股價站上20日均線，便是交易者在入市前較常參考的強力技術確認訊號，即使大盤當日表現平淡也是如此。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a trade idea when several independent indicators — like RSI, MACD, price trend, and volume — all point the same direction at once. Relying on a single signal can lead to false starts, but when momentum, trend, and volume all align, it suggests real buying interest rather than noise.",
+    "explanation_zh": "多重訊號確認是指只有當多項獨立指標（如RSI、MACD、價格趨勢及成交量）同時指向同一方向時，才採取交易行動。僅依賴單一訊號容易誤判，但當動能、趨勢與成交量三者一致時，則更能反映真實的買盤力道，而非單純的雜訊波動。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the Nasdaq dipping slightly and the S&P 500 edging higher, reflecting a lack of major new catalysts rather than any significant risk-on or risk-off shift. Trading stayed range-bound as investors awaited clearer directional signals. No major market-moving headlines were identified in today's available news feed.",
-    "summary_zh": "今日大盤走勢大致持平，納指微跌、標普小升，反映市場缺乏重大新消息刺激，而非出現明顯的風險偏好轉變。交投維持區間震盪，投資者仍在等待更明確的方向訊號。今日未見可供引用的重大市場新聞標題。",
+    "summary_en": "Major indices traded in a narrow range today, with the NASDAQ dipping slightly while the S&P 500 edged higher, reflecting a lack of strong directional conviction among investors. No major macro catalysts drove the session, so trading largely reflected stock-specific moves rather than broad market sentiment. This kind of mixed, low-volatility action is typical of consolidation phases between larger trends.",
+    "summary_zh": "今日大盤走勢窄幅震盪，納斯達克指數微跌0.2%，標普500指數則小升0.2%，顯示市場缺乏明確方向。由於今日並無重大總經消息帶動，盤面表現主要反映個股層面的資金流動，而非全面性的市場情緒。這種漲跌互見、波動較低的走勢，通常出現在大趨勢之間的整理階段。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "BOOT",
-      "conviction": "medium",
-      "reasoning": "Boot Barn shows a clean four-signal setup (bullish MACD crossover, rising histogram, RSI 63.5 in the healthy zone, price above SMA-20) in an established liquid name, fitting the open slot on a neutral-but-stable day."
-    },
-    {
-      "action": "BUY",
       "ticker": "KRMN",
-      "conviction": "medium",
-      "reasoning": "KRMN has the same strong multi-signal confirmation (MACD crossover, rising histogram, RSI 66.9, price above SMA-20) and deploys idle cash per the risk rule while keeping conviction moderate since today is a neutral market day rather than a confirmed risk-on breakout."
+      "conviction": "high",
+      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) justifies deploying idle cash even on a neutral macro day."
     }
   ],
   "outcomes": {
