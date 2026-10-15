@@ -1,28 +1,28 @@
 {
   "date": "2026-10-15",
-  "briefing": "Markets were neutral today (NASDAQ -0.4%, S&P 500 +0.1%), not a strong risk-on signal, but CRCL and MMYT showed genuine confirmed bullish setups across RSI, MACD, and price-vs-SMA20, so we deployed some of the idle cash into those two rather than forcing buys into weaker candidates. Existing positions were held unchanged through the neutral session.",
+  "briefing": "Markets were flat-to-mixed today (NASDAQ -0.1%, S&P500 +0.3%), a neutral session rather than a clear risk-on signal. With cash well above the $500 threshold and 3 open slots, we filled two of them with the highest-scoring, most multi-signal-confirmed names (BOOT, KRMN) while keeping one slot and cash in reserve rather than fully deploying on a non-confirmatory day.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of buying every stock that looks slightly bullish, it's safer to wait until several independent signals agree — like RSI showing healthy (not overbought) momentum, MACD confirming an upward crossover, and price trading above its moving average. When these line up together, it's a stronger sign that a stock's uptrend is real rather than random noise.",
-    "explanation_zh": "與其在股票稍微轉強時就立即買入,更穩健的做法是等待多個獨立訊號同時出現共識——例如RSI顯示健康(非超買)的動能、MACD確認黃金交叉,以及股價站上移動平均線之上。當這些訊號一致出現時,代表股票的上升趨勢較可能是真實的,而非隨機波動。"
+    "term": "MACD Crossover",
+    "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often signaling building upward momentum. Combined with rising histogram bars and price above the 20-day average, it's one of the stronger technical confirmations traders look for before entering a position, even on an otherwise quiet market day.",
+    "explanation_zh": "MACD黃金交叉是指股票的MACD線向上穿越訊號線，通常代表上升動能正在形成。若再配合柱狀圖持續走高及股價站上20日均線，便是交易者在入市前較常參考的強力技術確認訊號，即使大盤當日表現平淡也是如此。"
   },
   "market_education": {
-    "summary_en": "Major indices were roughly flat today, with the NASDAQ dipping slightly and the S&P 500 edging up, suggesting investors were in a wait-and-see mode rather than reacting to major catalysts. Without a strong directional signal, the broader market consolidated near recent levels. Individual stocks still showed meaningful divergence, with several names exhibiting strong technical momentum even as the indices stayed flat.",
-    "summary_zh": "今日大盤表現平淡,納斯達克指數微跌0.4%,標普500指數則小幅上升0.1%,顯示投資人普遍採取觀望態度,並未對任何重大消息做出明顯反應。在缺乏明確方向訊號的情況下,大盤維持在近期區間內盤整。不過個股表現分歧明顯,部分股票即使在大盤持平的情況下,仍展現出強勁的技術動能。",
+    "summary_en": "Major indices were essentially flat today, with the Nasdaq dipping slightly and the S&P 500 edging higher, reflecting a lack of major new catalysts rather than any significant risk-on or risk-off shift. Trading stayed range-bound as investors awaited clearer directional signals. No major market-moving headlines were identified in today's available news feed.",
+    "summary_zh": "今日大盤走勢大致持平，納指微跌、標普小升，反映市場缺乏重大新消息刺激，而非出現明顯的風險偏好轉變。交投維持區間震盪，投資者仍在等待更明確的方向訊號。今日未見可供引用的重大市場新聞標題。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CRCL",
+      "ticker": "BOOT",
       "conviction": "medium",
-      "reasoning": "Score 95 with RSI 62 in bullish zone, bullish MACD crossover, rising histogram, and price above SMA-20 shows genuine confirmed momentum despite the flat market, and adds fintech/payments exposure not already in the portfolio."
+      "reasoning": "Boot Barn shows a clean four-signal setup (bullish MACD crossover, rising histogram, RSI 63.5 in the healthy zone, price above SMA-20) in an established liquid name, fitting the open slot on a neutral-but-stable day."
     },
     {
       "action": "BUY",
-      "ticker": "MMYT",
+      "ticker": "KRMN",
       "conviction": "medium",
-      "reasoning": "Score 95 with full multi-signal confirmation (RSI 66, MACD bullish crossover, rising histogram, price above SMA-20) and diversifies into travel/consumer, a sector not currently held."
+      "reasoning": "KRMN has the same strong multi-signal confirmation (MACD crossover, rising histogram, RSI 66.9, price above SMA-20) and deploys idle cash per the risk rule while keeping conviction moderate since today is a neutral market day rather than a confirmed risk-on breakout."
     }
   ],
   "outcomes": {

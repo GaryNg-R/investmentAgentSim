@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-10-15T17:01:07.850197+00:00",
+  "saved_at": "2026-10-15T18:01:01.714909+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "CRCL",
+        "ticker": "BOOT",
         "conviction": "medium",
-        "reasoning": "Score 95 with RSI 62 in bullish zone, bullish MACD crossover, rising histogram, and price above SMA-20 shows genuine confirmed momentum despite the flat market, and adds fintech/payments exposure not already in the portfolio."
+        "reasoning": "Boot Barn shows a clean four-signal setup (bullish MACD crossover, rising histogram, RSI 63.5 in the healthy zone, price above SMA-20) in an established liquid name, fitting the open slot on a neutral-but-stable day."
       },
       {
         "action": "BUY",
-        "ticker": "MMYT",
+        "ticker": "KRMN",
         "conviction": "medium",
-        "reasoning": "Score 95 with full multi-signal confirmation (RSI 66, MACD bullish crossover, rising histogram, price above SMA-20) and diversifies into travel/consumer, a sector not currently held."
+        "reasoning": "KRMN has the same strong multi-signal confirmation (MACD crossover, rising histogram, RSI 66.9, price above SMA-20) and deploys idle cash per the risk rule while keeping conviction moderate since today is a neutral market day rather than a confirmed risk-on breakout."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were neutral today (NASDAQ -0.4%, S&P 500 +0.1%), not a strong risk-on signal, but CRCL and MMYT showed genuine confirmed bullish setups across RSI, MACD, and price-vs-SMA20, so we deployed some of the idle cash into those two rather than forcing buys into weaker candidates. Existing positions were held unchanged through the neutral session.",
+    "briefing": "Markets were flat-to-mixed today (NASDAQ -0.1%, S&P500 +0.3%), a neutral session rather than a clear risk-on signal. With cash well above the $500 threshold and 3 open slots, we filled two of them with the highest-scoring, most multi-signal-confirmed names (BOOT, KRMN) while keeping one slot and cash in reserve rather than fully deploying on a non-confirmatory day.",
     "market_education": {
-      "summary_en": "Major indices were roughly flat today, with the NASDAQ dipping slightly and the S&P 500 edging up, suggesting investors were in a wait-and-see mode rather than reacting to major catalysts. Without a strong directional signal, the broader market consolidated near recent levels. Individual stocks still showed meaningful divergence, with several names exhibiting strong technical momentum even as the indices stayed flat.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8868\u73fe\u5e73\u6de1,\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.4%,\u6a19\u666e500\u6307\u6578\u5247\u5c0f\u5e45\u4e0a\u53470.1%,\u986f\u793a\u6295\u8cc7\u4eba\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6,\u4e26\u672a\u5c0d\u4efb\u4f55\u91cd\u5927\u6d88\u606f\u505a\u51fa\u660e\u986f\u53cd\u61c9\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b,\u5927\u76e4\u7dad\u6301\u5728\u8fd1\u671f\u5340\u9593\u5167\u76e4\u6574\u3002\u4e0d\u904e\u500b\u80a1\u8868\u73fe\u5206\u6b67\u660e\u986f,\u90e8\u5206\u80a1\u7968\u5373\u4f7f\u5728\u5927\u76e4\u6301\u5e73\u7684\u60c5\u6cc1\u4e0b,\u4ecd\u5c55\u73fe\u51fa\u5f37\u52c1\u7684\u6280\u8853\u52d5\u80fd\u3002",
+      "summary_en": "Major indices were essentially flat today, with the Nasdaq dipping slightly and the S&P 500 edging higher, reflecting a lack of major new catalysts rather than any significant risk-on or risk-off shift. Trading stayed range-bound as investors awaited clearer directional signals. No major market-moving headlines were identified in today's available news feed.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u6301\u5e73\uff0c\u7d0d\u6307\u5fae\u8dcc\u3001\u6a19\u666e\u5c0f\u5347\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u91cd\u5927\u65b0\u6d88\u606f\u523a\u6fc0\uff0c\u800c\u975e\u51fa\u73fe\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u8f49\u8b8a\u3002\u4ea4\u6295\u7dad\u6301\u5340\u9593\u9707\u76ea\uff0c\u6295\u8cc7\u8005\u4ecd\u5728\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u65b9\u5411\u8a0a\u865f\u3002\u4eca\u65e5\u672a\u898b\u53ef\u4f9b\u5f15\u7528\u7684\u91cd\u5927\u5e02\u5834\u65b0\u805e\u6a19\u984c\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Instead of buying every stock that looks slightly bullish, it's safer to wait until several independent signals agree \u2014 like RSI showing healthy (not overbought) momentum, MACD confirming an upward crossover, and price trading above its moving average. When these line up together, it's a stronger sign that a stock's uptrend is real rather than random noise.",
-      "explanation_zh": "\u8207\u5176\u5728\u80a1\u7968\u7a0d\u5fae\u8f49\u5f37\u6642\u5c31\u7acb\u5373\u8cb7\u5165,\u66f4\u7a69\u5065\u7684\u505a\u6cd5\u662f\u7b49\u5f85\u591a\u500b\u7368\u7acb\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u5171\u8b58\u2014\u2014\u4f8b\u5982RSI\u986f\u793a\u5065\u5eb7(\u975e\u8d85\u8cb7)\u7684\u52d5\u80fd\u3001MACD\u78ba\u8a8d\u9ec3\u91d1\u4ea4\u53c9,\u4ee5\u53ca\u80a1\u50f9\u7ad9\u4e0a\u79fb\u52d5\u5e73\u5747\u7dda\u4e4b\u4e0a\u3002\u7576\u9019\u4e9b\u8a0a\u865f\u4e00\u81f4\u51fa\u73fe\u6642,\u4ee3\u8868\u80a1\u7968\u7684\u4e0a\u5347\u8da8\u52e2\u8f03\u53ef\u80fd\u662f\u771f\u5be6\u7684,\u800c\u975e\u96a8\u6a5f\u6ce2\u52d5\u3002"
+      "term": "MACD Crossover",
+      "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often signaling building upward momentum. Combined with rising histogram bars and price above the 20-day average, it's one of the stronger technical confirmations traders look for before entering a position, even on an otherwise quiet market day.",
+      "explanation_zh": "MACD\u9ec3\u91d1\u4ea4\u53c9\u662f\u6307\u80a1\u7968\u7684MACD\u7dda\u5411\u4e0a\u7a7f\u8d8a\u8a0a\u865f\u7dda\uff0c\u901a\u5e38\u4ee3\u8868\u4e0a\u5347\u52d5\u80fd\u6b63\u5728\u5f62\u6210\u3002\u82e5\u518d\u914d\u5408\u67f1\u72c0\u5716\u6301\u7e8c\u8d70\u9ad8\u53ca\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\uff0c\u4fbf\u662f\u4ea4\u6613\u8005\u5728\u5165\u5e02\u524d\u8f03\u5e38\u53c3\u8003\u7684\u5f37\u529b\u6280\u8853\u78ba\u8a8d\u8a0a\u865f\uff0c\u5373\u4f7f\u5927\u76e4\u7576\u65e5\u8868\u73fe\u5e73\u6de1\u4e5f\u662f\u5982\u6b64\u3002"
     }
   }
 }
