@@ -1,17 +1,30 @@
 {
   "date": "2026-10-15",
-  "briefing": "Markets were flat and neutral today (NASDAQ +0.1%, S&P 500 +0.3%) with no clear risk-on signal. Top candidates like FIGR, CRCL, QXO and SOFI show strong momentum (RSI, MACD, price-above-SMA20) but lack the volume-surge confirmation that past lessons flag as needed for high-conviction entries on a quiet day, so we're holding our 7 existing positions and keeping cash in reserve rather than forcing a buy.",
+  "briefing": "Markets were flat today (NASDAQ +0.1%, S&P500 +0.3%), a neutral session with no strong risk-on or risk-off signal. We added two measured, medium-conviction positions (FIGR, SOFI) from the screener's cleanest bullish setups — RSI in the healthy 55-70 zone, MACD crossovers, and price above SMA-20 — while leaving one slot open rather than forcing full deployment on a low-conviction day.",
   "daily_lesson": {
-    "term": "Patience",
-    "explanation_en": "Patience in investing means resisting the urge to put cash to work just because it's sitting idle — even when you have room for more positions. On a neutral day with no strong confirming signals (like a volume surge alongside bullish momentum), waiting for a clearer setup protects you from chasing weak trades.",
-    "explanation_zh": "投資中的「耐性」是指不因現金閒置就急於進場，即使投資組合仍有空位。在市場方向不明、缺乏強力確認訊號（例如成交量放大配合升勢）的日子裡，耐心等待更清晰的進場機會，能避免追逐訊號不足的交易。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD crossovers, and price relative to moving averages, on the theory that stocks in motion tend to stay in motion for a while. Today's buys (FIGR, SOFI) were chosen because multiple technical signals — a bullish RSI zone, a MACD crossover, and price above the 20-day average — lined up together, which is considered stronger confirmation than any single signal alone.",
+    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票，依據RSI、MACD黃金交叉、及股價相對於移動平均線等訊號，其理論基礎是「動起來的股票傾向於持續動下去」。今日買入的FIGR和SOFI，正是因為多項技術訊號同時出現——RSI處於偏多區間、MACD黃金交叉、股價高於20日均線——這種多重訊號確認，比單一訊號更具說服力。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the S&P 500 up a modest 0.3% and the NASDAQ up just 0.1%, suggesting investors are in a wait-and-see mode rather than reacting to any major catalyst. Without a strong directional move, momentum traders are seeing fewer high-conviction setups, as reflected in the screened candidate list where top names show bullish technicals but no volume confirmation. This kind of low-volatility, range-bound session often precedes a bigger move once a clear catalyst (earnings, Fed commentary, economic data) emerges.",
-    "summary_zh": "今日大盤表現平淡，標普500指數僅小幅上漲0.3%，納指更只升0.1%，顯示投資者在觀望，未對任何重大消息作出明顯反應。由於缺乏明確方向，動能交易者較難找到高確信度的進場機會——篩選名單中雖有多隻股票技術指標偏多（如RSI、MACD），但普遍缺乏成交量放大的確認訊號。這種低波動、區間徘徊的交易日，往往是在重大催化劑（如業績、聯儲局言論或經濟數據）出現前的醞釀期。",
+    "summary_en": "Major indices traded essentially flat today, with the S&P 500 up 0.3% and the NASDAQ up just 0.1%, reflecting a lack of a clear catalyst in either direction. Without major earnings surprises or macro data surprises driving flows, trading stayed range-bound and institutional participation looked muted. This kind of quiet, low-volatility session is common between major data releases or earnings cycles.",
+    "summary_zh": "今日大市表現大致平穩，標普500指數上升0.3%，納斯達克僅升0.1%，反映市場缺乏明顯的方向性催化劑。由於沒有重大盈利或宏觀數據意外，資金流向保持區間波動，機構參與度亦顯得淡靜。這種低波動的平靜交易日，在重大數據或業績公佈之間的空檔期頗為常見。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "FIGR",
+      "conviction": "medium",
+      "reasoning": "RSI 60.9 in the bullish zone with a MACD bullish crossover, rising histogram, and price above SMA-20 signal healthy momentum without being overbought."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SOFI",
+      "conviction": "medium",
+      "reasoning": "Lowest RSI (58.2) among the top-scored names gives the most room to run, backed by a MACD crossover and price above SMA-20."
+    }
+  ],
   "outcomes": {
     "total_value": 14555.735246181488,
     "cash": 989.2850012779236,
