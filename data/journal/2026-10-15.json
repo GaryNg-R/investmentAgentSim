@@ -1,14 +1,14 @@
 {
   "date": "2026-10-15",
-  "briefing": "Markets were risk-off today with NASDAQ down 1.2% and S&P 500 down 0.5%, and the screener returned no new candidates. Per the strategy memory, we're holding all 7 existing positions and keeping the remaining cash in reserve rather than forcing a buy into weakness.",
+  "briefing": "Markets were essentially flat today (NASDAQ -0.4%, S&P500 +0.0%) with no clear risk-on confirmation. Per past lessons on neutral days with idle cash, held off deploying the $989 cash into new positions and left all 7 existing holdings untouched to let stop-loss/profit-target rules work automatically.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, often causing indexes like the NASDAQ to fall more than the S&P 500. The smart move on these days is usually to hold steady rather than chase new positions, since volatility tends to punish hasty buying.",
-    "explanation_zh": "「風險規避」(Risk-Off) 是指投資者普遍沽售增長股等較高風險資產，轉投較安全的資產，因此納指等指數通常跌幅會大過標普500。在這類日子，較穩健的做法是持貨觀望，而非急於追入新持倉，因為市況波動往往會令倉促買入付出代價。"
+    "explanation_en": "Risk-off refers to a cautious market stance where investors avoid adding new risk until there's a clearer positive signal. Today's neutral market (no strong upward momentum) called for patience rather than forcing new trades just to use available cash.",
+    "explanation_zh": "「風險規避」(Risk-Off)指投資者在缺乏明確利好訊號時採取謹慎態度,避免新增風險倉位。今日市況中性,沒有明顯的上升動力,因此應保持耐性,而非單純為運用閒置資金而勉強進場。"
   },
   "market_education": {
-    "summary_en": "Broad market weakness pulled both the NASDAQ and S&P 500 lower today, with growth and tech-heavy names underperforming as is typical in risk-off sessions. No major company-specific catalysts were flagged for our current holdings. The decline reflects a general pullback in risk appetite rather than a sector-specific shock.",
-    "summary_zh": "大市今日普遍偏弱，納指及標普500指數同步下跌，科技及增長股表現落後，符合「風險規避」(risk-off) 日子的慣常走勢。現時持倉未見有個股特定的壞消息，跌勢更多反映市場整體風險偏好回落，而非個別行業衝擊。",
+    "summary_en": "Today's session was quiet and directionless, with the NASDAQ down a modest 0.4% and the S&P 500 essentially unchanged. Without a specific catalyst or broad risk-on move, trading activity across sectors was muted. This kind of low-volatility, range-bound action is common in the absence of major economic data or earnings surprises.",
+    "summary_zh": "今日大市走勢平淡，納斯達克指數微跌0.4%，標普500指數則幾乎持平。由於缺乏明確的催化劇或整體風險偏好上升的訊號,各板塊交投淡靜。在沒有重大經濟數據或盈利意外的情況下,這種低波動、區間徘徊的走勢屬常見現象。",
     "sources": []
   },
   "trades": [],
