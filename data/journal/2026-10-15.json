@@ -1,17 +1,36 @@
 {
   "date": "2026-10-15",
-  "briefing": "Markets were essentially flat today (NASDAQ -0.4%, S&P500 +0.0%) with no clear risk-on confirmation. Per past lessons on neutral days with idle cash, held off deploying the $989 cash into new positions and left all 7 existing holdings untouched to let stop-loss/profit-target rules work automatically.",
+  "briefing": "Market is neutral today (NASDAQ -0.3%, S&P 500 +0.2%) with no strong risk-on or risk-off signal. Cash is well above the $500 threshold with all 3 slots open, so per the risk rules we filled them with the three highest-scoring, non-overbought momentum names (MAAS, COMP, BOOT) at medium conviction rather than chasing overbought names or holding idle cash.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off refers to a cautious market stance where investors avoid adding new risk until there's a clearer positive signal. Today's neutral market (no strong upward momentum) called for patience rather than forcing new trades just to use available cash.",
-    "explanation_zh": "「風險規避」(Risk-Off)指投資者在缺乏明確利好訊號時採取謹慎態度,避免新增風險倉位。今日市況中性,沒有明顯的上升動力,因此應保持耐性,而非單純為運用閒置資金而勉強進場。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like RSI, MACD crossovers, and price relative to moving averages, on the theory that stocks in motion tend to stay in motion over the near term. Today's buys were chosen because they showed healthy (not overbought) bullish momentum across multiple technical signals at once.",
+    "explanation_zh": "動能投資是指買入已經處於上升趨勢的股票，依據RSI、MACD交叉及價格與均線的關係等訊號，理論基礎是「強者恆強」，股票短期內傾向延續原有走勢。今日選入的標的是因為同時出現多項技術訊號確認健康（非超買）的上升動能。"
   },
   "market_education": {
-    "summary_en": "Today's session was quiet and directionless, with the NASDAQ down a modest 0.4% and the S&P 500 essentially unchanged. Without a specific catalyst or broad risk-on move, trading activity across sectors was muted. This kind of low-volatility, range-bound action is common in the absence of major economic data or earnings surprises.",
-    "summary_zh": "今日大市走勢平淡，納斯達克指數微跌0.4%，標普500指數則幾乎持平。由於缺乏明確的催化劇或整體風險偏好上升的訊號,各板塊交投淡靜。在沒有重大經濟數據或盈利意外的情況下,這種低波動、區間徘徊的走勢屬常見現象。",
+    "summary_en": "Major indices were roughly flat today, with the S&P 500 inching up 0.2% while the NASDAQ slipped 0.3%, suggesting investors are in a wait-and-see mode rather than reacting to a major catalyst. No single news event stood out to drive broad moves across sectors today. In the absence of a clear directional signal, stock-specific momentum (like the names in our screener) matters more than the overall market trend.",
+    "summary_zh": "今日大盤表現平淡，標普500微升0.2%，納指則小跌0.3%，顯示投資者在等待更明確的市場訊號，並未對重大消息作出強烈反應。市場上沒有單一新聞事件主導整體走勢。在缺乏明確方向的情況下，個股的動能表現（如本次篩選到的標的）比大盤走勢更具參考價值。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "MAAS",
+      "conviction": "medium",
+      "reasoning": "Top score with RSI in the healthy bullish zone (67.5), MACD bullish crossover, and rising histogram confirm momentum without being overbought."
+    },
+    {
+      "action": "BUY",
+      "ticker": "COMP",
+      "conviction": "medium",
+      "reasoning": "Matches MAAS on score with RSI 66 in the bullish zone, MACD crossover, and price above SMA-20, fitting the multi-signal setup the strategy memory favors."
+    },
+    {
+      "action": "BUY",
+      "ticker": "BOOT",
+      "conviction": "medium",
+      "reasoning": "Highest-tier score with RSI 63 still in the bullish 55-70 zone and confirmed MACD/SMA-20 bullish alignment, filling the last open slot."
+    }
+  ],
   "outcomes": {
     "total_value": 14555.735246181488,
     "cash": 989.2850012779236,
