@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-10-16T17:00:28.384113+00:00",
+  "saved_at": "2026-10-16T18:00:25.632749+00:00",
   "market_direction": "risk_off",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets turned risk_off today with NASDAQ down 1.5% and S&P 500 down 0.7%, so no new candidates were screened. We're holding all 7 existing positions unchanged and keeping cash in reserve rather than forcing a buy into weakness.",
+    "briefing": "Markets sold off sharply today with NASDAQ down 2.0% and S&P 500 down 1.1%, putting us in risk-off mode with no new candidates on the screened list. We're holding all 7 existing positions and keeping cash on the sidelines rather than forcing buys into a weak tape.",
     "market_education": {
-      "summary_en": "Broad weakness hit tech-heavy indices harder than the overall market today, with NASDAQ falling 1.5% versus a smaller 0.7% drop in the S&P 500, suggesting growth and momentum names were sold off more aggressively than defensive or value-oriented stocks. This pattern typically reflects investors rotating out of higher-risk, higher-valuation positions during periods of uncertainty. No specific news headlines were available in today's feed to pinpoint the exact catalyst.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u504f\u5f31\uff0c\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc1.5%\uff0c\u8dcc\u5e45\u660e\u986f\u5927\u65bc\u6a19\u666e500\u6307\u6578\u76840.7%\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5728\u4e0d\u78ba\u5b9a\u5e02\u6cc1\u4e0b\uff0c\u50be\u5411\u6cbd\u552e\u4f30\u503c\u8f03\u9ad8\u3001\u98a8\u96aa\u8f03\u5927\u7684\u589e\u9577\u80a1\uff0c\u8f49\u800c\u6301\u6709\u9632\u5b88\u6027\u6216\u50f9\u503c\u578b\u80a1\u7968\u3002\u4eca\u65e5\u672a\u6709\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u5f15\u7528\u4ee5\u78ba\u5b9a\u78ba\u5be6\u7684\u4e0b\u8dcc\u539f\u56e0\u3002",
+      "summary_en": "Broad-based risk-off selling hit tech-heavy indices hardest today, with the NASDAQ's 2.0% decline outpacing the S&P 500's 1.1% drop, a pattern typical of growth-stock de-risking. No specific company headlines were available in today's screening data to pinpoint a single catalyst. The sharper NASDAQ decline suggests investors were rotating out of higher-beta, higher-valuation names relative to the broader market.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u5448\u73fe\u660e\u986f\u7684\u907f\u96aa\u60c5\u7dd2,\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc2.0%,\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u6307\u6578\u76841.1%,\u986f\u793a\u8cc7\u91d1\u6b63\u5f9e\u9ad8\u4f30\u503c\u3001\u9ad8\u6ce2\u52d5\u7684\u6210\u9577\u80a1\u64a4\u96e2\u3002\u4eca\u65e5\u7be9\u9078\u6578\u64da\u4e2d\u4e26\u7121\u5177\u9ad4\u7684\u500b\u80a1\u6216\u7e3d\u9ad4\u7d93\u6fdf\u65b0\u805e\u53ef\u4f9b\u5f15\u7528\u4f5c\u70ba\u660e\u78ba\u5c0e\u706b\u7dda\u3002\u7d0d\u6307\u8dcc\u5e45\u8f03\u5927\u7684\u683c\u5c40,\u53cd\u6620\u6295\u8cc7\u4eba\u5728\u907f\u96aa\u6642\u512a\u5148\u6e1b\u78bc\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "'Risk-off' describes a market mood where investors pull back from riskier assets like growth stocks and move toward safer holdings or cash. On days like this, it's often smarter to hold your existing positions and skip new purchases rather than chase falling prices.",
-      "explanation_zh": "\u300crisk-off\u300d\uff08\u907f\u96aa\u60c5\u7dd2\uff09\u662f\u6307\u6295\u8cc7\u8005\u5728\u5e02\u6cc1\u4e0d\u660e\u6717\u6642\uff0c\u50be\u5411\u6e1b\u6301\u589e\u9577\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u8f49\u800c\u6301\u6709\u8f03\u5b89\u5168\u7684\u8cc7\u7522\u6216\u73fe\u91d1\u3002\u5728\u9019\u7a2e\u65e5\u5b50\uff0c\u6301\u6709\u73fe\u6709\u5009\u4f4d\u3001\u66ab\u7de9\u65b0\u8cb7\u5165\uff0c\u901a\u5e38\u6bd4\u8ffd\u9010\u4e0b\u8dcc\u80a1\u50f9\u66f4\u660e\u667a\u3002"
+      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets (like growth and tech stocks) and move toward safety, causing indices like the NASDAQ to fall harder than more diversified ones like the S&P 500. On days like this, the smart move is often to hold existing positions and avoid chasing new buys until conditions stabilize.",
+      "explanation_zh": "\u300c\u907f\u96aa\u300d(Risk-Off)\u662f\u6307\u6295\u8cc7\u4eba\u666e\u904d\u62cb\u552e\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522(\u5982\u6210\u9577\u80a1\u3001\u79d1\u6280\u80a1),\u8f49\u5411\u8f03\u5b89\u5168\u7684\u8cc7\u7522,\u9019\u6703\u5c0e\u81f4\u7d0d\u65af\u9054\u514b\u7b49\u6307\u6578\u7684\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u7b49\u8f03\u5206\u6563\u7684\u6307\u6578\u3002\u5728\u9019\u7a2e\u65e5\u5b50\u88e1,\u8f03\u660e\u667a\u7684\u505a\u6cd5\u901a\u5e38\u662f\u7e8c\u62b1\u73fe\u6709\u90e8\u4f4d,\u4e26\u907f\u514d\u8ffd\u52a0\u65b0\u7684\u8cb7\u5165,\u76f4\u5230\u5e02\u6cc1\u7a69\u5b9a\u4e0b\u4f86\u3002"
     }
   }
 }
