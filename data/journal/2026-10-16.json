@@ -1,34 +1,22 @@
 {
   "date": "2026-10-16",
-  "briefing": "Markets were directionless today with NASDAQ -0.7% and S&P 500 -0.1%, so we stuck to our highest-conviction setups rather than chasing overbought names. Cash was above the $500 threshold with 3 open slots, so per the risk rules we deployed into PAYP and VRNS (full multi-signal confirmation including volume surge) plus CLF (strong setup, less overbought), filling the portfolio to 10 positions while leaving existing holdings to run on their own stop-loss/profit-target rails.",
+  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.7%, S&P500 -0.1%), a neutral session with no clear risk-on or risk-off signal. Rather than holding all cash idle or forcing buys across the board, we selectively added VRNS, the one name on the list showing full multi-signal confirmation (trend, momentum, and volume all aligned).",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI in a bullish (not overbought) range, a MACD bullish crossover, price above the 20-day moving average, and a volume surge — to all line up before buying. When several signals agree, it's a stronger sign that real buying interest (not just noise) is driving the stock higher.",
-    "explanation_zh": "動量確認是指在買入前，等待多個技術指標同時發出一致訊號，例如RSI處於偏好但未過熱的區間、MACD出現黃金交叉、股價高於20日均線，以及成交量明顯放大。當多項訊號同時出現，代表背後有真實的買盤動力支持股價上升，而非單純的短暫波動。"
+    "term": "Signal Confirmation",
+    "explanation_en": "Signal confirmation means waiting until multiple independent indicators — like trend direction, momentum, price position, and trading volume — all point the same way before acting, instead of reacting to just one. It reduces the chance of chasing a false or short-lived move, especially on days when the overall market isn't giving a clear signal.",
+    "explanation_zh": "訊號確認是指等待多個獨立指標（例如趨勢方向、動能、價格位置及成交量）同時指向同一方向後才採取行動，而非單憑一個訊號貿然進場。這樣可以減少追逐虛假或短暫波動的風險，尤其是在大市方向不明朗的日子更為重要。"
   },
   "market_education": {
-    "summary_en": "Markets traded in a narrow, directionless range today, with the NASDAQ slipping 0.7% and the S&P 500 roughly flat at -0.1%, reflecting a lack of major catalysts rather than any sharp risk-off move. No single headline drove the session; the tape looked more like consolidation after recent gains, with mixed breadth across sectors. No specific news items were available to cite for today's session.",
-    "summary_zh": "今日大市窄幅波動，方向不明，納指下跌0.7%，標普500指數則微跌0.1%，反映市場缺乏重大催化因素，而非出現明顯的risk-off走勢。今日未有單一新聞主導盤面，走勢較似是近期升市後的整固階段，各板塊表現參差。今日並無具體新聞可供引用。",
+    "summary_en": "Today's session was quiet, with the NASDAQ down about 0.7% and the S&P 500 roughly flat, suggesting investors were in a wait-and-see mode rather than reacting to any single major catalyst. Without a strong directional push, broad indices drifted modestly lower while individual stocks diverged based on their own earnings and technical setups. In this kind of environment, stock-picking based on company-specific momentum tends to matter more than following the overall market trend.",
+    "summary_zh": "今日大市表現平淡，納指下跌約0.7%，標普500指數大致持平，顯示投資者普遍觀望，未見明顯的單一重大消息主導市場。在缺乏明確方向的情況下，大盤指數溫和下滑，但個股表現因應各自業績及技術走勢而分化。在這種環境下，根據個股動能挑選股票，往往比單純追蹤大盤走勢更為重要。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "PAYP",
-      "conviction": "high",
-      "reasoning": "Full signal confirmation (RSI 64.9 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) indicates strong institutional participation."
-    },
-    {
-      "action": "BUY",
       "ticker": "VRNS",
       "conviction": "high",
-      "reasoning": "Same full five-signal confirmation as PAYP with RSI 60.7 still well below overbought, offering a high-conviction entry on a neutral day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CLF",
-      "conviction": "medium",
-      "reasoning": "Score of 95 with RSI only 55.1 (least overbought of the high scorers) and a fresh MACD bullish crossover gives room to run before hitting overbought territory."
+      "reasoning": "Only candidate with all four confirmation signals (RSI bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge), indicating genuine institutional buying despite a neutral tape."
     }
   ],
   "outcomes": {
