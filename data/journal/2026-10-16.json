@@ -1,24 +1,17 @@
 {
   "date": "2026-10-16",
-  "briefing": "Markets were flat-to-slightly-down today (NASDAQ -0.7%, S&P500 -0.1%), a neutral session with no clear risk-on or risk-off signal. Rather than holding all cash idle or forcing buys across the board, we selectively added VRNS, the one name on the list showing full multi-signal confirmation (trend, momentum, and volume all aligned).",
+  "briefing": "Markets pulled back today with NASDAQ down 1.3% and the S&P 500 down 0.6%, a clear risk-off signal. No new candidates were available to screen, so we're holding our 7 existing positions and keeping the remaining cash in reserve rather than forcing a buy.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Signal confirmation means waiting until multiple independent indicators — like trend direction, momentum, price position, and trading volume — all point the same way before acting, instead of reacting to just one. It reduces the chance of chasing a false or short-lived move, especially on days when the overall market isn't giving a clear signal.",
-    "explanation_zh": "訊號確認是指等待多個獨立指標（例如趨勢方向、動能、價格位置及成交量）同時指向同一方向後才採取行動，而非單憑一個訊號貿然進場。這樣可以減少追逐虛假或短暫波動的風險，尤其是在大市方向不明朗的日子更為重要。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safety, often shown by tech-heavy indices like the NASDAQ falling more than broader markets. The right move on these days is usually to hold steady and avoid chasing new positions until conditions improve.",
+    "explanation_zh": "「避險情緒」(Risk-Off) 指投資者普遍賣出成長股等風險較高的資產，轉向較安全的資產，通常表現為科技股為主的納斯達克指數跌幅大於大盤。在這種日子，較正確的做法通常是按兵不動,等待市場環境改善後再考慮新的投資。"
   },
   "market_education": {
-    "summary_en": "Today's session was quiet, with the NASDAQ down about 0.7% and the S&P 500 roughly flat, suggesting investors were in a wait-and-see mode rather than reacting to any single major catalyst. Without a strong directional push, broad indices drifted modestly lower while individual stocks diverged based on their own earnings and technical setups. In this kind of environment, stock-picking based on company-specific momentum tends to matter more than following the overall market trend.",
-    "summary_zh": "今日大市表現平淡，納指下跌約0.7%，標普500指數大致持平，顯示投資者普遍觀望，未見明顯的單一重大消息主導市場。在缺乏明確方向的情況下，大盤指數溫和下滑，但個股表現因應各自業績及技術走勢而分化。在這種環境下，根據個股動能挑選股票，往往比單純追蹤大盤走勢更為重要。",
+    "summary_en": "Broad-based selling hit tech-heavy indices harder than the general market today, with the NASDAQ underperforming the S&P 500 by roughly double the decline. This pattern typically reflects profit-taking or risk aversion concentrated in higher-beta growth names rather than a single company-specific catalyst. No specific news headlines were available to confirm the exact driver today.",
+    "summary_zh": "今日大盤普遍遭拋售，科技股為主的納斯達克指數跌幅是標普500指數的兩倍左右，顯示資金從高波動成長股撤出的避險情緒較為明顯，而非單一個股消息所致。目前未有具體新聞標題可確認今日下跌的確切原因。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "VRNS",
-      "conviction": "high",
-      "reasoning": "Only candidate with all four confirmation signals (RSI bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and volume surge), indicating genuine institutional buying despite a neutral tape."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14555.735246181488,
     "cash": 989.2850012779236,
