@@ -1,22 +1,34 @@
 {
   "date": "2026-10-19",
-  "briefing": "Markets are risk-on today with NASDAQ up 1.2% and the S&P 500 up 0.6%. We deployed available cash into AMZN, the only candidate showing all four bullish confirmation signals including a volume surge, while holding our existing winners steady.",
+  "briefing": "NASDAQ +1.2% and S&P 500 +0.6% mark a clear risk-on day, so per the playbook we deployed idle cash into our three open slots. We added TSLA and AMZN for blue-chip momentum exposure plus KOD for a smaller-cap momentum play, all showing confirmed MACD crossovers and healthy (non-overbought) RSI readings. Existing positions are held unchanged since the market doesn't warrant trimming winners.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, healthy RSI, price above its moving average, and a volume surge — to all line up before buying, rather than acting on just one. This reduces the chance of chasing a false breakout.",
-    "explanation_zh": "「動能確認」是指在買入前，等待多個技術訊號（例如MACD金叉、RSI處於健康水平、股價高於均線，以及成交量放大）同時出現，而不是單憑一個訊號就進場。這樣可以減少追入「假突破」的風險。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strength tends to continue in the short term. Today we used signals like MACD crossovers and RSI to confirm that several candidates had genuine upward momentum, not just a random price bump, before deploying cash into them.",
+    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票，背後理念是短期內強勢股往往會延續升勢。今日我們利用MACD黃金交叉及RSI等技術指標，確認多隻候選股確實有真實的上升動能，而非單純的隨機波動，才決定將現金投入。"
   },
   "market_education": {
-    "summary_en": "Tech and broader equities rallied today, with the NASDAQ outpacing the S&P 500 as growth stocks led gains. Breadth was positive and volume picked up in several momentum names, consistent with risk appetite returning to the market. No major negative catalysts were evident, allowing bullish technical setups to extend.",
-    "summary_zh": "今日科技股帶動大市造好，納斯達克指數升幅跑贏標普500指數，顯示增長股再次成為市場焦點。多隻具動能的股份成交量明顯放大，反映資金風險偏好回升。市場未見明顯利淡消息，令原有的技術性好友訊號得以延續。",
+    "summary_en": "Broad market strength today, with the NASDAQ outpacing the S&P 500, suggests continued risk appetite concentrated in growth and tech-adjacent names. Multiple screened candidates showed simultaneous bullish MACD crossovers and healthy RSI readings, a pattern that often reflects broad institutional buying rather than isolated speculation. No specific news catalysts were provided for today's session.",
+    "summary_zh": "大市今日走強，納斯達克升幅超越標普500指數，反映市場風險偏好持續集中於科技及成長股。多隻篩選股同時出現MACD黃金交叉及RSI處於健康區間，顯示機構資金可能廣泛流入而非個別炒作。今日未有提供具體新聞催化因素。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
+      "ticker": "TSLA",
+      "conviction": "high",
+      "reasoning": "Mega-cap with RSI 56.8 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 on a risk-on day."
+    },
+    {
+      "action": "BUY",
       "ticker": "AMZN",
       "conviction": "high",
-      "reasoning": "Top-scoring candidate (100) with full multi-signal confirmation — MACD bullish crossover, RSI 66.9 in bullish zone, price above SMA-20, and a volume surge — on a risk-on day (NASDAQ +1.2%)."
+      "reasoning": "Top-scoring large-cap with RSI 65.1, confirmed MACD bullish crossover, and price above SMA-20, adding blue-chip diversification to a biotech/industrial-heavy book."
+    },
+    {
+      "action": "BUY",
+      "ticker": "KOD",
+      "conviction": "medium",
+      "reasoning": "Score 95 candidate with RSI 62.5 (not yet overbought), bullish MACD crossover with rising histogram, and price above SMA-20."
     }
   ],
   "outcomes": {

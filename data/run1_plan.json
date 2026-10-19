@@ -1,26 +1,38 @@
 {
-  "saved_at": "2026-10-19T18:00:47.380616+00:00",
+  "saved_at": "2026-10-19T19:00:52.226181+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
+        "ticker": "TSLA",
+        "conviction": "high",
+        "reasoning": "Mega-cap with RSI 56.8 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 on a risk-on day."
+      },
+      {
+        "action": "BUY",
         "ticker": "AMZN",
         "conviction": "high",
-        "reasoning": "Top-scoring candidate (100) with full multi-signal confirmation \u2014 MACD bullish crossover, RSI 66.9 in bullish zone, price above SMA-20, and a volume surge \u2014 on a risk-on day (NASDAQ +1.2%)."
+        "reasoning": "Top-scoring large-cap with RSI 65.1, confirmed MACD bullish crossover, and price above SMA-20, adding blue-chip diversification to a biotech/industrial-heavy book."
+      },
+      {
+        "action": "BUY",
+        "ticker": "KOD",
+        "conviction": "medium",
+        "reasoning": "Score 95 candidate with RSI 62.5 (not yet overbought), bullish MACD crossover with rising histogram, and price above SMA-20."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are risk-on today with NASDAQ up 1.2% and the S&P 500 up 0.6%. We deployed available cash into AMZN, the only candidate showing all four bullish confirmation signals including a volume surge, while holding our existing winners steady.",
+    "briefing": "NASDAQ +1.2% and S&P 500 +0.6% mark a clear risk-on day, so per the playbook we deployed idle cash into our three open slots. We added TSLA and AMZN for blue-chip momentum exposure plus KOD for a smaller-cap momentum play, all showing confirmed MACD crossovers and healthy (non-overbought) RSI readings. Existing positions are held unchanged since the market doesn't warrant trimming winners.",
     "market_education": {
-      "summary_en": "Tech and broader equities rallied today, with the NASDAQ outpacing the S&P 500 as growth stocks led gains. Breadth was positive and volume picked up in several momentum names, consistent with risk appetite returning to the market. No major negative catalysts were evident, allowing bullish technical setups to extend.",
-      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u80a1\u5e36\u52d5\u5927\u5e02\u9020\u597d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u986f\u793a\u589e\u9577\u80a1\u518d\u6b21\u6210\u70ba\u5e02\u5834\u7126\u9ede\u3002\u591a\u96bb\u5177\u52d5\u80fd\u7684\u80a1\u4efd\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\uff0c\u53cd\u6620\u8cc7\u91d1\u98a8\u96aa\u504f\u597d\u56de\u5347\u3002\u5e02\u5834\u672a\u898b\u660e\u986f\u5229\u6de1\u6d88\u606f\uff0c\u4ee4\u539f\u6709\u7684\u6280\u8853\u6027\u597d\u53cb\u8a0a\u865f\u5f97\u4ee5\u5ef6\u7e8c\u3002",
+      "summary_en": "Broad market strength today, with the NASDAQ outpacing the S&P 500, suggests continued risk appetite concentrated in growth and tech-adjacent names. Multiple screened candidates showed simultaneous bullish MACD crossovers and healthy RSI readings, a pattern that often reflects broad institutional buying rather than isolated speculation. No specific news catalysts were provided for today's session.",
+      "summary_zh": "\u5927\u5e02\u4eca\u65e5\u8d70\u5f37\uff0c\u7d0d\u65af\u9054\u514b\u5347\u5e45\u8d85\u8d8a\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u96c6\u4e2d\u65bc\u79d1\u6280\u53ca\u6210\u9577\u80a1\u3002\u591a\u96bb\u7be9\u9078\u80a1\u540c\u6642\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u53caRSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\uff0c\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u53ef\u80fd\u5ee3\u6cdb\u6d41\u5165\u800c\u975e\u500b\u5225\u7092\u4f5c\u3002\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u50ac\u5316\u56e0\u7d20\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like a MACD crossover, healthy RSI, price above its moving average, and a volume surge \u2014 to all line up before buying, rather than acting on just one. This reduces the chance of chasing a false breakout.",
-      "explanation_zh": "\u300c\u52d5\u80fd\u78ba\u8a8d\u300d\u662f\u6307\u5728\u8cb7\u5165\u524d\uff0c\u7b49\u5f85\u591a\u500b\u6280\u8853\u8a0a\u865f\uff08\u4f8b\u5982MACD\u91d1\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u6c34\u5e73\u3001\u80a1\u50f9\u9ad8\u65bc\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\uff09\u540c\u6642\u51fa\u73fe\uff0c\u800c\u4e0d\u662f\u55ae\u6191\u4e00\u500b\u8a0a\u865f\u5c31\u9032\u5834\u3002\u9019\u6a23\u53ef\u4ee5\u6e1b\u5c11\u8ffd\u5165\u300c\u5047\u7a81\u7834\u300d\u7684\u98a8\u96aa\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strength tends to continue in the short term. Today we used signals like MACD crossovers and RSI to confirm that several candidates had genuine upward momentum, not just a random price bump, before deploying cash into them.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u80cc\u5f8c\u7406\u5ff5\u662f\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u5f80\u5f80\u6703\u5ef6\u7e8c\u5347\u52e2\u3002\u4eca\u65e5\u6211\u5011\u5229\u7528MACD\u9ec3\u91d1\u4ea4\u53c9\u53caRSI\u7b49\u6280\u8853\u6307\u6a19\uff0c\u78ba\u8a8d\u591a\u96bb\u5019\u9078\u80a1\u78ba\u5be6\u6709\u771f\u5be6\u7684\u4e0a\u5347\u52d5\u80fd\uff0c\u800c\u975e\u55ae\u7d14\u7684\u96a8\u6a5f\u6ce2\u52d5\uff0c\u624d\u6c7a\u5b9a\u5c07\u73fe\u91d1\u6295\u5165\u3002"
     }
   }
 }
