@@ -1,34 +1,34 @@
 {
   "date": "2026-10-19",
-  "briefing": "NASDAQ +1.7% and S&P 500 +0.8% confirm a risk-on day, and with 3 open slots and cash above the deployment threshold, we filled all three with momentum names showing strong technical confirmation. TSLA stands out with full 5-signal confirmation including a volume surge; SMMT and RIG add cheap, diversified exposure with matching bullish RSI/MACD setups. Existing positions are held unchanged since nothing here warrants an exit on a bullish tape.",
+  "briefing": "NASDAQ rose 1.3% and S&P 500 rose 0.5% today, a clear risk-on signal. Following the lesson that strong risk-on days warrant deploying idle cash, we filled all 3 open slots with AMZN and TSLA (high conviction, mega-cap momentum) and RIG (medium conviction, energy diversification), all showing full multi-signal confirmation (RSI, MACD, SMA-20).",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strength tends to continue in the short term. Today's buys were chosen because multiple technical signals — rising price trend, bullish momentum indicators, and heavier-than-usual trading volume — all pointed the same direction at once, which lowers (but doesn't eliminate) the risk of chasing a false signal.",
-    "explanation_zh": "動能投資（Momentum Investing）是指買入已經處於上升趨勢的股票，理論基礎是短期內強勢股份往往會延續升勢。今日的買入選擇是因為多項技術指標——上升的價格趨勢、偏向好友的動能指標，以及高於平均的成交量——同時指向同一方向，這降低（但不能完全消除）追逐假訊號的風險。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means checking multiple indicators together — like RSI, MACD, and price versus moving averages — before buying, instead of relying on just one signal. When several indicators agree, it's a stronger sign that a stock's upward move is backed by real buying interest rather than random noise.",
+    "explanation_zh": "動量確認是指在買入前同時查看多個技術指標，例如RSI、MACD和股價相對於移動平均線的位置，而不是只依賴單一訊號。當多個指標同時指向同一方向時，代表股價上升背後有較真實的買盤支持，而非偶然的短暫波動。"
   },
   "market_education": {
-    "summary_en": "Markets rallied broadly today, with the NASDAQ outpacing the S&P 500 as growth and tech-adjacent names led gains. The breadth of bullish MACD crossovers and volume surges across the screened list (TSLA, SNDK, SPCX, ARQT) points to broad institutional buying rather than an isolated move. No major stop-loss or profit-target triggers fired in the existing portfolio, consistent with a steady risk-on tone rather than volatility-driven swings.",
-    "summary_zh": "今日大市普遍上揚，納斯達克升幅高於標普500指數，反映科技及成長股領漲。篩選名單中多隻股票（如TSLA、SNDK、SPCX、ARQT）同時出現MACD黃金交叉及成交量放大，顯示機構資金廣泛流入，而非個別股份的孤立波動。現有持倉未觸發止蝕或獲利點，顯示今日屬穩定的風險偏好（risk-on）格局，而非劇烈波動行情。",
+    "summary_en": "Markets advanced broadly today with the NASDAQ outpacing the S&P 500, suggesting renewed appetite for growth and tech-oriented names. Breadth signals like rising MACD histograms and bullish-zone RSI readings across multiple large-cap names point to healthy, broad-based buying rather than a narrow speculative spike. The move aligns with a continuation of the risk-on tone that has characterized recent sessions.",
+    "summary_zh": "今日大市普遍上揚，納斯達克指數升幅跑贏標普500指數，反映市場對增長股及科技股的興趣回升。多隻大型股的MACD柱狀圖持續走高，加上RSI處於偏多但未過熱的區間，顯示資金流入屬於廣泛而健康的買盤,而非單一板塊的投機炒作。這波升勢延續了近期市場的risk-on（風險偏好）氣氛。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TSLA",
+      "ticker": "AMZN",
       "conviction": "high",
-      "reasoning": "Full signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge — the exact institutional-participation setup our strategy memory calls for on a risk-on day."
+      "reasoning": "Mega-cap with RSI 66.4 in bullish zone, MACD bullish crossover, rising histogram, and price above SMA-20 on a risk-on day — full multi-signal confirmation."
     },
     {
       "action": "BUY",
-      "ticker": "SMMT",
-      "conviction": "medium",
-      "reasoning": "Bullish RSI (56.6) with MACD crossover and rising histogram above SMA-20 gives solid multi-signal confirmation at a low price point for diversification."
+      "ticker": "TSLA",
+      "conviction": "high",
+      "reasoning": "RSI 57.5 in healthy bullish range with MACD crossover and rising histogram confirms institutional buying momentum alongside the NASDAQ rally."
     },
     {
       "action": "BUY",
       "ticker": "RIG",
       "conviction": "medium",
-      "reasoning": "Same bullish RSI/MACD/SMA-20 confirmation pattern at a very low share price, letting us fill the last open slot cheaply while deploying idle cash as the risk rules prefer."
+      "reasoning": "Energy sector pick diversifies away from the portfolio's tech/semiconductor concentration while still showing full bullish signal confirmation (RSI 68.5, MACD crossover, rising histogram)."
     }
   ],
   "outcomes": {
