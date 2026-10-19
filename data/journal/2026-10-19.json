@@ -1,34 +1,28 @@
 {
   "date": "2026-10-19",
-  "briefing": "NASDAQ +1.2% and S&P 500 +0.6% mark a clear risk-on day, so per the playbook we deployed idle cash into our three open slots. We added TSLA and AMZN for blue-chip momentum exposure plus KOD for a smaller-cap momentum play, all showing confirmed MACD crossovers and healthy (non-overbought) RSI readings. Existing positions are held unchanged since the market doesn't warrant trimming winners.",
+  "briefing": "Markets were modestly positive but not a strong risk-on day (NASDAQ +1.1%, S&P +0.4%), so we held our seven existing positions rather than touching winners. We did add CLF and MANE, the only two candidates showing all four bullish confirmation signals together (RSI, MACD crossover, price above SMA-20, and a volume surge), filling 2 of our 3 open slots with genuinely high-conviction setups rather than deploying cash indiscriminately.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strength tends to continue in the short term. Today we used signals like MACD crossovers and RSI to confirm that several candidates had genuine upward momentum, not just a random price bump, before deploying cash into them.",
-    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票，背後理念是短期內強勢股往往會延續升勢。今日我們利用MACD黃金交叉及RSI等技術指標，確認多隻候選股確實有真實的上升動能，而非單純的隨機波動，才決定將現金投入。"
+    "term": "Technical Confluence",
+    "explanation_en": "Technical confluence means multiple independent indicators — like RSI, MACD, moving averages, and volume — all point the same direction at once. When several signals agree, the odds of a real, sustained move are higher than when only one signal flashes, which is why today's buys were limited to stocks showing all four confirming signals.",
+    "explanation_zh": "技術指標共振（Technical Confluence）是指多個獨立的技術指標——例如RSI、MACD、移動平均線和成交量——同時指向同一個方向。當多個訊號一致時，真正且持續的走勢出現的機率會比只有單一訊號時更高，這也是為什麼今天只選擇了同時符合全部四項確認訊號的股票進行買入。"
   },
   "market_education": {
-    "summary_en": "Broad market strength today, with the NASDAQ outpacing the S&P 500, suggests continued risk appetite concentrated in growth and tech-adjacent names. Multiple screened candidates showed simultaneous bullish MACD crossovers and healthy RSI readings, a pattern that often reflects broad institutional buying rather than isolated speculation. No specific news catalysts were provided for today's session.",
-    "summary_zh": "大市今日走強，納斯達克升幅超越標普500指數，反映市場風險偏好持續集中於科技及成長股。多隻篩選股同時出現MACD黃金交叉及RSI處於健康區間，顯示機構資金可能廣泛流入而非個別炒作。今日未有提供具體新聞催化因素。",
+    "summary_en": "Equities drifted higher in moderate, broad-based trading with tech leading slightly ahead of the broader market. There was no single dominant catalyst reported today; the move looks more like continued grinding momentum than a reaction to a specific headline. Volume patterns in a handful of small and mid-cap names (notably CLF and MANE) suggest targeted institutional buying rather than market-wide euphoria.",
+    "summary_zh": "今日股市在溫和、普遍性的交投中小幅走高，科技股表現略勝大盤一籌。市場上未見明顯的單一催化消息，今日的上漲更像是延續性的動能推進，而非針對某則新聞的反應。部分中小型股（特別是CLF和MANE）的成交量異常放大，顯示可能有機構資金針對性進場，而非全市場性的狂熱追捧。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TSLA",
+      "ticker": "CLF",
       "conviction": "high",
-      "reasoning": "Mega-cap with RSI 56.8 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 on a risk-on day."
+      "reasoning": "All four confirming signals align (RSI in bullish zone, MACD bullish crossover, price above SMA-20, volume surge) indicating genuine institutional participation."
     },
     {
       "action": "BUY",
-      "ticker": "AMZN",
+      "ticker": "MANE",
       "conviction": "high",
-      "reasoning": "Top-scoring large-cap with RSI 65.1, confirmed MACD bullish crossover, and price above SMA-20, adding blue-chip diversification to a biotech/industrial-heavy book."
-    },
-    {
-      "action": "BUY",
-      "ticker": "KOD",
-      "conviction": "medium",
-      "reasoning": "Score 95 candidate with RSI 62.5 (not yet overbought), bullish MACD crossover with rising histogram, and price above SMA-20."
+      "reasoning": "Same full four-signal confirmation as CLF plus top momentum score, making it one of the strongest setups on the screened list today."
     }
   ],
   "outcomes": {
