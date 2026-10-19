@@ -1,28 +1,34 @@
 {
   "date": "2026-10-19",
-  "briefing": "Markets were modestly positive today (NASDAQ +0.9%, S&P500 +0.4%) rather than a strong risk-on day, so we stayed selective instead of deploying into every open slot. CLF and PKX were the only candidates showing full multi-signal confirmation (momentum, trend, and volume all aligned), so we used two of our three open slots on those while leaving the rest of our cash in reserve.",
+  "briefing": "NASDAQ +1.4% and S&P 500 +0.6% mark a risk-on day, and with 3 open slots and cash above the $500 threshold we deployed into our top-scoring candidates. AMZN gets high conviction on a full 4-signal confirmation, while ASST and RIG add medium-conviction diversification.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple signals to align — like RSI in a healthy bullish range, a MACD crossover, price above its moving average, and a volume surge — before trusting a stock's upward move. A single bullish signal can be noise, but when four line up together it suggests real buying interest, which is why only CLF and PKX qualified for new buys today.",
-    "explanation_zh": "動量確認是指等待多個訊號同時出現——例如RSI處於健康的上升區間、MACD黃金交叉、股價高於移動平均線，以及成交量放大——才相信股價的上升趨勢。單一的利好訊號可能只是噪音，但當四個訊號同時出現時，往往代表真正的買盤興趣，這正是今日只有CLF和PKX符合進場條件的原因。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of relying on a single indicator, traders look for several bullish signals lining up together — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all of these agree, it's a stronger signal of real buying interest rather than random noise.",
+    "explanation_zh": "交易者不會只靠單一指標做決定，而是尋找多個利好訊號同時出現——例如RSI處於健康區間、MACD出現黃金交叉、股價高於均線，加上成交量放大。當這些訊號同時成立時，代表買盤動力較為真實，而非單純的隨機波動。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted modestly higher today without any single dominant catalyst, consistent with a steady, low-volatility grind rather than a sharp risk-on rally. Materials and metals names like CLF and PKX stood out with above-average volume, suggesting sector-specific buying interest rather than a market-wide rotation. Without a strong macro trigger (like a Fed announcement or major earnings surprise), most stocks lacked the volume confirmation needed to justify new high-conviction entries today.",
-    "summary_zh": "今日大盤溫和上揚，NASDAQ升0.9%，S&P500升0.4%，但未見明顯的單一催化因素，較像是穩步爬升而非強烈的風險偏好行情。CLF及PKX等原材料與金屬股成交量明顯放大，顯示資金流向個別板塊而非全市場輪動。由於缺乏強力宏觀觸發因素（如聯儲局言論或重大盈利意外），大部分股票未能同時滿足動量與成交量確認條件，故今日僅精選符合完整訊號的標的進場。",
+    "summary_en": "Markets traded broadly higher today with the NASDAQ outpacing the S&P 500, suggesting renewed appetite for growth and tech names. No specific news catalysts were available in today's feed, so the move appears driven by continued momentum in large-cap tech and semiconductor-adjacent names. Breadth of bullish technical signals (MACD crossovers, rising volume) across the screened list reinforces a risk-on tone.",
+    "summary_zh": "今日大市普遍向好，納指升幅跑贏標普500指數，反映市場對增長股及科技股的risk appetite有所回升。今日資訊中未見具體新聞觸發事件，估計升勢主要由大型科技股及半導體相關股份的持續動能帶動。篩選名單中多隻股份同時出現MACD黃金交叉及成交量放大等利好技術信號，進一步確認risk-on格局。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CLF",
+      "ticker": "AMZN",
       "conviction": "high",
-      "reasoning": "CLF shows all four confirmation signals (RSI 65.3 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge) indicating genuine institutional buying rather than noise."
+      "reasoning": "Full four-signal confirmation (bullish RSI zone, MACD crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "PKX",
-      "conviction": "high",
-      "reasoning": "PKX matches the same full multi-signal setup as CLF (RSI 68.6, MACD crossover, rising histogram, price above SMA-20, volume surge), making it a high-conviction candidate despite the broader market being only mildly positive."
+      "ticker": "ASST",
+      "conviction": "medium",
+      "reasoning": "Bullish RSI zone with MACD crossover and price above SMA-20 gives solid but not full confirmation."
+    },
+    {
+      "action": "BUY",
+      "ticker": "RIG",
+      "conviction": "medium",
+      "reasoning": "RSI in bullish zone with MACD crossover and price above SMA-20 supports a medium-conviction add while diversifying away from tech."
     }
   ],
   "outcomes": {
