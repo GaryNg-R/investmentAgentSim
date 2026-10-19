@@ -1,16 +1,30 @@
 {
   "date": "2026-10-19",
-  "briefing": "Markets sold off sharply today with NASDAQ down 2.1% and the S&P 500 down 1.1%, triggering a risk-off screen with no qualifying candidates. We're holding all 7 existing positions unchanged and keeping cash on the sidelines rather than forcing a buy into weakness.",
+  "briefing": "Markets were modestly positive today (NASDAQ +0.9%, S&P500 +0.4%) rather than a strong risk-on day, so we stayed selective instead of deploying into every open slot. CLF and PKX were the only candidates showing full multi-signal confirmation (momentum, trend, and volume all aligned), so we used two of our three open slots on those while leaving the rest of our cash in reserve.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and tech, often moving into cash or safer assets instead. On days like this, disciplined investors avoid forcing new trades and instead protect existing gains by holding steady and letting stop-losses and profit targets do their job.",
-    "explanation_zh": "「避險」(Risk-Off) 是指投資者普遍拋售風險較高的資產,例如增長股和科技股,轉而持有現金或更安全的資產。在這種日子裡,有紀律的投資者會避免強行進行新交易,而是透過按兵不動來保護現有收益,讓止損和獲利目標機制自動發揮作用。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple signals to align — like RSI in a healthy bullish range, a MACD crossover, price above its moving average, and a volume surge — before trusting a stock's upward move. A single bullish signal can be noise, but when four line up together it suggests real buying interest, which is why only CLF and PKX qualified for new buys today.",
+    "explanation_zh": "動量確認是指等待多個訊號同時出現——例如RSI處於健康的上升區間、MACD黃金交叉、股價高於移動平均線，以及成交量放大——才相信股價的上升趨勢。單一的利好訊號可能只是噪音，但當四個訊號同時出現時，往往代表真正的買盤興趣，這正是今日只有CLF和PKX符合進場條件的原因。"
   },
   "market_education": {
-    "summary_en": "Broad-based selling hit technology and growth names hardest today, pulling the NASDAQ down more than double the S&P 500's decline, a pattern typical of risk-off days when investors rotate out of higher-beta assets. Without specific news headlines available for today, the move appears driven by general market risk-aversion rather than a single catalyst. In risk-off conditions like this, the screener correctly returned no new candidates, reinforcing the discipline to wait rather than chase.",
-    "summary_zh": "今日市場廣泛拋售,科技股及增長股受創最深,帶動納斯達克指數跌幅超過標普500指數的兩倍,這是典型的避險日模式,投資者從高波動資產中撤出。由於今日未有具體新聞頭條可供參考,此次下跌似乎是由整體市場避險情緒驅動,而非單一事件觸發。在這種避險環境下,篩選系統正確地未篩出任何新候選股,這印證了按兵不動、等待時機的紀律。"
+    "summary_en": "Broad indices drifted modestly higher today without any single dominant catalyst, consistent with a steady, low-volatility grind rather than a sharp risk-on rally. Materials and metals names like CLF and PKX stood out with above-average volume, suggesting sector-specific buying interest rather than a market-wide rotation. Without a strong macro trigger (like a Fed announcement or major earnings surprise), most stocks lacked the volume confirmation needed to justify new high-conviction entries today.",
+    "summary_zh": "今日大盤溫和上揚，NASDAQ升0.9%，S&P500升0.4%，但未見明顯的單一催化因素，較像是穩步爬升而非強烈的風險偏好行情。CLF及PKX等原材料與金屬股成交量明顯放大，顯示資金流向個別板塊而非全市場輪動。由於缺乏強力宏觀觸發因素（如聯儲局言論或重大盈利意外），大部分股票未能同時滿足動量與成交量確認條件，故今日僅精選符合完整訊號的標的進場。",
+    "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "CLF",
+      "conviction": "high",
+      "reasoning": "CLF shows all four confirmation signals (RSI 65.3 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge) indicating genuine institutional buying rather than noise."
+    },
+    {
+      "action": "BUY",
+      "ticker": "PKX",
+      "conviction": "high",
+      "reasoning": "PKX matches the same full multi-signal setup as CLF (RSI 68.6, MACD crossover, rising histogram, price above SMA-20, volume surge), making it a high-conviction candidate despite the broader market being only mildly positive."
+    }
+  ],
   "outcomes": {
     "total_value": 14655.735246181488,
     "cash": 1089.2850012779236,
