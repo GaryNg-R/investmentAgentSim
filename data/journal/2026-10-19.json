@@ -1,14 +1,14 @@
 {
   "date": "2026-10-19",
-  "briefing": "Markets were modestly positive but not a strong risk-on day (NASDAQ +1.1%, S&P +0.4%), so we held our seven existing positions rather than touching winners. We did add CLF and MANE, the only two candidates showing all four bullish confirmation signals together (RSI, MACD crossover, price above SMA-20, and a volume surge), filling 2 of our 3 open slots with genuinely high-conviction setups rather than deploying cash indiscriminately.",
+  "briefing": "Markets were modestly positive and neutral in tone (NASDAQ +1.1%, S&P500 +0.4%), but several screened stocks showed full multi-signal bullish confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge). With 3 open slots and cash above the $500 deployment threshold, we bought CLF, SYRE, and MANE on strong stock-specific technical conviction rather than waiting on a broader market signal.",
   "daily_lesson": {
-    "term": "Technical Confluence",
-    "explanation_en": "Technical confluence means multiple independent indicators — like RSI, MACD, moving averages, and volume — all point the same direction at once. When several signals agree, the odds of a real, sustained move are higher than when only one signal flashes, which is why today's buys were limited to stocks showing all four confirming signals.",
-    "explanation_zh": "技術指標共振（Technical Confluence）是指多個獨立的技術指標——例如RSI、MACD、移動平均線和成交量——同時指向同一個方向。當多個訊號一致時，真正且持續的走勢出現的機率會比只有單一訊號時更高，這也是為什麼今天只選擇了同時符合全部四項確認訊號的股票進行買入。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means a stock shows several independent bullish signals at once — like price above its moving average, a MACD crossover, healthy RSI, and a volume surge — rather than just one. When multiple signals line up together, it's a stronger sign that real buying interest (not just noise) is driving the move, which is why today's buys were chosen even though the overall market was only mildly positive.",
+    "explanation_zh": "動能確認是指一隻股票同時出現多個獨立的看漲訊號——例如股價高於移動平均線、MACD出現黃金交叉、RSI處於健康區間,以及成交量明顯放大——而不只是單一訊號。當多個訊號同時出現,代表背後有真實買盤支持,而非偶然波動,這正是今天即使大盤只屬溫和向好,仍選擇買入相關股份的原因。"
   },
   "market_education": {
-    "summary_en": "Equities drifted higher in moderate, broad-based trading with tech leading slightly ahead of the broader market. There was no single dominant catalyst reported today; the move looks more like continued grinding momentum than a reaction to a specific headline. Volume patterns in a handful of small and mid-cap names (notably CLF and MANE) suggest targeted institutional buying rather than market-wide euphoria.",
-    "summary_zh": "今日股市在溫和、普遍性的交投中小幅走高，科技股表現略勝大盤一籌。市場上未見明顯的單一催化消息，今日的上漲更像是延續性的動能推進，而非針對某則新聞的反應。部分中小型股（特別是CLF和MANE）的成交量異常放大，顯示可能有機構資金針對性進場，而非全市場性的狂熱追捧。",
+    "summary_en": "Broad indices drifted modestly higher in a quiet session, with the S&P 500 up 0.4% and the Nasdaq up 1.1%, reflecting steady but unspectacular risk appetite rather than a decisive move in either direction. Within this calm backdrop, a cluster of smaller-cap names posted outsized volume and momentum signals, suggesting targeted institutional buying in specific stocks even as the overall market stayed range-bound. This kind of divergence — flat index, hot individual names — is typical of stock-picking environments where sector or company-specific catalysts matter more than macro news.",
+    "summary_zh": "大盤今日走勢溫和,標普500指數上升0.4%,納斯達克指數上升1.1%,反映市場風險胃納穩定但未見明顯方向性變化。在這相對平靜的大環境下,部分細價股卻錄得異常成交量及動能訊號,顯示資金正針對個別股份進行部署,即使大盤整體仍處於區間震盪。這種「大盤平穩、個股發熱」的現象,通常意味著當下市場更著重個股及板塊因素,多於宏觀消息。",
     "sources": []
   },
   "trades": [
@@ -16,13 +16,19 @@
       "action": "BUY",
       "ticker": "CLF",
       "conviction": "high",
-      "reasoning": "All four confirming signals align (RSI in bullish zone, MACD bullish crossover, price above SMA-20, volume surge) indicating genuine institutional participation."
+      "reasoning": "Full 4-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) at the top score of 95, filling an open slot with idle cash above the deployment threshold."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SYRE",
+      "conviction": "high",
+      "reasoning": "Same full 4-signal bullish confirmation as CLF with score 95, adding sector diversification away from existing materials/tech holdings."
     },
     {
       "action": "BUY",
       "ticker": "MANE",
       "conviction": "high",
-      "reasoning": "Same full four-signal confirmation as CLF plus top momentum score, making it one of the strongest setups on the screened list today."
+      "reasoning": "Score 95 with all four bullish signals confirmed, a genuine multi-signal setup worth deploying cash into rather than holding idle."
     }
   ],
   "outcomes": {
