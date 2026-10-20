@@ -1,28 +1,34 @@
 {
   "date": "2026-10-20",
-  "briefing": "Markets were mildly risk-on today with NASDAQ +0.5% and S&P 500 +0.7%. With 3 open slots and cash above the $500 threshold, we deployed into AAL and TSLA, the two candidates showing complete bullish signal confirmation, while keeping one slot and some cash in reserve since today's rally wasn't a strong broad-based surge.",
+  "briefing": "Markets were quietly positive today (NASDAQ +0.3%, S&P 500 +0.5%) with no major risk-on or risk-off signal. With 3 open slots and cash above the deployment threshold, we added three diversified, high-scoring momentum names (RCUS, CELC, NU) at medium conviction rather than holding idle cash, while leaving existing winners untouched.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, bullish RSI, price above its moving average, and a volume surge — to line up together before buying, rather than acting on just one signal. This reduces the chance of buying into a false breakout.",
-    "explanation_zh": "動能確認是指在買入前等待多個技術信號同時出現,例如MACD黃金交叉、RSI處於多頭區間、股價站上均線,以及成交量放大,而不是只憑單一信號就進場。這樣可以降低誤判假突破的風險。"
+    "term": "Diversification",
+    "explanation_en": "Diversification means spreading your money across different companies and sectors so that no single bad outcome sinks your whole portfolio. Today's new buys (fintech, pharma, biotech) were chosen partly because they don't overlap with existing holdings like semiconductors or ETFs, reducing the risk that one sector's downturn hurts the whole account.",
+    "explanation_zh": "分散投資是指將資金分配到不同公司及行業，避免單一壞消息拖垮整個投資組合。今日新買入的股票（金融科技、製藥、生物科技）之所以被選中，部分原因是它們與現有持倉（如半導體或ETF）重疊度低，有助降低單一行業下跌對整體帳戶的衝擊。"
   },
   "market_education": {
-    "summary_en": "Broad equity indices drifted modestly higher today, with the S&P 500 outperforming the NASDAQ slightly, consistent with a steady risk-on tone rather than a sharp rally. Breadth was supportive as several mid-cap names showed volume-backed breakouts above short-term moving averages. Without a single dominant catalyst, the move looks more like continued institutional accumulation than a news-driven spike.",
-    "summary_zh": "今日大盤溫和走高,標普500表現略優於納斯達克,反映穩健的風險偏好情緒而非急漲行情。市場廣度良好,部分中型股出現放量突破短期均線的技術信號。由於沒有單一主導消息面催化,此次上漲更像是機構資金持續布局,而非新聞驅動的急漲。",
+    "summary_en": "Markets drifted modestly higher today without a clear single catalyst, consistent with a quiet mid-week session where neither strong economic data nor major corporate news dominated trading. The S&P 500's 0.5% gain and NASDAQ's smaller 0.3% move suggest broad, low-conviction buying rather than a sector-specific rally. No major news events were available to cite for today's session.",
+    "summary_zh": "今日市況溫和上揚，未見明顯單一催化劑，符合週中交投淡靜、缺乏重大經濟數據或企業新聞主導的格局。標普500指數升0.5%，納指升幅較小僅0.3%，反映資金廣泛但信心不強地流入市場，而非個別板塊帶動的升浪。今日未有重大新聞可供引用。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AAL",
-      "conviction": "high",
-      "reasoning": "Full five-signal bullish confirmation (MACD crossover, rising histogram, bullish RSI, price above SMA-20, volume surge) with top momentum score of 100."
+      "ticker": "RCUS",
+      "conviction": "medium",
+      "reasoning": "Bullish RSI, MACD crossover and price above SMA-20 show healthy momentum, though lacking a volume surge keeps conviction medium."
     },
     {
       "action": "BUY",
-      "ticker": "TSLA",
-      "conviction": "high",
-      "reasoning": "Matches all four institutional-participation signals from strategy memory with top score of 100 and no overlap with existing holdings."
+      "ticker": "CELC",
+      "conviction": "medium",
+      "reasoning": "Clean bullish setup (RSI 58, MACD crossover, rising histogram, price above SMA-20) adds pharma exposure uncorrelated with current holdings."
+    },
+    {
+      "action": "BUY",
+      "ticker": "NU",
+      "conviction": "medium",
+      "reasoning": "Strong bullish momentum signals and diversifies the portfolio into fintech, filling an open slot with idle cash as risk rules prefer."
     }
   ],
   "outcomes": {
