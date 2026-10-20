@@ -1,17 +1,30 @@
 {
   "date": "2026-10-20",
-  "briefing": "Markets were flat and directionless today (NASDAQ -0.0%, S&P 500 +0.3%), with no clear risk-on signal. Per past lessons, we're holding our 7 positions and keeping the $1,089 cash reserve rather than forcing a buy into a neutral tape — we'll deploy into open slots once a genuine risk-on setup (e.g. NASDAQ +2% day) appears.",
+  "briefing": "Markets were flat today (NASDAQ -0.0%, S&P500 +0.3%), a neutral session with no broad risk-on or risk-off signal. Rather than force capital into mediocre setups, we selectively added EQPT on its full multi-signal confirmation and SPHR as a secondary high-quality setup, keeping one slot open for a stronger risk-on day. Existing positions are held unchanged, letting stop-loss and profit-target rules manage them automatically.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to invest when a strong opportunity appears. On neutral market days like today, disciplined investors often hold cash rather than force trades, saving their buying power for a clearer risk-on signal.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者預留在場邊、等待良機出手的現金。在像今日這種方向不明的中性市況下，有紀律的投資者通常會持有現金而非勉強進場，將購買力留待更明確的風險偏好訊號出現時再部署。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators — like RSI, MACD, moving averages, and volume — all point the same direction at once. A single bullish signal can be noise, but when four or five line up together, it suggests real conviction behind the move, not just a random blip.",
+    "explanation_zh": "多重信號確認是指只有當多個獨立的技術指標——例如RSI、MACD、均線及成交量——同時指向同一方向時,才採取交易行動。單一的看漲信號可能只是雜訊,但當四至五個指標同時吻合時,便顯示這波走勢背後有真正的動能支持,而非偶然波動。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially unchanged today, with the S&P 500 inching up 0.3% while the NASDAQ was flat, suggesting investors are in a wait-and-see mode without a strong catalyst in either direction. No major market-moving headlines were provided for today's session, so the muted move likely reflects consolidation after recent gains rather than new negative or positive news. This kind of quiet, low-conviction trading day is typical ahead of upcoming economic data or earnings catalysts.",
-    "summary_zh": "今日大市大致持平，標普500微升0.3%，納指則報平盤，反映投資者在缺乏明確方向性消息下採取觀望態度。今日並無重大市場消息可供參考，故估計這波溫和波動屬於近期升勢後的整固，而非新的利好或利淡因素所致。這種低波動、觀望性質的交易日，通常會在重要經濟數據或業績公布前出現。",
+    "summary_en": "Today's session was largely directionless, with the NASDAQ roughly flat and the S&P500 up a modest 0.3%, suggesting investors were in a wait-and-see mode rather than reacting to any major catalyst. Without a clear macro trigger, individual stock-level technicals — like volume surges and MACD crossovers — became the more reliable signal for finding opportunities. This favors a selective, bottom-up approach over broad index-wide moves on days like this.",
+    "summary_zh": "今日大市方向不明,納指幾乎持平,標普500僅微升0.3%,反映投資者普遍採取觀望態度,未有明顯催化劑帶動大盤走勢。在缺乏宏觀主線的情況下,個股層面的技術信號(例如成交量放大、MACD黃金交叉)反而成為尋找機會更可靠的依據。這類市況下,精選個股的策略通常比追逐大盤走勢更為合適。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "EQPT",
+      "conviction": "high",
+      "reasoning": "Top-scoring candidate (100) with all five bullish signals aligned — RSI 68.7, MACD crossover, rising histogram, price above SMA-20, and volume surge — indicating genuine institutional participation despite a neutral broader tape."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SPHR",
+      "conviction": "medium",
+      "reasoning": "Strong secondary candidate with MACD bullish crossover, price above SMA-20, and a volume surge confirming the breakout, deploying a portion of idle cash into one open slot."
+    }
+  ],
   "outcomes": {
     "total_value": 14655.735246181488,
     "cash": 1089.2850012779236,
