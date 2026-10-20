@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-20",
+  "briefing": "Markets were modestly positive today (NASDAQ +1.1%, S&P500 +0.4%) but not a strong risk-on surge, so we deployed into only our two best fully-confirmed setups (MANE, SYRE) rather than forcing all three open slots. Existing positions are held unchanged per the stop-loss/profit-target rules already in place.",
+  "daily_lesson": {
+    "term": "Capital Discipline",
+    "explanation_en": "Just because you have cash and open slots doesn't mean you must invest all of it every day. Smart investors only deploy capital when a stock shows strong, confirmed signals — otherwise they wait, keeping some cash in reserve for better opportunities.",
+    "explanation_zh": "即使手上有現金及空置倉位，也不代表每日都要全數投入。精明的投資者只會在股票出現強勁且經確認的訊號時才動用資金，否則寧願保留現金，等待更好的入市時機。"
+  },
+  "market_education": {
+    "summary_en": "Equity indices drifted higher today in a broad, low-conviction advance, with the NASDAQ outpacing the S&P 500 as growth-oriented names led modestly. No major market-moving headlines were identified in today's screen, so the move looks like routine continuation rather than a reaction to new catalysts. Breadth was positive but unspectacular, consistent with a neutral overall market tone.",
+    "summary_zh": "今日美股溫和上揚，納指升1.1%，標普500升0.4%，成長股表現稍為領先大盤。由於今日未見重大市場消息或催化劑，這波升勢較似屬慣性延續，而非受突發新聞帶動。大市廣度正面但力度溫和，整體市況維持中性格局。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "MANE",
+      "conviction": "high",
+      "reasoning": "Full four-signal confirmation (RSI 66.1, MACD crossover, price above SMA-20, volume surge) with a healthy non-overbought RSI."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SYRE",
+      "conviction": "medium",
+      "reasoning": "Full four-signal confirmation with RSI 61.9 in the bullish zone, adding sector diversification away from existing holdings."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14655.735246181488,
+    "cash": 1089.2850012779236,
+    "pnl_dollar": 4655.735246181488,
+    "pnl_pct": 46.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
