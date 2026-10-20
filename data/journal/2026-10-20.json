@@ -1,28 +1,28 @@
 {
   "date": "2026-10-20",
-  "briefing": "Markets were flat today (NASDAQ +0.1%, S&P500 +0.3%) with no clear risk-on or risk-off signal. With $1089 in cash and 3 open slots, we made two modest, medium-conviction additions (HSAI, AGNC) from the strongest non-overbought setups rather than deploying aggressively, keeping the bulk of existing winners untouched per prior lessons on not overtrading neutral days.",
+  "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.2%, S&P500 +0.4%), a neutral session with no strong directional catalyst. With cash above the deployment threshold and two open position slots, we added two well-confirmed momentum names (SLS, AGNC) while leaving one slot and cash reserve for a stronger risk-on setup, consistent with existing positions being held through the quiet session.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means checking multiple indicators together — like RSI, MACD, and price versus a moving average — before trusting a bullish signal. A stock with RSI in the 55-70 'healthy' range, a bullish MACD crossover, and price above its 20-day average is showing broader agreement that buyers are in control, which is more reliable than any single indicator alone.",
-    "explanation_zh": "動能確認是指在信任一個買入訊號之前，同時檢查多個技術指標，例如RSI、MACD和股價與移動平均線的關係。當一隻股票的RSI處於55至70的「健康」區間、MACD出現黃金交叉，且股價高於20日平均線時，這代表多項指標一致顯示買方佔優，比單一指標更具參考價值。"
+    "term": "Signal Confirmation",
+    "explanation_en": "Signal confirmation means only acting on a trade idea when multiple independent technical indicators — like RSI, MACD, and price relative to its moving average — all point the same direction at once. This reduces the chance of chasing a false signal from a single noisy indicator, and today's buys were chosen because they showed this kind of agreement without being overbought.",
+    "explanation_zh": "訊號確認是指只有在多個獨立技術指標（例如RSI、MACD及股價相對於移動平均線的位置）同時指向同一方向時，才採取交易行動。這樣可以減少單一指標出現噪音訊號而誤判的機會，今日所選的買入標的正是因為同時符合多項確認條件，且未達超買水平。"
   },
   "market_education": {
-    "summary_en": "Broad indices were essentially flat today, with the S&P 500 up 0.3% and the NASDAQ up just 0.1%, suggesting investors are in a wait-and-see mode rather than reacting to a major catalyst. No single large news event drove price action, and the modest gains likely reflect routine trading rather than a shift in sentiment. This kind of low-volatility, directionless session is common between major economic data releases or earnings reports.",
-    "summary_zh": "今日大盤表現平淡，標普500指數僅升0.3%，納斯達克指數更只微升0.1%，顯示投資者普遍處於觀望狀態，未見明顯催化劑帶動走勢。市場上並無重大新聞事件主導價格變化，溫和的升幅較大機會只是常規交易所致，而非市場情緒出現轉向。這種低波動、方向不明確的交易日，通常出現在重要經濟數據或財報公佈之間的空檔期。",
+    "summary_en": "Today's trading was muted, with the NASDAQ up just 0.2% and the S&P 500 up 0.4%, reflecting a lack of major economic data or corporate catalysts to move markets decisively in either direction. Investors appear to be consolidating recent gains rather than making large new directional bets. Without clear news-driven momentum, price action was largely range-bound across most sectors.",
+    "summary_zh": "今日大市表現平淡，納指僅升0.2%，標普500則升0.4%，反映市場缺乏重大經濟數據或企業消息刺激，未能形成明顯方向。投資者似乎在鞏固近期升幅，而非積極加碼新倉。由於缺乏新聞主導的動力，大部分板塊價格維持區間窄幅波動。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "HSAI",
+      "ticker": "SLS",
       "conviction": "medium",
-      "reasoning": "RSI 60.3 in bullish zone with MACD bullish crossover, rising histogram, and price above SMA-20 signal healthy momentum without being overbought."
+      "reasoning": "Top-scoring candidate (95) with RSI in healthy bullish zone, bullish MACD crossover, rising histogram, and price above SMA-20 signals confirmed momentum without being overbought."
     },
     {
       "action": "BUY",
       "ticker": "AGNC",
       "conviction": "medium",
-      "reasoning": "Lowest RSI (57.9) among the top-scored candidates with full bullish signal confirmation, offering room to run before overbought and a more defensive REIT profile to diversify the momentum-heavy portfolio."
+      "reasoning": "Score 95 with RSI 57.9 (not overbought) plus MACD bullish crossover and rising histogram, and adds sector diversification (mortgage REIT) away from existing tech/industrial holdings."
     }
   ],
   "outcomes": {
