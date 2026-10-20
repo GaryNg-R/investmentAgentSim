@@ -1,28 +1,22 @@
 {
   "date": "2026-10-20",
-  "briefing": "Markets were modestly positive today (NASDAQ +1.1%, S&P500 +0.4%) but not a strong risk-on surge, so we deployed into only our two best fully-confirmed setups (MANE, SYRE) rather than forcing all three open slots. Existing positions are held unchanged per the stop-loss/profit-target rules already in place.",
+  "briefing": "Markets were flat today (NASDAQ -0.3%, S&P500 +0.1%), so we held back from aggressive deployment but took one high-quality, fully-confirmed momentum setup in HSAI while keeping the rest of our cash and all existing winners untouched.",
   "daily_lesson": {
-    "term": "Capital Discipline",
-    "explanation_en": "Just because you have cash and open slots doesn't mean you must invest all of it every day. Smart investors only deploy capital when a stock shows strong, confirmed signals — otherwise they wait, keeping some cash in reserve for better opportunities.",
-    "explanation_zh": "即使手上有現金及空置倉位，也不代表每日都要全數投入。精明的投資者只會在股票出現強勁且經確認的訊號時才動用資金，否則寧願保留現金，等待更好的入市時機。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on technical signals like RSI, moving averages, and volume, rather than waiting for a market-wide signal. Today's pick (HSAI) showed five separate bullish confirmations at once, which is a stronger signal than any single indicator alone.",
+    "explanation_zh": "動能投資是指根據RSI、移動平均線及成交量等技術指標,買入已經處於上升趨勢的股票,而不是等待大市發出明確訊號。今日選中的HSAI同時出現五個看漲訊號確認,比單一指標更具說服力。"
   },
   "market_education": {
-    "summary_en": "Equity indices drifted higher today in a broad, low-conviction advance, with the NASDAQ outpacing the S&P 500 as growth-oriented names led modestly. No major market-moving headlines were identified in today's screen, so the move looks like routine continuation rather than a reaction to new catalysts. Breadth was positive but unspectacular, consistent with a neutral overall market tone.",
-    "summary_zh": "今日美股溫和上揚，納指升1.1%，標普500升0.4%，成長股表現稍為領先大盤。由於今日未見重大市場消息或催化劑，這波升勢較似屬慣性延續，而非受突發新聞帶動。大市廣度正面但力度溫和，整體市況維持中性格局。",
+    "summary_en": "Major indices traded in a narrow, mixed range today with the NASDAQ slipping slightly and the S&P 500 edging up, reflecting a lack of strong directional catalysts rather than any specific negative news. No major earnings or macro data releases were flagged today that would explain a larger move. This kind of quiet, rotational session is typical when investors are digesting prior gains before the next catalyst.",
+    "summary_zh": "今日大型指數走勢窄幅震盪，NASDAQ 微跌而標普500小幅上升,反映市場缺乏明確的方向性消息,而非任何特定的負面新聞。今日並無重大財報或宏觀數據公佈,足以解釋更大的波動。這種市場在消化先前升幅後,等待下一個催化劑的局面相當常見。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "MANE",
+      "ticker": "HSAI",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (RSI 66.1, MACD crossover, price above SMA-20, volume surge) with a healthy non-overbought RSI."
-    },
-    {
-      "action": "BUY",
-      "ticker": "SYRE",
-      "conviction": "medium",
-      "reasoning": "Full four-signal confirmation with RSI 61.9 in the bullish zone, adding sector diversification away from existing holdings."
+      "reasoning": "Full five-signal bullish confirmation (RSI 60 in bullish zone, MACD crossover with rising histogram, price above SMA-20, volume surge) on a cheap entry with room before overbought."
     }
   ],
   "outcomes": {
