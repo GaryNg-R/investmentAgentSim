@@ -1,14 +1,14 @@
 {
   "date": "2026-10-20",
-  "briefing": "Markets were essentially flat today (NASDAQ +0.1%, S&P500 +0.3%), a neutral session with no clear directional conviction. Top candidates show bullish RSI/MACD setups but lack the volume-surge confirmation that past reviews flagged as necessary for high-conviction buys, so we're holding cash and existing positions rather than forcing a trade.",
+  "briefing": "Markets were flat and directionless today (NASDAQ -0.0%, S&P 500 +0.3%), with no clear risk-on signal. Per past lessons, we're holding our 7 positions and keeping the $1,089 cash reserve rather than forcing a buy into a neutral tape — we'll deploy into open slots once a genuine risk-on setup (e.g. NASDAQ +2% day) appears.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off doesn't always mean a market crash — sometimes it simply means staying cautious when signals are mixed or incomplete, like today when candidates showed bullish momentum but lacked volume confirmation. Holding cash and existing winners through a neutral day protects capital for when a clearer opportunity appears.",
-    "explanation_zh": "「風險規避」（Risk-Off）不一定代表市場暴跌，有時只是在訊號不完整或混亂時保持謹慎——例如今日候選股雖有看漲動能，卻缺乏成交量確認。在普通交易日持有現金及現有強勢持股，是為了在更明確的機會出現時保留資本。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to invest when a strong opportunity appears. On neutral market days like today, disciplined investors often hold cash rather than force trades, saving their buying power for a clearer risk-on signal.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者預留在場邊、等待良機出手的現金。在像今日這種方向不明的中性市況下，有紀律的投資者通常會持有現金而非勉強進場，將購買力留待更明確的風險偏好訊號出現時再部署。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted sideways today with the NASDAQ up just 0.1% and the S&P 500 up 0.3%, reflecting a lack of strong catalysts in either direction. Without major economic data releases or earnings surprises driving flows, traders stayed largely on the sidelines. This kind of low-volatility, range-bound session often precedes a bigger directional move once new information arrives.",
-    "summary_zh": "今日大市窄幅上落，納斯達克僅升0.1%，標普500升0.3%，反映市場缺乏明顯方向性催化劑。由於沒有重大經濟數據或盈利意外刺激資金流向，投資者大多選擇觀望。這種低波動、區間徘徊的交易日往往是醞釀下一輪較大方向性走勢的前奏。",
+    "summary_en": "Major indices were essentially unchanged today, with the S&P 500 inching up 0.3% while the NASDAQ was flat, suggesting investors are in a wait-and-see mode without a strong catalyst in either direction. No major market-moving headlines were provided for today's session, so the muted move likely reflects consolidation after recent gains rather than new negative or positive news. This kind of quiet, low-conviction trading day is typical ahead of upcoming economic data or earnings catalysts.",
+    "summary_zh": "今日大市大致持平，標普500微升0.3%，納指則報平盤，反映投資者在缺乏明確方向性消息下採取觀望態度。今日並無重大市場消息可供參考，故估計這波溫和波動屬於近期升勢後的整固，而非新的利好或利淡因素所致。這種低波動、觀望性質的交易日，通常會在重要經濟數據或業績公布前出現。",
     "sources": []
   },
   "trades": [],
