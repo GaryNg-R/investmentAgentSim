@@ -1,22 +1,28 @@
 {
   "date": "2026-10-20",
-  "briefing": "Markets were flat today (NASDAQ -0.3%, S&P500 +0.1%), so we held back from aggressive deployment but took one high-quality, fully-confirmed momentum setup in HSAI while keeping the rest of our cash and all existing winners untouched.",
+  "briefing": "Markets were mildly risk-on today with NASDAQ +0.5% and S&P 500 +0.7%. With 3 open slots and cash above the $500 threshold, we deployed into AAL and TSLA, the two candidates showing complete bullish signal confirmation, while keeping one slot and some cash in reserve since today's rally wasn't a strong broad-based surge.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on technical signals like RSI, moving averages, and volume, rather than waiting for a market-wide signal. Today's pick (HSAI) showed five separate bullish confirmations at once, which is a stronger signal than any single indicator alone.",
-    "explanation_zh": "動能投資是指根據RSI、移動平均線及成交量等技術指標,買入已經處於上升趨勢的股票,而不是等待大市發出明確訊號。今日選中的HSAI同時出現五個看漲訊號確認,比單一指標更具說服力。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, bullish RSI, price above its moving average, and a volume surge — to line up together before buying, rather than acting on just one signal. This reduces the chance of buying into a false breakout.",
+    "explanation_zh": "動能確認是指在買入前等待多個技術信號同時出現,例如MACD黃金交叉、RSI處於多頭區間、股價站上均線,以及成交量放大,而不是只憑單一信號就進場。這樣可以降低誤判假突破的風險。"
   },
   "market_education": {
-    "summary_en": "Major indices traded in a narrow, mixed range today with the NASDAQ slipping slightly and the S&P 500 edging up, reflecting a lack of strong directional catalysts rather than any specific negative news. No major earnings or macro data releases were flagged today that would explain a larger move. This kind of quiet, rotational session is typical when investors are digesting prior gains before the next catalyst.",
-    "summary_zh": "今日大型指數走勢窄幅震盪，NASDAQ 微跌而標普500小幅上升,反映市場缺乏明確的方向性消息,而非任何特定的負面新聞。今日並無重大財報或宏觀數據公佈,足以解釋更大的波動。這種市場在消化先前升幅後,等待下一個催化劑的局面相當常見。",
+    "summary_en": "Broad equity indices drifted modestly higher today, with the S&P 500 outperforming the NASDAQ slightly, consistent with a steady risk-on tone rather than a sharp rally. Breadth was supportive as several mid-cap names showed volume-backed breakouts above short-term moving averages. Without a single dominant catalyst, the move looks more like continued institutional accumulation than a news-driven spike.",
+    "summary_zh": "今日大盤溫和走高,標普500表現略優於納斯達克,反映穩健的風險偏好情緒而非急漲行情。市場廣度良好,部分中型股出現放量突破短期均線的技術信號。由於沒有單一主導消息面催化,此次上漲更像是機構資金持續布局,而非新聞驅動的急漲。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "HSAI",
+      "ticker": "AAL",
       "conviction": "high",
-      "reasoning": "Full five-signal bullish confirmation (RSI 60 in bullish zone, MACD crossover with rising histogram, price above SMA-20, volume surge) on a cheap entry with room before overbought."
+      "reasoning": "Full five-signal bullish confirmation (MACD crossover, rising histogram, bullish RSI, price above SMA-20, volume surge) with top momentum score of 100."
+    },
+    {
+      "action": "BUY",
+      "ticker": "TSLA",
+      "conviction": "high",
+      "reasoning": "Matches all four institutional-participation signals from strategy memory with top score of 100 and no overlap with existing holdings."
     }
   ],
   "outcomes": {
