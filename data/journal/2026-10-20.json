@@ -1,30 +1,17 @@
 {
   "date": "2026-10-20",
-  "briefing": "Markets were flat-to-slightly-up today (NASDAQ +0.2%, S&P500 +0.4%), a neutral session with no strong directional catalyst. With cash above the deployment threshold and two open position slots, we added two well-confirmed momentum names (SLS, AGNC) while leaving one slot and cash reserve for a stronger risk-on setup, consistent with existing positions being held through the quiet session.",
+  "briefing": "Markets were essentially flat today (NASDAQ +0.1%, S&P500 +0.3%), a neutral session with no clear directional conviction. Top candidates show bullish RSI/MACD setups but lack the volume-surge confirmation that past reviews flagged as necessary for high-conviction buys, so we're holding cash and existing positions rather than forcing a trade.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Signal confirmation means only acting on a trade idea when multiple independent technical indicators — like RSI, MACD, and price relative to its moving average — all point the same direction at once. This reduces the chance of chasing a false signal from a single noisy indicator, and today's buys were chosen because they showed this kind of agreement without being overbought.",
-    "explanation_zh": "訊號確認是指只有在多個獨立技術指標（例如RSI、MACD及股價相對於移動平均線的位置）同時指向同一方向時，才採取交易行動。這樣可以減少單一指標出現噪音訊號而誤判的機會，今日所選的買入標的正是因為同時符合多項確認條件，且未達超買水平。"
+    "term": "Risk-Off",
+    "explanation_en": "Risk-off doesn't always mean a market crash — sometimes it simply means staying cautious when signals are mixed or incomplete, like today when candidates showed bullish momentum but lacked volume confirmation. Holding cash and existing winners through a neutral day protects capital for when a clearer opportunity appears.",
+    "explanation_zh": "「風險規避」（Risk-Off）不一定代表市場暴跌，有時只是在訊號不完整或混亂時保持謹慎——例如今日候選股雖有看漲動能，卻缺乏成交量確認。在普通交易日持有現金及現有強勢持股，是為了在更明確的機會出現時保留資本。"
   },
   "market_education": {
-    "summary_en": "Today's trading was muted, with the NASDAQ up just 0.2% and the S&P 500 up 0.4%, reflecting a lack of major economic data or corporate catalysts to move markets decisively in either direction. Investors appear to be consolidating recent gains rather than making large new directional bets. Without clear news-driven momentum, price action was largely range-bound across most sectors.",
-    "summary_zh": "今日大市表現平淡，納指僅升0.2%，標普500則升0.4%，反映市場缺乏重大經濟數據或企業消息刺激，未能形成明顯方向。投資者似乎在鞏固近期升幅，而非積極加碼新倉。由於缺乏新聞主導的動力，大部分板塊價格維持區間窄幅波動。",
+    "summary_en": "Major indices drifted sideways today with the NASDAQ up just 0.1% and the S&P 500 up 0.3%, reflecting a lack of strong catalysts in either direction. Without major economic data releases or earnings surprises driving flows, traders stayed largely on the sidelines. This kind of low-volatility, range-bound session often precedes a bigger directional move once new information arrives.",
+    "summary_zh": "今日大市窄幅上落，納斯達克僅升0.1%，標普500升0.3%，反映市場缺乏明顯方向性催化劑。由於沒有重大經濟數據或盈利意外刺激資金流向，投資者大多選擇觀望。這種低波動、區間徘徊的交易日往往是醞釀下一輪較大方向性走勢的前奏。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "SLS",
-      "conviction": "medium",
-      "reasoning": "Top-scoring candidate (95) with RSI in healthy bullish zone, bullish MACD crossover, rising histogram, and price above SMA-20 signals confirmed momentum without being overbought."
-    },
-    {
-      "action": "BUY",
-      "ticker": "AGNC",
-      "conviction": "medium",
-      "reasoning": "Score 95 with RSI 57.9 (not overbought) plus MACD bullish crossover and rising histogram, and adds sector diversification (mortgage REIT) away from existing tech/industrial holdings."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14655.735246181488,
     "cash": 1089.2850012779236,
