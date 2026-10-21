@@ -1,34 +1,22 @@
 {
   "date": "2026-10-21",
-  "briefing": "Markets were broadly neutral today with NASDAQ +0.7% and S&P 500 +0.2%. With $1089 in cash and 3 open slots, we deployed into FTAI, VRT, and AAL — all showing full four-signal momentum confirmation (RSI, MACD crossover, price above SMA-20, volume surge) — while favoring sector diversification away from our existing tech/semis-heavy book.",
+  "briefing": "Markets were mildly positive today with NASDAQ +0.8% and S&P 500 +0.3% — not a strong risk-on day, so we stayed selective rather than forcing all open slots. NVDA stood out as the only candidate with full multi-signal confirmation including a volume surge, so we added it as a high-conviction position while leaving two slots and cash in reserve. Existing positions were held unchanged since the market doesn't warrant exiting winners on a quiet day.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today's buys were chosen because they showed multiple confirming signals together — rising price, rising RSI, a bullish MACD crossover, and higher-than-usual trading volume — rather than relying on just one indicator.",
-    "explanation_zh": "動能投資是指買入股價已經呈上升趨勢的股票，其理念是近期表現強勁的股票在短期內傾向延續升勢。今日選股是因為同時出現多個確認訊號——股價上升、RSI上升、MACD出現黃金交叉，以及成交量高於平時——而非單靠一項指標作出判斷。"
+    "term": "Volume Confirmation",
+    "explanation_en": "When a stock's price breaks higher alongside a surge in trading volume, it suggests the move is backed by strong conviction from many buyers (often institutions), not just a random blip. Traders use volume surges alongside indicators like MACD and RSI to separate real breakouts from noise.",
+    "explanation_zh": "當股價上升同時伴隨成交量明顯放大，代表這波升勢背後有較多買家（通常包括機構投資者）的強烈支持，而不只是隨機波動。交易者會配合MACD、RSI等指標一起觀察成交量異常，以分辨真正的突破和單純的噪音。"
   },
   "market_education": {
-    "summary_en": "Major indices traded modestly higher today, with the NASDAQ outperforming the S&P 500 slightly, suggesting continued but measured risk appetite rather than a sharp risk-on rally. Trading stayed within a tight range, consistent with a market digesting recent gains rather than reacting to major catalysts. No single dominant headline drove the move, pointing to broad-based, low-conviction buying.",
-    "summary_zh": "今日主要指數溫和上揚，納指升幅略高於標普500指數，反映市場風險偏好持續但未見明顯加速。大市在窄幅內波動，顯示投資者正在消化近期升幅，而非對重大消息作出反應。由於沒有單一主導消息帶動，今日走勢屬於廣泛而低強度的買盤所致。",
+    "summary_en": "Equity markets drifted modestly higher today, with the NASDAQ outperforming the S&P 500, suggesting continued but unspectacular appetite for growth and tech names. No major macro catalyst stood out, consistent with a steady grind-higher rather than a sharp risk-on rally. Trading activity was selective, with capital concentrating in names showing confirmed technical breakouts rather than broad-based buying.",
+    "summary_zh": "今日股市溫和上揚，納斯達克指數表現優於標普500指數，反映市場對科技及成長股仍保持一定胃口，但力度不算強勁。市場並無明顯的重大宏觀消息刺激，走勢較符合穩步爬升而非強烈的風險偏好反彈。資金流向較為集中，主要流入技術面確認突破的個股，而非全面普漲。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FTAI",
-      "conviction": "medium",
-      "reasoning": "Full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) and diversifies away from the portfolio's existing tech/semis concentration."
-    },
-    {
-      "action": "BUY",
-      "ticker": "VRT",
-      "conviction": "medium",
-      "reasoning": "Top-scoring candidate with all four momentum signals confirmed, adding data-center infrastructure exposure distinct from current holdings."
-    },
-    {
-      "action": "BUY",
-      "ticker": "AAL",
-      "conviction": "medium",
-      "reasoning": "Full multi-signal confirmation and provides sector diversification into airlines, reducing correlation with existing tech-heavy positions."
+      "ticker": "NVDA",
+      "conviction": "high",
+      "reasoning": "Only candidate with all four confirmation signals (RSI bullish zone, MACD bullish crossover, rising histogram, price above SMA-20) plus a volume surge, indicating genuine institutional participation rather than a random spike."
     }
   ],
   "outcomes": {
