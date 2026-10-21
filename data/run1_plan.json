@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-10-20T21:01:04.897538+00:00",
+  "saved_at": "2026-10-21T13:00:59.757769+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,26 +7,26 @@
         "action": "BUY",
         "ticker": "EQPT",
         "conviction": "high",
-        "reasoning": "Top-scoring candidate (100) with all five bullish signals aligned \u2014 RSI 68.7, MACD crossover, rising histogram, price above SMA-20, and volume surge \u2014 indicating genuine institutional participation despite a neutral broader tape."
+        "reasoning": "Highest score (100) with all five bullish signals including MACD crossover, rising histogram, price above SMA-20, and volume surge, indicating strong institutional participation."
       },
       {
         "action": "BUY",
-        "ticker": "SPHR",
+        "ticker": "SLS",
         "conviction": "medium",
-        "reasoning": "Strong secondary candidate with MACD bullish crossover, price above SMA-20, and a volume surge confirming the breakout, deploying a portion of idle cash into one open slot."
+        "reasoning": "Score 95 with RSI in bullish zone, MACD crossover, rising histogram, and price above SMA-20, though lacking a volume surge confirmation."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat today (NASDAQ -0.0%, S&P500 +0.3%), a neutral session with no broad risk-on or risk-off signal. Rather than force capital into mediocre setups, we selectively added EQPT on its full multi-signal confirmation and SPHR as a secondary high-quality setup, keeping one slot open for a stronger risk-on day. Existing positions are held unchanged, letting stop-loss and profit-target rules manage them automatically.",
+    "briefing": "Markets were flat today (NASDAQ -0.0%, S&P500 +0.3%), a neutral session. Rather than forcing full capital deployment, we took two of the strongest multi-signal setups (EQPT, SLS) while leaving a slot and cash buffer open for a clearer risk-on day.",
     "market_education": {
-      "summary_en": "Today's session was largely directionless, with the NASDAQ roughly flat and the S&P500 up a modest 0.3%, suggesting investors were in a wait-and-see mode rather than reacting to any major catalyst. Without a clear macro trigger, individual stock-level technicals \u2014 like volume surges and MACD crossovers \u2014 became the more reliable signal for finding opportunities. This favors a selective, bottom-up approach over broad index-wide moves on days like this.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u65b9\u5411\u4e0d\u660e,\u7d0d\u6307\u5e7e\u4e4e\u6301\u5e73,\u6a19\u666e500\u50c5\u5fae\u53470.3%,\u53cd\u6620\u6295\u8cc7\u8005\u666e\u904d\u63a1\u53d6\u89c0\u671b\u614b\u5ea6,\u672a\u6709\u660e\u986f\u50ac\u5316\u5291\u5e36\u52d5\u5927\u76e4\u8d70\u52e2\u3002\u5728\u7f3a\u4e4f\u5b8f\u89c0\u4e3b\u7dda\u7684\u60c5\u6cc1\u4e0b,\u500b\u80a1\u5c64\u9762\u7684\u6280\u8853\u4fe1\u865f(\u4f8b\u5982\u6210\u4ea4\u91cf\u653e\u5927\u3001MACD\u9ec3\u91d1\u4ea4\u53c9)\u53cd\u800c\u6210\u70ba\u5c0b\u627e\u6a5f\u6703\u66f4\u53ef\u9760\u7684\u4f9d\u64da\u3002\u9019\u985e\u5e02\u6cc1\u4e0b,\u7cbe\u9078\u500b\u80a1\u7684\u7b56\u7565\u901a\u5e38\u6bd4\u8ffd\u9010\u5927\u76e4\u8d70\u52e2\u66f4\u70ba\u5408\u9069\u3002",
+      "summary_en": "Major indices traded essentially flat today, with the NASDAQ unchanged and the S&P 500 up modestly, suggesting investors are in a wait-and-see mode without a strong catalyst in either direction. No major market-moving headlines drove today's session. This kind of low-volatility, directionless trading often precedes a bigger move once new economic data or earnings news arrives.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5927\u81f4\u5e73\u6de1\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5e7e\u4e4e\u6301\u5e73\uff0c\u6a19\u666e500\u6307\u6578\u5247\u5c0f\u5e45\u4e0a\u6f320.3%\uff0c\u986f\u793a\u6295\u8cc7\u8005\u5728\u7f3a\u4e4f\u660e\u78ba\u50ac\u5316\u56e0\u7d20\u4e0b\u63a1\u53d6\u89c0\u671b\u614b\u5ea6\u3002\u4eca\u65e5\u4e26\u7121\u91cd\u5927\u5e02\u5834\u6d88\u606f\u9a45\u52d5\u8d70\u52e2\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u3001\u65b9\u5411\u4e0d\u660e\u7684\u4ea4\u6613\u5f80\u5f80\u662f\u919e\u91c0\u4e0b\u4e00\u6ce2\u8f03\u5927\u884c\u60c5\u7684\u524d\u5146\uff0c\u5f85\u65b0\u7684\u7d93\u6fdf\u6578\u64da\u6216\u8ca1\u5831\u516c\u5e03\u5f8c\u624d\u6703\u660e\u6717\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators \u2014 like RSI, MACD, moving averages, and volume \u2014 all point the same direction at once. A single bullish signal can be noise, but when four or five line up together, it suggests real conviction behind the move, not just a random blip.",
-      "explanation_zh": "\u591a\u91cd\u4fe1\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u6709\u7576\u591a\u500b\u7368\u7acb\u7684\u6280\u8853\u6307\u6a19\u2014\u2014\u4f8b\u5982RSI\u3001MACD\u3001\u5747\u7dda\u53ca\u6210\u4ea4\u91cf\u2014\u2014\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642,\u624d\u63a1\u53d6\u4ea4\u6613\u884c\u52d5\u3002\u55ae\u4e00\u7684\u770b\u6f32\u4fe1\u865f\u53ef\u80fd\u53ea\u662f\u96dc\u8a0a,\u4f46\u7576\u56db\u81f3\u4e94\u500b\u6307\u6a19\u540c\u6642\u543b\u5408\u6642,\u4fbf\u986f\u793a\u9019\u6ce2\u8d70\u52e2\u80cc\u5f8c\u6709\u771f\u6b63\u7684\u52d5\u80fd\u652f\u6301,\u800c\u975e\u5076\u7136\u6ce2\u52d5\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Momentum confirmation means only buying a stock when multiple independent signals \u2014 like RSI, MACD crossover, price above a moving average, and a volume surge \u2014 all point the same bullish direction at once. Relying on just one signal can give false alarms, but when several line up together it's stronger evidence that real buying interest is building.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u53ea\u6709\u5728\u591a\u500b\u7368\u7acb\u8a0a\u865f\uff08\u4f8b\u5982RSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u7ad9\u4e0a\u5747\u7dda\u3001\u6210\u4ea4\u91cf\u653e\u5927\uff09\u540c\u6642\u986f\u793a\u770b\u6f32\u6642\u624d\u9032\u884c\u8cb7\u5165\u3002\u53ea\u4f9d\u8cf4\u55ae\u4e00\u8a0a\u865f\u5bb9\u6613\u51fa\u73fe\u8aa4\u5224\uff0c\u4f46\u7576\u591a\u9805\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u6642\uff0c\u4ee3\u8868\u5e02\u5834\u771f\u5be6\u8cb7\u76e4\u6b63\u5728\u589e\u5f37\uff0c\u8a0a\u865f\u53ef\u4fe1\u5ea6\u66f4\u9ad8\u3002"
     }
   }
 }

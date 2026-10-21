@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-21",
+  "briefing": "Markets were flat today (NASDAQ -0.0%, S&P500 +0.3%), a neutral session. Rather than forcing full capital deployment, we took two of the strongest multi-signal setups (EQPT, SLS) while leaving a slot and cash buffer open for a clearer risk-on day.",
+  "daily_lesson": {
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means only buying a stock when multiple independent signals — like RSI, MACD crossover, price above a moving average, and a volume surge — all point the same bullish direction at once. Relying on just one signal can give false alarms, but when several line up together it's stronger evidence that real buying interest is building.",
+    "explanation_zh": "動能確認是指只有在多個獨立訊號（例如RSI、MACD黃金交叉、股價站上均線、成交量放大）同時顯示看漲時才進行買入。只依賴單一訊號容易出現誤判，但當多項訊號同時出現時，代表市場真實買盤正在增強，訊號可信度更高。"
+  },
+  "market_education": {
+    "summary_en": "Major indices traded essentially flat today, with the NASDAQ unchanged and the S&P 500 up modestly, suggesting investors are in a wait-and-see mode without a strong catalyst in either direction. No major market-moving headlines drove today's session. This kind of low-volatility, directionless trading often precedes a bigger move once new economic data or earnings news arrives.",
+    "summary_zh": "今日大盤走勢大致平淡，納斯達克指數幾乎持平，標普500指數則小幅上漲0.3%，顯示投資者在缺乏明確催化因素下採取觀望態度。今日並無重大市場消息驅動走勢。這種低波動、方向不明的交易往往是醞釀下一波較大行情的前兆，待新的經濟數據或財報公布後才會明朗。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "EQPT",
+      "conviction": "high",
+      "reasoning": "Highest score (100) with all five bullish signals including MACD crossover, rising histogram, price above SMA-20, and volume surge, indicating strong institutional participation."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SLS",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI in bullish zone, MACD crossover, rising histogram, and price above SMA-20, though lacking a volume surge confirmation."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14655.735246181488,
+    "cash": 1089.2850012779236,
+    "pnl_dollar": 4655.735246181488,
+    "pnl_pct": 46.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
