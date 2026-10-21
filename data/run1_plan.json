@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-10-21T17:01:10.777343+00:00",
+  "saved_at": "2026-10-21T18:00:50.350709+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
@@ -7,32 +7,32 @@
         "action": "BUY",
         "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "Full signal stack confirmed \u2014 bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge indicating institutional buying."
+        "reasoning": "Risk-on day plus full multi-signal confirmation (RSI 62.3, MACD bullish crossover with rising histogram, price above SMA-20) on a blue-chip name adds quality exposure without excess volatility."
       },
       {
         "action": "BUY",
-        "ticker": "SEI",
-        "conviction": "medium",
-        "reasoning": "Strong score with RSI in the bullish zone, MACD crossover, and price above SMA-20, though lacking a volume surge confirmation."
+        "ticker": "APLD",
+        "conviction": "high",
+        "reasoning": "Top-scored AI infrastructure play with all four bullish signals confirmed, fitting the risk-on deployment cadence from past lessons."
       },
       {
         "action": "BUY",
-        "ticker": "SMCI",
+        "ticker": "BE",
         "conviction": "medium",
-        "reasoning": "Clean bullish setup with RSI 62, MACD crossover, and rising histogram above SMA-20, filling an open slot on a risk-on day."
+        "reasoning": "Fully confirmed bullish setup in a different sector (clean energy) that diversifies away from the crypto-mining names already crowding the top of the list."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are in risk-on mode today with the NASDAQ up 1.2% and S&P 500 up 0.6%. With cash above the deployment threshold and three open slots, we bought into the three highest-scoring, multi-signal-confirmed candidates (NVDA, SEI, SMCI) rather than sitting idle, while leaving existing winners alone to run.",
+    "briefing": "NASDAQ +1.2% and S&P 500 +0.7% confirm a genuine risk-on day, so we deployed idle cash into our three open slots. Picked NVDA, APLD, and BE \u2014 all showing full bullish confirmation (MACD crossover, rising histogram, RSI in the healthy 55-70 zone, price above SMA-20) while avoiding over-concentration in bitcoin-miner names like WULF/MARA that already dominate the top of the screen.",
     "market_education": {
-      "summary_en": "Broad market strength today lifted tech-heavy indices, with the NASDAQ outperforming the S&P 500, suggesting investors favored growth and momentum names. This risk-on tone is consistent with continued buying in semiconductor and software names showing strong technical momentum. No single catalyst headline is available to cite for today's move.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u5411\u597d,\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u6307\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578,\u53cd\u6620\u6295\u8cc7\u8005\u50be\u5411\u8ffd\u6367\u5177\u589e\u9577\u52d5\u529b\u7684\u80a1\u4efd\u3002\u9019\u7a2e\u98a8\u96aa\u504f\u597d\u6c1b\u570d\u8207\u534a\u5c0e\u9ad4\u53ca\u8edf\u4ef6\u80a1\u6301\u7e8c\u53d7\u8cb7\u76e4\u652f\u6301\u7684\u6280\u8853\u8d70\u52e2\u4e00\u81f4\u3002\u66ab\u6642\u672a\u6709\u5177\u9ad4\u65b0\u805e\u982d\u689d\u53ef\u89e3\u91cb\u4eca\u65e5\u7684\u5347\u52e2\u3002",
+      "summary_en": "Major indices pushed higher today with the NASDAQ outpacing the S&P 500, consistent with continued risk appetite for growth and tech-adjacent names. Breadth was healthy, with numerous momentum names showing synchronized bullish signals (MACD crossovers, rising histograms, prices above their 20-day averages) rather than a narrow rally. No single catalyst headline was available today, but the pattern points to broad-based buying rather than a one-stock story.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u8d70\u9ad8\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u986f\u793a\u5e02\u5834\u5c0d\u79d1\u6280\u53ca\u6210\u9577\u80a1\u7684risk appetite\u6301\u7e8c\u5347\u6eab\u3002\u5e02\u5834\u5ee3\u5ea6\u826f\u597d\uff0c\u591a\u96bb\u52d5\u80fd\u80a1\u540c\u6b65\u51fa\u73fe\u770b\u6f32\u8a0a\u865f\uff08MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u52d5\u80fd\u67f1\u72c0\u5716\u4e0a\u5347\u3001\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\uff09\uff0c\u53cd\u6620\u9019\u662f\u4e00\u6b21\u8f03\u5168\u9762\u6027\u7684\u8cb7\u76e4\uff0c\u800c\u975e\u55ae\u4e00\u80a1\u7968\u5e36\u52d5\u7684\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like a bullish RSI range, a MACD crossover, price above its moving average, and a volume surge \u2014 to line up before buying. Today's picks like NVDA showed this full stack, which lowers the odds of chasing a false signal.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u7b49\u5f85\u591a\u500b\u6280\u8853\u6307\u6a19\u540c\u6642\u51fa\u73fe\u6b63\u9762\u8a0a\u865f\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u725b\u5e02\u5340\u9593\u3001MACD\u91d1\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u5747\u7dda,\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u624d\u9032\u884c\u8cb7\u5165\u3002\u4eca\u65e5\u9078\u4e2d\u7684NVDA\u540c\u6642\u7b26\u5408\u4ee5\u4e0a\u6240\u6709\u689d\u4ef6,\u6709\u52a9\u964d\u4f4e\u8ffd\u5165\u5047\u8a0a\u865f\u7684\u98a8\u96aa\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong recent performance tends to continue in the short term. Today's buys were chosen because they showed several confirming signals together \u2014 rising price, bullish MACD, and healthy RSI \u2014 rather than relying on just one indicator.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u8868\u73fe\u5f37\u52e2\u3001\u80a1\u50f9\u6301\u7e8c\u4e0a\u5347\u7684\u80a1\u7968\uff0c\u7406\u8ad6\u57fa\u790e\u662f\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u7968\u7684\u5347\u52e2\u50be\u5411\u65bc\u5ef6\u7e8c\u3002\u4eca\u5929\u7684\u8cb7\u5165\u9078\u64c7\u662f\u57fa\u65bc\u591a\u9805\u8a0a\u865f\u540c\u6642\u78ba\u8a8d\u2014\u2014\u80a1\u50f9\u4e0a\u5347\u3001MACD\u770b\u6f32\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u2014\u2014\u800c\u975e\u55ae\u9760\u4e00\u500b\u6307\u6a19\u4f5c\u6c7a\u5b9a\u3002"
     }
   }
 }

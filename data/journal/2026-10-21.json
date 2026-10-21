@@ -1,14 +1,14 @@
 {
   "date": "2026-10-21",
-  "briefing": "Markets are in risk-on mode today with the NASDAQ up 1.2% and S&P 500 up 0.6%. With cash above the deployment threshold and three open slots, we bought into the three highest-scoring, multi-signal-confirmed candidates (NVDA, SEI, SMCI) rather than sitting idle, while leaving existing winners alone to run.",
+  "briefing": "NASDAQ +1.2% and S&P 500 +0.7% confirm a genuine risk-on day, so we deployed idle cash into our three open slots. Picked NVDA, APLD, and BE — all showing full bullish confirmation (MACD crossover, rising histogram, RSI in the healthy 55-70 zone, price above SMA-20) while avoiding over-concentration in bitcoin-miner names like WULF/MARA that already dominate the top of the screen.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a bullish RSI range, a MACD crossover, price above its moving average, and a volume surge — to line up before buying. Today's picks like NVDA showed this full stack, which lowers the odds of chasing a false signal.",
-    "explanation_zh": "動能確認是指等待多個技術指標同時出現正面訊號——例如RSI處於牛市區間、MACD金叉、股價高於均線,以及成交量放大——才進行買入。今日選中的NVDA同時符合以上所有條件,有助降低追入假訊號的風險。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong recent performance tends to continue in the short term. Today's buys were chosen because they showed several confirming signals together — rising price, bullish MACD, and healthy RSI — rather than relying on just one indicator.",
+    "explanation_zh": "動能投資（Momentum Investing）是指買入近期表現強勢、股價持續上升的股票，理論基礎是短期內強勢股票的升勢傾向於延續。今天的買入選擇是基於多項訊號同時確認——股價上升、MACD看漲交叉、RSI處於健康區間——而非單靠一個指標作決定。"
   },
   "market_education": {
-    "summary_en": "Broad market strength today lifted tech-heavy indices, with the NASDAQ outperforming the S&P 500, suggesting investors favored growth and momentum names. This risk-on tone is consistent with continued buying in semiconductor and software names showing strong technical momentum. No single catalyst headline is available to cite for today's move.",
-    "summary_zh": "今日大市普遍向好,以科技股為主的納指升幅跑贏標普500指數,反映投資者傾向追捧具增長動力的股份。這種風險偏好氛圍與半導體及軟件股持續受買盤支持的技術走勢一致。暫時未有具體新聞頭條可解釋今日的升勢。",
+    "summary_en": "Major indices pushed higher today with the NASDAQ outpacing the S&P 500, consistent with continued risk appetite for growth and tech-adjacent names. Breadth was healthy, with numerous momentum names showing synchronized bullish signals (MACD crossovers, rising histograms, prices above their 20-day averages) rather than a narrow rally. No single catalyst headline was available today, but the pattern points to broad-based buying rather than a one-stock story.",
+    "summary_zh": "今日大市普遍走高，納斯達克指數升幅跑贏標普500指數，顯示市場對科技及成長股的risk appetite持續升溫。市場廣度良好，多隻動能股同步出現看漲訊號（MACD黃金交叉、動能柱狀圖上升、股價站上20日均線），反映這是一次較全面性的買盤，而非單一股票帶動的行情。",
     "sources": []
   },
   "trades": [
@@ -16,19 +16,19 @@
       "action": "BUY",
       "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "Full signal stack confirmed — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge indicating institutional buying."
+      "reasoning": "Risk-on day plus full multi-signal confirmation (RSI 62.3, MACD bullish crossover with rising histogram, price above SMA-20) on a blue-chip name adds quality exposure without excess volatility."
     },
     {
       "action": "BUY",
-      "ticker": "SEI",
-      "conviction": "medium",
-      "reasoning": "Strong score with RSI in the bullish zone, MACD crossover, and price above SMA-20, though lacking a volume surge confirmation."
+      "ticker": "APLD",
+      "conviction": "high",
+      "reasoning": "Top-scored AI infrastructure play with all four bullish signals confirmed, fitting the risk-on deployment cadence from past lessons."
     },
     {
       "action": "BUY",
-      "ticker": "SMCI",
+      "ticker": "BE",
       "conviction": "medium",
-      "reasoning": "Clean bullish setup with RSI 62, MACD crossover, and rising histogram above SMA-20, filling an open slot on a risk-on day."
+      "reasoning": "Fully confirmed bullish setup in a different sector (clean energy) that diversifies away from the crypto-mining names already crowding the top of the list."
     }
   ],
   "outcomes": {
