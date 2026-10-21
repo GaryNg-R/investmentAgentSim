@@ -1,34 +1,34 @@
 {
   "date": "2026-10-21",
-  "briefing": "Markets posted a mild risk-on session (NASDAQ +1.1%, S&P 500 +0.5%). With cash well above the $500 threshold and three open slots, I filled the portfolio to its 10-position cap, prioritizing BE and NVDA for their full multi-signal bullish confirmation (including volume surges) and adding SMCI as a solid medium-conviction momentum pick.",
+  "briefing": "Markets are in risk-on mode today with the NASDAQ up 1.2% and S&P 500 up 0.6%. With cash above the deployment threshold and three open slots, we bought into the three highest-scoring, multi-signal-confirmed candidates (NVDA, SEI, SMCI) rather than sitting idle, while leaving existing winners alone to run.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today's picks were chosen because they showed multiple confirming technical signals together — like rising price, bullish RSI, and a MACD crossover — rather than just one isolated signal.",
-    "explanation_zh": "動能投資是指買入近期走勢向上的股票，背後理念是強勢的近期表現往往會在短期內延續。今日所選股票是因為同時出現多個確認性技術訊號——例如股價上升、RSI處於看漲區間，以及MACD黃金交叉——而非單憑一個孤立訊號作出決定。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a bullish RSI range, a MACD crossover, price above its moving average, and a volume surge — to line up before buying. Today's picks like NVDA showed this full stack, which lowers the odds of chasing a false signal.",
+    "explanation_zh": "動能確認是指等待多個技術指標同時出現正面訊號——例如RSI處於牛市區間、MACD金叉、股價高於均線,以及成交量放大——才進行買入。今日選中的NVDA同時符合以上所有條件,有助降低追入假訊號的風險。"
   },
   "market_education": {
-    "summary_en": "Tech and broad-market indices edged higher today, with the NASDAQ outpacing the S&P 500 as growth and semiconductor-related names continued their recent momentum. No major macro catalyst was identified in today's available data, suggesting the move was driven by continued sector-level buying interest rather than a single headline event. Breadth remained healthy, with multiple momentum names showing bullish technical confirmation including rising volume.",
-    "summary_zh": "今日科技股及大盤指數普遍走高，納斯達克的升幅跑贏標普500指數，成長股及半導體相關股份延續近期升勢。今日未見明顯宏觀消息面催化劑，顯示今次上升主要由板塊資金持續流入帶動，而非單一新聞事件所致。市場廣度良好，多隻具動能的股票出現成交量放大等看漲技術訊號確認。",
+    "summary_en": "Broad market strength today lifted tech-heavy indices, with the NASDAQ outperforming the S&P 500, suggesting investors favored growth and momentum names. This risk-on tone is consistent with continued buying in semiconductor and software names showing strong technical momentum. No single catalyst headline is available to cite for today's move.",
+    "summary_zh": "今日大市普遍向好,以科技股為主的納指升幅跑贏標普500指數,反映投資者傾向追捧具增長動力的股份。這種風險偏好氛圍與半導體及軟件股持續受買盤支持的技術走勢一致。暫時未有具體新聞頭條可解釋今日的升勢。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "BE",
+      "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "Full five-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) signals genuine institutional buying."
+      "reasoning": "Full signal stack confirmed — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge indicating institutional buying."
     },
     {
       "action": "BUY",
-      "ticker": "NVDA",
-      "conviction": "high",
-      "reasoning": "Same full multi-signal confirmation as BE including a volume surge, indicating strong momentum with institutional participation."
+      "ticker": "SEI",
+      "conviction": "medium",
+      "reasoning": "Strong score with RSI in the bullish zone, MACD crossover, and price above SMA-20, though lacking a volume surge confirmation."
     },
     {
       "action": "BUY",
       "ticker": "SMCI",
       "conviction": "medium",
-      "reasoning": "Bullish RSI, MACD crossover and price above SMA-20 support the uptrend, though absence of a volume surge keeps conviction medium."
+      "reasoning": "Clean bullish setup with RSI 62, MACD crossover, and rising histogram above SMA-20, filling an open slot on a risk-on day."
     }
   ],
   "outcomes": {
