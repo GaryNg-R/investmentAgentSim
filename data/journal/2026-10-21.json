@@ -1,22 +1,34 @@
 {
   "date": "2026-10-21",
-  "briefing": "Markets were mildly positive today with NASDAQ +0.8% and S&P 500 +0.3% — not a strong risk-on day, so we stayed selective rather than forcing all open slots. NVDA stood out as the only candidate with full multi-signal confirmation including a volume surge, so we added it as a high-conviction position while leaving two slots and cash in reserve. Existing positions were held unchanged since the market doesn't warrant exiting winners on a quiet day.",
+  "briefing": "Markets posted a mild risk-on session (NASDAQ +1.1%, S&P 500 +0.5%). With cash well above the $500 threshold and three open slots, I filled the portfolio to its 10-position cap, prioritizing BE and NVDA for their full multi-signal bullish confirmation (including volume surges) and adding SMCI as a solid medium-conviction momentum pick.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "When a stock's price breaks higher alongside a surge in trading volume, it suggests the move is backed by strong conviction from many buyers (often institutions), not just a random blip. Traders use volume surges alongside indicators like MACD and RSI to separate real breakouts from noise.",
-    "explanation_zh": "當股價上升同時伴隨成交量明顯放大，代表這波升勢背後有較多買家（通常包括機構投資者）的強烈支持，而不只是隨機波動。交易者會配合MACD、RSI等指標一起觀察成交量異常，以分辨真正的突破和單純的噪音。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today's picks were chosen because they showed multiple confirming technical signals together — like rising price, bullish RSI, and a MACD crossover — rather than just one isolated signal.",
+    "explanation_zh": "動能投資是指買入近期走勢向上的股票，背後理念是強勢的近期表現往往會在短期內延續。今日所選股票是因為同時出現多個確認性技術訊號——例如股價上升、RSI處於看漲區間，以及MACD黃金交叉——而非單憑一個孤立訊號作出決定。"
   },
   "market_education": {
-    "summary_en": "Equity markets drifted modestly higher today, with the NASDAQ outperforming the S&P 500, suggesting continued but unspectacular appetite for growth and tech names. No major macro catalyst stood out, consistent with a steady grind-higher rather than a sharp risk-on rally. Trading activity was selective, with capital concentrating in names showing confirmed technical breakouts rather than broad-based buying.",
-    "summary_zh": "今日股市溫和上揚，納斯達克指數表現優於標普500指數，反映市場對科技及成長股仍保持一定胃口，但力度不算強勁。市場並無明顯的重大宏觀消息刺激，走勢較符合穩步爬升而非強烈的風險偏好反彈。資金流向較為集中，主要流入技術面確認突破的個股，而非全面普漲。",
+    "summary_en": "Tech and broad-market indices edged higher today, with the NASDAQ outpacing the S&P 500 as growth and semiconductor-related names continued their recent momentum. No major macro catalyst was identified in today's available data, suggesting the move was driven by continued sector-level buying interest rather than a single headline event. Breadth remained healthy, with multiple momentum names showing bullish technical confirmation including rising volume.",
+    "summary_zh": "今日科技股及大盤指數普遍走高，納斯達克的升幅跑贏標普500指數，成長股及半導體相關股份延續近期升勢。今日未見明顯宏觀消息面催化劑，顯示今次上升主要由板塊資金持續流入帶動，而非單一新聞事件所致。市場廣度良好，多隻具動能的股票出現成交量放大等看漲技術訊號確認。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
+      "ticker": "BE",
+      "conviction": "high",
+      "reasoning": "Full five-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) signals genuine institutional buying."
+    },
+    {
+      "action": "BUY",
       "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "Only candidate with all four confirmation signals (RSI bullish zone, MACD bullish crossover, rising histogram, price above SMA-20) plus a volume surge, indicating genuine institutional participation rather than a random spike."
+      "reasoning": "Same full multi-signal confirmation as BE including a volume surge, indicating strong momentum with institutional participation."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SMCI",
+      "conviction": "medium",
+      "reasoning": "Bullish RSI, MACD crossover and price above SMA-20 support the uptrend, though absence of a volume surge keeps conviction medium."
     }
   ],
   "outcomes": {
