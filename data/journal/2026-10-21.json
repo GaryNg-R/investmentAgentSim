@@ -1,14 +1,14 @@
 {
   "date": "2026-10-21",
-  "briefing": "Markets were neutral today (NASDAQ +0.9%, S&P500 +0.4%), but with $1,089 in cash and 3 open slots the risk rules favor deploying rather than idling. We filled all three slots with diversified, signal-confirmed names rather than piling into correlated crypto-proxy tickers.",
+  "briefing": "NASDAQ +1.1% and S&P 500 +0.6% signal a risk-on day, so we deployed the remaining cash into three fully-confirmed momentum names (SKYD, SEI, MANE) that each show the MACD crossover, bullish RSI, price-above-SMA20, and volume-surge combination. Existing positions are held unchanged since none hit stop-loss or profit-target levels.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, confirmed by multiple technical signals like RSI, MACD, and volume, rather than guessing at turning points. Today's picks were chosen because they showed several confirming signals at once, which lowers the chance of chasing a false signal.",
-    "explanation_zh": "動量投資是指買入已經處於上升趨勢的股票，並以RSI、MACD、成交量等多項技術指標共同確認，而非單純猜測轉折點。今日所選標的均同時出現多個確認訊號，降低了追逐假訊號的風險。"
+    "term": "Signal Confirmation",
+    "explanation_en": "Signal confirmation means waiting for multiple technical indicators — like RSI, MACD, moving averages, and volume — to all point the same direction before making a trade. Relying on just one signal can lead to false starts, but when several agree, it suggests stronger, more reliable momentum.",
+    "explanation_zh": "訊號確認是指在交易前，等待多個技術指標（例如RSI、MACD、移動平均線及成交量）同時指向同一方向。只依賴單一訊號容易出現假突破，但當多個指標同時確認時，動能通常更為強勁及可靠。"
   },
   "market_education": {
-    "summary_en": "Broad indices drifted modestly higher today, with the Nasdaq outperforming the S&P 500 slightly, suggesting mild risk appetite without a strong directional catalyst. Trading stayed range-bound as investors awaited clearer signals before committing larger capital. No major headline-driven catalyst was evident in today's session.",
-    "summary_zh": "今日大盤溫和上揚，納指表現略勝標普500，顯示市場風險胃納溫和但缺乏明確方向性催化劑。投資人在尚未見到更清晰訊號前維持區間操作，今日盤面亦未見重大新聞驅動因素。",
+    "summary_en": "Markets traded higher today with the NASDAQ outpacing the S&P 500, suggesting investors favored growth and technology names over broader market exposure. The relative strength in tech-heavy indices points to continued risk appetite among traders. No specific news catalysts were available in today's feed, so the move appears driven by ongoing sector momentum rather than a single headline event.",
+    "summary_zh": "今日大市上揚，納斯達克指數升幅跑贏標普500指數，反映投資者對科技及增長股的偏好持續升溫。科技股相對強勢顯示市場風險胃納仍佳。由於今日未有具體新聞頭條可供引用，此升勢似乎是由板塊動能延續所帶動，而非單一消息刺激。",
     "sources": []
   },
   "trades": [
@@ -16,19 +16,19 @@
       "action": "BUY",
       "ticker": "SKYD",
       "conviction": "high",
-      "reasoning": "Top-scoring candidate with full signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge indicating real participation."
+      "reasoning": "All four confirmation signals align (RSI 67.5 bullish, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "NVDA",
-      "conviction": "medium",
-      "reasoning": "Large-cap AI/semiconductor leader with bullish RSI and MACD crossover above SMA-20, offering steadier risk-adjusted exposure than smaller speculative names."
+      "ticker": "SEI",
+      "conviction": "high",
+      "reasoning": "RSI 59.6 in bullish zone, MACD crossover, price above SMA-20, and a volume surge confirm institutional buying interest."
     },
     {
       "action": "BUY",
-      "ticker": "OKTA",
+      "ticker": "MANE",
       "conviction": "medium",
-      "reasoning": "Diversifies into cybersecurity software with strong bullish RSI and MACD crossover, reducing correlation with existing hardware/crypto-adjacent holdings."
+      "reasoning": "MACD crossover, price above SMA-20, and volume surge confirm momentum, though RSI 69.7 is nearing overbought so sized more cautiously."
     }
   ],
   "outcomes": {

@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-10-21T19:01:00.993508+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-10-21T20:00:57.098840+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
         "ticker": "SKYD",
         "conviction": "high",
-        "reasoning": "Top-scoring candidate with full signal confirmation \u2014 bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge indicating real participation."
+        "reasoning": "All four confirmation signals align (RSI 67.5 bullish, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) on a risk-on day."
       },
       {
         "action": "BUY",
-        "ticker": "NVDA",
-        "conviction": "medium",
-        "reasoning": "Large-cap AI/semiconductor leader with bullish RSI and MACD crossover above SMA-20, offering steadier risk-adjusted exposure than smaller speculative names."
+        "ticker": "SEI",
+        "conviction": "high",
+        "reasoning": "RSI 59.6 in bullish zone, MACD crossover, price above SMA-20, and a volume surge confirm institutional buying interest."
       },
       {
         "action": "BUY",
-        "ticker": "OKTA",
+        "ticker": "MANE",
         "conviction": "medium",
-        "reasoning": "Diversifies into cybersecurity software with strong bullish RSI and MACD crossover, reducing correlation with existing hardware/crypto-adjacent holdings."
+        "reasoning": "MACD crossover, price above SMA-20, and volume surge confirm momentum, though RSI 69.7 is nearing overbought so sized more cautiously."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were neutral today (NASDAQ +0.9%, S&P500 +0.4%), but with $1,089 in cash and 3 open slots the risk rules favor deploying rather than idling. We filled all three slots with diversified, signal-confirmed names rather than piling into correlated crypto-proxy tickers.",
+    "briefing": "NASDAQ +1.1% and S&P 500 +0.6% signal a risk-on day, so we deployed the remaining cash into three fully-confirmed momentum names (SKYD, SEI, MANE) that each show the MACD crossover, bullish RSI, price-above-SMA20, and volume-surge combination. Existing positions are held unchanged since none hit stop-loss or profit-target levels.",
     "market_education": {
-      "summary_en": "Broad indices drifted modestly higher today, with the Nasdaq outperforming the S&P 500 slightly, suggesting mild risk appetite without a strong directional catalyst. Trading stayed range-bound as investors awaited clearer signals before committing larger capital. No major headline-driven catalyst was evident in today's session.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u6307\u8868\u73fe\u7565\u52dd\u6a19\u666e500\uff0c\u986f\u793a\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u6eab\u548c\u4f46\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u6295\u8cc7\u4eba\u5728\u5c1a\u672a\u898b\u5230\u66f4\u6e05\u6670\u8a0a\u865f\u524d\u7dad\u6301\u5340\u9593\u64cd\u4f5c\uff0c\u4eca\u65e5\u76e4\u9762\u4ea6\u672a\u898b\u91cd\u5927\u65b0\u805e\u9a45\u52d5\u56e0\u7d20\u3002",
+      "summary_en": "Markets traded higher today with the NASDAQ outpacing the S&P 500, suggesting investors favored growth and technology names over broader market exposure. The relative strength in tech-heavy indices points to continued risk appetite among traders. No specific news catalysts were available in today's feed, so the move appears driven by ongoing sector momentum rather than a single headline event.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u5c0d\u79d1\u6280\u53ca\u589e\u9577\u80a1\u7684\u504f\u597d\u6301\u7e8c\u5347\u6eab\u3002\u79d1\u6280\u80a1\u76f8\u5c0d\u5f37\u52e2\u986f\u793a\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u4ecd\u4f73\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u5177\u9ad4\u65b0\u805e\u982d\u689d\u53ef\u4f9b\u5f15\u7528\uff0c\u6b64\u5347\u52e2\u4f3c\u4e4e\u662f\u7531\u677f\u584a\u52d5\u80fd\u5ef6\u7e8c\u6240\u5e36\u52d5\uff0c\u800c\u975e\u55ae\u4e00\u6d88\u606f\u523a\u6fc0\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, confirmed by multiple technical signals like RSI, MACD, and volume, rather than guessing at turning points. Today's picks were chosen because they showed several confirming signals at once, which lowers the chance of chasing a false signal.",
-      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u4e26\u4ee5RSI\u3001MACD\u3001\u6210\u4ea4\u91cf\u7b49\u591a\u9805\u6280\u8853\u6307\u6a19\u5171\u540c\u78ba\u8a8d\uff0c\u800c\u975e\u55ae\u7d14\u731c\u6e2c\u8f49\u6298\u9ede\u3002\u4eca\u65e5\u6240\u9078\u6a19\u7684\u5747\u540c\u6642\u51fa\u73fe\u591a\u500b\u78ba\u8a8d\u8a0a\u865f\uff0c\u964d\u4f4e\u4e86\u8ffd\u9010\u5047\u8a0a\u865f\u7684\u98a8\u96aa\u3002"
+      "term": "Signal Confirmation",
+      "explanation_en": "Signal confirmation means waiting for multiple technical indicators \u2014 like RSI, MACD, moving averages, and volume \u2014 to all point the same direction before making a trade. Relying on just one signal can lead to false starts, but when several agree, it suggests stronger, more reliable momentum.",
+      "explanation_zh": "\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u5728\u4ea4\u6613\u524d\uff0c\u7b49\u5f85\u591a\u500b\u6280\u8853\u6307\u6a19\uff08\u4f8b\u5982RSI\u3001MACD\u3001\u79fb\u52d5\u5e73\u5747\u7dda\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u3002\u53ea\u4f9d\u8cf4\u55ae\u4e00\u8a0a\u865f\u5bb9\u6613\u51fa\u73fe\u5047\u7a81\u7834\uff0c\u4f46\u7576\u591a\u500b\u6307\u6a19\u540c\u6642\u78ba\u8a8d\u6642\uff0c\u52d5\u80fd\u901a\u5e38\u66f4\u70ba\u5f37\u52c1\u53ca\u53ef\u9760\u3002"
     }
   }
 }
