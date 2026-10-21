@@ -1,14 +1,14 @@
 {
   "date": "2026-10-21",
-  "briefing": "NASDAQ +1.1% and S&P 500 +0.6% signal a risk-on day, so we deployed the remaining cash into three fully-confirmed momentum names (SKYD, SEI, MANE) that each show the MACD crossover, bullish RSI, price-above-SMA20, and volume-surge combination. Existing positions are held unchanged since none hit stop-loss or profit-target levels.",
+  "briefing": "Markets were risk-on today with the NASDAQ up 1.1% and the S&P 500 up 0.6%. With 3 open slots and cash above the deployment threshold, we filled all three slots with SKYD, INFQ, and SEI, the top-scoring candidates showing full multi-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge), consistent with the lesson to deploy dry powder on genuine risk-on days.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Signal confirmation means waiting for multiple technical indicators — like RSI, MACD, moving averages, and volume — to all point the same direction before making a trade. Relying on just one signal can lead to false starts, but when several agree, it suggests stronger, more reliable momentum.",
-    "explanation_zh": "訊號確認是指在交易前，等待多個技術指標（例如RSI、MACD、移動平均線及成交量）同時指向同一方向。只依賴單一訊號容易出現假突破，但當多個指標同時確認時，動能通常更為強勁及可靠。"
+    "term": "MACD Crossover",
+    "explanation_en": "A MACD (Moving Average Convergence Divergence) crossover happens when a stock's MACD line moves above its signal line, which can signal the start of upward momentum. Traders often combine it with other signals like RSI and volume to confirm the move is real rather than a brief blip, which is exactly why today's buys required all four signals together.",
+    "explanation_zh": "MACD（指數平滑異同移動平均線）黃金交叉是指股票的MACD線向上穿越訊號線，往往被視為上升動力開始的訊號。交易者通常會配合RSI及成交量等其他指標一併確認，以避免誤判短暫的價格波動，這正是今天買入決策要求四項訊號同時出現的原因。"
   },
   "market_education": {
-    "summary_en": "Markets traded higher today with the NASDAQ outpacing the S&P 500, suggesting investors favored growth and technology names over broader market exposure. The relative strength in tech-heavy indices points to continued risk appetite among traders. No specific news catalysts were available in today's feed, so the move appears driven by ongoing sector momentum rather than a single headline event.",
-    "summary_zh": "今日大市上揚，納斯達克指數升幅跑贏標普500指數，反映投資者對科技及增長股的偏好持續升溫。科技股相對強勢顯示市場風險胃納仍佳。由於今日未有具體新聞頭條可供引用，此升勢似乎是由板塊動能延續所帶動，而非單一消息刺激。",
+    "summary_en": "Broad market strength today was led by the NASDAQ (+1.1%) outpacing the S&P 500 (+0.6%), suggesting growth and tech-adjacent names continued to attract buying interest. Several smaller-cap names in our screener, including SKYD and INFQ, showed volume surges alongside bullish MACD crossovers, a pattern often associated with institutional accumulation rather than retail noise. The breadth of bullish technical signals across the candidate list reinforces that today's move was a genuine risk-on session rather than an isolated single-stock rally.",
+    "summary_zh": "今日大盤走強，納斯達克指數上漲1.1%，領先標普500指數的0.6%升幅，顯示科技及成長股持續吸引買盤。篩選名單中多隻中小型股，包括SKYD和INFQ，同時出現成交量放大及MACD黃金交叉的現象，這種組合訊號通常被視為機構資金進場而非散戶炒作。整體技術訊號廣泛轉強，印證今日屬於真正的風險偏好（risk-on）行情，而非單一股票的個別反彈。",
     "sources": []
   },
   "trades": [
@@ -16,19 +16,19 @@
       "action": "BUY",
       "ticker": "SKYD",
       "conviction": "high",
-      "reasoning": "All four confirmation signals align (RSI 67.5 bullish, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) on a risk-on day."
+      "reasoning": "Top score of 100 with full multi-signal confirmation (MACD bullish crossover, rising histogram, RSI 67.6 in bullish zone, price above SMA-20, and a volume surge) on a risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "INFQ",
+      "conviction": "high",
+      "reasoning": "Tied for top score of 100 with the same full multi-signal confirmation (MACD crossover, rising histogram, RSI 61.2, price above SMA-20, volume surge), indicating institutional participation."
     },
     {
       "action": "BUY",
       "ticker": "SEI",
-      "conviction": "high",
-      "reasoning": "RSI 59.6 in bullish zone, MACD crossover, price above SMA-20, and a volume surge confirm institutional buying interest."
-    },
-    {
-      "action": "BUY",
-      "ticker": "MANE",
       "conviction": "medium",
-      "reasoning": "MACD crossover, price above SMA-20, and volume surge confirm momentum, though RSI 69.7 is nearing overbought so sized more cautiously."
+      "reasoning": "Score of 95 with MACD crossover, RSI 59.6 in bullish zone, price above SMA-20, and a volume surge meets the required confirmation criteria to deploy the last open slot on this risk-on day."
     }
   ],
   "outcomes": {
