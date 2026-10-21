@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-10-21T18:00:50.350709+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-10-21T19:01:00.993508+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
+        "ticker": "SKYD",
+        "conviction": "high",
+        "reasoning": "Top-scoring candidate with full signal confirmation \u2014 bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge indicating real participation."
+      },
+      {
+        "action": "BUY",
         "ticker": "NVDA",
-        "conviction": "high",
-        "reasoning": "Risk-on day plus full multi-signal confirmation (RSI 62.3, MACD bullish crossover with rising histogram, price above SMA-20) on a blue-chip name adds quality exposure without excess volatility."
-      },
-      {
-        "action": "BUY",
-        "ticker": "APLD",
-        "conviction": "high",
-        "reasoning": "Top-scored AI infrastructure play with all four bullish signals confirmed, fitting the risk-on deployment cadence from past lessons."
-      },
-      {
-        "action": "BUY",
-        "ticker": "BE",
         "conviction": "medium",
-        "reasoning": "Fully confirmed bullish setup in a different sector (clean energy) that diversifies away from the crypto-mining names already crowding the top of the list."
+        "reasoning": "Large-cap AI/semiconductor leader with bullish RSI and MACD crossover above SMA-20, offering steadier risk-adjusted exposure than smaller speculative names."
+      },
+      {
+        "action": "BUY",
+        "ticker": "OKTA",
+        "conviction": "medium",
+        "reasoning": "Diversifies into cybersecurity software with strong bullish RSI and MACD crossover, reducing correlation with existing hardware/crypto-adjacent holdings."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "NASDAQ +1.2% and S&P 500 +0.7% confirm a genuine risk-on day, so we deployed idle cash into our three open slots. Picked NVDA, APLD, and BE \u2014 all showing full bullish confirmation (MACD crossover, rising histogram, RSI in the healthy 55-70 zone, price above SMA-20) while avoiding over-concentration in bitcoin-miner names like WULF/MARA that already dominate the top of the screen.",
+    "briefing": "Markets were neutral today (NASDAQ +0.9%, S&P500 +0.4%), but with $1,089 in cash and 3 open slots the risk rules favor deploying rather than idling. We filled all three slots with diversified, signal-confirmed names rather than piling into correlated crypto-proxy tickers.",
     "market_education": {
-      "summary_en": "Major indices pushed higher today with the NASDAQ outpacing the S&P 500, consistent with continued risk appetite for growth and tech-adjacent names. Breadth was healthy, with numerous momentum names showing synchronized bullish signals (MACD crossovers, rising histograms, prices above their 20-day averages) rather than a narrow rally. No single catalyst headline was available today, but the pattern points to broad-based buying rather than a one-stock story.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u8d70\u9ad8\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u986f\u793a\u5e02\u5834\u5c0d\u79d1\u6280\u53ca\u6210\u9577\u80a1\u7684risk appetite\u6301\u7e8c\u5347\u6eab\u3002\u5e02\u5834\u5ee3\u5ea6\u826f\u597d\uff0c\u591a\u96bb\u52d5\u80fd\u80a1\u540c\u6b65\u51fa\u73fe\u770b\u6f32\u8a0a\u865f\uff08MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u52d5\u80fd\u67f1\u72c0\u5716\u4e0a\u5347\u3001\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\uff09\uff0c\u53cd\u6620\u9019\u662f\u4e00\u6b21\u8f03\u5168\u9762\u6027\u7684\u8cb7\u76e4\uff0c\u800c\u975e\u55ae\u4e00\u80a1\u7968\u5e36\u52d5\u7684\u884c\u60c5\u3002",
+      "summary_en": "Broad indices drifted modestly higher today, with the Nasdaq outperforming the S&P 500 slightly, suggesting mild risk appetite without a strong directional catalyst. Trading stayed range-bound as investors awaited clearer signals before committing larger capital. No major headline-driven catalyst was evident in today's session.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u6307\u8868\u73fe\u7565\u52dd\u6a19\u666e500\uff0c\u986f\u793a\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u6eab\u548c\u4f46\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u6027\u50ac\u5316\u5291\u3002\u6295\u8cc7\u4eba\u5728\u5c1a\u672a\u898b\u5230\u66f4\u6e05\u6670\u8a0a\u865f\u524d\u7dad\u6301\u5340\u9593\u64cd\u4f5c\uff0c\u4eca\u65e5\u76e4\u9762\u4ea6\u672a\u898b\u91cd\u5927\u65b0\u805e\u9a45\u52d5\u56e0\u7d20\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong recent performance tends to continue in the short term. Today's buys were chosen because they showed several confirming signals together \u2014 rising price, bullish MACD, and healthy RSI \u2014 rather than relying on just one indicator.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\uff08Momentum Investing\uff09\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u8868\u73fe\u5f37\u52e2\u3001\u80a1\u50f9\u6301\u7e8c\u4e0a\u5347\u7684\u80a1\u7968\uff0c\u7406\u8ad6\u57fa\u790e\u662f\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u7968\u7684\u5347\u52e2\u50be\u5411\u65bc\u5ef6\u7e8c\u3002\u4eca\u5929\u7684\u8cb7\u5165\u9078\u64c7\u662f\u57fa\u65bc\u591a\u9805\u8a0a\u865f\u540c\u6642\u78ba\u8a8d\u2014\u2014\u80a1\u50f9\u4e0a\u5347\u3001MACD\u770b\u6f32\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u2014\u2014\u800c\u975e\u55ae\u9760\u4e00\u500b\u6307\u6a19\u4f5c\u6c7a\u5b9a\u3002"
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, confirmed by multiple technical signals like RSI, MACD, and volume, rather than guessing at turning points. Today's picks were chosen because they showed several confirming signals at once, which lowers the chance of chasing a false signal.",
+      "explanation_zh": "\u52d5\u91cf\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u4e26\u4ee5RSI\u3001MACD\u3001\u6210\u4ea4\u91cf\u7b49\u591a\u9805\u6280\u8853\u6307\u6a19\u5171\u540c\u78ba\u8a8d\uff0c\u800c\u975e\u55ae\u7d14\u731c\u6e2c\u8f49\u6298\u9ede\u3002\u4eca\u65e5\u6240\u9078\u6a19\u7684\u5747\u540c\u6642\u51fa\u73fe\u591a\u500b\u78ba\u8a8d\u8a0a\u865f\uff0c\u964d\u4f4e\u4e86\u8ffd\u9010\u5047\u8a0a\u865f\u7684\u98a8\u96aa\u3002"
     }
   }
 }
