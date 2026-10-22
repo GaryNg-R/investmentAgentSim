@@ -1,38 +1,19 @@
 {
-  "saved_at": "2026-10-22T13:01:09.274172+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-10-22T14:00:30.276083+00:00",
+  "market_direction": "risk_off",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "SKYD",
-        "conviction": "high",
-        "reasoning": "Score 100 with full signal stack \u2014 bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge confirming institutional interest on a risk-on day."
-      },
-      {
-        "action": "BUY",
-        "ticker": "INFQ",
-        "conviction": "high",
-        "reasoning": "Matches SKYD's full multi-signal confirmation (bullish RSI zone, MACD crossover, rising histogram, volume surge) making it an equally strong high-conviction add."
-      },
-      {
-        "action": "BUY",
-        "ticker": "SEI",
-        "conviction": "medium",
-        "reasoning": "Strong setup with bullish RSI, MACD crossover, price above SMA-20, and volume surge, though lacking the rising-histogram confirmation of the top two picks."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Markets are risk-on today with NASDAQ +1.1% and S&P 500 +0.6%, so per our strategy of deploying idle cash into confirmed setups on green days, we're filling all 3 open slots with the highest-scoring, multi-signal-confirmed candidates: SKYD, INFQ, and SEI. Existing positions are held unchanged since the market is constructive, not a reason to exit winners.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Markets turned risk-off today with NASDAQ down 1.5% and the S&P 500 down 0.8%, and no new candidates were screened. We're holding all 7 existing positions and keeping cash on the sidelines rather than forcing a buy into a down day.",
     "market_education": {
-      "summary_en": "Broad market gains today, led by NASDAQ's 1.1% rise, reflect continued risk appetite among investors favoring growth and momentum names. The S&P 500's smaller 0.6% gain suggests tech and small/mid-cap momentum stocks are outperforming the broader index. This kind of breadth-with-leadership pattern often signals investors rotating into higher-beta names during risk-on phases.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u5411\u597d,\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53471.1%,\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u5347\u6eab,\u8cc7\u91d1\u6d41\u5411\u589e\u9577\u53ca\u52d5\u80fd\u80a1\u3002\u6a19\u666e500\u6307\u6578\u5347\u5e45\u8f03\u6eab\u548c,\u53ea\u67090.6%,\u986f\u793a\u79d1\u6280\u80a1\u53ca\u4e2d\u5c0f\u578b\u52d5\u80fd\u80a1\u8868\u73fe\u512a\u65bc\u5927\u76e4\u3002\u9019\u7a2e\u300c\u9818\u6f32\u80a1\u8dd1\u8d0f\u5927\u76e4\u300d\u7684\u683c\u5c40,\u901a\u5e38\u610f\u5473\u8457\u8cc7\u91d1\u5728\u98a8\u96aa\u504f\u597d\u4e0a\u5347\u6642\u8f49\u5411\u9ad8\u8c9d\u5854(\u9ad8\u6ce2\u52d5)\u80a1\u4efd\u3002",
+      "summary_en": "Broad tech-led selling pushed NASDAQ down 1.5% and the S&P 500 down 0.8% today, with no single catalyst identified in the available data. Risk-off days like this often reflect profit-taking or shifting rate expectations rather than company-specific news. With no screened candidates available and a negative market tone, staying patient is the prudent choice.",
+      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u80a1\u9818\u8dcc,\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc1.5%,\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc0.8%,\u66ab\u672a\u6709\u660e\u78ba\u55ae\u4e00\u50ac\u5316\u56e0\u7d20\u3002\u9019\u985e\u907f\u96aa\u65e5\u901a\u5e38\u53cd\u6620\u7372\u5229\u56de\u5410\u6216\u5e02\u5834\u5c0d\u5229\u7387\u9810\u671f\u7684\u8f49\u8b8a,\u800c\u975e\u500b\u80a1\u57fa\u672c\u9762\u8b8a\u5316\u3002\u7531\u65bc\u4eca\u65e5\u6c92\u6709\u7be9\u9078\u51fa\u65b0\u7684\u6f5b\u5728\u6a19\u7684,\u52a0\u4e0a\u5e02\u5834\u6c23\u6c1b\u504f\u5411\u4fdd\u5b88,\u6309\u5175\u4e0d\u52d5\u662f\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "MACD Crossover",
-      "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often signaling the start of upward momentum. Traders combine it with other signals like rising RSI and volume surges to confirm a genuine trend shift rather than a false signal. Today's buys (SKYD, INFQ, SEI) all showed this pattern alongside confirming volume and price strength.",
-      "explanation_zh": "MACD\u9ec3\u91d1\u4ea4\u53c9\u662f\u6307\u80a1\u7968\u7684MACD\u7dda\u5347\u7a7f\u8a0a\u865f\u7dda,\u901a\u5e38\u4ee3\u8868\u4e0a\u5347\u52d5\u80fd\u958b\u59cb\u5f62\u6210\u3002\u4ea4\u6613\u8005\u6703\u914d\u5408\u5176\u4ed6\u6307\u6a19,\u4f8b\u5982RSI\u4e0a\u5347\u53ca\u6210\u4ea4\u91cf\u653e\u5927,\u4f86\u78ba\u8a8d\u9019\u662f\u771f\u6b63\u7684\u8da8\u52e2\u8f49\u8b8a,\u800c\u975e\u5047\u8a0a\u865f\u3002\u4eca\u65e5\u8cb7\u5165\u7684SKYD\u3001INFQ\u53caSEI\u5747\u540c\u6642\u51fa\u73fe\u6b64\u8a0a\u865f,\u4e26\u6709\u6210\u4ea4\u91cf\u53ca\u80a1\u50f9\u8d70\u52e2\u914d\u5408\u78ba\u8a8d\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like stocks, often moving toward cash or safer investments. On days like this, it's usually better to hold your existing positions and avoid chasing new buys, since lower-conviction trades made under pressure tend to perform worse.",
+      "explanation_zh": "\u300c\u907f\u96aa\u300d(Risk-Off)\u65e5\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u6e1b\u5c11\u6301\u6709\u80a1\u7968\u7b49\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522,\u8f49\u5411\u73fe\u91d1\u6216\u66f4\u5b89\u5168\u7684\u6295\u8cc7\u3002\u5728\u9019\u985e\u65e5\u5b50,\u901a\u5e38\u8f03\u597d\u7684\u505a\u6cd5\u662f\u6301\u6709\u73fe\u6709\u5009\u4f4d,\u907f\u514d\u5009\u4fc3\u8ffd\u5165\u65b0\u6a19\u7684,\u56e0\u70ba\u5728\u5e02\u5834\u58d3\u529b\u4e0b\u505a\u51fa\u7684\u4f4e\u4fe1\u5fc3\u4ea4\u6613\u5f80\u5f80\u8868\u73fe\u8f03\u5dee\u3002"
     }
   }
 }

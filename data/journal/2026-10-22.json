@@ -1,36 +1,17 @@
 {
   "date": "2026-10-22",
-  "briefing": "Markets are risk-on today with NASDAQ +1.1% and S&P 500 +0.6%, so per our strategy of deploying idle cash into confirmed setups on green days, we're filling all 3 open slots with the highest-scoring, multi-signal-confirmed candidates: SKYD, INFQ, and SEI. Existing positions are held unchanged since the market is constructive, not a reason to exit winners.",
+  "briefing": "Markets turned risk-off today with NASDAQ down 1.5% and the S&P 500 down 0.8%, and no new candidates were screened. We're holding all 7 existing positions and keeping cash on the sidelines rather than forcing a buy into a down day.",
   "daily_lesson": {
-    "term": "MACD Crossover",
-    "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often signaling the start of upward momentum. Traders combine it with other signals like rising RSI and volume surges to confirm a genuine trend shift rather than a false signal. Today's buys (SKYD, INFQ, SEI) all showed this pattern alongside confirming volume and price strength.",
-    "explanation_zh": "MACD黃金交叉是指股票的MACD線升穿訊號線,通常代表上升動能開始形成。交易者會配合其他指標,例如RSI上升及成交量放大,來確認這是真正的趨勢轉變,而非假訊號。今日買入的SKYD、INFQ及SEI均同時出現此訊號,並有成交量及股價走勢配合確認。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like stocks, often moving toward cash or safer investments. On days like this, it's usually better to hold your existing positions and avoid chasing new buys, since lower-conviction trades made under pressure tend to perform worse.",
+    "explanation_zh": "「避險」(Risk-Off)日是指投資者普遍減少持有股票等風險較高的資產,轉向現金或更安全的投資。在這類日子,通常較好的做法是持有現有倉位,避免倉促追入新標的,因為在市場壓力下做出的低信心交易往往表現較差。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today, led by NASDAQ's 1.1% rise, reflect continued risk appetite among investors favoring growth and momentum names. The S&P 500's smaller 0.6% gain suggests tech and small/mid-cap momentum stocks are outperforming the broader index. This kind of breadth-with-leadership pattern often signals investors rotating into higher-beta names during risk-on phases.",
-    "summary_zh": "今日大市普遍向好,納斯達克指數上升1.1%,反映投資者風險偏好持續升溫,資金流向增長及動能股。標普500指數升幅較溫和,只有0.6%,顯示科技股及中小型動能股表現優於大盤。這種「領漲股跑贏大盤」的格局,通常意味著資金在風險偏好上升時轉向高貝塔(高波動)股份。",
+    "summary_en": "Broad tech-led selling pushed NASDAQ down 1.5% and the S&P 500 down 0.8% today, with no single catalyst identified in the available data. Risk-off days like this often reflect profit-taking or shifting rate expectations rather than company-specific news. With no screened candidates available and a negative market tone, staying patient is the prudent choice.",
+    "summary_zh": "今日科技股領跌,納斯達克指數下跌1.5%,標普500指數下跌0.8%,暫未有明確單一催化因素。這類避險日通常反映獲利回吐或市場對利率預期的轉變,而非個股基本面變化。由於今日沒有篩選出新的潛在標的,加上市場氣氛偏向保守,按兵不動是較穩健的做法。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "SKYD",
-      "conviction": "high",
-      "reasoning": "Score 100 with full signal stack — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge confirming institutional interest on a risk-on day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "INFQ",
-      "conviction": "high",
-      "reasoning": "Matches SKYD's full multi-signal confirmation (bullish RSI zone, MACD crossover, rising histogram, volume surge) making it an equally strong high-conviction add."
-    },
-    {
-      "action": "BUY",
-      "ticker": "SEI",
-      "conviction": "medium",
-      "reasoning": "Strong setup with bullish RSI, MACD crossover, price above SMA-20, and volume surge, though lacking the rising-histogram confirmation of the top two picks."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14655.735246181488,
     "cash": 1089.2850012779236,
