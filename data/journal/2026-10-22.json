@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22",
+  "briefing": "Markets are risk-on today with NASDAQ +1.1% and S&P 500 +0.6%, so per our strategy of deploying idle cash into confirmed setups on green days, we're filling all 3 open slots with the highest-scoring, multi-signal-confirmed candidates: SKYD, INFQ, and SEI. Existing positions are held unchanged since the market is constructive, not a reason to exit winners.",
+  "daily_lesson": {
+    "term": "MACD Crossover",
+    "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often signaling the start of upward momentum. Traders combine it with other signals like rising RSI and volume surges to confirm a genuine trend shift rather than a false signal. Today's buys (SKYD, INFQ, SEI) all showed this pattern alongside confirming volume and price strength.",
+    "explanation_zh": "MACD黃金交叉是指股票的MACD線升穿訊號線,通常代表上升動能開始形成。交易者會配合其他指標,例如RSI上升及成交量放大,來確認這是真正的趨勢轉變,而非假訊號。今日買入的SKYD、INFQ及SEI均同時出現此訊號,並有成交量及股價走勢配合確認。"
+  },
+  "market_education": {
+    "summary_en": "Broad market gains today, led by NASDAQ's 1.1% rise, reflect continued risk appetite among investors favoring growth and momentum names. The S&P 500's smaller 0.6% gain suggests tech and small/mid-cap momentum stocks are outperforming the broader index. This kind of breadth-with-leadership pattern often signals investors rotating into higher-beta names during risk-on phases.",
+    "summary_zh": "今日大市普遍向好,納斯達克指數上升1.1%,反映投資者風險偏好持續升溫,資金流向增長及動能股。標普500指數升幅較溫和,只有0.6%,顯示科技股及中小型動能股表現優於大盤。這種「領漲股跑贏大盤」的格局,通常意味著資金在風險偏好上升時轉向高貝塔(高波動)股份。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "SKYD",
+      "conviction": "high",
+      "reasoning": "Score 100 with full signal stack — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge confirming institutional interest on a risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "INFQ",
+      "conviction": "high",
+      "reasoning": "Matches SKYD's full multi-signal confirmation (bullish RSI zone, MACD crossover, rising histogram, volume surge) making it an equally strong high-conviction add."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SEI",
+      "conviction": "medium",
+      "reasoning": "Strong setup with bullish RSI, MACD crossover, price above SMA-20, and volume surge, though lacking the rising-histogram confirmation of the top two picks."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14655.735246181488,
+    "cash": 1089.2850012779236,
+    "pnl_dollar": 4655.735246181488,
+    "pnl_pct": 46.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}

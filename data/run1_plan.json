@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-10-21T21:00:58.963293+00:00",
+  "saved_at": "2026-10-22T13:01:09.274172+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
@@ -7,32 +7,32 @@
         "action": "BUY",
         "ticker": "SKYD",
         "conviction": "high",
-        "reasoning": "Top score of 100 with full multi-signal confirmation (MACD bullish crossover, rising histogram, RSI 67.6 in bullish zone, price above SMA-20, and a volume surge) on a risk-on day."
+        "reasoning": "Score 100 with full signal stack \u2014 bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge confirming institutional interest on a risk-on day."
       },
       {
         "action": "BUY",
         "ticker": "INFQ",
         "conviction": "high",
-        "reasoning": "Tied for top score of 100 with the same full multi-signal confirmation (MACD crossover, rising histogram, RSI 61.2, price above SMA-20, volume surge), indicating institutional participation."
+        "reasoning": "Matches SKYD's full multi-signal confirmation (bullish RSI zone, MACD crossover, rising histogram, volume surge) making it an equally strong high-conviction add."
       },
       {
         "action": "BUY",
         "ticker": "SEI",
         "conviction": "medium",
-        "reasoning": "Score of 95 with MACD crossover, RSI 59.6 in bullish zone, price above SMA-20, and a volume surge meets the required confirmation criteria to deploy the last open slot on this risk-on day."
+        "reasoning": "Strong setup with bullish RSI, MACD crossover, price above SMA-20, and volume surge, though lacking the rising-histogram confirmation of the top two picks."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were risk-on today with the NASDAQ up 1.1% and the S&P 500 up 0.6%. With 3 open slots and cash above the deployment threshold, we filled all three slots with SKYD, INFQ, and SEI, the top-scoring candidates showing full multi-signal confirmation (MACD crossover, bullish RSI, price above SMA-20, and volume surge), consistent with the lesson to deploy dry powder on genuine risk-on days.",
+    "briefing": "Markets are risk-on today with NASDAQ +1.1% and S&P 500 +0.6%, so per our strategy of deploying idle cash into confirmed setups on green days, we're filling all 3 open slots with the highest-scoring, multi-signal-confirmed candidates: SKYD, INFQ, and SEI. Existing positions are held unchanged since the market is constructive, not a reason to exit winners.",
     "market_education": {
-      "summary_en": "Broad market strength today was led by the NASDAQ (+1.1%) outpacing the S&P 500 (+0.6%), suggesting growth and tech-adjacent names continued to attract buying interest. Several smaller-cap names in our screener, including SKYD and INFQ, showed volume surges alongside bullish MACD crossovers, a pattern often associated with institutional accumulation rather than retail noise. The breadth of bullish technical signals across the candidate list reinforces that today's move was a genuine risk-on session rather than an isolated single-stock rally.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u5f37\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f321.1%\uff0c\u9818\u5148\u6a19\u666e500\u6307\u6578\u76840.6%\u5347\u5e45\uff0c\u986f\u793a\u79d1\u6280\u53ca\u6210\u9577\u80a1\u6301\u7e8c\u5438\u5f15\u8cb7\u76e4\u3002\u7be9\u9078\u540d\u55ae\u4e2d\u591a\u96bb\u4e2d\u5c0f\u578b\u80a1\uff0c\u5305\u62ecSKYD\u548cINFQ\uff0c\u540c\u6642\u51fa\u73fe\u6210\u4ea4\u91cf\u653e\u5927\u53caMACD\u9ec3\u91d1\u4ea4\u53c9\u7684\u73fe\u8c61\uff0c\u9019\u7a2e\u7d44\u5408\u8a0a\u865f\u901a\u5e38\u88ab\u8996\u70ba\u6a5f\u69cb\u8cc7\u91d1\u9032\u5834\u800c\u975e\u6563\u6236\u7092\u4f5c\u3002\u6574\u9ad4\u6280\u8853\u8a0a\u865f\u5ee3\u6cdb\u8f49\u5f37\uff0c\u5370\u8b49\u4eca\u65e5\u5c6c\u65bc\u771f\u6b63\u7684\u98a8\u96aa\u504f\u597d\uff08risk-on\uff09\u884c\u60c5\uff0c\u800c\u975e\u55ae\u4e00\u80a1\u7968\u7684\u500b\u5225\u53cd\u5f48\u3002",
+      "summary_en": "Broad market gains today, led by NASDAQ's 1.1% rise, reflect continued risk appetite among investors favoring growth and momentum names. The S&P 500's smaller 0.6% gain suggests tech and small/mid-cap momentum stocks are outperforming the broader index. This kind of breadth-with-leadership pattern often signals investors rotating into higher-beta names during risk-on phases.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u5411\u597d,\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53471.1%,\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u5347\u6eab,\u8cc7\u91d1\u6d41\u5411\u589e\u9577\u53ca\u52d5\u80fd\u80a1\u3002\u6a19\u666e500\u6307\u6578\u5347\u5e45\u8f03\u6eab\u548c,\u53ea\u67090.6%,\u986f\u793a\u79d1\u6280\u80a1\u53ca\u4e2d\u5c0f\u578b\u52d5\u80fd\u80a1\u8868\u73fe\u512a\u65bc\u5927\u76e4\u3002\u9019\u7a2e\u300c\u9818\u6f32\u80a1\u8dd1\u8d0f\u5927\u76e4\u300d\u7684\u683c\u5c40,\u901a\u5e38\u610f\u5473\u8457\u8cc7\u91d1\u5728\u98a8\u96aa\u504f\u597d\u4e0a\u5347\u6642\u8f49\u5411\u9ad8\u8c9d\u5854(\u9ad8\u6ce2\u52d5)\u80a1\u4efd\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "MACD Crossover",
-      "explanation_en": "A MACD (Moving Average Convergence Divergence) crossover happens when a stock's MACD line moves above its signal line, which can signal the start of upward momentum. Traders often combine it with other signals like RSI and volume to confirm the move is real rather than a brief blip, which is exactly why today's buys required all four signals together.",
-      "explanation_zh": "MACD\uff08\u6307\u6578\u5e73\u6ed1\u7570\u540c\u79fb\u52d5\u5e73\u5747\u7dda\uff09\u9ec3\u91d1\u4ea4\u53c9\u662f\u6307\u80a1\u7968\u7684MACD\u7dda\u5411\u4e0a\u7a7f\u8d8a\u8a0a\u865f\u7dda\uff0c\u5f80\u5f80\u88ab\u8996\u70ba\u4e0a\u5347\u52d5\u529b\u958b\u59cb\u7684\u8a0a\u865f\u3002\u4ea4\u6613\u8005\u901a\u5e38\u6703\u914d\u5408RSI\u53ca\u6210\u4ea4\u91cf\u7b49\u5176\u4ed6\u6307\u6a19\u4e00\u4f75\u78ba\u8a8d\uff0c\u4ee5\u907f\u514d\u8aa4\u5224\u77ed\u66ab\u7684\u50f9\u683c\u6ce2\u52d5\uff0c\u9019\u6b63\u662f\u4eca\u5929\u8cb7\u5165\u6c7a\u7b56\u8981\u6c42\u56db\u9805\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u7684\u539f\u56e0\u3002"
+      "explanation_en": "A MACD crossover happens when a stock's MACD line moves above its signal line, often signaling the start of upward momentum. Traders combine it with other signals like rising RSI and volume surges to confirm a genuine trend shift rather than a false signal. Today's buys (SKYD, INFQ, SEI) all showed this pattern alongside confirming volume and price strength.",
+      "explanation_zh": "MACD\u9ec3\u91d1\u4ea4\u53c9\u662f\u6307\u80a1\u7968\u7684MACD\u7dda\u5347\u7a7f\u8a0a\u865f\u7dda,\u901a\u5e38\u4ee3\u8868\u4e0a\u5347\u52d5\u80fd\u958b\u59cb\u5f62\u6210\u3002\u4ea4\u6613\u8005\u6703\u914d\u5408\u5176\u4ed6\u6307\u6a19,\u4f8b\u5982RSI\u4e0a\u5347\u53ca\u6210\u4ea4\u91cf\u653e\u5927,\u4f86\u78ba\u8a8d\u9019\u662f\u771f\u6b63\u7684\u8da8\u52e2\u8f49\u8b8a,\u800c\u975e\u5047\u8a0a\u865f\u3002\u4eca\u65e5\u8cb7\u5165\u7684SKYD\u3001INFQ\u53caSEI\u5747\u540c\u6642\u51fa\u73fe\u6b64\u8a0a\u865f,\u4e26\u6709\u6210\u4ea4\u91cf\u53ca\u80a1\u50f9\u8d70\u52e2\u914d\u5408\u78ba\u8a8d\u3002"
     }
   }
 }
