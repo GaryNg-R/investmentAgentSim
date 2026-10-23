@@ -1,38 +1,19 @@
 {
-  "saved_at": "2026-10-23T19:01:23.419384+00:00",
+  "saved_at": "2026-10-23T20:00:58.959020+00:00",
   "market_direction": "neutral",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "CLF",
-        "conviction": "medium",
-        "reasoning": "RSI 57.5 in the bullish zone with a fresh MACD crossover and rising histogram while price holds above SMA-20, a clean non-overbought setup."
-      },
-      {
-        "action": "BUY",
-        "ticker": "NU",
-        "conviction": "medium",
-        "reasoning": "Highest-scoring candidate with RSI 59.8 still well under 70, MACD bullish crossover, and price above SMA-20 showing healthy uptrend, not a chase."
-      },
-      {
-        "action": "BUY",
-        "ticker": "ONDS",
-        "conviction": "medium",
-        "reasoning": "Same multi-signal bullish setup as the other top picks with RSI 60.1, used to fill the third open slot since cash is above the $500 threshold."
-      }
-    ],
+    "trades": [],
     "skip_new_buys": false,
-    "briefing": "Markets were roughly flat to slightly lower today (NASDAQ -0.1%, S&P500 -0.4%), a neutral session rather than a clear risk-on or risk-off signal. With 3 open slots and cash above the $500 deployment threshold, we picked the three highest-scoring, non-overbought candidates (CLF, NU, ONDS) at medium conviction rather than forcing high-conviction bets, since none showed the volume-surge confirmation needed for full conviction. Existing positions are held unchanged, letting automatic stop-loss and profit-target rules manage exits.",
+    "briefing": "Markets were roughly flat today, with NASDAQ down 0.2% and the S&P 500 down 0.5% \u2014 not a risk-on signal. Despite several candidates (ZLAB, FROG) showing strong multi-signal setups, we're holding cash and existing positions rather than forcing a buy on a lukewarm day, per the lesson that risk-on deployment should wait for a clear signal like a NASDAQ move of +2% or more.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.1% and the S&P 500 down 0.4%, a quiet, directionless session rather than a sharp move in either direction. Without a strong catalyst, trading stayed range-bound, and the modest decline looks more like consolidation after recent gains than the start of a selloff. Individual stocks like CLF, NU, and ONDS still showed bullish technical setups even as the broader market was soft, a sign of selective strength beneath a flat index.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u7a84\u5e45\u6ce2\u52d5\uff0c\u7d0d\u6307\u5fae\u8dcc0.1%\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.4%\uff0c\u5c6c\u65bc\u65b9\u5411\u4e0d\u660e\u7684\u6de1\u975c\u4ea4\u6613\u65e5\uff0c\u4e26\u7121\u660e\u986f\u50ac\u5316\u56e0\u7d20\u5e36\u52d5\u5927\u5e45\u6ce2\u52d5\u3002\u5728\u7f3a\u4e4f\u5f37\u529b\u6d88\u606f\u9762\u523a\u6fc0\u4e0b\uff0c\u5e02\u6cc1\u5448\u73fe\u5340\u9593\u6574\u7406\uff0c\u8f03\u4f3c\u662f\u8fd1\u671f\u5347\u52e2\u5f8c\u7684\u6d88\u5316\uff0c\u800c\u975e\u62cb\u552e\u6f6e\u7684\u958b\u7aef\u3002\u503c\u5f97\u7559\u610f\u7684\u662f\uff0c\u500b\u5225\u80a1\u4efd\u5982CLF\u3001NU\u53caONDS\u5373\u4f7f\u5728\u5927\u5e02\u504f\u8edf\u4e0b\u4ecd\u9304\u5f97\u6280\u8853\u9762\u4e0a\u7684\u597d\u6de1\u8a0a\u865f\uff0c\u53cd\u6620\u5927\u5e02\u4e4b\u4e0b\u4ecd\u6709\u500b\u80a1\u5c55\u73fe\u76f8\u5c0d\u5f37\u52e2\u3002",
+      "summary_en": "Today's modest pullback in both NASDAQ (-0.2%) and the S&P 500 (-0.5%) reflects a lack of strong directional conviction rather than any specific shock. Without a clear catalyst, broad indices tend to drift sideways as investors digest recent moves and wait for the next earnings or macro data point. This kind of quiet, low-volatility session is common between major news events.",
+      "summary_zh": "\u4eca\u65e5\u7d0d\u6307\uff08-0.2%\uff09\u53ca\u6a19\u666e500\uff08-0.5%\uff09\u540c\u6b65\u5c0f\u5e45\u56de\u843d\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u660e\u986f\u65b9\u5411\uff0c\u4e26\u975e\u53d7\u55ae\u4e00\u4e8b\u4ef6\u885d\u64ca\u6240\u81f4\u3002\u5728\u7f3a\u4e4f\u5177\u9ad4\u50ac\u5316\u5291\u7684\u60c5\u6cc1\u4e0b\uff0c\u5927\u76e4\u6307\u6578\u50be\u5411\u6a6b\u5411\u6574\u7406\uff0c\u6295\u8cc7\u8005\u591a\u5728\u6d88\u5316\u8fd1\u671f\u8d70\u52e2\u4e26\u7b49\u5f85\u4e0b\u4e00\u8f2a\u8ca1\u5831\u6216\u5b8f\u89c0\u6578\u64da\u516c\u5e03\u3002\u9019\u7a2e\u4f4e\u6ce2\u52d5\u7684\u5e73\u975c\u4ea4\u6613\u65e5\u5728\u91cd\u5927\u6d88\u606f\u516c\u5e03\u4e4b\u9593\u76f8\u7576\u5e38\u898b\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Relative Strength",
-      "explanation_en": "Relative strength describes when individual stocks show bullish price and momentum signals even while the broader market index is flat or slightly down. It suggests investors are rotating into specific names with strong fundamentals or technicals rather than buying or selling the market as a whole, which is why stock-picking still matters on quiet, neutral days.",
-      "explanation_zh": "\u76f8\u5c0d\u5f37\u52e2\u662f\u6307\u500b\u5225\u80a1\u4efd\u5373\u4f7f\u5728\u5927\u5e02\u6301\u5e73\u6216\u8f15\u5fae\u4e0b\u8dcc\u6642\uff0c\u4ecd\u5c55\u73fe\u51fa\u597d\u6de1\u8a0a\u865f\u53ca\u50f9\u683c\u52d5\u80fd\u3002\u9019\u53cd\u6620\u6295\u8cc7\u8005\u6b63\u5c07\u8cc7\u91d1\u8f6e\u52d5\u81f3\u500b\u5225\u5177\u5f37\u52c1\u57fa\u672c\u9762\u6216\u6280\u8853\u9762\u7684\u80a1\u4efd\uff0c\u800c\u975e\u5c0d\u5927\u5e02\u6574\u9ad4\u8cb7\u8ce3\uff0c\u56e0\u6b64\u5373\u4f7f\u5728\u6de1\u975c\u3001\u65b9\u5411\u4e0d\u660e\u7684\u4ea4\u6613\u65e5\uff0c\u9078\u80a1\u4f9d\u7136\u91cd\u8981\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like a MACD crossover, healthy RSI, price above moving averages, and a volume surge \u2014 to all line up together before buying, rather than acting on just one promising sign. Today's candidates show strong setups, but without a broader risk-on market move, it's safer to let the signal strengthen before committing capital.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\uff0c\u7b49\u5f85\u591a\u500b\u6280\u8853\u6307\u6a19\u2014\u2014\u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u540c\u6642\u51fa\u73fe\uff0c\u800c\u975e\u55ae\u6191\u4e00\u500b\u770b\u4f3c\u6709\u5229\u7684\u8a0a\u865f\u5c31\u9032\u5834\u3002\u4eca\u65e5\u90e8\u5206\u5019\u9078\u80a1\u8868\u73fe\u5f37\u52e2\uff0c\u4f46\u5728\u5927\u76e4\u672a\u898b\u660e\u986f\u98a8\u96aa\u504f\u597d\u4e0a\u5347\u7684\u60c5\u6cc1\u4e0b\uff0c\u66ab\u7de9\u9032\u5834\u3001\u5f85\u8a0a\u865f\u9032\u4e00\u6b65\u78ba\u8a8d\u6703\u662f\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u3002"
     }
   }
 }

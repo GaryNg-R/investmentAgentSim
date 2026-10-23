@@ -1,36 +1,17 @@
 {
   "date": "2026-10-23",
-  "briefing": "Markets were roughly flat to slightly lower today (NASDAQ -0.1%, S&P500 -0.4%), a neutral session rather than a clear risk-on or risk-off signal. With 3 open slots and cash above the $500 deployment threshold, we picked the three highest-scoring, non-overbought candidates (CLF, NU, ONDS) at medium conviction rather than forcing high-conviction bets, since none showed the volume-surge confirmation needed for full conviction. Existing positions are held unchanged, letting automatic stop-loss and profit-target rules manage exits.",
+  "briefing": "Markets were roughly flat today, with NASDAQ down 0.2% and the S&P 500 down 0.5% — not a risk-on signal. Despite several candidates (ZLAB, FROG) showing strong multi-signal setups, we're holding cash and existing positions rather than forcing a buy on a lukewarm day, per the lesson that risk-on deployment should wait for a clear signal like a NASDAQ move of +2% or more.",
   "daily_lesson": {
-    "term": "Relative Strength",
-    "explanation_en": "Relative strength describes when individual stocks show bullish price and momentum signals even while the broader market index is flat or slightly down. It suggests investors are rotating into specific names with strong fundamentals or technicals rather than buying or selling the market as a whole, which is why stock-picking still matters on quiet, neutral days.",
-    "explanation_zh": "相對強勢是指個別股份即使在大市持平或輕微下跌時，仍展現出好淡訊號及價格動能。這反映投資者正將資金轮動至個別具強勁基本面或技術面的股份，而非對大市整體買賣，因此即使在淡靜、方向不明的交易日，選股依然重要。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, healthy RSI, price above moving averages, and a volume surge — to all line up together before buying, rather than acting on just one promising sign. Today's candidates show strong setups, but without a broader risk-on market move, it's safer to let the signal strengthen before committing capital.",
+    "explanation_zh": "動能確認是指在買入前，等待多個技術指標——例如MACD黃金交叉、RSI處於健康區間、股價高於移動平均線，以及成交量放大——同時出現，而非單憑一個看似有利的訊號就進場。今日部分候選股表現強勢，但在大盤未見明顯風險偏好上升的情況下，暫緩進場、待訊號進一步確認會是較穩健的做法。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.1% and the S&P 500 down 0.4%, a quiet, directionless session rather than a sharp move in either direction. Without a strong catalyst, trading stayed range-bound, and the modest decline looks more like consolidation after recent gains than the start of a selloff. Individual stocks like CLF, NU, and ONDS still showed bullish technical setups even as the broader market was soft, a sign of selective strength beneath a flat index.",
-    "summary_zh": "今日大市窄幅波動，納指微跌0.1%，標普500指數跌0.4%，屬於方向不明的淡靜交易日，並無明顯催化因素帶動大幅波動。在缺乏強力消息面刺激下，市況呈現區間整理，較似是近期升勢後的消化，而非拋售潮的開端。值得留意的是，個別股份如CLF、NU及ONDS即使在大市偏軟下仍錄得技術面上的好淡訊號，反映大市之下仍有個股展現相對強勢。",
+    "summary_en": "Today's modest pullback in both NASDAQ (-0.2%) and the S&P 500 (-0.5%) reflects a lack of strong directional conviction rather than any specific shock. Without a clear catalyst, broad indices tend to drift sideways as investors digest recent moves and wait for the next earnings or macro data point. This kind of quiet, low-volatility session is common between major news events.",
+    "summary_zh": "今日納指（-0.2%）及標普500（-0.5%）同步小幅回落，反映市場缺乏明顯方向，並非受單一事件衝擊所致。在缺乏具體催化劑的情況下，大盤指數傾向橫向整理，投資者多在消化近期走勢並等待下一輪財報或宏觀數據公布。這種低波動的平靜交易日在重大消息公布之間相當常見。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "CLF",
-      "conviction": "medium",
-      "reasoning": "RSI 57.5 in the bullish zone with a fresh MACD crossover and rising histogram while price holds above SMA-20, a clean non-overbought setup."
-    },
-    {
-      "action": "BUY",
-      "ticker": "NU",
-      "conviction": "medium",
-      "reasoning": "Highest-scoring candidate with RSI 59.8 still well under 70, MACD bullish crossover, and price above SMA-20 showing healthy uptrend, not a chase."
-    },
-    {
-      "action": "BUY",
-      "ticker": "ONDS",
-      "conviction": "medium",
-      "reasoning": "Same multi-signal bullish setup as the other top picks with RSI 60.1, used to fill the third open slot since cash is above the $500 threshold."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14655.735246181488,
     "cash": 1089.2850012779236,
