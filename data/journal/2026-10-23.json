@@ -1,17 +1,24 @@
 {
   "date": "2026-10-23",
-  "briefing": "Markets sold off sharply today with NASDAQ down 2.6% and the S&P 500 down 1.2%, putting us in a clear risk-off environment. The screener returned no candidates, so we're holding all 7 existing positions and keeping cash on the sidelines rather than forcing new buys into weakness.",
+  "briefing": "Markets were flat to slightly down today (NASDAQ -0.0%, S&P 500 -0.4%), a neutral session with no broad risk-on or risk-off signal. We added a measured position in AAPL, the only fully-confirmed candidate with all five bullish signals aligned, while holding all seven existing positions unchanged.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like growth stocks and tech shares, moving toward safety. It's a signal to be cautious with new purchases, not necessarily to sell everything — existing positions with good fundamentals can often ride out the volatility.",
-    "explanation_zh": "「risk-off」(避險)日是指投資者普遍減持風險較高的資產,例如增長股和科技股,轉向更安全的選擇。這是提醒我們對新買入要審慎,但不一定要清倉——基本面良好的現有持股通常可以撐過這些波動。"
+    "term": "Signal Confluence",
+    "explanation_en": "Signal confluence means waiting for multiple independent technical indicators — like RSI, MACD, moving averages, and volume — to all point the same bullish direction before acting, rather than relying on just one. It's a way to filter out noise and only act on the highest-quality setups, which matters most on days when the broader market isn't giving a clear signal.",
+    "explanation_zh": "訊號共振（Signal Confluence）是指在採取行動前，等待多個獨立的技術指標——例如RSI、MACD、移動平均線及成交量——同時指向同一個看漲方向，而非只依賴單一指標。這是一種過濾市場噪音的方法，只在最優質的買入時機出手，在大盤本身缺乏明確方向時尤其重要。"
   },
   "market_education": {
-    "summary_en": "Broad-based selling hit tech-heavy indices harder than the broader market today, with NASDAQ's 2.6% decline outpacing the S&P 500's 1.2% drop, a pattern typical of risk-off days where investors rotate out of higher-growth, higher-valuation names first. Without specific confirmed headlines available today, the move looks consistent with general risk aversion rather than a single catalyst. We're treating this as a day to protect capital rather than chase dips.",
-    "summary_zh": "今日大市普遍下跌,科技股為主的納斯達克指數跌幅達2.6%,跌幅遠超標普500指數的1.2%,反映典型的「risk-off」(避險)情緒——投資者率先拋售高增長、高估值的股份。今日未有確認具體新聞標題,但整體走勢符合普遍避險心理,而非單一事件觸發。我們選擇今日按兵不動,保存實力,而非趁低吸納。",
+    "summary_en": "Major indices traded in a narrow range today with the NASDAQ essentially flat and the S&P 500 dipping slightly, reflecting a lack of strong directional catalysts in either direction. Without major economic data releases or earnings surprises driving sentiment, trading stayed rangebound and institutional participation was muted. This kind of low-conviction, low-volume day typically favors patience over aggressive repositioning.",
+    "summary_zh": "今日大盤走勢窄幅震盪，納指幾乎持平，標普500則微跌0.4%，反映市場缺乏明顯的方向性催化劑。由於沒有重大經濟數據或企業盈利意外公布，交投保持區間震盪，機構參與度亦偏淡。這種低確信度、低成交量的交易日，通常更適合保持耐性而非積極調整持倉。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "AAPL",
+      "conviction": "medium",
+      "reasoning": "Full multi-signal confirmation (bullish RSI zone, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies a measured buy even on an otherwise neutral market day."
+    }
+  ],
   "outcomes": {
     "total_value": 14655.735246181488,
     "cash": 1089.2850012779236,
