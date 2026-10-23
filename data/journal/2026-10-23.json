@@ -1,28 +1,22 @@
 {
   "date": "2026-10-23",
-  "briefing": "Markets were flat today (NASDAQ +0.3%, S&P 500 -0.1%), a neutral session with no broad risk-on signal. Rather than forcing cash into mediocre setups, we deployed into CCI and NET, the only two candidates showing full four-signal confirmation (RSI, MACD, price vs SMA-20, and volume surge), leaving one slot and some cash in reserve.",
+  "briefing": "Markets were flat today (NASDAQ +0.3%, S&P500 -0.1%), so we held back from aggressively deploying cash but made one selective buy in AAPL, which had the strongest multi-signal confirmation (volume surge plus trend and momentum alignment) among the candidates. The rest of the portfolio was left untouched since existing positions are performing well and stop-loss/profit-target rules will handle exits automatically.",
   "daily_lesson": {
     "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, suggesting real institutional buying rather than a random blip. When RSI, MACD, and price-above-moving-average signals all line up alongside a volume surge, it's a stronger signal than any single indicator alone.",
-    "explanation_zh": "成交量確認是指價格變動伴隨異常高的交易量,顯示背後有真實的機構買盤,而非隨機波動。當RSI、MACD和價格高於移動平均線等訊號同時出現,並伴隨成交量激增時,這比單一指標更能確認趨勢的真實性。"
+    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-normal trading activity, which signals real buying interest rather than a random fluctuation. Today AAPL stood out because its bullish price and momentum signals came with a volume surge, making the setup more trustworthy than similar-looking candidates without that extra confirmation.",
+    "explanation_zh": "成交量確認是指核實價格變動是否伴隨著高於平常的交易量，這代表背後有真實的買盤支持，而不是隨機波動。今日AAPL之所以突出，是因為其利好的價格和動能信號同時伴隨成交量大增，相比其他沒有這項確認的候選股，其走勢更為可信。"
   },
   "market_education": {
-    "summary_en": "Major indices were essentially flat today, with the NASDAQ edging up slightly and the S&P 500 dipping marginally, reflecting a lack of strong directional catalysts. Without major earnings surprises or macro data surprises driving sentiment, trading stayed range-bound and institutional flows were selective rather than broad-based. This kind of quiet session often favors stock-pickers who can find individual names with genuine volume-backed momentum rather than chasing the index.",
-    "summary_zh": "今日大市表現平穩，納斯達克指數微升,標普500指數則略為下跌，反映市場缺乏明確的方向性催化劑。由於沒有重大盈利或宏觀數據意外，大盤維持窄幅波動,機構資金流向亦較為選擇性，而非全面流入。在這種淡靜的交易日,透過個股分析尋找具備成交量支持的真實動能標的,往往比盲目追蹤大盤指數更為有效。",
+    "summary_en": "Major indices traded in a narrow range today with no clear directional catalyst, as the NASDAQ edged up 0.3% while the S&P 500 slipped 0.1%. This kind of sideways action typically reflects investors digesting recent gains and waiting for the next earnings or macro data point before committing new capital. Without a strong signal in either direction, large-cap tech names like AAPL that showed volume-backed momentum stood out from the broader flat tape.",
+    "summary_zh": "大型指數今日窄幅波動，缺乏明確方向，納指微升0.3%，標普500則下跌0.1%。這種橫盤走勢通常反映投資者在消化近期升幅，並等待下一個業績或宏觀數據作為指引。在大盤缺乏方向之際，像AAPL這類有成交量支持的大型科技股動能表現就顯得格外突出。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CCI",
-      "conviction": "high",
-      "reasoning": "Full institutional-grade confirmation with RSI 66.4 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge."
-    },
-    {
-      "action": "BUY",
-      "ticker": "NET",
-      "conviction": "high",
-      "reasoning": "Same full four-signal confirmation as CCI (RSI bullish zone, MACD crossover, price above SMA-20, volume surge) indicating genuine institutional participation."
+      "ticker": "AAPL",
+      "conviction": "medium",
+      "reasoning": "AAPL shows all four confirming signals — RSI 62.4 in the bullish zone, MACD bullish crossover, price above SMA-20, and a volume surge — suggesting real institutional participation rather than a neutral-day blip."
     }
   ],
   "outcomes": {
