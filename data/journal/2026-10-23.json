@@ -1,24 +1,17 @@
 {
   "date": "2026-10-23",
-  "briefing": "Markets were flat today (NASDAQ +0.3%, S&P500 -0.1%), so we held back from aggressively deploying cash but made one selective buy in AAPL, which had the strongest multi-signal confirmation (volume surge plus trend and momentum alignment) among the candidates. The rest of the portfolio was left untouched since existing positions are performing well and stop-loss/profit-target rules will handle exits automatically.",
+  "briefing": "Market was flat-to-slightly-negative today (NASDAQ +0.0%, S&P500 -0.3%), a neutral session with no clear risk-on signal. Even though 3 slots are open and cash ($1089.29) is above the buy threshold, none of today's top candidates show the volume-confirmed, multi-signal setup our strategy requires for a new position, so we're holding cash and letting existing positions (up 46.6% overall) continue to run.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-normal trading activity, which signals real buying interest rather than a random fluctuation. Today AAPL stood out because its bullish price and momentum signals came with a volume surge, making the setup more trustworthy than similar-looking candidates without that extra confirmation.",
-    "explanation_zh": "成交量確認是指核實價格變動是否伴隨著高於平常的交易量，這代表背後有真實的買盤支持，而不是隨機波動。今日AAPL之所以突出，是因為其利好的價格和動能信號同時伴隨成交量大增，相比其他沒有這項確認的候選股，其走勢更為可信。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to invest when a genuinely strong opportunity appears. On a neutral day like today, even with open portfolio slots and cash available, it's often smarter to hold that cash rather than force a trade — chasing a mediocre setup just to \"stay invested\" usually hurts returns more than sitting out one more day.",
+    "explanation_zh": "「待用資金」（Dry Powder）指的是暫時持有現金、等待真正好機會出現時才投入市場。像今天這種中性行情，即使組合還有空位、現金充裕，持有現金觀望往往比勉強買入一個訊號不夠強的標的更明智——為了「有投入」而勉強交易，通常反而拖累長期表現。"
   },
   "market_education": {
-    "summary_en": "Major indices traded in a narrow range today with no clear directional catalyst, as the NASDAQ edged up 0.3% while the S&P 500 slipped 0.1%. This kind of sideways action typically reflects investors digesting recent gains and waiting for the next earnings or macro data point before committing new capital. Without a strong signal in either direction, large-cap tech names like AAPL that showed volume-backed momentum stood out from the broader flat tape.",
-    "summary_zh": "大型指數今日窄幅波動，缺乏明確方向，納指微升0.3%，標普500則下跌0.1%。這種橫盤走勢通常反映投資者在消化近期升幅，並等待下一個業績或宏觀數據作為指引。在大盤缺乏方向之際，像AAPL這類有成交量支持的大型科技股動能表現就顯得格外突出。",
+    "summary_en": "Major indices traded in a narrow, mixed range today, with the Nasdaq essentially flat and the S&P 500 slipping slightly, reflecting a lack of strong directional conviction from investors. Without a clear catalyst pushing money decisively into or out of risk assets, trading stayed muted and range-bound. No specific market-moving headlines were available for today's session to point to as a driver.",
+    "summary_zh": "今日大型指數走勢窄幅震盪，納指幾乎持平，標普500則略為下跌，反映市場缺乏明確方向。由於沒有強力催化劑推動資金大舉進出風險資產，盤面維持區間整理格局。今日並無特定重大新聞可作為市場變動的主因。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "AAPL",
-      "conviction": "medium",
-      "reasoning": "AAPL shows all four confirming signals — RSI 62.4 in the bullish zone, MACD bullish crossover, price above SMA-20, and a volume surge — suggesting real institutional participation rather than a neutral-day blip."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14655.735246181488,
     "cash": 1089.2850012779236,
