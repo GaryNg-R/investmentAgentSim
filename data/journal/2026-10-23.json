@@ -1,17 +1,24 @@
 {
   "date": "2026-10-23",
-  "briefing": "Market was flat-to-slightly-negative today (NASDAQ +0.0%, S&P500 -0.3%), a neutral session with no clear risk-on signal. Even though 3 slots are open and cash ($1089.29) is above the buy threshold, none of today's top candidates show the volume-confirmed, multi-signal setup our strategy requires for a new position, so we're holding cash and letting existing positions (up 46.6% overall) continue to run.",
+  "briefing": "Markets were flat and mixed today (NASDAQ +0.1%, S&P500 -0.3%), not a clear risk-on signal, so we held back from deploying most of our open slots. INVX stood out as the only candidate with all four confirming signals (momentum, trend, price structure, and volume), so we added a high-conviction position there while leaving cash and two slots in reserve for a stronger setup.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" refers to cash kept on the sidelines, ready to invest when a genuinely strong opportunity appears. On a neutral day like today, even with open portfolio slots and cash available, it's often smarter to hold that cash rather than force a trade — chasing a mediocre setup just to \"stay invested\" usually hurts returns more than sitting out one more day.",
-    "explanation_zh": "「待用資金」（Dry Powder）指的是暫時持有現金、等待真正好機會出現時才投入市場。像今天這種中性行情，即使組合還有空位、現金充裕，持有現金觀望往往比勉強買入一個訊號不夠強的標的更明智——為了「有投入」而勉強交易，通常反而拖累長期表現。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, which suggests real institutional buying rather than a random blip. When RSI, MACD, and price trend all line up alongside a volume surge, the signal is much more trustworthy than any single indicator alone.",
+    "explanation_zh": "成交量確認是指價格變動伴隨著異常放大的交易量,代表背後有真實的機構買盤,而非隨機波動。當RSI、MACD與價格趨勢同時配合成交量放大時,這個訊號的可信度遠高於單一指標。"
   },
   "market_education": {
-    "summary_en": "Major indices traded in a narrow, mixed range today, with the Nasdaq essentially flat and the S&P 500 slipping slightly, reflecting a lack of strong directional conviction from investors. Without a clear catalyst pushing money decisively into or out of risk assets, trading stayed muted and range-bound. No specific market-moving headlines were available for today's session to point to as a driver.",
-    "summary_zh": "今日大型指數走勢窄幅震盪，納指幾乎持平，標普500則略為下跌，反映市場缺乏明確方向。由於沒有強力催化劑推動資金大舉進出風險資產，盤面維持區間整理格局。今日並無特定重大新聞可作為市場變動的主因。",
+    "summary_en": "Major indices traded in a narrow, mixed range today with NASDAQ essentially flat and the S&P 500 slightly lower, reflecting a lack of strong directional catalysts. Without a clear market-wide trend, the better approach was to focus on individual stocks with strong technical confirmation rather than chasing the broader tape. INVX's combination of rising momentum, a bullish MACD crossover, and surging volume made it an exception worth acting on even in an otherwise quiet session.",
+    "summary_zh": "今日大盤走勢窄幅震盪,NASDAQ幾乎平盤,標普500則小幅走軟,顯示市場缺乏明確的方向性催化劑。在大盤趨勢不明的情況下,與其追逐整體市場走勢,更好的做法是聚焦在個股的技術面確認訊號。INVX同時出現動能轉強、MACD黃金交叉及成交量放大,是少數值得在淡靜交易日中進場的例外標的。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "INVX",
+      "conviction": "high",
+      "reasoning": "Top-scored candidate (100) with full multi-signal confirmation — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge indicating real institutional participation."
+    }
+  ],
   "outcomes": {
     "total_value": 14655.735246181488,
     "cash": 1089.2850012779236,
