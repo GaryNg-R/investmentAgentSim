@@ -1,22 +1,28 @@
 {
   "date": "2026-10-23",
-  "briefing": "Markets were flat to slightly down today (NASDAQ -0.0%, S&P 500 -0.4%), a neutral session with no broad risk-on or risk-off signal. We added a measured position in AAPL, the only fully-confirmed candidate with all five bullish signals aligned, while holding all seven existing positions unchanged.",
+  "briefing": "Markets were flat today (NASDAQ +0.3%, S&P 500 -0.1%), a neutral session with no broad risk-on signal. Rather than forcing cash into mediocre setups, we deployed into CCI and NET, the only two candidates showing full four-signal confirmation (RSI, MACD, price vs SMA-20, and volume surge), leaving one slot and some cash in reserve.",
   "daily_lesson": {
-    "term": "Signal Confluence",
-    "explanation_en": "Signal confluence means waiting for multiple independent technical indicators — like RSI, MACD, moving averages, and volume — to all point the same bullish direction before acting, rather than relying on just one. It's a way to filter out noise and only act on the highest-quality setups, which matters most on days when the broader market isn't giving a clear signal.",
-    "explanation_zh": "訊號共振（Signal Confluence）是指在採取行動前，等待多個獨立的技術指標——例如RSI、MACD、移動平均線及成交量——同時指向同一個看漲方向，而非只依賴單一指標。這是一種過濾市場噪音的方法，只在最優質的買入時機出手，在大盤本身缺乏明確方向時尤其重要。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, suggesting real institutional buying rather than a random blip. When RSI, MACD, and price-above-moving-average signals all line up alongside a volume surge, it's a stronger signal than any single indicator alone.",
+    "explanation_zh": "成交量確認是指價格變動伴隨異常高的交易量,顯示背後有真實的機構買盤,而非隨機波動。當RSI、MACD和價格高於移動平均線等訊號同時出現,並伴隨成交量激增時,這比單一指標更能確認趨勢的真實性。"
   },
   "market_education": {
-    "summary_en": "Major indices traded in a narrow range today with the NASDAQ essentially flat and the S&P 500 dipping slightly, reflecting a lack of strong directional catalysts in either direction. Without major economic data releases or earnings surprises driving sentiment, trading stayed rangebound and institutional participation was muted. This kind of low-conviction, low-volume day typically favors patience over aggressive repositioning.",
-    "summary_zh": "今日大盤走勢窄幅震盪，納指幾乎持平，標普500則微跌0.4%，反映市場缺乏明顯的方向性催化劑。由於沒有重大經濟數據或企業盈利意外公布，交投保持區間震盪，機構參與度亦偏淡。這種低確信度、低成交量的交易日，通常更適合保持耐性而非積極調整持倉。",
+    "summary_en": "Major indices were essentially flat today, with the NASDAQ edging up slightly and the S&P 500 dipping marginally, reflecting a lack of strong directional catalysts. Without major earnings surprises or macro data surprises driving sentiment, trading stayed range-bound and institutional flows were selective rather than broad-based. This kind of quiet session often favors stock-pickers who can find individual names with genuine volume-backed momentum rather than chasing the index.",
+    "summary_zh": "今日大市表現平穩，納斯達克指數微升,標普500指數則略為下跌，反映市場缺乏明確的方向性催化劑。由於沒有重大盈利或宏觀數據意外，大盤維持窄幅波動,機構資金流向亦較為選擇性，而非全面流入。在這種淡靜的交易日,透過個股分析尋找具備成交量支持的真實動能標的,往往比盲目追蹤大盤指數更為有效。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AAPL",
-      "conviction": "medium",
-      "reasoning": "Full multi-signal confirmation (bullish RSI zone, MACD crossover, rising histogram, price above SMA-20, volume surge) justifies a measured buy even on an otherwise neutral market day."
+      "ticker": "CCI",
+      "conviction": "high",
+      "reasoning": "Full institutional-grade confirmation with RSI 66.4 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge."
+    },
+    {
+      "action": "BUY",
+      "ticker": "NET",
+      "conviction": "high",
+      "reasoning": "Same full four-signal confirmation as CCI (RSI bullish zone, MACD crossover, price above SMA-20, volume surge) indicating genuine institutional participation."
     }
   ],
   "outcomes": {
