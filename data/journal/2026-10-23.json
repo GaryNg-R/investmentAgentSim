@@ -1,22 +1,34 @@
 {
   "date": "2026-10-23",
-  "briefing": "Markets were flat and mixed today (NASDAQ +0.1%, S&P500 -0.3%), not a clear risk-on signal, so we held back from deploying most of our open slots. INVX stood out as the only candidate with all four confirming signals (momentum, trend, price structure, and volume), so we added a high-conviction position there while leaving cash and two slots in reserve for a stronger setup.",
+  "briefing": "Markets were roughly flat to slightly lower today (NASDAQ -0.1%, S&P500 -0.4%), a neutral session rather than a clear risk-on or risk-off signal. With 3 open slots and cash above the $500 deployment threshold, we picked the three highest-scoring, non-overbought candidates (CLF, NU, ONDS) at medium conviction rather than forcing high-conviction bets, since none showed the volume-surge confirmation needed for full conviction. Existing positions are held unchanged, letting automatic stop-loss and profit-target rules manage exits.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, which suggests real institutional buying rather than a random blip. When RSI, MACD, and price trend all line up alongside a volume surge, the signal is much more trustworthy than any single indicator alone.",
-    "explanation_zh": "成交量確認是指價格變動伴隨著異常放大的交易量,代表背後有真實的機構買盤,而非隨機波動。當RSI、MACD與價格趨勢同時配合成交量放大時,這個訊號的可信度遠高於單一指標。"
+    "term": "Relative Strength",
+    "explanation_en": "Relative strength describes when individual stocks show bullish price and momentum signals even while the broader market index is flat or slightly down. It suggests investors are rotating into specific names with strong fundamentals or technicals rather than buying or selling the market as a whole, which is why stock-picking still matters on quiet, neutral days.",
+    "explanation_zh": "相對強勢是指個別股份即使在大市持平或輕微下跌時，仍展現出好淡訊號及價格動能。這反映投資者正將資金轮動至個別具強勁基本面或技術面的股份，而非對大市整體買賣，因此即使在淡靜、方向不明的交易日，選股依然重要。"
   },
   "market_education": {
-    "summary_en": "Major indices traded in a narrow, mixed range today with NASDAQ essentially flat and the S&P 500 slightly lower, reflecting a lack of strong directional catalysts. Without a clear market-wide trend, the better approach was to focus on individual stocks with strong technical confirmation rather than chasing the broader tape. INVX's combination of rising momentum, a bullish MACD crossover, and surging volume made it an exception worth acting on even in an otherwise quiet session.",
-    "summary_zh": "今日大盤走勢窄幅震盪,NASDAQ幾乎平盤,標普500則小幅走軟,顯示市場缺乏明確的方向性催化劑。在大盤趨勢不明的情況下,與其追逐整體市場走勢,更好的做法是聚焦在個股的技術面確認訊號。INVX同時出現動能轉強、MACD黃金交叉及成交量放大,是少數值得在淡靜交易日中進場的例外標的。",
+    "summary_en": "Major indices drifted slightly lower today with NASDAQ down 0.1% and the S&P 500 down 0.4%, a quiet, directionless session rather than a sharp move in either direction. Without a strong catalyst, trading stayed range-bound, and the modest decline looks more like consolidation after recent gains than the start of a selloff. Individual stocks like CLF, NU, and ONDS still showed bullish technical setups even as the broader market was soft, a sign of selective strength beneath a flat index.",
+    "summary_zh": "今日大市窄幅波動，納指微跌0.1%，標普500指數跌0.4%，屬於方向不明的淡靜交易日，並無明顯催化因素帶動大幅波動。在缺乏強力消息面刺激下，市況呈現區間整理，較似是近期升勢後的消化，而非拋售潮的開端。值得留意的是，個別股份如CLF、NU及ONDS即使在大市偏軟下仍錄得技術面上的好淡訊號，反映大市之下仍有個股展現相對強勢。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "INVX",
-      "conviction": "high",
-      "reasoning": "Top-scored candidate (100) with full multi-signal confirmation — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge indicating real institutional participation."
+      "ticker": "CLF",
+      "conviction": "medium",
+      "reasoning": "RSI 57.5 in the bullish zone with a fresh MACD crossover and rising histogram while price holds above SMA-20, a clean non-overbought setup."
+    },
+    {
+      "action": "BUY",
+      "ticker": "NU",
+      "conviction": "medium",
+      "reasoning": "Highest-scoring candidate with RSI 59.8 still well under 70, MACD bullish crossover, and price above SMA-20 showing healthy uptrend, not a chase."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ONDS",
+      "conviction": "medium",
+      "reasoning": "Same multi-signal bullish setup as the other top picks with RSI 60.1, used to fill the third open slot since cash is above the $500 threshold."
     }
   ],
   "outcomes": {
