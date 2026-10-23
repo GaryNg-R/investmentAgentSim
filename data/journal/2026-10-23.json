@@ -1,17 +1,24 @@
 {
   "date": "2026-10-23",
-  "briefing": "Markets were roughly flat today, with NASDAQ down 0.2% and the S&P 500 down 0.5% — not a risk-on signal. Despite several candidates (ZLAB, FROG) showing strong multi-signal setups, we're holding cash and existing positions rather than forcing a buy on a lukewarm day, per the lesson that risk-on deployment should wait for a clear signal like a NASDAQ move of +2% or more.",
+  "briefing": "Markets were quiet and slightly negative today (NASDAQ -0.2%, S&P 500 -0.5%), not a clear risk-on day. Rather than force capital into the market, I picked only FROG, the one candidate showing full multi-signal confirmation, and left the other two open slots unfilled to wait for a genuine risk-on setup.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a MACD crossover, healthy RSI, price above moving averages, and a volume surge — to all line up together before buying, rather than acting on just one promising sign. Today's candidates show strong setups, but without a broader risk-on market move, it's safer to let the signal strengthen before committing capital.",
-    "explanation_zh": "動能確認是指在買入前，等待多個技術指標——例如MACD黃金交叉、RSI處於健康區間、股價高於移動平均線，以及成交量放大——同時出現，而非單憑一個看似有利的訊號就進場。今日部分候選股表現強勢，但在大盤未見明顯風險偏好上升的情況下，暫緩進場、待訊號進一步確認會是較穩健的做法。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators — like RSI, MACD, price trend, and trading volume — all point the same bullish direction at once. A single indicator can give a false signal, but when many agree, it's much more likely that real buying interest (not just noise) is driving the stock.",
+    "explanation_zh": "多重訊號確認是指只有在多個獨立的技術指標（例如RSI、MACD、價格走勢及成交量）同時指向同一方向時才進行交易。單一指標容易出現假訊號，但當多個指標一致時，更能反映真實的買盤力量，而非短暫的市場噪音。"
   },
   "market_education": {
-    "summary_en": "Today's modest pullback in both NASDAQ (-0.2%) and the S&P 500 (-0.5%) reflects a lack of strong directional conviction rather than any specific shock. Without a clear catalyst, broad indices tend to drift sideways as investors digest recent moves and wait for the next earnings or macro data point. This kind of quiet, low-volatility session is common between major news events.",
-    "summary_zh": "今日納指（-0.2%）及標普500（-0.5%）同步小幅回落，反映市場缺乏明顯方向，並非受單一事件衝擊所致。在缺乏具體催化劑的情況下，大盤指數傾向橫向整理，投資者多在消化近期走勢並等待下一輪財報或宏觀數據公布。這種低波動的平靜交易日在重大消息公布之間相當常見。",
+    "summary_en": "Major indices drifted slightly lower today with no major catalyst, as NASDAQ slipped 0.2% and the S&P 500 fell 0.5% in a quiet, directionless session. With no strong risk-on or risk-off signal, most momentum candidates lacked full confirmation across RSI, MACD, and volume. One standout, FROG, showed all five bullish technical signals simultaneously, making it the clear exception worth acting on.",
+    "summary_zh": "今日大市表現平淡，無重大消息刺激，NASDAQ微跌0.2%，標普500指數跌0.5%，屬於方向不明的待觀望行情。由於市場未見明顯的風險偏好或避險訊號，大部分具動能的候選股未能同時符合RSI、MACD及成交量的確認條件。唯獨FROG同時出現五項利好技術訊號，屬於今日少數值得進場的例外。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "FROG",
+      "conviction": "medium",
+      "reasoning": "FROG shows all five bullish signals (RSI in bullish zone, MACD crossover, rising histogram, price above SMA-20, and volume surge), the strongest multi-signal confirmation on today's list even though the broader market is neutral."
+    }
+  ],
   "outcomes": {
     "total_value": 14655.735246181488,
     "cash": 1089.2850012779236,
