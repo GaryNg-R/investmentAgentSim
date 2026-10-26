@@ -1,34 +1,34 @@
 {
   "date": "2026-10-26",
-  "briefing": "Markets are modestly risk-on today with NASDAQ +0.8% and S&P 500 +0.7%. With 3 open slots and cash above the $500 threshold, we deployed into the three highest-scoring candidates showing full multi-signal confirmation (RSI, MACD crossover, price above SMA-20, and volume surge) while holding all existing positions steady.",
+  "briefing": "NASDAQ +0.8% and S&P 500 +0.7% mark a mild risk-on day, not the aggressive rally that calls for holding back. With 3 open slots and cash above the $500 threshold, we filled them using the only candidates showing full four-signal confirmation (RSI bullish zone, MACD crossover, price above SMA-20, volume surge): INIO, VSAT, and MRCY. Existing positions are held unchanged.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading volume, which suggests real institutional buying rather than a random blip. Today's buy candidates (RMBS, INIO, VSAT) all showed a volume surge alongside bullish RSI and MACD signals, giving more confidence the move is genuine.",
-    "explanation_zh": "「成交量確認」是指留意股價的升跌是否伴隨著高於平常的成交量，這代表可能有機構資金真正買入，而非偶然的短暫波動。今日選中的RMBS、INIO及VSAT均同時出現成交量激增、RSI及MACD的利好訊號，令人更有信心這是真實的上升動力。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators agree — for example, momentum (RSI), trend direction (MACD), price structure (above a moving average), and participation (volume surge) all pointing the same way. Relying on just one signal can produce false alarms, but when four line up together it's a much stronger sign that real buying interest is behind the move.",
+    "explanation_zh": "多重訊號確認是指只有在多個獨立技術指標同時指向同一方向時才進場，例如動能指標（RSI）、趨勢方向（MACD）、價格結構（高於移動平均線）及參與度（成交量放大）全部一致。只依賴單一訊號容易出現假訊號，但當四項指標同時出現時，就更能確認背後有真實的買盤支持。"
   },
   "market_education": {
-    "summary_en": "Broad indices edged higher today, with NASDAQ gaining 0.8% and the S&P 500 up 0.7%, a mild risk-on tone rather than a dramatic rally. The gains were fairly uniform across sectors rather than driven by one headline event. This kind of steady, modest advance often reflects continued investor confidence rather than a reaction to a single catalyst.",
-    "summary_zh": "今日大市普遍溫和上揚，納指升0.8%，標普500亦上升0.7%，屬溫和的「風險偏好」格局，而非大幅飆升。升幅在各板塊間較為平均，並非由單一消息刺激所致。此類穩步向上的走勢，往往反映投資者信心持續，而非對個別新聞的即時反應。",
+    "summary_en": "Major indices posted modest gains today, with the NASDAQ up 0.8% and the S&P 500 up 0.7%, reflecting a broadly risk-on but not euphoric tone across markets. No standout news catalyst was flagged for today's session, suggesting the move was driven by steady buying interest rather than a single headline event. Breadth favored growth and momentum names, which is consistent with several of today's top-scoring screener candidates.",
+    "summary_zh": "今日大市普遍錄得溫和升幅，納斯達克指數上升0.8%，標普500指數上升0.7%，反映市場氣氛整體偏向風險胃納提升，但未見過度亢奮。今日未見特別突出的新聞觸發因素，顯示升勢較大機會由持續買盤支持，而非單一事件帶動。資金流向偏好增長及動能股，與今日篩選榜上多隻高分股份的表現一致。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "RMBS",
-      "conviction": "high",
-      "reasoning": "Top-scored candidate with full multi-signal confirmation (RSI 55 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge)."
-    },
-    {
-      "action": "BUY",
       "ticker": "INIO",
       "conviction": "high",
-      "reasoning": "Strong setup with RSI 61.8 in the bullish zone, MACD bullish crossover, price above SMA-20, and confirmed volume surge."
+      "reasoning": "All four confirmation signals present (RSI 61.8 bullish zone, MACD crossover, price above SMA-20, volume surge) matching the high-conviction criteria from strategy memory."
     },
     {
       "action": "BUY",
       "ticker": "VSAT",
-      "conviction": "medium",
-      "reasoning": "Meets all four confirmation signals though RSI 68 is nearing overbought, so sized as medium conviction."
+      "conviction": "high",
+      "reasoning": "Full signal confluence (RSI 68.0 still below 70, MACD crossover, price above SMA-20, volume surge) supports a high-conviction entry."
+    },
+    {
+      "action": "BUY",
+      "ticker": "MRCY",
+      "conviction": "high",
+      "reasoning": "Full four-signal confirmation plus adds defense-electronics diversification not currently represented in the portfolio."
     }
   ],
   "outcomes": {
