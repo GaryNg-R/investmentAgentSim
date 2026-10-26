@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-10-23T21:00:56.400522+00:00",
+  "saved_at": "2026-10-26T13:01:20.600659+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "FROG",
+        "ticker": "AAPL",
         "conviction": "medium",
-        "reasoning": "FROG shows all five bullish signals (RSI in bullish zone, MACD crossover, rising histogram, price above SMA-20, and volume surge), the strongest multi-signal confirmation on today's list even though the broader market is neutral."
+        "reasoning": "All four confirmation signals align (RSI 60.8 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge), the strongest confirmed setup available despite a flat-to-slightly-negative tape."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were quiet and slightly negative today (NASDAQ -0.2%, S&P 500 -0.5%), not a clear risk-on day. Rather than force capital into the market, I picked only FROG, the one candidate showing full multi-signal confirmation, and left the other two open slots unfilled to wait for a genuine risk-on setup.",
+    "briefing": "Markets were flat-to-slightly lower today (NASDAQ -0.2%, S&P 500 -0.5%), not a clear risk-on signal. Rather than force capital into multiple names, we added one fully-confirmed position (AAPL) with all four technical signals aligned, and held the rest of the existing portfolio unchanged.",
     "market_education": {
-      "summary_en": "Major indices drifted slightly lower today with no major catalyst, as NASDAQ slipped 0.2% and the S&P 500 fell 0.5% in a quiet, directionless session. With no strong risk-on or risk-off signal, most momentum candidates lacked full confirmation across RSI, MACD, and volume. One standout, FROG, showed all five bullish technical signals simultaneously, making it the clear exception worth acting on.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u5e73\u6de1\uff0c\u7121\u91cd\u5927\u6d88\u606f\u523a\u6fc0\uff0cNASDAQ\u5fae\u8dcc0.2%\uff0c\u6a19\u666e500\u6307\u6578\u8dcc0.5%\uff0c\u5c6c\u65bc\u65b9\u5411\u4e0d\u660e\u7684\u5f85\u89c0\u671b\u884c\u60c5\u3002\u7531\u65bc\u5e02\u5834\u672a\u898b\u660e\u986f\u7684\u98a8\u96aa\u504f\u597d\u6216\u907f\u96aa\u8a0a\u865f\uff0c\u5927\u90e8\u5206\u5177\u52d5\u80fd\u7684\u5019\u9078\u80a1\u672a\u80fd\u540c\u6642\u7b26\u5408RSI\u3001MACD\u53ca\u6210\u4ea4\u91cf\u7684\u78ba\u8a8d\u689d\u4ef6\u3002\u552f\u7368FROG\u540c\u6642\u51fa\u73fe\u4e94\u9805\u5229\u597d\u6280\u8853\u8a0a\u865f\uff0c\u5c6c\u65bc\u4eca\u65e5\u5c11\u6578\u503c\u5f97\u9032\u5834\u7684\u4f8b\u5916\u3002",
+      "summary_en": "Major indices drifted modestly lower today with no single dominant catalyst, consistent with a quiet consolidation session rather than a broad risk-off move. Trading volumes and sector breadth suggest investors were digesting recent gains rather than reacting to new negative news. In the absence of a strong directional signal, selective stock-picking based on technical confirmation was favored over broad market exposure.",
+      "summary_zh": "\u5927\u578b\u6307\u6578\u4eca\u65e5\u5c0f\u5e45\u8d70\u5f31\uff0c\u4e26\u7121\u55ae\u4e00\u660e\u986f\u89f8\u767c\u56e0\u7d20\uff0c\u8f03\u50cf\u662f\u4e00\u500b\u5e73\u975c\u7684\u6574\u7406\u4ea4\u6613\u65e5\uff0c\u800c\u975e\u5ee3\u6cdb\u7684risk-off\u8d70\u52e2\u3002\u6210\u4ea4\u91cf\u8207\u5e02\u5834\u5ee3\u5ea6\u986f\u793a\u6295\u8cc7\u8005\u6b63\u6d88\u5316\u8fd1\u671f\u5347\u5e45\uff0c\u800c\u975e\u5c0d\u65b0\u7684\u8ca0\u9762\u6d88\u606f\u4f5c\u51fa\u53cd\u61c9\u3002\u5728\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u8a0a\u865f\u7684\u60c5\u6cc1\u4e0b\uff0c\u6211\u5011\u9078\u64c7\u6839\u64da\u6280\u8853\u9762\u78ba\u8a8d\u9032\u884c\u7cbe\u9078\u500b\u80a1\u64cd\u4f5c\uff0c\u800c\u975e\u64f4\u5927\u6574\u9ad4\u5e02\u5834\u66dd\u96aa\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent technical indicators \u2014 like RSI, MACD, price trend, and trading volume \u2014 all point the same bullish direction at once. A single indicator can give a false signal, but when many agree, it's much more likely that real buying interest (not just noise) is driving the stock.",
-      "explanation_zh": "\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u53ea\u6709\u5728\u591a\u500b\u7368\u7acb\u7684\u6280\u8853\u6307\u6a19\uff08\u4f8b\u5982RSI\u3001MACD\u3001\u50f9\u683c\u8d70\u52e2\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642\u624d\u9032\u884c\u4ea4\u6613\u3002\u55ae\u4e00\u6307\u6a19\u5bb9\u6613\u51fa\u73fe\u5047\u8a0a\u865f\uff0c\u4f46\u7576\u591a\u500b\u6307\u6a19\u4e00\u81f4\u6642\uff0c\u66f4\u80fd\u53cd\u6620\u771f\u5be6\u7684\u8cb7\u76e4\u529b\u91cf\uff0c\u800c\u975e\u77ed\u66ab\u7684\u5e02\u5834\u566a\u97f3\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a volume surge \u2014 to line up together before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\u7b49\u5f85\u591a\u500b\u6280\u8853\u8a0a\u865f\u540c\u6642\u51fa\u73fe\uff0c\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\uff0c\u800c\u4e0d\u662f\u53ea\u4f9d\u8cf4\u55ae\u4e00\u8a0a\u865f\u884c\u52d5\u3002\u9019\u6a23\u53ef\u4ee5\u6e1b\u5c11\u8ffd\u9ad8\u6216\u8aa4\u5224\u77ed\u66ab\u6ce2\u52d5\u7684\u98a8\u96aa\u3002"
     }
   }
 }
