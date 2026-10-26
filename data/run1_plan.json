@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-10-26T18:01:08.227070+00:00",
+  "saved_at": "2026-10-26T19:01:09.394408+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "DOCN",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 63.7 in bullish zone, MACD bullish crossover, and price above SMA-20 on a risk-on day, diversifying away from existing semiconductor-heavy holdings."
+        "ticker": "VICR",
+        "conviction": "high",
+        "reasoning": "Score 95 with MACD bullish crossover, rising histogram, and healthy RSI 56.3 well below overbought, fitting the risk_on backdrop and an open portfolio slot."
       },
       {
         "action": "BUY",
-        "ticker": "CIEN",
-        "conviction": "medium",
-        "reasoning": "Score 95 with RSI 58.8, bullish MACD crossover and rising histogram, adding optical-networking exposure distinct from current portfolio concentration."
+        "ticker": "AAOI",
+        "conviction": "high",
+        "reasoning": "Score 95 with price above SMA-20, bullish MACD crossover, and RSI 57.6 in the healthy momentum zone, offering diversification away from existing semiconductor-heavy holdings."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were risk-on today with NASDAQ +1.1% and S&P 500 +0.8%. With 3 open slots and cash above the deployment threshold, we added DOCN and CIEN, both top-scored candidates with confirmed bullish momentum (RSI in the healthy 55-70 zone, MACD crossovers, price above SMA-20), while holding all existing positions.",
+    "briefing": "Markets were mildly risk-on today with NASDAQ +0.9% and S&P 500 +0.7%, supporting continued momentum buying. With 3 open slots and cash above the $500 threshold, we deployed into VICR and AAOI, the two top-scored candidates with the healthiest (non-overbought) RSI readings, while leaving existing positions untouched since no stop-loss or profit targets were triggered.",
     "market_education": {
-      "summary_en": "Broad-based buying lifted both the NASDAQ and S&P 500 today, with technology and growth names leading the advance. The gains reflect continued investor confidence in risk assets rather than any single catalyst. No specific news headlines were available in today's feed to cite.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u5448\u73fe\u666e\u904d\u6027\u8cb7\u76e4\uff0c\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u63da\uff0c\u79d1\u6280\u53ca\u589e\u9577\u80a1\u8868\u73fe\u9818\u5148\u3002\u6b64\u6b21\u5347\u52e2\u53cd\u6620\u6295\u8cc7\u8005\u5c0d\u98a8\u96aa\u8cc7\u7522\u6301\u7e8c\u770b\u597d\u7684\u60c5\u7dd2\uff0c\u800c\u975e\u55ae\u4e00\u4e8b\u4ef6\u6240\u89f8\u767c\u3002\u4eca\u65e5\u8cc7\u8a0a\u4f86\u6e90\u4e2d\u672a\u6709\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u5f15\u7528\u3002",
+      "summary_en": "Broad market gains today were modest but positive, with the NASDAQ up 0.9% and the S&P 500 up 0.7%, suggesting steady risk appetite rather than a sharp rally. Momentum names in the screener showed bullish MACD crossovers and healthy RSI readings, indicating continued buying interest without extreme overbought conditions. No major negative catalysts appeared, consistent with a quiet grind-higher session.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u6eab\u548c\u5411\u597d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53470.9%\uff0c\u6a19\u666e500\u6307\u6578\u53470.7%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u7a69\u5b9a\u4f46\u672a\u898b\u5f37\u52c1\u7206\u767c\u3002\u7be9\u9078\u540d\u55ae\u4e2d\u591a\u96bb\u52d5\u529b\u80a1\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u5065\u5eb7\u7684RSI\u6c34\u5e73\uff0c\u986f\u793a\u8cb7\u76e4\u6301\u7e8c\u4f46\u672a\u898b\u904e\u71b1\u3002\u4eca\u65e5\u672a\u898b\u91cd\u5927\u8ca0\u9762\u6d88\u606f\uff0c\u5c6c\u65bc\u5e73\u7a69\u5411\u4e0a\u7684\u4ea4\u6613\u65e5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On Rally",
-      "explanation_en": "A 'risk-on' day is when investors broadly buy riskier assets like stocks, especially growth and tech names, because they feel confident about the economy or market direction. On these days, it often makes sense to deploy available cash into your best-confirmed opportunities rather than sitting on the sidelines.",
-      "explanation_zh": "\u300crisk-on\u300d\uff08\u98a8\u96aa\u504f\u597d\uff09\u65e5\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u8cb7\u5165\u8f03\u9ad8\u98a8\u96aa\u7684\u8cc7\u7522\uff0c\u4f8b\u5982\u80a1\u7968\uff0c\u5c24\u5176\u662f\u589e\u9577\u80a1\u53ca\u79d1\u6280\u80a1\uff0c\u56e0\u70ba\u4ed6\u5011\u5c0d\u7d93\u6fdf\u6216\u5e02\u5834\u524d\u666f\u611f\u5230\u6a02\u89c0\u3002\u5728\u9019\u985e\u65e5\u5b50\uff0c\u5c07\u9592\u7f6e\u73fe\u91d1\u6295\u5165\u7d93\u78ba\u8a8d\u7684\u512a\u8cea\u6a5f\u6703\uff0c\u5f80\u5f80\u6bd4\u7e7c\u7e8c\u6301\u73fe\u91d1\u89c0\u671b\u66f4\u70ba\u5408\u7406\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, using indicators like MACD crossovers and RSI to confirm the trend is healthy rather than overextended. Today's buys were chosen because they showed bullish signals without being overbought, which historically offers a better entry point than chasing stocks already at extreme RSI levels.",
+      "explanation_zh": "\u52d5\u529b\u6295\u8cc7\u7b56\u7565\u662f\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5229\u7528MACD\u4ea4\u53c9\u548cRSI\u7b49\u6307\u6a19\u78ba\u8a8d\u8da8\u52e2\u5065\u5eb7\u800c\u975e\u904e\u71b1\u3002\u4eca\u65e5\u9078\u80a1\u6b63\u662f\u56e0\u70ba\u5b83\u5011\u51fa\u73fe\u770b\u6f32\u8a0a\u865f\u4f46RSI\u672a\u9054\u8d85\u8cb7\u6c34\u5e73\uff0c\u76f8\u6bd4\u8ffd\u9ad8\u5df2\u7d93\u6975\u5ea6\u8d85\u8cb7\u7684\u80a1\u7968\uff0c\u9019\u985e\u5165\u5834\u9edehistorically\u8868\u73fe\u8f03\u4f73\u3002"
     }
   }
 }
