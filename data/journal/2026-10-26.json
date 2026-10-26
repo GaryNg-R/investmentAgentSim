@@ -1,28 +1,34 @@
 {
   "date": "2026-10-26",
-  "briefing": "Markets were mildly risk-on today with NASDAQ +0.9% and S&P 500 +0.7%, supporting continued momentum buying. With 3 open slots and cash above the $500 threshold, we deployed into VICR and AAOI, the two top-scored candidates with the healthiest (non-overbought) RSI readings, while leaving existing positions untouched since no stop-loss or profit targets were triggered.",
+  "briefing": "Markets are modestly risk-on today with NASDAQ +0.8% and S&P 500 +0.7%. With 3 open slots and cash above the $500 threshold, we deployed into the three highest-scoring candidates showing full multi-signal confirmation (RSI, MACD crossover, price above SMA-20, and volume surge) while holding all existing positions steady.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, using indicators like MACD crossovers and RSI to confirm the trend is healthy rather than overextended. Today's buys were chosen because they showed bullish signals without being overbought, which historically offers a better entry point than chasing stocks already at extreme RSI levels.",
-    "explanation_zh": "動力投資策略是買入已經處於上升趨勢的股票，利用MACD交叉和RSI等指標確認趨勢健康而非過熱。今日選股正是因為它們出現看漲訊號但RSI未達超買水平，相比追高已經極度超買的股票，這類入場點historically表現較佳。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading volume, which suggests real institutional buying rather than a random blip. Today's buy candidates (RMBS, INIO, VSAT) all showed a volume surge alongside bullish RSI and MACD signals, giving more confidence the move is genuine.",
+    "explanation_zh": "「成交量確認」是指留意股價的升跌是否伴隨著高於平常的成交量，這代表可能有機構資金真正買入，而非偶然的短暫波動。今日選中的RMBS、INIO及VSAT均同時出現成交量激增、RSI及MACD的利好訊號，令人更有信心這是真實的上升動力。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today were modest but positive, with the NASDAQ up 0.9% and the S&P 500 up 0.7%, suggesting steady risk appetite rather than a sharp rally. Momentum names in the screener showed bullish MACD crossovers and healthy RSI readings, indicating continued buying interest without extreme overbought conditions. No major negative catalysts appeared, consistent with a quiet grind-higher session.",
-    "summary_zh": "今日大市表現溫和向好，納斯達克指數升0.9%，標普500指數升0.7%，反映市場風險偏好穩定但未見強勁爆發。篩選名單中多隻動力股出現MACD黃金交叉及健康的RSI水平，顯示買盤持續但未見過熱。今日未見重大負面消息，屬於平穩向上的交易日。",
+    "summary_en": "Broad indices edged higher today, with NASDAQ gaining 0.8% and the S&P 500 up 0.7%, a mild risk-on tone rather than a dramatic rally. The gains were fairly uniform across sectors rather than driven by one headline event. This kind of steady, modest advance often reflects continued investor confidence rather than a reaction to a single catalyst.",
+    "summary_zh": "今日大市普遍溫和上揚，納指升0.8%，標普500亦上升0.7%，屬溫和的「風險偏好」格局，而非大幅飆升。升幅在各板塊間較為平均，並非由單一消息刺激所致。此類穩步向上的走勢，往往反映投資者信心持續，而非對個別新聞的即時反應。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "VICR",
+      "ticker": "RMBS",
       "conviction": "high",
-      "reasoning": "Score 95 with MACD bullish crossover, rising histogram, and healthy RSI 56.3 well below overbought, fitting the risk_on backdrop and an open portfolio slot."
+      "reasoning": "Top-scored candidate with full multi-signal confirmation (RSI 55 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge)."
     },
     {
       "action": "BUY",
-      "ticker": "AAOI",
+      "ticker": "INIO",
       "conviction": "high",
-      "reasoning": "Score 95 with price above SMA-20, bullish MACD crossover, and RSI 57.6 in the healthy momentum zone, offering diversification away from existing semiconductor-heavy holdings."
+      "reasoning": "Strong setup with RSI 61.8 in the bullish zone, MACD bullish crossover, price above SMA-20, and confirmed volume surge."
+    },
+    {
+      "action": "BUY",
+      "ticker": "VSAT",
+      "conviction": "medium",
+      "reasoning": "Meets all four confirmation signals though RSI 68 is nearing overbought, so sized as medium conviction."
     }
   ],
   "outcomes": {

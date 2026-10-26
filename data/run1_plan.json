@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-10-26T19:01:09.394408+00:00",
+  "saved_at": "2026-10-26T20:01:09.270194+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "VICR",
+        "ticker": "RMBS",
         "conviction": "high",
-        "reasoning": "Score 95 with MACD bullish crossover, rising histogram, and healthy RSI 56.3 well below overbought, fitting the risk_on backdrop and an open portfolio slot."
+        "reasoning": "Top-scored candidate with full multi-signal confirmation (RSI 55 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge)."
       },
       {
         "action": "BUY",
-        "ticker": "AAOI",
+        "ticker": "INIO",
         "conviction": "high",
-        "reasoning": "Score 95 with price above SMA-20, bullish MACD crossover, and RSI 57.6 in the healthy momentum zone, offering diversification away from existing semiconductor-heavy holdings."
+        "reasoning": "Strong setup with RSI 61.8 in the bullish zone, MACD bullish crossover, price above SMA-20, and confirmed volume surge."
+      },
+      {
+        "action": "BUY",
+        "ticker": "VSAT",
+        "conviction": "medium",
+        "reasoning": "Meets all four confirmation signals though RSI 68 is nearing overbought, so sized as medium conviction."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were mildly risk-on today with NASDAQ +0.9% and S&P 500 +0.7%, supporting continued momentum buying. With 3 open slots and cash above the $500 threshold, we deployed into VICR and AAOI, the two top-scored candidates with the healthiest (non-overbought) RSI readings, while leaving existing positions untouched since no stop-loss or profit targets were triggered.",
+    "briefing": "Markets are modestly risk-on today with NASDAQ +0.8% and S&P 500 +0.7%. With 3 open slots and cash above the $500 threshold, we deployed into the three highest-scoring candidates showing full multi-signal confirmation (RSI, MACD crossover, price above SMA-20, and volume surge) while holding all existing positions steady.",
     "market_education": {
-      "summary_en": "Broad market gains today were modest but positive, with the NASDAQ up 0.9% and the S&P 500 up 0.7%, suggesting steady risk appetite rather than a sharp rally. Momentum names in the screener showed bullish MACD crossovers and healthy RSI readings, indicating continued buying interest without extreme overbought conditions. No major negative catalysts appeared, consistent with a quiet grind-higher session.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u6eab\u548c\u5411\u597d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53470.9%\uff0c\u6a19\u666e500\u6307\u6578\u53470.7%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u7a69\u5b9a\u4f46\u672a\u898b\u5f37\u52c1\u7206\u767c\u3002\u7be9\u9078\u540d\u55ae\u4e2d\u591a\u96bb\u52d5\u529b\u80a1\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u5065\u5eb7\u7684RSI\u6c34\u5e73\uff0c\u986f\u793a\u8cb7\u76e4\u6301\u7e8c\u4f46\u672a\u898b\u904e\u71b1\u3002\u4eca\u65e5\u672a\u898b\u91cd\u5927\u8ca0\u9762\u6d88\u606f\uff0c\u5c6c\u65bc\u5e73\u7a69\u5411\u4e0a\u7684\u4ea4\u6613\u65e5\u3002",
+      "summary_en": "Broad indices edged higher today, with NASDAQ gaining 0.8% and the S&P 500 up 0.7%, a mild risk-on tone rather than a dramatic rally. The gains were fairly uniform across sectors rather than driven by one headline event. This kind of steady, modest advance often reflects continued investor confidence rather than a reaction to a single catalyst.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u6307\u53470.8%\uff0c\u6a19\u666e500\u4ea6\u4e0a\u53470.7%\uff0c\u5c6c\u6eab\u548c\u7684\u300c\u98a8\u96aa\u504f\u597d\u300d\u683c\u5c40\uff0c\u800c\u975e\u5927\u5e45\u98c6\u5347\u3002\u5347\u5e45\u5728\u5404\u677f\u584a\u9593\u8f03\u70ba\u5e73\u5747\uff0c\u4e26\u975e\u7531\u55ae\u4e00\u6d88\u606f\u523a\u6fc0\u6240\u81f4\u3002\u6b64\u985e\u7a69\u6b65\u5411\u4e0a\u7684\u8d70\u52e2\uff0c\u5f80\u5f80\u53cd\u6620\u6295\u8cc7\u8005\u4fe1\u5fc3\u6301\u7e8c\uff0c\u800c\u975e\u5c0d\u500b\u5225\u65b0\u805e\u7684\u5373\u6642\u53cd\u61c9\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, using indicators like MACD crossovers and RSI to confirm the trend is healthy rather than overextended. Today's buys were chosen because they showed bullish signals without being overbought, which historically offers a better entry point than chasing stocks already at extreme RSI levels.",
-      "explanation_zh": "\u52d5\u529b\u6295\u8cc7\u7b56\u7565\u662f\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968\uff0c\u5229\u7528MACD\u4ea4\u53c9\u548cRSI\u7b49\u6307\u6a19\u78ba\u8a8d\u8da8\u52e2\u5065\u5eb7\u800c\u975e\u904e\u71b1\u3002\u4eca\u65e5\u9078\u80a1\u6b63\u662f\u56e0\u70ba\u5b83\u5011\u51fa\u73fe\u770b\u6f32\u8a0a\u865f\u4f46RSI\u672a\u9054\u8d85\u8cb7\u6c34\u5e73\uff0c\u76f8\u6bd4\u8ffd\u9ad8\u5df2\u7d93\u6975\u5ea6\u8d85\u8cb7\u7684\u80a1\u7968\uff0c\u9019\u985e\u5165\u5834\u9edehistorically\u8868\u73fe\u8f03\u4f73\u3002"
+      "term": "Volume Confirmation",
+      "explanation_en": "Volume confirmation means checking that a price move is backed by higher-than-usual trading volume, which suggests real institutional buying rather than a random blip. Today's buy candidates (RMBS, INIO, VSAT) all showed a volume surge alongside bullish RSI and MACD signals, giving more confidence the move is genuine.",
+      "explanation_zh": "\u300c\u6210\u4ea4\u91cf\u78ba\u8a8d\u300d\u662f\u6307\u7559\u610f\u80a1\u50f9\u7684\u5347\u8dcc\u662f\u5426\u4f34\u96a8\u8457\u9ad8\u65bc\u5e73\u5e38\u7684\u6210\u4ea4\u91cf\uff0c\u9019\u4ee3\u8868\u53ef\u80fd\u6709\u6a5f\u69cb\u8cc7\u91d1\u771f\u6b63\u8cb7\u5165\uff0c\u800c\u975e\u5076\u7136\u7684\u77ed\u66ab\u6ce2\u52d5\u3002\u4eca\u65e5\u9078\u4e2d\u7684RMBS\u3001INIO\u53caVSAT\u5747\u540c\u6642\u51fa\u73fe\u6210\u4ea4\u91cf\u6fc0\u589e\u3001RSI\u53caMACD\u7684\u5229\u597d\u8a0a\u865f\uff0c\u4ee4\u4eba\u66f4\u6709\u4fe1\u5fc3\u9019\u662f\u771f\u5be6\u7684\u4e0a\u5347\u52d5\u529b\u3002"
     }
   }
 }
