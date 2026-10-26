@@ -1,28 +1,22 @@
 {
   "date": "2026-10-26",
-  "briefing": "Markets were broadly neutral today (NASDAQ +0.3%, S&P 500 +0.4%), so most candidates don't warrant action, but TSLA and ERAS both show the full four-signal confirmation (RSI, MACD, price vs SMA-20, and volume surge) that has historically marked genuine institutional buying rather than noise. We used two of the three open slots on these high-conviction setups and left the third slot open rather than forcing a buy into a weaker candidate.",
+  "briefing": "NASDAQ +1.2% and S&P 500 +1.0% confirm a risk-on day, so per strategy we deployed idle cash into NVDA, the one candidate showing all four confirming signals plus a volume surge. Existing positions were left untouched since the market doesn't warrant exiting winners on a neutral-to-positive day.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Instead of acting on just one bullish indicator, strong traders look for several signals to line up at once — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all of these agree, it suggests real buying interest rather than a random price blip.",
-    "explanation_zh": "強勢的交易者不會只靠單一指標行動,而是等待多個訊號同時出現 — 例如RSI處於健康區間、MACD出現黃金交叉、股價高於移動平均線,以及成交量放大。當這些訊號同時成立時,代表市場上有真實的買盤,而不只是隨機的價格波動。"
+    "term": "Volume Confirmation",
+    "explanation_en": "When a stock's price rises on unusually high trading volume, it suggests large institutional investors are participating, not just small retail trades. Combining volume surges with other bullish signals like MACD crossovers gives much higher confidence that a move is real and likely to continue.",
+    "explanation_zh": "當股價上漲並伴隨異常放大的成交量時,代表可能有機構投資者大舉進場,而非僅是散戶零星交易。將成交量放大與其他看漲訊號(如MACD黃金交叉)結合使用,能大幅提高判斷走勢真實且可能延續的信心。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today, with the S&P 500 up 0.4% and the Nasdaq up 0.3%, reflecting a quiet, low-volatility session without a clear macro catalyst. Trading stayed range-bound as investors appeared to await fresh economic data or earnings before committing to a stronger directional move. A handful of individual names, including TSLA and ERAS, stood out with stronger-than-market momentum on elevated volume.",
-    "summary_zh": "今日大盤走勢溫和偏多,標普500指數上升0.4%,納斯達克指數上升0.3%,屬於缺乏明確催化劑的低波動交投。大市呈現區間震盪格局,投資者似乎在等待新的經濟數據或企業盈利公佈後才會有更明確方向。個別股份如TSLA及ERAS在成交量放大下表現明顯強於大市。",
+    "summary_en": "Broad market gains lifted both the NASDAQ and S&P 500 today, with tech and growth names leading the advance. NVDA stood out with a volume surge alongside its bullish MACD crossover, suggesting institutional buying rather than retail noise. No specific news headlines were provided for today's session.",
+    "summary_zh": "大盤今日普遍上揚,納斯達克及標普500指數同步走高,科技及成長股領漲。NVDA表現突出,除MACD出現黃金交叉外更伴隨成交量放大,顯示機構資金可能進場,而非單純散戶炒作。今日未提供具體新聞標題。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TSLA",
+      "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "All four confirmation signals align (RSI 68.8 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge), matching the institutional-participation setup from past lessons."
-    },
-    {
-      "action": "BUY",
-      "ticker": "ERAS",
-      "conviction": "high",
-      "reasoning": "Same full four-signal confirmation as TSLA (RSI 68.4 bullish zone, MACD crossover, price above SMA-20, volume surge), a rare high-conviction setup worth deploying cash into even on an otherwise neutral day."
+      "reasoning": "Only candidate with full signal confirmation (RSI 57.5 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge), matching the strategy's institutional-participation bar on a risk-on day."
     }
   ],
   "outcomes": {
