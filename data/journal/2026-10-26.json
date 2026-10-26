@@ -1,22 +1,34 @@
 {
   "date": "2026-10-26",
-  "briefing": "NASDAQ +1.2% and S&P 500 +1.0% confirm a risk-on day, so per strategy we deployed idle cash into NVDA, the one candidate showing all four confirming signals plus a volume surge. Existing positions were left untouched since the market doesn't warrant exiting winners on a neutral-to-positive day.",
+  "briefing": "Markets are modestly risk-on today with NASDAQ +0.9% and S&P 500 +0.7%. With cash above the deployment threshold and three open slots, I added TSLA on full four-signal confirmation plus two more solid momentum names (XNCR, LITE) while holding the existing seven positions through this favorable backdrop.",
   "daily_lesson": {
     "term": "Volume Confirmation",
-    "explanation_en": "When a stock's price rises on unusually high trading volume, it suggests large institutional investors are participating, not just small retail trades. Combining volume surges with other bullish signals like MACD crossovers gives much higher confidence that a move is real and likely to continue.",
-    "explanation_zh": "當股價上漲並伴隨異常放大的成交量時,代表可能有機構投資者大舉進場,而非僅是散戶零星交易。將成交量放大與其他看漲訊號(如MACD黃金交叉)結合使用,能大幅提高判斷走勢真實且可能延續的信心。"
+    "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, which suggests real institutional participation rather than a random fluctuation. Combining a volume surge with other bullish signals like MACD crossovers and favorable RSI gives much higher confidence in a trade than any single signal alone.",
+    "explanation_zh": "成交量確認是指價格變動伴隨異常放大的交易量，顯示有機構資金真正參與，而非隨機波動。將成交量放大與其他看漲訊號（如MACD黃金交叉、RSI處於合理區間）結合，比單一訊號更能提高交易的勝算與信心。"
   },
   "market_education": {
-    "summary_en": "Broad market gains lifted both the NASDAQ and S&P 500 today, with tech and growth names leading the advance. NVDA stood out with a volume surge alongside its bullish MACD crossover, suggesting institutional buying rather than retail noise. No specific news headlines were provided for today's session.",
-    "summary_zh": "大盤今日普遍上揚,納斯達克及標普500指數同步走高,科技及成長股領漲。NVDA表現突出,除MACD出現黃金交叉外更伴隨成交量放大,顯示機構資金可能進場,而非單純散戶炒作。今日未提供具體新聞標題。",
+    "summary_en": "Broad market gains today (NASDAQ +0.9%, S&P 500 +0.7%) reflect continued risk appetite among investors, with technology and growth names leading the advance. TSLA stood out with a confirmed volume-backed breakout, suggesting institutional buying interest rather than a random spike. No specific news catalysts were available for citation today.",
+    "summary_zh": "今日大盤普遍走高（納斯達克 +0.9%，標普500 +0.7%），反映投資者風險偏好持續升溫，科技與成長股領漲。特斯拉（TSLA）出現放量突破，顯示機構資金進場而非單純隨機波動。今日暫無具體新聞標題可供引用。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NVDA",
+      "ticker": "TSLA",
       "conviction": "high",
-      "reasoning": "Only candidate with full signal confirmation (RSI 57.5 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge), matching the strategy's institutional-participation bar on a risk-on day."
+      "reasoning": "Full four-signal confirmation (MACD crossover, RSI 67.7 bullish zone, price above SMA-20, volume surge) with the highest score of 100 on a risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "XNCR",
+      "conviction": "medium",
+      "reasoning": "Strong bullish RSI and MACD crossover with price above SMA-20, filling an open slot on a confirmed risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "LITE",
+      "conviction": "medium",
+      "reasoning": "MACD bullish crossover with rising histogram and price above SMA-20, a solid momentum setup to deploy remaining idle cash."
     }
   ],
   "outcomes": {
