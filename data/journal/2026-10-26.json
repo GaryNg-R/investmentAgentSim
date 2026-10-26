@@ -1,22 +1,28 @@
 {
   "date": "2026-10-26",
-  "briefing": "Markets were flat-to-slightly lower today (NASDAQ -0.2%, S&P 500 -0.5%), not a clear risk-on signal. Rather than force capital into multiple names, we added one fully-confirmed position (AAPL) with all four technical signals aligned, and held the rest of the existing portfolio unchanged.",
+  "briefing": "Markets were broadly neutral today (NASDAQ +0.3%, S&P 500 +0.4%), so most candidates don't warrant action, but TSLA and ERAS both show the full four-signal confirmation (RSI, MACD, price vs SMA-20, and volume surge) that has historically marked genuine institutional buying rather than noise. We used two of the three open slots on these high-conviction setups and left the third slot open rather than forcing a buy into a weaker candidate.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a volume surge — to line up together before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move.",
-    "explanation_zh": "動能確認是指在買入前等待多個技術訊號同時出現，例如RSI處於健康區間、MACD出現黃金交叉、股價高於均線，以及成交量放大，而不是只依賴單一訊號行動。這樣可以減少追高或誤判短暫波動的風險。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of acting on just one bullish indicator, strong traders look for several signals to line up at once — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge. When all of these agree, it suggests real buying interest rather than a random price blip.",
+    "explanation_zh": "強勢的交易者不會只靠單一指標行動,而是等待多個訊號同時出現 — 例如RSI處於健康區間、MACD出現黃金交叉、股價高於移動平均線,以及成交量放大。當這些訊號同時成立時,代表市場上有真實的買盤,而不只是隨機的價格波動。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly lower today with no single dominant catalyst, consistent with a quiet consolidation session rather than a broad risk-off move. Trading volumes and sector breadth suggest investors were digesting recent gains rather than reacting to new negative news. In the absence of a strong directional signal, selective stock-picking based on technical confirmation was favored over broad market exposure.",
-    "summary_zh": "大型指數今日小幅走弱，並無單一明顯觸發因素，較像是一個平靜的整理交易日，而非廣泛的risk-off走勢。成交量與市場廣度顯示投資者正消化近期升幅，而非對新的負面消息作出反應。在缺乏明確方向訊號的情況下，我們選擇根據技術面確認進行精選個股操作，而非擴大整體市場曝險。",
+    "summary_en": "Major indices drifted modestly higher today, with the S&P 500 up 0.4% and the Nasdaq up 0.3%, reflecting a quiet, low-volatility session without a clear macro catalyst. Trading stayed range-bound as investors appeared to await fresh economic data or earnings before committing to a stronger directional move. A handful of individual names, including TSLA and ERAS, stood out with stronger-than-market momentum on elevated volume.",
+    "summary_zh": "今日大盤走勢溫和偏多,標普500指數上升0.4%,納斯達克指數上升0.3%,屬於缺乏明確催化劑的低波動交投。大市呈現區間震盪格局,投資者似乎在等待新的經濟數據或企業盈利公佈後才會有更明確方向。個別股份如TSLA及ERAS在成交量放大下表現明顯強於大市。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AAPL",
-      "conviction": "medium",
-      "reasoning": "All four confirmation signals align (RSI 60.8 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge), the strongest confirmed setup available despite a flat-to-slightly-negative tape."
+      "ticker": "TSLA",
+      "conviction": "high",
+      "reasoning": "All four confirmation signals align (RSI 68.8 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge), matching the institutional-participation setup from past lessons."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ERAS",
+      "conviction": "high",
+      "reasoning": "Same full four-signal confirmation as TSLA (RSI 68.4 bullish zone, MACD crossover, price above SMA-20, volume surge), a rare high-conviction setup worth deploying cash into even on an otherwise neutral day."
     }
   ],
   "outcomes": {
