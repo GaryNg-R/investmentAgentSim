@@ -1,34 +1,28 @@
 {
   "date": "2026-10-26",
-  "briefing": "Markets are modestly risk-on today with NASDAQ +0.9% and S&P 500 +0.7%. With cash above the deployment threshold and three open slots, I added TSLA on full four-signal confirmation plus two more solid momentum names (XNCR, LITE) while holding the existing seven positions through this favorable backdrop.",
+  "briefing": "Markets were modestly risk-on today with NASDAQ +1.0% and S&P 500 +0.7%. With 3 open slots and over $1,100 in idle cash, we deployed into INTC and TSLA, the only two candidates showing full confirmation (RSI, MACD crossover, price above SMA-20, and volume surge) indicating real institutional participation rather than a random spike. Existing positions were left untouched to let profit targets and stop-losses work automatically.",
   "daily_lesson": {
     "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, which suggests real institutional participation rather than a random fluctuation. Combining a volume surge with other bullish signals like MACD crossovers and favorable RSI gives much higher confidence in a trade than any single signal alone.",
-    "explanation_zh": "成交量確認是指價格變動伴隨異常放大的交易量，顯示有機構資金真正參與，而非隨機波動。將成交量放大與其他看漲訊號（如MACD黃金交叉、RSI處於合理區間）結合，比單一訊號更能提高交易的勝算與信心。"
+    "explanation_en": "When a stock's price rises on unusually high trading volume, it suggests the move is backed by strong conviction — often from larger institutional investors — rather than being a random or thin-volume fluctuation. Combining volume surges with other bullish signals like RSI and MACD crossovers gives higher confidence that a rally has real staying power.",
+    "explanation_zh": "當股價在成交量異常放大的情況下上升,代表這次升勢背後可能有較強的信心支持,通常是大型機構投資者進場,而非隨機或淡友的短暫波動。將成交量放大訊號與RSI、MACD黃金交叉等其他利好指標結合,可以更有信心判斷升勢是否具持續性。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today (NASDAQ +0.9%, S&P 500 +0.7%) reflect continued risk appetite among investors, with technology and growth names leading the advance. TSLA stood out with a confirmed volume-backed breakout, suggesting institutional buying interest rather than a random spike. No specific news catalysts were available for citation today.",
-    "summary_zh": "今日大盤普遍走高（納斯達克 +0.9%，標普500 +0.7%），反映投資者風險偏好持續升溫，科技與成長股領漲。特斯拉（TSLA）出現放量突破，顯示機構資金進場而非單純隨機波動。今日暫無具體新聞標題可供引用。",
+    "summary_en": "Broad market indices edged higher today, with the NASDAQ outpacing the S&P 500, suggesting continued appetite for growth and tech-oriented names. Semiconductor and EV-related stocks like INTC and TSLA showed particularly strong technical confirmation, with rising volume accompanying price gains — a sign that larger institutional players may be accumulating shares rather than short-term traders chasing momentum. No major news catalysts were available in today's data, so the move appears driven by broad risk appetite rather than a single headline.",
+    "summary_zh": "今日大市普遍向上，納指升幅跑贏標普500指數，反映市場對科技及增長股的胃納持續。半導體及電動車相關股份如INTC及TSLA的技術指標表現特別強勁,股價上升同時成交量顯著放大,顯示可能有大型機構資金進場,而非單純短炒資金追高。由於今日未有重大新聞資料可供參考,此次升市看來是整體風險偏好帶動,而非單一消息刺激。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
+      "ticker": "INTC",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (RSI 60.3 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge) signals institutional buying on a risk-on day."
+    },
+    {
+      "action": "BUY",
       "ticker": "TSLA",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (MACD crossover, RSI 67.7 bullish zone, price above SMA-20, volume surge) with the highest score of 100 on a risk-on day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "XNCR",
-      "conviction": "medium",
-      "reasoning": "Strong bullish RSI and MACD crossover with price above SMA-20, filling an open slot on a confirmed risk-on day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "LITE",
-      "conviction": "medium",
-      "reasoning": "MACD bullish crossover with rising histogram and price above SMA-20, a solid momentum setup to deploy remaining idle cash."
+      "reasoning": "Same full multi-signal confirmation as INTC including volume surge, with RSI just under overbought, fitting the risk-on deployment setup with an open slot and idle cash available."
     }
   ],
   "outcomes": {
