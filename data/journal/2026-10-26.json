@@ -1,28 +1,28 @@
 {
   "date": "2026-10-26",
-  "briefing": "Markets were modestly risk-on today with NASDAQ +1.0% and S&P 500 +0.7%. With 3 open slots and over $1,100 in idle cash, we deployed into INTC and TSLA, the only two candidates showing full confirmation (RSI, MACD crossover, price above SMA-20, and volume surge) indicating real institutional participation rather than a random spike. Existing positions were left untouched to let profit targets and stop-losses work automatically.",
+  "briefing": "Markets were risk-on today with NASDAQ +1.1% and S&P 500 +0.8%. With 3 open slots and cash above the deployment threshold, we added DOCN and CIEN, both top-scored candidates with confirmed bullish momentum (RSI in the healthy 55-70 zone, MACD crossovers, price above SMA-20), while holding all existing positions.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "When a stock's price rises on unusually high trading volume, it suggests the move is backed by strong conviction — often from larger institutional investors — rather than being a random or thin-volume fluctuation. Combining volume surges with other bullish signals like RSI and MACD crossovers gives higher confidence that a rally has real staying power.",
-    "explanation_zh": "當股價在成交量異常放大的情況下上升,代表這次升勢背後可能有較強的信心支持,通常是大型機構投資者進場,而非隨機或淡友的短暫波動。將成交量放大訊號與RSI、MACD黃金交叉等其他利好指標結合,可以更有信心判斷升勢是否具持續性。"
+    "term": "Risk-On Rally",
+    "explanation_en": "A 'risk-on' day is when investors broadly buy riskier assets like stocks, especially growth and tech names, because they feel confident about the economy or market direction. On these days, it often makes sense to deploy available cash into your best-confirmed opportunities rather than sitting on the sidelines.",
+    "explanation_zh": "「risk-on」（風險偏好）日是指投資者普遍買入較高風險的資產，例如股票，尤其是增長股及科技股，因為他們對經濟或市場前景感到樂觀。在這類日子，將閒置現金投入經確認的優質機會，往往比繼續持現金觀望更為合理。"
   },
   "market_education": {
-    "summary_en": "Broad market indices edged higher today, with the NASDAQ outpacing the S&P 500, suggesting continued appetite for growth and tech-oriented names. Semiconductor and EV-related stocks like INTC and TSLA showed particularly strong technical confirmation, with rising volume accompanying price gains — a sign that larger institutional players may be accumulating shares rather than short-term traders chasing momentum. No major news catalysts were available in today's data, so the move appears driven by broad risk appetite rather than a single headline.",
-    "summary_zh": "今日大市普遍向上，納指升幅跑贏標普500指數，反映市場對科技及增長股的胃納持續。半導體及電動車相關股份如INTC及TSLA的技術指標表現特別強勁,股價上升同時成交量顯著放大,顯示可能有大型機構資金進場,而非單純短炒資金追高。由於今日未有重大新聞資料可供參考,此次升市看來是整體風險偏好帶動,而非單一消息刺激。",
+    "summary_en": "Broad-based buying lifted both the NASDAQ and S&P 500 today, with technology and growth names leading the advance. The gains reflect continued investor confidence in risk assets rather than any single catalyst. No specific news headlines were available in today's feed to cite.",
+    "summary_zh": "今日大市呈現普遍性買盤，納斯達克及標普500指數同步上揚，科技及增長股表現領先。此次升勢反映投資者對風險資產持續看好的情緒，而非單一事件所觸發。今日資訊來源中未有具體新聞標題可供引用。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "INTC",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (RSI 60.3 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge) signals institutional buying on a risk-on day."
+      "ticker": "DOCN",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 63.7 in bullish zone, MACD bullish crossover, and price above SMA-20 on a risk-on day, diversifying away from existing semiconductor-heavy holdings."
     },
     {
       "action": "BUY",
-      "ticker": "TSLA",
-      "conviction": "high",
-      "reasoning": "Same full multi-signal confirmation as INTC including volume surge, with RSI just under overbought, fitting the risk-on deployment setup with an open slot and idle cash available."
+      "ticker": "CIEN",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 58.8, bullish MACD crossover and rising histogram, adding optical-networking exposure distinct from current portfolio concentration."
     }
   ],
   "outcomes": {

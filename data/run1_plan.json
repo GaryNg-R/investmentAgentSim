@@ -1,32 +1,32 @@
 {
-  "saved_at": "2026-10-26T17:01:06.742874+00:00",
+  "saved_at": "2026-10-26T18:01:08.227070+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "INTC",
-        "conviction": "high",
-        "reasoning": "Full multi-signal confirmation (RSI 60.3 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge) signals institutional buying on a risk-on day."
+        "ticker": "DOCN",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 63.7 in bullish zone, MACD bullish crossover, and price above SMA-20 on a risk-on day, diversifying away from existing semiconductor-heavy holdings."
       },
       {
         "action": "BUY",
-        "ticker": "TSLA",
-        "conviction": "high",
-        "reasoning": "Same full multi-signal confirmation as INTC including volume surge, with RSI just under overbought, fitting the risk-on deployment setup with an open slot and idle cash available."
+        "ticker": "CIEN",
+        "conviction": "medium",
+        "reasoning": "Score 95 with RSI 58.8, bullish MACD crossover and rising histogram, adding optical-networking exposure distinct from current portfolio concentration."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were modestly risk-on today with NASDAQ +1.0% and S&P 500 +0.7%. With 3 open slots and over $1,100 in idle cash, we deployed into INTC and TSLA, the only two candidates showing full confirmation (RSI, MACD crossover, price above SMA-20, and volume surge) indicating real institutional participation rather than a random spike. Existing positions were left untouched to let profit targets and stop-losses work automatically.",
+    "briefing": "Markets were risk-on today with NASDAQ +1.1% and S&P 500 +0.8%. With 3 open slots and cash above the deployment threshold, we added DOCN and CIEN, both top-scored candidates with confirmed bullish momentum (RSI in the healthy 55-70 zone, MACD crossovers, price above SMA-20), while holding all existing positions.",
     "market_education": {
-      "summary_en": "Broad market indices edged higher today, with the NASDAQ outpacing the S&P 500, suggesting continued appetite for growth and tech-oriented names. Semiconductor and EV-related stocks like INTC and TSLA showed particularly strong technical confirmation, with rising volume accompanying price gains \u2014 a sign that larger institutional players may be accumulating shares rather than short-term traders chasing momentum. No major news catalysts were available in today's data, so the move appears driven by broad risk appetite rather than a single headline.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u5411\u4e0a\uff0c\u7d0d\u6307\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u79d1\u6280\u53ca\u589e\u9577\u80a1\u7684\u80c3\u7d0d\u6301\u7e8c\u3002\u534a\u5c0e\u9ad4\u53ca\u96fb\u52d5\u8eca\u76f8\u95dc\u80a1\u4efd\u5982INTC\u53caTSLA\u7684\u6280\u8853\u6307\u6a19\u8868\u73fe\u7279\u5225\u5f37\u52c1,\u80a1\u50f9\u4e0a\u5347\u540c\u6642\u6210\u4ea4\u91cf\u986f\u8457\u653e\u5927,\u986f\u793a\u53ef\u80fd\u6709\u5927\u578b\u6a5f\u69cb\u8cc7\u91d1\u9032\u5834,\u800c\u975e\u55ae\u7d14\u77ed\u7092\u8cc7\u91d1\u8ffd\u9ad8\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u91cd\u5927\u65b0\u805e\u8cc7\u6599\u53ef\u4f9b\u53c3\u8003,\u6b64\u6b21\u5347\u5e02\u770b\u4f86\u662f\u6574\u9ad4\u98a8\u96aa\u504f\u597d\u5e36\u52d5,\u800c\u975e\u55ae\u4e00\u6d88\u606f\u523a\u6fc0\u3002",
+      "summary_en": "Broad-based buying lifted both the NASDAQ and S&P 500 today, with technology and growth names leading the advance. The gains reflect continued investor confidence in risk assets rather than any single catalyst. No specific news headlines were available in today's feed to cite.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u5448\u73fe\u666e\u904d\u6027\u8cb7\u76e4\uff0c\u7d0d\u65af\u9054\u514b\u53ca\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u63da\uff0c\u79d1\u6280\u53ca\u589e\u9577\u80a1\u8868\u73fe\u9818\u5148\u3002\u6b64\u6b21\u5347\u52e2\u53cd\u6620\u6295\u8cc7\u8005\u5c0d\u98a8\u96aa\u8cc7\u7522\u6301\u7e8c\u770b\u597d\u7684\u60c5\u7dd2\uff0c\u800c\u975e\u55ae\u4e00\u4e8b\u4ef6\u6240\u89f8\u767c\u3002\u4eca\u65e5\u8cc7\u8a0a\u4f86\u6e90\u4e2d\u672a\u6709\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u5f15\u7528\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Confirmation",
-      "explanation_en": "When a stock's price rises on unusually high trading volume, it suggests the move is backed by strong conviction \u2014 often from larger institutional investors \u2014 rather than being a random or thin-volume fluctuation. Combining volume surges with other bullish signals like RSI and MACD crossovers gives higher confidence that a rally has real staying power.",
-      "explanation_zh": "\u7576\u80a1\u50f9\u5728\u6210\u4ea4\u91cf\u7570\u5e38\u653e\u5927\u7684\u60c5\u6cc1\u4e0b\u4e0a\u5347,\u4ee3\u8868\u9019\u6b21\u5347\u52e2\u80cc\u5f8c\u53ef\u80fd\u6709\u8f03\u5f37\u7684\u4fe1\u5fc3\u652f\u6301,\u901a\u5e38\u662f\u5927\u578b\u6a5f\u69cb\u6295\u8cc7\u8005\u9032\u5834,\u800c\u975e\u96a8\u6a5f\u6216\u6de1\u53cb\u7684\u77ed\u66ab\u6ce2\u52d5\u3002\u5c07\u6210\u4ea4\u91cf\u653e\u5927\u8a0a\u865f\u8207RSI\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u7b49\u5176\u4ed6\u5229\u597d\u6307\u6a19\u7d50\u5408,\u53ef\u4ee5\u66f4\u6709\u4fe1\u5fc3\u5224\u65b7\u5347\u52e2\u662f\u5426\u5177\u6301\u7e8c\u6027\u3002"
+      "term": "Risk-On Rally",
+      "explanation_en": "A 'risk-on' day is when investors broadly buy riskier assets like stocks, especially growth and tech names, because they feel confident about the economy or market direction. On these days, it often makes sense to deploy available cash into your best-confirmed opportunities rather than sitting on the sidelines.",
+      "explanation_zh": "\u300crisk-on\u300d\uff08\u98a8\u96aa\u504f\u597d\uff09\u65e5\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u8cb7\u5165\u8f03\u9ad8\u98a8\u96aa\u7684\u8cc7\u7522\uff0c\u4f8b\u5982\u80a1\u7968\uff0c\u5c24\u5176\u662f\u589e\u9577\u80a1\u53ca\u79d1\u6280\u80a1\uff0c\u56e0\u70ba\u4ed6\u5011\u5c0d\u7d93\u6fdf\u6216\u5e02\u5834\u524d\u666f\u611f\u5230\u6a02\u89c0\u3002\u5728\u9019\u985e\u65e5\u5b50\uff0c\u5c07\u9592\u7f6e\u73fe\u91d1\u6295\u5165\u7d93\u78ba\u8a8d\u7684\u512a\u8cea\u6a5f\u6703\uff0c\u5f80\u5f80\u6bd4\u7e7c\u7e8c\u6301\u73fe\u91d1\u89c0\u671b\u66f4\u70ba\u5408\u7406\u3002"
     }
   }
 }
