@@ -1,14 +1,14 @@
 {
   "date": "2026-10-27",
-  "briefing": "NASDAQ rose 1.2% and the S&P 500 added 0.6% in a clear risk-on session. With 3 open slots and cash above the deploy threshold, we filled all three slots in favor of USAR and DPC (both full multi-signal confirmation) plus KNSA at medium conviction, rather than holding idle cash.",
+  "briefing": "Markets are modestly risk-on today with NASDAQ +1.2% and S&P 500 +0.6%. With 3 open slots and cash above the $500 threshold, we're deploying into USAR and DPC, the two candidates showing full multi-signal confirmation (RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge), while keeping existing winners untouched and holding back some cash.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, using signals like price above its moving average, bullish MACD crossovers, and rising trading volume to confirm the trend is real. Today's buys (USAR, DPC, KNSA) were chosen because multiple signals lined up together, which lowers the chance of chasing a false signal.",
-    "explanation_zh": "動能投資是指買入正處於上升趨勢的股票,利用價格高於移動平均線、MACD黃金交叉、以及成交量放大等訊號來確認趨勢是否真實。今日選入的USAR、DPC及KNSA均是因為多項技術訊號同時出現,這樣可以降低追錯訊號的風險。"
+    "term": "Momentum Signal Confluence",
+    "explanation_en": "When multiple technical indicators — like RSI, MACD, price vs. moving average, and trading volume — all point bullish at the same time, it's a stronger signal than any single indicator alone. Traders call this 'confluence,' and it helps filter out false signals from random price noise.",
+    "explanation_zh": "當多個技術指標（如RSI、MACD、股價相對移動平均線的位置，以及成交量）同時顯示看漲訊號時，這比單一指標更具說服力。交易者稱這種現象為「訊號匯聚」，有助於過濾隨機價格波動產生的假訊號。"
   },
   "market_education": {
-    "summary_en": "Growth and tech-adjacent names outperformed as the NASDAQ (+1.2%) led the S&P 500 (+0.6%) higher, a pattern consistent with broad risk-on sentiment rather than a single catalyst. Several momentum candidates also showed volume surges alongside the rally, a sign that institutional buyers were actively participating rather than retail-driven noise. No single headline was cited for today's move since no specific news items were available in this session's feed.",
-    "summary_zh": "今日科技及成長股表現領先大市,納斯達克指數上升1.2%,帶動標普500指數上漲0.6%,反映市場整體風險偏好回升,而非單一消息刺激。多隻具動能的股票同時出現成交量放大,顯示機構資金正積極參與,而非單純散戶炒作。由於本次資訊中沒有具體新聞標題可供引用,故未附上個別消息來源。",
+    "summary_en": "Broad equity indices advanced today, with growth-heavy NASDAQ outpacing the S&P 500, consistent with a risk-on tone across markets. Momentum names with strong technical setups — volume surges alongside bullish MACD crossovers — led the gains. No specific news catalysts were available in today's feed to cite.",
+    "summary_zh": "今日大盤普遍上揚，科技股為主的納斯達克指數升幅跑贏標普500指數，顯示市場氣氛偏向風險偏好。技術面強勢的動能股表現領先，成交量放大並伴隨MACD黃金交叉訊號。今日未有具體新聞頭條可供引用。",
     "sources": []
   },
   "trades": [
@@ -16,19 +16,13 @@
       "action": "BUY",
       "ticker": "USAR",
       "conviction": "high",
-      "reasoning": "Top score (100) with full signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge, ideal for a risk-on day."
+      "reasoning": "Top-scored candidate (100) with full signal confluence — RSI in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge confirming institutional participation."
     },
     {
       "action": "BUY",
       "ticker": "DPC",
       "conviction": "high",
-      "reasoning": "Tied for top score (100) with the same full multi-signal confirmation as USAR, indicating genuine institutional buying rather than a random spike."
-    },
-    {
-      "action": "BUY",
-      "ticker": "KNSA",
-      "conviction": "medium",
-      "reasoning": "Strong MACD crossover, price well above SMA-20, and a volume surge, though RSI near 70 warrants a smaller, medium-conviction size."
+      "reasoning": "Second top-scored candidate (100) with the same complete multi-signal confirmation as USAR, fitting the risk-on setup and filling an open slot with idle cash above the $500 threshold."
     }
   ],
   "outcomes": {

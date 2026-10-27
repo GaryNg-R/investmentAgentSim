@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-10-27T20:01:11.734394+00:00",
+  "saved_at": "2026-10-27T21:01:00.761785+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
@@ -7,32 +7,26 @@
         "action": "BUY",
         "ticker": "USAR",
         "conviction": "high",
-        "reasoning": "Top score (100) with full signal confirmation \u2014 bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge, ideal for a risk-on day."
+        "reasoning": "Top-scored candidate (100) with full signal confluence \u2014 RSI in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge confirming institutional participation."
       },
       {
         "action": "BUY",
         "ticker": "DPC",
         "conviction": "high",
-        "reasoning": "Tied for top score (100) with the same full multi-signal confirmation as USAR, indicating genuine institutional buying rather than a random spike."
-      },
-      {
-        "action": "BUY",
-        "ticker": "KNSA",
-        "conviction": "medium",
-        "reasoning": "Strong MACD crossover, price well above SMA-20, and a volume surge, though RSI near 70 warrants a smaller, medium-conviction size."
+        "reasoning": "Second top-scored candidate (100) with the same complete multi-signal confirmation as USAR, fitting the risk-on setup and filling an open slot with idle cash above the $500 threshold."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "NASDAQ rose 1.2% and the S&P 500 added 0.6% in a clear risk-on session. With 3 open slots and cash above the deploy threshold, we filled all three slots in favor of USAR and DPC (both full multi-signal confirmation) plus KNSA at medium conviction, rather than holding idle cash.",
+    "briefing": "Markets are modestly risk-on today with NASDAQ +1.2% and S&P 500 +0.6%. With 3 open slots and cash above the $500 threshold, we're deploying into USAR and DPC, the two candidates showing full multi-signal confirmation (RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge), while keeping existing winners untouched and holding back some cash.",
     "market_education": {
-      "summary_en": "Growth and tech-adjacent names outperformed as the NASDAQ (+1.2%) led the S&P 500 (+0.6%) higher, a pattern consistent with broad risk-on sentiment rather than a single catalyst. Several momentum candidates also showed volume surges alongside the rally, a sign that institutional buyers were actively participating rather than retail-driven noise. No single headline was cited for today's move since no specific news items were available in this session's feed.",
-      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u53ca\u6210\u9577\u80a1\u8868\u73fe\u9818\u5148\u5927\u5e02,\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53471.2%,\u5e36\u52d5\u6a19\u666e500\u6307\u6578\u4e0a\u6f320.6%,\u53cd\u6620\u5e02\u5834\u6574\u9ad4\u98a8\u96aa\u504f\u597d\u56de\u5347,\u800c\u975e\u55ae\u4e00\u6d88\u606f\u523a\u6fc0\u3002\u591a\u96bb\u5177\u52d5\u80fd\u7684\u80a1\u7968\u540c\u6642\u51fa\u73fe\u6210\u4ea4\u91cf\u653e\u5927,\u986f\u793a\u6a5f\u69cb\u8cc7\u91d1\u6b63\u7a4d\u6975\u53c3\u8207,\u800c\u975e\u55ae\u7d14\u6563\u6236\u7092\u4f5c\u3002\u7531\u65bc\u672c\u6b21\u8cc7\u8a0a\u4e2d\u6c92\u6709\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u5f15\u7528,\u6545\u672a\u9644\u4e0a\u500b\u5225\u6d88\u606f\u4f86\u6e90\u3002",
+      "summary_en": "Broad equity indices advanced today, with growth-heavy NASDAQ outpacing the S&P 500, consistent with a risk-on tone across markets. Momentum names with strong technical setups \u2014 volume surges alongside bullish MACD crossovers \u2014 led the gains. No specific news catalysts were available in today's feed to cite.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u4e0a\u63da\uff0c\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u986f\u793a\u5e02\u5834\u6c23\u6c1b\u504f\u5411\u98a8\u96aa\u504f\u597d\u3002\u6280\u8853\u9762\u5f37\u52e2\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u9818\u5148\uff0c\u6210\u4ea4\u91cf\u653e\u5927\u4e26\u4f34\u96a8MACD\u9ec3\u91d1\u4ea4\u53c9\u8a0a\u865f\u3002\u4eca\u65e5\u672a\u6709\u5177\u9ad4\u65b0\u805e\u982d\u689d\u53ef\u4f9b\u5f15\u7528\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Investing",
-      "explanation_en": "Momentum investing means buying stocks that are already trending upward, using signals like price above its moving average, bullish MACD crossovers, and rising trading volume to confirm the trend is real. Today's buys (USAR, DPC, KNSA) were chosen because multiple signals lined up together, which lowers the chance of chasing a false signal.",
-      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u6b63\u8655\u65bc\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u5229\u7528\u50f9\u683c\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u7b49\u8a0a\u865f\u4f86\u78ba\u8a8d\u8da8\u52e2\u662f\u5426\u771f\u5be6\u3002\u4eca\u65e5\u9078\u5165\u7684USAR\u3001DPC\u53caKNSA\u5747\u662f\u56e0\u70ba\u591a\u9805\u6280\u8853\u8a0a\u865f\u540c\u6642\u51fa\u73fe,\u9019\u6a23\u53ef\u4ee5\u964d\u4f4e\u8ffd\u932f\u8a0a\u865f\u7684\u98a8\u96aa\u3002"
+      "term": "Momentum Signal Confluence",
+      "explanation_en": "When multiple technical indicators \u2014 like RSI, MACD, price vs. moving average, and trading volume \u2014 all point bullish at the same time, it's a stronger signal than any single indicator alone. Traders call this 'confluence,' and it helps filter out false signals from random price noise.",
+      "explanation_zh": "\u7576\u591a\u500b\u6280\u8853\u6307\u6a19\uff08\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u76f8\u5c0d\u79fb\u52d5\u5e73\u5747\u7dda\u7684\u4f4d\u7f6e\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u986f\u793a\u770b\u6f32\u8a0a\u865f\u6642\uff0c\u9019\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u5177\u8aaa\u670d\u529b\u3002\u4ea4\u6613\u8005\u7a31\u9019\u7a2e\u73fe\u8c61\u70ba\u300c\u8a0a\u865f\u532f\u805a\u300d\uff0c\u6709\u52a9\u65bc\u904e\u6ffe\u96a8\u6a5f\u50f9\u683c\u6ce2\u52d5\u7522\u751f\u7684\u5047\u8a0a\u865f\u3002"
     }
   }
 }
