@@ -1,34 +1,34 @@
 {
   "date": "2026-10-27",
-  "briefing": "NASDAQ +1.2% and S&P 500 +0.6% point to a risk-on day, so with 3 open slots and cash above the $500 threshold we deployed into the top-scoring, multi-signal-confirmed candidates (CBRS, IBRX, APLD) rather than holding idle cash. Existing positions are left untouched since none hit stop-loss or profit-target levels and the market doesn't warrant trimming winners.",
+  "briefing": "NASDAQ rose 1.2% and the S&P 500 added 0.6% in a clear risk-on session. With 3 open slots and cash above the deploy threshold, we filled all three slots in favor of USAR and DPC (both full multi-signal confirmation) plus KNSA at medium conviction, rather than holding idle cash.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like MACD crossovers and healthy RSI levels, on the theory that strength tends to continue in the short term. It works best when confirmed by multiple indicators together, rather than relying on just one signal.",
-    "explanation_zh": "動能投資是指買入已經處於上升趨勢的股票，依據MACD交叉、RSI等指標判斷，理論基礎是短期內強勢股票傾向延續升勢。當多項指標同時確認時，訊號的可靠性會比單一指標高。"
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, using signals like price above its moving average, bullish MACD crossovers, and rising trading volume to confirm the trend is real. Today's buys (USAR, DPC, KNSA) were chosen because multiple signals lined up together, which lowers the chance of chasing a false signal.",
+    "explanation_zh": "動能投資是指買入正處於上升趨勢的股票,利用價格高於移動平均線、MACD黃金交叉、以及成交量放大等訊號來確認趨勢是否真實。今日選入的USAR、DPC及KNSA均是因為多項技術訊號同時出現,這樣可以降低追錯訊號的風險。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today, led by the NASDAQ outpacing the S&P 500, reflect continued risk appetite for growth and technology-adjacent names. Momentum names showing bullish MACD crossovers and RSI readings in the 55-70 range attracted renewed buying interest as traders rotated back into higher-beta sectors. No single catalyst headline is identified for today; the move appears consistent with broad risk-on sentiment rather than a specific news event.",
-    "summary_zh": "今日大市普遍上揚，納斯達克升幅跑贏標普500指數，反映市場對科技及高增長股份的風險偏好持續升溫。多隻動能股出現MACD黃金交叉及RSI處於55至70的偏多區間，吸引資金重新流入高貝他系數板塊。今日未有特定新聞事件觸發此輪升勢，走勢較符合整體風險偏好改善的格局。",
+    "summary_en": "Growth and tech-adjacent names outperformed as the NASDAQ (+1.2%) led the S&P 500 (+0.6%) higher, a pattern consistent with broad risk-on sentiment rather than a single catalyst. Several momentum candidates also showed volume surges alongside the rally, a sign that institutional buyers were actively participating rather than retail-driven noise. No single headline was cited for today's move since no specific news items were available in this session's feed.",
+    "summary_zh": "今日科技及成長股表現領先大市,納斯達克指數上升1.2%,帶動標普500指數上漲0.6%,反映市場整體風險偏好回升,而非單一消息刺激。多隻具動能的股票同時出現成交量放大,顯示機構資金正積極參與,而非單純散戶炒作。由於本次資訊中沒有具體新聞標題可供引用,故未附上個別消息來源。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CBRS",
-      "conviction": "medium",
-      "reasoning": "Top-scoring candidate with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, fitting the risk-on tape."
+      "ticker": "USAR",
+      "conviction": "high",
+      "reasoning": "Top score (100) with full signal confirmation — bullish RSI, MACD crossover, rising histogram, price above SMA-20, and a volume surge, ideal for a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "IBRX",
-      "conviction": "medium",
-      "reasoning": "Shares the same multi-signal bullish setup as the top tier and diversifies into biotech away from existing tech-heavy holdings."
+      "ticker": "DPC",
+      "conviction": "high",
+      "reasoning": "Tied for top score (100) with the same full multi-signal confirmation as USAR, indicating genuine institutional buying rather than a random spike."
     },
     {
       "action": "BUY",
-      "ticker": "APLD",
+      "ticker": "KNSA",
       "conviction": "medium",
-      "reasoning": "High-score momentum name with confirmed MACD crossover and price above SMA-20, adding data-infrastructure exposure distinct from current positions."
+      "reasoning": "Strong MACD crossover, price well above SMA-20, and a volume surge, though RSI near 70 warrants a smaller, medium-conviction size."
     }
   ],
   "outcomes": {
