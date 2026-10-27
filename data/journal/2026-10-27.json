@@ -1,34 +1,34 @@
 {
   "date": "2026-10-27",
-  "briefing": "Markets were broadly flat today (NASDAQ +0.4%, S&P 500 +0.1%), but a handful of individual names showed full four-signal confirmation (RSI, MACD, SMA-20, volume) rather than just index-level drift. We used our 3 open slots on HRI, NBIS, and BE and left existing positions untouched since nothing hit stop-loss or profit targets.",
+  "briefing": "Markets were modestly positive today with NASDAQ +0.9% and S&P 500 +0.5%, a neutral-to-slightly-bullish tape. With 3 open position slots and cash above the $500 threshold, we deployed into three high-conviction momentum names (NVDA, NBIS, BE) that each show multi-signal technical confirmation, while leaving existing positions untouched.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "This means waiting until several different technical indicators — like momentum (RSI), trend (MACD), price position relative to a moving average, and trading volume — all point the same bullish direction before buying. Relying on just one signal can give false alarms, but when they all agree, it's a much stronger sign that real buying interest (not just noise) is behind the move.",
-    "explanation_zh": "這是指在買入前，等待多個不同的技術指標——例如動能指標（RSI）、趨勢指標（MACD）、股價相對於均線的位置，以及成交量——同時指向同一個看漲方向。只依賴單一訊號容易出現誤判，但當多項指標同時確認時，就更能代表背後有真實的買盤支撐，而不只是短暫的市場噪音。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like price above moving averages, bullish MACD crossovers, and healthy (not overbought) RSI levels. The idea is that stocks showing strong recent performance with confirming technical signals tend to keep performing well in the near term.",
+    "explanation_zh": "動能投資策略是指買入已經處於上升趨勢的股票，依據的訊號包括股價高於移動平均線、MACD出現黃金交叉，以及RSI處於健康（非超買）水平。這種策略的核心理念是：近期表現強勁並有多重技術指標確認的股票，短期內往往會延續其升勢。"
   },
   "market_education": {
-    "summary_en": "Broad index moves were muted today, with the S&P 500 and NASDAQ each posting small gains, suggesting no major macro catalyst drove the session. Instead, leadership came from individual stocks showing strong technical setups — rising volume and momentum — rather than a market-wide rally. This kind of narrow, stock-specific strength is common in consolidation phases between bigger market moves.",
-    "summary_zh": "今日大盤走勢平淡，標普500指數與納斯達克指數僅微幅上揚，顯示當日並無明顯的宏觀消息面驅動。反而是個別股票憑藉強勁的技術面表現（成交量放大、動能增強）展現領漲態勢，而非全面性的普漲行情。這種「個股強、大盤弱」的格局，通常出現在市場於大波動之間的整理階段。",
+    "summary_en": "Equities drifted modestly higher today, with tech-heavy NASDAQ outperforming the broader S&P 500, suggesting continued risk appetite in growth and AI-adjacent sectors. No major macro catalyst stood out, consistent with a steady grind-higher session rather than a news-driven spike. Breadth in momentum names like NVDA, NBIS, and BE reflected ongoing institutional interest in AI infrastructure and energy names supporting that buildout.",
+    "summary_zh": "今日大市溫和向上，以科技股為主的納斯達克指數升幅跑贏標普500指數，反映市場對增長股及AI相關板塊仍保持一定風險偏好。今日未見重大宏觀消息刺激，走勢較似穩步上揚的交易日而非新聞驅動的急升。NVDA、NBIS及BE等動能股表現活躍，顯示機構資金持續流入AI基建及支援相關發展的能源板塊。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "HRI",
+      "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "All four bullish signals aligned (RSI 69.3 in bullish zone, MACD crossover with rising histogram, price above SMA-20, volume surge), indicating strong institutional participation."
+      "reasoning": "Full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge) plus top momentum score of 100."
     },
     {
       "action": "BUY",
       "ticker": "NBIS",
-      "conviction": "high",
-      "reasoning": "Full multi-signal confirmation with RSI 55.1 in healthy bullish range, MACD crossover, price above SMA-20, and volume surge, plus adds AI-infrastructure diversification."
+      "conviction": "medium",
+      "reasoning": "Strong four-signal momentum confirmation (score 95) and adds AI-infrastructure exposure distinct from existing holdings."
     },
     {
       "action": "BUY",
       "ticker": "BE",
-      "conviction": "high",
-      "reasoning": "All four confirmation signals present (RSI 57.8, MACD crossover, price above SMA-20, volume surge), and adds clean-energy sector exposure not already in the portfolio."
+      "conviction": "medium",
+      "reasoning": "Score 95 with full bullish technical confirmation, diversifying into clean energy away from current tech/semis concentration."
     }
   ],
   "outcomes": {
