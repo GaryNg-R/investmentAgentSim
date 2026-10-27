@@ -1,34 +1,34 @@
 {
   "date": "2026-10-27",
-  "briefing": "Markets were modestly positive today with NASDAQ +0.9% and S&P 500 +0.5%, a neutral-to-slightly-bullish tape. With 3 open position slots and cash above the $500 threshold, we deployed into three high-conviction momentum names (NVDA, NBIS, BE) that each show multi-signal technical confirmation, while leaving existing positions untouched.",
+  "briefing": "NASDAQ +1.3% and S&P 500 +0.7% confirm a risk-on day, and with $1189 in cash and 3 open slots we deployed into our highest-conviction setups. CHRN and NVDA both show full five-signal confirmation including volume surges, with AEHR added as a solid secondary pick to fully utilize available slots per the risk rules.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like price above moving averages, bullish MACD crossovers, and healthy (not overbought) RSI levels. The idea is that stocks showing strong recent performance with confirming technical signals tend to keep performing well in the near term.",
-    "explanation_zh": "動能投資策略是指買入已經處於上升趨勢的股票，依據的訊號包括股價高於移動平均線、MACD出現黃金交叉，以及RSI處於健康（非超買）水平。這種策略的核心理念是：近期表現強勁並有多重技術指標確認的股票，短期內往往會延續其升勢。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means a price move is backed by unusually high trading activity, which suggests many investors — often institutions — are participating, not just a few random traders. A bullish signal paired with a volume surge is considered more reliable than the same signal on light volume.",
+    "explanation_zh": "成交量確認是指股價的變動伴隨著異常高的交易量，顯示有大量投資者（通常包括機構資金）參與其中，而非僅是零星交易。當利好訊號同時出現放量情況，其可信度通常比低成交量時的同類訊號更高。"
   },
   "market_education": {
-    "summary_en": "Equities drifted modestly higher today, with tech-heavy NASDAQ outperforming the broader S&P 500, suggesting continued risk appetite in growth and AI-adjacent sectors. No major macro catalyst stood out, consistent with a steady grind-higher session rather than a news-driven spike. Breadth in momentum names like NVDA, NBIS, and BE reflected ongoing institutional interest in AI infrastructure and energy names supporting that buildout.",
-    "summary_zh": "今日大市溫和向上，以科技股為主的納斯達克指數升幅跑贏標普500指數，反映市場對增長股及AI相關板塊仍保持一定風險偏好。今日未見重大宏觀消息刺激，走勢較似穩步上揚的交易日而非新聞驅動的急升。NVDA、NBIS及BE等動能股表現活躍，顯示機構資金持續流入AI基建及支援相關發展的能源板塊。",
+    "summary_en": "Markets rallied broadly today with tech leading the way, as the NASDAQ outpaced the S&P 500, suggesting investors rotated into growth and momentum names. Semiconductor and AI-adjacent stocks like NVDA and CHRN saw particularly strong volume, hinting at renewed institutional buying interest. No major macro catalyst stands out from available data, so the move looks driven by sector-level momentum rather than a single headline event.",
+    "summary_zh": "今日大市普遍上揚，科技股表現領先，納斯達克指數升幅跑贏標普500，顯示資金再次流向增長及強勢動能股。半導體及人工智能相關股份如NVDA及CHRN均錄得明顯放量，反映機構資金或重新入市。目前未見明顯宏觀消息刺激，今次升浪較似是板塊性動能帶動，而非單一新聞事件所致。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
+      "ticker": "CHRN",
+      "conviction": "high",
+      "reasoning": "Full signal confirmation (RSI 69.1 bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day."
+    },
+    {
+      "action": "BUY",
       "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "Full signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge) plus top momentum score of 100."
+      "reasoning": "All five technical signals align with a volume surge confirming institutional participation during today's NASDAQ rally."
     },
     {
       "action": "BUY",
-      "ticker": "NBIS",
+      "ticker": "AEHR",
       "conviction": "medium",
-      "reasoning": "Strong four-signal momentum confirmation (score 95) and adds AI-infrastructure exposure distinct from existing holdings."
-    },
-    {
-      "action": "BUY",
-      "ticker": "BE",
-      "conviction": "medium",
-      "reasoning": "Score 95 with full bullish technical confirmation, diversifying into clean energy away from current tech/semis concentration."
+      "reasoning": "Strong bullish crossover and price well above SMA-20 fills the third open slot, though lacking the volume-surge confirmation of the top two picks."
     }
   ],
   "outcomes": {
