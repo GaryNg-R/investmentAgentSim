@@ -1,34 +1,34 @@
 {
   "date": "2026-10-27",
-  "briefing": "Markets edged higher today with NASDAQ +0.8% and S&P 500 +0.7%, a mild risk-on tone. With 3 open slots and cash above the deployment threshold, we bought INIO, VSAT, and MRCY — all showing full four-signal momentum confirmation (RSI, MACD, SMA-20, volume) — while holding the existing 7 positions unchanged.",
+  "briefing": "Markets were broadly flat today (NASDAQ +0.4%, S&P 500 +0.1%), but a handful of individual names showed full four-signal confirmation (RSI, MACD, SMA-20, volume) rather than just index-level drift. We used our 3 open slots on HRI, NBIS, and BE and left existing positions untouched since nothing hit stop-loss or profit targets.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple independent signals — like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge — to all align before buying. Relying on just one signal can give false alarms, but when several agree, it's a stronger sign that real buying interest is behind the move.",
-    "explanation_zh": "動能確認是指在買入前，等待多個獨立訊號同時出現，例如RSI處於健康區間、MACD出現黃金交叉、股價高於移動平均線，以及成交量放大。只靠單一訊號容易出現假訊號，但當多個指標同時指向同一方向時，就更能確認背後有真實的買盤支持。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "This means waiting until several different technical indicators — like momentum (RSI), trend (MACD), price position relative to a moving average, and trading volume — all point the same bullish direction before buying. Relying on just one signal can give false alarms, but when they all agree, it's a much stronger sign that real buying interest (not just noise) is behind the move.",
+    "explanation_zh": "這是指在買入前，等待多個不同的技術指標——例如動能指標（RSI）、趨勢指標（MACD）、股價相對於均線的位置，以及成交量——同時指向同一個看漲方向。只依賴單一訊號容易出現誤判，但當多項指標同時確認時，就更能代表背後有真實的買盤支撐，而不只是短暫的市場噪音。"
   },
   "market_education": {
-    "summary_en": "Equities drifted modestly higher today, with the NASDAQ outpacing the S&P 500 slightly, suggesting continued but not aggressive risk appetite among investors. There was no major macro catalyst reported in available data today, consistent with a steady grind-up rather than a sharp rally. Broad participation across sectors, as seen in diverse momentum candidates, points to a healthy if unspectacular advance.",
-    "summary_zh": "今日大市溫和上揚，納斯達克指數升0.8%，標普500指數升0.7%，反映市場風險偏好持續但未見強勁爆發。暫時未見重大宏觀消息刺激，走勢較似穩步爬升而非急漲。從多個不同行業均出現動能買盤訊號來看，今日升勢屬於較健康及廣泛的格局。",
+    "summary_en": "Broad index moves were muted today, with the S&P 500 and NASDAQ each posting small gains, suggesting no major macro catalyst drove the session. Instead, leadership came from individual stocks showing strong technical setups — rising volume and momentum — rather than a market-wide rally. This kind of narrow, stock-specific strength is common in consolidation phases between bigger market moves.",
+    "summary_zh": "今日大盤走勢平淡，標普500指數與納斯達克指數僅微幅上揚，顯示當日並無明顯的宏觀消息面驅動。反而是個別股票憑藉強勁的技術面表現（成交量放大、動能增強）展現領漲態勢，而非全面性的普漲行情。這種「個股強、大盤弱」的格局，通常出現在市場於大波動之間的整理階段。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "INIO",
+      "ticker": "HRI",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (RSI 61.8 bullish zone, MACD crossover, price above SMA-20, volume surge) on a risk-on day with open slots and ample cash."
+      "reasoning": "All four bullish signals aligned (RSI 69.3 in bullish zone, MACD crossover with rising histogram, price above SMA-20, volume surge), indicating strong institutional participation."
     },
     {
       "action": "BUY",
-      "ticker": "VSAT",
+      "ticker": "NBIS",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation with top momentum score, diversifying into satellite/telecom away from current holdings."
+      "reasoning": "Full multi-signal confirmation with RSI 55.1 in healthy bullish range, MACD crossover, price above SMA-20, and volume surge, plus adds AI-infrastructure diversification."
     },
     {
       "action": "BUY",
-      "ticker": "MRCY",
+      "ticker": "BE",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation in defense electronics, adding sector diversification while filling an open slot per risk rules."
+      "reasoning": "All four confirmation signals present (RSI 57.8, MACD crossover, price above SMA-20, volume surge), and adds clean-energy sector exposure not already in the portfolio."
     }
   ],
   "outcomes": {

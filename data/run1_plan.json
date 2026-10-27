@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-10-27T13:01:09.117470+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-10-27T14:01:14.353837+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "INIO",
+        "ticker": "HRI",
         "conviction": "high",
-        "reasoning": "Full four-signal confirmation (RSI 61.8 bullish zone, MACD crossover, price above SMA-20, volume surge) on a risk-on day with open slots and ample cash."
+        "reasoning": "All four bullish signals aligned (RSI 69.3 in bullish zone, MACD crossover with rising histogram, price above SMA-20, volume surge), indicating strong institutional participation."
       },
       {
         "action": "BUY",
-        "ticker": "VSAT",
+        "ticker": "NBIS",
         "conviction": "high",
-        "reasoning": "Full four-signal confirmation with top momentum score, diversifying into satellite/telecom away from current holdings."
+        "reasoning": "Full multi-signal confirmation with RSI 55.1 in healthy bullish range, MACD crossover, price above SMA-20, and volume surge, plus adds AI-infrastructure diversification."
       },
       {
         "action": "BUY",
-        "ticker": "MRCY",
+        "ticker": "BE",
         "conviction": "high",
-        "reasoning": "Full four-signal confirmation in defense electronics, adding sector diversification while filling an open slot per risk rules."
+        "reasoning": "All four confirmation signals present (RSI 57.8, MACD crossover, price above SMA-20, volume surge), and adds clean-energy sector exposure not already in the portfolio."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets edged higher today with NASDAQ +0.8% and S&P 500 +0.7%, a mild risk-on tone. With 3 open slots and cash above the deployment threshold, we bought INIO, VSAT, and MRCY \u2014 all showing full four-signal momentum confirmation (RSI, MACD, SMA-20, volume) \u2014 while holding the existing 7 positions unchanged.",
+    "briefing": "Markets were broadly flat today (NASDAQ +0.4%, S&P 500 +0.1%), but a handful of individual names showed full four-signal confirmation (RSI, MACD, SMA-20, volume) rather than just index-level drift. We used our 3 open slots on HRI, NBIS, and BE and left existing positions untouched since nothing hit stop-loss or profit targets.",
     "market_education": {
-      "summary_en": "Equities drifted modestly higher today, with the NASDAQ outpacing the S&P 500 slightly, suggesting continued but not aggressive risk appetite among investors. There was no major macro catalyst reported in available data today, consistent with a steady grind-up rather than a sharp rally. Broad participation across sectors, as seen in diverse momentum candidates, points to a healthy if unspectacular advance.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u53470.8%\uff0c\u6a19\u666e500\u6307\u6578\u53470.7%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6301\u7e8c\u4f46\u672a\u898b\u5f37\u52c1\u7206\u767c\u3002\u66ab\u6642\u672a\u898b\u91cd\u5927\u5b8f\u89c0\u6d88\u606f\u523a\u6fc0\uff0c\u8d70\u52e2\u8f03\u4f3c\u7a69\u6b65\u722c\u5347\u800c\u975e\u6025\u6f32\u3002\u5f9e\u591a\u500b\u4e0d\u540c\u884c\u696d\u5747\u51fa\u73fe\u52d5\u80fd\u8cb7\u76e4\u8a0a\u865f\u4f86\u770b\uff0c\u4eca\u65e5\u5347\u52e2\u5c6c\u65bc\u8f03\u5065\u5eb7\u53ca\u5ee3\u6cdb\u7684\u683c\u5c40\u3002",
+      "summary_en": "Broad index moves were muted today, with the S&P 500 and NASDAQ each posting small gains, suggesting no major macro catalyst drove the session. Instead, leadership came from individual stocks showing strong technical setups \u2014 rising volume and momentum \u2014 rather than a market-wide rally. This kind of narrow, stock-specific strength is common in consolidation phases between bigger market moves.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u5e73\u6de1\uff0c\u6a19\u666e500\u6307\u6578\u8207\u7d0d\u65af\u9054\u514b\u6307\u6578\u50c5\u5fae\u5e45\u4e0a\u63da\uff0c\u986f\u793a\u7576\u65e5\u4e26\u7121\u660e\u986f\u7684\u5b8f\u89c0\u6d88\u606f\u9762\u9a45\u52d5\u3002\u53cd\u800c\u662f\u500b\u5225\u80a1\u7968\u6191\u85c9\u5f37\u52c1\u7684\u6280\u8853\u9762\u8868\u73fe\uff08\u6210\u4ea4\u91cf\u653e\u5927\u3001\u52d5\u80fd\u589e\u5f37\uff09\u5c55\u73fe\u9818\u6f32\u614b\u52e2\uff0c\u800c\u975e\u5168\u9762\u6027\u7684\u666e\u6f32\u884c\u60c5\u3002\u9019\u7a2e\u300c\u500b\u80a1\u5f37\u3001\u5927\u76e4\u5f31\u300d\u7684\u683c\u5c40\uff0c\u901a\u5e38\u51fa\u73fe\u5728\u5e02\u5834\u65bc\u5927\u6ce2\u52d5\u4e4b\u9593\u7684\u6574\u7406\u968e\u6bb5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means waiting for multiple independent signals \u2014 like RSI in a healthy range, a MACD crossover, price above its moving average, and a volume surge \u2014 to all align before buying. Relying on just one signal can give false alarms, but when several agree, it's a stronger sign that real buying interest is behind the move.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\uff0c\u7b49\u5f85\u591a\u500b\u7368\u7acb\u8a0a\u865f\u540c\u6642\u51fa\u73fe\uff0c\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u3002\u53ea\u9760\u55ae\u4e00\u8a0a\u865f\u5bb9\u6613\u51fa\u73fe\u5047\u8a0a\u865f\uff0c\u4f46\u7576\u591a\u500b\u6307\u6a19\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642\uff0c\u5c31\u66f4\u80fd\u78ba\u8a8d\u80cc\u5f8c\u6709\u771f\u5be6\u7684\u8cb7\u76e4\u652f\u6301\u3002"
+      "term": "Multi-Signal Confirmation",
+      "explanation_en": "This means waiting until several different technical indicators \u2014 like momentum (RSI), trend (MACD), price position relative to a moving average, and trading volume \u2014 all point the same bullish direction before buying. Relying on just one signal can give false alarms, but when they all agree, it's a much stronger sign that real buying interest (not just noise) is behind the move.",
+      "explanation_zh": "\u9019\u662f\u6307\u5728\u8cb7\u5165\u524d\uff0c\u7b49\u5f85\u591a\u500b\u4e0d\u540c\u7684\u6280\u8853\u6307\u6a19\u2014\u2014\u4f8b\u5982\u52d5\u80fd\u6307\u6a19\uff08RSI\uff09\u3001\u8da8\u52e2\u6307\u6a19\uff08MACD\uff09\u3001\u80a1\u50f9\u76f8\u5c0d\u65bc\u5747\u7dda\u7684\u4f4d\u7f6e\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u2014\u2014\u540c\u6642\u6307\u5411\u540c\u4e00\u500b\u770b\u6f32\u65b9\u5411\u3002\u53ea\u4f9d\u8cf4\u55ae\u4e00\u8a0a\u865f\u5bb9\u6613\u51fa\u73fe\u8aa4\u5224\uff0c\u4f46\u7576\u591a\u9805\u6307\u6a19\u540c\u6642\u78ba\u8a8d\u6642\uff0c\u5c31\u66f4\u80fd\u4ee3\u8868\u80cc\u5f8c\u6709\u771f\u5be6\u7684\u8cb7\u76e4\u652f\u6490\uff0c\u800c\u4e0d\u53ea\u662f\u77ed\u66ab\u7684\u5e02\u5834\u566a\u97f3\u3002"
     }
   }
 }
