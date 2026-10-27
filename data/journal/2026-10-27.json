@@ -1,34 +1,34 @@
 {
   "date": "2026-10-27",
-  "briefing": "Markets are risk-on today with NASDAQ +1.1% and S&P 500 +0.6%. With three open portfolio slots and cash above the deployment threshold, we bought into three high-scoring, multi-signal-confirmed names (NBIS, USAR, FRVO) to diversify beyond our current semiconductor/AI concentration while keeping existing positions untouched.",
+  "briefing": "NASDAQ +1.2% and S&P 500 +0.6% point to a risk-on day, so with 3 open slots and cash above the $500 threshold we deployed into the top-scoring, multi-signal-confirmed candidates (CBRS, IBRX, APLD) rather than holding idle cash. Existing positions are left untouched since none hit stop-loss or profit-target levels and the market doesn't warrant trimming winners.",
   "daily_lesson": {
     "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like moving averages and MACD crossovers, on the idea that strong recent performance often continues in the near term. Today's buys were chosen because multiple technical indicators (RSI, MACD, price vs. moving average) all pointed the same bullish direction at once.",
-    "explanation_zh": "動能投資是指買入已經處於上升趨勢的股票,根據移動平均線和MACD黃金交叉等訊號進行判斷,背後邏輯是近期表現強勁的股票短期內往往會延續升勢。今日所選的買入標的,是因為多項技術指標(RSI、MACD、股價相對於移動平均線的位置)同時指向同一個看漲方向。"
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on signals like MACD crossovers and healthy RSI levels, on the theory that strength tends to continue in the short term. It works best when confirmed by multiple indicators together, rather than relying on just one signal.",
+    "explanation_zh": "動能投資是指買入已經處於上升趨勢的股票，依據MACD交叉、RSI等指標判斷，理論基礎是短期內強勢股票傾向延續升勢。當多項指標同時確認時，訊號的可靠性會比單一指標高。"
   },
   "market_education": {
-    "summary_en": "Broad equity markets advanced today, led by the NASDAQ outpacing the S&P 500, consistent with continued strength in growth and technology-adjacent names. No specific news catalysts were provided for today's session, so the move appears driven by continued momentum in risk assets rather than a single headline event. Breadth in the screened candidate list, with many names showing bullish MACD crossovers and RSI in constructive ranges, supports a broad risk-on tape rather than narrow leadership.",
-    "summary_zh": "今日股市普遍走高,納斯達克指數升幅跑贏標普500指數,反映科技及成長股持續走強。由於今日沒有提供具體的新聞觸發因素,此次上揚看似由風險資產的持續動能帶動,而非單一消息面事件。從篩選名單的廣度來看,多隻股票同時出現MACD黃金交叉及RSI處於健康區間,顯示這是一次較廣泛的風險偏好上升,而非個別股份帶動大局。",
+    "summary_en": "Broad market gains today, led by the NASDAQ outpacing the S&P 500, reflect continued risk appetite for growth and technology-adjacent names. Momentum names showing bullish MACD crossovers and RSI readings in the 55-70 range attracted renewed buying interest as traders rotated back into higher-beta sectors. No single catalyst headline is identified for today; the move appears consistent with broad risk-on sentiment rather than a specific news event.",
+    "summary_zh": "今日大市普遍上揚，納斯達克升幅跑贏標普500指數，反映市場對科技及高增長股份的風險偏好持續升溫。多隻動能股出現MACD黃金交叉及RSI處於55至70的偏多區間，吸引資金重新流入高貝他系數板塊。今日未有特定新聞事件觸發此輪升勢，走勢較符合整體風險偏好改善的格局。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NBIS",
-      "conviction": "high",
-      "reasoning": "Score 95 with all four bullish signals confirmed (RSI 57.6, MACD crossover, rising histogram, price above SMA-20) on a risk-on day, and it diversifies into AI cloud infrastructure."
-    },
-    {
-      "action": "BUY",
-      "ticker": "USAR",
-      "conviction": "high",
-      "reasoning": "Score 95 with full multi-signal confirmation and exposure to critical materials, diversifying away from the semiconductor-heavy existing book."
-    },
-    {
-      "action": "BUY",
-      "ticker": "FRVO",
+      "ticker": "CBRS",
       "conviction": "medium",
-      "reasoning": "Score 95 with confirmed MACD crossover, rising histogram and price above SMA-20, adding energy-sector diversification while deploying idle cash on a risk-on day."
+      "reasoning": "Top-scoring candidate with RSI in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20, fitting the risk-on tape."
+    },
+    {
+      "action": "BUY",
+      "ticker": "IBRX",
+      "conviction": "medium",
+      "reasoning": "Shares the same multi-signal bullish setup as the top tier and diversifies into biotech away from existing tech-heavy holdings."
+    },
+    {
+      "action": "BUY",
+      "ticker": "APLD",
+      "conviction": "medium",
+      "reasoning": "High-score momentum name with confirmed MACD crossover and price above SMA-20, adding data-infrastructure exposure distinct from current positions."
     }
   ],
   "outcomes": {
