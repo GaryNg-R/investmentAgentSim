@@ -1,22 +1,34 @@
 {
   "date": "2026-10-28",
-  "briefing": "Markets were essentially flat today (NASDAQ -0.1%, S&P500 +0.1%), so we held back from aggressively deploying the open slots. TEX stood out with every bullish technical signal confirmed at once, so we took one high-conviction position while leaving two slots open for a stronger risk-on day.",
+  "briefing": "Markets were essentially flat today (NASDAQ -0.0%, S&P +0.2%), so no strong directional signal either way. With 3 open position slots and cash above the $500 threshold, risk rules call for deploying into our best-scoring non-overbought candidates rather than sitting idle, so we added CECO, ENSG, and NOK at medium conviction.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting until several technical signals agree — like a bullish MACD crossover, RSI sitting in the healthy 55-70 range, price trading above its 20-day moving average, and a volume surge — before buying. Any single signal can be a false alarm, but when they all line up together it suggests real institutional buying interest, giving more confidence in the trade.",
-    "explanation_zh": "動能確認是指等待多個技術訊號同時出現一致訊息才進場，例如MACD出現黃金交叉、RSI處於55至70的健康區間、股價站上20日均線，以及成交量放大。單一訊號可能只是假訊號，但當這些條件同時成立時，往往代表有真正的機構資金進場買進，讓交易決策更有信心。"
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag happens when uninvested cash sits idle in a portfolio and earns little to nothing, quietly reducing overall returns even if the rest of the portfolio performs well. That's why, even on a flat/neutral market day, it can still make sense to deploy idle cash into solid candidates rather than let it sit unproductively.",
+    "explanation_zh": "「現金拖累」指投資組合中閒置的現金未被運用，幾乎沒有回報，即使組合其他部分表現良好，整體回報仍會被悄悄拉低。因此即使在平淡的中性市況下，將閒置現金配置到優質標的上，仍比讓資金閒置更合理。"
   },
   "market_education": {
-    "summary_en": "Major indices were roughly unchanged today, with the NASDAQ down 0.1% and the S&P 500 up 0.1%, indicating a lack of strong directional conviction among investors. No major catalysts drove broad market moves, leaving stock selection focused on individual company technicals rather than macro themes. In this environment, selective stock-picking based on confirmed momentum signals outperforms broad index-following.",
-    "summary_zh": "今日大盤走勢近乎持平，納斯達克指數微跌0.1%，標普500指數則小幅上揚0.1%，反映投資人缺乏明確方向感。市場並無重大消息面催化，個股表現主要取決於個別公司的技術面而非宏觀題材。在這種環境下，依據確認的動能訊號精選個股，比單純追蹤大盤指數更具優勢。",
+    "summary_en": "Today was a quiet, directionless session with the NASDAQ essentially flat and the S&P 500 up only slightly, suggesting investors found no major new catalysts to push the market strongly in either direction. Without a sharp risk-on or risk-off trigger, trading stayed range-bound and institutional flows appeared muted. In this kind of environment, stock-specific momentum signals matter more than broad market direction for finding opportunities.",
+    "summary_zh": "今日大市窄幅波動，納指幾乎平盤，標普500指數僅微升0.2%，反映市場缺乏重大新催化劑帶動方向性走勢。在沒有明顯風險偏好或規避訊號下，資金流向保持審慎，成交亦相對淡靜。在這種環境下，個股本身的動能訊號比大盤方向更具參考價值。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TEX",
-      "conviction": "high",
-      "reasoning": "Full signal confirmation (MACD bullish crossover, rising histogram, RSI 63 in the healthy 55-70 zone, price above SMA-20, and a volume surge) marks genuine institutional buying, not just a neutral-day reach for yield."
+      "ticker": "CECO",
+      "conviction": "medium",
+      "reasoning": "Score 95 with RSI 62.9 in the healthy bullish zone, bullish MACD crossover, and rising histogram momentum without being overbought."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ENSG",
+      "conviction": "medium",
+      "reasoning": "Score 95 with strong bullish signals and price well above SMA-20, adding healthcare exposure not currently in the portfolio."
+    },
+    {
+      "action": "BUY",
+      "ticker": "NOK",
+      "conviction": "medium",
+      "reasoning": "Score 95 with bullish RSI, MACD crossover and rising histogram, offering cheap diversified telecom-hardware exposure."
     }
   ],
   "outcomes": {
