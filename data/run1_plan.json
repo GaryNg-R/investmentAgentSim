@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-10-28T14:01:23.988408+00:00",
+  "saved_at": "2026-10-28T15:01:14.468656+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NVDA",
+        "ticker": "TEX",
         "conviction": "high",
-        "reasoning": "Mega-cap with full multi-signal confirmation (MACD bullish crossover, RSI 57.8 in bullish range, price above SMA-20, volume surge) offers the best risk-adjusted entry among candidates."
-      },
-      {
-        "action": "BUY",
-        "ticker": "JMKE",
-        "conviction": "high",
-        "reasoning": "Top-scoring candidate (100) with all four confirming signals \u2014 MACD crossover, bullish RSI, price above SMA-20, and volume surge \u2014 indicating genuine momentum rather than noise."
+        "reasoning": "Full signal confirmation (MACD bullish crossover, rising histogram, RSI 63 in the healthy 55-70 zone, price above SMA-20, and a volume surge) marks genuine institutional buying, not just a neutral-day reach for yield."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.1%), but two candidates \u2014 NVDA and JMKE \u2014 showed full multi-signal technical confirmation (MACD crossover, healthy RSI, price above SMA-20, and volume surge), so we deployed into those rather than waiting idly. One slot remains open and cash reserves are retained for a stronger risk-on setup.",
+    "briefing": "Markets were essentially flat today (NASDAQ -0.1%, S&P500 +0.1%), so we held back from aggressively deploying the open slots. TEX stood out with every bullish technical signal confirmed at once, so we took one high-conviction position while leaving two slots open for a stronger risk-on day.",
     "market_education": {
-      "summary_en": "Trading was quiet today with both major indexes essentially flat, reflecting a lack of major macro catalysts or data surprises. In the absence of broad market direction, individual stock moves were driven more by company-specific technical momentum than by sector-wide sentiment. This made it a good environment to be selective and focus on names with strong, confirmed technical setups rather than chasing the broader tape.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u5e73\u6de1\uff0c\u7d0d\u6307\u53ca\u6a19\u666e500\u5747\u5e7e\u4e4e\u96f6\u5347\u8dcc\uff0c\u53cd\u6620\u5e02\u5834\u7f3a\u4e4f\u91cd\u5927\u5b8f\u89c0\u6d88\u606f\u6216\u6578\u64da\u610f\u5916\u523a\u6fc0\u3002\u5728\u5927\u5e02\u65b9\u5411\u4e0d\u660e\u7684\u60c5\u6cc1\u4e0b\uff0c\u500b\u80a1\u8d70\u52e2\u66f4\u591a\u7531\u500b\u5225\u516c\u53f8\u7684\u6280\u8853\u52d5\u529b\u5e36\u52d5\uff0c\u800c\u975e\u6574\u9ad4\u5e02\u5834\u6c23\u6c1b\u3002\u9019\u7a2e\u74b0\u5883\u4e0b\uff0c\u9078\u80a1\u5b9c\u66f4\u6311\u5254\uff0c\u96c6\u4e2d\u7559\u610f\u6709\u591a\u91cd\u6280\u8853\u8a0a\u865f\u78ba\u8a8d\u7684\u80a1\u7968\uff0c\u800c\u975e\u76f2\u76ee\u8ffd\u96a8\u5927\u5e02\u3002",
+      "summary_en": "Major indices were roughly unchanged today, with the NASDAQ down 0.1% and the S&P 500 up 0.1%, indicating a lack of strong directional conviction among investors. No major catalysts drove broad market moves, leaving stock selection focused on individual company technicals rather than macro themes. In this environment, selective stock-picking based on confirmed momentum signals outperforms broad index-following.",
+      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u8d70\u52e2\u8fd1\u4e4e\u6301\u5e73\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u8dcc0.1%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u5c0f\u5e45\u4e0a\u63da0.1%\uff0c\u53cd\u6620\u6295\u8cc7\u4eba\u7f3a\u4e4f\u660e\u78ba\u65b9\u5411\u611f\u3002\u5e02\u5834\u4e26\u7121\u91cd\u5927\u6d88\u606f\u9762\u50ac\u5316\uff0c\u500b\u80a1\u8868\u73fe\u4e3b\u8981\u53d6\u6c7a\u65bc\u500b\u5225\u516c\u53f8\u7684\u6280\u8853\u9762\u800c\u975e\u5b8f\u89c0\u984c\u6750\u3002\u5728\u9019\u7a2e\u74b0\u5883\u4e0b\uff0c\u4f9d\u64da\u78ba\u8a8d\u7684\u52d5\u80fd\u8a0a\u865f\u7cbe\u9078\u500b\u80a1\uff0c\u6bd4\u55ae\u7d14\u8ffd\u8e64\u5927\u76e4\u6307\u6578\u66f4\u5177\u512a\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Signal Confluence",
-      "explanation_en": "Signal confluence means waiting for several technical indicators \u2014 like a MACD crossover, healthy RSI, price above a moving average, and a volume surge \u2014 to line up together before buying. A single bullish signal can be noise, but when multiple independent signals agree, it's a stronger sign that real buying interest (not just a random spike) is driving the move.",
-      "explanation_zh": "\u300c\u8a0a\u865f\u5171\u632f\u300d\u662f\u6307\u7b49\u5f85\u591a\u500b\u6280\u8853\u6307\u6a19\u2014\u2014\u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u5065\u5eb7\u7684RSI\u6c34\u5e73\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u540c\u6642\u51fa\u73fe\u5148\u5f8c\u5165\u5e02\u3002\u55ae\u4e00\u597d\u8a0a\u865f\u53ef\u80fd\u53ea\u662f\u566a\u97f3\uff0c\u4f46\u7576\u591a\u500b\u7368\u7acb\u8a0a\u865f\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\u6642\uff0c\u5c31\u66f4\u80fd\u53cd\u6620\u771f\u6b63\u7684\u8cb7\u76e4\u8208\u8da3\uff0c\u800c\u975e\u5076\u7136\u7684\u50f9\u683c\u6ce2\u52d5\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Momentum confirmation means waiting until several technical signals agree \u2014 like a bullish MACD crossover, RSI sitting in the healthy 55-70 range, price trading above its 20-day moving average, and a volume surge \u2014 before buying. Any single signal can be a false alarm, but when they all line up together it suggests real institutional buying interest, giving more confidence in the trade.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u7b49\u5f85\u591a\u500b\u6280\u8853\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u4e00\u81f4\u8a0a\u606f\u624d\u9032\u5834\uff0c\u4f8b\u5982MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc55\u81f370\u7684\u5065\u5eb7\u5340\u9593\u3001\u80a1\u50f9\u7ad9\u4e0a20\u65e5\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u3002\u55ae\u4e00\u8a0a\u865f\u53ef\u80fd\u53ea\u662f\u5047\u8a0a\u865f\uff0c\u4f46\u7576\u9019\u4e9b\u689d\u4ef6\u540c\u6642\u6210\u7acb\u6642\uff0c\u5f80\u5f80\u4ee3\u8868\u6709\u771f\u6b63\u7684\u6a5f\u69cb\u8cc7\u91d1\u9032\u5834\u8cb7\u9032\uff0c\u8b93\u4ea4\u6613\u6c7a\u7b56\u66f4\u6709\u4fe1\u5fc3\u3002"
     }
   }
 }
