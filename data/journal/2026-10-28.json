@@ -1,34 +1,28 @@
 {
   "date": "2026-10-28",
-  "briefing": "Markets leaned risk-on today with the NASDAQ up 1.2% and S&P 500 up 0.6%. With three open slots and cash above the deployment threshold, we filled positions with the strongest multi-signal setups (USAR, DPC, KNSA) rather than leaving cash idle, consistent with prior lessons on deploying capital during risk-on conditions while still holding existing winners.",
+  "briefing": "Markets were flat today (NASDAQ +0.0%, S&P 500 +0.1%), but two candidates — NVDA and JMKE — showed full multi-signal technical confirmation (MACD crossover, healthy RSI, price above SMA-20, and volume surge), so we deployed into those rather than waiting idly. One slot remains open and cash reserves are retained for a stronger risk-on setup.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today's buys were chosen because they showed multiple confirming signals together — rising price, bullish indicator crossovers, and above-average trading volume — rather than relying on just one signal.",
-    "explanation_zh": "動能投資是指買入近期表現強勁、趨勢向上的股票,背後邏輯是短期內強勢股票往往會延續其升勢。今日選股的依據是多項訊號同時出現確認,例如股價上升、技術指標出現黃金交叉,以及成交量高於平均水平,而非單憑一項指標就作出買入決定。"
+    "term": "Signal Confluence",
+    "explanation_en": "Signal confluence means waiting for several technical indicators — like a MACD crossover, healthy RSI, price above a moving average, and a volume surge — to line up together before buying. A single bullish signal can be noise, but when multiple independent signals agree, it's a stronger sign that real buying interest (not just a random spike) is driving the move.",
+    "explanation_zh": "「訊號共振」是指等待多個技術指標——例如MACD黃金交叉、健康的RSI水平、股價高於移動平均線，以及成交量放大——同時出現先後入市。單一好訊號可能只是噪音，但當多個獨立訊號同時指向同一方向時，就更能反映真正的買盤興趣，而非偶然的價格波動。"
   },
   "market_education": {
-    "summary_en": "Equities advanced broadly today, with growth-sensitive NASDAQ names outperforming the broader S&P 500, suggesting investors favored higher-beta, momentum-driven stocks over defensive sectors. The move aligns with continued risk appetite rather than any single major catalyst evident in the screened data. Technical breadth was strong, with numerous mid-cap momentum names showing bullish MACD crossovers and volume surges, a sign of broad participation rather than a narrow rally.",
-    "summary_zh": "今日股市普遍上揚,以科技股為主的納斯達克指數升幅跑贏標普500指數,反映投資者傾向追捧高波動性、具動能的股票,而非防守性板塊。此輪升勢屬於整體風險偏好回暖,而非單一重大消息所觸發。從技術面看,多隻中型動能股出現MACD黃金交叉及成交量放大,顯示市場參與廣泛,並非個別股份的孤立行情。",
+    "summary_en": "Trading was quiet today with both major indexes essentially flat, reflecting a lack of major macro catalysts or data surprises. In the absence of broad market direction, individual stock moves were driven more by company-specific technical momentum than by sector-wide sentiment. This made it a good environment to be selective and focus on names with strong, confirmed technical setups rather than chasing the broader tape.",
+    "summary_zh": "今日大市表現平淡，納指及標普500均幾乎零升跌，反映市場缺乏重大宏觀消息或數據意外刺激。在大市方向不明的情況下，個股走勢更多由個別公司的技術動力帶動，而非整體市場氣氛。這種環境下，選股宜更挑剔，集中留意有多重技術訊號確認的股票，而非盲目追隨大市。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "USAR",
+      "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "Full signal confirmation (RSI 66.5 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) on a risk-on day."
+      "reasoning": "Mega-cap with full multi-signal confirmation (MACD bullish crossover, RSI 57.8 in bullish range, price above SMA-20, volume surge) offers the best risk-adjusted entry among candidates."
     },
     {
       "action": "BUY",
-      "ticker": "DPC",
+      "ticker": "JMKE",
       "conviction": "high",
-      "reasoning": "Identical full five-signal confirmation to USAR (RSI 63.5, MACD crossover, rising histogram, above SMA-20, volume surge), fits the risk-on setup."
-    },
-    {
-      "action": "BUY",
-      "ticker": "KNSA",
-      "conviction": "medium",
-      "reasoning": "Strong bullish crossover with volume surge and price above SMA-20, but RSI near 70 warrants slightly lower conviction than USAR/DPC."
+      "reasoning": "Top-scoring candidate (100) with all four confirming signals — MACD crossover, bullish RSI, price above SMA-20, and volume surge — indicating genuine momentum rather than noise."
     }
   ],
   "outcomes": {
