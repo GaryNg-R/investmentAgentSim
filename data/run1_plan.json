@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-10-27T21:01:00.761785+00:00",
+  "saved_at": "2026-10-28T13:01:00.957674+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
@@ -7,26 +7,32 @@
         "action": "BUY",
         "ticker": "USAR",
         "conviction": "high",
-        "reasoning": "Top-scored candidate (100) with full signal confluence \u2014 RSI in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, and a volume surge confirming institutional participation."
+        "reasoning": "Full signal confirmation (RSI 66.5 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) on a risk-on day."
       },
       {
         "action": "BUY",
         "ticker": "DPC",
         "conviction": "high",
-        "reasoning": "Second top-scored candidate (100) with the same complete multi-signal confirmation as USAR, fitting the risk-on setup and filling an open slot with idle cash above the $500 threshold."
+        "reasoning": "Identical full five-signal confirmation to USAR (RSI 63.5, MACD crossover, rising histogram, above SMA-20, volume surge), fits the risk-on setup."
+      },
+      {
+        "action": "BUY",
+        "ticker": "KNSA",
+        "conviction": "medium",
+        "reasoning": "Strong bullish crossover with volume surge and price above SMA-20, but RSI near 70 warrants slightly lower conviction than USAR/DPC."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets are modestly risk-on today with NASDAQ +1.2% and S&P 500 +0.6%. With 3 open slots and cash above the $500 threshold, we're deploying into USAR and DPC, the two candidates showing full multi-signal confirmation (RSI, MACD crossover, rising histogram, price above SMA-20, and volume surge), while keeping existing winners untouched and holding back some cash.",
+    "briefing": "Markets leaned risk-on today with the NASDAQ up 1.2% and S&P 500 up 0.6%. With three open slots and cash above the deployment threshold, we filled positions with the strongest multi-signal setups (USAR, DPC, KNSA) rather than leaving cash idle, consistent with prior lessons on deploying capital during risk-on conditions while still holding existing winners.",
     "market_education": {
-      "summary_en": "Broad equity indices advanced today, with growth-heavy NASDAQ outpacing the S&P 500, consistent with a risk-on tone across markets. Momentum names with strong technical setups \u2014 volume surges alongside bullish MACD crossovers \u2014 led the gains. No specific news catalysts were available in today's feed to cite.",
-      "summary_zh": "\u4eca\u65e5\u5927\u76e4\u666e\u904d\u4e0a\u63da\uff0c\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578\uff0c\u986f\u793a\u5e02\u5834\u6c23\u6c1b\u504f\u5411\u98a8\u96aa\u504f\u597d\u3002\u6280\u8853\u9762\u5f37\u52e2\u7684\u52d5\u80fd\u80a1\u8868\u73fe\u9818\u5148\uff0c\u6210\u4ea4\u91cf\u653e\u5927\u4e26\u4f34\u96a8MACD\u9ec3\u91d1\u4ea4\u53c9\u8a0a\u865f\u3002\u4eca\u65e5\u672a\u6709\u5177\u9ad4\u65b0\u805e\u982d\u689d\u53ef\u4f9b\u5f15\u7528\u3002",
+      "summary_en": "Equities advanced broadly today, with growth-sensitive NASDAQ names outperforming the broader S&P 500, suggesting investors favored higher-beta, momentum-driven stocks over defensive sectors. The move aligns with continued risk appetite rather than any single major catalyst evident in the screened data. Technical breadth was strong, with numerous mid-cap momentum names showing bullish MACD crossovers and volume surges, a sign of broad participation rather than a narrow rally.",
+      "summary_zh": "\u4eca\u65e5\u80a1\u5e02\u666e\u904d\u4e0a\u63da,\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578,\u53cd\u6620\u6295\u8cc7\u8005\u50be\u5411\u8ffd\u6367\u9ad8\u6ce2\u52d5\u6027\u3001\u5177\u52d5\u80fd\u7684\u80a1\u7968,\u800c\u975e\u9632\u5b88\u6027\u677f\u584a\u3002\u6b64\u8f2a\u5347\u52e2\u5c6c\u65bc\u6574\u9ad4\u98a8\u96aa\u504f\u597d\u56de\u6696,\u800c\u975e\u55ae\u4e00\u91cd\u5927\u6d88\u606f\u6240\u89f8\u767c\u3002\u5f9e\u6280\u8853\u9762\u770b,\u591a\u96bb\u4e2d\u578b\u52d5\u80fd\u80a1\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u53ca\u6210\u4ea4\u91cf\u653e\u5927,\u986f\u793a\u5e02\u5834\u53c3\u8207\u5ee3\u6cdb,\u4e26\u975e\u500b\u5225\u80a1\u4efd\u7684\u5b64\u7acb\u884c\u60c5\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Signal Confluence",
-      "explanation_en": "When multiple technical indicators \u2014 like RSI, MACD, price vs. moving average, and trading volume \u2014 all point bullish at the same time, it's a stronger signal than any single indicator alone. Traders call this 'confluence,' and it helps filter out false signals from random price noise.",
-      "explanation_zh": "\u7576\u591a\u500b\u6280\u8853\u6307\u6a19\uff08\u5982RSI\u3001MACD\u3001\u80a1\u50f9\u76f8\u5c0d\u79fb\u52d5\u5e73\u5747\u7dda\u7684\u4f4d\u7f6e\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\uff09\u540c\u6642\u986f\u793a\u770b\u6f32\u8a0a\u865f\u6642\uff0c\u9019\u6bd4\u55ae\u4e00\u6307\u6a19\u66f4\u5177\u8aaa\u670d\u529b\u3002\u4ea4\u6613\u8005\u7a31\u9019\u7a2e\u73fe\u8c61\u70ba\u300c\u8a0a\u865f\u532f\u805a\u300d\uff0c\u6709\u52a9\u65bc\u904e\u6ffe\u96a8\u6a5f\u50f9\u683c\u6ce2\u52d5\u7522\u751f\u7684\u5047\u8a0a\u865f\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today's buys were chosen because they showed multiple confirming signals together \u2014 rising price, bullish indicator crossovers, and above-average trading volume \u2014 rather than relying on just one signal.",
+      "explanation_zh": "\u52d5\u80fd\u6295\u8cc7\u662f\u6307\u8cb7\u5165\u8fd1\u671f\u8868\u73fe\u5f37\u52c1\u3001\u8da8\u52e2\u5411\u4e0a\u7684\u80a1\u7968,\u80cc\u5f8c\u908f\u8f2f\u662f\u77ed\u671f\u5167\u5f37\u52e2\u80a1\u7968\u5f80\u5f80\u6703\u5ef6\u7e8c\u5176\u5347\u52e2\u3002\u4eca\u65e5\u9078\u80a1\u7684\u4f9d\u64da\u662f\u591a\u9805\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u78ba\u8a8d,\u4f8b\u5982\u80a1\u50f9\u4e0a\u5347\u3001\u6280\u8853\u6307\u6a19\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9,\u4ee5\u53ca\u6210\u4ea4\u91cf\u9ad8\u65bc\u5e73\u5747\u6c34\u5e73,\u800c\u975e\u55ae\u6191\u4e00\u9805\u6307\u6a19\u5c31\u4f5c\u51fa\u8cb7\u5165\u6c7a\u5b9a\u3002"
     }
   }
 }

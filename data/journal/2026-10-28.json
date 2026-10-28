@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-28",
+  "briefing": "Markets leaned risk-on today with the NASDAQ up 1.2% and S&P 500 up 0.6%. With three open slots and cash above the deployment threshold, we filled positions with the strongest multi-signal setups (USAR, DPC, KNSA) rather than leaving cash idle, consistent with prior lessons on deploying capital during risk-on conditions while still holding existing winners.",
+  "daily_lesson": {
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that strong recent performance tends to continue in the near term. Today's buys were chosen because they showed multiple confirming signals together — rising price, bullish indicator crossovers, and above-average trading volume — rather than relying on just one signal.",
+    "explanation_zh": "動能投資是指買入近期表現強勁、趨勢向上的股票,背後邏輯是短期內強勢股票往往會延續其升勢。今日選股的依據是多項訊號同時出現確認,例如股價上升、技術指標出現黃金交叉,以及成交量高於平均水平,而非單憑一項指標就作出買入決定。"
+  },
+  "market_education": {
+    "summary_en": "Equities advanced broadly today, with growth-sensitive NASDAQ names outperforming the broader S&P 500, suggesting investors favored higher-beta, momentum-driven stocks over defensive sectors. The move aligns with continued risk appetite rather than any single major catalyst evident in the screened data. Technical breadth was strong, with numerous mid-cap momentum names showing bullish MACD crossovers and volume surges, a sign of broad participation rather than a narrow rally.",
+    "summary_zh": "今日股市普遍上揚,以科技股為主的納斯達克指數升幅跑贏標普500指數,反映投資者傾向追捧高波動性、具動能的股票,而非防守性板塊。此輪升勢屬於整體風險偏好回暖,而非單一重大消息所觸發。從技術面看,多隻中型動能股出現MACD黃金交叉及成交量放大,顯示市場參與廣泛,並非個別股份的孤立行情。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "USAR",
+      "conviction": "high",
+      "reasoning": "Full signal confirmation (RSI 66.5 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) on a risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "DPC",
+      "conviction": "high",
+      "reasoning": "Identical full five-signal confirmation to USAR (RSI 63.5, MACD crossover, rising histogram, above SMA-20, volume surge), fits the risk-on setup."
+    },
+    {
+      "action": "BUY",
+      "ticker": "KNSA",
+      "conviction": "medium",
+      "reasoning": "Strong bullish crossover with volume surge and price above SMA-20, but RSI near 70 warrants slightly lower conviction than USAR/DPC."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14755.735246181488,
+    "cash": 1189.2850012779236,
+    "pnl_dollar": 4755.735246181488,
+    "pnl_pct": 47.55735246181488,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "MU",
+        "shares": 1.0,
+        "avg_cost": 887.8502197265625
+      }
+    ]
+  }
+}
