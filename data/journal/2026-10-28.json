@@ -1,24 +1,17 @@
 {
   "date": "2026-10-28",
-  "briefing": "Markets were quiet and neutral today (NASDAQ +0.1%, S&P 500 +0.3%) with no broad risk-on signal. Rather than force capital into the market, we added NVDA, the one screened candidate showing full multi-signal technical confirmation, and left the other two open slots unfilled pending a stronger setup.",
+  "briefing": "Markets were flat today (NASDAQ +0.1%, S&P 500 +0.2%), with no clear risk-on or risk-off signal. ENSG and CLS show strong multi-signal setups but lessons learned say not to force new buys into idle cash on a neutral day — better to wait for a genuine risk-on confirmation. Holding all 7 existing positions unchanged; stop-loss and profit-target rules remain active automatically.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a bullish RSI reading, a MACD crossover, price above its moving average, and a volume surge — to line up together before buying, rather than acting on just one signal. This reduces the chance of chasing a false or short-lived move.",
-    "explanation_zh": "動能確認指的是在買入前，等待多項技術訊號（例如RSI處於多頭區間、MACD黃金交叉、股價站上均線、以及成交量放大）同時出現，而不是僅憑單一訊號就進場。這樣可以降低追高或誤判短暫波動的風險。"
+    "term": "Patience",
+    "explanation_en": "Patience in investing means not feeling pressured to put cash to work just because it's sitting idle. On a neutral day with no strong market signal, holding off on new buys — even with good-looking candidates — can protect you from chasing moves that fizzle out, saving your capital for a clearer opportunity.",
+    "explanation_zh": "投資中的「耐性」是指不因現金閒置而感到必須立即投入市場。在大市方向不明的平淡日子，即使有看似不錯的候選股，暫緩新買入也能避免追逐隨後可能落空的升勢，將資金留待更明確的機會出現時再部署。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 posted only marginal gains today, reflecting a lack of major market-moving catalysts. Trading stayed range-bound as investors awaited clearer directional signals rather than reacting to any single headline event. This kind of low-volatility session typically favors selective, signal-driven stock picking over broad market bets.",
-    "summary_zh": "今日納斯達克指數及標普500指數僅小幅上漲，反映市場缺乏重大消息面刺激。在沒有明確方向性訊號的情況下，大盤呈現窄幅波動格局，投資者普遍採取觀望態度。這種低波動的交易日，通常更適合依據個股技術訊號精選標的，而非全面押注大盤方向。",
+    "summary_en": "Major indices traded essentially sideways today, with the NASDAQ up just 0.1% and the S&P 500 up 0.2%, suggesting investors were in a wait-and-see mode rather than aggressively buying or selling. Without a strong directional catalyst, broad momentum stayed muted across most sectors. This kind of quiet, low-conviction session often precedes either a breakout or a pullback once new information arrives.",
+    "summary_zh": "今日大市表現平淡，納斯達克僅升0.1%，標普500升0.2%，反映投資者普遍採取觀望態度，未見明顯買賣方向。在缺乏強力催化因素下，大部分板塊的動力維持溫和。此類波動收窄的交易日，往往是市場在等待新消息出現後，才會選擇突破或回調的前奏。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "NVDA",
-      "conviction": "high",
-      "reasoning": "Only candidate with full 4-signal confirmation (bullish RSI, MACD crossover, price above SMA-20, volume surge) matching the strategy's high-conviction bar despite an otherwise neutral market."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14755.735246181488,
     "cash": 1189.2850012779236,
