@@ -1,30 +1,17 @@
 {
   "date": "2026-10-29",
-  "briefing": "Markets were flat today (NASDAQ and S&P500 both +0.3%), a neutral session with no broad risk-on or risk-off signal. Rather than forcing cash to work across the board, we picked only the two candidates (GOOGL and F) showing complete multi-signal confirmation, leaving one slot open for a cleaner future setup.",
+  "briefing": "Markets turned risk-off today with the NASDAQ down 1.4% and the S&P 500 down 0.4%, and no new candidates cleared the screener. We're holding all 7 existing positions and keeping cash in reserve rather than forcing a buy into weakness.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Signal confirmation means waiting for several independent technical indicators — like RSI, MACD, price vs. moving average, and trading volume — to all agree before making a trade, rather than acting on just one promising number. It reduces the chance of chasing a false or short-lived move. Today we only bought stocks where every key signal lined up, even though the overall market was flat.",
-    "explanation_zh": "訊號確認是指在進場前，等待多個獨立的技術指標（例如RSI、MACD、股價與均線的關係、以及成交量）同時發出一致訊號，而不是只看單一指標就貿然進場。這樣可以降低追逐假訊號或短暫波動的風險。今日即使大盤表現平淡，我們仍只選擇所有關鍵訊號同步確認的股票進行買入。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets (like growth stocks) and move toward safety, often causing tech-heavy indices like the NASDAQ to fall more than the broader market. The smart move on these days is usually to hold steady rather than chase new positions, since entering during heightened volatility raises the odds of buying right before a further pullback.",
+    "explanation_zh": "「avoid risk」（risk-off）日子是指投資者普遍沽售風險較高的資產（例如增長股），轉而追求避險資產，令納指等科技股指數跌幅往往大於大盤。在這類日子，較穩健的做法通常是持貨觀望，而非追入新倉位，因為在波動加劇時入市，更容易在進一步下跌前「高追」。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted slightly higher with NASDAQ and the S&P 500 both up about 0.3%, a muted, directionless session rather than a decisive move. No major market-moving headlines stood out today, so trading largely reflected routine positioning rather than a reaction to news. With no strong catalyst, the modest gains suggest investors are holding steady ahead of clearer signals.",
-    "summary_zh": "美股主要指數今日小幅走高，納斯達克及標普500均上漲約0.3%，走勢溫和且方向不明顯。市場上並未出現重大消息面衝擊，今日的交易情緒主要反映一般倉位調整，而非對特定新聞的反應。在缺乏明確催化劑的情況下，溫和漲幅顯示投資者在等待更清晰的方向訊號前選擇按兵不動。",
+    "summary_en": "Broad market weakness today pulled tech-heavy indices down more than the broader market, a pattern typical of risk-off sessions where investors rotate out of higher-beta growth names. No candidate-specific news was available in today's screen to point to a single catalyst. The sharper NASDAQ decline relative to the S&P 500 suggests growth and tech sectors bore the brunt of the selling.",
+    "summary_zh": "今日大市轉為risk-off，納指跌幅（1.4%）明顯超過標普500（0.4%），反映資金從高增長、高beta的科技股撤出，屬典型的避險情緒。今日篩選未有具體新聞可指向單一觸發因素。納指跌幅較大，顯示科技及增長股承受較大沽壓。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "GOOGL",
-      "conviction": "high",
-      "reasoning": "Full signal confirmation — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge all align, the clean setup our strategy memory calls for."
-    },
-    {
-      "action": "BUY",
-      "ticker": "F",
-      "conviction": "high",
-      "reasoning": "Same four-signal confirmation (RSI in bullish zone, MACD crossover, price above SMA-20, volume surge) makes this a disciplined second high-conviction add with open slots and cash available."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14755.735246181488,
     "cash": 1189.2850012779236,
