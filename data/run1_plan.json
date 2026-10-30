@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-10-30T17:01:16.841412+00:00",
+  "saved_at": "2026-10-30T18:01:17.820183+00:00",
   "market_direction": "risk_off",
   "decisions": {
     "trades": [],
     "skip_new_buys": true,
-    "briefing": "Markets sold off sharply today with NASDAQ down 2.9% and the S&P 500 down 1.8%, putting us in a risk-off regime with no new candidates screened. We're holding all 7 existing positions unchanged and keeping cash on the sidelines rather than forcing a buy into weakness.",
+    "briefing": "Markets sold off sharply today with NASDAQ down 3.3% and the S&P 500 down 2.0%, a clear risk-off day. No new candidates were screened, so I'm holding all 7 existing positions and keeping cash in reserve rather than forcing a trade.",
     "market_education": {
-      "summary_en": "Broad-based selling hit technology and growth names hardest today, consistent with a risk-off rotation out of higher-beta assets. NASDAQ's steeper 2.9% decline versus the S&P 500's 1.8% drop suggests investors were specifically de-risking growth and tech exposure rather than the market as a whole. No specific news catalysts are available in today's data feed to attribute the move to a single headline.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0b\u8dcc,\u79d1\u6280\u80a1\u53ca\u589e\u9577\u80a1\u8dcc\u5e45\u6700\u5927,\u53cd\u6620\u8cc7\u91d1\u6b63\u5f9e\u9ad8\u98a8\u96aa\u8cc7\u7522\u64a4\u96e2\u3002\u7d0d\u6307\u4e0b\u8dcc2.9%,\u8dcc\u5e45\u660e\u986f\u5927\u65bc\u6a19\u666e500\u76841.8%,\u986f\u793a\u6295\u8cc7\u8005\u4e3b\u8981\u6e1b\u6301\u79d1\u6280\u53ca\u589e\u9577\u80a1\u5009\u4f4d,\u800c\u975e\u5168\u9762\u62cb\u552e\u3002\u4eca\u65e5\u6578\u64da\u6e90\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u5f15\u7528\u89e3\u91cb\u6b64\u6b21\u4e0b\u8dcc\u7684\u5177\u9ad4\u539f\u56e0\u3002",
+      "summary_en": "Broad-based selling hit growth and tech-heavy names hardest today, dragging the NASDAQ down more than the S&P 500. On days like this, risk appetite fades quickly and investors rotate out of higher-beta positions into cash or defensive assets. No specific news catalysts were provided for today's session, so this move looks like a broad risk-off repricing rather than a single-stock event.",
+      "summary_zh": "\u4eca\u65e5\u5e02\u5834\u51fa\u73fe\u5927\u7bc4\u570d\u62cb\u552e,\u79d1\u6280\u80a1\u53ca\u9ad8\u589e\u9577\u80a1\u7968\u53d7\u5275\u6700\u6df1,\u5c0e\u81f4\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u8d85\u904e\u6a19\u666e500\u6307\u6578\u3002\u9019\u985e\u65e5\u5b50\u88e1,\u5e02\u5834\u98a8\u96aa\u504f\u597d\u6703\u8fc5\u901f\u964d\u6eab,\u6295\u8cc7\u8005\u50be\u5411\u5c07\u8cc7\u91d1\u5f9e\u9ad8\u6ce2\u52d5\u6027\u6301\u5009\u8f49\u79fb\u81f3\u73fe\u91d1\u6216\u9632\u79a6\u6027\u8cc7\u7522\u3002\u7531\u65bc\u4eca\u65e5\u672a\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u89f8\u767c\u56e0\u7d20,\u9019\u6b21\u4e0b\u8dcc\u66f4\u50cf\u662f\u6574\u9ad4\u6027\u7684\u98a8\u96aa\u898f\u907f\u91cd\u65b0\u5b9a\u50f9,\u800c\u975e\u55ae\u4e00\u80a1\u7968\u4e8b\u4ef6\u6240\u81f4\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-Off",
-      "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and tech shares, often moving into cash or safer assets instead. On days like this, the best move is usually to avoid chasing new positions and let your existing risk controls (stop-losses and profit targets) do their job.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d(Risk-Off)\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u62cb\u552e\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522,\u4f8b\u5982\u589e\u9577\u80a1\u548c\u79d1\u6280\u80a1,\u8f49\u800c\u6301\u6709\u73fe\u91d1\u6216\u66f4\u5b89\u5168\u7684\u8cc7\u7522\u3002\u5728\u9019\u7a2e\u65e5\u5b50,\u6700\u4f73\u7b56\u7565\u901a\u5e38\u662f\u907f\u514d\u8ffd\u5165\u65b0\u5009\u4f4d,\u8b93\u73fe\u6709\u7684\u98a8\u63a7\u6a5f\u5236(\u6b62\u640d\u548c\u7372\u5229\u9ede)\u81ea\u52d5\u767c\u63ee\u4f5c\u7528\u3002"
+      "explanation_en": "A 'risk-off' day is when investors broadly pull back from riskier assets like growth stocks and tech, often moving into cash or safer holdings, usually without one single clear cause. The right response as a long-term investor is often to avoid chasing new trades and let existing positions ride out the volatility.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u898f\u907f\u300d(Risk-Off)\u65e5\u662f\u6307\u6295\u8cc7\u8005\u666e\u904d\u6e1b\u5c11\u5c0d\u9ad8\u98a8\u96aa\u8cc7\u7522(\u5982\u6210\u9577\u80a1\u53ca\u79d1\u6280\u80a1)\u7684\u6301\u6709,\u8f49\u800c\u6301\u6709\u73fe\u91d1\u6216\u8f03\u5b89\u5168\u7684\u8cc7\u7522,\u901a\u5e38\u4e26\u975e\u7531\u55ae\u4e00\u660e\u78ba\u539f\u56e0\u5f15\u767c\u3002\u4f5c\u70ba\u9577\u671f\u6295\u8cc7\u8005,\u8f03\u6b63\u78ba\u7684\u61c9\u5c0d\u65b9\u5f0f\u901a\u5e38\u662f\u907f\u514d\u8ffd\u9010\u65b0\u4ea4\u6613,\u8b93\u73fe\u6709\u6301\u5009\u81ea\u7136\u5ea6\u904e\u9019\u6bb5\u6ce2\u52d5\u671f\u3002"
     }
   }
 }
