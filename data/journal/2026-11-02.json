@@ -1,22 +1,28 @@
 {
   "date": "2026-11-02",
-  "briefing": "Markets were modestly risk-on today with NASDAQ +0.8% and S&P 500 +0.7%, not a strong enough move to justify fully deploying all remaining cash. We used one of our three open slots on LOAR, the single candidate with full confirmation across RSI, MACD, price-vs-SMA20, and volume, while leaving the rest of cash in reserve until a clearer signal or stronger risk-on day appears.",
+  "briefing": "Markets were mildly risk-on today (NASDAQ +0.9%, S&P 500 +0.7%). Among all candidates, only NWL and LOAR showed the full combination of bullish RSI, MACD crossover, price above SMA-20, and a volume surge, so I'm deploying cash into both with high conviction while leaving one slot open for a stronger setup.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a trade idea when several independent technical indicators — like RSI, MACD, price vs. moving average, and volume — all line up in agreement, rather than relying on just one. This reduces the chance of chasing a false signal, since one indicator alone can give misleading readings but several agreeing together is harder to fake.",
-    "explanation_zh": "「多重訊號確認」是指只有當多個獨立的技術指標——例如RSI、MACD、股價與移動平均線的關係,以及成交量——同時指向同一方向時,才進行交易,而不是單靠一個指標。這樣可以降低追逐假訊號的風險,因為單一指標可能會產生誤導,但多個指標同時一致則較難是巧合。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI, MACD, price trend, and trading volume — to all point the same direction before buying, instead of acting on just one signal. This reduces the chance of chasing a false breakout. Today, only two candidates out of dozens had all the signals lined up.",
+    "explanation_zh": "動能確認是指在買入前,等待多個技術訊號(例如RSI、MACD、價格趨勢及成交量)同時指向同一方向,而不是只憑單一訊號行動。這樣可以減少追逐假突破的風險。今日在眾多候選股票中,只有兩隻股票的所有訊號同時出現。"
   },
   "market_education": {
-    "summary_en": "Equities drifted modestly higher today, with the NASDAQ up 0.8% and the S&P 500 up 0.7%, a continuation of the broader mild uptrend rather than a sharp catalyst-driven move. No single dominant headline is available in today's feed to pin the move to, so this looks like steady, low-volatility grinding higher rather than a news-driven rally. Breadth of bullish technical setups among growth and industrial names (e.g., LOAR) suggests underlying participation is healthy even without a major macro trigger.",
-    "summary_zh": "今日股市溫和上揚,納斯達克指數升0.8%,標普500指數升0.7%,延續近期溫和上升的格局,而非由單一重大消息驅動的急漲。由於今日未有明確的重大頭條新聞可供引述,這波走勢更像是低波動、穩步向上的格局。多隻成長股及工業股(例如LOAR)出現技術面全面轉強的訊號,顯示市場參與度仍然健康,即使缺乏重大宏觀催化劑。",
+    "summary_en": "Broad market indices posted modest gains today, with the NASDAQ up 0.9% and the S&P 500 up 0.7%, reflecting a mild risk-on tone rather than a sharp rally. No major catalyst headlines were available in today's feed to pin the move to a single event. The gains were broad enough to lift momentum names like NWL and LOAR, which showed confirmed volume and trend signals.",
+    "summary_zh": "今日大盤普遍溫和上揚,納斯達克指數上升0.9%,標普500指數上升0.7%,屬於溫和的風險偏好氛圍,而非大幅急升。今日資訊中未見明確的重大新聞事件可解釋此波動。升勢足以帶動NWL及LOAR等具動能的股票,其成交量及趨勢訊號均獲確認。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
+      "ticker": "NWL",
+      "conviction": "high",
+      "reasoning": "Top score (100) with full multi-signal confirmation: bullish RSI, MACD crossover, price above SMA-20, and a volume surge."
+    },
+    {
+      "action": "BUY",
       "ticker": "LOAR",
       "conviction": "high",
-      "reasoning": "LOAR is the only candidate showing full multi-signal confirmation — bullish RSI, MACD crossover with rising histogram, price above SMA-20, and a volume surge — matching our rule that true conviction requires all four signals together."
+      "reasoning": "Tied for top score (100) with the same full multi-signal confirmation as NWL, indicating genuine institutional buying."
     }
   ],
   "outcomes": {
