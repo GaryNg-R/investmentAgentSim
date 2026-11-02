@@ -1,30 +1,17 @@
 {
   "date": "2026-11-02",
-  "briefing": "Markets were roughly flat today (NASDAQ -0.4%, S&P 500 -0.1%), a neutral session with no major risk-on or risk-off signal. With 3 open slots and cash well above the deployment threshold, we added two high-conviction momentum names (SRAD, VSEC) that show full multi-signal confirmation while leaving existing winners untouched.",
+  "briefing": "Markets were risk-off today with NASDAQ down 1.1% and S&P 500 down 0.5%, and no new candidates were screened. Holding all 7 existing positions unchanged and keeping cash in reserve rather than forcing a buy into weakness.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a stock when several independent technical indicators — like RSI, MACD, price vs. moving average, and volume — all point the same direction. This reduces the chance of chasing a false signal, since one indicator alone can be noisy but several agreeing together suggests real conviction behind the move.",
-    "explanation_zh": "多重訊號確認是指只有在多個獨立技術指標（例如RSI、MACD、股價與移動平均線的關係、成交量）同時指向同一方向時才採取行動。這樣可以減少被單一假訊號誤導的風險，因為單一指標可能只是噪音，但多個指標同時確認則顯示該走勢背後有真實的市場信念支持。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safer holdings, often causing indexes like the NASDAQ to fall more than the broader market. The right response is usually to hold existing positions and avoid forcing new buys until conditions improve.",
+    "explanation_zh": "「避險」(Risk-Off)是指投資者普遍拋售風險較高的資產（例如成長股），轉向較安全的資產，這通常令納斯達克等指數跌幅大於大市。這種時候較正確的做法是持有現有倉位，避免勉強買入新股，直到市況轉好。"
   },
   "market_education": {
-    "summary_en": "Today's session was essentially flat, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a lack of strong directional catalysts. Without a clear risk-on or risk-off trigger, trading stayed range-bound as investors awaited fresh data. In this environment, stock-specific momentum signals matter more than broad index moves.",
-    "summary_zh": "今日大市表現大致平靜，納斯達克指數下跌0.4%，標普500指數則微跌0.1%，反映市場缺乏明顯的方向性催化劑。在沒有明確風險偏好或規避訊號的情況下，大市維持窄幅波動,投資者仍在等候新數據公佈。在這種環境下，個股的動能訊號比大盤走勢更具參考價值。",
+    "summary_en": "Broad market weakness today pushed both the NASDAQ and S&P 500 lower, with tech-heavy names leading the decline as investors rotated away from risk assets. No specific catalyst headlines were available in today's screen, but the pattern is consistent with a broad risk-off tone across equities. With no qualifying candidates surfaced by the screener, there was no actionable opportunity to deploy capital today.",
+    "summary_zh": "今日大市普遍偏弱，納斯達克及標普500指數同步下跌，科技股領跌，反映投資者風險偏好減退。今日篩選未有具體新聞頭條可供引用，但走勢與全面避險氣氛一致。由於選股系統未篩出合資格候選股，今日未有可執行的買入機會。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "SRAD",
-      "conviction": "high",
-      "reasoning": "All four confirmation signals align (RSI bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) indicating strong institutional participation."
-    },
-    {
-      "action": "BUY",
-      "ticker": "VSEC",
-      "conviction": "medium",
-      "reasoning": "Bullish RSI, MACD crossover, price above SMA-20, and a volume surge support a solid momentum setup with an open slot and ample cash available."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14855.735246181488,
     "cash": 1289.2850012779236,
