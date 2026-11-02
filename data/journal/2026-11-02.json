@@ -1,28 +1,28 @@
 {
   "date": "2026-11-02",
-  "briefing": "Markets were flat and directionless today (NASDAQ -0.1%, S&P 500 +0.2%), a neutral session with no strong catalyst either way. With 3 open position slots and cash above the deployment threshold, we added NSP and ESAB, the two top-scoring candidates with full bullish momentum confirmation. We left existing holdings untouched since stop-loss and profit-target rules are enforced automatically.",
+  "briefing": "Markets were roughly flat today (NASDAQ -0.4%, S&P 500 -0.1%), a neutral session with no major risk-on or risk-off signal. With 3 open slots and cash well above the deployment threshold, we added two high-conviction momentum names (SRAD, VSEC) that show full multi-signal confirmation while leaving existing winners untouched.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price trends, confirmed by technical signals like RSI, MACD crossovers, and price above moving averages. Today's buys (NSP, ESAB) were chosen because they showed multiple confirming bullish signals together, which reduces the chance of chasing a false signal.",
-    "explanation_zh": "動能投資是指買入已經展現強勁上升趨勢的股票,並透過RSI、MACD黃金交叉、股價高於移動平均線等技術指標來確認趨勢。今日選中的NSP與ESAB同時出現多項看漲訊號,這樣的多重確認有助於降低追高誤判的風險。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a stock when several independent technical indicators — like RSI, MACD, price vs. moving average, and volume — all point the same direction. This reduces the chance of chasing a false signal, since one indicator alone can be noisy but several agreeing together suggests real conviction behind the move.",
+    "explanation_zh": "多重訊號確認是指只有在多個獨立技術指標（例如RSI、MACD、股價與移動平均線的關係、成交量）同時指向同一方向時才採取行動。這樣可以減少被單一假訊號誤導的風險，因為單一指標可能只是噪音，但多個指標同時確認則顯示該走勢背後有真實的市場信念支持。"
   },
   "market_education": {
-    "summary_en": "Equity markets traded in a narrow, mixed range today, with the S&P 500 up a modest +0.2% while the NASDAQ slipped -0.1%, suggesting no single dominant catalyst drove the session. Without a major macro headline, price action likely reflected routine sector rotation and stock-specific moves rather than a broad risk-on or risk-off shift. Sessions like this are typical consolidation periods that often occur between bigger market-moving events such as earnings reports or economic data releases.",
-    "summary_zh": "今日股市走勢窄幅震盪、方向不明,標普500指數小漲0.2%,而納斯達克則小跌0.1%,顯示市場缺乏明顯的主導因素。在沒有重大宏觀消息的情況下,今日的價格波動較可能反映板塊輪動及個股表現,而非全面的風險偏好轉變。這類盤整格局通常出現在財報或經濟數據公布等重大事件之間的空檔期。",
+    "summary_en": "Today's session was essentially flat, with the NASDAQ down 0.4% and the S&P 500 down 0.1%, reflecting a lack of strong directional catalysts. Without a clear risk-on or risk-off trigger, trading stayed range-bound as investors awaited fresh data. In this environment, stock-specific momentum signals matter more than broad index moves.",
+    "summary_zh": "今日大市表現大致平靜，納斯達克指數下跌0.4%，標普500指數則微跌0.1%，反映市場缺乏明顯的方向性催化劑。在沒有明確風險偏好或規避訊號的情況下，大市維持窄幅波動,投資者仍在等候新數據公佈。在這種環境下，個股的動能訊號比大盤走勢更具參考價值。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NSP",
-      "conviction": "medium",
-      "reasoning": "Full momentum confirmation (RSI 65.5 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20) and we have open slots plus cash above the deployment threshold."
+      "ticker": "SRAD",
+      "conviction": "high",
+      "reasoning": "All four confirmation signals align (RSI bullish zone, MACD bullish crossover, rising histogram, price above SMA-20, volume surge) indicating strong institutional participation."
     },
     {
       "action": "BUY",
-      "ticker": "ESAB",
+      "ticker": "VSEC",
       "conviction": "medium",
-      "reasoning": "Same four-signal confirmation as NSP (RSI 67.9, MACD crossover, rising histogram, price above SMA-20), diversifying into a second high-scoring name while leaving one slot open."
+      "reasoning": "Bullish RSI, MACD crossover, price above SMA-20, and a volume surge support a solid momentum setup with an open slot and ample cash available."
     }
   ],
   "outcomes": {
