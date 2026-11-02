@@ -1,28 +1,34 @@
 {
   "date": "2026-11-02",
-  "briefing": "Markets were mildly risk-on today (NASDAQ +0.9%, S&P 500 +0.7%). Among all candidates, only NWL and LOAR showed the full combination of bullish RSI, MACD crossover, price above SMA-20, and a volume surge, so I'm deploying cash into both with high conviction while leaving one slot open for a stronger setup.",
+  "briefing": "NASDAQ +0.7% and S&P 500 +0.6% show a mild risk-on tone, and three candidates (TEM, COMP, TSLA) cleared the full four-signal confirmation bar (bullish RSI, MACD crossover, price above SMA-20, volume surge) that past reviews flagged as true institutional buying. With 3 open slots and $1289 in cash well above the deployment threshold, we filled all three slots with these fully-confirmed names rather than letting cash sit idle; existing positions are held unchanged.",
   "daily_lesson": {
     "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI, MACD, price trend, and trading volume — to all point the same direction before buying, instead of acting on just one signal. This reduces the chance of chasing a false breakout. Today, only two candidates out of dozens had all the signals lined up.",
-    "explanation_zh": "動能確認是指在買入前,等待多個技術訊號(例如RSI、MACD、價格趨勢及成交量)同時指向同一方向,而不是只憑單一訊號行動。這樣可以減少追逐假突破的風險。今日在眾多候選股票中,只有兩隻股票的所有訊號同時出現。"
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI in a healthy bullish range, a MACD bullish crossover, price above its moving average, and a volume surge — to all line up before buying, rather than acting on just one signal. When several signals agree, it's a stronger sign that real buyers (not just random short-term noise) are driving the move.",
+    "explanation_zh": "動能確認是指在買入前等待多個技術訊號同時出現,例如RSI處於健康的上升區間、MACD出現黃金交叉、股價高於移動平均線,以及成交量放大,而不是僅憑單一訊號就進場。當多個訊號同時成立時,代表背後有真實買盤支撐,而非短期隨機波動。"
   },
   "market_education": {
-    "summary_en": "Broad market indices posted modest gains today, with the NASDAQ up 0.9% and the S&P 500 up 0.7%, reflecting a mild risk-on tone rather than a sharp rally. No major catalyst headlines were available in today's feed to pin the move to a single event. The gains were broad enough to lift momentum names like NWL and LOAR, which showed confirmed volume and trend signals.",
-    "summary_zh": "今日大盤普遍溫和上揚,納斯達克指數上升0.9%,標普500指數上升0.7%,屬於溫和的風險偏好氛圍,而非大幅急升。今日資訊中未見明確的重大新聞事件可解釋此波動。升勢足以帶動NWL及LOAR等具動能的股票,其成交量及趨勢訊號均獲確認。",
+    "summary_en": "Equity markets drifted modestly higher today, with the NASDAQ up 0.7% and the S&P 500 up 0.6%, a continuation of the recent mild uptrend rather than a sharp catalyst-driven move. Volume surges in several growth and small-cap names (TEM, COMP, TSLA) suggest institutional buyers are rotating back into momentum stocks rather than large index-wide news driving the tape. Without a single dominant headline today, the move looks more like broad-based accumulation than a reaction to a specific event.",
+    "summary_zh": "今日股市溫和上揚,納斯達克指數上升0.7%,標普500指數上升0.6%,延續近期的小幅升勢,並非由單一重大消息帶動。多隻成長股及中小型股(如TEM、COMP、TSLA)出現成交量放大,顯示機構資金正重新回流至具動能的個股,而非整體指數受單一新聞刺激。今日缺乏明顯的主導消息,這波走勢更像是廣泛的資金累積,而非對特定事件的反應。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NWL",
+      "ticker": "TEM",
       "conviction": "high",
-      "reasoning": "Top score (100) with full multi-signal confirmation: bullish RSI, MACD crossover, price above SMA-20, and a volume surge."
+      "reasoning": "Full four-signal confirmation (RSI 67.9 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) with the top momentum score fills one of three open slots."
     },
     {
       "action": "BUY",
-      "ticker": "LOAR",
+      "ticker": "COMP",
       "conviction": "high",
-      "reasoning": "Tied for top score (100) with the same full multi-signal confirmation as NWL, indicating genuine institutional buying."
+      "reasoning": "Full four-signal confirmation (RSI 62.0 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) indicates institutional participation, not an isolated spike."
+    },
+    {
+      "action": "BUY",
+      "ticker": "TSLA",
+      "conviction": "high",
+      "reasoning": "Full four-signal confirmation (RSI 67.0 bullish zone, MACD bullish crossover, price above SMA-20, volume surge) and top score justify deploying idle cash into the last open slot."
     }
   ],
   "outcomes": {
