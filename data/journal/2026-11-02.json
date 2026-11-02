@@ -1,34 +1,28 @@
 {
   "date": "2026-11-02",
-  "briefing": "Markets were flat today (NASDAQ +0.3%, S&P 500 +0.3%), but with $1,289 in cash and 3 open slots, we deployed capital into AMZN, TSLA, and ESAB, which show confirmed bullish momentum (MACD crossovers, healthy RSI, price above SMA-20). None had full 4-signal confirmation (no volume surge), so sizing is medium conviction rather than high.",
+  "briefing": "Markets were flat and directionless today (NASDAQ -0.1%, S&P 500 +0.2%), a neutral session with no strong catalyst either way. With 3 open position slots and cash above the deployment threshold, we added NSP and ESAB, the two top-scoring candidates with full bullish momentum confirmation. We left existing holdings untouched since stop-loss and profit-target rules are enforced automatically.",
   "daily_lesson": {
-    "term": "Cash Drag",
-    "explanation_en": "Cash drag refers to the opportunity cost of holding uninvested cash instead of putting it to work in the market. With open portfolio slots and cash above the deployment threshold, letting money sit idle on a neutral day can mean missing out on gains that invested capital could have captured.",
-    "explanation_zh": "現金拖累（Cash Drag）是指持有未投資現金而產生的機會成本。當投資組合仍有空位、現金亦超過部署門檻時，若在普通（中性）市況下仍讓資金閒置，便可能錯失本可透過投資獲取的潛在回報。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already showing strong upward price trends, confirmed by technical signals like RSI, MACD crossovers, and price above moving averages. Today's buys (NSP, ESAB) were chosen because they showed multiple confirming bullish signals together, which reduces the chance of chasing a false signal.",
+    "explanation_zh": "動能投資是指買入已經展現強勁上升趨勢的股票,並透過RSI、MACD黃金交叉、股價高於移動平均線等技術指標來確認趨勢。今日選中的NSP與ESAB同時出現多項看漲訊號,這樣的多重確認有助於降低追高誤判的風險。"
   },
   "market_education": {
-    "summary_en": "Today's market action was quiet and directionless, with both the NASDAQ and S&P 500 up a modest 0.3%, suggesting investors are in a wait-and-see mode rather than reacting to major catalysts. Without strong risk-on or risk-off signals, momentum names with confirmed technical setups (MACD crossovers, healthy RSI) stood out as the more reliable opportunities. No single headline is driving today's tape, so stock-specific technical strength became the deciding factor for new positions.",
-    "summary_zh": "今日大市表現平淡，納指及標普500同樣僅微升0.3%，反映投資者普遍採取觀望態度，未有明顯方向性消息刺激市場。在缺乏強烈的風險偏好或避險訊號下，具備確認技術形態（如MACD黃金交叉、RSI處於健康區間）的強勢股顯得較為可靠。由於今日未見主導市場的重大新聞，個股技術面強弱成為選股的關鍵考量。",
+    "summary_en": "Equity markets traded in a narrow, mixed range today, with the S&P 500 up a modest +0.2% while the NASDAQ slipped -0.1%, suggesting no single dominant catalyst drove the session. Without a major macro headline, price action likely reflected routine sector rotation and stock-specific moves rather than a broad risk-on or risk-off shift. Sessions like this are typical consolidation periods that often occur between bigger market-moving events such as earnings reports or economic data releases.",
+    "summary_zh": "今日股市走勢窄幅震盪、方向不明,標普500指數小漲0.2%,而納斯達克則小跌0.1%,顯示市場缺乏明顯的主導因素。在沒有重大宏觀消息的情況下,今日的價格波動較可能反映板塊輪動及個股表現,而非全面的風險偏好轉變。這類盤整格局通常出現在財報或經濟數據公布等重大事件之間的空檔期。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AMZN",
+      "ticker": "NSP",
       "conviction": "medium",
-      "reasoning": "Bullish RSI zone with MACD crossover and rising histogram above SMA-20 offers a fundamentally strong fill for an open slot."
-    },
-    {
-      "action": "BUY",
-      "ticker": "TSLA",
-      "conviction": "medium",
-      "reasoning": "Clean bullish momentum setup (RSI 60.9, MACD crossover, price above SMA-20) in a large-cap name suitable for risk-adjusted exposure."
+      "reasoning": "Full momentum confirmation (RSI 65.5 in bullish zone, MACD bullish crossover with rising histogram, price above SMA-20) and we have open slots plus cash above the deployment threshold."
     },
     {
       "action": "BUY",
       "ticker": "ESAB",
       "conviction": "medium",
-      "reasoning": "Highest-scored candidate with RSI in the bullish zone and confirmed MACD crossover, a solid pick to deploy idle cash into an open slot."
+      "reasoning": "Same four-signal confirmation as NSP (RSI 67.9, MACD crossover, rising histogram, price above SMA-20), diversifying into a second high-scoring name while leaving one slot open."
     }
   ],
   "outcomes": {
