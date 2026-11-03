@@ -1,17 +1,30 @@
 {
   "date": "2026-11-03",
-  "briefing": "Markets pulled back today with NASDAQ down 1.1% and the S&P 500 down 0.5%, putting conditions firmly in risk-off territory. No new candidates were screened, so we're holding all 7 existing positions and letting stop-loss/profit-target rules handle any automatic exits rather than making discretionary moves.",
+  "briefing": "Markets were quietly positive today (NASDAQ +0.5%, S&P 500 +0.2%) without a strong risk-on signal, so rather than deploying cash broadly we picked two fully-confirmed, diversifying candidates — Talen Energy (power/AI-demand theme) and Revvity (life sciences) — each showing all five bullish technical signals. Existing positions are held unchanged since nothing warrants an exit on a neutral day.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors broadly sell riskier assets like growth stocks and move toward safer holdings, often causing indices like NASDAQ to fall more than broader benchmarks. The smart move on these days isn't to panic-sell your holdings, but also not to add new risk by buying — patience preserves capital for better setups.",
-    "explanation_zh": "「風險規避」(Risk-Off) 是指投資者普遍賣出成長股等高風險資產，轉向較安全的資產，這也是為何納斯達克指數跌幅通常會比大盤指數更明顯。在這種日子，聰明的做法不是恐慌性拋售現有持倉，但也不應該貿然加碼買入新倉位——保持耐心，等待更好的進場時機才是王道。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means only acting on a buy signal when several independent indicators — like RSI, MACD, price versus moving average, and trading volume — all agree at once. A single bullish signal can be noise, but when five line up together it's a much stronger sign that real buying interest (often institutional) is behind the move.",
+    "explanation_zh": "動量確認是指只有在多個獨立指標（如RSI、MACD、股價相對移動平均線、以及成交量）同時一致發出訊號時才採取買入行動。單一看漲訊號可能只是noise，但當五項指標同時齊備時，就更有力地顯示背後有真實（甚至是機構）買盤支持。"
   },
   "market_education": {
-    "summary_en": "Broad equity indices declined today, with growth-heavy NASDAQ underperforming the more diversified S&P 500, a pattern typical of risk-off sessions where investors rotate out of higher-beta names. Without specific headline catalysts available today, the move appears consistent with general risk aversion rather than a single news event. On days like this, the prudent approach is to avoid chasing new positions and instead protect existing gains.",
-    "summary_zh": "今日大盤普遍下跌，以科技股為主的納斯達克指數跌幅（-1.1%）大於較分散的標普500指數（-0.5%），這是典型的「風險規避」交易日特徵，投資者傾向拋售高波動性的成長股。目前沒有具體的新聞頭條可作為下跌的明確催化劑，顯示這更像是普遍性的避險情緒而非單一事件所致。在這種時候，較審慎的做法是避免追高建立新倉位，並專注於保護現有持倉的獲利。",
+    "summary_en": "Major indices drifted modestly higher today with NASDAQ up 0.5% and the S&P 500 up 0.2%, a continuation of the low-volatility grind higher rather than a sharp catalyst-driven move. No single headline-driving event stood out, consistent with a market digesting recent gains. Breadth among growth and cyclical names remained constructive, which is why several individual stocks screened with strong multi-signal technical setups even as the broad index moves were muted.",
+    "summary_zh": "今日大市溫和向上，納指上升0.5%，標普500則升0.2%，延續近期低波幅穩步向上的格局，並無明顯重大消息推動。市場似乎在消化先前升幅，整體氣氛審慎樂觀。雖然大盤指數變動輕微，但個別增長股及周期股的廣度仍然良好，部分股份因此錄得多項技術指標同步轉強。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "TLN",
+      "conviction": "high",
+      "reasoning": "Full multi-signal confirmation (RSI 66.2 bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) plus structural AI power-demand tailwind diversifies away from existing tech/semi exposure."
+    },
+    {
+      "action": "BUY",
+      "ticker": "RVTY",
+      "conviction": "high",
+      "reasoning": "All five technical signals confirmed (RSI 68.9, MACD crossover, rising histogram, price above SMA-20, volume surge) and life sciences exposure diversifies the portfolio away from tech/semis."
+    }
+  ],
   "outcomes": {
     "total_value": 14855.735246181488,
     "cash": 1289.2850012779236,
