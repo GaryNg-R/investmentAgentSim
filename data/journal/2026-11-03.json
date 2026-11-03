@@ -1,34 +1,28 @@
 {
   "date": "2026-11-03",
-  "briefing": "Markets were risk-on today with NASDAQ +1.0% and S&P500 +0.6%. With 3 open slots and cash above the deployment threshold, we filled positions with RIOT (full multi-signal confirmation including volume surge), plus AEHR and FN for sector diversification away from the crowded crypto-mining names.",
+  "briefing": "Markets were modestly positive today (NASDAQ +1.0%, S&P 500 +0.5%) but not a strong risk-on surge, so rather than fully deploying all $1,289 in cash across all 3 open slots, we made two measured medium-conviction buys (RIOT, AEHR) to partially fill open slots while keeping some cash reserved since volume-surge confirmation was missing on today's top candidates.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Signal confirmation means looking for several technical indicators to agree before making a high-conviction trade, such as RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a surge in trading volume. When multiple signals line up together, it suggests real institutional buying interest rather than random price noise, which gives investors more confidence in the trade.",
-    "explanation_zh": "訊號確認是指在作出高信心買賣決定前，留意多項技術指標是否同時發出一致訊號，例如RSI處於健康區間、MACD出現黃金交叉、股價高於其移動平均線，以及成交量明顯放大。當多個訊號同步出現，代表背後可能有機構資金真實買入，而非隨機的價格波動，令投資者對該筆交易更有信心。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like RSI in a bullish range, a MACD crossover, price above its moving average, and a volume surge — to line up together before making a high-conviction trade. When only some signals are present, as was the case today, it's safer to size the position smaller (medium conviction) rather than go all-in.",
+    "explanation_zh": "動能確認是指等待多個技術訊號同時出現——例如RSI處於健康區間、MACD黃金交叉、股價高於移動平均線,以及成交量放大——才進行高信心交易。若只有部分訊號出現(如今日情況),較穩健的做法是以中等信心倉位進場,而非全力押注。"
   },
   "market_education": {
-    "summary_en": "Equity markets advanced broadly today, with the NASDAQ outpacing the S&P 500, suggesting renewed appetite for growth and technology names. Momentum names with bullish RSI and MACD crossovers led gains, indicating institutional buying rather than isolated speculation. No specific news catalysts were available in today's feed, so the move appears driven by broad risk-on positioning rather than a single headline.",
-    "summary_zh": "今日大市普遍上揚，納斯達克升幅超過標普500指數，反映市場對科技及增長股的風險偏好回升。RSI及MACD出現黃金交叉的強勢股普遍跑贏，顯示資金流入屬機構性買盤而非個別炒作。由於今日未有具體新聞來源可供參考，此次升市較傾向反映整體風險偏好改善，而非單一消息刺激。",
+    "summary_en": "Markets drifted modestly higher today with NASDAQ up 1.0% and the S&P 500 up 0.5%, a mild risk-on tone without a clear standout catalyst. Trading activity across the screened list showed broad bullish technical setups (MACD crossovers, RSI in healthy ranges) rather than news-driven spikes. No major headline event was identified as the specific driver of today's move.",
+    "summary_zh": "今日大市溫和走高,納斯達克指數升1.0%,標普500指數升0.5%,屬溫和風險偏好情緒,未見明顯單一催化劑帶動。篩選名單中的個股普遍出現技術面轉強訊號(例如MACD黃金交叉、RSI處於健康區間),而非由重大新聞事件驅動。今日未有確認具體新聞頭條觸發此升勢。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
       "ticker": "RIOT",
-      "conviction": "high",
-      "reasoning": "Full signal confirmation (RSI 59.7 bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) with top score of 100 on a risk-on day."
+      "conviction": "medium",
+      "reasoning": "RSI 60.1 in bullish zone with MACD bullish crossover and rising histogram, but no volume surge confirmation so sized as medium conviction on this neutral-market day."
     },
     {
       "action": "BUY",
       "ticker": "AEHR",
       "conviction": "medium",
-      "reasoning": "Strong momentum score of 95 with bullish RSI, MACD crossover and price above SMA-20, adding sector diversification away from crypto miners."
-    },
-    {
-      "action": "BUY",
-      "ticker": "FN",
-      "conviction": "medium",
-      "reasoning": "High score of 95 with clean bullish RSI, MACD crossover and price well above SMA-20, further diversifying into networking/optical hardware."
+      "reasoning": "Top-scored candidate with RSI 60.9, bullish MACD crossover and price above SMA-20, adding semiconductor test exposure distinct from existing MU/INOD holdings."
     }
   ],
   "outcomes": {

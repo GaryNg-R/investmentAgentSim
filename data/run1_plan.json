@@ -1,38 +1,32 @@
 {
-  "saved_at": "2026-11-03T16:01:43.797707+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-11-03T17:02:03.237263+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
         "ticker": "RIOT",
-        "conviction": "high",
-        "reasoning": "Full signal confirmation (RSI 59.7 bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) with top score of 100 on a risk-on day."
+        "conviction": "medium",
+        "reasoning": "RSI 60.1 in bullish zone with MACD bullish crossover and rising histogram, but no volume surge confirmation so sized as medium conviction on this neutral-market day."
       },
       {
         "action": "BUY",
         "ticker": "AEHR",
         "conviction": "medium",
-        "reasoning": "Strong momentum score of 95 with bullish RSI, MACD crossover and price above SMA-20, adding sector diversification away from crypto miners."
-      },
-      {
-        "action": "BUY",
-        "ticker": "FN",
-        "conviction": "medium",
-        "reasoning": "High score of 95 with clean bullish RSI, MACD crossover and price well above SMA-20, further diversifying into networking/optical hardware."
+        "reasoning": "Top-scored candidate with RSI 60.9, bullish MACD crossover and price above SMA-20, adding semiconductor test exposure distinct from existing MU/INOD holdings."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were risk-on today with NASDAQ +1.0% and S&P500 +0.6%. With 3 open slots and cash above the deployment threshold, we filled positions with RIOT (full multi-signal confirmation including volume surge), plus AEHR and FN for sector diversification away from the crowded crypto-mining names.",
+    "briefing": "Markets were modestly positive today (NASDAQ +1.0%, S&P 500 +0.5%) but not a strong risk-on surge, so rather than fully deploying all $1,289 in cash across all 3 open slots, we made two measured medium-conviction buys (RIOT, AEHR) to partially fill open slots while keeping some cash reserved since volume-surge confirmation was missing on today's top candidates.",
     "market_education": {
-      "summary_en": "Equity markets advanced broadly today, with the NASDAQ outpacing the S&P 500, suggesting renewed appetite for growth and technology names. Momentum names with bullish RSI and MACD crossovers led gains, indicating institutional buying rather than isolated speculation. No specific news catalysts were available in today's feed, so the move appears driven by broad risk-on positioning rather than a single headline.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u5347\u5e45\u8d85\u904e\u6a19\u666e500\u6307\u6578\uff0c\u53cd\u6620\u5e02\u5834\u5c0d\u79d1\u6280\u53ca\u589e\u9577\u80a1\u7684\u98a8\u96aa\u504f\u597d\u56de\u5347\u3002RSI\u53caMACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u7684\u5f37\u52e2\u80a1\u666e\u904d\u8dd1\u8d0f\uff0c\u986f\u793a\u8cc7\u91d1\u6d41\u5165\u5c6c\u6a5f\u69cb\u6027\u8cb7\u76e4\u800c\u975e\u500b\u5225\u7092\u4f5c\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u5177\u9ad4\u65b0\u805e\u4f86\u6e90\u53ef\u4f9b\u53c3\u8003\uff0c\u6b64\u6b21\u5347\u5e02\u8f03\u50be\u5411\u53cd\u6620\u6574\u9ad4\u98a8\u96aa\u504f\u597d\u6539\u5584\uff0c\u800c\u975e\u55ae\u4e00\u6d88\u606f\u523a\u6fc0\u3002",
+      "summary_en": "Markets drifted modestly higher today with NASDAQ up 1.0% and the S&P 500 up 0.5%, a mild risk-on tone without a clear standout catalyst. Trading activity across the screened list showed broad bullish technical setups (MACD crossovers, RSI in healthy ranges) rather than news-driven spikes. No major headline event was identified as the specific driver of today's move.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u8d70\u9ad8,\u7d0d\u65af\u9054\u514b\u6307\u6578\u53471.0%,\u6a19\u666e500\u6307\u6578\u53470.5%,\u5c6c\u6eab\u548c\u98a8\u96aa\u504f\u597d\u60c5\u7dd2,\u672a\u898b\u660e\u986f\u55ae\u4e00\u50ac\u5316\u5291\u5e36\u52d5\u3002\u7be9\u9078\u540d\u55ae\u4e2d\u7684\u500b\u80a1\u666e\u904d\u51fa\u73fe\u6280\u8853\u9762\u8f49\u5f37\u8a0a\u865f(\u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593),\u800c\u975e\u7531\u91cd\u5927\u65b0\u805e\u4e8b\u4ef6\u9a45\u52d5\u3002\u4eca\u65e5\u672a\u6709\u78ba\u8a8d\u5177\u9ad4\u65b0\u805e\u982d\u689d\u89f8\u767c\u6b64\u5347\u52e2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Signal Confirmation",
-      "explanation_en": "Signal confirmation means looking for several technical indicators to agree before making a high-conviction trade, such as RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a surge in trading volume. When multiple signals line up together, it suggests real institutional buying interest rather than random price noise, which gives investors more confidence in the trade.",
-      "explanation_zh": "\u8a0a\u865f\u78ba\u8a8d\u662f\u6307\u5728\u4f5c\u51fa\u9ad8\u4fe1\u5fc3\u8cb7\u8ce3\u6c7a\u5b9a\u524d\uff0c\u7559\u610f\u591a\u9805\u6280\u8853\u6307\u6a19\u662f\u5426\u540c\u6642\u767c\u51fa\u4e00\u81f4\u8a0a\u865f\uff0c\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u5176\u79fb\u52d5\u5e73\u5747\u7dda\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\u3002\u7576\u591a\u500b\u8a0a\u865f\u540c\u6b65\u51fa\u73fe\uff0c\u4ee3\u8868\u80cc\u5f8c\u53ef\u80fd\u6709\u6a5f\u69cb\u8cc7\u91d1\u771f\u5be6\u8cb7\u5165\uff0c\u800c\u975e\u96a8\u6a5f\u7684\u50f9\u683c\u6ce2\u52d5\uff0c\u4ee4\u6295\u8cc7\u8005\u5c0d\u8a72\u7b46\u4ea4\u6613\u66f4\u6709\u4fe1\u5fc3\u3002"
+      "term": "Momentum Confirmation",
+      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like RSI in a bullish range, a MACD crossover, price above its moving average, and a volume surge \u2014 to line up together before making a high-conviction trade. When only some signals are present, as was the case today, it's safer to size the position smaller (medium conviction) rather than go all-in.",
+      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u7b49\u5f85\u591a\u500b\u6280\u8853\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda,\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u624d\u9032\u884c\u9ad8\u4fe1\u5fc3\u4ea4\u6613\u3002\u82e5\u53ea\u6709\u90e8\u5206\u8a0a\u865f\u51fa\u73fe(\u5982\u4eca\u65e5\u60c5\u6cc1),\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u662f\u4ee5\u4e2d\u7b49\u4fe1\u5fc3\u5009\u4f4d\u9032\u5834,\u800c\u975e\u5168\u529b\u62bc\u6ce8\u3002"
     }
   }
 }
