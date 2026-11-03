@@ -1,32 +1,38 @@
 {
-  "saved_at": "2026-11-03T17:02:03.237263+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-11-03T18:01:56.511175+00:00",
+  "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "RIOT",
+        "ticker": "FN",
         "conviction": "medium",
-        "reasoning": "RSI 60.1 in bullish zone with MACD bullish crossover and rising histogram, but no volume surge confirmation so sized as medium conviction on this neutral-market day."
+        "reasoning": "Top momentum score with MACD bullish crossover, rising histogram, and price above SMA-20, fills an open slot in a risk-on tape while adding photonics/datacenter exposure uncorrelated to existing semis."
+      },
+      {
+        "action": "BUY",
+        "ticker": "RVTY",
+        "conviction": "medium",
+        "reasoning": "Strong technical score with MACD crossover and bullish RSI, and diversifies the portfolio into life sciences away from the tech/crypto-heavy holdings."
       },
       {
         "action": "BUY",
         "ticker": "AEHR",
         "conviction": "medium",
-        "reasoning": "Top-scored candidate with RSI 60.9, bullish MACD crossover and price above SMA-20, adding semiconductor test exposure distinct from existing MU/INOD holdings."
+        "reasoning": "Highest-tier momentum score with confirmed MACD crossover and price above SMA-20, deploying idle cash into a semiconductor-equipment name distinct from existing MU/OLED exposure."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were modestly positive today (NASDAQ +1.0%, S&P 500 +0.5%) but not a strong risk-on surge, so rather than fully deploying all $1,289 in cash across all 3 open slots, we made two measured medium-conviction buys (RIOT, AEHR) to partially fill open slots while keeping some cash reserved since volume-surge confirmation was missing on today's top candidates.",
+    "briefing": "NASDAQ +1.0% and S&P 500 +0.5% marked a mild risk-on day. With 3 open slots and cash above the $500 threshold, we deployed into three top-scoring, multi-signal-confirmed names (FN, RVTY, AEHR) while keeping position sizes moderate since volume-surge confirmation was absent. No existing positions triggered stop-loss or profit-target exits, so all current holdings stay untouched.",
     "market_education": {
-      "summary_en": "Markets drifted modestly higher today with NASDAQ up 1.0% and the S&P 500 up 0.5%, a mild risk-on tone without a clear standout catalyst. Trading activity across the screened list showed broad bullish technical setups (MACD crossovers, RSI in healthy ranges) rather than news-driven spikes. No major headline event was identified as the specific driver of today's move.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u8d70\u9ad8,\u7d0d\u65af\u9054\u514b\u6307\u6578\u53471.0%,\u6a19\u666e500\u6307\u6578\u53470.5%,\u5c6c\u6eab\u548c\u98a8\u96aa\u504f\u597d\u60c5\u7dd2,\u672a\u898b\u660e\u986f\u55ae\u4e00\u50ac\u5316\u5291\u5e36\u52d5\u3002\u7be9\u9078\u540d\u55ae\u4e2d\u7684\u500b\u80a1\u666e\u904d\u51fa\u73fe\u6280\u8853\u9762\u8f49\u5f37\u8a0a\u865f(\u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593),\u800c\u975e\u7531\u91cd\u5927\u65b0\u805e\u4e8b\u4ef6\u9a45\u52d5\u3002\u4eca\u65e5\u672a\u6709\u78ba\u8a8d\u5177\u9ad4\u65b0\u805e\u982d\u689d\u89f8\u767c\u6b64\u5347\u52e2\u3002",
+      "summary_en": "Markets drifted modestly higher today, with the NASDAQ outpacing the S&P 500, suggesting continued but not accelerating appetite for growth and tech names. There was no major single catalyst reported today \u2014 the move looks like steady follow-through buying rather than a reaction to a specific headline. Breadth across sectors (semiconductors, photonics, diagnostics) showing bullish technical setups points to a broad-based, if measured, risk-on tone.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u6eab\u548c\u5411\u4e0a,\u7d0d\u6307\u5347\u5e45\u8dd1\u8d0f\u6a19\u666e500\u6307\u6578,\u53cd\u6620\u5e02\u5834\u5c0d\u79d1\u6280\u53ca\u589e\u9577\u80a1\u7684\u80c3\u7d0d\u6301\u7e8c\u4f46\u672a\u898b\u660e\u986f\u52a0\u901f\u3002\u4eca\u65e5\u672a\u898b\u6709\u91cd\u5927\u55ae\u4e00\u6d88\u606f\u4e3b\u5c0e\u5e02\u6cc1,\u8d70\u52e2\u66f4\u4f3c\u662f\u8cc7\u91d1\u6301\u7e8c\u6d41\u5165\u4e0b\u7684\u7a69\u6b65\u4e0a\u63da,\u800c\u975e\u5c0d\u500b\u5225\u65b0\u805e\u7684\u53cd\u61c9\u3002\u534a\u5c0e\u9ad4\u3001\u5149\u5b78\u901a\u8a0a\u53ca\u8a3a\u65b7\u7b49\u591a\u500b\u677f\u584a\u540c\u6642\u51fa\u73fe\u6280\u8853\u6027\u8d70\u5f37\u8a0a\u865f,\u986f\u793a\u4eca\u6b21\u5347\u5e02\u5c6c\u8f03\u5ee3\u6cdb\u4f46\u7a0b\u5ea6\u6eab\u548c\u7684\u98a8\u96aa\u504f\u597d\u60c5\u7dd2\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like RSI in a bullish range, a MACD crossover, price above its moving average, and a volume surge \u2014 to line up together before making a high-conviction trade. When only some signals are present, as was the case today, it's safer to size the position smaller (medium conviction) rather than go all-in.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u7b49\u5f85\u591a\u500b\u6280\u8853\u8a0a\u865f\u540c\u6642\u51fa\u73fe\u2014\u2014\u4f8b\u5982RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u9ad8\u65bc\u79fb\u52d5\u5e73\u5747\u7dda,\u4ee5\u53ca\u6210\u4ea4\u91cf\u653e\u5927\u2014\u2014\u624d\u9032\u884c\u9ad8\u4fe1\u5fc3\u4ea4\u6613\u3002\u82e5\u53ea\u6709\u90e8\u5206\u8a0a\u865f\u51fa\u73fe(\u5982\u4eca\u65e5\u60c5\u6cc1),\u8f03\u7a69\u5065\u7684\u505a\u6cd5\u662f\u4ee5\u4e2d\u7b49\u4fe1\u5fc3\u5009\u4f4d\u9032\u5834,\u800c\u975e\u5168\u529b\u62bc\u6ce8\u3002"
+      "term": "MACD Crossover",
+      "explanation_en": "A MACD (Moving Average Convergence Divergence) bullish crossover happens when a stock's momentum line crosses above its signal line, often signaling that upward price momentum is building. Traders watch for this alongside other signals like RSI and price relative to moving averages to confirm a genuine trend rather than a brief blip.",
+      "explanation_zh": "MACD(\u79fb\u52d5\u5e73\u5747\u532f\u805a\u64f4\u6563\u6307\u6a19)\u51fa\u73fe\u300c\u9ec3\u91d1\u4ea4\u53c9\u300d\u6642,\u4ee3\u8868\u80a1\u50f9\u7684\u52d5\u80fd\u7dda\u5347\u7a7f\u8a0a\u865f\u7dda,\u5f80\u5f80\u986f\u793a\u4e0a\u5347\u52d5\u529b\u6b63\u5728\u589e\u5f37\u3002\u4ea4\u6613\u8005\u901a\u5e38\u6703\u540c\u6642\u53c3\u8003RSI\u53ca\u80a1\u50f9\u8207\u79fb\u52d5\u5e73\u5747\u7dda\u7684\u95dc\u4fc2\u7b49\u5176\u4ed6\u6307\u6a19,\u4ee5\u78ba\u8a8d\u9019\u662f\u771f\u6b63\u7684\u5347\u52e2,\u800c\u975e\u77ed\u66ab\u7684\u6ce2\u52d5\u3002"
     }
   }
 }
