@@ -1,34 +1,34 @@
 {
   "date": "2026-11-03",
-  "briefing": "NASDAQ +1.0% and S&P 500 +0.5% marked a mild risk-on day. With 3 open slots and cash above the $500 threshold, we deployed into three top-scoring, multi-signal-confirmed names (FN, RVTY, AEHR) while keeping position sizes moderate since volume-surge confirmation was absent. No existing positions triggered stop-loss or profit-target exits, so all current holdings stay untouched.",
+  "briefing": "Markets are modestly risk-on today with NASDAQ up 1.1% and the S&P 500 up 0.6%. With 3 open slots and cash above the $500 threshold, I'm deploying into three top-scoring candidates (AEHR, FN, RIOT) that show clean bullish momentum, sized at medium conviction since volume confirmation is missing. Existing positions are held unchanged since the market isn't showing any reason to exit strong winners.",
   "daily_lesson": {
-    "term": "MACD Crossover",
-    "explanation_en": "A MACD (Moving Average Convergence Divergence) bullish crossover happens when a stock's momentum line crosses above its signal line, often signaling that upward price momentum is building. Traders watch for this alongside other signals like RSI and price relative to moving averages to confirm a genuine trend rather than a brief blip.",
-    "explanation_zh": "MACD(移動平均匯聚擴散指標)出現「黃金交叉」時,代表股價的動能線升穿訊號線,往往顯示上升動力正在增強。交易者通常會同時參考RSI及股價與移動平均線的關係等其他指標,以確認這是真正的升勢,而非短暫的波動。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means looking for multiple technical signals — like RSI in a healthy bullish range, a MACD bullish crossover, and price trading above its moving average — all lining up together before buying, rather than relying on just one indicator. The more signals that agree, the more confidence you can have that a stock's upward move is backed by real buying interest rather than noise.",
+    "explanation_zh": "動能確認指的是在買入前尋找多個技術訊號同時出現,例如RSI處於健康的多頭區間、MACD出現黃金交叉、以及股價站上移動平均線,而不是只依賴單一指標。當越多訊號同時指向同一方向時,就越能確信股價上漲是由真實買盤支撐,而非短暫的市場噪音。"
   },
   "market_education": {
-    "summary_en": "Markets drifted modestly higher today, with the NASDAQ outpacing the S&P 500, suggesting continued but not accelerating appetite for growth and tech names. There was no major single catalyst reported today — the move looks like steady follow-through buying rather than a reaction to a specific headline. Breadth across sectors (semiconductors, photonics, diagnostics) showing bullish technical setups points to a broad-based, if measured, risk-on tone.",
-    "summary_zh": "今日大市溫和向上,納指升幅跑贏標普500指數,反映市場對科技及增長股的胃納持續但未見明顯加速。今日未見有重大單一消息主導市況,走勢更似是資金持續流入下的穩步上揚,而非對個別新聞的反應。半導體、光學通訊及診斷等多個板塊同時出現技術性走強訊號,顯示今次升市屬較廣泛但程度溫和的風險偏好情緒。",
+    "summary_en": "Broad market gains today reflect continued risk appetite, with the NASDAQ outpacing the S&P 500, suggesting investors are favoring growth and tech-adjacent names. No specific news catalyst was available in today's data feed, so the move appears driven by general momentum rather than a single headline event. Semiconductor and crypto-mining-adjacent stocks showed particularly strong technical setups, consistent with a broader tech-led rally.",
+    "summary_zh": "今日大盤普遍上揚,反映投資者風險偏好持續,納斯達克漲幅領先標普500指數,顯示資金傾向流入成長股與科技相關個股。由於今日數據中沒有提供具體的新聞觸發事件,此次上漲看來是由整體市場動能帶動,而非單一消息面因素。半導體與加密貨幣挖礦相關股票呈現特別強勁的技術面訊號,與科技股領漲的格局相符。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "FN",
-      "conviction": "medium",
-      "reasoning": "Top momentum score with MACD bullish crossover, rising histogram, and price above SMA-20, fills an open slot in a risk-on tape while adding photonics/datacenter exposure uncorrelated to existing semis."
-    },
-    {
-      "action": "BUY",
-      "ticker": "RVTY",
-      "conviction": "medium",
-      "reasoning": "Strong technical score with MACD crossover and bullish RSI, and diversifies the portfolio into life sciences away from the tech/crypto-heavy holdings."
-    },
-    {
-      "action": "BUY",
       "ticker": "AEHR",
       "conviction": "medium",
-      "reasoning": "Highest-tier momentum score with confirmed MACD crossover and price above SMA-20, deploying idle cash into a semiconductor-equipment name distinct from existing MU/OLED exposure."
+      "reasoning": "RSI 64.2 in bullish zone with MACD bullish crossover, rising histogram, and price above SMA-20 signal healthy momentum without volume confirmation for high conviction."
+    },
+    {
+      "action": "BUY",
+      "ticker": "FN",
+      "conviction": "medium",
+      "reasoning": "Top score with RSI 66.3, bullish MACD crossover and rising histogram, price well above SMA-20, adding sector diversification away from existing holdings."
+    },
+    {
+      "action": "BUY",
+      "ticker": "RIOT",
+      "conviction": "medium",
+      "reasoning": "RSI 60.2 with bullish MACD crossover and rising histogram gives the cleanest non-overbought setup among crypto miners, filling an open slot while diversifying the portfolio into a sector not currently held."
     }
   ],
   "outcomes": {
