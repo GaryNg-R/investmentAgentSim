@@ -1,28 +1,34 @@
 {
   "date": "2026-11-03",
-  "briefing": "Markets were quietly positive today (NASDAQ +0.5%, S&P 500 +0.2%) without a strong risk-on signal, so rather than deploying cash broadly we picked two fully-confirmed, diversifying candidates — Talen Energy (power/AI-demand theme) and Revvity (life sciences) — each showing all five bullish technical signals. Existing positions are held unchanged since nothing warrants an exit on a neutral day.",
+  "briefing": "Markets were risk-on today with NASDAQ +1.0% and S&P500 +0.6%. With 3 open slots and cash above the deployment threshold, we filled positions with RIOT (full multi-signal confirmation including volume surge), plus AEHR and FN for sector diversification away from the crowded crypto-mining names.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means only acting on a buy signal when several independent indicators — like RSI, MACD, price versus moving average, and trading volume — all agree at once. A single bullish signal can be noise, but when five line up together it's a much stronger sign that real buying interest (often institutional) is behind the move.",
-    "explanation_zh": "動量確認是指只有在多個獨立指標（如RSI、MACD、股價相對移動平均線、以及成交量）同時一致發出訊號時才採取買入行動。單一看漲訊號可能只是noise，但當五項指標同時齊備時，就更有力地顯示背後有真實（甚至是機構）買盤支持。"
+    "term": "Signal Confirmation",
+    "explanation_en": "Signal confirmation means looking for several technical indicators to agree before making a high-conviction trade, such as RSI in a healthy range, a MACD bullish crossover, price above its moving average, and a surge in trading volume. When multiple signals line up together, it suggests real institutional buying interest rather than random price noise, which gives investors more confidence in the trade.",
+    "explanation_zh": "訊號確認是指在作出高信心買賣決定前，留意多項技術指標是否同時發出一致訊號，例如RSI處於健康區間、MACD出現黃金交叉、股價高於其移動平均線，以及成交量明顯放大。當多個訊號同步出現，代表背後可能有機構資金真實買入，而非隨機的價格波動，令投資者對該筆交易更有信心。"
   },
   "market_education": {
-    "summary_en": "Major indices drifted modestly higher today with NASDAQ up 0.5% and the S&P 500 up 0.2%, a continuation of the low-volatility grind higher rather than a sharp catalyst-driven move. No single headline-driving event stood out, consistent with a market digesting recent gains. Breadth among growth and cyclical names remained constructive, which is why several individual stocks screened with strong multi-signal technical setups even as the broad index moves were muted.",
-    "summary_zh": "今日大市溫和向上，納指上升0.5%，標普500則升0.2%，延續近期低波幅穩步向上的格局，並無明顯重大消息推動。市場似乎在消化先前升幅，整體氣氛審慎樂觀。雖然大盤指數變動輕微，但個別增長股及周期股的廣度仍然良好，部分股份因此錄得多項技術指標同步轉強。",
+    "summary_en": "Equity markets advanced broadly today, with the NASDAQ outpacing the S&P 500, suggesting renewed appetite for growth and technology names. Momentum names with bullish RSI and MACD crossovers led gains, indicating institutional buying rather than isolated speculation. No specific news catalysts were available in today's feed, so the move appears driven by broad risk-on positioning rather than a single headline.",
+    "summary_zh": "今日大市普遍上揚，納斯達克升幅超過標普500指數，反映市場對科技及增長股的風險偏好回升。RSI及MACD出現黃金交叉的強勢股普遍跑贏，顯示資金流入屬機構性買盤而非個別炒作。由於今日未有具體新聞來源可供參考，此次升市較傾向反映整體風險偏好改善，而非單一消息刺激。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TLN",
+      "ticker": "RIOT",
       "conviction": "high",
-      "reasoning": "Full multi-signal confirmation (RSI 66.2 bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) plus structural AI power-demand tailwind diversifies away from existing tech/semi exposure."
+      "reasoning": "Full signal confirmation (RSI 59.7 bullish zone, MACD crossover, rising histogram, price above SMA-20, volume surge) with top score of 100 on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "RVTY",
-      "conviction": "high",
-      "reasoning": "All five technical signals confirmed (RSI 68.9, MACD crossover, rising histogram, price above SMA-20, volume surge) and life sciences exposure diversifies the portfolio away from tech/semis."
+      "ticker": "AEHR",
+      "conviction": "medium",
+      "reasoning": "Strong momentum score of 95 with bullish RSI, MACD crossover and price above SMA-20, adding sector diversification away from crypto miners."
+    },
+    {
+      "action": "BUY",
+      "ticker": "FN",
+      "conviction": "medium",
+      "reasoning": "High score of 95 with clean bullish RSI, MACD crossover and price well above SMA-20, further diversifying into networking/optical hardware."
     }
   ],
   "outcomes": {
