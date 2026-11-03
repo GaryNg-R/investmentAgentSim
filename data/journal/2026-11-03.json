@@ -1,34 +1,28 @@
 {
   "date": "2026-11-03",
-  "briefing": "Markets were broadly neutral today with NASDAQ +0.7% and S&P 500 +0.3%. With three open slots and cash above the deployment threshold, we filled them with diversified momentum picks (crypto mining, semiconductor test equipment, optical components) rather than concentrating in one correlated sector.",
+  "briefing": "Markets were modestly positive today (NASDAQ +0.8%, S&P500 +0.4%), a neutral-to-mild risk-on tone. With cash well above the deployment threshold and three open slots, we filled two with the highest-conviction, fully-confirmed momentum candidates (RIOT, FRVO) while leaving one slot in reserve.",
   "daily_lesson": {
-    "term": "Diversification",
-    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink your whole portfolio. Today's top candidates were heavily concentrated in bitcoin-mining stocks, which tend to move together, so picks were spread across mining, semiconductor testing, and optical components instead.",
-    "explanation_zh": "分散投資是指將資金配置於不同產業，避免單一產業下跌時拖累整個投資組合。今日篩選出的高分股票大多集中在比特幣挖礦類股，這些股票往往同漲同跌，因此我們選擇分散至挖礦、半導體測試設備及光學元件等不同領域。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for several technical signals to agree (like RSI, MACD, price vs. moving average, and volume) before buying, instead of acting on just one. This reduces the chance of chasing a false signal and helps ensure real buying interest is behind a stock's move.",
+    "explanation_zh": "動能確認是指在買入前等待多個技術指標（如RSI、MACD、股價相對於移動平均線、成交量）同時發出一致訊號，而不是單靠一個指標行動。這樣可以減少追逐假訊號的機會，並確保股價背後有真實的買盤支持。"
   },
   "market_education": {
-    "summary_en": "Today's modest gains in both NASDAQ (+0.7%) and S&P 500 (+0.3%) reflect a quiet, low-volatility session without a dominant catalyst. No major company-specific headlines drove the broad market move today. The tone remained constructively neutral, consistent with a market digesting recent gains rather than reacting to new information.",
-    "summary_zh": "今日美股走勢溫和，納斯達克指數上漲0.7%，標普500指數上漲0.3%，整體屬於低波動、缺乏明顯主導消息的交易日。市場並未出現特別重大的個股或宏觀消息帶動大盤走勢。整體氣氛偏向中性偏多，較像是市場在消化近期升勢，而非對新消息作出反應。",
+    "summary_en": "Major indices drifted modestly higher today, with the NASDAQ outperforming the S&P 500, suggesting continued but unspectacular risk appetite among investors. No major catalyst-driven headlines were available in today's feed, so the move looks like routine trading rather than a reaction to a specific news event. Broader momentum in smaller-cap tech and mining names remained strong, as reflected in the screener's top candidates.",
+    "summary_zh": "今日大市溫和上揚，納斯達克表現優於標普500指數，反映投資者風險偏好持續但未見明顯亢奮。今天未有重大消息面催化，走勢較似日常交易波動，而非對特定新聞事件的反應。中小型科技股及採礦相關股份的動能依然強勁，從篩選名單中的頂尖候選股可見一斑。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CIFR",
-      "conviction": "medium",
-      "reasoning": "Top-scoring candidate with RSI in bullish zone, MACD bullish crossover, and rising histogram confirming momentum above SMA-20."
+      "ticker": "RIOT",
+      "conviction": "high",
+      "reasoning": "Top-scored candidate with full four-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a neutral-to-slightly-positive market day."
     },
     {
       "action": "BUY",
-      "ticker": "AEHR",
-      "conviction": "medium",
-      "reasoning": "Strong bullish technicals (RSI 61.7, MACD crossover, price above SMA-20) and diversifies away from crypto-mining names dominating the top of the list."
-    },
-    {
-      "action": "BUY",
-      "ticker": "FN",
-      "conviction": "medium",
-      "reasoning": "High-score candidate in optical/datacenter components, adding sector diversification versus the crypto-miner-heavy top tickers while confirming bullish RSI and MACD crossover."
+      "ticker": "FRVO",
+      "conviction": "high",
+      "reasoning": "Also shows all four confirming signals with strong momentum, and diversifies away from the crypto-mining cluster dominating the top of the screened list."
     }
   ],
   "outcomes": {
