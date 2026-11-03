@@ -1,34 +1,34 @@
 {
   "date": "2026-11-03",
-  "briefing": "Markets are modestly risk-on today with NASDAQ up 1.1% and the S&P 500 up 0.6%. With 3 open slots and cash above the $500 threshold, I'm deploying into three top-scoring candidates (AEHR, FN, RIOT) that show clean bullish momentum, sized at medium conviction since volume confirmation is missing. Existing positions are held unchanged since the market isn't showing any reason to exit strong winners.",
+  "briefing": "Markets were broadly neutral today with NASDAQ +0.7% and S&P 500 +0.3%. With three open slots and cash above the deployment threshold, we filled them with diversified momentum picks (crypto mining, semiconductor test equipment, optical components) rather than concentrating in one correlated sector.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means looking for multiple technical signals — like RSI in a healthy bullish range, a MACD bullish crossover, and price trading above its moving average — all lining up together before buying, rather than relying on just one indicator. The more signals that agree, the more confidence you can have that a stock's upward move is backed by real buying interest rather than noise.",
-    "explanation_zh": "動能確認指的是在買入前尋找多個技術訊號同時出現,例如RSI處於健康的多頭區間、MACD出現黃金交叉、以及股價站上移動平均線,而不是只依賴單一指標。當越多訊號同時指向同一方向時,就越能確信股價上漲是由真實買盤支撐,而非短暫的市場噪音。"
+    "term": "Diversification",
+    "explanation_en": "Diversification means spreading investments across different sectors so that a downturn in one area doesn't sink your whole portfolio. Today's top candidates were heavily concentrated in bitcoin-mining stocks, which tend to move together, so picks were spread across mining, semiconductor testing, and optical components instead.",
+    "explanation_zh": "分散投資是指將資金配置於不同產業，避免單一產業下跌時拖累整個投資組合。今日篩選出的高分股票大多集中在比特幣挖礦類股，這些股票往往同漲同跌，因此我們選擇分散至挖礦、半導體測試設備及光學元件等不同領域。"
   },
   "market_education": {
-    "summary_en": "Broad market gains today reflect continued risk appetite, with the NASDAQ outpacing the S&P 500, suggesting investors are favoring growth and tech-adjacent names. No specific news catalyst was available in today's data feed, so the move appears driven by general momentum rather than a single headline event. Semiconductor and crypto-mining-adjacent stocks showed particularly strong technical setups, consistent with a broader tech-led rally.",
-    "summary_zh": "今日大盤普遍上揚,反映投資者風險偏好持續,納斯達克漲幅領先標普500指數,顯示資金傾向流入成長股與科技相關個股。由於今日數據中沒有提供具體的新聞觸發事件,此次上漲看來是由整體市場動能帶動,而非單一消息面因素。半導體與加密貨幣挖礦相關股票呈現特別強勁的技術面訊號,與科技股領漲的格局相符。",
+    "summary_en": "Today's modest gains in both NASDAQ (+0.7%) and S&P 500 (+0.3%) reflect a quiet, low-volatility session without a dominant catalyst. No major company-specific headlines drove the broad market move today. The tone remained constructively neutral, consistent with a market digesting recent gains rather than reacting to new information.",
+    "summary_zh": "今日美股走勢溫和，納斯達克指數上漲0.7%，標普500指數上漲0.3%，整體屬於低波動、缺乏明顯主導消息的交易日。市場並未出現特別重大的個股或宏觀消息帶動大盤走勢。整體氣氛偏向中性偏多，較像是市場在消化近期升勢，而非對新消息作出反應。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
+      "ticker": "CIFR",
+      "conviction": "medium",
+      "reasoning": "Top-scoring candidate with RSI in bullish zone, MACD bullish crossover, and rising histogram confirming momentum above SMA-20."
+    },
+    {
+      "action": "BUY",
       "ticker": "AEHR",
       "conviction": "medium",
-      "reasoning": "RSI 64.2 in bullish zone with MACD bullish crossover, rising histogram, and price above SMA-20 signal healthy momentum without volume confirmation for high conviction."
+      "reasoning": "Strong bullish technicals (RSI 61.7, MACD crossover, price above SMA-20) and diversifies away from crypto-mining names dominating the top of the list."
     },
     {
       "action": "BUY",
       "ticker": "FN",
       "conviction": "medium",
-      "reasoning": "Top score with RSI 66.3, bullish MACD crossover and rising histogram, price well above SMA-20, adding sector diversification away from existing holdings."
-    },
-    {
-      "action": "BUY",
-      "ticker": "RIOT",
-      "conviction": "medium",
-      "reasoning": "RSI 60.2 with bullish MACD crossover and rising histogram gives the cleanest non-overbought setup among crypto miners, filling an open slot while diversifying the portfolio into a sector not currently held."
+      "reasoning": "High-score candidate in optical/datacenter components, adding sector diversification versus the crypto-miner-heavy top tickers while confirming bullish RSI and MACD crossover."
     }
   ],
   "outcomes": {
