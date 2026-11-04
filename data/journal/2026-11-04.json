@@ -1,34 +1,34 @@
 {
   "date": "2026-11-04",
-  "briefing": "Markets are in risk-on mode with NASDAQ +1.8% and S&P 500 +1.6%, so we deployed idle cash into our three open slots. Picked GOOGL for its full set of bullish technical signals, plus ASST and ZG for diversification with healthy but less overbought momentum.",
+  "briefing": "NASDAQ +2.1% and S&P 500 +1.8% signal a broad risk-on day, so we deployed cash into our three open slots following the highest-conviction momentum setups. AAPL, ASST, and RIOT all show confirmed MACD crossovers with price above their 20-day averages; existing positions are held unchanged.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent indicators — like RSI, MACD, price vs. moving average, and volume — all point the same direction at once. A single bullish signal can be noise, but when four or five line up together, it suggests real institutional buying rather than a random price blip.",
-    "explanation_zh": "多重訊號確認是指只有當多個獨立指標（例如RSI、MACD、股價與移動平均線的關係、以及成交量）同時指向同一方向時，才採取交易行動。單一個看漲訊號可能只是噪音，但當四、五個訊號同時出現時，往往代表的是真實的機構買盤，而非偶然的價格波動。"
+    "term": "Momentum Confirmation",
+    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a bullish MACD crossover, RSI in a healthy range, and price trading above its moving average — to align before buying, rather than acting on just one indicator. Using several signals together reduces the chance of chasing a false or short-lived move.",
+    "explanation_zh": "動能確認是指在買入前等待多個技術訊號同時出現,例如MACD黃金交叉、RSI處於健康區間,以及股價高於其移動平均線,而不是單憑一個指標就進場。同時參考多項訊號可以降低追高或誤判短暫波動的風險。"
   },
   "market_education": {
-    "summary_en": "Broad gains across the Nasdaq (+1.8%) and S&P 500 (+1.6%) today reflect continued investor confidence in growth and technology names, with healthy market breadth rather than a narrow mega-cap rally. No negative catalysts emerged to disrupt the bullish technical setups building across many stocks. This kind of broad participation across sectors is typically viewed as a healthier signal than a rally concentrated in just a few names.",
-    "summary_zh": "今日納斯達克指數上漲1.8%，標普500指數上漲1.6%，反映投資者對成長股及科技股的信心持續升溫，而且這次上漲的廣度良好，並非單靠少數大型股撐起。市場沒有出現重大負面消息，讓許多股票的技術面多頭格局得以延續。這種跨板塊的普遍參與通常被視為比僅集中在少數股票上的升勢更健康的訊號。",
+    "summary_en": "Markets rallied broadly today with the NASDAQ up 2.1% and the S&P 500 up 1.8%, reflecting a risk-on tone across growth and tech-adjacent names. No specific news catalysts were provided for today, so the move appears driven by broad momentum and sector-wide buying rather than a single headline event. This kind of synchronized advance across major indices is typically associated with improving investor sentiment and risk appetite.",
+    "summary_zh": "今日大市普遍上揚,納斯達克指數升2.1%,標普500指數升1.8%,反映市場風險胃納回升,資金傾向流入科技及相關增長股。今日未有提供具體新聞催化劑,此輪升勢看來是由大盤動能及板塊性買盤帶動,而非單一事件推動。主要指數同步上揚,通常意味著投資者信心及風險偏好正在改善。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "GOOGL",
+      "ticker": "AAPL",
       "conviction": "high",
-      "reasoning": "Full five-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day makes this the top candidate."
+      "reasoning": "Score 95 with RSI 67 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 on a strong risk-on day."
     },
     {
       "action": "BUY",
       "ticker": "ASST",
       "conviction": "medium",
-      "reasoning": "RSI 55.3 with bullish MACD crossover and price above SMA-20 offers upside with less overbought risk than most other candidates."
+      "reasoning": "Top score 95 with RSI 56.7 in the ideal bullish zone and confirmed MACD crossover plus price above SMA-20, though lacking volume confirmation."
     },
     {
       "action": "BUY",
-      "ticker": "ZG",
+      "ticker": "RIOT",
       "conviction": "medium",
-      "reasoning": "Bullish MACD crossover and price above SMA-20 with RSI still inside the bullish zone, adding real estate exposure to diversify away from existing tech-heavy holdings."
+      "reasoning": "Score 95 with MACD crossover and rising histogram above SMA-20, sized lower given RSI near the overbought edge and higher volatility."
     }
   ],
   "outcomes": {
