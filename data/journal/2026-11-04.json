@@ -1,28 +1,34 @@
 {
   "date": "2026-11-04",
-  "briefing": "Markets are risk-on today with NASDAQ and S&P 500 both up 1.7%. We added DUOL and OUST, the two candidates with the strongest multi-signal confirmation, leaving one slot open rather than forcing a third buy. All existing positions are held unchanged.",
+  "briefing": "NASDAQ +1.4% and S&P 500 +1.6% confirm a broad risk-on day. With 3 open slots and cash above the deployment threshold, we filled all three with multi-signal-confirmed momentum names (OUST, AAPL, KD) rather than sitting on idle cash, per the strategy memory's risk-on deployment rule.",
   "daily_lesson": {
-    "term": "MACD Crossover",
-    "explanation_en": "A MACD crossover happens when a stock's momentum line (MACD) moves above its signal line, often signaling that upward price momentum is building. Combined with other confirming signals like rising RSI and volume surges, it gives traders more confidence that a rally has real strength behind it, not just a random spike.",
-    "explanation_zh": "MACD黃金交叉是指股票的動量線（MACD）向上穿越訊號線，通常代表上升動能正在增強。若同時配合RSI上升及成交量放大等其他訊號確認，投資者便更有信心判斷這波上漲具備實質動能，而非單純的隨機波動。"
+    "term": "Risk-On Rally",
+    "explanation_en": "A 'risk-on' day is when investors broadly shift money into stocks and away from safer assets because they feel more confident about the economy or markets. Today's broad gains across the NASDAQ and S&P 500, combined with volume surges in individual stocks, signaled that confidence — which is why we deployed available cash into confirmed momentum names instead of waiting.",
+    "explanation_zh": "「風險偏好」（Risk-On）日是指投資者普遍將資金轉向股票等風險資產，而減少持有現金或債券等避險資產，反映對經濟或市場較有信心。今日納指及標普500普遍上揚，加上個股成交量放大，正正反映這種信心，所以我們將可動用現金投入已獲多重訊號確認的動力股，而非持續持現金觀望。"
   },
   "market_education": {
-    "summary_en": "Broad indices rallied together today, with both NASDAQ and S&P 500 gaining 1.7%, suggesting a general risk-on shift across sectors rather than a single catalyst. Momentum names with bullish technical setups, like DUOL and OUST, led the screener with multiple confirming signals including MACD crossovers and volume surges. This breadth of strength supports deploying some of the idle cash into high-conviction names rather than staying defensive.",
-    "summary_zh": "今日大盤齊漲，納斯達克與標普500指數同步上升1.7%，顯示市場整體轉向風險偏好，而非單一消息面刺激所致。動能股如DUOL及OUST在篩選榜上表現突出，同時出現MACD黃金交叉及成交量放大等多重訊號確認。市場廣泛走強，支持將部分閒置現金投入高信心標的，而非維持保守觀望。",
+    "summary_en": "Equities rallied broadly today, with the NASDAQ up 1.4% and the S&P 500 up 1.6%, reflecting improved risk appetite across sectors. Breadth was strong, with momentum names showing MACD bullish crossovers and volume surges, a sign institutional buyers were participating rather than just retail traders chasing price. This kind of broad-based, high-volume advance is typically read as confirmation of a genuine risk-on shift rather than a one-day bounce.",
+    "summary_zh": "今日大市普遍造好，納指升1.4%，標普500指數升1.6%，反映市場風險胃納明顯改善。市場參與度廣泛，多隻具動力的股份出現MACD黃金交叉及成交量放大，顯示機構投資者積極入市，而非單純散戶追價。這種成交量放大、普遍上揚的格局，一般被視為風險偏好真正轉強的確認信號，而非單日反彈。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "DUOL",
+      "ticker": "OUST",
       "conviction": "high",
-      "reasoning": "All four bullish signals align (RSI in bullish zone, MACD crossover, price above SMA-20, volume surge), the strongest confirmation on today's risk-on day."
+      "reasoning": "Highest momentum score with full signal confirmation (MACD crossover, rising histogram, bullish RSI, price above SMA-20, volume surge) on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "OUST",
+      "ticker": "AAPL",
       "conviction": "high",
-      "reasoning": "Top score with MACD crossover, rising histogram, and price above SMA-20 confirming institutional buying on a risk-on day."
+      "reasoning": "Mega-cap with bullish MACD crossover, healthy RSI of 59.3 (room before overbought), price above SMA-20, and a volume surge confirming institutional buying."
+    },
+    {
+      "action": "BUY",
+      "ticker": "KD",
+      "conviction": "medium",
+      "reasoning": "Strong momentum score with MACD crossover, price above SMA-20, and volume surge, though RSI near 67 leaves less room before overbought."
     }
   ],
   "outcomes": {
