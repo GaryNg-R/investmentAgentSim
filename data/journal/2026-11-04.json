@@ -1,14 +1,14 @@
 {
   "date": "2026-11-04",
-  "briefing": "NASDAQ +1.4% and S&P 500 +1.6% confirm a broad risk-on day. With 3 open slots and cash above the deployment threshold, we filled all three with multi-signal-confirmed momentum names (OUST, AAPL, KD) rather than sitting on idle cash, per the strategy memory's risk-on deployment rule.",
+  "briefing": "NASDAQ +1.4% and S&P 500 +1.6% confirm a broad risk-on day, so per our strategy of deploying idle cash into confirmed setups, we filled all 3 open slots with OUST, KD, and AUGO — each showing multi-signal confirmation (MACD crossover, price above SMA-20, volume surge) with RSI still below overbought territory. Existing positions are held unchanged since none are showing exit signals and the market trend favors staying invested.",
   "daily_lesson": {
-    "term": "Risk-On Rally",
-    "explanation_en": "A 'risk-on' day is when investors broadly shift money into stocks and away from safer assets because they feel more confident about the economy or markets. Today's broad gains across the NASDAQ and S&P 500, combined with volume surges in individual stocks, signaled that confidence — which is why we deployed available cash into confirmed momentum names instead of waiting.",
-    "explanation_zh": "「風險偏好」（Risk-On）日是指投資者普遍將資金轉向股票等風險資產，而減少持有現金或債券等避險資產，反映對經濟或市場較有信心。今日納指及標普500普遍上揚，加上個股成交量放大，正正反映這種信心，所以我們將可動用現金投入已獲多重訊號確認的動力股，而非持續持現金觀望。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, on the theory that strong price action tends to continue in the near term. Today we used multiple technical signals together — MACD crossovers, RSI, and volume surges — to confirm that the buying pressure behind our picks was genuine rather than a random spike.",
+    "explanation_zh": "動力投資是指買入已經處於上升趨勢的股票，理論基礎是強勢的價格走勢短期內傾向延續。今天我們結合多項技術指標——MACD黃金交叉、RSI及成交量突增——來確認所選股票背後的買盤是真實的機構動力，而非偶然的短暫波動。"
   },
   "market_education": {
-    "summary_en": "Equities rallied broadly today, with the NASDAQ up 1.4% and the S&P 500 up 1.6%, reflecting improved risk appetite across sectors. Breadth was strong, with momentum names showing MACD bullish crossovers and volume surges, a sign institutional buyers were participating rather than just retail traders chasing price. This kind of broad-based, high-volume advance is typically read as confirmation of a genuine risk-on shift rather than a one-day bounce.",
-    "summary_zh": "今日大市普遍造好，納指升1.4%，標普500指數升1.6%，反映市場風險胃納明顯改善。市場參與度廣泛，多隻具動力的股份出現MACD黃金交叉及成交量放大，顯示機構投資者積極入市，而非單純散戶追價。這種成交量放大、普遍上揚的格局，一般被視為風險偏好真正轉強的確認信號，而非單日反彈。",
+    "summary_en": "Markets rallied broadly today with both the NASDAQ and S&P 500 posting gains above 1%, reflecting renewed risk appetite among investors. The breadth of the move across sectors suggests improving sentiment rather than a narrow tech-only bounce. This kind of broad-based strength is often a signal that institutional money is rotating back into growth and momentum names.",
+    "summary_zh": "今日大市普遍造好，納指及標普500指數同告上升超過1%，反映投資者風險胃納回升。此次升市涵蓋多個行業,顯示市場氣氛整體改善，而非單靠科技股獨力支撐。這種闔市性的強勢通常意味著機構資金正重新流入增長及動力股。",
     "sources": []
   },
   "trades": [
@@ -16,19 +16,19 @@
       "action": "BUY",
       "ticker": "OUST",
       "conviction": "high",
-      "reasoning": "Highest momentum score with full signal confirmation (MACD crossover, rising histogram, bullish RSI, price above SMA-20, volume surge) on a risk-on day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "AAPL",
-      "conviction": "high",
-      "reasoning": "Mega-cap with bullish MACD crossover, healthy RSI of 59.3 (room before overbought), price above SMA-20, and a volume surge confirming institutional buying."
+      "reasoning": "Top score with all four confirming signals (MACD crossover, rising histogram, price above SMA-20, volume surge) and RSI still in the bullish 55-70 zone on a risk-on day."
     },
     {
       "action": "BUY",
       "ticker": "KD",
+      "conviction": "high",
+      "reasoning": "Strong bullish crossover with price above SMA-20 and a volume surge confirming institutional buying interest."
+    },
+    {
+      "action": "BUY",
+      "ticker": "AUGO",
       "conviction": "medium",
-      "reasoning": "Strong momentum score with MACD crossover, price above SMA-20, and volume surge, though RSI near 67 leaves less room before overbought."
+      "reasoning": "Bullish MACD crossover with volume confirmation and RSI 59.3 leaves more room to run before overbought than peers like LIVN."
     }
   ],
   "outcomes": {
