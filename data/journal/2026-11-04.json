@@ -1,34 +1,34 @@
 {
   "date": "2026-11-04",
-  "briefing": "NASDAQ +2.1% and S&P 500 +1.8% signal a broad risk-on day, so we deployed cash into our three open slots following the highest-conviction momentum setups. AAPL, ASST, and RIOT all show confirmed MACD crossovers with price above their 20-day averages; existing positions are held unchanged.",
+  "briefing": "NASDAQ +2.1% and S&P 500 +1.9% mark a clear risk-on day, so we're deploying the remaining cash into our three open slots rather than holding idle. We picked AUGO, SEZL, and ASST — all score-95 candidates with RSI in the healthy 55-70 bullish zone (not overbought) plus confirmed MACD crossovers and rising momentum. Existing positions are untouched; stop-losses and profit targets will handle those automatically.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means waiting for multiple technical signals — like a bullish MACD crossover, RSI in a healthy range, and price trading above its moving average — to align before buying, rather than acting on just one indicator. Using several signals together reduces the chance of chasing a false or short-lived move.",
-    "explanation_zh": "動能確認是指在買入前等待多個技術訊號同時出現,例如MACD黃金交叉、RSI處於健康區間,以及股價高於其移動平均線,而不是單憑一個指標就進場。同時參考多項訊號可以降低追高或誤判短暫波動的風險。"
+    "term": "Momentum Investing",
+    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that stocks moving strongly in one direction tend to keep moving that way for a while. Traders confirm momentum using indicators like MACD (trend direction) and RSI (strength without being overextended), which is exactly how today's buy candidates were selected.",
+    "explanation_zh": "動力投資(Momentum Investing)是指買入已經處於明顯上升趨勢的股票,背後邏輯是強勢股份在短期內有機會延續升勢。投資者通常會用MACD(趨勢方向)及RSI(力度但未過熱)等技術指標來確認動力是否真實,今日所選的買入標的正是以此方法篩選出來。"
   },
   "market_education": {
-    "summary_en": "Markets rallied broadly today with the NASDAQ up 2.1% and the S&P 500 up 1.8%, reflecting a risk-on tone across growth and tech-adjacent names. No specific news catalysts were provided for today, so the move appears driven by broad momentum and sector-wide buying rather than a single headline event. This kind of synchronized advance across major indices is typically associated with improving investor sentiment and risk appetite.",
-    "summary_zh": "今日大市普遍上揚,納斯達克指數升2.1%,標普500指數升1.8%,反映市場風險胃納回升,資金傾向流入科技及相關增長股。今日未有提供具體新聞催化劑,此輪升勢看來是由大盤動能及板塊性買盤帶動,而非單一事件推動。主要指數同步上揚,通常意味著投資者信心及風險偏好正在改善。",
+    "summary_en": "Broad market strength today pushed both the NASDAQ and S&P 500 higher by roughly 2%, with risk appetite returning across growth and momentum names. This kind of synchronized move across major indices typically reflects improving sentiment on macro conditions (rates, earnings, or economic data) rather than a single stock-specific catalyst. Smaller-cap momentum names with strong technical setups, like today's top-scored candidates, tend to benefit most from this kind of broad risk-on flow.",
+    "summary_zh": "今日大市表現強勁,納指及標普500指數同步上升約2%,反映市場風險偏好明顯回升,資金重新流向增長股及動力股。這種多個主要指數同步上揚的情況,通常反映整體宏觀氣氛改善(例如利率預期或經濟數據向好),而非單一股份的消息刺激。在這種全面「風險偏好」(risk-on)氛圍下,具強勁技術形態的中小型動力股往往受惠最多。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AAPL",
+      "ticker": "AUGO",
       "conviction": "high",
-      "reasoning": "Score 95 with RSI 67 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 on a strong risk-on day."
+      "reasoning": "Score 95 with RSI in bullish 55-70 zone, bullish MACD crossover, rising histogram, and price above SMA-20 confirm clean momentum on a strong risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SEZL",
+      "conviction": "high",
+      "reasoning": "Matches all four confirmation signals (bullish RSI zone, MACD crossover, rising histogram, price above SMA-20) without being overbought."
     },
     {
       "action": "BUY",
       "ticker": "ASST",
       "conviction": "medium",
-      "reasoning": "Top score 95 with RSI 56.7 in the ideal bullish zone and confirmed MACD crossover plus price above SMA-20, though lacking volume confirmation."
-    },
-    {
-      "action": "BUY",
-      "ticker": "RIOT",
-      "conviction": "medium",
-      "reasoning": "Score 95 with MACD crossover and rising histogram above SMA-20, sized lower given RSI near the overbought edge and higher volatility."
+      "reasoning": "Same multi-signal bullish setup as top candidates with RSI 56.6, giving room to run before overbought territory."
     }
   ],
   "outcomes": {

@@ -1,38 +1,38 @@
 {
-  "saved_at": "2026-11-04T17:01:46.133345+00:00",
+  "saved_at": "2026-11-04T18:01:41.358230+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "AAPL",
+        "ticker": "AUGO",
         "conviction": "high",
-        "reasoning": "Score 95 with RSI 67 in bullish zone, MACD bullish crossover with rising histogram, and price above SMA-20 on a strong risk-on day."
+        "reasoning": "Score 95 with RSI in bullish 55-70 zone, bullish MACD crossover, rising histogram, and price above SMA-20 confirm clean momentum on a strong risk-on day."
+      },
+      {
+        "action": "BUY",
+        "ticker": "SEZL",
+        "conviction": "high",
+        "reasoning": "Matches all four confirmation signals (bullish RSI zone, MACD crossover, rising histogram, price above SMA-20) without being overbought."
       },
       {
         "action": "BUY",
         "ticker": "ASST",
         "conviction": "medium",
-        "reasoning": "Top score 95 with RSI 56.7 in the ideal bullish zone and confirmed MACD crossover plus price above SMA-20, though lacking volume confirmation."
-      },
-      {
-        "action": "BUY",
-        "ticker": "RIOT",
-        "conviction": "medium",
-        "reasoning": "Score 95 with MACD crossover and rising histogram above SMA-20, sized lower given RSI near the overbought edge and higher volatility."
+        "reasoning": "Same multi-signal bullish setup as top candidates with RSI 56.6, giving room to run before overbought territory."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "NASDAQ +2.1% and S&P 500 +1.8% signal a broad risk-on day, so we deployed cash into our three open slots following the highest-conviction momentum setups. AAPL, ASST, and RIOT all show confirmed MACD crossovers with price above their 20-day averages; existing positions are held unchanged.",
+    "briefing": "NASDAQ +2.1% and S&P 500 +1.9% mark a clear risk-on day, so we're deploying the remaining cash into our three open slots rather than holding idle. We picked AUGO, SEZL, and ASST \u2014 all score-95 candidates with RSI in the healthy 55-70 bullish zone (not overbought) plus confirmed MACD crossovers and rising momentum. Existing positions are untouched; stop-losses and profit targets will handle those automatically.",
     "market_education": {
-      "summary_en": "Markets rallied broadly today with the NASDAQ up 2.1% and the S&P 500 up 1.8%, reflecting a risk-on tone across growth and tech-adjacent names. No specific news catalysts were provided for today, so the move appears driven by broad momentum and sector-wide buying rather than a single headline event. This kind of synchronized advance across major indices is typically associated with improving investor sentiment and risk appetite.",
-      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u666e\u904d\u4e0a\u63da,\u7d0d\u65af\u9054\u514b\u6307\u6578\u53472.1%,\u6a19\u666e500\u6307\u6578\u53471.8%,\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u56de\u5347,\u8cc7\u91d1\u50be\u5411\u6d41\u5165\u79d1\u6280\u53ca\u76f8\u95dc\u589e\u9577\u80a1\u3002\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u50ac\u5316\u5291,\u6b64\u8f2a\u5347\u52e2\u770b\u4f86\u662f\u7531\u5927\u76e4\u52d5\u80fd\u53ca\u677f\u584a\u6027\u8cb7\u76e4\u5e36\u52d5,\u800c\u975e\u55ae\u4e00\u4e8b\u4ef6\u63a8\u52d5\u3002\u4e3b\u8981\u6307\u6578\u540c\u6b65\u4e0a\u63da,\u901a\u5e38\u610f\u5473\u8457\u6295\u8cc7\u8005\u4fe1\u5fc3\u53ca\u98a8\u96aa\u504f\u597d\u6b63\u5728\u6539\u5584\u3002",
+      "summary_en": "Broad market strength today pushed both the NASDAQ and S&P 500 higher by roughly 2%, with risk appetite returning across growth and momentum names. This kind of synchronized move across major indices typically reflects improving sentiment on macro conditions (rates, earnings, or economic data) rather than a single stock-specific catalyst. Smaller-cap momentum names with strong technical setups, like today's top-scored candidates, tend to benefit most from this kind of broad risk-on flow.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u8868\u73fe\u5f37\u52c1,\u7d0d\u6307\u53ca\u6a19\u666e500\u6307\u6578\u540c\u6b65\u4e0a\u5347\u7d042%,\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u504f\u597d\u660e\u986f\u56de\u5347,\u8cc7\u91d1\u91cd\u65b0\u6d41\u5411\u589e\u9577\u80a1\u53ca\u52d5\u529b\u80a1\u3002\u9019\u7a2e\u591a\u500b\u4e3b\u8981\u6307\u6578\u540c\u6b65\u4e0a\u63da\u7684\u60c5\u6cc1,\u901a\u5e38\u53cd\u6620\u6574\u9ad4\u5b8f\u89c0\u6c23\u6c1b\u6539\u5584(\u4f8b\u5982\u5229\u7387\u9810\u671f\u6216\u7d93\u6fdf\u6578\u64da\u5411\u597d),\u800c\u975e\u55ae\u4e00\u80a1\u4efd\u7684\u6d88\u606f\u523a\u6fc0\u3002\u5728\u9019\u7a2e\u5168\u9762\u300c\u98a8\u96aa\u504f\u597d\u300d(risk-on)\u6c1b\u570d\u4e0b,\u5177\u5f37\u52c1\u6280\u8853\u5f62\u614b\u7684\u4e2d\u5c0f\u578b\u52d5\u529b\u80a1\u5f80\u5f80\u53d7\u60e0\u6700\u591a\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Momentum Confirmation",
-      "explanation_en": "Momentum confirmation means waiting for multiple technical signals \u2014 like a bullish MACD crossover, RSI in a healthy range, and price trading above its moving average \u2014 to align before buying, rather than acting on just one indicator. Using several signals together reduces the chance of chasing a false or short-lived move.",
-      "explanation_zh": "\u52d5\u80fd\u78ba\u8a8d\u662f\u6307\u5728\u8cb7\u5165\u524d\u7b49\u5f85\u591a\u500b\u6280\u8853\u8a0a\u865f\u540c\u6642\u51fa\u73fe,\u4f8b\u5982MACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593,\u4ee5\u53ca\u80a1\u50f9\u9ad8\u65bc\u5176\u79fb\u52d5\u5e73\u5747\u7dda,\u800c\u4e0d\u662f\u55ae\u6191\u4e00\u500b\u6307\u6a19\u5c31\u9032\u5834\u3002\u540c\u6642\u53c3\u8003\u591a\u9805\u8a0a\u865f\u53ef\u4ee5\u964d\u4f4e\u8ffd\u9ad8\u6216\u8aa4\u5224\u77ed\u66ab\u6ce2\u52d5\u7684\u98a8\u96aa\u3002"
+      "term": "Momentum Investing",
+      "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that stocks moving strongly in one direction tend to keep moving that way for a while. Traders confirm momentum using indicators like MACD (trend direction) and RSI (strength without being overextended), which is exactly how today's buy candidates were selected.",
+      "explanation_zh": "\u52d5\u529b\u6295\u8cc7(Momentum Investing)\u662f\u6307\u8cb7\u5165\u5df2\u7d93\u8655\u65bc\u660e\u986f\u4e0a\u5347\u8da8\u52e2\u7684\u80a1\u7968,\u80cc\u5f8c\u908f\u8f2f\u662f\u5f37\u52e2\u80a1\u4efd\u5728\u77ed\u671f\u5167\u6709\u6a5f\u6703\u5ef6\u7e8c\u5347\u52e2\u3002\u6295\u8cc7\u8005\u901a\u5e38\u6703\u7528MACD(\u8da8\u52e2\u65b9\u5411)\u53caRSI(\u529b\u5ea6\u4f46\u672a\u904e\u71b1)\u7b49\u6280\u8853\u6307\u6a19\u4f86\u78ba\u8a8d\u52d5\u529b\u662f\u5426\u771f\u5be6,\u4eca\u65e5\u6240\u9078\u7684\u8cb7\u5165\u6a19\u7684\u6b63\u662f\u4ee5\u6b64\u65b9\u6cd5\u7be9\u9078\u51fa\u4f86\u3002"
     }
   }
 }
