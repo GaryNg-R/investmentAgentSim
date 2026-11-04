@@ -1,28 +1,34 @@
 {
   "date": "2026-11-04",
-  "briefing": "Markets were only mildly positive today (NASDAQ +0.8%, S&P 500 +0.4%), not the strong risk-on move that calls for deploying all remaining cash. We still added GLXY and AEHR because both show genuine multi-signal momentum confirmation rather than just riding the market tape, while leaving one slot and some cash reserved for a clearer risk-on day. Existing positions are held unchanged, since neutral days aren't a reason to exit winners.",
+  "briefing": "NASDAQ +2.4% and S&P 500 +1.8% signal a clear risk-on day, so we deployed the remaining cash into our three open slots rather than sitting idle. LQDA and AAPL show full four-signal confirmation (RSI, MACD, SMA, volume), making them high-conviction buys, while CDW rounds out the slots with strong but slightly less complete signals. Existing positions are held unchanged since the market trend doesn't warrant exiting winners.",
   "daily_lesson": {
     "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means looking for multiple technical signals — like RSI, MACD crossovers, price above moving averages, and volume surges — to agree before buying, rather than just following the overall market's direction. A stock can show strong, confirmed momentum even on a quiet, neutral market day.",
-    "explanation_zh": "動能確認是指在買入前，留意多項技術指標（例如RSI、MACD黃金交叉、股價高於均線及成交量放大）是否同時出現一致訊號，而非單純跟隨大市方向。即使大市交投平淡，個股仍可展現具充分確認的強勁動能。"
+    "explanation_en": "Momentum confirmation means looking for multiple technical signals — like MACD crossovers, healthy RSI levels, price above moving averages, and high trading volume — to line up together before trusting a stock's upward move. When all of these agree, it's a stronger signal that real buyers (not just short-term noise) are pushing the price higher.",
+    "explanation_zh": "動能確認是指同時留意多個技術指標——例如MACD黃金交叉、RSI處於健康水平、股價高於移動平均線,以及成交量放大——全部一致出現先至可以信任某隻股票嘅升勢。當呢啲訊號同時出現,代表背後有真實買盤支持,而唔係單純短期波動。"
   },
   "market_education": {
-    "summary_en": "Today's modest gains in NASDAQ (+0.8%) and S&P 500 (+0.4%) reflect a quiet, low-conviction trading session without a dominant macro catalyst pushing stocks sharply in either direction. In this kind of environment, individual stock momentum signals (like the volume-confirmed breakouts seen in GLXY and AEHR) tend to matter more than broad index direction. No major breaking headlines were available to cite for today's session.",
-    "summary_zh": "今日納指(+0.8%)及標普500(+0.4%)升幅溫和，反映市場缺乏明確的宏觀催化劑，交投氣氛審慎。在這種環境下，個股本身的動能信號（例如GLXY及AEHR出現的放量突破)，往往比大盤方向更具參考價值。今日未能取得具體新聞標題可供引用。",
+    "summary_en": "Markets rallied broadly today with the NASDAQ up 2.4% and the S&P 500 up 1.8%, reflecting a broad risk-on shift as investors rotated into growth and tech names. Momentum indicators across many stocks turned bullish simultaneously, with MACD crossovers, rising histograms, and volume surges appearing together, which typically signals institutional buying rather than isolated speculation. This breadth of confirmation across names like LQDA and AAPL suggests the rally has real participation behind it rather than a single-stock story.",
+    "summary_zh": "今日大市全面上揚,納指升2.4%,標普500升1.8%,反映市場情緒明顯轉向風險偏好,資金重新流入增長及科技股。多隻股票同時出現MACD黃金交叉、動能柱上升及成交量放大等利好訊號,這種多重訊號同步出現通常代表機構資金進場,而非單一股份的短暫炒作。像LQDA同AAPL呈現齊全嘅四重訊號確認,顯示今次升浪有較紮實嘅市場參與支持。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "GLXY",
+      "ticker": "LQDA",
       "conviction": "high",
-      "reasoning": "All four bullish signals align (RSI 57.6 in bullish zone, MACD crossover, rising histogram, volume surge) with the most room before overbought among the top-scored candidates."
+      "reasoning": "Full four-signal confirmation (RSI 69.5 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) on a risk-on day."
     },
     {
       "action": "BUY",
-      "ticker": "AEHR",
+      "ticker": "AAPL",
+      "conviction": "high",
+      "reasoning": "Full four-signal confirmation (RSI 67.8 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) matches the institutional-participation setup."
+    },
+    {
+      "action": "BUY",
+      "ticker": "CDW",
       "conviction": "medium",
-      "reasoning": "Strong three-signal confirmation (bullish RSI, MACD crossover, price above SMA-20) in semiconductors, diversifying away from the crypto-miner cluster dominating the top of the list."
+      "reasoning": "Strong score of 95 with bullish RSI, MACD crossover and price above SMA-20, though lacking a confirmed volume surge."
     }
   ],
   "outcomes": {
