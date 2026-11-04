@@ -1,34 +1,34 @@
 {
   "date": "2026-11-04",
-  "briefing": "NASDAQ +2.1% and S&P 500 +1.9% mark a clear risk-on day, so we're deploying the remaining cash into our three open slots rather than holding idle. We picked AUGO, SEZL, and ASST — all score-95 candidates with RSI in the healthy 55-70 bullish zone (not overbought) plus confirmed MACD crossovers and rising momentum. Existing positions are untouched; stop-losses and profit targets will handle those automatically.",
+  "briefing": "NASDAQ +1.8% and S&P 500 +1.7% mark a broad risk-on day, and with 3 open slots and over $1,200 in idle cash we deployed into our top-scoring candidates. YOU gets high conviction on a full four-signal confirmation including a volume surge; SEZL and AUGO fill the remaining slots on solid but slightly less confirmed setups. Existing positions are held unchanged since the market trend doesn't warrant exiting winners.",
   "daily_lesson": {
-    "term": "Momentum Investing",
-    "explanation_en": "Momentum investing means buying stocks that are already trending upward, based on the idea that stocks moving strongly in one direction tend to keep moving that way for a while. Traders confirm momentum using indicators like MACD (trend direction) and RSI (strength without being overextended), which is exactly how today's buy candidates were selected.",
-    "explanation_zh": "動力投資(Momentum Investing)是指買入已經處於明顯上升趨勢的股票,背後邏輯是強勢股份在短期內有機會延續升勢。投資者通常會用MACD(趨勢方向)及RSI(力度但未過熱)等技術指標來確認動力是否真實,今日所選的買入標的正是以此方法篩選出來。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Instead of buying on a single bullish signal, traders look for several indicators to align at once — like RSI in a healthy range, a MACD crossover, price above a moving average, and a volume surge. When all these line up together, it's a stronger sign that real buying interest (not just noise) is driving the stock.",
+    "explanation_zh": "與其單憑一個好訊號就買入，交易者會留意多個指標是否同時出現，例如RSI處於健康區間、MACD出現黃金交叉、股價升穿均線，以及成交量明顯放大。當這些訊號同時出現，代表背後有真實買盤支持，而非只是短暫波動。"
   },
   "market_education": {
-    "summary_en": "Broad market strength today pushed both the NASDAQ and S&P 500 higher by roughly 2%, with risk appetite returning across growth and momentum names. This kind of synchronized move across major indices typically reflects improving sentiment on macro conditions (rates, earnings, or economic data) rather than a single stock-specific catalyst. Smaller-cap momentum names with strong technical setups, like today's top-scored candidates, tend to benefit most from this kind of broad risk-on flow.",
-    "summary_zh": "今日大市表現強勁,納指及標普500指數同步上升約2%,反映市場風險偏好明顯回升,資金重新流向增長股及動力股。這種多個主要指數同步上揚的情況,通常反映整體宏觀氣氛改善(例如利率預期或經濟數據向好),而非單一股份的消息刺激。在這種全面「風險偏好」(risk-on)氛圍下,具強勁技術形態的中小型動力股往往受惠最多。",
+    "summary_en": "Broad market strength today, with the NASDAQ up 1.8% and the S&P 500 up 1.7%, reflects a risk-on tone across equities. Momentum and small/mid-cap growth names showed particularly strong technical setups, with several stocks posting bullish MACD crossovers and price breakouts above their 20-day moving averages. No single catalyst headline was available today, so the move appears driven by broad-based buying rather than one specific news event.",
+    "summary_zh": "今日大市普遍造好，納指上升1.8%，標普500亦升1.7%，反映投資者風險偏好回升。多隻中小型增長股出現技術性突破，MACD出現黃金交叉，股價亦升穿20日線，顯示市場買盤強勁。今日未見明顯單一新聞催化劑，故此次升勢似由大範圍買盤帶動，而非個別消息刺激。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AUGO",
+      "ticker": "YOU",
       "conviction": "high",
-      "reasoning": "Score 95 with RSI in bullish 55-70 zone, bullish MACD crossover, rising histogram, and price above SMA-20 confirm clean momentum on a strong risk-on day."
+      "reasoning": "Full four-signal confirmation (RSI 67.4 bullish zone, MACD crossover, price above SMA-20, volume surge) on a risk-on day signals genuine institutional buying."
     },
     {
       "action": "BUY",
       "ticker": "SEZL",
-      "conviction": "high",
-      "reasoning": "Matches all four confirmation signals (bullish RSI zone, MACD crossover, rising histogram, price above SMA-20) without being overbought."
+      "conviction": "medium",
+      "reasoning": "Bullish RSI, MACD crossover, and rising histogram above SMA-20, but lacks a volume surge so sized as medium conviction."
     },
     {
       "action": "BUY",
-      "ticker": "ASST",
+      "ticker": "AUGO",
       "conviction": "medium",
-      "reasoning": "Same multi-signal bullish setup as top candidates with RSI 56.6, giving room to run before overbought territory."
+      "reasoning": "Clean bullish setup (RSI 59, MACD crossover, rising histogram, price above SMA-20) fills the last open slot on a risk-on day."
     }
   ],
   "outcomes": {
