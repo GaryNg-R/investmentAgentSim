@@ -1,34 +1,34 @@
 {
   "date": "2026-11-04",
-  "briefing": "NASDAQ +2.4% and S&P 500 +1.8% signal a clear risk-on day, so we deployed the remaining cash into our three open slots rather than sitting idle. LQDA and AAPL show full four-signal confirmation (RSI, MACD, SMA, volume), making them high-conviction buys, while CDW rounds out the slots with strong but slightly less complete signals. Existing positions are held unchanged since the market trend doesn't warrant exiting winners.",
+  "briefing": "Markets are in risk-on mode with NASDAQ +1.8% and S&P 500 +1.6%, so we deployed idle cash into our three open slots. Picked GOOGL for its full set of bullish technical signals, plus ASST and ZG for diversification with healthy but less overbought momentum.",
   "daily_lesson": {
-    "term": "Momentum Confirmation",
-    "explanation_en": "Momentum confirmation means looking for multiple technical signals — like MACD crossovers, healthy RSI levels, price above moving averages, and high trading volume — to line up together before trusting a stock's upward move. When all of these agree, it's a stronger signal that real buyers (not just short-term noise) are pushing the price higher.",
-    "explanation_zh": "動能確認是指同時留意多個技術指標——例如MACD黃金交叉、RSI處於健康水平、股價高於移動平均線,以及成交量放大——全部一致出現先至可以信任某隻股票嘅升勢。當呢啲訊號同時出現,代表背後有真實買盤支持,而唔係單純短期波動。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only acting on a trade when several independent indicators — like RSI, MACD, price vs. moving average, and volume — all point the same direction at once. A single bullish signal can be noise, but when four or five line up together, it suggests real institutional buying rather than a random price blip.",
+    "explanation_zh": "多重訊號確認是指只有當多個獨立指標（例如RSI、MACD、股價與移動平均線的關係、以及成交量）同時指向同一方向時，才採取交易行動。單一個看漲訊號可能只是噪音，但當四、五個訊號同時出現時，往往代表的是真實的機構買盤，而非偶然的價格波動。"
   },
   "market_education": {
-    "summary_en": "Markets rallied broadly today with the NASDAQ up 2.4% and the S&P 500 up 1.8%, reflecting a broad risk-on shift as investors rotated into growth and tech names. Momentum indicators across many stocks turned bullish simultaneously, with MACD crossovers, rising histograms, and volume surges appearing together, which typically signals institutional buying rather than isolated speculation. This breadth of confirmation across names like LQDA and AAPL suggests the rally has real participation behind it rather than a single-stock story.",
-    "summary_zh": "今日大市全面上揚,納指升2.4%,標普500升1.8%,反映市場情緒明顯轉向風險偏好,資金重新流入增長及科技股。多隻股票同時出現MACD黃金交叉、動能柱上升及成交量放大等利好訊號,這種多重訊號同步出現通常代表機構資金進場,而非單一股份的短暫炒作。像LQDA同AAPL呈現齊全嘅四重訊號確認,顯示今次升浪有較紮實嘅市場參與支持。",
+    "summary_en": "Broad gains across the Nasdaq (+1.8%) and S&P 500 (+1.6%) today reflect continued investor confidence in growth and technology names, with healthy market breadth rather than a narrow mega-cap rally. No negative catalysts emerged to disrupt the bullish technical setups building across many stocks. This kind of broad participation across sectors is typically viewed as a healthier signal than a rally concentrated in just a few names.",
+    "summary_zh": "今日納斯達克指數上漲1.8%，標普500指數上漲1.6%，反映投資者對成長股及科技股的信心持續升溫，而且這次上漲的廣度良好，並非單靠少數大型股撐起。市場沒有出現重大負面消息，讓許多股票的技術面多頭格局得以延續。這種跨板塊的普遍參與通常被視為比僅集中在少數股票上的升勢更健康的訊號。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "LQDA",
+      "ticker": "GOOGL",
       "conviction": "high",
-      "reasoning": "Full four-signal confirmation (RSI 69.5 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) on a risk-on day."
+      "reasoning": "Full five-signal confirmation (bullish RSI, MACD crossover, rising histogram, price above SMA-20, volume surge) on a risk-on day makes this the top candidate."
     },
     {
       "action": "BUY",
-      "ticker": "AAPL",
-      "conviction": "high",
-      "reasoning": "Full four-signal confirmation (RSI 67.8 bullish zone, MACD bullish crossover with rising histogram, price above SMA-20, volume surge) matches the institutional-participation setup."
-    },
-    {
-      "action": "BUY",
-      "ticker": "CDW",
+      "ticker": "ASST",
       "conviction": "medium",
-      "reasoning": "Strong score of 95 with bullish RSI, MACD crossover and price above SMA-20, though lacking a confirmed volume surge."
+      "reasoning": "RSI 55.3 with bullish MACD crossover and price above SMA-20 offers upside with less overbought risk than most other candidates."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ZG",
+      "conviction": "medium",
+      "reasoning": "Bullish MACD crossover and price above SMA-20 with RSI still inside the bullish zone, adding real estate exposure to diversify away from existing tech-heavy holdings."
     }
   ],
   "outcomes": {
