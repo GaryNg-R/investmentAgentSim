@@ -1,42 +1,17 @@
 {
   "date": "2026-11-06",
-  "briefing": "Markets rose strongly today (NASDAQ +1.9%, S&P 500 +1.1%), which by our playbook is the kind of day to put idle cash to work. We are selling our one MU share, which has dropped well below its stop-loss, and using that money plus about $1,289 in cash to buy FROG, NET and LASR. All three show every momentum signal we look for without being overbought. Our other six positions stay as they are.",
+  "briefing": "Stocks rose today: the NASDAQ gained 1.5% and the S&P 500 gained 0.9%, led by growth and tech names. We have $345.88 in cash, which is below the $500 minimum for a new position, so we are not buying despite three open slots and several strong candidates (FROG, KRMN, LASR, LEU). All seven holdings stay in place, including NET at about -1.9% from cost, and the automatic stop-loss and profit-target rules keep watching them.",
   "daily_lesson": {
-    "term": "Stop-Loss",
-    "explanation_en": "A stop-loss is a rule that sells a stock automatically once it falls a set amount below your purchase price, here 7%, so one bad position cannot do serious damage to your portfolio. MU fell about 19% below what we paid, far past that line, which shows why it pays to act on a stop-loss right away instead of hoping the stock comes back. A small, controlled loss is easier to make up than a large one.",
-    "explanation_zh": "止蝕（Stop-Loss）是指股價跌至低於買入價某個幅度時（本組合設定為7%）自動沽出的機制，避免單一持倉嚴重拖累整體組合。美光（MU）已較我們的買入成本下跌約19%，遠超止蝕線，正好說明觸及止蝕位時應果斷執行，而非抱著股價反彈的期望死守。小額而受控的虧損，總比大額虧損容易追回。"
+    "term": "Risk-On",
+    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets like tech stocks, so the NASDAQ usually rises more than the S&P 500. Even on a risk-on day, a disciplined investor only buys when they have enough cash to build a properly sized position. Spreading too little money across extra trades adds costs and complexity without much benefit.",
+    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心增強，資金流向科技股等較高風險、較高增長的資產，因此納斯達克的升幅通常大於標普500。不過即使市況向好，紀律嚴明的投資者也只會在資金足以建立合理倉位時才入市。用太少的資金硬開新倉，只會增加成本和管理難度，實際作用有限。"
   },
   "market_education": {
-    "summary_en": "Stocks rallied broadly today, with the tech-heavy NASDAQ up 1.9% and the S&P 500 up 1.1%, a clear risk-on day when investors favor growth stocks. The gains were led by software and networking names such as FROG, NET, UI and EXTR, which rose to new short-term highs on heavy trading volume, a sign that large investors were buying. Memory-chip stocks did not join in: MU, SNDK and SKHY stayed weak, which shows money moving out of semiconductors and into software within tech (no news headlines were provided today, so this is based only on price and volume data).",
-    "summary_zh": "美股今日全面造好，以科技股為主的納指上揚1.9%，標普500指數亦升1.1%，市場明顯轉向風險偏好，資金追捧成長股。升勢由軟件及網絡股帶動，FROG、NET、UI、EXTR等個股成交大增，股價突破短期高位，顯示有大型投資者入市。記憶體晶片股則未能受惠，美光（MU）、SNDK及SKHY持續疲弱，反映科技板塊內部資金由半導體轉向軟件（今日未有新聞標題可供引用，以上分析僅根據股價及成交數據）。",
+    "summary_en": "US stocks finished higher, with the tech-heavy NASDAQ (+1.5%) beating the broader S&P 500 (+0.9%), which signals investors were willing to take on more risk. Gains were spread across software, networking and growth names: many screened stocks such as FROG, KRMN and LEU show fresh bullish MACD crossovers and are trading above their 20-day averages. No specific news headlines were provided today, so this explanation is based only on price and momentum data, not on a particular news catalyst.",
+    "summary_zh": "美股今日收高，以科技股為主的納斯達克指數升1.5%，跑贏標普500指數的0.9%，反映市場風險胃納回升。升勢遍及軟件、網絡設備及成長股板塊，FROG、KRMN、LEU等多隻篩選股份的MACD剛出現黃金交叉，股價亦企穩於20日均線之上。由於今日未有具體新聞標題可供引用，以上分析僅根據價格及動能數據，並非針對個別消息作解讀。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "SELL",
-      "ticker": "MU",
-      "shares": 1,
-      "reasoning": "MU is about 19% below its $887.85 average cost, well past the -7% stop-loss, and its RSI of 37, MACD below signal and price below the 20-day average all point to further weakness, so we take the loss and move the money to stronger setups."
-    },
-    {
-      "action": "BUY",
-      "ticker": "FROG",
-      "conviction": "high",
-      "reasoning": "FROG hits all four confirmation signals: a bullish MACD crossover with a rising histogram, RSI of 65.7 in the bullish zone, price about 17% above its 20-day average, and a volume surge that suggests big-investor buying."
-    },
-    {
-      "action": "BUY",
-      "ticker": "NET",
-      "conviction": "medium",
-      "reasoning": "NET has all four signals with a moderate RSI of 59.1, so it has room to rise before looking overheated, and as a large-cap cloud name it adds quality on a strong tech day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "LASR",
-      "conviction": "medium",
-      "reasoning": "LASR shows all four signals with RSI at a balanced 61.0 and price about 10% above its 20-day average, giving a clean momentum entry that is not stretched."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14686.44502401352,
     "cash": 345.87502813339233,
