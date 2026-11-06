@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "briefing": "Stocks rose modestly today. The NASDAQ gained 1.1% and the S&P 500 gained 0.5%, which counts as a neutral session, not a strong risk-on day. Cash is $345.88, below the $500 minimum for a new buy, so I kept all 7 positions and made no trades. The stop-loss and profit-target rules will handle exits automatically.",
+  "briefing": "Stocks rose today, led by tech: the NASDAQ gained 1.5% and the S&P 500 gained 0.7%. Cash is only $345.88, which is under the $500 minimum for a new buy, so I bought nothing even though 3 slots are open. Past results say small buys forced on moderate up-days don't help. The 7 current positions stay as they are, and their automatic stop-losses and profit targets keep running.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder is cash an investor keeps on hand so they can buy when a really good chance comes along. Today there was too little cash for a sensible new position and the market was only neutral, so holding the cash was the disciplined choice. Waiting for a strong signal usually works better than putting small amounts of money into ordinary setups.",
-    "explanation_zh": "「銀彈」（Dry Powder）是指投資者手上預留的現金，待真正好的入市機會出現時再動用。今日可用現金不足以建立合理倉位，加上大市走勢中性，因此保留現金是有紀律的做法。耐心等待強勁訊號，通常比把小額資金投入平平無奇的機會更好。"
+    "term": "Fully Invested (Cash Drag vs. Dry Powder)",
+    "explanation_en": "A portfolio is 'fully invested' when almost all its money is already in stocks and only a little cash is left. That's why we couldn't add new positions on an up day like today. Holding a lot of cash creates 'cash drag', because idle money earns nothing while the market rises. Keeping some 'dry powder' (spare cash) does have a benefit, though: it lets you buy good opportunities when they show up.",
+    "explanation_zh": "所謂「全倉投資」（Fully Invested），是指組合中絕大部分資金已投入股票，手頭只剩少量現金，因此即使今日大市向好，也無法再開新倉。持有過多現金會造成「現金拖累」（Cash Drag），即升市時閒置資金未能參與升幅；但保留適量「彈藥」（Dry Powder）亦有好處，讓投資者在優質機會出現時能及時入市。"
   },
   "market_education": {
-    "summary_en": "Stocks rose on Friday and growth names led, with the NASDAQ up 1.1% against a 0.5% gain for the S&P 500. Some speculative areas such as quantum computing (IONQ, RGTI, QBTS), nuclear energy (OKLO, LEU) and crypto miners (RIOT) showed strong short-term momentum. Big semiconductor names like NVDA, MU and AMD stayed below their 20-day averages, though, so the rally was uneven and not a broad risk-on move. No news headlines came with today's data, so this summary is based only on index moves and the technical signals.",
-    "summary_zh": "週五美股溫和走高，成長股領漲，納斯達克指數上升1.1%，標普500指數則升0.5%。量子運算（IONQ、RGTI、QBTS）、核能（OKLO、LEU）及加密貨幣礦企（RIOT）等投機板塊短線動能強勁。然而，NVDA、MU、AMD等大型半導體股仍處於20日均線之下，反映升勢並不均衡，未算全面轉向風險偏好。今日數據並無附帶新聞標題，以上分析僅根據指數走勢及技術訊號。",
+    "summary_en": "Markets rose today and tech led the way: the NASDAQ gained 1.5% while the S&P 500 added 0.7%, a sign investors were willing to take on more risk. Our screener showed many speculative, high-momentum stocks lining up at once, including quantum computing (IONQ, RGTI, QBTS), bitcoin miners (RIOT, HUT, IREN) and nuclear energy (OKLO, LEU, SMR), all with bullish MACD signals. No news headlines came in with today's data, so we can't say for sure what caused the move, and we cite no sources rather than guess.",
+    "summary_zh": "今日大市造好，科技股領漲，納斯達克指數升1.5%，標普500指數升0.7%，反映投資者風險胃納回升。從篩選結果可見，資金明顯湧向高動能的投機板塊：量子運算（IONQ、RGTI、QBTS）、比特幣礦企（RIOT、HUT、IREN）以及核能股（OKLO、LEU、SMR）同步出現MACD黃金交叉等多項看漲訊號。由於今日數據未附帶相關新聞標題，未能確定觸發升市的具體消息，故不引述任何來源，以免臆測。",
     "sources": []
   },
   "trades": [],
