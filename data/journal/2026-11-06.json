@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "briefing": "Stocks rose today: the NASDAQ gained 1.5% and the S&P 500 gained 0.9%, led by growth and tech names. We have $345.88 in cash, which is below the $500 minimum for a new position, so we are not buying despite three open slots and several strong candidates (FROG, KRMN, LASR, LEU). All seven holdings stay in place, including NET at about -1.9% from cost, and the automatic stop-loss and profit-target rules keep watching them.",
+  "briefing": "Markets were up today: the NASDAQ rose 1.6% and the S&P 500 rose 0.8%, and many screened stocks are showing strong momentum. We have only $345.88 in cash, which is below the $500 minimum for a new buy, so we are making no trades today. All 7 positions stay open, and their automatic profit targets and stop-losses will handle exits. NET is down about 1.6% from our cost, well above its -7% stop-loss. FLY and IONQ meet all four buy signals and are first in line once we have enough cash.",
   "daily_lesson": {
-    "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets like tech stocks, so the NASDAQ usually rises more than the S&P 500. Even on a risk-on day, a disciplined investor only buys when they have enough cash to build a properly sized position. Spreading too little money across extra trades adds costs and complexity without much benefit.",
-    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心增強，資金流向科技股等較高風險、較高增長的資產，因此納斯達克的升幅通常大於標普500。不過即使市況向好，紀律嚴明的投資者也只會在資金足以建立合理倉位時才入市。用太少的資金硬開新倉，只會增加成本和管理難度，實際作用有限。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder is cash you keep on hand so you can buy when a good opportunity comes along. Today was a good day to buy, but we had less than our $500 minimum, so we couldn't open a new position. Running nearly fully invested means good opportunities can pass you by, while holding too much cash means missing gains, so investors try to strike a balance between the two.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指預留的現金，方便在好機會出現時入市。今日雖然是入市的好時機，但可動用現金不足500美元的最低門檻，所以未能開新倉。資金接近全數投入，容易錯過好機會；但持有過多現金，又會錯失升幅，所以投資者要在兩者之間取得平衡。"
   },
   "market_education": {
-    "summary_en": "US stocks finished higher, with the tech-heavy NASDAQ (+1.5%) beating the broader S&P 500 (+0.9%), which signals investors were willing to take on more risk. Gains were spread across software, networking and growth names: many screened stocks such as FROG, KRMN and LEU show fresh bullish MACD crossovers and are trading above their 20-day averages. No specific news headlines were provided today, so this explanation is based only on price and momentum data, not on a particular news catalyst.",
-    "summary_zh": "美股今日收高，以科技股為主的納斯達克指數升1.5%，跑贏標普500指數的0.9%，反映市場風險胃納回升。升勢遍及軟件、網絡設備及成長股板塊，FROG、KRMN、LEU等多隻篩選股份的MACD剛出現黃金交叉，股價亦企穩於20日均線之上。由於今日未有具體新聞標題可供引用，以上分析僅根據價格及動能數據，並非針對個別消息作解讀。",
+    "summary_en": "Tech and growth stocks led today's gains. The NASDAQ rose 1.6%, about twice the S&P 500's 0.8%, which shows investors were willing to take on risk. Momentum was strongest in speculative areas like quantum computing (IONQ, RGTI, QBTS), nuclear energy (OKLO, LEU) and crypto mining (RIOT), while large chip stocks such as NVDA and MU stayed below their 20-day averages. No news headlines came with today's data, so we can't name a specific cause for the move.",
+    "summary_zh": "今日大市由科技及增長股領漲，納斯達克指數上升1.6%，升幅約為標普500指數（0.8%）的兩倍，反映投資者風險胃納回升。動能最強的集中於投機性較高的板塊，包括量子運算（IONQ、RGTI、QBTS）、核能（OKLO、LEU）及加密貨幣挖礦股（RIOT）；反觀NVDA、MU等大型晶片股仍徘徊於20日均線之下。由於今日數據未附相關新聞標題，暫未能確定推動大市的具體因素。",
     "sources": []
   },
   "trades": [],
