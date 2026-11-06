@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "briefing": "Tech stocks led today (NASDAQ +1.1%) while the S&P 500 barely moved (+0.3%), so the day reads as neutral rather than a clear risk-on day. Cash is $345.88, which is below the $500 buy threshold, and all 7 positions are inside their stop-loss and profit-target ranges. Following our rule of not forcing buys on neutral days, we are holding all positions and keeping the cash until a stronger risk-on signal appears.",
+  "briefing": "Tech stocks led today: the NASDAQ rose 1.1% and the S&P 500 rose 0.3%, which still counts as a neutral day overall. With only $345.88 in cash, we are below the $500 minimum for a new buy, so we are holding all 7 positions and keeping the cash for a stronger day. Our automatic profit targets and stop-losses will keep watching each position.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder is cash an investor keeps on hand so they can act when a good opportunity comes along. Today our cash ($345.88) is below the minimum we need to open a sensible new position, and the market signal is only neutral, so we save it instead of spending it on a weak setup. Waiting for a clear risk-on day to use dry powder usually works better than buying just to stay fully invested.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者手上保留的現金，留待真正的好機會出現時出手。今日組合現金僅約345.88美元，未達開設新倉的最低門檻，加上大市訊號中性，因此選擇按兵不動，不會勉強追入質素一般的機會。與其為求滿倉而倉促入市，耐心等待明確的風險偏好（Risk-On）時機再出擊，往往更為穩健。"
+    "term": "Dry Powder (Cash Reserve)",
+    "explanation_en": "Dry powder is cash an investor keeps on hand to use later, when a good opportunity comes along. Today our cash was too small to open a sensible new position, so we held it instead of forcing a trade on an ordinary day. Waiting for a clearly strong market signal before spending it usually leads to better entry prices than buying just to keep the money busy.",
+    "explanation_zh": "「乾火藥」指投資者手上預留、準備日後把握機會時動用的現金。今日我們的現金不足以建立一個合理規模的新倉位，因此選擇持有現金，而不是在平淡的市況下勉強入市。等到市場出現明確的強勢訊號才動用這筆資金，入市價位通常會比為了「讓錢不閒著」而買入更理想。"
   },
   "market_education": {
-    "summary_en": "Technology and growth stocks outpaced the broader market today, with the NASDAQ up 1.1% against a modest 0.3% gain for the S&P 500. That gap suggests buyers favored higher-growth names such as quantum computing, space and crypto-mining stocks, many of which show bullish MACD crossovers in today's screen. No news headlines came with today's data, so this explanation rests on index moves and technical signals rather than on specific news events.",
-    "summary_zh": "今日科技及成長股表現明顯跑贏大市，納斯達克指數上升1.1%，標普500指數僅微升0.3%。兩者表現分化，反映資金偏好量子運算、太空及加密貨幣挖礦等高增長板塊，今日篩選名單中不少相關股份均出現MACD黃金交叉等技術性買入訊號。由於今日未有附帶新聞標題，以上分析僅根據指數走勢及技術指標，並非針對個別新聞事件。",
+    "summary_en": "Technology and growth stocks did better than the wider market today: the NASDAQ gained 1.1% while the S&P 500 added only 0.3%. Speculative names led the screener, including quantum computing (IONQ, RGTI, QBTS), nuclear energy (OKLO, LEU, SMR) and bitcoin miners (RIOT, IREN, CIFR, WULF), which suggests traders were willing to take more risk in these themes. Large-cap names were mixed: NVDA, AAPL and MCHP stayed below their 20-day averages, so the gains were concentrated in a few areas rather than spread across the market. No news headlines were provided today, so no specific stories are cited.",
+    "summary_zh": "今日科技及成長股表現跑贏大市，納斯達克指數上升1.1%，標普500指數僅升0.3%。量子運算（IONQ、RGTI、QBTS）、核能（OKLO、LEU、SMR）及比特幣礦企（RIOT、IREN、CIFR、WULF）等投機板塊領漲，反映資金對這些主題的風險胃納回升。不過大型股表現參差，NVDA、AAPL及MCHP仍處於20日均線之下，顯示升勢集中於個別板塊，並非全面普漲。今日未有提供新聞標題，故未引用具體報道。",
     "sources": []
   },
   "trades": [],
