@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "briefing": "Markets were up today: the NASDAQ rose 1.6% and the S&P 500 rose 0.8%, and many screened stocks are showing strong momentum. We have only $345.88 in cash, which is below the $500 minimum for a new buy, so we are making no trades today. All 7 positions stay open, and their automatic profit targets and stop-losses will handle exits. NET is down about 1.6% from our cost, well above its -7% stop-loss. FLY and IONQ meet all four buy signals and are first in line once we have enough cash.",
+  "briefing": "Stocks rose modestly today. The NASDAQ gained 1.1% and the S&P 500 gained 0.5%, which counts as a neutral session, not a strong risk-on day. Cash is $345.88, below the $500 minimum for a new buy, so I kept all 7 positions and made no trades. The stop-loss and profit-target rules will handle exits automatically.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "Dry powder is cash you keep on hand so you can buy when a good opportunity comes along. Today was a good day to buy, but we had less than our $500 minimum, so we couldn't open a new position. Running nearly fully invested means good opportunities can pass you by, while holding too much cash means missing gains, so investors try to strike a balance between the two.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指預留的現金，方便在好機會出現時入市。今日雖然是入市的好時機，但可動用現金不足500美元的最低門檻，所以未能開新倉。資金接近全數投入，容易錯過好機會；但持有過多現金，又會錯失升幅，所以投資者要在兩者之間取得平衡。"
+    "explanation_en": "Dry powder is cash an investor keeps on hand so they can buy when a really good chance comes along. Today there was too little cash for a sensible new position and the market was only neutral, so holding the cash was the disciplined choice. Waiting for a strong signal usually works better than putting small amounts of money into ordinary setups.",
+    "explanation_zh": "「銀彈」（Dry Powder）是指投資者手上預留的現金，待真正好的入市機會出現時再動用。今日可用現金不足以建立合理倉位，加上大市走勢中性，因此保留現金是有紀律的做法。耐心等待強勁訊號，通常比把小額資金投入平平無奇的機會更好。"
   },
   "market_education": {
-    "summary_en": "Tech and growth stocks led today's gains. The NASDAQ rose 1.6%, about twice the S&P 500's 0.8%, which shows investors were willing to take on risk. Momentum was strongest in speculative areas like quantum computing (IONQ, RGTI, QBTS), nuclear energy (OKLO, LEU) and crypto mining (RIOT), while large chip stocks such as NVDA and MU stayed below their 20-day averages. No news headlines came with today's data, so we can't name a specific cause for the move.",
-    "summary_zh": "今日大市由科技及增長股領漲，納斯達克指數上升1.6%，升幅約為標普500指數（0.8%）的兩倍，反映投資者風險胃納回升。動能最強的集中於投機性較高的板塊，包括量子運算（IONQ、RGTI、QBTS）、核能（OKLO、LEU）及加密貨幣挖礦股（RIOT）；反觀NVDA、MU等大型晶片股仍徘徊於20日均線之下。由於今日數據未附相關新聞標題，暫未能確定推動大市的具體因素。",
+    "summary_en": "Stocks rose on Friday and growth names led, with the NASDAQ up 1.1% against a 0.5% gain for the S&P 500. Some speculative areas such as quantum computing (IONQ, RGTI, QBTS), nuclear energy (OKLO, LEU) and crypto miners (RIOT) showed strong short-term momentum. Big semiconductor names like NVDA, MU and AMD stayed below their 20-day averages, though, so the rally was uneven and not a broad risk-on move. No news headlines came with today's data, so this summary is based only on index moves and the technical signals.",
+    "summary_zh": "週五美股溫和走高，成長股領漲，納斯達克指數上升1.1%，標普500指數則升0.5%。量子運算（IONQ、RGTI、QBTS）、核能（OKLO、LEU）及加密貨幣礦企（RIOT）等投機板塊短線動能強勁。然而，NVDA、MU、AMD等大型半導體股仍處於20日均線之下，反映升勢並不均衡，未算全面轉向風險偏好。今日數據並無附帶新聞標題，以上分析僅根據指數走勢及技術訊號。",
     "sources": []
   },
   "trades": [],
