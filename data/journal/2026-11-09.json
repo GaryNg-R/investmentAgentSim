@@ -1,17 +1,24 @@
 {
   "date": "2026-11-09",
-  "briefing": "The market was mixed. The NASDAQ rose 1.1% and the S&P 500 gained only 0.3%, so the signal is neutral. Cash is $345.88, below the $500 buy threshold, so I'm not adding a new position even though IONQ and FRVO scored highly. I'm keeping all seven holdings and letting the automatic profit targets and stop-losses work.",
+  "briefing": "Stocks rose broadly today: the NASDAQ gained 2.1% and the S&P 500 gained 1.7%. Our past lessons say to use spare cash on strong up days, so I'm putting the remaining $445 into Amazon, a large and widely held stock where every buy signal agrees. All seven existing positions stay open, and their automatic profit targets and stop-losses keep running.",
   "daily_lesson": {
-    "term": "Cash Drag",
-    "explanation_en": "Cash drag is the return you give up when part of a portfolio sits in cash instead of being invested. With only about 2% of this portfolio in cash, the drag is tiny. Forcing a small, poorly sized trade just to use that cash would add more risk than return.",
-    "explanation_zh": "「現金拖累」是指投資組合中部分資金以現金持有、未有投入市場，因而少賺的回報。目前這個組合的現金只佔約2%，影響輕微。若為了用盡這筆現金而勉強建立一個規模過小的倉位，增加的風險反而會大於回報。"
+    "term": "Risk-On",
+    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets like tech stocks, which pushes the major indexes up together. Today the NASDAQ rose 2.1%, a clear risk-on signal. Strategies that put cash to work on days like this, rather than on flat days, tend to catch momentum when it is strongest.",
+    "explanation_zh": "「風險偏好」（Risk-On）指投資者信心充足，願意將資金投入科技股等較高風險、增長較快的資產，帶動各大指數同步上揚。今日納指升2.1%，正是明顯的風險偏好訊號。與其在市況平淡時勉強入市，不如在這類日子調配資金，往往更能把握動能最強的時機。"
   },
   "market_education": {
-    "summary_en": "Tech stocks did better than the rest of the market today: the NASDAQ rose 1.1% while the broader S&P 500 gained only 0.3%. That gap suggests buyers are focusing on growth areas such as quantum computing, nuclear energy and crypto miners, which fill much of today's screener, rather than buying across the whole market. No news headlines came with today's data, so this explanation is based only on index moves and price momentum.",
-    "summary_zh": "今日科技股表現優於大市，納斯達克指數上升1.1%，而標普500指數僅升0.3%。兩者表現分化，反映資金集中流入量子運算、核能及加密貨幣礦企等增長板塊，而非全面買入大市，今日篩選名單亦多屬這些板塊。由於今日數據未附新聞標題，以上分析僅根據指數走勢及價格動能。",
+    "summary_en": "Big tech and chip stocks led today's rally: the NASDAQ rose 2.1% and the S&P 500 rose 1.7%, which counts as a clear risk-on day. The screener backs this up, with many semiconductor and AI-hardware names (AMD, COHR, ONTO, ENTG, CRDO) showing bullish MACD crossovers and prices above their 20-day averages. No news headlines were included in today's data, so the specific cause can't be cited, but the move was broad rather than limited to a few stocks.",
+    "summary_zh": "今日大市全面上揚，納斯達克指數升2.1%，標普500指數升1.7%，屬典型的風險偏好（Risk-On）交易日，科技及半導體板塊領漲。從篩選結果可見，AMD、COHR、ONTO、ENTG、CRDO等晶片及AI硬件股普遍出現MACD黃金交叉，股價亦站穩20日均線之上，顯示資金正積極流入增長股。由於今日數據未附相關新聞，難以確定觸發升勢的具體消息，但升幅遍及多個板塊，並非由個別股份獨力推動。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "AMZN",
+      "conviction": "medium",
+      "reasoning": "AMZN shows all four signals together (MACD crossover, RSI 67.5 below 70, price above its 20-day average, and a volume surge), and at $272 it fits within the $445 of cash on a strong risk-on day."
+    }
+  ],
   "outcomes": {
     "total_value": 14786.44502401352,
     "cash": 445.87502813339233,
