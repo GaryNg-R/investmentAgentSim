@@ -1,14 +1,14 @@
 {
   "date": "2026-11-09",
-  "briefing": "Markets rallied strongly today, with the NASDAQ up 2.7% and the S&P 500 up 2.3%. That is the kind of clear risk-on day our past lessons say to act on. We have about $446 in cash and 3 open slots, so we're putting it into VSAT, the strongest candidate with every buy signal confirmed. All 7 existing positions stay as they are, and their automatic stop-losses and profit targets remain in place.",
+  "briefing": "Stocks rallied broadly today, with the NASDAQ up 2.7% and the S&P 500 up 2.3%. Our past lessons say to put spare cash to work on strong up days like this, so we're using the remaining ~$446 to buy VSAT, the one candidate showing every buy signal including heavy trading volume. All seven existing positions stay as they are, and their automatic stop-losses and profit targets remain in place.",
   "daily_lesson": {
     "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier assets like growth stocks, which pushes the major indexes up sharply. Today both the NASDAQ and the S&P 500 rose more than 2%, a clear risk-on signal. Disciplined traders often hold spare cash through quiet days and put it to work on days like this, when the overall market is moving in their favor.",
-    "explanation_zh": "所謂「風險偏好」（Risk-On）市況，是指投資者信心充足，願意將資金投向增長股等較高風險的資產，帶動主要指數顯著上揚。今日納指及標普500指數均升逾2%，正是典型的風險偏好訊號。有紀律的交易者往往在市況平淡時保留現金，待大市氣氛轉強、形勢有利時才果斷入市。"
+    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier assets like tech and growth stocks, which pushes indexes such as the NASDAQ sharply higher. Days like this are often a good time to put idle cash to work, but you should still pick stocks backed by several confirming signals, such as heavy trading volume, rather than buying anything that's going up.",
+    "explanation_zh": "「風險偏好」（Risk-On）指投資者信心充足，將資金轉投科技股、增長股等較高風險資產，帶動納指等指數顯著上揚。這類交易日往往是動用閒置現金的好時機，但仍應挑選有多重訊號確認的股份，例如成交量明顯放大，而非盲目追捧所有上漲股票。"
   },
   "market_education": {
-    "summary_en": "US stocks rose broadly today: the NASDAQ gained 2.7% and the S&P 500 gained 2.3%, so investors were clearly willing to take on risk. The candidate list shows strength across many areas, including semiconductors (AMD, ALAB, MXL), satellite and communications stocks (VSAT, ASTS, VIA), infrastructure builders (STRL) and large-cap tech (AMZN), so the rally was not confined to one sector. No news headlines were provided for this session, so this summary is based only on price action and technical signals, not on any specific news story.",
-    "summary_zh": "美股今日全面走高，納指升2.7%，標普500指數升2.3%，反映市場風險胃納明顯回升。從候選名單可見，升勢遍及多個板塊，包括半導體（AMD、ALAB、MXL）、衛星及通訊股（VSAT、ASTS、VIA）、基建工程股（STRL）以及大型科技股（AMZN），並非單一板塊獨撐大市。由於今日未有提供相關新聞標題，以上分析純粹根據股價走勢及技術指標，並非引述任何特定新聞。",
+    "summary_en": "US stocks rallied broadly today, with the tech-heavy NASDAQ up 2.7% and the S&P 500 up 2.3%, a classic risk-on session where investors favor growth and higher-risk names. The strength was widespread across semiconductors (AMD, MPWR, ALAB), satellite and space stocks (VSAT, ASTS) and infrastructure builders (STRL), with many screened stocks breaking above their 20-day averages. No news headlines came with today's data, so this explanation is based only on price and volume behavior, not on a specific news catalyst.",
+    "summary_zh": "美股今日全面走高，以科技股為主的納指急升2.7%，標普500指數亦漲2.3%，屬典型的「風險偏好」交易日，資金明顯流向增長股及高風險板塊。升勢遍及半導體（AMD、MPWR、ALAB）、衛星及太空概念股（VSAT、ASTS）以及基建股（STRL），多隻篩選股份更突破20日均線。由於今日數據未附相關新聞標題，以上分析純粹基於價量表現，並非源自特定消息催化。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "VSAT",
       "conviction": "high",
-      "reasoning": "VSAT is the top-scoring candidate with all four confirmation signals: RSI of 64.2 in the bullish zone, a bullish MACD crossover, price well above its 20-day average and a volume surge that points to institutional buying, all on a strong risk-on day."
+      "reasoning": "VSAT is the only top-scoring candidate with all four signals we want before a high-conviction buy: MACD crossover, RSI 64.4 (below overbought), price well above its 20-day average, and a volume surge, on a strong risk-on day."
     }
   ],
   "outcomes": {
