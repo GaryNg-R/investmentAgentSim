@@ -1,28 +1,22 @@
 {
   "date": "2026-11-09",
-  "briefing": "Stocks rose broadly today: the NASDAQ gained 2.8% and the S&P 500 gained 2.5%, a clear risk-on day. Following our rule of using spare cash on strong up days, we are putting the remaining $446 into AMZN first and SPCX second, because both pass all four buy checks. All seven current holdings stay as they are, and their automatic stop-losses and profit targets are still active.",
+  "briefing": "Markets rallied strongly today, with the NASDAQ up 2.7% and the S&P 500 up 2.3%. That is the kind of clear risk-on day our past lessons say to act on. We have about $446 in cash and 3 open slots, so we're putting it into VSAT, the strongest candidate with every buy signal confirmed. All 7 existing positions stay as they are, and their automatic stop-losses and profit targets remain in place.",
   "daily_lesson": {
     "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier assets such as tech and growth stocks, which pushes the major indexes up together. Today's 2.8% NASDAQ gain is a clear example. Active investors often use days like this to put idle cash to work, but they should still buy only stocks that pass several checks, not just any stock that is going up.",
-    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心充足，資金流向科技股及成長股等較高風險資產，令主要指數同步上揚。今日納斯達克大升2.8%正是典型例子。主動型投資者往往趁這類日子動用閒置資金，但仍應只買入通過多項指標確認的股票，而非盲目追逐任何上漲的股份。"
+    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier assets like growth stocks, which pushes the major indexes up sharply. Today both the NASDAQ and the S&P 500 rose more than 2%, a clear risk-on signal. Disciplined traders often hold spare cash through quiet days and put it to work on days like this, when the overall market is moving in their favor.",
+    "explanation_zh": "所謂「風險偏好」（Risk-On）市況，是指投資者信心充足，願意將資金投向增長股等較高風險的資產，帶動主要指數顯著上揚。今日納指及標普500指數均升逾2%，正是典型的風險偏好訊號。有紀律的交易者往往在市況平淡時保留現金，待大市氣氛轉強、形勢有利時才果斷入市。"
   },
   "market_education": {
-    "summary_en": "US stocks rose broadly today, with the NASDAQ up 2.8% and the S&P 500 up 2.5%, which shows investors were eager to take on risk. Growth and tech names led the move: chip and hardware stocks such as AMD, COHR and TTMI, and crypto-mining stocks such as MARA, WULF and CIFR, all showed bullish MACD crossovers. No news headlines were provided today, so this explanation is based only on price and volume data, not on a specific news event.",
-    "summary_zh": "美股今日全面上揚，納斯達克指數升2.8%，標普500指數升2.5%，反映投資者風險胃納明顯回升。科技及成長股領漲，AMD、COHR、TTMI等晶片與硬件股，以及MARA、WULF、CIFR等加密貨幣挖礦股，均出現MACD黃金交叉的看漲訊號。由於今日未有提供新聞資料，以上分析僅根據價格及成交量數據，並非針對個別新聞事件。",
+    "summary_en": "US stocks rose broadly today: the NASDAQ gained 2.7% and the S&P 500 gained 2.3%, so investors were clearly willing to take on risk. The candidate list shows strength across many areas, including semiconductors (AMD, ALAB, MXL), satellite and communications stocks (VSAT, ASTS, VIA), infrastructure builders (STRL) and large-cap tech (AMZN), so the rally was not confined to one sector. No news headlines were provided for this session, so this summary is based only on price action and technical signals, not on any specific news story.",
+    "summary_zh": "美股今日全面走高，納指升2.7%，標普500指數升2.3%，反映市場風險胃納明顯回升。從候選名單可見，升勢遍及多個板塊，包括半導體（AMD、ALAB、MXL）、衛星及通訊股（VSAT、ASTS、VIA）、基建工程股（STRL）以及大型科技股（AMZN），並非單一板塊獨撐大市。由於今日未有提供相關新聞標題，以上分析純粹根據股價走勢及技術指標，並非引述任何特定新聞。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AMZN",
+      "ticker": "VSAT",
       "conviction": "high",
-      "reasoning": "AMZN meets all four checks (RSI 62.3 below 70, MACD bullish crossover, price above SMA-20, volume surge), so big investors are likely buying, and it is a lower-risk large-cap way to use the cash left on a strong up day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "SPCX",
-      "conviction": "medium",
-      "reasoning": "SPCX also meets all four checks (RSI 62.6, MACD crossover, price above SMA-20, volume surge), so it is a good second pick if any cash remains after AMZN."
+      "reasoning": "VSAT is the top-scoring candidate with all four confirmation signals: RSI of 64.2 in the bullish zone, a bullish MACD crossover, price well above its 20-day average and a volume surge that points to institutional buying, all on a strong risk-on day."
     }
   ],
   "outcomes": {
