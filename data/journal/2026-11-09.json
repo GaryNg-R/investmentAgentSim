@@ -1,22 +1,22 @@
 {
   "date": "2026-11-09",
-  "briefing": "Stocks rallied broadly today, with the NASDAQ up 2.8% and the S&P 500 up 2.2%, a clear risk-on day. Our past lessons say to put remaining cash to work on strong days like this, so we are using the $445 we have left on AMZN. It shows all four buy signals and is a lower-risk pick than the volatile crypto-miner and small-cap names that also scored 100. Our 7 current positions are held unchanged, and their automatic stop-losses and profit targets stay in place.",
+  "briefing": "Stocks rallied broadly today: the NASDAQ rose 2.4% and the S&P 500 rose 2.1%, a clear risk-on day. The portfolio is up 47.9% overall and our seven positions are holding. Our past lessons say to deploy cash on strong up days, so we are putting the remaining $446 into Flex (FLEX), a contract manufacturer with healthy, not yet overheated momentum. We are skipping very overbought names like SGRY and CNH, and we are holding all current positions so the automatic profit targets and stop-losses can do their job.",
   "daily_lesson": {
     "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets like tech stocks, which pushes indexes like the NASDAQ up strongly. Strategies that follow momentum usually put idle cash to work on these days instead of waiting on the sidelines. The risk is still there, though, so stop-losses stay in place in case the optimism fades.",
-    "explanation_zh": "所謂「風險偏好」（Risk-On）市況，是指投資者信心充足，資金流入科技股等較高風險、增長較快的資產，帶動納指等指數顯著上揚。順勢交易策略通常會把握這類日子，將閒置現金投入市場，而非繼續觀望。不過風險並未消失，止蝕位仍需保留，以防樂觀情緒退潮時蒙受損失。"
+    "explanation_en": "'Risk-on' describes a day when investors feel confident and move money into riskier assets like growth and tech stocks, which pushes major indexes up together. Today the NASDAQ rose 2.4% and the S&P 500 rose 2.1%, a typical risk-on move. Strong days like this are usually a better time to put idle cash to work than flat, uncertain days.",
+    "explanation_zh": "「風險偏好」（Risk-On）指投資者信心充足，願意將資金投放於成長股、科技股等較高風險資產，帶動主要指數同步上揚。今日納指升2.4%、標普500升2.1%，正是典型的風險偏好行情。相比方向不明的橫行日子，這類強勢交易日通常是投入閒置資金的較佳時機。"
   },
   "market_education": {
-    "summary_en": "US stocks rose across the board today: the NASDAQ gained 2.8% and the S&P 500 gained 2.2%, with tech and growth stocks leading. The strength was broad, not limited to a few names. Many semiconductor, optical-networking and AI-infrastructure stocks such as AMD, LITE, CRDO and FN broke above their 20-day averages with bullish MACD crossovers. No news headlines came with today's data, so we cannot point to a specific cause, but this kind of wide participation usually means investors are more willing to take risk.",
-    "summary_zh": "美股今日全面走高，納指急升2.8%，標普500指數亦揚2.2%，科技及增長股領漲。升勢相當廣泛，並非集中於少數個股：AMD、LITE、CRDO、FN等半導體、光通訊及AI基建股紛紛升穿20天均線，MACD亦出現黃金交叉。由於今日數據未附相關新聞標題，暫未能確指單一催化因素，但如此廣泛的參與一般反映市場風險胃納回升。",
+    "summary_en": "Stocks rose sharply across the board today, with the tech-heavy NASDAQ up 2.4% and the S&P 500 up 2.1%, a sign that investors were willing to take more risk. The gains were broad, and many semiconductor, hardware, and AI-infrastructure names (AMD, MPWR, ALAB, TTMI) now show bullish momentum signals at the same time. No news headlines were included in today's data, so we can't name a specific cause, but a move this broad usually reflects a change in overall market mood rather than news about one company.",
+    "summary_zh": "今日美股全面大漲，以科技股為主的納指升2.4%，標普500指數亦升2.1%，反映投資者風險胃納明顯回升。升勢遍及各板塊，半導體、硬件及AI基建相關股份（如AMD、MPWR、ALAB、TTMI）同時出現看漲動能訊號。由於今日資料未附新聞標題，暫未能指出具體催化因素；不過如此廣泛的升勢，通常反映整體市場情緒轉變，而非個別公司的消息所致。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AMZN",
-      "conviction": "high",
-      "reasoning": "AMZN shows all four signals we look for (RSI 64.6 below overbought, a fresh MACD crossover, price above its 20-day average, and a volume surge), and as a mega-cap it adds less risk than the speculative names with the same score."
+      "ticker": "FLEX",
+      "conviction": "medium",
+      "reasoning": "On a strong risk-on day, FLEX has three bullish signals: a MACD crossover, a rising MACD histogram, and an RSI of 59.5 that still leaves room to run, and it trades about 11% above its 20-day average; it also adds some diversification away from our tech-heavy holdings, but without a volume surge it is not a high-conviction buy."
     }
   ],
   "outcomes": {
