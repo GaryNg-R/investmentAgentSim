@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-10",
+  "briefing": "Stocks rallied hard today, with the NASDAQ up 2.7% and the S&P 500 up 2.3%. The portfolio stands at $14,786, up 47.9% overall. Cash is only $445.88, so the one new order goes to VSAT, the strongest candidate with every signal confirmed, and the position size will be small because cash is limited. All seven current positions stay open, and their automatic stop-loss and profit-target rules keep running.",
+  "daily_lesson": {
+    "term": "Risk-On",
+    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, higher-growth assets like tech stocks, which pushes major indexes up together. Today's 2%+ gains in both the NASDAQ and S&P 500 are a clear example. Disciplined traders often save cash on quiet days and put it to work when a strong risk-on signal appears.",
+    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心充足，將資金轉投科技股等較高風險、高增長的資產，帶動主要指數齊齊上揚。今日納指及標普500同時升逾2%，正是典型例子。紀律嚴謹的交易者通常會在淡靜日子保留現金，待出現明確的風險偏好訊號時才積極入市。"
+  },
+  "market_education": {
+    "summary_en": "US stocks moved broadly higher today. The NASDAQ gained 2.7% and the S&P 500 gained 2.3%, a classic risk-on session where investors favored growth and technology shares. No news headlines came with today's data, so we can't name a specific cause, but the bullish signals across chip and hardware names like AMD, COHR and ALAB point to strong buying interest in tech.",
+    "summary_zh": "美股今日全面走高，納指升2.7%，標普500指數升2.3%，屬典型的「風險偏好」行情，資金明顯流向成長股及科技股。由於今日數據未附相關新聞標題，暫未能確定具體觸發因素；不過，AMD、COHR、ALAB等晶片及硬件股普遍出現看漲訊號，反映科技板塊買盤強勁。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "VSAT",
+      "conviction": "high",
+      "reasoning": "VSAT is the only candidate with all four confirmation signals: RSI in the bullish zone, a MACD crossover, price well above its 20-day average, and a volume surge, and today is a strong risk-on day."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14786.44502401352,
+    "cash": 445.87502813339233,
+    "pnl_dollar": 4786.445024013519,
+    "pnl_pct": 47.86445024013519,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "NET",
+        "shares": 6.0,
+        "avg_cost": 276.9949951171875
+      }
+    ]
+  }
+}
