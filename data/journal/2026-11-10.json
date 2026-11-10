@@ -1,24 +1,17 @@
 {
   "date": "2026-11-10",
-  "briefing": "Stocks rallied hard today, with the NASDAQ up 2.7% and the S&P 500 up 2.3%. The portfolio stands at $14,786, up 47.9% overall. Cash is only $445.88, so the one new order goes to VSAT, the strongest candidate with every signal confirmed, and the position size will be small because cash is limited. All seven current positions stay open, and their automatic stop-loss and profit-target rules keep running.",
+  "briefing": "Markets were nearly flat today: the NASDAQ fell 0.1% and the S&P 500 fell 0.2%. Cash is $445.88, which is below the $500 buy threshold, and there was no clear risk-on signal, so we are holding all 7 positions. We are keeping the 3 open slots and the cash in reserve for a stronger day. ASX, AEHR, AXSM and NOK are top of the watchlist because all four buy signals line up.",
   "daily_lesson": {
-    "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, higher-growth assets like tech stocks, which pushes major indexes up together. Today's 2%+ gains in both the NASDAQ and S&P 500 are a clear example. Disciplined traders often save cash on quiet days and put it to work when a strong risk-on signal appears.",
-    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心充足，將資金轉投科技股等較高風險、高增長的資產，帶動主要指數齊齊上揚。今日納指及標普500同時升逾2%，正是典型例子。紀律嚴謹的交易者通常會在淡靜日子保留現金，待出現明確的風險偏好訊號時才積極入市。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder is cash an investor keeps on hand so they can buy when a good opportunity comes along. Today our cash was below the minimum buy size and the market was flat, so we kept it in reserve and did not force a trade. Being patient like this means we can act quickly when a strong setup appears.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者預留的現金，以便在出現理想機會時隨時入市。今日組合現金低於最低買入門檻，加上大市橫行，我們選擇保留資金，而非勉強入市。保持耐性、手持現金，待強勢訊號出現時便能果斷出擊。"
   },
   "market_education": {
-    "summary_en": "US stocks moved broadly higher today. The NASDAQ gained 2.7% and the S&P 500 gained 2.3%, a classic risk-on session where investors favored growth and technology shares. No news headlines came with today's data, so we can't name a specific cause, but the bullish signals across chip and hardware names like AMD, COHR and ALAB point to strong buying interest in tech.",
-    "summary_zh": "美股今日全面走高，納指升2.7%，標普500指數升2.3%，屬典型的「風險偏好」行情，資金明顯流向成長股及科技股。由於今日數據未附相關新聞標題，暫未能確定具體觸發因素；不過，AMD、COHR、ALAB等晶片及硬件股普遍出現看漲訊號，反映科技板塊買盤強勁。",
+    "summary_en": "US stocks barely moved today, with the NASDAQ down 0.1% and the S&P 500 down 0.2%, which looks like a pause rather than a change in direction. Momentum stayed mixed underneath: chip and semiconductor-equipment names like ASX and AEHR kept rising on heavy volume, while big-cap leader NVDA fell into oversold territory (RSI 29) as money rotated within the tech sector. No headlines were provided in today's news feed, so this summary comes only from price and technical data.",
+    "summary_zh": "美股今日窄幅整固，納斯達克微跌0.1%，標普500指數輕微下跌0.2%，走勢偏向橫行喘息，未見明確轉向訊號。板塊之間資金輪動明顯：日月光（ASX）、AEHR等半導體及設備股繼續放量走高，而龍頭股輝達（NVDA）則回落至超賣區域（RSI 29），反映科技板塊內部資金重新配置。由於今日未有新聞資料提供，以上分析僅根據股價及技術指標數據。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "VSAT",
-      "conviction": "high",
-      "reasoning": "VSAT is the only candidate with all four confirmation signals: RSI in the bullish zone, a MACD crossover, price well above its 20-day average, and a volume surge, and today is a strong risk-on day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14786.44502401352,
     "cash": 445.87502813339233,
