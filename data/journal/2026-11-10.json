@@ -1,14 +1,14 @@
 {
   "date": "2026-11-10",
-  "briefing": "Markets were nearly flat today: the NASDAQ fell 0.1% and the S&P 500 fell 0.2%. Cash is $445.88, which is below the $500 buy threshold, and there was no clear risk-on signal, so we are holding all 7 positions. We are keeping the 3 open slots and the cash in reserve for a stronger day. ASX, AEHR, AXSM and NOK are top of the watchlist because all four buy signals line up.",
+  "briefing": "Stocks slipped today, with the NASDAQ down 0.9% and the S&P 500 down 0.7%, a mildly negative day with no clear direction. Cash is $445.88, which is under the $500 minimum for a new buy, so there is no room to add a position. TTWO looks strong, with all five buy signals, but we are holding all seven positions and letting the automatic profit targets and stop-losses handle exits.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder is cash an investor keeps on hand so they can buy when a good opportunity comes along. Today our cash was below the minimum buy size and the market was flat, so we kept it in reserve and did not force a trade. Being patient like this means we can act quickly when a strong setup appears.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者預留的現金，以便在出現理想機會時隨時入市。今日組合現金低於最低買入門檻，加上大市橫行，我們選擇保留資金，而非勉強入市。保持耐性、手持現金，待強勢訊號出現時便能果斷出擊。"
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag is the return you give up by holding cash instead of investments. With $445 sitting idle, that small slice of the portfolio earns nothing while stocks move. Still, when the amount is too small to buy a proper position and the market is falling, holding the cash is reasonable. A small, deliberate cash buffer is better than forcing a poor trade.",
+    "explanation_zh": "「現金拖累」是指持有現金而非投資所放棄的回報。組合中閒置約445美元，這部分資金不會隨股市升跌而產生回報。不過，當金額太小、不足以建立合適倉位，而市況又正在下跌時，保留現金是合理做法。刻意保留少量現金緩衝，總好過勉強進行一宗差勁的交易。"
   },
   "market_education": {
-    "summary_en": "US stocks barely moved today, with the NASDAQ down 0.1% and the S&P 500 down 0.2%, which looks like a pause rather than a change in direction. Momentum stayed mixed underneath: chip and semiconductor-equipment names like ASX and AEHR kept rising on heavy volume, while big-cap leader NVDA fell into oversold territory (RSI 29) as money rotated within the tech sector. No headlines were provided in today's news feed, so this summary comes only from price and technical data.",
-    "summary_zh": "美股今日窄幅整固，納斯達克微跌0.1%，標普500指數輕微下跌0.2%，走勢偏向橫行喘息，未見明確轉向訊號。板塊之間資金輪動明顯：日月光（ASX）、AEHR等半導體及設備股繼續放量走高，而龍頭股輝達（NVDA）則回落至超賣區域（RSI 29），反映科技板塊內部資金重新配置。由於今日未有新聞資料提供，以上分析僅根據股價及技術指標數據。",
+    "summary_en": "Stocks drifted lower today, with the NASDAQ down 0.9% and the S&P 500 down 0.7%. Growth and tech stocks fell more than the broader market. Some semiconductor names were especially weak: NVDA traded at oversold levels on heavy volume. No news headlines were supplied for this session, so we can't pin today's move on a specific event. A drop this size usually reflects traders taking profits and trimming risk rather than a real change in the market's direction.",
+    "summary_zh": "美股今日走低，納指跌0.9%，標普500指數跌0.7%。增長股及科技股跌幅大於大市，部分半導體股走勢尤其疲弱，NVDA在大成交量下跌至超賣水平。本節未有提供新聞標題，因此難以將今日走勢歸因於單一事件。這種幅度的回調，通常反映資金獲利回吐及減低風險，而非市況方向出現實質轉變。",
     "sources": []
   },
   "trades": [],
