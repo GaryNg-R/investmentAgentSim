@@ -1,14 +1,14 @@
 {
   "date": "2026-11-10",
-  "briefing": "Markets eased slightly today, with the NASDAQ down 0.7% and the S&P 500 down 0.4%, a neutral session without a clear direction. Cash is $445.88, below the $500 buy threshold, so I am holding all seven positions and not forcing a new buy. SKWD and TRAX passed all four momentum checks and are the top picks for the next strong up day.",
+  "briefing": "Stocks slipped modestly today: the NASDAQ fell 0.7% and the S&P 500 fell 0.4%, so the market read as neutral. Cash is $445.88, below the $500 buy threshold, so I made no trades. All seven positions stay open, with the automatic stop-losses and profit targets in place. I'll wait for a clear risk-on day before using the cash or the three open slots, with SKWD and TRAX as the top candidates.",
   "daily_lesson": {
-    "term": "Cash Drag",
-    "explanation_en": "Cash drag is the small loss in returns from holding uninvested cash instead of putting it to work. Today we hold $445.88 in cash, which is less than the $500 minimum for a new buy, so a little of the portfolio sits idle. On a flat or slightly down day, that idle cash costs very little, and it gives us money ready to use when a stronger buying chance comes.",
-    "explanation_zh": "「現金拖累」是指持有未投資的現金，而非將資金投入市場所造成的輕微回報損失。今日組合持有445.88美元現金，低於新建倉所需的500美元門檻，因此有小部分資金暫時閒置。在大市持平或輕微下跌的日子，閒置現金的代價很小，反而能保留資金，待出現更強的買入機會時運用。"
+    "term": "Cash Buffer / Patience in Neutral Markets",
+    "explanation_en": "A cash buffer is the money an investor keeps on hand instead of putting all of it into stocks. On a quiet or slightly down day like today, buying just to spend the cash often means getting in at a weak moment. Waiting for a clear signal, such as a strong rally day, usually gives better entry prices and lower risk.",
+    "explanation_zh": "現金緩衝是指投資者保留部分資金，而非將全部資金投入股市。在今日這類市況平淡或輕微下跌的日子，單純為了用盡現金而入市，往往會在不理想的時機建倉。耐心等待明確的訊號，例如出現強勢上升的交易日，通常能取得更理想的入市價位，同時降低風險。"
   },
   "market_education": {
-    "summary_en": "Stocks drifted modestly lower today, and the tech-heavy NASDAQ fell more than the broader S&P 500. Several large chip names were weak, NVDA among them with an RSI near 28, which pulled the tech index down. No news headlines came with today's data, so this explanation uses price and momentum data only and cites no sources.",
-    "summary_zh": "今日美股窄幅偏軟，以科技股為主的納指跌幅大於標普500。大型晶片股表現疲弱，其中NVDA的RSI跌至約28，拖累科技指數。由於今日數據未附新聞標題，以上分析僅根據價格及動能數據，並無引用新聞來源。",
+    "summary_en": "US stocks closed slightly lower today. Tech fell more than the broader market: the NASDAQ dropped 0.7% and the S&P 500 dropped 0.4%. No news headlines were provided today, so this move can't be tied to a specific event. NVDA and HIMS are deeply oversold, with RSI below 30, which points to selling in some mega-cap tech and growth names. At the same time, smaller momentum stocks such as SKWD and TRAX kept rising on heavy volume. That pattern suggests investors were rotating between sectors rather than selling everything.",
+    "summary_zh": "美股今日小幅收低，科技股跌幅大於大市，納斯達克指數下跌0.7%，標普500指數下跌0.4%。由於今日未有相關新聞標題，暫時難以將走勢歸因於單一事件。不過，NVDA及HIMS等個股的RSI已跌穿30，處於深度超賣區域，反映部分大型科技股及增長股遭受沽壓。與此同時，SKWD、TRAX等中小型動能股則在成交放大下逆市走高，顯示資金正進行板塊輪動，而非全面撤出市場。",
     "sources": []
   },
   "trades": [],
