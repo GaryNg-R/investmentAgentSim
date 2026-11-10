@@ -1,19 +1,19 @@
 {
-  "saved_at": "2026-11-10T20:00:34.896700+00:00",
-  "market_direction": "risk_off",
+  "saved_at": "2026-11-10T21:00:44.446887+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Stocks fell today. The NASDAQ dropped 1.1% and the S&P 500 dropped 0.6%, so the screener flagged the day as risk-off and returned no candidates. I made no trades: all 7 positions stay open, cash stays at $445.88, and the automatic stop-loss and profit-target rules keep watching every position.",
+    "skip_new_buys": false,
+    "briefing": "Markets eased slightly today, with the NASDAQ down 0.7% and the S&P 500 down 0.4%, a neutral session without a clear direction. Cash is $445.88, below the $500 buy threshold, so I am holding all seven positions and not forcing a new buy. SKWD and TRAX passed all four momentum checks and are the top picks for the next strong up day.",
     "market_education": {
-      "summary_en": "Both major US indexes fell today, and the tech-heavy NASDAQ (-1.1%) dropped almost twice as much as the broader S&P 500 (-0.6%). When growth and tech stocks fall harder than the overall market, it usually means investors are taking profits and moving away from higher-risk holdings. No news headlines came with today's data, so I can't link this move to a specific event, but the pattern is a typical risk-off day.",
-      "summary_zh": "\u7f8e\u80a1\u4e3b\u8981\u6307\u6578\u4eca\u65e5\u540c\u6b65\u56de\u843d\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc1.1%\uff0c\u8dcc\u5e45\u63a5\u8fd1\u6a19\u666e500\u6307\u6578\uff08-0.6%\uff09\u7684\u5169\u500d\u3002\u6210\u9577\u80a1\u8207\u79d1\u6280\u80a1\u8dcc\u5e45\u5927\u65bc\u5927\u5e02\uff0c\u901a\u5e38\u53cd\u6620\u6295\u8cc7\u8005\u6b63\u7372\u5229\u4e86\u7d50\uff0c\u4e26\u6e1b\u6301\u98a8\u96aa\u8f03\u9ad8\u7684\u8cc7\u7522\u3002\u4eca\u65e5\u6578\u64da\u672a\u9644\u5e36\u76f8\u95dc\u65b0\u805e\u6a19\u984c\uff0c\u56e0\u6b64\u672a\u80fd\u5c07\u8dcc\u52e2\u6b78\u56e0\u65bc\u7279\u5b9a\u4e8b\u4ef6\uff0c\u4f46\u6574\u9ad4\u8d70\u52e2\u5c6c\u5178\u578b\u7684\u907f\u96aa\uff08Risk-Off\uff09\u4ea4\u6613\u65e5\u3002",
+      "summary_en": "Stocks drifted modestly lower today, and the tech-heavy NASDAQ fell more than the broader S&P 500. Several large chip names were weak, NVDA among them with an RSI near 28, which pulled the tech index down. No news headlines came with today's data, so this explanation uses price and momentum data only and cites no sources.",
+      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u7a84\u5e45\u504f\u8edf\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u6307\u8dcc\u5e45\u5927\u65bc\u6a19\u666e500\u3002\u5927\u578b\u6676\u7247\u80a1\u8868\u73fe\u75b2\u5f31\uff0c\u5176\u4e2dNVDA\u7684RSI\u8dcc\u81f3\u7d0428\uff0c\u62d6\u7d2f\u79d1\u6280\u6307\u6578\u3002\u7531\u65bc\u4eca\u65e5\u6578\u64da\u672a\u9644\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u50f9\u683c\u53ca\u52d5\u80fd\u6578\u64da\uff0c\u4e26\u7121\u5f15\u7528\u65b0\u805e\u4f86\u6e90\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "A risk-off day is when investors get nervous and sell riskier assets like tech and growth stocks, often moving into safer places such as cash or bonds. Many disciplined traders avoid opening new positions on these days, because buying into falling prices without a clear signal raises the risk of a quick loss. Waiting for conditions to improve is a deliberate choice, not a missed opportunity.",
-      "explanation_zh": "\u6240\u8b02\u300c\u907f\u96aa\uff08Risk-Off\uff09\u300d\uff0c\u662f\u6307\u6295\u8cc7\u8005\u60c5\u7dd2\u8f49\u8da8\u5be9\u614e\uff0c\u6cbd\u552e\u79d1\u6280\u80a1\u3001\u6210\u9577\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u4e26\u5c07\u8cc7\u91d1\u8f49\u5f80\u73fe\u91d1\u6216\u50b5\u5238\u7b49\u8f03\u7a69\u5065\u7684\u5de5\u5177\u3002\u4e0d\u5c11\u7d00\u5f8b\u56b4\u660e\u7684\u4ea4\u6613\u8005\u6703\u5728\u9019\u985e\u65e5\u5b50\u66ab\u505c\u5efa\u7acb\u65b0\u5009\uff0c\u56e0\u70ba\u5728\u7f3a\u4e4f\u660e\u78ba\u8a0a\u865f\u4e0b\u9006\u5e02\u5165\u8ca8\uff0c\u5bb9\u6613\u77ed\u671f\u5167\u8499\u53d7\u8667\u640d\u3002\u8010\u5fc3\u7b49\u5f85\u5e02\u6cc1\u8f49\u597d\u662f\u523b\u610f\u7684\u7b56\u7565\u9078\u64c7\uff0c\u4e26\u975e\u932f\u5931\u826f\u6a5f\u3002"
+      "term": "Cash Drag",
+      "explanation_en": "Cash drag is the small loss in returns from holding uninvested cash instead of putting it to work. Today we hold $445.88 in cash, which is less than the $500 minimum for a new buy, so a little of the portfolio sits idle. On a flat or slightly down day, that idle cash costs very little, and it gives us money ready to use when a stronger buying chance comes.",
+      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\u662f\u6307\u6301\u6709\u672a\u6295\u8cc7\u7684\u73fe\u91d1\uff0c\u800c\u975e\u5c07\u8cc7\u91d1\u6295\u5165\u5e02\u5834\u6240\u9020\u6210\u7684\u8f15\u5fae\u56de\u5831\u640d\u5931\u3002\u4eca\u65e5\u7d44\u5408\u6301\u6709445.88\u7f8e\u5143\u73fe\u91d1\uff0c\u4f4e\u65bc\u65b0\u5efa\u5009\u6240\u9700\u7684500\u7f8e\u5143\u9580\u6abb\uff0c\u56e0\u6b64\u6709\u5c0f\u90e8\u5206\u8cc7\u91d1\u66ab\u6642\u9592\u7f6e\u3002\u5728\u5927\u5e02\u6301\u5e73\u6216\u8f15\u5fae\u4e0b\u8dcc\u7684\u65e5\u5b50\uff0c\u9592\u7f6e\u73fe\u91d1\u7684\u4ee3\u50f9\u5f88\u5c0f\uff0c\u53cd\u800c\u80fd\u4fdd\u7559\u8cc7\u91d1\uff0c\u5f85\u51fa\u73fe\u66f4\u5f37\u7684\u8cb7\u5165\u6a5f\u6703\u6642\u904b\u7528\u3002"
     }
   }
 }

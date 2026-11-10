@@ -1,14 +1,14 @@
 {
   "date": "2026-11-10",
-  "briefing": "Stocks fell today. The NASDAQ dropped 1.1% and the S&P 500 dropped 0.6%, so the screener flagged the day as risk-off and returned no candidates. I made no trades: all 7 positions stay open, cash stays at $445.88, and the automatic stop-loss and profit-target rules keep watching every position.",
+  "briefing": "Markets eased slightly today, with the NASDAQ down 0.7% and the S&P 500 down 0.4%, a neutral session without a clear direction. Cash is $445.88, below the $500 buy threshold, so I am holding all seven positions and not forcing a new buy. SKWD and TRAX passed all four momentum checks and are the top picks for the next strong up day.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A risk-off day is when investors get nervous and sell riskier assets like tech and growth stocks, often moving into safer places such as cash or bonds. Many disciplined traders avoid opening new positions on these days, because buying into falling prices without a clear signal raises the risk of a quick loss. Waiting for conditions to improve is a deliberate choice, not a missed opportunity.",
-    "explanation_zh": "所謂「避險（Risk-Off）」，是指投資者情緒轉趨審慎，沽售科技股、成長股等高風險資產，並將資金轉往現金或債券等較穩健的工具。不少紀律嚴明的交易者會在這類日子暫停建立新倉，因為在缺乏明確訊號下逆市入貨，容易短期內蒙受虧損。耐心等待市況轉好是刻意的策略選擇，並非錯失良機。"
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag is the small loss in returns from holding uninvested cash instead of putting it to work. Today we hold $445.88 in cash, which is less than the $500 minimum for a new buy, so a little of the portfolio sits idle. On a flat or slightly down day, that idle cash costs very little, and it gives us money ready to use when a stronger buying chance comes.",
+    "explanation_zh": "「現金拖累」是指持有未投資的現金，而非將資金投入市場所造成的輕微回報損失。今日組合持有445.88美元現金，低於新建倉所需的500美元門檻，因此有小部分資金暫時閒置。在大市持平或輕微下跌的日子，閒置現金的代價很小，反而能保留資金，待出現更強的買入機會時運用。"
   },
   "market_education": {
-    "summary_en": "Both major US indexes fell today, and the tech-heavy NASDAQ (-1.1%) dropped almost twice as much as the broader S&P 500 (-0.6%). When growth and tech stocks fall harder than the overall market, it usually means investors are taking profits and moving away from higher-risk holdings. No news headlines came with today's data, so I can't link this move to a specific event, but the pattern is a typical risk-off day.",
-    "summary_zh": "美股主要指數今日同步回落，以科技股為主的納斯達克指數跌1.1%，跌幅接近標普500指數（-0.6%）的兩倍。成長股與科技股跌幅大於大市，通常反映投資者正獲利了結，並減持風險較高的資產。今日數據未附帶相關新聞標題，因此未能將跌勢歸因於特定事件，但整體走勢屬典型的避險（Risk-Off）交易日。",
+    "summary_en": "Stocks drifted modestly lower today, and the tech-heavy NASDAQ fell more than the broader S&P 500. Several large chip names were weak, NVDA among them with an RSI near 28, which pulled the tech index down. No news headlines came with today's data, so this explanation uses price and momentum data only and cites no sources.",
+    "summary_zh": "今日美股窄幅偏軟，以科技股為主的納指跌幅大於標普500。大型晶片股表現疲弱，其中NVDA的RSI跌至約28，拖累科技指數。由於今日數據未附新聞標題，以上分析僅根據價格及動能數據，並無引用新聞來源。",
     "sources": []
   },
   "trades": [],
