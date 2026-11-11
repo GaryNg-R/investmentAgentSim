@@ -1,14 +1,14 @@
 {
   "date": "2026-11-11",
-  "briefing": "Markets rallied: NASDAQ rose 2.2% and the S&P 500 rose 1.5%, a clear risk-on day that meets our trigger for putting leftover cash to work. All seven current holdings stay in place, and stop-losses and profit targets will manage exits. The roughly $446 of cash is going into EQPT, the 95-scored name with the most room before it looks overbought. We are avoiding the many candidates with RSI above 70 because they look stretched.",
+  "briefing": "Stocks rallied broadly today, with the NASDAQ up 2.2% and the S&P 500 up 1.6%, led by semiconductor, AI-infrastructure and crypto-related names. Our lessons say to put idle cash to work on strong risk-on days, so we're placing a small buy in EQPT, the top-scoring candidate. We're holding all seven current positions and letting the automatic profit targets and stop-losses manage the exits.",
   "daily_lesson": {
     "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets like tech stocks, pushing indexes such as the NASDAQ sharply higher. Strategies that wait for these days put idle cash to work when conditions favor buying, rather than forcing trades on flat, uncertain days.",
-    "explanation_zh": "所謂「風險偏好」（Risk-On）市況，是指投資者信心高漲，資金湧向科技股等較高風險、增長較快的資產，帶動納斯達克等指數顯著上升。採用這類策略的投資者會耐心等待此類交易日，才把閒置資金投入市場，而非在走勢平淡、方向未明時勉強入市。"
+    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets like tech stocks, and out of safer ones. You can usually spot it when the NASDAQ, which is heavy in tech, rises more than the broader S&P 500, as it did today (+2.2% vs +1.6%). These days are often a good time to put idle cash to work, but you should still pick stocks that aren't already overbought.",
+    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心充足，願意把資金從較穩健的資產轉投科技股等高風險、高增長的資產。常見的跡象是以科技股為主的納斯達克指數升幅大於標普500指數，正如今日的2.2%對1.6%。這類日子通常適合把閒置資金投入市場，但仍應避開技術指標已顯示超買的股份。"
   },
   "market_education": {
-    "summary_en": "US stocks rose broadly today: the tech-heavy NASDAQ gained 2.2% and the S&P 500 gained 1.5%. The screener shows the gains led by semiconductor, optical-networking and AI-infrastructure stocks such as SNDK, DELL, LITE, AMD and MU, many now trading well above their 20-day averages. No news headlines were provided today, so this is based only on price and momentum data, not on a specific news catalyst.",
-    "summary_zh": "美股今日全面走高，以科技股為主的納斯達克指數上揚2.2%，標普500指數亦升1.5%。從篩選結果來看，半導體、光通訊及AI基建相關股份領漲，包括SNDK、DELL、LITE、AMD及MU等，多隻股份股價已明顯高於20日均線。由於今日未有提供相關新聞標題，以上分析僅根據價格及動能數據，並無特定消息催化劑可供引述。",
+    "summary_en": "Today was a broad risk-on day: the NASDAQ rose 2.2% and the S&P 500 rose 1.6%, so investors were clearly willing to pay up for growth. Most of the top momentum names (MU, AMD, LITE, SNDK, DELL, SMCI) are semiconductor, memory and AI-hardware companies, which points to continued money flowing into the AI-infrastructure theme. Bitcoin-mining and crypto-linked stocks (MARA, WULF, CIFR, GLXY) also turned bullish together, a sign of strong speculative appetite. No headlines came with today's data, so this explanation is based only on index and sector price action.",
+    "summary_zh": "今日市場全面轉向風險偏好，納斯達克指數上漲2.2%，標普500指數上升1.6%，反映資金積極追捧成長股。動能榜前列幾乎都是半導體、記憶體及AI硬件股（如MU、AMD、LITE、SNDK、DELL、SMCI），顯示資金持續流入AI基建主題。比特幣礦企及加密貨幣相關股份（MARA、WULF、CIFR、GLXY）亦同步轉強，可見市場投機情緒高漲。由於今日未有新聞標題輸入，以上分析僅根據指數及板塊的價格走勢。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "EQPT",
       "conviction": "medium",
-      "reasoning": "Top score of 95 with all four momentum signals and the coolest RSI (59.5) among the 95-rated names, so it has room to run, and its low share price fits the roughly $446 of cash we have left."
+      "reasoning": "EQPT has the highest score (95) and every signal agrees: RSI of 58.4 is healthy with room to run, MACD has crossed above its signal line with a rising histogram, and the price is above its 20-day average, which makes it the best fit for the small cash left on a risk-on day."
     }
   ],
   "outcomes": {
