@@ -1,24 +1,17 @@
 {
   "date": "2026-11-11",
-  "briefing": "Stocks rose across the board today, with the NASDAQ up 1.8% and the S&P 500 up 1.4%, a clear risk-on day. The portfolio is up 47.9% with 7 positions and about $446 in cash, just under the usual $500 buy threshold. Because the day was risk-on and 3 slots are open, we made one small medium-conviction buy of NU, the top-scoring candidate, and left the existing positions to their automatic profit targets and stop-losses.",
+  "briefing": "Stocks rose broadly today: the NASDAQ gained 1.6% and the S&P 500 gained 1.3%. The portfolio is up 47.9% overall. Cash is $445.88, just under the $500 buy threshold, so we are holding all 7 positions and not forcing a small buy. Our stop-loss and profit-target rules stay in place to protect gains. NU (score 100, all five bullish signals) is first in line for the next buy once cash rises above $500.",
   "daily_lesson": {
-    "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier assets like growth and tech stocks, which pushes major indexes up together. Today both the NASDAQ and the S&P 500 rose more than 1%, and tech led the way, which is a typical risk-on pattern. On days like this, momentum strategies tend to put spare cash to work instead of holding it.",
-    "explanation_zh": "所謂「風險偏好」（Risk-On），是指投資者信心增強，資金流向科技股、成長股等較高風險資產，令主要指數同步走高。今日納指及標普500同告升逾1%，並由科技股領漲，屬典型的風險偏好行情。在這類交易日，動能策略一般會把閒置資金投入市場，而非持幣觀望。"
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag is the lost return from holding uninvested cash while the market goes up. We have about $446 in cash, which is only 3% of the portfolio, so the drag is small. Buying a tiny position on a moderate up day would add trading friction without adding real exposure, so it is reasonable to wait until there is enough cash for a proper position.",
+    "explanation_zh": "「現金拖累」是指市場上升時，閒置現金未能投入市場而損失的潛在回報。目前組合約有446美元現金，僅佔總值約3%，拖累有限。在溫和上升的交易日勉強建立小額倉位，只會增加交易成本，卻未能帶來實質的市場參與，因此待資金足夠建立合適倉位時才入市較為合理。"
   },
   "market_education": {
-    "summary_en": "Buyers were confident across the market today: the NASDAQ rose 1.8% and the S&P 500 rose 1.4%. Chip, storage and AI-infrastructure stocks led the move, with names like MU, SNDK, STX, LITE and DELL showing bullish MACD crossovers and trading above their 20-day averages. No specific news headlines were provided today, so this explanation is based only on price and momentum data, not on a particular news event.",
-    "summary_zh": "今日市場風險胃納明顯回升，納斯達克指數上揚1.8%，標普500指數亦升1.4%。半導體、儲存及AI基建板塊領漲，美光（MU）、SanDisk（SNDK）、希捷（STX）、Lumentum（LITE）及戴爾（DELL）等個股的MACD均出現黃金交叉，股價亦企穩20日均線之上。由於今日未有提供具體新聞標題，以上分析僅以價格及動能數據為依據，並非歸因於特定消息。",
+    "summary_en": "Both major indexes rose, with the tech-heavy NASDAQ (+1.6%) beating the S&P 500 (+1.3%), which shows investors were willing to take on risk. Semiconductor and AI-infrastructure stocks such as MU, AMD, ARM, ENTG and LITE led the screen, each trading above its 20-day average with bullish MACD crossovers. No news headlines were provided today, so this explanation is based only on price and technical data, not on specific news events.",
+    "summary_zh": "美股今日普遍走高，以科技股為主的納斯達克指數上漲1.6%，跑贏標普500指數的1.3%，反映市場風險胃納回升。半導體及AI基建股表現領先，美光（MU）、超微（AMD）、ARM、ENTG及LITE等個股均站穩20日均線之上，MACD亦呈黃金交叉。由於今日未有新聞頭條資料，以上分析僅根據價格走勢及技術指標，並非源自特定新聞事件。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "NU",
-      "conviction": "medium",
-      "reasoning": "NU has the top score of 95, with RSI 59.1 in the bullish zone, MACD above its signal line with a rising histogram, and price above SMA-20, and its low share price lets the agent use the remaining ~$446 in cash on a risk-on day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14786.44502401352,
     "cash": 445.87502813339233,
