@@ -1,17 +1,24 @@
 {
   "date": "2026-11-11",
-  "briefing": "Stocks rose broadly today: the NASDAQ gained 1.6% and the S&P 500 gained 1.3%. The portfolio is up 47.9% overall. Cash is $445.88, just under the $500 buy threshold, so we are holding all 7 positions and not forcing a small buy. Our stop-loss and profit-target rules stay in place to protect gains. NU (score 100, all five bullish signals) is first in line for the next buy once cash rises above $500.",
+  "briefing": "Stocks rose broadly today: the NASDAQ gained 1.6% and the S&P 500 gained 1.3%, a clear risk-on day though short of the +2% level that would justify aggressive buying. The portfolio is up 47.9%, so all 7 existing positions stay in place and their stop-losses and profit targets will handle exits. With the cash we have left, we're making one modest buy of NU, the only candidate where every momentum signal agrees, and skipping overbought names like AXGN and SONO.",
   "daily_lesson": {
-    "term": "Cash Drag",
-    "explanation_en": "Cash drag is the lost return from holding uninvested cash while the market goes up. We have about $446 in cash, which is only 3% of the portfolio, so the drag is small. Buying a tiny position on a moderate up day would add trading friction without adding real exposure, so it is reasonable to wait until there is enough cash for a proper position.",
-    "explanation_zh": "「現金拖累」是指市場上升時，閒置現金未能投入市場而損失的潛在回報。目前組合約有446美元現金，僅佔總值約3%，拖累有限。在溫和上升的交易日勉強建立小額倉位，只會增加交易成本，卻未能帶來實質的市場參與，因此待資金足夠建立合適倉位時才入市較為合理。"
+    "term": "Risk-On",
+    "explanation_en": "A risk-on day is when investors feel confident and shift money into growth assets like tech stocks, which pushes indexes like the NASDAQ up more than safer parts of the market. That doesn't mean you should buy everything. Even on a good day, the stronger move is to buy only stocks where several signals agree, such as momentum, trend and volume, rather than chasing ones that are already overbought.",
+    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心回升，資金流向科技股等增長型資產，令納斯達克等指數升幅跑贏較保守的板塊。不過，市況向好並不代表應該全面入市。即使在升市中，較穩健的做法是只揀選動能、趨勢及成交量多項訊號同時確認的股份，避免追入已經超買的個股。"
   },
   "market_education": {
-    "summary_en": "Both major indexes rose, with the tech-heavy NASDAQ (+1.6%) beating the S&P 500 (+1.3%), which shows investors were willing to take on risk. Semiconductor and AI-infrastructure stocks such as MU, AMD, ARM, ENTG and LITE led the screen, each trading above its 20-day average with bullish MACD crossovers. No news headlines were provided today, so this explanation is based only on price and technical data, not on specific news events.",
-    "summary_zh": "美股今日普遍走高，以科技股為主的納斯達克指數上漲1.6%，跑贏標普500指數的1.3%，反映市場風險胃納回升。半導體及AI基建股表現領先，美光（MU）、超微（AMD）、ARM、ENTG及LITE等個股均站穩20日均線之上，MACD亦呈黃金交叉。由於今日未有新聞頭條資料，以上分析僅根據價格走勢及技術指標，並非源自特定新聞事件。",
+    "summary_en": "Stocks rallied across the board today, with tech-heavy NASDAQ (+1.6%) leading the S&P 500 (+1.3%), which suggests investors were willing to take on more risk. Semiconductor and AI hardware names stood out on the screen, including MU, AMD, ENTG, FORM and ARM, and crypto-linked miners such as WULF and MARA also moved higher. No specific news headlines were provided today, so this reading is based only on price and volume data, not on any particular catalyst.",
+    "summary_zh": "今日美股全線造好，以科技股為主的納斯達克指數上揚1.6%，跑贏標普500指數的1.3%，反映市場風險胃納回升。半導體及AI硬件股表現突出，美光（MU）、AMD、ENTG、FORM及ARM等均見技術性轉強，WULF、MARA等加密貨幣礦企亦同步走高。由於今日未有提供具體新聞標題，以上分析僅根據股價及成交量走勢作出，並未歸因於個別消息。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "NU",
+      "conviction": "medium",
+      "reasoning": "NU is the only candidate showing all four confirmation signals together (MACD bullish crossover with a rising histogram, RSI 62.8 below overbought, price above its 20-day average, and a volume surge), and its low share price lets the remaining ~$446 cash fill one of the 3 open slots."
+    }
+  ],
   "outcomes": {
     "total_value": 14786.44502401352,
     "cash": 445.87502813339233,
