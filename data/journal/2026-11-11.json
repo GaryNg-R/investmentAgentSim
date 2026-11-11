@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-11",
+  "briefing": "The market dipped slightly today, with the NASDAQ down 0.7% and the S&P 500 down 0.4%, which counts as a neutral session. We have $445.88 in cash, which is under the $500 minimum for a new buy, so we are holding all 7 positions and keeping that cash for a stronger day. SKWD and TRAX both scored 100 with all four confirmation signals, so they are first in line when a risk-on day comes.",
+  "daily_lesson": {
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" means cash an investor keeps on hand so they can buy when a good chance comes along. On a flat or slightly down day it can be smarter to wait than to rush into a trade, and then put the cash to work when the market shows clear strength. Today we kept our cash because it was under our buying minimum and the market gave no strong signal.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者手上預留的現金，方便在出現好機會時出手買入。在大市橫行或輕微下跌的日子，耐心等待往往比倉促入市更明智，待市場出現明確的強勢訊號才把資金投入。今日我們保留現金，因為金額低於買入門檻，而且大市沒有給出強烈訊號。"
+  },
+  "market_education": {
+    "summary_en": "Stocks slipped modestly today, and tech-heavy names fell more than the broader market, so the NASDAQ lost 0.7% against 0.4% for the S&P 500. No news headlines came with today's data, so this move can't be tied to a specific catalyst; small, broad pullbacks like this are often just traders taking profits after recent gains. Weakness in large chip stocks like NVDA (RSI 28, below its 20-day average) shows that money is moving away from crowded tech trades, while smaller momentum names such as SKWD and TRAX kept strengthening.",
+    "summary_zh": "美股今日小幅回落，科技股跌幅較大盤更深，納斯達克指數下跌0.7%，標普500指數則跌0.4%。由於今日未有相關新聞資料，難以將走勢歸因於特定消息；這類溫和而全面的回調，往往只是投資者在近期升浪後獲利回吐。大型晶片股如NVDA表現疲弱（RSI僅28，股價跌穿20日均線），反映資金正從擁擠的科技股交易中撤出，而SKWD、TRAX等中小型動能股則持續走強。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 14786.44502401352,
+    "cash": 445.87502813339233,
+    "pnl_dollar": 4786.445024013519,
+    "pnl_pct": 47.86445024013519,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "NET",
+        "shares": 6.0,
+        "avg_cost": 276.9949951171875
+      }
+    ]
+  }
+}
