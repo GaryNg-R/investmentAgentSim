@@ -1,22 +1,22 @@
 {
   "date": "2026-11-11",
-  "briefing": "Markets rallied broadly today, with the NASDAQ up 1.9% and the S&P 500 up 1.2%, a clear risk-on session led by semiconductor, storage and AI-infrastructure names. Cash is limited at about $446, so we are making one small buy in NBIS, the only screened stock with full multi-signal confirmation including a volume surge, and holding all seven existing positions so their stop-losses and profit targets can work automatically.",
+  "briefing": "It was a strong risk-on day: the NASDAQ rose 2.1% and the S&P 500 rose 1.4%, led by semiconductors, AI hardware and crypto-linked names. We are keeping all seven current positions and putting the small remaining cash into EQPT, one of the few top-scoring candidates that is not already overbought. We are avoiding the many names with RSI above 70 so we don't chase stocks that have already run hard.",
   "daily_lesson": {
     "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets like tech and chip stocks, which pushes those prices up more than the overall market. Today's NASDAQ rising more than the S&P 500 is a classic example. Even on risk-on days, it is smart to buy only stocks that several signals agree on, rather than chasing everything that went up.",
-    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心充足，將資金轉投科技股、半導體股等較高風險、增長較快的資產，令這類股份升幅跑贏大市。今日納斯達克升幅高於標普500，正是典型例子。不過，即使市況偏向風險偏好，也應只揀選多項技術指標同時確認的股份，而非盲目追捧所有上升的股票。"
+    "explanation_en": "Risk-on is a market mood where investors feel confident and move money into riskier, faster-growing assets like tech stocks, which is why the NASDAQ beat the S&P 500 today. On days like this it can make sense to put idle cash to work, but you still want to avoid stocks that are already overbought, because they are more likely to pull back.",
+    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心充足，願意把資金轉投風險較高、增長較快的資產，例如科技股，這正是今日納指跑贏標普500的原因。在這類日子適度動用閒置現金入市是合理的，但仍應避開已經超買的股份，因為這些股份短期回調的機會較大。"
   },
   "market_education": {
-    "summary_en": "Stocks rose broadly today, with tech-heavy NASDAQ names leading the S&P 500, a typical sign that investors were willing to take on more risk. The gains were concentrated in chipmakers, memory and storage companies, and AI data-center infrastructure stocks, many of which pushed into or near overbought territory on their momentum indicators. No news headlines were provided in today's data, so this explanation is based only on price and sector behavior, not on specific reported catalysts.",
-    "summary_zh": "今日美股普遍造好，以科技股為主的納斯達克指數升幅跑贏標普500，反映投資者風險胃納明顯回升。升勢主要集中在半導體、記憶體及儲存板塊，以及AI數據中心基建相關股份，當中不少個股的動能指標已接近或進入超買區域。由於今日數據未附帶新聞標題，以上分析僅根據股價走勢及板塊表現，並非基於具體消息催化因素。",
+    "summary_en": "The market rallied broadly today, with the tech-heavy NASDAQ beating the S&P 500 because investors favored growth and AI-linked stocks. Strength in chips and AI infrastructure, including MU, AMD, ARM, MRVL, LITE and DELL, pushed many of them into overbought territory, and crypto miners such as MARA, WULF and CIFR moved up with them. No news headlines came with today's data, so this explanation is based only on price action and technical signals, not on any specific news event.",
+    "summary_zh": "今日大市全面造好，科技股比重較高的納斯達克升幅跑贏標普500，反映資金明顯偏好增長型及AI相關股份。晶片及AI基建板塊領漲，美光、AMD、ARM、Marvell、Lumentum及Dell等多隻股份的RSI已升至超買水平，加密貨幣礦企如MARA、WULF及CIFR亦同步走高。由於今日數據並未附帶新聞標題，以上分析僅根據股價走勢及技術指標，並非源自特定消息。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NBIS",
+      "ticker": "EQPT",
       "conviction": "medium",
-      "reasoning": "NBIS is the only candidate showing all four confirmation signals together (MACD crossover, rising histogram, price well above SMA-20, volume surge), but RSI sits right at 70, so conviction is medium rather than high."
+      "reasoning": "EQPT has a bullish MACD crossover, a rising histogram and is trading above its SMA-20, and its RSI of 57.3 is well short of overbought, so it has more room to run than most of today's extended names and is cheap enough to buy with the remaining $445 in cash."
     }
   ],
   "outcomes": {
