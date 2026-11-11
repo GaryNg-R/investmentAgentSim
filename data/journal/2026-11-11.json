@@ -1,14 +1,14 @@
 {
   "date": "2026-11-11",
-  "briefing": "The market dipped slightly today, with the NASDAQ down 0.7% and the S&P 500 down 0.4%, which counts as a neutral session. We have $445.88 in cash, which is under the $500 minimum for a new buy, so we are holding all 7 positions and keeping that cash for a stronger day. SKWD and TRAX both scored 100 with all four confirmation signals, so they are first in line when a risk-on day comes.",
+  "briefing": "Stocks rose today, with the NASDAQ up 1.2% and the S&P 500 up 0.8%, led again by semiconductor and AI hardware names. We hold 7 positions, the portfolio is up 47.9%, and cash is $445.88. That is below the $500 minimum for a new buy, so we are not opening anything new today. We are keeping all current positions and letting the automatic profit targets and stop-losses decide the exits. NBIS, AXTI and BE are the top candidates for when cash frees up.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" means cash an investor keeps on hand so they can buy when a good chance comes along. On a flat or slightly down day it can be smarter to wait than to rush into a trade, and then put the cash to work when the market shows clear strength. Today we kept our cash because it was under our buying minimum and the market gave no strong signal.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者手上預留的現金，方便在出現好機會時出手買入。在大市橫行或輕微下跌的日子，耐心等待往往比倉促入市更明智，待市場出現明確的強勢訊號才把資金投入。今日我們保留現金，因為金額低於買入門檻，而且大市沒有給出強烈訊號。"
+    "term": "Dry Powder (Cash Reserve)",
+    "explanation_en": "Dry powder is the cash an investor keeps on hand so they can buy when a good opportunity comes along. Today the market was strong and many stocks looked attractive, but our cash was just under the $500 minimum, so we could not make a sensible new purchase. It shows that being fully invested has a cost: when good setups appear, you need cash available or you have to sell something to make room.",
+    "explanation_zh": "「乾火藥」指投資者手上預留的現金，方便在好機會出現時買入。今日市況強勁，不少股份都有吸引力，但我們的現金略低於500美元的下限，未能合理地開新倉。這說明資金全數投入是有代價的：好機會出現時，手上要有現金，否則就要先賣出其他持倉騰出資金。"
   },
   "market_education": {
-    "summary_en": "Stocks slipped modestly today, and tech-heavy names fell more than the broader market, so the NASDAQ lost 0.7% against 0.4% for the S&P 500. No news headlines came with today's data, so this move can't be tied to a specific catalyst; small, broad pullbacks like this are often just traders taking profits after recent gains. Weakness in large chip stocks like NVDA (RSI 28, below its 20-day average) shows that money is moving away from crowded tech trades, while smaller momentum names such as SKWD and TRAX kept strengthening.",
-    "summary_zh": "美股今日小幅回落，科技股跌幅較大盤更深，納斯達克指數下跌0.7%，標普500指數則跌0.4%。由於今日未有相關新聞資料，難以將走勢歸因於特定消息；這類溫和而全面的回調，往往只是投資者在近期升浪後獲利回吐。大型晶片股如NVDA表現疲弱（RSI僅28，股價跌穿20日均線），反映資金正從擁擠的科技股交易中撤出，而SKWD、TRAX等中小型動能股則持續走強。",
+    "summary_en": "Stocks rose today, led by technology: the NASDAQ gained 1.2% and the S&P 500 gained 0.8%. Chipmakers and AI hardware companies such as MU, AMD, LITE, SNDK and MRVL did best. Many of them traded at unusually high volume and closed above their 20-day averages, a sign that big investors were buying rather than a brief intraday spike. No news headlines came with today's data, so this explanation rests only on price and volume, not on any specific news story.",
+    "summary_zh": "今日美股造好，由科技股領漲，納斯達克升1.2%，標普500升0.8%。晶片及AI硬件股表現最強，包括MU、AMD、LITE、SNDK及MRVL。多隻股份成交量明顯高於平日，並收於20日平均線之上，反映大型資金正在買入，而非盤中短暫炒高。由於今日數據未附新聞標題，以上分析只根據股價及成交量，並無引用特定新聞。",
     "sources": []
   },
   "trades": [],
