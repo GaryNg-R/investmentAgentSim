@@ -1,14 +1,14 @@
 {
   "date": "2026-11-12",
-  "briefing": "Markets ended almost flat today, with the NASDAQ up 0.1% and the S&P 500 up 0.2%, which gives no clear direction. We have $445.88 in cash, which is under the $500 minimum for a new buy, so we are not forcing a trade even with 3 open slots. All 7 positions stay as they are, and their automatic stop-losses and profit targets remain in place. We will put the cash to work on the next clearly strong up day.",
+  "briefing": "Markets were flat today: the NASDAQ was unchanged and the S&P 500 rose 0.2%, so there was no clear direction. Cash is $445.88, which is below the $500 minimum for a new buy, so I am holding all 7 positions. I am keeping the cash ready for a stronger up day, when the best-scoring candidates (DPC, HUBS, IRTC, IBP, LMND) can be bought with more confidence.",
   "daily_lesson": {
-    "term": "Sector Rotation",
-    "explanation_en": "Sector rotation means money moves from one group of stocks to another, even when the overall market hardly changes. Today some chip stocks rallied hard while others fell on heavy trading, so the index stayed flat but a lot was happening underneath. A flat market day does not always mean a quiet market.",
-    "explanation_zh": "板塊輪動是指資金在不同類別的股票之間流轉，即使大市指數變動不大，個別板塊亦可能大起大落。今日部分晶片股急升，另一些則在大成交下回落，指數雖然持平，但市場內部資金流動頻繁。換言之，大市「無升跌」並不代表市場平靜。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder is cash an investor keeps on hand so they can act quickly when a good opportunity comes up. On a flat, directionless day, holding a small cash reserve instead of forcing a trade lets you deploy it later, when market conditions clearly favor buying.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者預留的現金，以便在出現良好機會時能迅速出手。在市場橫行、方向不明的日子，與其勉強入市，不如保留少量現金，待市況明確轉強時再部署，往往更有效率。"
   },
   "market_education": {
-    "summary_en": "US stocks barely moved today, with the S&P 500 up 0.2% and the NASDAQ up 0.1%, which suggests investors were waiting rather than taking strong bets either way. Momentum was uneven underneath: chipmakers like AMD and AVGO stretched into overbought territory, while NVDA and SMCI weakened below their 20-day averages on heavy volume, a sign that money was moving between stocks rather than flowing into the market as a whole. No specific news headlines were available today, so this explanation is based only on price and technical signals.",
-    "summary_zh": "美股今日窄幅整固，標普500指數微升0.2%，納斯達克僅升0.1%，反映市場觀望氣氛濃厚，資金未有明確方向。板塊之間分化明顯：AMD及博通（AVGO）等晶片股升至超買區域，而輝達（NVDA）及超微電腦（SMCI）則在成交放大下跌穿20日均線，顯示資金在個股之間輪動，而非全面入市。由於今日未有相關新聞標題可供引用，以上分析僅根據價格走勢及技術指標。",
+    "summary_en": "Major indexes ended the day roughly flat, with the NASDAQ unchanged and the S&P 500 up a modest 0.2%. No news headlines were provided today, so no single event can be named as the cause of the quiet trading. Underneath the flat indexes, some mid-cap names such as HUBS, IRTC and IBP showed bullish momentum signals, while large semiconductor stocks like NVDA and SMCI stayed weak below their 20-day averages.",
+    "summary_zh": "主要指數今日大致持平，納斯達克指數收平，標普500指數僅微升0.2%。由於今日未有相關新聞資料，難以將市場的平靜走勢歸因於單一事件。指數表面平穩，但板塊之間走勢分化：HUBS、IRTC、IBP等中型股呈現偏強的動能訊號，而NVDA、SMCI等大型半導體股則持續疲弱，股價仍低於20日均線。",
     "sources": []
   },
   "trades": [],
