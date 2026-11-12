@@ -1,14 +1,14 @@
 {
   "date": "2026-11-12",
-  "briefing": "Markets were flat today: the NASDAQ fell 0.2% and the S&P 500 fell 0.1%. The portfolio has 3 open slots but only $445.88 in cash, which is below the $500 buy threshold, so I'm holding and saving that cash for a stronger risk-on day. Our 7 positions stay as they are, and the automatic +12% profit targets and -7% stop-losses will handle exits.",
+  "briefing": "Markets dipped slightly today. The NASDAQ fell 0.5% and the S&P 500 fell 0.3%, which counts as a neutral day rather than a clear move up or down. Cash is $445.88, below the $500 buy threshold, so I held all seven positions and added nothing new. Following past lessons, I'm keeping the cash and the three open slots for a clear risk-on day, when names like DPC, XE and AVGO (strong signals, RSI below 70) are the top picks.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder is cash you keep on hand so you can invest when a good opportunity shows up. Spending it on a flat, uncertain day is usually a mistake. Waiting for a strong market day to deploy it improves your odds that new buys start out in a favorable trend.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者手上預留、可隨時動用的現金，用以在出現理想機會時入市。在市況平淡、方向未明的日子勉強入貨，往往得不償失；耐心等待市場明顯轉強才出手，能提高新倉位一開始便順勢而行的機會。"
+    "term": "Cash Reserve (Dry Powder)",
+    "explanation_en": "Dry powder is cash an investor keeps on hand on purpose, so they can buy when a really good opportunity shows up. On a flat or uncertain day, holding that cash is often smarter than buying something just to stay fully invested. The skill is being patient on weak days and acting with confidence when the market clearly turns up.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者刻意保留的現金，以便在真正理想的機會出現時入市。在市況平淡或方向未明的日子，保留現金往往比為了「滿倉」而勉強買入更為明智。關鍵在於：弱勢時保持耐性，待市場明確轉強時果斷出擊。"
   },
   "market_education": {
-    "summary_en": "US stocks drifted slightly lower: the NASDAQ lost 0.2% and the S&P 500 lost 0.1%. That is a quiet, directionless day, the kind you get when investors wait for a clearer catalyst. No news headlines came with today's data, so I can't point to a specific cause. The screener still shows healthy momentum underneath, with many names (AMD, CLS, HUBS, LUNR) holding above their 20-day averages, while NVDA and some AI-infrastructure names (NBIS, SMCI) are lagging.",
-    "summary_zh": "美股今日窄幅偏軟，納指微跌0.2%，標普500指數跌0.1%，市場整體缺乏方向，投資者普遍觀望，等待更明確的催化因素。由於今日未有相關新聞資料，暫難歸因於特定消息。不過從技術面篩選可見，市場內部動能仍然穩健，AMD、CLS、HUBS及LUNR等多隻個股企穩於20日均線之上；相反，NVDA及部分AI基建股（如NBIS、SMCI）則表現落後，資金明顯在板塊之間輪動。",
+    "summary_en": "Major US indexes slipped modestly today, with the NASDAQ down 0.5% and the S&P 500 down 0.3%. That is a small move with no clear direction. No news headlines came with today's data, so I can't link the move to a specific event, and it looks more like normal day-to-day back-and-forth than a change in trend. Underneath the indexes the picture was mixed: some large chip stocks like NVDA traded weak on heavy volume, while names like AVGO, AMD and ANET stayed in strong uptrends.",
+    "summary_zh": "美股主要指數今日小幅回落，納斯達克指數跌0.5%，標普500指數跌0.3%，屬窄幅波動、方向未明的格局。今日數據未附新聞標題，因此無法將走勢歸因於特定事件，較似日常的上落整固，而非趨勢逆轉。指數表面平靜，板塊表現卻見分化：NVDA等大型晶片股放量走弱，而AVGO、AMD及ANET等則仍維持強勢上升軌道。",
     "sources": []
   },
   "trades": [],
