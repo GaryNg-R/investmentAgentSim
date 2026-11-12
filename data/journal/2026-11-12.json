@@ -1,14 +1,14 @@
 {
   "date": "2026-11-12",
-  "briefing": "Stocks slipped a little today, with both the NASDAQ and the S&P 500 down 0.3%, so the market had no clear direction. Cash is $445.88, which is below the $500 needed to open a new position, and today's signal does not justify selling a winner to raise money. We are holding all seven positions and waiting for a clear up day before using the remaining cash.",
+  "briefing": "Markets were flat today, with the NASDAQ and S&P 500 each up just 0.1%. We have $445.88 in cash, which is under the $500 minimum for a new buy, so we are holding all 7 positions and not forcing a trade on a quiet day. Several strong candidates (HUBS, SANM, CRWV) are on the watchlist if cash frees up or the market turns clearly positive.",
   "daily_lesson": {
-    "term": "Dry Powder (Cash Reserve)",
-    "explanation_en": "Dry powder is cash an investor holds on purpose so they can buy when a good opportunity comes along. On a flat, no-direction day it can be better to wait than to buy something just to use up the cash. Saving that money for a strong up day tends to give better entry points.",
-    "explanation_zh": "「乾火藥」是指投資者刻意保留的現金，以便在出現良機時入市。在大市方向不明、表現平淡的日子，與其為了用盡現金而勉強買入，不如耐心等待。把資金留待強勢上升的日子才出手，往往能取得較理想的入市價位。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder is cash an investor keeps on hand so they can buy when a good opportunity comes along. On flat, directionless days like today, holding that cash instead of forcing a trade is a deliberate choice. It lets you act on a strong risk-on day, when the odds are better.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者預留在手的現金，以便在出現理想機會時入市。在今日這類方向不明的橫行市況下，保留現金而非勉強交易，本身就是一種紀律。這樣可以在市場明確轉強、勝算較高時再出擊。"
   },
   "market_education": {
-    "summary_en": "US stocks drifted slightly lower today, with the NASDAQ and the S&P 500 each down about 0.3%. A move this small usually means investors are taking a breather, with some taking profits and others waiting for the next news. No news headlines were provided today, so we can't link the move to a specific event, and it is best read as normal daily ups and downs.",
-    "summary_zh": "美股今日窄幅偏軟，納斯達克指數與標普500指數同告下跌約0.3%。如此輕微的跌幅，通常反映投資者暫時觀望，部分資金獲利回吐，其餘則靜候下一個消息出現。由於今日未有相關新聞資料，難以將走勢歸因於個別事件，宜視為一般的日常波動。",
+    "summary_en": "US stocks were nearly unchanged today, with both the NASDAQ and the S&P 500 up about 0.1%, which suggests investors were waiting for a clear catalyst. No news headlines came with today's data, so we can't link the move to a specific event. Under the surface, chip and tech names like AMD, AVGO and SWKS kept running into overbought territory while NVDA and NBIS stayed weak, which points to money moving between stocks rather than in or out of the market as a whole.",
+    "summary_zh": "美股今日窄幅整固，納斯達克及標普500指數均僅微升約0.1%，反映市場觀望氣氛濃厚，資金靜待明確催化劑。由於今日數據未附帶新聞頭條，未能將走勢歸因於特定消息。不過板塊之間明顯輪動：AMD、博通及思佳訊等半導體股持續走強至超買區域，而輝達及NBIS則仍然偏弱，顯示資金只是在個股之間調倉，而非大舉入市或撤離。",
     "sources": []
   },
   "trades": [],
