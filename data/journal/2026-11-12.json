@@ -1,24 +1,17 @@
 {
   "date": "2026-11-12",
-  "briefing": "Stocks rose broadly today: the NASDAQ gained 1.6% and the S&P 500 gained 1.3%, so investors were in a risk-taking mood. The portfolio is up 47.9% overall, and all seven current positions stay in place, with stop-losses and profit targets running automatically. The only new trade is a small buy of NU, the one candidate where every momentum signal lined up, which uses the last bit of spare cash without forcing a larger position.",
+  "briefing": "Stocks slipped a little today, with both the NASDAQ and the S&P 500 down 0.3%, so the market had no clear direction. Cash is $445.88, which is below the $500 needed to open a new position, and today's signal does not justify selling a winner to raise money. We are holding all seven positions and waiting for a clear up day before using the remaining cash.",
   "daily_lesson": {
-    "term": "Risk-On",
-    "explanation_en": "A 'risk-on' day is when investors feel confident and move money into riskier assets like growth and tech stocks, so the major indexes rise together. Today both the NASDAQ and the S&P 500 rose more than 1%, a typical risk-on pattern. On days like this, momentum strategies usually work better, but it still pays to buy only stocks where several signals agree.",
-    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心充足，願意把資金投入增長股、科技股等較高風險的資產，令主要指數一同上升。今日納斯達克及標普500均升逾1%，是典型的風險偏好市況。在這類日子，動量策略通常較為有效，但仍應只買入多項訊號一致確認的股票。"
+    "term": "Dry Powder (Cash Reserve)",
+    "explanation_en": "Dry powder is cash an investor holds on purpose so they can buy when a good opportunity comes along. On a flat, no-direction day it can be better to wait than to buy something just to use up the cash. Saving that money for a strong up day tends to give better entry points.",
+    "explanation_zh": "「乾火藥」是指投資者刻意保留的現金，以便在出現良機時入市。在大市方向不明、表現平淡的日子，與其為了用盡現金而勉強買入，不如耐心等待。把資金留待強勢上升的日子才出手，往往能取得較理想的入市價位。"
   },
   "market_education": {
-    "summary_en": "US stocks rallied across the board today: the tech-heavy NASDAQ rose 1.6% and the S&P 500 rose 1.3%, which shows broad buying rather than a move in just a few names. Semiconductor and AI-hardware names such as ARM, MU, AMD, ENTG and FORM came up repeatedly in the screen with volume surges and bullish MACD crossovers, which suggests large investors were buying the chip sector. No news headlines came with today's data, so this explanation is based only on price and volume, not on a specific news event.",
-    "summary_zh": "美股今日全面走高，以科技股為主的納斯達克指數上漲1.6%，標普500指數上漲1.3%，顯示買盤廣泛，並非只集中在少數個股。在今日的篩選結果中，ARM、美光（MU）、超微（AMD）、ENTG及FORM等半導體及AI硬件股多次出現成交量急增及MACD黃金交叉，反映大型投資者正在買入晶片板塊。由於今日數據未附帶新聞標題，以上分析只根據價格及成交量，並非針對某一宗具體新聞事件。",
+    "summary_en": "US stocks drifted slightly lower today, with the NASDAQ and the S&P 500 each down about 0.3%. A move this small usually means investors are taking a breather, with some taking profits and others waiting for the next news. No news headlines were provided today, so we can't link the move to a specific event, and it is best read as normal daily ups and downs.",
+    "summary_zh": "美股今日窄幅偏軟，納斯達克指數與標普500指數同告下跌約0.3%。如此輕微的跌幅，通常反映投資者暫時觀望，部分資金獲利回吐，其餘則靜候下一個消息出現。由於今日未有相關新聞資料，難以將走勢歸因於個別事件，宜視為一般的日常波動。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "NU",
-      "conviction": "medium",
-      "reasoning": "NU is the only candidate that hits all four signals (MACD crossover, RSI 62.8, price above its 20-day average, and a volume surge), and its low share price lets the remaining $445 of cash go to work on a risk-on day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14786.44502401352,
     "cash": 445.87502813339233,
