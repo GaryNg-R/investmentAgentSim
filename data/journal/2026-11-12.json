@@ -1,14 +1,14 @@
 {
   "date": "2026-11-12",
-  "briefing": "Markets dipped slightly today, with the NASDAQ down 0.4% and the S&P 500 down 0.3%, so there was no clear direction. With only $445.88 in cash, below the $500 buy threshold, we are holding all 7 positions and keeping the cash for a stronger up day. DPC and IBP pass all four of our buy checks and are first in line when we next buy.",
+  "briefing": "Both the NASDAQ and the S&P 500 slipped 0.4% today, which counts as a neutral session. With only $445.88 in cash, below the $500 minimum for a new buy, I'm holding all 7 positions and keeping the 3 open slots for a clearer risk-on day. DPC and IBP had the strongest setups today, with every bullish signal lined up, so they're first on the list when cash and conditions allow.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder is cash an investor keeps on hand so they can buy when a good opportunity comes along. Spending small amounts of cash on a flat, directionless day can lock you into weaker trades. Waiting for a clear up day usually gets you a better entry.",
-    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者手上預留的現金，用來在好機會出現時入市。在方向不明的平淡日子勉強動用少量現金，容易買入質素較次的倉位；耐心等待市場明確轉強，入市時機通常更佳。"
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag is the return you give up by keeping part of your portfolio in cash instead of investments. It's usually small, and holding a little cash on a flat, directionless day is fine because it leaves money ready for a better opportunity. Here only about 3% of the portfolio is in cash, so the cost of waiting is very small.",
+    "explanation_zh": "「現金拖累」是指投資組合中部分資金以現金持有、未有投入市場，因而少賺的回報。這種影響通常不大，在市況窒悶、方向不明的日子保留少量現金屬合理做法，可留待更佳時機才出手。目前現金只佔組合約3%，觀望的機會成本相當有限。"
   },
   "market_education": {
-    "summary_en": "Stocks slipped slightly today, with the NASDAQ down 0.4% and the S&P 500 down 0.3%, a small move that does not change the overall trend. No news headlines were supplied for this session, so we cannot point to a specific cause, and moves this small are often just normal day-to-day trading. Under the surface, many small and mid-sized stocks such as DPC, IBP and HUBS still showed strong momentum on heavier trading, so buyers have not left the market.",
-    "summary_zh": "美股今日小幅回落，納斯達克指數跌0.4%，標普500指數跌0.3%，波幅輕微，未改變整體走勢。本節未有提供新聞資料，難以確定具體推手，而如此輕微的波動，往往只屬日常買賣的正常起伏。值得留意的是，DPC、IBP、HUBS等中小型股仍然量價齊升，動能強勁，顯示資金並未撤離市場。",
+    "summary_en": "Both major U.S. indexes eased 0.4% in a quiet session, which reads as mild profit-taking rather than a change in trend. No news headlines were provided today, so this move can't be tied to a specific catalyst. The screener still shows strength in some areas, such as building products (IBP), software (HUBS, NET peers) and energy names (CRGY, TALO), while large chip stocks like NVDA stayed weak.",
+    "summary_zh": "美股兩大指數今日同步回落0.4%，交投淡靜，走勢較似溫和獲利回吐，而非趨勢逆轉。由於今日未有提供新聞資料，暫難將是次波動歸因於特定消息。不過從篩選結果可見，部分板塊仍具動能，包括建材（IBP）、軟件（HUBS）及能源股（CRGY、TALO），而NVDA等大型晶片股則持續疲弱。",
     "sources": []
   },
   "trades": [],
