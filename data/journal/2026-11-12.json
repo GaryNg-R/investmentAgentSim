@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-12",
+  "briefing": "Stocks rose broadly today: the NASDAQ gained 1.6% and the S&P 500 gained 1.3%, so investors were in a risk-taking mood. The portfolio is up 47.9% overall, and all seven current positions stay in place, with stop-losses and profit targets running automatically. The only new trade is a small buy of NU, the one candidate where every momentum signal lined up, which uses the last bit of spare cash without forcing a larger position.",
+  "daily_lesson": {
+    "term": "Risk-On",
+    "explanation_en": "A 'risk-on' day is when investors feel confident and move money into riskier assets like growth and tech stocks, so the major indexes rise together. Today both the NASDAQ and the S&P 500 rose more than 1%, a typical risk-on pattern. On days like this, momentum strategies usually work better, but it still pays to buy only stocks where several signals agree.",
+    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心充足，願意把資金投入增長股、科技股等較高風險的資產，令主要指數一同上升。今日納斯達克及標普500均升逾1%，是典型的風險偏好市況。在這類日子，動量策略通常較為有效，但仍應只買入多項訊號一致確認的股票。"
+  },
+  "market_education": {
+    "summary_en": "US stocks rallied across the board today: the tech-heavy NASDAQ rose 1.6% and the S&P 500 rose 1.3%, which shows broad buying rather than a move in just a few names. Semiconductor and AI-hardware names such as ARM, MU, AMD, ENTG and FORM came up repeatedly in the screen with volume surges and bullish MACD crossovers, which suggests large investors were buying the chip sector. No news headlines came with today's data, so this explanation is based only on price and volume, not on a specific news event.",
+    "summary_zh": "美股今日全面走高，以科技股為主的納斯達克指數上漲1.6%，標普500指數上漲1.3%，顯示買盤廣泛，並非只集中在少數個股。在今日的篩選結果中，ARM、美光（MU）、超微（AMD）、ENTG及FORM等半導體及AI硬件股多次出現成交量急增及MACD黃金交叉，反映大型投資者正在買入晶片板塊。由於今日數據未附帶新聞標題，以上分析只根據價格及成交量，並非針對某一宗具體新聞事件。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "NU",
+      "conviction": "medium",
+      "reasoning": "NU is the only candidate that hits all four signals (MACD crossover, RSI 62.8, price above its 20-day average, and a volume surge), and its low share price lets the remaining $445 of cash go to work on a risk-on day."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14786.44502401352,
+    "cash": 445.87502813339233,
+    "pnl_dollar": 4786.445024013519,
+    "pnl_pct": 47.86445024013519,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "NET",
+        "shares": 6.0,
+        "avg_cost": 276.9949951171875
+      }
+    ]
+  }
+}
