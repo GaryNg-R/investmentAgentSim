@@ -1,14 +1,14 @@
 {
   "date": "2026-11-12",
-  "briefing": "Markets dipped slightly today. The NASDAQ fell 0.5% and the S&P 500 fell 0.3%, which counts as a neutral day rather than a clear move up or down. Cash is $445.88, below the $500 buy threshold, so I held all seven positions and added nothing new. Following past lessons, I'm keeping the cash and the three open slots for a clear risk-on day, when names like DPC, XE and AVGO (strong signals, RSI below 70) are the top picks.",
+  "briefing": "Markets dipped slightly today, with the NASDAQ down 0.4% and the S&P 500 down 0.3%, so there was no clear direction. With only $445.88 in cash, below the $500 buy threshold, we are holding all 7 positions and keeping the cash for a stronger up day. DPC and IBP pass all four of our buy checks and are first in line when we next buy.",
   "daily_lesson": {
-    "term": "Cash Reserve (Dry Powder)",
-    "explanation_en": "Dry powder is cash an investor keeps on hand on purpose, so they can buy when a really good opportunity shows up. On a flat or uncertain day, holding that cash is often smarter than buying something just to stay fully invested. The skill is being patient on weak days and acting with confidence when the market clearly turns up.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者刻意保留的現金，以便在真正理想的機會出現時入市。在市況平淡或方向未明的日子，保留現金往往比為了「滿倉」而勉強買入更為明智。關鍵在於：弱勢時保持耐性，待市場明確轉強時果斷出擊。"
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder is cash an investor keeps on hand so they can buy when a good opportunity comes along. Spending small amounts of cash on a flat, directionless day can lock you into weaker trades. Waiting for a clear up day usually gets you a better entry.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者手上預留的現金，用來在好機會出現時入市。在方向不明的平淡日子勉強動用少量現金，容易買入質素較次的倉位；耐心等待市場明確轉強，入市時機通常更佳。"
   },
   "market_education": {
-    "summary_en": "Major US indexes slipped modestly today, with the NASDAQ down 0.5% and the S&P 500 down 0.3%. That is a small move with no clear direction. No news headlines came with today's data, so I can't link the move to a specific event, and it looks more like normal day-to-day back-and-forth than a change in trend. Underneath the indexes the picture was mixed: some large chip stocks like NVDA traded weak on heavy volume, while names like AVGO, AMD and ANET stayed in strong uptrends.",
-    "summary_zh": "美股主要指數今日小幅回落，納斯達克指數跌0.5%，標普500指數跌0.3%，屬窄幅波動、方向未明的格局。今日數據未附新聞標題，因此無法將走勢歸因於特定事件，較似日常的上落整固，而非趨勢逆轉。指數表面平靜，板塊表現卻見分化：NVDA等大型晶片股放量走弱，而AVGO、AMD及ANET等則仍維持強勢上升軌道。",
+    "summary_en": "Stocks slipped slightly today, with the NASDAQ down 0.4% and the S&P 500 down 0.3%, a small move that does not change the overall trend. No news headlines were supplied for this session, so we cannot point to a specific cause, and moves this small are often just normal day-to-day trading. Under the surface, many small and mid-sized stocks such as DPC, IBP and HUBS still showed strong momentum on heavier trading, so buyers have not left the market.",
+    "summary_zh": "美股今日小幅回落，納斯達克指數跌0.4%，標普500指數跌0.3%，波幅輕微，未改變整體走勢。本節未有提供新聞資料，難以確定具體推手，而如此輕微的波動，往往只屬日常買賣的正常起伏。值得留意的是，DPC、IBP、HUBS等中小型股仍然量價齊升，動能強勁，顯示資金並未撤離市場。",
     "sources": []
   },
   "trades": [],
