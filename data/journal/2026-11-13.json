@@ -1,14 +1,14 @@
 {
   "date": "2026-11-13",
-  "briefing": "Stocks fell today. The NASDAQ dropped 1.3% and the S&P 500 lost 0.7%, so the market is in risk-off mode and the screener returned no buy candidates. We are holding all 7 positions with no changes. Our automatic stop-loss and profit-target rules stay in place, and the $445.88 in cash is below the $500 buy threshold anyway.",
+  "briefing": "Stocks slipped today: the NASDAQ fell 1.0% and the S&P 500 fell 0.5%, so the market reads as neutral to slightly soft. We have $445.88 in cash, which is below the $500 needed for a new buy. Following our past lessons, we're not forcing a trade on a quiet day. All 7 positions stay open, with their automatic stop-losses and profit targets still active. The top candidate, CGON, met all four buy signals today, including a jump in trading volume. We'll look at it again on the next strong up day.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "Risk-off is a market mood where investors pull money out of riskier assets like tech and growth stocks and move it somewhere safer. You can often spot it when the NASDAQ falls more than the broader S&P 500, as it did today. Many disciplined investors hold off on new purchases during risk-off days and wait for a clearer upswing before they buy.",
-    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者從科技股、成長股等高風險資產撤資，轉往較穩健的地方。一個常見的訊號是納斯達克的跌幅大於整體標普500，正如今日的走勢。不少紀律嚴謹的投資者會在避險日暫停建倉，等待更明確的升勢才出手。"
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" means cash an investor keeps on hand to use when a good opportunity comes along. Spending small leftover cash on a dull or falling day just to be fully invested can lead to weak entries. Waiting for a clear up day usually gives better results.",
+    "explanation_zh": "「銀彈」（Dry Powder）是指投資者預留的現金，用於把握更好的入市機會。在市況平淡或偏軟時，為了「全數投資」而勉強動用小額剩餘資金，往往會買在較差的位置；耐心等待明確的升市訊號再部署，通常回報更佳。"
   },
   "market_education": {
-    "summary_en": "US stocks fell broadly today, with the tech-heavy NASDAQ (-1.3%) dropping almost twice as much as the S&P 500 (-0.7%). That gap means investors were selling growth and technology names first, which usually happens when they move away from risk. No news headlines came with today's data, so we can't point to a specific cause; the price action alone shows a cautious, defensive mood.",
-    "summary_zh": "美股今日普遍走弱，以科技股為主的納斯達克指數下跌1.3%，跌幅接近標普500指數（-0.7%）的兩倍。成長股與科技股首當其衝，反映資金傾向避險、減持高估值板塊。由於今日數據並未附帶新聞標題，暫時無法確定具體觸發因素，但單從盤面走勢已可見市場情緒轉趨保守。",
+    "summary_en": "Major indexes fell modestly today. Tech-heavy stocks did worse, with the NASDAQ down 1.0% against 0.5% for the S&P 500. Several large AI and semiconductor names, such as NVDA, AMD, NBIS and IREN, are trading below their 20-day averages, which shows selling pressure in high-growth tech. No news feed was provided today, so we can't link the drop to a specific headline. The price action looks like routine profit-taking in tech rather than a broad sell-off.",
+    "summary_zh": "今日主要指數溫和回落，科技股表現較弱，納指跌1.0%，標普500跌0.5%。NVDA、AMD、NBIS、IREN等大型AI及半導體股份均跌穿20天平均線，顯示高增長科技板塊正受沽壓。由於今日未有新聞資料，暫時無法將跌幅歸因於特定消息；從走勢來看，較似科技股的例行獲利回吐，而非全面拋售。",
     "sources": []
   },
   "trades": [],
