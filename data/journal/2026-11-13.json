@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-13",
+  "briefing": "Stocks dipped slightly today, with both the NASDAQ and S&P 500 down about 0.4%, which counts as a quiet, neutral day rather than a real sell-off. We have only $446 in cash, which is below the $500 minimum for a new buy, so we are holding all 7 positions and saving our cash. DPC and IBP passed every momentum check today, so they are first in line when a strong up day gives us a reason to buy.",
+  "daily_lesson": {
+    "term": "Dry Powder",
+    "explanation_en": "Dry powder is cash an investor deliberately keeps on hand instead of investing right away, so it's ready when a better opportunity comes along. On a quiet, slightly down day with only a small amount of cash, it often makes more sense to wait than to force a trade just to be fully invested. When a strong up day arrives, that saved cash can go into the best-looking stocks.",
+    "explanation_zh": "「乾火藥」（Dry Powder）指投資者刻意保留、暫不投入市場的現金，以便在更理想的時機出手。在大市窄幅偏軟、手頭現金不多的日子，與其為了「滿倉」而勉強入市，不如耐心觀望。待市場出現明確的強勢上升訊號，便可將這筆資金投入評分最高的股份。"
+  },
+  "market_education": {
+    "summary_en": "Both the NASDAQ and S&P 500 fell about 0.4% today, a small and evenly spread decline that looks like routine day-to-day movement rather than a reaction to one big event. No news headlines were included in today's data, so we can't name a specific cause, and it would be misleading to guess at one. Underneath the flat headline numbers, many individual stocks still showed buying interest: names like DPC, IBP and HUBS had price gains backed by unusually heavy trading volume.",
+    "summary_zh": "納斯達克與標普500指數今日同步下跌約0.4%，跌幅溫和且分佈平均，屬於日常的正常波動，並非由單一重大消息引發的拋售。由於今日數據未附帶新聞標題，我們無法指出具體成因，貿然臆測反而容易誤導判斷。值得留意的是，指數表面持平，但個股層面仍見買盤承接，DPC、IBP及HUBS等股份錄得放量上漲。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 14786.44502401352,
+    "cash": 445.87502813339233,
+    "pnl_dollar": 4786.445024013519,
+    "pnl_pct": 47.86445024013519,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "NET",
+        "shares": 6.0,
+        "avg_cost": 276.9949951171875
+      }
+    ]
+  }
+}
