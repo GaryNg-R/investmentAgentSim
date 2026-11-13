@@ -1,14 +1,14 @@
 {
   "date": "2026-11-13",
-  "briefing": "Stocks slipped today: the NASDAQ fell 1.0% and the S&P 500 fell 0.5%, so the market reads as neutral to slightly soft. We have $445.88 in cash, which is below the $500 needed for a new buy. Following our past lessons, we're not forcing a trade on a quiet day. All 7 positions stay open, with their automatic stop-losses and profit targets still active. The top candidate, CGON, met all four buy signals today, including a jump in trading volume. We'll look at it again on the next strong up day.",
+  "briefing": "Stocks slipped modestly today: the NASDAQ fell 0.9% and the S&P 500 fell 0.5%, so the market is neutral, not risk-off. Cash is $445.88, below the $500 buy threshold, so we are not forcing a new position even though 3 slots are open. All 7 holdings stay in place and the automatic stop-loss and profit-target rules keep managing them. If a strong risk-on day comes, the best candidates to buy are CBRS, FOUR, VKTX and FRPT, which have clean momentum setups with RSI under 70.",
   "daily_lesson": {
     "term": "Dry Powder",
-    "explanation_en": "\"Dry powder\" means cash an investor keeps on hand to use when a good opportunity comes along. Spending small leftover cash on a dull or falling day just to be fully invested can lead to weak entries. Waiting for a clear up day usually gives better results.",
-    "explanation_zh": "「銀彈」（Dry Powder）是指投資者預留的現金，用於把握更好的入市機會。在市況平淡或偏軟時，為了「全數投資」而勉強動用小額剩餘資金，往往會買在較差的位置；耐心等待明確的升市訊號再部署，通常回報更佳。"
+    "explanation_en": "Dry powder is cash an investor keeps on hand to buy when a good opportunity appears. Today we held our small cash balance instead of spending it on a weak, slightly negative day. Waiting for a strong market day usually leads to better entry prices and more reliable trends.",
+    "explanation_zh": "「彈藥」（Dry Powder）是指投資者預留、準備在出現良好機會時入市的現金。今日大市輕微下跌、方向未明，我們選擇保留手上少量現金，而非勉強入市。耐心等待市場明顯轉強才出手，通常能取得較佳的入市價位，趨勢亦較可靠。"
   },
   "market_education": {
-    "summary_en": "Major indexes fell modestly today. Tech-heavy stocks did worse, with the NASDAQ down 1.0% against 0.5% for the S&P 500. Several large AI and semiconductor names, such as NVDA, AMD, NBIS and IREN, are trading below their 20-day averages, which shows selling pressure in high-growth tech. No news feed was provided today, so we can't link the drop to a specific headline. The price action looks like routine profit-taking in tech rather than a broad sell-off.",
-    "summary_zh": "今日主要指數溫和回落，科技股表現較弱，納指跌1.0%，標普500跌0.5%。NVDA、AMD、NBIS、IREN等大型AI及半導體股份均跌穿20天平均線，顯示高增長科技板塊正受沽壓。由於今日未有新聞資料，暫時無法將跌幅歸因於特定消息；從走勢來看，較似科技股的例行獲利回吐，而非全面拋售。",
+    "summary_en": "US stocks drifted lower today. The tech-heavy NASDAQ lost 0.9%, more than the S&P 500's 0.5% drop, which suggests investors trimmed growth and tech names. Weakness in big chip and AI-infrastructure stocks such as NVDA, AMD, NBIS and CRWV, which are all trading below their 20-day averages, fits a cautious rotation rather than a broad sell-off. No specific news headlines were provided for today, so this explanation rests on price and technical data only.",
+    "summary_zh": "美股今日窄幅回落，以科技股為主的納指跌0.9%，跌幅大於標普500指數的0.5%，反映資金減持增長及科技板塊。NVDA、AMD、NBIS及CRWV等大型晶片及AI基建股均跌穿20日均線，走勢較像審慎的板塊輪動，而非全面拋售。由於今日未有提供具體新聞標題，以上分析只根據價格及技術數據。",
     "sources": []
   },
   "trades": [],
