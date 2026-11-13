@@ -1,14 +1,14 @@
 {
   "date": "2026-11-13",
-  "briefing": "Markets fell slightly today: the NASDAQ dropped 0.8% and the S&P 500 dropped 0.4%, which is a neutral day rather than a clear sell-off. Cash is $445.88, which is below the $500 needed to buy, so I am holding all 7 positions and keeping the 3 open slots for a stronger risk-on day. Several candidates meet all four buy signals (MACD crossover, RSI under 70, price above SMA-20 and a volume surge): CBRS, TOP, NU and MP. They are the first ones to buy when cash and market conditions allow.",
+  "briefing": "The market had a risk-off day: the NASDAQ fell 1.6% and the S&P 500 fell 0.9%, so the screener returned no buy candidates. Cash is $445.88, which is under the $500 buy threshold, so we are holding all 7 positions and not opening anything new. The automatic -7% stop-losses and +12% profit targets stay in place to manage risk on what we already own.",
   "daily_lesson": {
-    "term": "Cash Drag",
-    "explanation_en": "Cash drag is the return you give up by holding cash instead of investing it. Holding a small amount of cash is a sensible choice when it's too little to buy a full position and the market has no clear direction, because a forced trade on a weak signal can cost more than idle cash. The aim is to keep cash drag small without letting it push you into low-quality trades.",
-    "explanation_zh": "「現金拖累」是指持有現金而非投資所放棄的潛在回報。當現金不足以建立完整倉位，加上市況方向未明時，保留少量現金是合理做法，因為在訊號薄弱時勉強入市，損失可能比閒置現金更大。關鍵在於盡量減低現金拖累，同時避免因此被迫作出低質素的交易。"
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors sell riskier assets like fast-growing tech stocks and move into safer ones, so the market falls. Experienced traders often stop opening new positions on these days, because buying into falling prices can mean catching a stock that keeps dropping. Holding cash and waiting for a better entry is a valid choice, not a missed opportunity.",
+    "explanation_zh": "「避險模式」（Risk-Off）是指投資者拋售高風險資產，例如高速增長的科技股，轉投較安全的資產，令大市下跌。在這種日子，有經驗的交易員往往暫停開新倉，因為在跌勢中買入，可能會接到一隻繼續下跌的股票。持有現金、耐心等待更好的入市時機，本身就是合理的選擇，並非錯失機會。"
   },
   "market_education": {
-    "summary_en": "Major US indexes slipped modestly today, with tech-heavy NASDAQ (-0.8%) underperforming the broader S&P 500 (-0.4%), suggesting mild profit-taking in growth and semiconductor names. Weakness was visible in AI and data-center stocks such as NVDA, NBIS and IREN, which traded below their 20-day averages on heavy volume, while select consumer, industrial and financial names kept their upward momentum. No specific news headlines were provided for today's session, so this explanation is based on price and volume behavior rather than cited reports.",
-    "summary_zh": "美股主要指數今日小幅回落，以科技股為主的納斯達克指數跌0.8%，表現遜於標普500指數的0.4%跌幅，反映資金在增長股及半導體板塊出現輕微獲利回吐。人工智能及數據中心相關股份如NVDA、NBIS及IREN明顯走弱，股價跌穿20日均線且成交放大；反觀部分消費、工業及金融股仍維持上升動能。由於今日未有提供具體新聞標題，以上分析主要根據價格及成交量走勢作出，並非引述個別報道。",
+    "summary_en": "US stocks fell broadly today. Tech-heavy names were hit hardest: the NASDAQ dropped 1.6%, compared with 0.9% for the wider S&P 500. When the NASDAQ falls more than the S&P 500, it usually means investors are pulling back from higher-risk growth stocks, but no news headlines came with today's data, so we can't name the specific cause.",
+    "summary_zh": "美股今日普遍回落，科技股跌幅最大，納斯達克指數下跌1.6%，標普500指數則下跌0.9%。納指跌幅大於標普500，通常反映資金正撤出風險較高的增長股。由於今日數據未附新聞標題，我們未能確認觸發這次下跌的具體原因。",
     "sources": []
   },
   "trades": [],
