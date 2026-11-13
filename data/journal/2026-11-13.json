@@ -1,14 +1,14 @@
 {
   "date": "2026-11-13",
-  "briefing": "Stocks slipped modestly today: the NASDAQ fell 0.9% and the S&P 500 fell 0.5%, so the market is neutral, not risk-off. Cash is $445.88, below the $500 buy threshold, so we are not forcing a new position even though 3 slots are open. All 7 holdings stay in place and the automatic stop-loss and profit-target rules keep managing them. If a strong risk-on day comes, the best candidates to buy are CBRS, FOUR, VKTX and FRPT, which have clean momentum setups with RSI under 70.",
+  "briefing": "Markets slipped modestly today, with the NASDAQ down 0.9% and the S&P 500 down 0.4%. That counts as a neutral session, not a clear risk-off signal. Cash is $445.88, just under the $500 minimum for a new buy, so I am holding all 7 positions and not forcing a trade. The automatic stop-losses and profit targets stay in place, and I will put cash to work on the next clear risk-on day.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder is cash an investor keeps on hand to buy when a good opportunity appears. Today we held our small cash balance instead of spending it on a weak, slightly negative day. Waiting for a strong market day usually leads to better entry prices and more reliable trends.",
-    "explanation_zh": "「彈藥」（Dry Powder）是指投資者預留、準備在出現良好機會時入市的現金。今日大市輕微下跌、方向未明，我們選擇保留手上少量現金，而非勉強入市。耐心等待市場明顯轉強才出手，通常能取得較佳的入市價位，趨勢亦較可靠。"
+    "term": "Dry Powder (Cash Reserve)",
+    "explanation_en": "Dry powder is cash an investor keeps on hand on purpose so they can buy when a good opportunity comes. Today the portfolio's cash was slightly below the minimum for a new trade and the market was only mildly down. Waiting for a strong up day before buying is a disciplined choice, not a missed chance.",
+    "explanation_zh": "「乾火藥」是指投資者刻意保留的現金，用來在好機會出現時買入。今日組合的現金略低於新開倉的最低門檻，市場亦只是輕微下跌。等待明確的強勢上升日才入市是有紀律的選擇，並非錯失機會。"
   },
   "market_education": {
-    "summary_en": "US stocks drifted lower today. The tech-heavy NASDAQ lost 0.9%, more than the S&P 500's 0.5% drop, which suggests investors trimmed growth and tech names. Weakness in big chip and AI-infrastructure stocks such as NVDA, AMD, NBIS and CRWV, which are all trading below their 20-day averages, fits a cautious rotation rather than a broad sell-off. No specific news headlines were provided for today, so this explanation rests on price and technical data only.",
-    "summary_zh": "美股今日窄幅回落，以科技股為主的納指跌0.9%，跌幅大於標普500指數的0.5%，反映資金減持增長及科技板塊。NVDA、AMD、NBIS及CRWV等大型晶片及AI基建股均跌穿20日均線，走勢較像審慎的板塊輪動，而非全面拋售。由於今日未有提供具體新聞標題，以上分析只根據價格及技術數據。",
+    "summary_en": "US stocks drifted lower today. The tech-heavy NASDAQ fell 0.9%, more than the 0.4% drop in the broader S&P 500, which suggests investors were trimming growth and tech names rather than leaving the market. Large chip and AI-infrastructure stocks such as NVDA, AMD and SMCI are trading below their 20-day averages, which points to continued rotation out of crowded semiconductor trades. No news headlines came with today's data, so this explanation rests only on price action, not on a specific catalyst.",
+    "summary_zh": "美股今日小幅走低，以科技股為主的納指跌0.9%，跌幅大於標普500的0.4%，反映資金主要是減持成長股與科技股，並非全面撤離市場。NVDA、AMD、SMCI等大型晶片及AI基建股價格仍低於20日均線，顯示資金持續從擁擠的半導體交易中輪動流出。今日數據並未附帶新聞標題，以上解讀僅根據價格走勢，並無特定消息催化。",
     "sources": []
   },
   "trades": [],
