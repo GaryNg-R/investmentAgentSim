@@ -1,14 +1,14 @@
 {
   "date": "2026-11-13",
-  "briefing": "Stocks dipped slightly today, with both the NASDAQ and S&P 500 down about 0.4%, which counts as a quiet, neutral day rather than a real sell-off. We have only $446 in cash, which is below the $500 minimum for a new buy, so we are holding all 7 positions and saving our cash. DPC and IBP passed every momentum check today, so they are first in line when a strong up day gives us a reason to buy.",
+  "briefing": "Markets fell slightly today: the NASDAQ dropped 0.8% and the S&P 500 dropped 0.4%, which is a neutral day rather than a clear sell-off. Cash is $445.88, which is below the $500 needed to buy, so I am holding all 7 positions and keeping the 3 open slots for a stronger risk-on day. Several candidates meet all four buy signals (MACD crossover, RSI under 70, price above SMA-20 and a volume surge): CBRS, TOP, NU and MP. They are the first ones to buy when cash and market conditions allow.",
   "daily_lesson": {
-    "term": "Dry Powder",
-    "explanation_en": "Dry powder is cash an investor deliberately keeps on hand instead of investing right away, so it's ready when a better opportunity comes along. On a quiet, slightly down day with only a small amount of cash, it often makes more sense to wait than to force a trade just to be fully invested. When a strong up day arrives, that saved cash can go into the best-looking stocks.",
-    "explanation_zh": "「乾火藥」（Dry Powder）指投資者刻意保留、暫不投入市場的現金，以便在更理想的時機出手。在大市窄幅偏軟、手頭現金不多的日子，與其為了「滿倉」而勉強入市，不如耐心觀望。待市場出現明確的強勢上升訊號，便可將這筆資金投入評分最高的股份。"
+    "term": "Cash Drag",
+    "explanation_en": "Cash drag is the return you give up by holding cash instead of investing it. Holding a small amount of cash is a sensible choice when it's too little to buy a full position and the market has no clear direction, because a forced trade on a weak signal can cost more than idle cash. The aim is to keep cash drag small without letting it push you into low-quality trades.",
+    "explanation_zh": "「現金拖累」是指持有現金而非投資所放棄的潛在回報。當現金不足以建立完整倉位，加上市況方向未明時，保留少量現金是合理做法，因為在訊號薄弱時勉強入市，損失可能比閒置現金更大。關鍵在於盡量減低現金拖累，同時避免因此被迫作出低質素的交易。"
   },
   "market_education": {
-    "summary_en": "Both the NASDAQ and S&P 500 fell about 0.4% today, a small and evenly spread decline that looks like routine day-to-day movement rather than a reaction to one big event. No news headlines were included in today's data, so we can't name a specific cause, and it would be misleading to guess at one. Underneath the flat headline numbers, many individual stocks still showed buying interest: names like DPC, IBP and HUBS had price gains backed by unusually heavy trading volume.",
-    "summary_zh": "納斯達克與標普500指數今日同步下跌約0.4%，跌幅溫和且分佈平均，屬於日常的正常波動，並非由單一重大消息引發的拋售。由於今日數據未附帶新聞標題，我們無法指出具體成因，貿然臆測反而容易誤導判斷。值得留意的是，指數表面持平，但個股層面仍見買盤承接，DPC、IBP及HUBS等股份錄得放量上漲。",
+    "summary_en": "Major US indexes slipped modestly today, with tech-heavy NASDAQ (-0.8%) underperforming the broader S&P 500 (-0.4%), suggesting mild profit-taking in growth and semiconductor names. Weakness was visible in AI and data-center stocks such as NVDA, NBIS and IREN, which traded below their 20-day averages on heavy volume, while select consumer, industrial and financial names kept their upward momentum. No specific news headlines were provided for today's session, so this explanation is based on price and volume behavior rather than cited reports.",
+    "summary_zh": "美股主要指數今日小幅回落，以科技股為主的納斯達克指數跌0.8%，表現遜於標普500指數的0.4%跌幅，反映資金在增長股及半導體板塊出現輕微獲利回吐。人工智能及數據中心相關股份如NVDA、NBIS及IREN明顯走弱，股價跌穿20日均線且成交放大；反觀部分消費、工業及金融股仍維持上升動能。由於今日未有提供具體新聞標題，以上分析主要根據價格及成交量走勢作出，並非引述個別報道。",
     "sources": []
   },
   "trades": [],
