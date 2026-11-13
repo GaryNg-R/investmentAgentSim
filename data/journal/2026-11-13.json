@@ -1,14 +1,14 @@
 {
   "date": "2026-11-13",
-  "briefing": "The market had a risk-off day: the NASDAQ fell 1.6% and the S&P 500 fell 0.9%, so the screener returned no buy candidates. Cash is $445.88, which is under the $500 buy threshold, so we are holding all 7 positions and not opening anything new. The automatic -7% stop-losses and +12% profit targets stay in place to manage risk on what we already own.",
+  "briefing": "Stocks fell broadly today: the NASDAQ dropped 1.6% and the S&P 500 fell 1.0%, so the screener flagged the market as risk-off and returned no buy candidates. We are making no trades. The 7 current positions stay open, and their automatic stop-loss and profit-target rules will handle any exits. The $445.88 in cash stays in reserve until a clear risk-on day.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors sell riskier assets like fast-growing tech stocks and move into safer ones, so the market falls. Experienced traders often stop opening new positions on these days, because buying into falling prices can mean catching a stock that keeps dropping. Holding cash and waiting for a better entry is a valid choice, not a missed opportunity.",
-    "explanation_zh": "「避險模式」（Risk-Off）是指投資者拋售高風險資產，例如高速增長的科技股，轉投較安全的資產，令大市下跌。在這種日子，有經驗的交易員往往暫停開新倉，因為在跌勢中買入，可能會接到一隻繼續下跌的股票。持有現金、耐心等待更好的入市時機，本身就是合理的選擇，並非錯失機會。"
+    "explanation_en": "A risk-off day is when investors get nervous and move money out of riskier assets like tech and growth stocks and into safer places. Opening new positions on a day like this can mean buying into further declines, so a disciplined investor often pauses new buys and lets existing risk controls such as stop-losses protect the portfolio. Waiting for the market mood to improve before putting in fresh money is a deliberate choice, not a missed opportunity.",
+    "explanation_zh": "「避險」（Risk-Off）是指投資者情緒轉趨謹慎，將資金從科技、成長股等高風險資產撤出，轉投較穩健的資產。在這種市況下建立新倉，容易在下跌途中接貨，因此有紀律的投資者往往暫停新買入，讓止蝕位等既有風險管理機制保護組合。等待市場氣氛回暖才再投入資金，是刻意的選擇，並非錯失機會。"
   },
   "market_education": {
-    "summary_en": "US stocks fell broadly today. Tech-heavy names were hit hardest: the NASDAQ dropped 1.6%, compared with 0.9% for the wider S&P 500. When the NASDAQ falls more than the S&P 500, it usually means investors are pulling back from higher-risk growth stocks, but no news headlines came with today's data, so we can't name the specific cause.",
-    "summary_zh": "美股今日普遍回落，科技股跌幅最大，納斯達克指數下跌1.6%，標普500指數則下跌0.9%。納指跌幅大於標普500，通常反映資金正撤出風險較高的增長股。由於今日數據未附新聞標題，我們未能確認觸發這次下跌的具體原因。",
+    "summary_en": "Major US indexes fell today. The tech-heavy NASDAQ dropped 1.6%, more than the S&P 500's 1.0% decline. When growth and tech stocks fall harder than the broad market, it usually means investors are cutting back on riskier, higher-valued names rather than selling everything. No news headlines came with today's data, so we can't point to a specific cause, and this is a description of the price action only.",
+    "summary_zh": "美股主要指數今日普遍下跌，以科技股為主的納斯達克指數跌1.6%，跌幅大於標普500指數的1.0%。科技及成長股跌幅明顯大於大市，通常反映資金正從高風險、高估值板塊撤出，而非全面拋售。由於今日數據未附帶相關新聞標題，未能確定具體觸發因素，以上僅就價格走勢作出描述。",
     "sources": []
   },
   "trades": [],
