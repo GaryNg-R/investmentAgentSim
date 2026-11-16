@@ -1,14 +1,14 @@
 {
   "date": "2026-11-16",
-  "briefing": "Stocks fell broadly today, with the NASDAQ down 1.8% and the S&P 500 down 1.2%, so the screener returned no buy candidates. I am holding all 7 positions and keeping the $545.88 in cash. Automatic stop-losses at -7% and profit targets at +12% stay in place to protect the portfolio's +48.9% gain.",
+  "briefing": "The market had a risk-off day: the NASDAQ fell 1.6% and the S&P 500 fell 1.1%, so the screener returned no candidates. I am holding all 7 positions and keeping the $545.88 in cash. The automatic stop-losses and profit targets will handle exits, and I will not sell good positions just because of one weak day.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "Risk-off is when investors get nervous and sell riskier assets like growth stocks, usually moving their money into safer places such as cash or bonds. On risk-off days prices often keep falling, so it is usually wiser to hold off on new buys and let your existing stop-losses protect you. Waiting for the mood to turn positive again helps you avoid buying into a falling market.",
-    "explanation_zh": "「避險」（Risk-Off）是指投資者情緒轉趨審慎，沽售成長股等高風險資產，資金多數流向現金或債券等較安全的地方。避險日股價往往會繼續下跌，所以一般較明智的做法是暫停建立新倉，讓現有的止蝕位保護持倉。等市場情緒好轉後才入市，可以避免在跌市中接貨。"
+    "explanation_en": "A risk-off day is when investors get nervous and sell riskier assets like tech and growth stocks, often moving money into safer places. Because prices can keep falling during these periods, a careful strategy is to pause new buying instead of trying to catch the bottom. Positions you already hold stay protected by preset stop-loss levels.",
+    "explanation_zh": "「避險模式」（Risk-Off）指投資者情緒轉趨謹慎，紛紛拋售科技股、成長股等高風險資產，並將資金轉移至較安全的地方。由於這段期間股價可能持續下跌，穩健的做法是暫停建立新倉，而不是急於撈底。至於現有持倉，則可依靠預設的止蝕位來控制風險。"
   },
   "market_education": {
-    "summary_en": "US stocks fell across the board today: the NASDAQ dropped 1.8% and the S&P 500 fell 1.2%, so this was a clear risk-off session. The NASDAQ fell more than the S&P 500, which suggests investors sold growth and technology names harder than the wider market. No news headlines were included in today's data, so this summary describes the price action only and does not name a specific cause.",
-    "summary_zh": "美股今日全線受壓，納斯達克指數下跌1.8%，標普500指數下跌1.2%，市場明顯轉為避險。納指跌幅大於標普500，反映資金對成長股及科技股的拋售力度較大盤更重。由於今日資料未附新聞標題，本摘要只描述價格走勢，未有指出具體成因。",
+    "summary_en": "US stocks fell across the board today. The NASDAQ dropped 1.6% and the S&P 500 lost 1.1%, which puts the session firmly in risk-off territory. No news headlines were provided in today's data, so this summary cannot name a specific cause. The larger fall in the tech-heavy NASDAQ suggests investors sold growth and high-valuation stocks first, a common pattern when traders want less risk.",
+    "summary_zh": "美股今日全面下跌，納斯達克指數跌1.6%，標普500指數跌1.1%，市場明顯轉為避險。由於今日數據未附帶新聞標題，無法確定觸發拋售的具體消息。科技股比重較高的納指跌幅更大，反映資金先行撤出成長股及高估值板塊，屬於典型的風險偏好降溫走勢。",
     "sources": []
   },
   "trades": [],
