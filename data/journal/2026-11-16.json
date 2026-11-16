@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-16",
+  "briefing": "Markets slipped modestly today, with the NASDAQ down 0.9% and the S&P 500 down 0.4%, a neutral, slightly soft session rather than a sell-off. Cash is $445.88, below the $500 buy threshold, so there are 3 open slots but not enough cash to fill one. Following past lessons, I'm holding all 7 positions and keeping the cash for a clear risk-on day; stop-losses and profit targets will handle exits automatically.",
+  "daily_lesson": {
+    "term": "Dry Powder",
+    "explanation_en": "\"Dry powder\" means cash an investor keeps on hand so they can act when a good opportunity appears. On a quiet or slightly down day, holding that cash instead of forcing a trade keeps you flexible. When the market turns strongly positive, you can use it to buy your best ideas.",
+    "explanation_zh": "「乾火藥」（Dry Powder）是指投資者手上保留的現金，以便在出現好機會時能即時出手。在市況平淡或輕微下跌的日子，保留現金而不勉強入市，可以保持操作上的彈性。待市場轉為明確偏強時，便可動用這筆資金買入最有把握的標的。"
+  },
+  "market_education": {
+    "summary_en": "Stocks drifted lower today, and technology-heavy names fell more than the broad market, with the NASDAQ down 0.9% against 0.4% for the S&P 500. No news headlines were supplied for this session, so a specific cause can't be named; the pattern looks like routine profit-taking in growth stocks rather than a reaction to a major event. Several large tech and AI-linked names such as NVDA, AMD and SMCI are trading below their 20-day averages, which supports the view that momentum in that group is cooling for now.",
+    "summary_zh": "今日美股窄幅回落，科技股跌幅較大盤明顯，納指下跌0.9%，標普500則跌0.4%。本次未有提供相關新聞標題，因此無法指出具體催化因素；從走勢判斷，較似是資金在成長股上的例行獲利回吐，而非對重大消息的反應。NVDA、AMD及SMCI等大型科技及AI概念股均已跌穿20日均線，顯示該板塊動能短期內有所降溫。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 14886.44502401352,
+    "cash": 545.8750281333923,
+    "pnl_dollar": 4886.445024013519,
+    "pnl_pct": 48.86445024013519,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "NET",
+        "shares": 6.0,
+        "avg_cost": 276.9949951171875
+      }
+    ]
+  }
+}
