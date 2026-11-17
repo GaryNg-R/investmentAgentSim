@@ -1,19 +1,26 @@
 {
-  "saved_at": "2026-11-17T14:00:32.370397+00:00",
-  "market_direction": "risk_off",
+  "saved_at": "2026-11-17T15:00:48.222621+00:00",
+  "market_direction": "neutral",
   "decisions": {
-    "trades": [],
-    "skip_new_buys": true,
-    "briefing": "Stocks fell broadly today. The NASDAQ dropped 2.5% and the S&P 500 fell 1.9%, so the screener returned no buy candidates. We are holding all 7 positions without changes and keeping $545.88 in cash, because the automatic stop-loss and profit-target rules still protect each position on a day like this.",
+    "trades": [
+      {
+        "action": "BUY",
+        "ticker": "AS",
+        "conviction": "medium",
+        "reasoning": "Amer Sports shows all four confirmation signals (MACD bullish crossover with rising histogram, RSI 64.2 still below overbought, price about 6% above its SMA-20, and a volume surge), and its low share price lets the roughly $546 in idle cash fill one of the three open slots."
+      }
+    ],
+    "skip_new_buys": false,
+    "briefing": "Markets were flat today, with the NASDAQ up 0.1% and the S&P 500 unchanged. The portfolio is up 48.9% overall, and all seven positions are held so the automatic stop-loss and profit-target rules can work. Cash is just over the $500 deployment threshold and three slots are open, so I'm making one medium-conviction buy in Amer Sports (AS), the cleanest fully confirmed setup that the available cash can buy. I'm skipping overbought names like SLS and ACM.",
     "market_education": {
-      "summary_en": "Today's input had no news headlines, so we can't name a specific cause for the drop, and nothing here should be read as one. The NASDAQ fell 2.5% and the S&P 500 fell 1.9%. Technology and growth stocks fell further than the broader market, which is common on risk-off days when investors cut their holdings in higher-volatility stocks first.",
-      "summary_zh": "\u4eca\u65e5\u7cfb\u7d71\u672a\u63d0\u4f9b\u4efb\u4f55\u65b0\u805e\u6a19\u984c\uff0c\u56e0\u6b64\u7121\u6cd5\u78ba\u5b9a\u5c0e\u81f4\u4e0b\u8dcc\u7684\u5177\u9ad4\u539f\u56e0\uff0c\u672c\u6bb5\u4ea6\u4e0d\u4f5c\u4efb\u4f55\u63a8\u6e2c\u3002\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc2.5%\uff0c\u6a19\u666e500\u6307\u6578\u4e0b\u8dcc1.9%\u3002\u79d1\u6280\u53ca\u589e\u9577\u80a1\u8dcc\u5e45\u5927\u65bc\u5927\u5e02\uff0c\u9019\u5728\u907f\u96aa\u65e5\u5b50\u76f8\u7576\u5e38\u898b\uff0c\u6295\u8cc7\u8005\u5f80\u5f80\u6703\u5148\u6e1b\u6301\u6ce2\u52d5\u8f03\u5927\u7684\u80a1\u4efd\u3002",
+      "summary_en": "US stocks barely moved today: the NASDAQ edged up 0.1% and the S&P 500 finished flat, a sign that buyers and sellers were evenly matched. No news headlines were supplied for this session, so this summary cannot point to one specific catalyst. Under the surface, momentum moved into individual mid-cap names such as Amer Sports, Elbit Systems and Griffon, while large-cap chip stocks like NVDA, AMD and INTC stayed weak and below their 20-day averages, which suggests money rotating between sectors rather than leaving the market.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u6574\u56fa\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u53470.1%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u6301\u5e73\u6536\u5e02\uff0c\u53cd\u6620\u597d\u6de1\u96d9\u65b9\u52e2\u5747\u529b\u6575\u3002\u7531\u65bc\u672c\u4ea4\u6613\u65e5\u672a\u6709\u63d0\u4f9b\u65b0\u805e\u6a19\u984c\uff0c\u672a\u80fd\u6b78\u56e0\u65bc\u55ae\u4e00\u6d88\u606f\u3002\u4e0d\u904e\u500b\u80a1\u5c64\u9762\u660e\u986f\u51fa\u73fe\u8cc7\u91d1\u8f2a\u52d5\uff1aAmer Sports\u3001Elbit Systems\u53caGriffon\u7b49\u4e2d\u578b\u80a1\u91cf\u50f9\u9f4a\u5347\uff0c\u800cNVDA\u3001AMD\u53caINTC\u7b49\u5927\u578b\u6676\u7247\u80a1\u4ecd\u8655\u65bc20\u65e5\u5747\u7dda\u4e0b\u65b9\uff0c\u8d70\u52e2\u504f\u5f31\uff0c\u986f\u793a\u8cc7\u91d1\u53ea\u662f\u5728\u677f\u584a\u4e4b\u9593\u6d41\u8f49\uff0c\u800c\u975e\u64a4\u96e2\u5e02\u5834\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-Off",
-      "explanation_en": "A risk-off day is when investors get nervous and sell riskier assets like growth and tech stocks, often moving money into safer places such as cash or bonds. On these days most stocks fall together, so buying new shares is riskier because the drop may continue. Many disciplined investors pause new purchases and let their existing safety rules, like stop-losses, protect them.",
-      "explanation_zh": "\u300c\u907f\u96aa\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u60c5\u7dd2\u8f49\u8da8\u8b39\u614e\uff0c\u7d1b\u7d1b\u62cb\u552e\u79d1\u6280\u80a1\u3001\u589e\u9577\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u628a\u8cc7\u91d1\u8f49\u5411\u73fe\u91d1\u6216\u50b5\u5238\u7b49\u8f03\u7a69\u5065\u7684\u8cc7\u7522\u3002\u5728\u9019\u985e\u4ea4\u6613\u65e5\uff0c\u5927\u90e8\u5206\u80a1\u4efd\u5f80\u5f80\u540c\u6b65\u4e0b\u8dcc\uff0c\u6b64\u6642\u958b\u65b0\u5009\u7684\u98a8\u96aa\u8f03\u9ad8\uff0c\u56e0\u70ba\u8dcc\u52e2\u53ef\u80fd\u5ef6\u7e8c\u3002\u4e0d\u5c11\u7d00\u5f8b\u56b4\u8b39\u7684\u6295\u8cc7\u8005\u6703\u66ab\u505c\u8cb7\u5165\uff0c\u4ea4\u7531\u6b62\u8755\u7b49\u65e2\u5b9a\u98a8\u96aa\u7ba1\u7406\u6a5f\u5236\u4fdd\u969c\u73fe\u6709\u6301\u5009\u3002"
+      "term": "Signal Confirmation",
+      "explanation_en": "Signal confirmation means waiting until several different indicators agree before you buy, instead of acting on just one. Today's buy needed a bullish MACD crossover, an RSI in the healthy 55\u201370 range, a price above the 20-day average, and above-normal trading volume all at once. When momentum, trend and volume line up together, the move is more likely to come from real buying interest than from random noise.",
+      "explanation_zh": "\u300c\u8a0a\u865f\u78ba\u8a8d\u300d\u662f\u6307\u7b49\u5230\u591a\u9805\u4e0d\u540c\u6307\u6a19\u540c\u6642\u767c\u51fa\u4e00\u81f4\u8a0a\u865f\u624d\u5165\u5e02\uff0c\u800c\u4e0d\u662f\u55ae\u6191\u4e00\u500b\u6307\u6a19\u4fbf\u4f5c\u51fa\u6c7a\u5b9a\u3002\u4eca\u65e5\u7684\u8cb7\u5165\u9700\u8981\u540c\u6642\u7b26\u5408\u56db\u9805\u689d\u4ef6\uff1aMACD\u51fa\u73fe\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc55\u81f370\u7684\u5065\u5eb7\u5340\u9593\u3001\u80a1\u50f9\u4f01\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u660e\u986f\u9ad8\u65bc\u5e73\u5747\u3002\u7576\u52d5\u80fd\u3001\u8da8\u52e2\u548c\u6210\u4ea4\u91cf\u4e09\u8005\u4e92\u76f8\u5370\u8b49\uff0c\u5347\u52e2\u8f03\u6709\u53ef\u80fd\u4f86\u81ea\u771f\u5be6\u8cb7\u76e4\uff0c\u800c\u975e\u77ed\u66ab\u7684\u5e02\u5834\u96dc\u8a0a\u3002"
     }
   }
 }
