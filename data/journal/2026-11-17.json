@@ -1,24 +1,17 @@
 {
   "date": "2026-11-17",
-  "briefing": "Markets were flat today, with the NASDAQ up 0.1% and the S&P 500 unchanged. The portfolio is up 48.9% overall, and all seven positions are held so the automatic stop-loss and profit-target rules can work. Cash is just over the $500 deployment threshold and three slots are open, so I'm making one medium-conviction buy in Amer Sports (AS), the cleanest fully confirmed setup that the available cash can buy. I'm skipping overbought names like SLS and ACM.",
+  "briefing": "Stocks fell across the board today, with the NASDAQ down 1.2% and the S&P 500 down 1.1%, so the screener returned no new candidates. I am holding all 7 positions and leaving the $545.88 in cash uninvested for now. The automatic stop-loss and profit-target rules stay in place to protect each position.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Signal confirmation means waiting until several different indicators agree before you buy, instead of acting on just one. Today's buy needed a bullish MACD crossover, an RSI in the healthy 55–70 range, a price above the 20-day average, and above-normal trading volume all at once. When momentum, trend and volume line up together, the move is more likely to come from real buying interest than from random noise.",
-    "explanation_zh": "「訊號確認」是指等到多項不同指標同時發出一致訊號才入市，而不是單憑一個指標便作出決定。今日的買入需要同時符合四項條件：MACD出現黃金交叉、RSI處於55至70的健康區間、股價企穩20日均線之上，以及成交量明顯高於平均。當動能、趨勢和成交量三者互相印證，升勢較有可能來自真實買盤，而非短暫的市場雜訊。"
+    "term": "Risk-Off",
+    "explanation_en": "A risk-off day is when investors get nervous and sell riskier assets such as growth stocks, moving their money into safer places. When this happens, broad indexes like the NASDAQ and S&P 500 tend to fall together. A disciplined investor often holds off on new buys during risk-off days and waits for calmer conditions instead of trying to catch a falling market.",
+    "explanation_zh": "「避險情緒」（Risk-Off）指投資者轉趨審慎，沽出增長股等較高風險資產，並將資金轉移至較穩健的避險工具。在這種環境下，納指及標普500等大市指數往往同步下跌。紀律嚴明的投資者通常會暫停建立新倉，待市況回穩後再部署，而非急於在跌市中接貨。"
   },
   "market_education": {
-    "summary_en": "US stocks barely moved today: the NASDAQ edged up 0.1% and the S&P 500 finished flat, a sign that buyers and sellers were evenly matched. No news headlines were supplied for this session, so this summary cannot point to one specific catalyst. Under the surface, momentum moved into individual mid-cap names such as Amer Sports, Elbit Systems and Griffon, while large-cap chip stocks like NVDA, AMD and INTC stayed weak and below their 20-day averages, which suggests money rotating between sectors rather than leaving the market.",
-    "summary_zh": "美股今日窄幅整固，納斯達克指數微升0.1%，標普500指數則持平收市，反映好淡雙方勢均力敵。由於本交易日未有提供新聞標題，未能歸因於單一消息。不過個股層面明顯出現資金輪動：Amer Sports、Elbit Systems及Griffon等中型股量價齊升，而NVDA、AMD及INTC等大型晶片股仍處於20日均線下方，走勢偏弱，顯示資金只是在板塊之間流轉，而非撤離市場。",
+    "summary_en": "Both major U.S. indexes fell more than 1% today. The NASDAQ (-1.2%) dropped slightly more than the S&P 500 (-1.1%), which suggests growth and tech stocks bore most of the selling. No news headlines were included in today's data, so a specific cause can't be named with confidence, but a broad drop across both indexes usually means investors are cutting risk overall rather than reacting to one company.",
+    "summary_zh": "美股今日全線回落，兩大指數跌幅均逾1%。納指跌1.2%，略多於標普500的1.1%，顯示沽壓主要集中於增長股及科技股。由於今日數據未附相關新聞標題，暫難確定下跌的具體原因；不過兩大指數同步走弱，通常反映投資者整體減低風險，而非針對個別企業消息作出反應。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "AS",
-      "conviction": "medium",
-      "reasoning": "Amer Sports shows all four confirmation signals (MACD bullish crossover with rising histogram, RSI 64.2 still below overbought, price about 6% above its SMA-20, and a volume surge), and its low share price lets the roughly $546 in idle cash fill one of the three open slots."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14886.44502401352,
     "cash": 545.8750281333923,
