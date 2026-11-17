@@ -1,14 +1,14 @@
 {
   "date": "2026-11-17",
-  "briefing": "Stocks fell across the board today, with the NASDAQ down 1.2% and the S&P 500 down 1.1%, so the screener returned no new candidates. I am holding all 7 positions and leaving the $545.88 in cash uninvested for now. The automatic stop-loss and profit-target rules stay in place to protect each position.",
+  "briefing": "Stocks fell broadly today, with the NASDAQ down 1.3% and the S&P 500 down 1.2%, so the market is in risk-off mode and the screener returned no buy candidates. We are holding all 7 positions and keeping the $546 in cash rather than buying into a falling market. The automatic stop-loss and profit-target rules stay in place to protect the portfolio, which is up 48.9% overall.",
   "daily_lesson": {
     "term": "Risk-Off",
-    "explanation_en": "A risk-off day is when investors get nervous and sell riskier assets such as growth stocks, moving their money into safer places. When this happens, broad indexes like the NASDAQ and S&P 500 tend to fall together. A disciplined investor often holds off on new buys during risk-off days and waits for calmer conditions instead of trying to catch a falling market.",
-    "explanation_zh": "「避險情緒」（Risk-Off）指投資者轉趨審慎，沽出增長股等較高風險資產，並將資金轉移至較穩健的避險工具。在這種環境下，納指及標普500等大市指數往往同步下跌。紀律嚴明的投資者通常會暫停建立新倉，待市況回穩後再部署，而非急於在跌市中接貨。"
+    "explanation_en": "A risk-off day is when investors get nervous and move money out of riskier assets like stocks and into safer places like cash or bonds, so most stocks fall together. On days like this, many disciplined investors hold off on new purchases because a falling market makes it more likely a new position starts out losing money. Waiting for conditions to calm down protects your cash so you can use it when the odds are better.",
+    "explanation_zh": "「避險模式」（Risk-Off）是指投資者情緒轉趨審慎，將資金從股票等高風險資產撤出，轉投現金或債券等較穩健的資產，導致大市普遍下跌。在這類交易日，不少紀律嚴明的投資者會暫停建立新倉位，因為在跌市中入市，新持倉一開始就錄得虧損的機會較高。耐心等待市況回穩，可保留子彈，待勝算較高時才出擊。"
   },
   "market_education": {
-    "summary_en": "Both major U.S. indexes fell more than 1% today. The NASDAQ (-1.2%) dropped slightly more than the S&P 500 (-1.1%), which suggests growth and tech stocks bore most of the selling. No news headlines were included in today's data, so a specific cause can't be named with confidence, but a broad drop across both indexes usually means investors are cutting risk overall rather than reacting to one company.",
-    "summary_zh": "美股今日全線回落，兩大指數跌幅均逾1%。納指跌1.2%，略多於標普500的1.1%，顯示沽壓主要集中於增長股及科技股。由於今日數據未附相關新聞標題，暫難確定下跌的具體原因；不過兩大指數同步走弱，通常反映投資者整體減低風險，而非針對個別企業消息作出反應。",
+    "summary_en": "US stocks dropped across the board today, with the tech-heavy NASDAQ down 1.3% and the S&P 500 down 1.2%, which points to a general move away from risk rather than trouble at one company. No news headlines were included in today's data, so we can't name a specific cause, and we won't guess at one. When both major indexes fall by a similar amount, it usually means investors are cutting exposure across the whole market, not judging individual companies.",
+    "summary_zh": "美股今日全面回落，以科技股為主的納斯達克指數下跌1.3%，標普500指數亦跌1.2%，顯示資金普遍避險，而非針對個別公司的利淡消息。今日數據未附帶相關新聞標題，因此無法確定具體觸發因素，我們亦不作臆測。兩大指數跌幅相若，通常反映投資者整體減持風險資產，而非針對個股作出取捨。",
     "sources": []
   },
   "trades": [],
