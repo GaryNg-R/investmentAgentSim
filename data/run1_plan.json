@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-11-18T16:00:47.079212+00:00",
+  "saved_at": "2026-11-18T17:00:48.162954+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NTSK",
+        "ticker": "TENB",
         "conviction": "medium",
-        "reasoning": "NTSK is the only candidate with all four confirmation signals: RSI 63.9 in the bullish range, a bullish MACD crossover, price above SMA-20, and a volume surge above 1.5x average. Conviction is medium because the overall market is neutral."
+        "reasoning": "TENB has every momentum signal on our list: RSI at 63.7, which is strong without being overbought, a bullish MACD crossover with a rising histogram, and a price about 7% above its 20-day average, so it is a sensible small use of the $546 in idle cash and one of 3 open slots."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "The market was mixed and quiet today: NASDAQ rose 0.3% and the S&P 500 slipped 0.2%. The portfolio is still up about 48.9% overall. Cash is just above the $500 threshold with 3 open slots, so I'm putting it into one small medium-conviction position in NTSK, the only candidate with every confirmation signal, volume surge included. The other seven positions stay as they are, and their stop-losses and profit targets keep working automatically.",
+    "briefing": "Markets were mostly flat to slightly lower today: the NASDAQ was nearly unchanged and the S&P 500 fell 0.4%, so there was no clear signal either way. We are keeping all seven current positions and letting the automatic stop-losses and profit targets do their work. We are putting our small cash balance into one cybersecurity stock, Tenable (TENB), at medium conviction rather than spreading thin across several names.",
     "market_education": {
-      "summary_en": "Today the indexes split: the tech-heavy NASDAQ edged up 0.3% while the broader S&P 500 dipped 0.2%. Moves this small usually mean no single big catalyst; money shifted between sectors instead of entering or leaving the market as a whole. There was no news feed in today's data, so I can't point to a specific headline. The candidate list does show steady strength in software and cybersecurity names such as CRWD, OKTA, QLYS and TENB, while some large chipmakers like NVDA and INTC traded below their 20-day averages.",
-      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u8868\u73fe\u5206\u6b67\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u53470.3%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u8f15\u5fae\u56de\u843d0.2%\u3002\u6307\u6578\u5347\u8dcc\u5e45\u5ea6\u5982\u6b64\u8f15\u5fae\uff0c\u901a\u5e38\u4ee3\u8868\u5e02\u5834\u7f3a\u4e4f\u55ae\u4e00\u91cd\u5927\u50ac\u5316\u56e0\u7d20\uff0c\u8cc7\u91d1\u4e3b\u8981\u5728\u4e0d\u540c\u677f\u584a\u4e4b\u9593\u8f2a\u52d5\uff0c\u800c\u975e\u6574\u9ad4\u6d41\u5165\u6216\u64a4\u96e2\u3002\u7531\u65bc\u4eca\u65e5\u6578\u64da\u672a\u9644\u65b0\u805e\u8cc7\u6599\uff0c\u7121\u6cd5\u5f15\u7528\u5177\u9ad4\u982d\u689d\uff1b\u4f46\u5f9e\u5019\u9078\u540d\u55ae\u53ef\u898b\uff0cCRWD\u3001OKTA\u3001QLYS\u3001TENB\u7b49\u8edf\u4ef6\u53ca\u7db2\u7d61\u5b89\u5168\u80a1\u8d70\u52e2\u6301\u7e8c\u7a69\u5065\uff0c\u800cNVDA\u3001INTC\u7b49\u5927\u578b\u6676\u7247\u80a1\u5247\u8dcc\u7a7f20\u65e5\u5747\u7dda\u3002",
+      "summary_en": "US stocks drifted slightly lower: the S&P 500 lost 0.4% and the NASDAQ was close to flat at -0.1%. Since big tech held up roughly level, the selling looks spread across the wider market rather than centred on growth stocks. No specific news headlines were provided today, so this reading is based only on how prices moved, and that pattern usually means investors are waiting for a clearer reason to buy or sell.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u7a84\u5e45\u504f\u8edf\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc0.4%\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u50c5\u8dcc0.1%\uff0c\u5927\u81f4\u6301\u5e73\u3002\u79d1\u6280\u80a1\u8868\u73fe\u76f8\u5c0d\u6297\u8dcc\uff0c\u986f\u793a\u6cbd\u58d3\u8f03\u5206\u6563\u65bc\u5927\u5e02\uff0c\u800c\u975e\u96c6\u4e2d\u65bc\u589e\u9577\u80a1\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u5177\u9ad4\u65b0\u805e\u6a19\u984c\u53ef\u4f9b\u53c3\u8003\uff0c\u4ee5\u4e0a\u5206\u6790\u7d14\u7cb9\u57fa\u65bc\u50f9\u683c\u8d70\u52e2\uff1b\u9019\u985e\u8d70\u52e2\u901a\u5e38\u4ee3\u8868\u8cc7\u91d1\u89c0\u671b\uff0c\u7b49\u5f85\u66f4\u660e\u78ba\u7684\u65b9\u5411\u8a0a\u865f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Volume Confirmation",
-      "explanation_en": "Volume confirmation means checking whether a price move comes with much more trading than usual. A rise on heavy volume suggests that many buyers, often large institutions, are behind it, so the move is more likely to last than one on light trading. Today NTSK was the only candidate that combined strong technical signals with a volume surge, which is why I picked it over other high-scoring stocks.",
-      "explanation_zh": "\u300c\u6210\u4ea4\u91cf\u78ba\u8a8d\u300d\u662f\u6307\u89c0\u5bdf\u80a1\u50f9\u8b8a\u52d5\u6642\uff0c\u6210\u4ea4\u91cf\u662f\u5426\u660e\u986f\u9ad8\u65bc\u5e73\u65e5\u6c34\u5e73\u3002\u82e5\u80a1\u50f9\u5728\u5927\u6210\u4ea4\u91cf\u4e0b\u4e0a\u5347\uff0c\u4ee3\u8868\u80cc\u5f8c\u6709\u5927\u91cf\u8cb7\u76e4\uff08\u5f80\u5f80\u4f86\u81ea\u6a5f\u69cb\u6295\u8cc7\u8005\uff09\u652f\u6301\uff0c\u5347\u52e2\u8f03\u5728\u6de1\u975c\u6210\u4ea4\u4e0b\u7684\u5347\u5e45\u66f4\u5177\u6301\u7e8c\u6027\u3002\u4eca\u65e5NTSK\u662f\u552f\u4e00\u540c\u6642\u5177\u5099\u5f37\u52c1\u6280\u8853\u8a0a\u865f\u53ca\u6210\u4ea4\u91cf\u6025\u589e\u7684\u5019\u9078\u80a1\uff0c\u56e0\u6b64\u7372\u512a\u5148\u9078\u5165\u6295\u8cc7\u7d44\u5408\u3002"
+      "term": "Cash Drag",
+      "explanation_en": "Cash drag is the return you give up when money sits uninvested instead of working in the market. Even on quiet days, an idle cash balance can make a portfolio fall behind its benchmark over time. That is why we put our leftover cash into one strong candidate today instead of letting it sit.",
+      "explanation_zh": "\u300c\u73fe\u91d1\u62d6\u7d2f\u300d\u662f\u6307\u8cc7\u91d1\u9592\u7f6e\u672a\u6295\u5165\u5e02\u5834\u6642\u6240\u932f\u5931\u7684\u6f5b\u5728\u56de\u5831\u3002\u5373\u4f7f\u5e02\u6cc1\u5e73\u6de1\uff0c\u9577\u671f\u6301\u6709\u904e\u591a\u9592\u7f6e\u73fe\u91d1\uff0c\u4ea6\u53ef\u80fd\u4ee4\u7d44\u5408\u8868\u73fe\u843d\u5f8c\u65bc\u57fa\u6e96\u6307\u6578\u3002\u56e0\u6b64\uff0c\u4eca\u65e5\u6211\u5011\u5c07\u9918\u4e0b\u73fe\u91d1\u6295\u653e\u65bc\u4e00\u96bb\u6280\u8853\u5f62\u614b\u5f37\u52c1\u7684\u80a1\u4efd\uff0c\u800c\u975e\u8b93\u8cc7\u91d1\u9592\u7f6e\u3002"
     }
   }
 }
