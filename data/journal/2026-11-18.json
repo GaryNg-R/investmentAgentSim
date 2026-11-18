@@ -1,22 +1,22 @@
 {
   "date": "2026-11-18",
-  "briefing": "Markets were mixed and quiet: NASDAQ rose 0.4% and the S&P 500 slipped 0.1%. Cybersecurity stocks dominated the screen today (CRWD, OKTA, QLYS, TENB, S, NTSK), so I put the small amount of spare cash into CrowdStrike, the sector leader, at medium conviction. I'm keeping all 7 existing positions and letting the automatic profit targets and stop-losses handle exits.",
+  "briefing": "Markets were flat today: the NASDAQ rose 0.7% and the S&P 500 ended unchanged. We have just over $500 in cash and three open slots, so we are making one medium-conviction buy in Take-Two (TTWO). Its momentum is healthy and it isn't overbought. All seven existing positions stay as they are, and their stop-losses and profit targets remain in place.",
   "daily_lesson": {
     "term": "Sector Rotation",
-    "explanation_en": "Sector rotation is when investors move money out of one industry and into another, so some groups of stocks rise while others fall even though the overall market barely moves. Today cybersecurity stocks rallied together while big chip stocks like NVIDIA stayed weak, which is a typical sign of rotation. Spotting it early can help you buy the leading stocks in the sector that is gaining money.",
-    "explanation_zh": "板塊輪動是指投資者將資金由某一行業撤出、轉投另一行業，因此即使大市指數變動不大，部分板塊仍會上升，另一些則下跌。今日網絡安全股集體造好，而NVIDIA等大型晶片股依然疲弱，正是典型的輪動訊號。及早察覺板塊輪動，有助投資者在資金流入的板塊中揀選龍頭股。"
+    "explanation_en": "Sector rotation is when investors move money from one part of the market into another, for example from defensive stocks into technology. Today the tech-heavy NASDAQ rose while the S&P 500 stayed flat, which suggests money was shifting toward tech rather than the whole market rising together. Watching these shifts helps you see which areas have momentum.",
+    "explanation_zh": "板塊輪動是指投資者把資金從市場某一板塊轉移到另一板塊，例如由防守型股票轉投科技股。今日以科技股為主的納斯達克指數上升，標普500指數卻持平，顯示資金正流向科技板塊，而非整體市場同步上揚。留意這類資金流向，有助投資者找出哪些板塊具備上升動能。"
   },
   "market_education": {
-    "summary_en": "Today's market was split: tech-heavy NASDAQ edged up 0.4% while the broader S&P 500 slipped 0.1%, which suggests investors were picking specific sectors rather than buying or selling everything at once. The clearest pattern in today's screen is strength in cybersecurity software, where CrowdStrike, Okta, Qualys, Tenable, SentinelOne and Netskope all showed bullish MACD crossovers and prices above their 20-day averages. Large chip names such as NVDA and INTC stayed weak below their 20-day averages, so money appears to be moving out of semiconductors and into security software, although no news headlines were provided today to confirm the cause.",
-    "summary_zh": "今日大市表現分化：以科技股為主的納斯達克指數微升0.4%，標普500指數則輕微下跌0.1%，反映資金傾向挑選個別板塊，而非全面買入或沽出。今日篩選結果中最明顯的趨勢是網絡安全軟件股走強，CrowdStrike、Okta、Qualys、Tenable、SentinelOne及Netskope均出現MACD黃金交叉，股價亦企穩20日均線之上。相反，NVDA及INTC等大型晶片股仍在20日均線下方徘徊，顯示資金或正由半導體板塊流向安全軟件股；不過今日未有相關新聞標題可供引證背後原因。",
+    "summary_en": "Tech stocks led modestly today, with the NASDAQ up 0.7% while the broader S&P 500 finished flat. That gap usually means investors are rotating toward growth and technology names rather than buying across the whole market. Many cybersecurity and software stocks such as CRWD, ZS and PANW are showing bullish momentum signals, which fits the NASDAQ's outperformance. No specific news headlines were provided today, so no outside sources are cited.",
+    "summary_zh": "今日科技股溫和領漲，納斯達克指數上升0.7%，標普500指數則收平。兩者表現分歧，通常反映資金正流向成長股及科技股，而非全面買入大市。CrowdStrike、Zscaler及Palo Alto等網絡安全及軟件股普遍出現看漲動能訊號，與納指跑贏大市的走勢一致。由於今日未有提供具體新聞標題，故未引用外部消息來源。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CRWD",
+      "ticker": "TTWO",
       "conviction": "medium",
-      "reasoning": "CRWD has three of the four buy signals (MACD crossover, histogram rising, price above SMA-20) with RSI at 63.3, which is below overbought, and it is the highest-quality name in today's broad cybersecurity rally, so it is a sensible use of the $545 in idle cash."
+      "reasoning": "TTWO shows RSI 58.1, a MACD bullish crossover, a rising histogram and price above its SMA-20, with room left before overbought, and it adds gaming exposure next to our existing tech holdings like NET."
     }
   ],
   "outcomes": {
