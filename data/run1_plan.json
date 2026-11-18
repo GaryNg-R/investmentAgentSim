@@ -1,26 +1,26 @@
 {
-  "saved_at": "2026-11-18T19:00:46.712981+00:00",
+  "saved_at": "2026-11-18T20:00:54.952731+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "TTWO",
+        "ticker": "SYRE",
         "conviction": "medium",
-        "reasoning": "TTWO shows RSI 58.1, a MACD bullish crossover, a rising histogram and price above its SMA-20, with room left before overbought, and it adds gaming exposure next to our existing tech holdings like NET."
+        "reasoning": "SYRE scores 95: RSI is 56.7, which is healthy and not overheated, MACD has crossed above its signal line with the histogram still rising, and the price is above its 20-day average. It also adds a biotech name to a portfolio that already leans heavily on tech and software."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets were flat today: the NASDAQ rose 0.7% and the S&P 500 ended unchanged. We have just over $500 in cash and three open slots, so we are making one medium-conviction buy in Take-Two (TTWO). Its momentum is healthy and it isn't overbought. All seven existing positions stay as they are, and their stop-losses and profit targets remain in place.",
+    "briefing": "The market was mixed today: the NASDAQ rose 0.3% while the S&P 500 fell 0.3%, so there was no clear direction. Cash is just above the $500 threshold and 3 slots are open, so I'm putting it into one medium-conviction buy, SYRE, which spreads risk beyond our tech-heavy holdings. All 7 current positions stay. NET is up about 9.7%, close to its +12% profit target, and its signals are still strong.",
     "market_education": {
-      "summary_en": "Tech stocks led modestly today, with the NASDAQ up 0.7% while the broader S&P 500 finished flat. That gap usually means investors are rotating toward growth and technology names rather than buying across the whole market. Many cybersecurity and software stocks such as CRWD, ZS and PANW are showing bullish momentum signals, which fits the NASDAQ's outperformance. No specific news headlines were provided today, so no outside sources are cited.",
-      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u80a1\u6eab\u548c\u9818\u6f32\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u53470.7%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u6536\u5e73\u3002\u5169\u8005\u8868\u73fe\u5206\u6b67\uff0c\u901a\u5e38\u53cd\u6620\u8cc7\u91d1\u6b63\u6d41\u5411\u6210\u9577\u80a1\u53ca\u79d1\u6280\u80a1\uff0c\u800c\u975e\u5168\u9762\u8cb7\u5165\u5927\u5e02\u3002CrowdStrike\u3001Zscaler\u53caPalo Alto\u7b49\u7db2\u7d61\u5b89\u5168\u53ca\u8edf\u4ef6\u80a1\u666e\u904d\u51fa\u73fe\u770b\u6f32\u52d5\u80fd\u8a0a\u865f\uff0c\u8207\u7d0d\u6307\u8dd1\u8d0f\u5927\u5e02\u7684\u8d70\u52e2\u4e00\u81f4\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\uff0c\u6545\u672a\u5f15\u7528\u5916\u90e8\u6d88\u606f\u4f86\u6e90\u3002",
+      "summary_en": "The NASDAQ rose 0.3% while the S&P 500 fell 0.3%, so growth and tech stocks outperformed the broader market. Many security and cloud software names on our screener, such as NET, CRWD, OKTA, ZS and QLYS, show bullish momentum signals, which points to money moving into tech rather than out of the market as a whole. No news headlines were provided today, so this explanation is based only on price and technical data.",
+      "summary_zh": "\u4eca\u65e5\u5927\u5e02\u65b9\u5411\u5206\u6b67\uff1a\u7d0d\u65af\u9054\u514b\u6307\u6578\u5fae\u53470.3%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u5fae\u8dcc0.3%\uff0c\u986f\u793a\u8cc7\u91d1\u504f\u5411\u6210\u9577\u80a1\u53ca\u79d1\u6280\u80a1\uff0c\u800c\u975e\u5168\u9762\u64a4\u96e2\u5e02\u5834\u3002\u5f9e\u7be9\u9078\u7d50\u679c\u53ef\u898b\uff0cNET\u3001CRWD\u3001OKTA\u3001ZS\u3001QLYS\u7b49\u7db2\u7d61\u5b89\u5168\u53ca\u96f2\u7aef\u8edf\u4ef6\u80a1\u666e\u904d\u5448\u73fe\u5f37\u52e2\u52d5\u80fd\u8a0a\u865f\uff0c\u53cd\u6620\u677f\u584a\u8f2a\u52d5\u8de1\u8c61\u660e\u986f\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u76f8\u95dc\u65b0\u805e\u8cc7\u6599\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u4f9d\u64da\u50f9\u683c\u53ca\u6280\u8853\u6307\u6a19\u6578\u64da\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Sector Rotation",
-      "explanation_en": "Sector rotation is when investors move money from one part of the market into another, for example from defensive stocks into technology. Today the tech-heavy NASDAQ rose while the S&P 500 stayed flat, which suggests money was shifting toward tech rather than the whole market rising together. Watching these shifts helps you see which areas have momentum.",
-      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u628a\u8cc7\u91d1\u5f9e\u5e02\u5834\u67d0\u4e00\u677f\u584a\u8f49\u79fb\u5230\u53e6\u4e00\u677f\u584a\uff0c\u4f8b\u5982\u7531\u9632\u5b88\u578b\u80a1\u7968\u8f49\u6295\u79d1\u6280\u80a1\u3002\u4eca\u65e5\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0a\u5347\uff0c\u6a19\u666e500\u6307\u6578\u537b\u6301\u5e73\uff0c\u986f\u793a\u8cc7\u91d1\u6b63\u6d41\u5411\u79d1\u6280\u677f\u584a\uff0c\u800c\u975e\u6574\u9ad4\u5e02\u5834\u540c\u6b65\u4e0a\u63da\u3002\u7559\u610f\u9019\u985e\u8cc7\u91d1\u6d41\u5411\uff0c\u6709\u52a9\u6295\u8cc7\u8005\u627e\u51fa\u54ea\u4e9b\u677f\u584a\u5177\u5099\u4e0a\u5347\u52d5\u80fd\u3002"
+      "term": "Index Divergence",
+      "explanation_en": "Index divergence is when major market indexes move in opposite directions on the same day, as the NASDAQ rose and the S&P 500 fell today. It usually means investors are moving money between sectors, for example into tech and out of other industries, rather than buying or selling the whole market. A good response is to be selective and favor stocks with strong signals of their own instead of betting on the market as a whole.",
+      "explanation_zh": "\u6307\u6578\u80cc\u99b3\u662f\u6307\u4e3b\u8981\u80a1\u5e02\u6307\u6578\u5728\u540c\u4e00\u65e5\u8d70\u52e2\u76f8\u53cd\uff0c\u4f8b\u5982\u4eca\u65e5\u7d0d\u6307\u4e0a\u5347\u800c\u6a19\u666e500\u4e0b\u8dcc\u3002\u9019\u901a\u5e38\u4ee3\u8868\u8cc7\u91d1\u6b63\u5728\u677f\u584a\u4e4b\u9593\u8f2a\u52d5\uff0c\u4f8b\u5982\u7531\u5176\u4ed6\u884c\u696d\u6d41\u5165\u79d1\u6280\u80a1\uff0c\u800c\u975e\u6574\u9ad4\u5e02\u5834\u540c\u6b65\u8cb7\u5165\u6216\u6cbd\u51fa\u3002\u9762\u5c0d\u9019\u7a2e\u5e02\u6cc1\uff0c\u6295\u8cc7\u8005\u5b9c\u7cbe\u6311\u7d30\u9078\u500b\u80a1\uff0c\u512a\u5148\u8003\u616e\u672c\u8eab\u6280\u8853\u8a0a\u865f\u5f37\u52c1\u7684\u80a1\u7968\uff0c\u800c\u975e\u62bc\u6ce8\u5927\u5e02\u6574\u9ad4\u65b9\u5411\u3002"
     }
   }
 }

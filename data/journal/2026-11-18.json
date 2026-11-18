@@ -1,22 +1,22 @@
 {
   "date": "2026-11-18",
-  "briefing": "Markets were flat today: the NASDAQ rose 0.7% and the S&P 500 ended unchanged. We have just over $500 in cash and three open slots, so we are making one medium-conviction buy in Take-Two (TTWO). Its momentum is healthy and it isn't overbought. All seven existing positions stay as they are, and their stop-losses and profit targets remain in place.",
+  "briefing": "The market was mixed today: the NASDAQ rose 0.3% while the S&P 500 fell 0.3%, so there was no clear direction. Cash is just above the $500 threshold and 3 slots are open, so I'm putting it into one medium-conviction buy, SYRE, which spreads risk beyond our tech-heavy holdings. All 7 current positions stay. NET is up about 9.7%, close to its +12% profit target, and its signals are still strong.",
   "daily_lesson": {
-    "term": "Sector Rotation",
-    "explanation_en": "Sector rotation is when investors move money from one part of the market into another, for example from defensive stocks into technology. Today the tech-heavy NASDAQ rose while the S&P 500 stayed flat, which suggests money was shifting toward tech rather than the whole market rising together. Watching these shifts helps you see which areas have momentum.",
-    "explanation_zh": "板塊輪動是指投資者把資金從市場某一板塊轉移到另一板塊，例如由防守型股票轉投科技股。今日以科技股為主的納斯達克指數上升，標普500指數卻持平，顯示資金正流向科技板塊，而非整體市場同步上揚。留意這類資金流向，有助投資者找出哪些板塊具備上升動能。"
+    "term": "Index Divergence",
+    "explanation_en": "Index divergence is when major market indexes move in opposite directions on the same day, as the NASDAQ rose and the S&P 500 fell today. It usually means investors are moving money between sectors, for example into tech and out of other industries, rather than buying or selling the whole market. A good response is to be selective and favor stocks with strong signals of their own instead of betting on the market as a whole.",
+    "explanation_zh": "指數背馳是指主要股市指數在同一日走勢相反，例如今日納指上升而標普500下跌。這通常代表資金正在板塊之間輪動，例如由其他行業流入科技股，而非整體市場同步買入或沽出。面對這種市況，投資者宜精挑細選個股，優先考慮本身技術訊號強勁的股票，而非押注大市整體方向。"
   },
   "market_education": {
-    "summary_en": "Tech stocks led modestly today, with the NASDAQ up 0.7% while the broader S&P 500 finished flat. That gap usually means investors are rotating toward growth and technology names rather than buying across the whole market. Many cybersecurity and software stocks such as CRWD, ZS and PANW are showing bullish momentum signals, which fits the NASDAQ's outperformance. No specific news headlines were provided today, so no outside sources are cited.",
-    "summary_zh": "今日科技股溫和領漲，納斯達克指數上升0.7%，標普500指數則收平。兩者表現分歧，通常反映資金正流向成長股及科技股，而非全面買入大市。CrowdStrike、Zscaler及Palo Alto等網絡安全及軟件股普遍出現看漲動能訊號，與納指跑贏大市的走勢一致。由於今日未有提供具體新聞標題，故未引用外部消息來源。",
+    "summary_en": "The NASDAQ rose 0.3% while the S&P 500 fell 0.3%, so growth and tech stocks outperformed the broader market. Many security and cloud software names on our screener, such as NET, CRWD, OKTA, ZS and QLYS, show bullish momentum signals, which points to money moving into tech rather than out of the market as a whole. No news headlines were provided today, so this explanation is based only on price and technical data.",
+    "summary_zh": "今日大市方向分歧：納斯達克指數微升0.3%，標普500指數則微跌0.3%，顯示資金偏向成長股及科技股，而非全面撤離市場。從篩選結果可見，NET、CRWD、OKTA、ZS、QLYS等網絡安全及雲端軟件股普遍呈現強勢動能訊號，反映板塊輪動跡象明顯。由於今日未有相關新聞資料，以上分析僅依據價格及技術指標數據。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TTWO",
+      "ticker": "SYRE",
       "conviction": "medium",
-      "reasoning": "TTWO shows RSI 58.1, a MACD bullish crossover, a rising histogram and price above its SMA-20, with room left before overbought, and it adds gaming exposure next to our existing tech holdings like NET."
+      "reasoning": "SYRE scores 95: RSI is 56.7, which is healthy and not overheated, MACD has crossed above its signal line with the histogram still rising, and the price is above its 20-day average. It also adds a biotech name to a portfolio that already leans heavily on tech and software."
     }
   ],
   "outcomes": {
