@@ -1,22 +1,22 @@
 {
   "date": "2026-11-18",
-  "briefing": "Markets were mostly flat to slightly lower today: the NASDAQ was nearly unchanged and the S&P 500 fell 0.4%, so there was no clear signal either way. We are keeping all seven current positions and letting the automatic stop-losses and profit targets do their work. We are putting our small cash balance into one cybersecurity stock, Tenable (TENB), at medium conviction rather than spreading thin across several names.",
+  "briefing": "Markets were mixed and quiet: NASDAQ rose 0.4% and the S&P 500 slipped 0.1%. Cybersecurity stocks dominated the screen today (CRWD, OKTA, QLYS, TENB, S, NTSK), so I put the small amount of spare cash into CrowdStrike, the sector leader, at medium conviction. I'm keeping all 7 existing positions and letting the automatic profit targets and stop-losses handle exits.",
   "daily_lesson": {
-    "term": "Cash Drag",
-    "explanation_en": "Cash drag is the return you give up when money sits uninvested instead of working in the market. Even on quiet days, an idle cash balance can make a portfolio fall behind its benchmark over time. That is why we put our leftover cash into one strong candidate today instead of letting it sit.",
-    "explanation_zh": "「現金拖累」是指資金閒置未投入市場時所錯失的潛在回報。即使市況平淡，長期持有過多閒置現金，亦可能令組合表現落後於基準指數。因此，今日我們將餘下現金投放於一隻技術形態強勁的股份，而非讓資金閒置。"
+    "term": "Sector Rotation",
+    "explanation_en": "Sector rotation is when investors move money out of one industry and into another, so some groups of stocks rise while others fall even though the overall market barely moves. Today cybersecurity stocks rallied together while big chip stocks like NVIDIA stayed weak, which is a typical sign of rotation. Spotting it early can help you buy the leading stocks in the sector that is gaining money.",
+    "explanation_zh": "板塊輪動是指投資者將資金由某一行業撤出、轉投另一行業，因此即使大市指數變動不大，部分板塊仍會上升，另一些則下跌。今日網絡安全股集體造好，而NVIDIA等大型晶片股依然疲弱，正是典型的輪動訊號。及早察覺板塊輪動，有助投資者在資金流入的板塊中揀選龍頭股。"
   },
   "market_education": {
-    "summary_en": "US stocks drifted slightly lower: the S&P 500 lost 0.4% and the NASDAQ was close to flat at -0.1%. Since big tech held up roughly level, the selling looks spread across the wider market rather than centred on growth stocks. No specific news headlines were provided today, so this reading is based only on how prices moved, and that pattern usually means investors are waiting for a clearer reason to buy or sell.",
-    "summary_zh": "美股今日窄幅偏軟，標普500指數微跌0.4%，納斯達克指數僅跌0.1%，大致持平。科技股表現相對抗跌，顯示沽壓較分散於大市，而非集中於增長股。由於今日未有具體新聞標題可供參考，以上分析純粹基於價格走勢；這類走勢通常代表資金觀望，等待更明確的方向訊號。",
+    "summary_en": "Today's market was split: tech-heavy NASDAQ edged up 0.4% while the broader S&P 500 slipped 0.1%, which suggests investors were picking specific sectors rather than buying or selling everything at once. The clearest pattern in today's screen is strength in cybersecurity software, where CrowdStrike, Okta, Qualys, Tenable, SentinelOne and Netskope all showed bullish MACD crossovers and prices above their 20-day averages. Large chip names such as NVDA and INTC stayed weak below their 20-day averages, so money appears to be moving out of semiconductors and into security software, although no news headlines were provided today to confirm the cause.",
+    "summary_zh": "今日大市表現分化：以科技股為主的納斯達克指數微升0.4%，標普500指數則輕微下跌0.1%，反映資金傾向挑選個別板塊，而非全面買入或沽出。今日篩選結果中最明顯的趨勢是網絡安全軟件股走強，CrowdStrike、Okta、Qualys、Tenable、SentinelOne及Netskope均出現MACD黃金交叉，股價亦企穩20日均線之上。相反，NVDA及INTC等大型晶片股仍在20日均線下方徘徊，顯示資金或正由半導體板塊流向安全軟件股；不過今日未有相關新聞標題可供引證背後原因。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TENB",
+      "ticker": "CRWD",
       "conviction": "medium",
-      "reasoning": "TENB has every momentum signal on our list: RSI at 63.7, which is strong without being overbought, a bullish MACD crossover with a rising histogram, and a price about 7% above its 20-day average, so it is a sensible small use of the $546 in idle cash and one of 3 open slots."
+      "reasoning": "CRWD has three of the four buy signals (MACD crossover, histogram rising, price above SMA-20) with RSI at 63.3, which is below overbought, and it is the highest-quality name in today's broad cybersecurity rally, so it is a sensible use of the $545 in idle cash."
     }
   ],
   "outcomes": {
