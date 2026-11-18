@@ -1,22 +1,22 @@
 {
   "date": "2026-11-18",
-  "briefing": "The market was mixed today: the NASDAQ rose 0.3% while the S&P 500 fell 0.3%, so there was no clear direction. Cash is just above the $500 threshold and 3 slots are open, so I'm putting it into one medium-conviction buy, SYRE, which spreads risk beyond our tech-heavy holdings. All 7 current positions stay. NET is up about 9.7%, close to its +12% profit target, and its signals are still strong.",
+  "briefing": "Markets were mixed and mostly flat: the NASDAQ rose 0.4% and the S&P 500 slipped 0.2%. The portfolio is up 48.9% overall, so we're keeping all seven existing positions and letting the automatic stop-loss and profit-target rules manage them. We have three open slots and just over $500 in cash, so we're making one measured buy in Rubrik (RBRK). It's the top-scoring candidate with the most balanced setup, and we're keeping the rest of our firepower for a clearer risk-on day.",
   "daily_lesson": {
-    "term": "Index Divergence",
-    "explanation_en": "Index divergence is when major market indexes move in opposite directions on the same day, as the NASDAQ rose and the S&P 500 fell today. It usually means investors are moving money between sectors, for example into tech and out of other industries, rather than buying or selling the whole market. A good response is to be selective and favor stocks with strong signals of their own instead of betting on the market as a whole.",
-    "explanation_zh": "指數背馳是指主要股市指數在同一日走勢相反，例如今日納指上升而標普500下跌。這通常代表資金正在板塊之間輪動，例如由其他行業流入科技股，而非整體市場同步買入或沽出。面對這種市況，投資者宜精挑細選個股，優先考慮本身技術訊號強勁的股票，而非押注大市整體方向。"
+    "term": "Sector Rotation",
+    "explanation_en": "Sector rotation is when investors move money from one group of industries into another instead of buying or selling the whole market. On days like today, the overall index can look flat while certain sectors, such as cybersecurity software, quietly rally. Spotting these rotations helps you find strong stocks even when the broad market isn't moving much.",
+    "explanation_zh": "板塊輪動是指投資者將資金由一類行業轉移至另一類行業，而非整體買入或沽出大市。好像今日這類日子，指數表面上原地踏步，但個別板塊（例如網絡安全軟件股）卻悄悄走強。懂得留意板塊輪動，即使大市橫行，亦能發掘到表現強勁的個股。"
   },
   "market_education": {
-    "summary_en": "The NASDAQ rose 0.3% while the S&P 500 fell 0.3%, so growth and tech stocks outperformed the broader market. Many security and cloud software names on our screener, such as NET, CRWD, OKTA, ZS and QLYS, show bullish momentum signals, which points to money moving into tech rather than out of the market as a whole. No news headlines were provided today, so this explanation is based only on price and technical data.",
-    "summary_zh": "今日大市方向分歧：納斯達克指數微升0.3%，標普500指數則微跌0.3%，顯示資金偏向成長股及科技股，而非全面撤離市場。從篩選結果可見，NET、CRWD、OKTA、ZS、QLYS等網絡安全及雲端軟件股普遍呈現強勢動能訊號，反映板塊輪動跡象明顯。由於今日未有相關新聞資料，以上分析僅依據價格及技術指標數據。",
+    "summary_en": "Today the market was split: tech-heavy NASDAQ names edged up while the broader S&P 500 dipped slightly, so there was no strong push in either direction. Money shifted between sectors rather than leaving the market, and several cybersecurity and software names (RBRK, TENB, CRWD, PANW, OKTA) showed strong momentum with above-average volume. No specific news headlines were provided today, so this explanation is based only on price and volume data.",
+    "summary_zh": "今日大市走勢分歧，以科技股為主的納斯達克指數輕微上揚，標普500指數則小幅回落，整體欠缺明確方向。資金主要在板塊之間輪動，並非撤離股市，其中網絡安全及軟件股（如RBRK、TENB、CRWD、PANW、OKTA）動能強勁，成交量亦高於平均水平。由於今日未有提供具體新聞標題，以上分析僅根據價格及成交量數據。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "SYRE",
+      "ticker": "RBRK",
       "conviction": "medium",
-      "reasoning": "SYRE scores 95: RSI is 56.7, which is healthy and not overheated, MACD has crossed above its signal line with the histogram still rising, and the price is above its 20-day average. It also adds a biotech name to a portfolio that already leans heavily on tech and software."
+      "reasoning": "RBRK shows all four confirmation signals (MACD crossover, rising histogram, price above SMA-20, volume surge) with a moderate RSI of 59.3, which leaves room to run before it becomes overbought."
     }
   ],
   "outcomes": {
