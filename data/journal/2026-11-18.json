@@ -1,17 +1,24 @@
 {
   "date": "2026-11-18",
-  "briefing": "Stocks fell broadly today: the S&P 500 dropped 1.0% and the NASDAQ dropped 0.7%. The screener returned no candidates in this risk-off market, so we are making no new buys. Our 7 existing positions stay in place, and the automatic stop-loss and profit-target rules will handle any exits.",
+  "briefing": "The market edged up today, with the NASDAQ up 0.8% and the S&P 500 up 0.3%. That is a mildly positive but neutral session, with no clear risk-on push. Cash is just above the $500 threshold and 3 slots are open, so I'm putting the spare cash into one medium-conviction position, Cal-Maine Foods (CALM). It is a lower-volatility stock that shows every confirmation signal, and its business is less tied to tech. All 7 existing positions stay open, and their stop-loss and profit-target levels will handle exits automatically.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A risk-off day is when investors get nervous and sell riskier assets like stocks, usually moving into safer places like cash or bonds. On these days most stocks fall together, so buying new positions is riskier than usual. A common approach is to hold off on new buys and let your existing stop-losses protect you until the market calms down.",
-    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者轉趨審慎，沽售股票等較高風險資產，並將資金轉投現金或債券等避險工具。在這類交易日，大部分股票往往齊跌，此時開新倉的風險較平日為高。常見做法是暫停建倉，並依靠現有的止蝕機制保障持倉，待市況回穩後再部署。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means only buying a stock when several separate indicators agree, rather than acting on one signal alone. Today CALM met four of them at once: strong momentum (RSI), a bullish trend shift (MACD crossover), a price above its recent average, and unusually high trading volume. When several signals line up like this, the move is more likely to be real buying by large investors than a random one-day spike.",
+    "explanation_zh": "多重訊號確認，是指只有在多個獨立指標同時發出一致訊號時才買入股票，而非單憑一個訊號便貿然行動。今日CALM同時符合四項條件：動能強勁（RSI）、趨勢轉向看漲（MACD黃金交叉）、股價高於近期平均線，以及成交量異常放大。當多個訊號同時出現，升勢較可能源於大型機構的實際買盤，而非隨機的單日急升。"
   },
   "market_education": {
-    "summary_en": "Today's selling hit the whole market, with the S&P 500 down 1.0% and the NASDAQ down 0.7%, which points to investors pulling back from risk in general rather than reacting to one company. The tech-heavy NASDAQ fell less than the S&P 500, so the weakness reached beyond technology into the broader market. No news headlines came with today's data, so we can't name a specific cause, and we are describing only what the prices did.",
-    "summary_zh": "今日大市普遍受壓，標普500指數下跌1.0%，納斯達克指數下跌0.7%，顯示投資者整體避險情緒升溫，並非單一個股消息所致。以科技股為主的納指跌幅反而較標普500為小，反映沽壓已由科技板塊擴散至更廣泛的市場。由於今日數據未附帶相關新聞標題，暫未能確定具體觸發因素，以上僅就指數走勢作出描述。",
+    "summary_en": "US stocks rose modestly today, with tech leading: the NASDAQ gained 0.8% while the broader S&P 500 added 0.3%. No news headlines were included in today's data, so I can't point to a specific cause, and the small size of the move suggests steady buying rather than a reaction to a major event. Leadership was spread across sectors, with retailers (TJX, TGT, BURL), healthcare names (IRTC, RGEN) and crypto-mining stocks (RIOT, CIFR) all showing strong momentum on high trading volume.",
+    "summary_zh": "美股今日溫和走高，科技股領漲，納斯達克指數升0.8%，標普500指數則微升0.3%。由於今日資料未附新聞標題，無法指出具體催化因素，但升幅有限，反映資金穩步流入，而非對重大消息的反應。強勢股分布於多個板塊，零售股（TJX、TGT、BURL）、醫療保健股（IRTC、RGEN）及加密貨幣礦企（RIOT、CIFR）均在成交放大下呈現強勁動能。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "CALM",
+      "conviction": "medium",
+      "reasoning": "CALM shows all four confirmation signals: MACD crossover, RSI at 64.6 (bullish but not overbought), price above its 20-day average, and a volume surge. As a defensive consumer staples name, it adds diversification to a tech-heavy portfolio on a neutral day."
+    }
+  ],
   "outcomes": {
     "total_value": 14886.44502401352,
     "cash": 545.8750281333923,
