@@ -1,22 +1,22 @@
 {
   "date": "2026-11-18",
-  "briefing": "The market edged up today, with the NASDAQ up 0.8% and the S&P 500 up 0.3%. That is a mildly positive but neutral session, with no clear risk-on push. Cash is just above the $500 threshold and 3 slots are open, so I'm putting the spare cash into one medium-conviction position, Cal-Maine Foods (CALM). It is a lower-volatility stock that shows every confirmation signal, and its business is less tied to tech. All 7 existing positions stay open, and their stop-loss and profit-target levels will handle exits automatically.",
+  "briefing": "The market was mixed and quiet today: NASDAQ rose 0.3% and the S&P 500 slipped 0.2%. The portfolio is still up about 48.9% overall. Cash is just above the $500 threshold with 3 open slots, so I'm putting it into one small medium-conviction position in NTSK, the only candidate with every confirmation signal, volume surge included. The other seven positions stay as they are, and their stop-losses and profit targets keep working automatically.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means only buying a stock when several separate indicators agree, rather than acting on one signal alone. Today CALM met four of them at once: strong momentum (RSI), a bullish trend shift (MACD crossover), a price above its recent average, and unusually high trading volume. When several signals line up like this, the move is more likely to be real buying by large investors than a random one-day spike.",
-    "explanation_zh": "多重訊號確認，是指只有在多個獨立指標同時發出一致訊號時才買入股票，而非單憑一個訊號便貿然行動。今日CALM同時符合四項條件：動能強勁（RSI）、趨勢轉向看漲（MACD黃金交叉）、股價高於近期平均線，以及成交量異常放大。當多個訊號同時出現，升勢較可能源於大型機構的實際買盤，而非隨機的單日急升。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking whether a price move comes with much more trading than usual. A rise on heavy volume suggests that many buyers, often large institutions, are behind it, so the move is more likely to last than one on light trading. Today NTSK was the only candidate that combined strong technical signals with a volume surge, which is why I picked it over other high-scoring stocks.",
+    "explanation_zh": "「成交量確認」是指觀察股價變動時，成交量是否明顯高於平日水平。若股價在大成交量下上升，代表背後有大量買盤（往往來自機構投資者）支持，升勢較在淡靜成交下的升幅更具持續性。今日NTSK是唯一同時具備強勁技術訊號及成交量急增的候選股，因此獲優先選入投資組合。"
   },
   "market_education": {
-    "summary_en": "US stocks rose modestly today, with tech leading: the NASDAQ gained 0.8% while the broader S&P 500 added 0.3%. No news headlines were included in today's data, so I can't point to a specific cause, and the small size of the move suggests steady buying rather than a reaction to a major event. Leadership was spread across sectors, with retailers (TJX, TGT, BURL), healthcare names (IRTC, RGEN) and crypto-mining stocks (RIOT, CIFR) all showing strong momentum on high trading volume.",
-    "summary_zh": "美股今日溫和走高，科技股領漲，納斯達克指數升0.8%，標普500指數則微升0.3%。由於今日資料未附新聞標題，無法指出具體催化因素，但升幅有限，反映資金穩步流入，而非對重大消息的反應。強勢股分布於多個板塊，零售股（TJX、TGT、BURL）、醫療保健股（IRTC、RGEN）及加密貨幣礦企（RIOT、CIFR）均在成交放大下呈現強勁動能。",
+    "summary_en": "Today the indexes split: the tech-heavy NASDAQ edged up 0.3% while the broader S&P 500 dipped 0.2%. Moves this small usually mean no single big catalyst; money shifted between sectors instead of entering or leaving the market as a whole. There was no news feed in today's data, so I can't point to a specific headline. The candidate list does show steady strength in software and cybersecurity names such as CRWD, OKTA, QLYS and TENB, while some large chipmakers like NVDA and INTC traded below their 20-day averages.",
+    "summary_zh": "今日美股表現分歧，以科技股為主的納斯達克指數微升0.3%，標普500指數則輕微回落0.2%。指數升跌幅度如此輕微，通常代表市場缺乏單一重大催化因素，資金主要在不同板塊之間輪動，而非整體流入或撤離。由於今日數據未附新聞資料，無法引用具體頭條；但從候選名單可見，CRWD、OKTA、QLYS、TENB等軟件及網絡安全股走勢持續穩健，而NVDA、INTC等大型晶片股則跌穿20日均線。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "CALM",
+      "ticker": "NTSK",
       "conviction": "medium",
-      "reasoning": "CALM shows all four confirmation signals: MACD crossover, RSI at 64.6 (bullish but not overbought), price above its 20-day average, and a volume surge. As a defensive consumer staples name, it adds diversification to a tech-heavy portfolio on a neutral day."
+      "reasoning": "NTSK is the only candidate with all four confirmation signals: RSI 63.9 in the bullish range, a bullish MACD crossover, price above SMA-20, and a volume surge above 1.5x average. Conviction is medium because the overall market is neutral."
     }
   ],
   "outcomes": {
