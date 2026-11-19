@@ -1,22 +1,22 @@
 {
   "date": "2026-11-19",
-  "briefing": "The market was flat to mixed today: the NASDAQ rose 0.2% and the S&P 500 fell 0.3%, which gives no clear direction. Cash is just above the $500 threshold and three slots are open, so we are making one small buy in AMBA, the only candidate with every confirmation signal. Our NET position is up about 15% from its $276.99 average cost, so the automatic +12% profit target should sell it. We are holding all other positions and letting the stop-losses and profit targets do their job.",
+  "briefing": "Stocks slipped today, with the S&P 500 down 1.0% and the NASDAQ down 0.8%, but the move was orderly and not a sell-off. We held all seven positions and let the automatic stop-losses and profit targets do their job. We put our small leftover cash (about $546) into Copa Holdings (CPA), which passed every check in our buy rules, and kept two slots open for a stronger risk-on day.",
   "daily_lesson": {
-    "term": "Profit Target",
-    "explanation_en": "A profit target is a price you set ahead of time at which you will sell a winning stock and lock in the gain. Our NET position has risen about 15% from what we paid, which is past our +12% target, so the system sells it automatically. This stops you from getting greedy and watching a gain disappear if the stock later falls back.",
-    "explanation_zh": "止賺位（Profit Target）是指預先設定的沽出價位，股價一旦升抵該水平，便沽出持倉鎖定利潤。我們持有的NET較買入成本已上升約15%，超過預設的12%止賺線，系統會自動沽出。此舉有助投資者克服貪念，避免股價回落時帳面利潤得而復失。"
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking whether a price move comes with unusually high trading activity. When a stock rises on volume well above its normal level, it often means large investors such as funds are buying, so the move is more likely to last. A rise on thin volume can fade quickly, which is why we bought CPA today: it climbed on a volume surge even though the overall market fell.",
+    "explanation_zh": "「成交量確認」是指觀察股價變動時，是否伴隨異常活躍的成交。若股價在遠高於平日的成交量下上升，往往代表基金等大型機構正在入市，升勢較有機會延續；相反，縮量上升則容易曇花一現。這正是我們今日在大市下跌之際仍買入CPA的原因：它逆市放量上揚。"
   },
   "market_education": {
-    "summary_en": "The major indexes moved in different directions today: the NASDAQ rose 0.2% and the S&P 500 fell 0.3%, so the day had no clear direction. Several cybersecurity and cloud software names in our screen, including CRWD, OKTA, ZS, NET and S, are in overbought territory (RSI above 70), which suggests money is concentrating in a few high-momentum groups rather than lifting the whole market. No news headlines came with today's data, so we cannot point to a specific cause for the move, and it is best read as a quiet day of rotation between sectors.",
-    "summary_zh": "今日大市方向分歧，納指微升0.2%，標普500則回落0.3%，整體走勢未見明確方向。篩選名單中多隻網絡安全及雲端軟件股，包括CRWD、OKTA、ZS、NET及S，RSI已升穿70進入超買區，反映資金集中追捧少數強勢板塊，而非全面推升大市。由於今日數據未附相關新聞標題，未能歸因於特定消息，較宜視為板塊輪動下的淡靜交易日。",
+    "summary_en": "US stocks pulled back modestly today, with the S&P 500 down 1.0% and the NASDAQ down 0.8%. No news headlines came with today's data, so we can't name a specific cause, and the move looks like routine profit-taking rather than panic. Under the surface, several mid-cap stocks such as CPA and BHVN still rose on heavy volume, which suggests buyers are being selective rather than leaving the market.",
+    "summary_zh": "美股今日溫和回調，標普500指數下跌1.0%，納斯達克指數下跌0.8%。由於今日未有相關新聞標題，暫時無法指出具體催化因素，走勢看來屬正常獲利回吐，而非恐慌性拋售。值得留意的是，CPA及BHVN等中型股仍然逆市放量走高，反映資金只是轉趨精挑細選，並未撤出市場。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "AMBA",
+      "ticker": "CPA",
       "conviction": "medium",
-      "reasoning": "AMBA is the only candidate showing all four signals we look for (MACD crossover, RSI 66.7 which is bullish but not overbought, price above SMA-20, and a volume surge), so it is the best use of the $546 in cash and one of the three open slots."
+      "reasoning": "CPA shows all four signals we look for (MACD crossover, RSI 61.9 with room below 70, price above its 20-day average, and a volume surge), and it is a steadier name than the more volatile BHVN, so it suits a modest buy on a down day."
     }
   ],
   "outcomes": {
