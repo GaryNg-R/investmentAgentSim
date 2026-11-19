@@ -1,24 +1,17 @@
 {
   "date": "2026-11-19",
-  "briefing": "Stocks slipped today, with the S&P 500 down 1.0% and the NASDAQ down 0.8%, but the move was orderly and not a sell-off. We held all seven positions and let the automatic stop-losses and profit targets do their job. We put our small leftover cash (about $546) into Copa Holdings (CPA), which passed every check in our buy rules, and kept two slots open for a stronger risk-on day.",
+  "briefing": "Stocks fell across the board today: the NASDAQ dropped 1.2% and the S&P 500 dropped 1.3%. The screener returned no candidates, so there were no qualifying buys. I'm holding all seven positions and keeping the $546 in cash for a better entry, and the automatic stop-losses and profit targets stay in place to manage risk.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking whether a price move comes with unusually high trading activity. When a stock rises on volume well above its normal level, it often means large investors such as funds are buying, so the move is more likely to last. A rise on thin volume can fade quickly, which is why we bought CPA today: it climbed on a volume surge even though the overall market fell.",
-    "explanation_zh": "「成交量確認」是指觀察股價變動時，是否伴隨異常活躍的成交。若股價在遠高於平日的成交量下上升，往往代表基金等大型機構正在入市，升勢較有機會延續；相反，縮量上升則容易曇花一現。這正是我們今日在大市下跌之際仍買入CPA的原因：它逆市放量上揚。"
+    "term": "Risk-Off",
+    "explanation_en": "A risk-off day is when investors get nervous and sell riskier assets like growth stocks, usually moving money into safer places such as cash or bonds. On these days most stocks fall together, so buying new positions is riskier because the selling may continue. Holding cash and waiting for the market to calm down can protect you from buying just before prices fall further.",
+    "explanation_zh": "「避險模式」（Risk-Off）是指投資者情緒轉趨審慎，紛紛拋售成長股等高風險資產，並將資金轉投現金或債券等較安全的資產。在這類交易日，大部分股票往往同步下跌，此時貿然建倉風險較高，因為沽壓或會持續。手持現金、靜待市況回穩，可避免在股價進一步下跌前高位接貨。"
   },
   "market_education": {
-    "summary_en": "US stocks pulled back modestly today, with the S&P 500 down 1.0% and the NASDAQ down 0.8%. No news headlines came with today's data, so we can't name a specific cause, and the move looks like routine profit-taking rather than panic. Under the surface, several mid-cap stocks such as CPA and BHVN still rose on heavy volume, which suggests buyers are being selective rather than leaving the market.",
-    "summary_zh": "美股今日溫和回調，標普500指數下跌1.0%，納斯達克指數下跌0.8%。由於今日未有相關新聞標題，暫時無法指出具體催化因素，走勢看來屬正常獲利回吐，而非恐慌性拋售。值得留意的是，CPA及BHVN等中型股仍然逆市放量走高，反映資金只是轉趨精挑細選，並未撤出市場。",
+    "summary_en": "Both major U.S. indexes fell more than 1% today. Because the drop was spread across the market and not limited to one sector, it points to investors pulling back from risk in general rather than reacting to news about one company. No news headlines were included in today's data, so this summary cannot tie the move to a specific cause.",
+    "summary_zh": "美股今日全面受壓，納斯達克指數下跌1.2%，標普500指數跌1.3%，兩大指數同告失守1%關口。跌勢遍及大市而非集中於個別板塊，反映投資者整體避險情緒升溫，而非針對單一企業消息作出反應。由於今日數據未附相關新聞標題，本文無法將跌勢歸因於特定消息。",
     "sources": []
   },
-  "trades": [
-    {
-      "action": "BUY",
-      "ticker": "CPA",
-      "conviction": "medium",
-      "reasoning": "CPA shows all four signals we look for (MACD crossover, RSI 61.9 with room below 70, price above its 20-day average, and a volume surge), and it is a steadier name than the more volatile BHVN, so it suits a modest buy on a down day."
-    }
-  ],
+  "trades": [],
   "outcomes": {
     "total_value": 14886.44502401352,
     "cash": 545.8750281333923,
