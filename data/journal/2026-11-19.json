@@ -1,28 +1,22 @@
 {
   "date": "2026-11-19",
-  "briefing": "Tech stocks led the market today, with the NASDAQ up 1.5% and the S&P 500 up 0.7%. We have $546 in cash and 3 open slots, and past lessons say to put cash to work on strong up days, so we are buying GOOGL and, if cash allows, INTC. Both have full signal confirmation and are not yet overbought. We are keeping all current positions and letting the automatic stop-loss and profit-target rules handle exits.",
+  "briefing": "The market was flat to mixed today: the NASDAQ rose 0.2% and the S&P 500 fell 0.3%, which gives no clear direction. Cash is just above the $500 threshold and three slots are open, so we are making one small buy in AMBA, the only candidate with every confirmation signal. Our NET position is up about 15% from its $276.99 average cost, so the automatic +12% profit target should sell it. We are holding all other positions and letting the stop-losses and profit targets do their job.",
   "daily_lesson": {
-    "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, higher-growth assets like tech stocks, which is why the NASDAQ rose more than the S&P 500 today. On days like this, momentum strategies tend to work better, so it is a sensible time to spend cash that has been waiting on the sidelines.",
-    "explanation_zh": "所謂「風險偏好」（Risk-On）市況，是指投資者信心增強，願意把資金投向科技股等較高風險、較高增長的資產，這正是今日納指跑贏標普500的原因。在這類市況下，動能策略往往較為奏效，因此是動用場邊閒置資金入市的合適時機。"
+    "term": "Profit Target",
+    "explanation_en": "A profit target is a price you set ahead of time at which you will sell a winning stock and lock in the gain. Our NET position has risen about 15% from what we paid, which is past our +12% target, so the system sells it automatically. This stops you from getting greedy and watching a gain disappear if the stock later falls back.",
+    "explanation_zh": "止賺位（Profit Target）是指預先設定的沽出價位，股價一旦升抵該水平，便沽出持倉鎖定利潤。我們持有的NET較買入成本已上升約15%，超過預設的12%止賺線，系統會自動沽出。此舉有助投資者克服貪念，避免股價回落時帳面利潤得而復失。"
   },
   "market_education": {
-    "summary_en": "Investors were willing to take on more risk today, and tech-heavy stocks rose about twice as much as the broader S&P 500. Many large-cap tech and semiconductor names, including AMZN, GOOGL, INTC and WDC, rose on heavy trading volume, which suggests big institutional investors were buying rather than just a few small traders. No specific news headlines were available today, so this explanation is based only on price, volume and momentum data.",
-    "summary_zh": "今日市場風險胃納明顯回升，以科技股為主的納斯達克指數升幅約為標普500指數的兩倍。AMZN、GOOGL、INTC及WDC等大型科技及半導體股均放量上揚，反映資金流入並非零星散戶炒作，而是機構投資者積極入市。由於今日未有具體新聞標題可供引用，以上分析僅根據股價、成交量及動能數據作出判斷。",
+    "summary_en": "The major indexes moved in different directions today: the NASDAQ rose 0.2% and the S&P 500 fell 0.3%, so the day had no clear direction. Several cybersecurity and cloud software names in our screen, including CRWD, OKTA, ZS, NET and S, are in overbought territory (RSI above 70), which suggests money is concentrating in a few high-momentum groups rather than lifting the whole market. No news headlines came with today's data, so we cannot point to a specific cause for the move, and it is best read as a quiet day of rotation between sectors.",
+    "summary_zh": "今日大市方向分歧，納指微升0.2%，標普500則回落0.3%，整體走勢未見明確方向。篩選名單中多隻網絡安全及雲端軟件股，包括CRWD、OKTA、ZS、NET及S，RSI已升穿70進入超買區，反映資金集中追捧少數強勢板塊，而非全面推升大市。由於今日數據未附相關新聞標題，未能歸因於特定消息，較宜視為板塊輪動下的淡靜交易日。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "GOOGL",
-      "conviction": "high",
-      "reasoning": "GOOGL shows all four buy signals (MACD crossover, a rising histogram, price above its 20-day average, and a volume surge), and its RSI of 64.5 still leaves room to rise before it counts as overbought."
-    },
-    {
-      "action": "BUY",
-      "ticker": "INTC",
+      "ticker": "AMBA",
       "conviction": "medium",
-      "reasoning": "INTC also shows all four signals, and its RSI of 62.7 is moderate, so it is a lower-priced backup if there is cash left after GOOGL."
+      "reasoning": "AMBA is the only candidate showing all four signals we look for (MACD crossover, RSI 66.7 which is bullish but not overbought, price above SMA-20, and a volume surge), so it is the best use of the $546 in cash and one of the three open slots."
     }
   ],
   "outcomes": {
