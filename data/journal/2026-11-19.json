@@ -1,22 +1,28 @@
 {
   "date": "2026-11-19",
-  "briefing": "The market was mixed today, with the NASDAQ up 0.4% and the S&P 500 down 0.2%, so there was no clear direction. The portfolio is up about 48.9% and all seven current positions stay in place. We put the small amount of spare cash into one new position, WRBY, which showed all four buy signals, and kept the other two open slots empty until a stronger day.",
+  "briefing": "Tech stocks led the market today, with the NASDAQ up 1.5% and the S&P 500 up 0.7%. We have $546 in cash and 3 open slots, and past lessons say to put cash to work on strong up days, so we are buying GOOGL and, if cash allows, INTC. Both have full signal confirmation and are not yet overbought. We are keeping all current positions and letting the automatic stop-loss and profit-target rules handle exits.",
   "daily_lesson": {
-    "term": "Sector Rotation",
-    "explanation_en": "Sector rotation is when investors move money from one part of the market to another, for example out of defensive or value stocks and into technology. It explains days like today, when the NASDAQ rose while the S&P 500 fell: money was moving around rather than leaving the market. Watching for rotation helps you tell a calm, mixed day apart from a real sell-off.",
-    "explanation_zh": "板塊輪動是指投資者將資金由市場某一板塊轉移至另一板塊，例如由防守型或價值股轉投科技股。今日納斯達克上升而標普500下跌，正是這種情況的寫照：資金只是在市場內部流轉，並非撤離市場。留意板塊輪動，有助分辨市況只是平穩分化，還是真正出現拋售。"
+    "term": "Risk-On",
+    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, higher-growth assets like tech stocks, which is why the NASDAQ rose more than the S&P 500 today. On days like this, momentum strategies tend to work better, so it is a sensible time to spend cash that has been waiting on the sidelines.",
+    "explanation_zh": "所謂「風險偏好」（Risk-On）市況，是指投資者信心增強，願意把資金投向科技股等較高風險、較高增長的資產，這正是今日納指跑贏標普500的原因。在這類市況下，動能策略往往較為奏效，因此是動用場邊閒置資金入市的合適時機。"
   },
   "market_education": {
-    "summary_en": "Markets were mixed today: the tech-heavy NASDAQ rose 0.4% while the broader S&P 500 slipped 0.2%. That split means investors favored growth and technology names but did not buy across the whole market. No news headlines came with today's data, so we can't name a specific cause, and a split like this often just reflects money shifting between sectors rather than a real change in the market's direction.",
-    "summary_zh": "今日大市表現分歧，以科技股為主的納斯達克指數上升0.4%，而覆蓋面較廣的標普500指數則微跌0.2%。走勢分化反映資金偏好增長及科技板塊，但未有全面入市。由於今日數據未附相關新聞標題，暫時難以確定具體原因；這類分化走勢通常只是板塊之間的資金輪動，而非市場方向出現實質轉變。",
+    "summary_en": "Investors were willing to take on more risk today, and tech-heavy stocks rose about twice as much as the broader S&P 500. Many large-cap tech and semiconductor names, including AMZN, GOOGL, INTC and WDC, rose on heavy trading volume, which suggests big institutional investors were buying rather than just a few small traders. No specific news headlines were available today, so this explanation is based only on price, volume and momentum data.",
+    "summary_zh": "今日市場風險胃納明顯回升，以科技股為主的納斯達克指數升幅約為標普500指數的兩倍。AMZN、GOOGL、INTC及WDC等大型科技及半導體股均放量上揚，反映資金流入並非零星散戶炒作，而是機構投資者積極入市。由於今日未有具體新聞標題可供引用，以上分析僅根據股價、成交量及動能數據作出判斷。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "WRBY",
+      "ticker": "GOOGL",
+      "conviction": "high",
+      "reasoning": "GOOGL shows all four buy signals (MACD crossover, a rising histogram, price above its 20-day average, and a volume surge), and its RSI of 64.5 still leaves room to rise before it counts as overbought."
+    },
+    {
+      "action": "BUY",
+      "ticker": "INTC",
       "conviction": "medium",
-      "reasoning": "WRBY shows all four confirmation signals (MACD crossover with rising histogram, RSI 62.9 below 70, price above SMA-20, and a volume surge), and its low share price lets the remaining ~$546 of cash be used efficiently."
+      "reasoning": "INTC also shows all four signals, and its RSI of 62.7 is moderate, so it is a lower-priced backup if there is cash left after GOOGL."
     }
   ],
   "outcomes": {
