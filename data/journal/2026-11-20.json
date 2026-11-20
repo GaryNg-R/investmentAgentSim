@@ -1,17 +1,24 @@
 {
   "date": "2026-11-20",
-  "briefing": "Stocks fell broadly today. The NASDAQ dropped 2.3% and the S&P 500 dropped 2.0%, so the market is in risk-off mode and the screener found no candidates to buy. We are holding all 7 positions and keeping the $546 in cash, because the automatic stop-losses and profit targets will handle exits instead of us selling into a falling market.",
+  "briefing": "The market was flat today: the S&P 500 rose 0.3% and the NASDAQ slipped 0.2%. The portfolio is up 48.9%, with 3 open slots and just over $500 in cash. I'm adding one small position in ECO, which meets every entry signal, and holding all current positions so their stop-losses and profit targets can work.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A 'risk-off' day is when investors sell riskier assets like growth and tech stocks and move toward safer places such as cash or bonds. On these days most stocks fall together, so buying a dip can feel tempting, but it often means catching a falling knife. Many disciplined traders pause new purchases until the market steadies.",
-    "explanation_zh": "所謂「避險（Risk-Off）」行情，是指投資者拋售成長股、科技股等高風險資產，資金轉向現金或債券等較安全的選擇。這類交易日中，個股往往齊跌，逢低買入看似吸引，但很可能是「接飛刀」。紀律嚴謹的交易者通常會暫停新建倉位，等待市況回穩後再出手。"
+    "term": "Sector Rotation",
+    "explanation_en": "Sector rotation is when investors move money out of one group of stocks and into another. Today chip and AI stocks fell sharply while industrial and consumer stocks rose, so the overall index barely moved even though there were big swings underneath. Watching which sectors are gaining or losing money can show you where the market's momentum is heading.",
+    "explanation_zh": "板塊輪動是指資金從某一類股份流出，轉投另一類股份。今日晶片及AI股急跌，但工業及消費股則上升，因此大市指數表面上變動不大，內裏卻暗湧處處。留意資金流入及流出哪些板塊，有助判斷市場動能的方向。"
   },
   "market_education": {
-    "summary_en": "Both major U.S. indexes fell about 2% together, and the NASDAQ, which is heavy in technology stocks, fell the most. When stocks drop this much across the board on the same day, it usually means investors are pulling back from risk in general rather than reacting to news about one company. No news headlines came with today's data, so we can't name a specific cause, and the drop should be read as a general move away from riskier assets.",
-    "summary_zh": "美股兩大指數今日同步下挫約2%，以科技股為主的納斯達克跌幅較深，達2.3%。這種全面性的同日下跌，通常反映資金普遍降低風險部位，而不是對個別公司消息的反應。由於今日資料未附帶相關新聞標題，暫時無法指出具體的觸發原因，宜將這次下跌視為市場整體從高風險資產撤出。",
+    "summary_en": "Stocks were mixed: the S&P 500 rose 0.3% and the NASDAQ fell 0.2%. No news headlines came with today's data, so we can't name a specific cause. The numbers alone show weakness in chip and AI-infrastructure stocks (NVDA, MU, AMD, NBIS and CRWV all trading well below their 20-day averages on heavy volume), offset by gains in industrial, defense and consumer stocks such as AXON, MOG-A and EAT.",
+    "summary_zh": "今日大市個別發展，標普500指數升0.3%，納斯達克指數則跌0.2%。由於今日數據未附新聞標題，暫時無法確定具體催化因素。單從數據看，晶片及AI基建股明顯受壓（NVDA、MU、AMD、NBIS及CRWV均放量跌穿20日均線），但工業、國防及消費類股份如AXON、MOG-A及EAT表現較佳，抵銷了科技股的跌幅。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "ECO",
+      "conviction": "medium",
+      "reasoning": "ECO scores 100 and meets all four entry signals: RSI of 63.2, a bullish MACD crossover with a rising histogram, price above its 20-day average, and a volume surge. At $86.51 a share, it uses the remaining $545 of cash better than higher-priced picks like AXON."
+    }
+  ],
   "outcomes": {
     "total_value": 14886.44502401352,
     "cash": 545.8750281333923,
