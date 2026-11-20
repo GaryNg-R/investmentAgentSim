@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-20",
+  "briefing": "Stocks fell broadly today. The NASDAQ dropped 2.3% and the S&P 500 dropped 2.0%, so the market is in risk-off mode and the screener found no candidates to buy. We are holding all 7 positions and keeping the $546 in cash, because the automatic stop-losses and profit targets will handle exits instead of us selling into a falling market.",
+  "daily_lesson": {
+    "term": "Risk-Off",
+    "explanation_en": "A 'risk-off' day is when investors sell riskier assets like growth and tech stocks and move toward safer places such as cash or bonds. On these days most stocks fall together, so buying a dip can feel tempting, but it often means catching a falling knife. Many disciplined traders pause new purchases until the market steadies.",
+    "explanation_zh": "所謂「避險（Risk-Off）」行情，是指投資者拋售成長股、科技股等高風險資產，資金轉向現金或債券等較安全的選擇。這類交易日中，個股往往齊跌，逢低買入看似吸引，但很可能是「接飛刀」。紀律嚴謹的交易者通常會暫停新建倉位，等待市況回穩後再出手。"
+  },
+  "market_education": {
+    "summary_en": "Both major U.S. indexes fell about 2% together, and the NASDAQ, which is heavy in technology stocks, fell the most. When stocks drop this much across the board on the same day, it usually means investors are pulling back from risk in general rather than reacting to news about one company. No news headlines came with today's data, so we can't name a specific cause, and the drop should be read as a general move away from riskier assets.",
+    "summary_zh": "美股兩大指數今日同步下挫約2%，以科技股為主的納斯達克跌幅較深，達2.3%。這種全面性的同日下跌，通常反映資金普遍降低風險部位，而不是對個別公司消息的反應。由於今日資料未附帶相關新聞標題，暫時無法指出具體的觸發原因，宜將這次下跌視為市場整體從高風險資產撤出。",
+    "sources": []
+  },
+  "trades": [],
+  "outcomes": {
+    "total_value": 14886.44502401352,
+    "cash": 545.8750281333923,
+    "pnl_dollar": 4886.445024013519,
+    "pnl_pct": 48.86445024013519,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "NET",
+        "shares": 6.0,
+        "avg_cost": 276.9949951171875
+      }
+    ]
+  }
+}
