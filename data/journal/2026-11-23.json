@@ -1,22 +1,28 @@
 {
   "date": "2026-11-23",
-  "briefing": "It was a very strong up day: the NASDAQ rose 6.7% and the S&P 500 rose 4.7%, and almost every screened stock flashed bullish signals. Our strategy notes say to put spare cash to work on strong up days, so I'm using the $646 of idle cash to buy TSM. I picked it over NVDA because NVDA's RSI (67.4) is close to overbought. I'm keeping all seven current holdings and letting the automatic profit targets and stop-losses manage them.",
+  "briefing": "Markets rallied strongly today, with the NASDAQ up 7.0% and the S&P 500 up 5.1%, a clear risk-on signal. We have $646 in cash and 3 open slots, so we're following our playbook and putting the idle cash into the strongest candidates: NVDA first and CRWV second. All 7 current positions stay as they are, and their profit targets and stop-losses will handle exits.",
   "daily_lesson": {
     "term": "Risk-On Rally",
-    "explanation_en": "A risk-on rally is a day when investors feel confident and move money into riskier, faster-growing stocks such as tech and semiconductors, pushing them up a lot. A broad rally on heavy volume like today's means many investors are buying at once, which is a stronger signal than a few stocks rising alone. Even so, it's wise to avoid stocks that already look overbought (RSI near or above 70), because sharp jumps often partly reverse.",
-    "explanation_zh": "「風險偏好上升」（Risk-On）是指投資者信心充足，將資金轉投科技股、半導體股等較高風險、增長較快的資產，帶動這些股份大幅上升。像今日這樣成交量大增的全面升市，代表大量投資者同時入市，比單一股份獨自上升更具參考價值。不過，仍應避免追入已經超買（RSI接近或高於70）的股份，因為急升之後往往會出現部分回吐。"
+    "explanation_en": "A risk-on rally happens when investors feel confident and move money out of safe assets into riskier ones like tech stocks, pushing broad indexes sharply higher. A rally is more trustworthy when many stocks rise on heavy trading volume, because that shows large investors are taking part. For a trader, it's often a good moment to put idle cash to work in the strongest stocks, while keeping stop-losses in place in case the move reverses.",
+    "explanation_zh": "所謂「風險偏好回升」（Risk-On），是指投資者信心轉強，將資金由避險資產轉投科技股等較高風險資產，帶動大市指數急升。若升勢由大量個股配合成交放大推動，可信度會更高，因為這顯示大型機構資金正積極參與。對交易者而言，這通常是把閒置現金投入最強勢股份的好時機，但仍應設好止蝕位，以防升勢逆轉。"
   },
   "market_education": {
-    "summary_en": "Stocks rose sharply across the board: the NASDAQ gained 6.7% and the S&P 500 gained 4.7%, with semiconductor and AI-infrastructure names like NVDA, TSM, DELL and INTC leading. No news headlines were provided for today, so this summary is based only on price and volume data. The heavy trading volume across nearly every candidate suggests big investors were buying broadly, not just a few stocks rising on their own news.",
-    "summary_zh": "今日美股全面急升，納指大漲6.7%，標普500指數亦升4.7%，領漲的是半導體及AI基建股，包括NVDA、TSM、DELL及INTC。由於今日未有相關新聞標題，以上分析只根據價格及成交量數據。幾乎所有候選股份的成交量都大增，反映大型投資者是全面入市買貨，而不只是個別股份因自身消息而上升。",
+    "summary_en": "US stocks rallied broadly today, with the NASDAQ up 7.0% and the S&P 500 up 5.1%, and tech and semiconductor stocks led the way. Strength was broad across AI-infrastructure and chip names such as NVDA, MU, MRVL, CRDO and DELL, and many showed volume surges, which suggests big institutional buyers were stepping in rather than a thin rally. No news headlines were provided for today, so we can't name a specific trigger, but this kind of broad, high-volume move usually reflects a shift in big-picture sentiment such as interest-rate expectations or AI spending outlooks.",
+    "summary_zh": "美股今日全面急升，納指大漲7.0%，標普500指數亦升5.1%，以科技及半導體板塊領漲。NVDA、MU、MRVL、CRDO、DELL等AI基建及晶片股普遍走強，不少個股更出現成交量急增，反映資金屬機構主導入市，而非淡市中的虛升。由於今日未有提供相關新聞標題，暫難確定具體催化因素，但如此廣泛且量價齊升的升勢，通常源於利率預期或AI資本開支前景等宏觀情緒轉變。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "TSM",
+      "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "TSM shows all four buy signals (MACD crossover, RSI 61.3 still below overbought, price above its 20-day average, heavy volume), and it is a quality large-cap way to ride today's broad chip rally."
+      "reasoning": "NVDA has a perfect 100 score with all four confirmation signals: a MACD bullish crossover, RSI of 66.6 (still under 70), price well above its 20-day average, and a volume surge, all on a strong risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "CRWV",
+      "conviction": "medium",
+      "reasoning": "CRWV also scores 100 with all four signals confirmed, and its RSI of 58.6 leaves more room to rise before it gets overbought, so it is a good second pick if cash allows."
     }
   ],
   "outcomes": {
