@@ -1,26 +1,32 @@
 {
-  "saved_at": "2026-11-23T18:00:48.734200+00:00",
+  "saved_at": "2026-11-23T19:00:51.948763+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "NVDA",
+        "ticker": "HPE",
         "conviction": "high",
-        "reasoning": "NVDA is the only candidate showing all four confirmation signals at once: a MACD crossover, RSI at 62.2 (bullish but below overbought), price well above its 20-day average, and a volume surge, which together point to institutional buying."
+        "reasoning": "HPE shows every momentum signal at once (RSI 60.5, MACD crossover with a rising histogram, price about 6% above its SMA-20), and as an enterprise hardware name it adds less to the semiconductor exposure we already hold through OLED."
+      },
+      {
+        "action": "BUY",
+        "ticker": "ASX",
+        "conviction": "medium",
+        "reasoning": "ASX also shows every momentum signal (RSI 56.3, rising MACD, price above SMA-20), and its low share price lets us use whatever cash is left after HPE on this risk-on day."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Stocks jumped today, with the NASDAQ up 6.7% and the S&P 500 up 4.8%. Moves this large in one day are rare, so the data may cover more than one session. Following our rule of using spare cash on strong up days, we are putting the available $645 into NVDA, the only candidate with every confirmation signal including above-average trading volume. All seven existing positions stay open, and their automatic stop-loss and profit-target sells remain in place.",
+    "briefing": "Markets rallied hard today: the NASDAQ rose 6.3% and the S&P 500 rose 4.6%, a clear risk-on signal. Our strategy notes say to put idle cash to work on strong up days, so we are using the $646 in cash to start positions in HPE and ASX, which fills two of our three open slots. All seven existing positions stay in place, and their automatic stop-loss and profit-target rules keep running.",
     "market_education": {
-      "summary_en": "US stocks rose sharply and broadly today: the NASDAQ gained 6.7% and the S&P 500 gained 4.8%, with semiconductor and AI hardware names such as NVDA, MU, DELL and MRVL leading. No news headlines were provided with today's data, so we can't name the specific cause, and a one-day move this big may reflect more than one trading session. Technology stocks rising more than the wider market suggests investors were willing to take on more risk and moved money back into higher-growth AI and chip stocks.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u6025\u5347\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u6f326.7%\uff0c\u6a19\u666e500\u6307\u6578\u53474.8%\uff0c\u534a\u5c0e\u9ad4\u53caAI\u786c\u4ef6\u80a1\u5982NVDA\u3001MU\u3001DELL\u53caMRVL\u9818\u6f32\u3002\u4eca\u65e5\u6578\u64da\u672a\u9644\u65b0\u805e\u6a19\u984c\uff0c\u56e0\u6b64\u7121\u6cd5\u78ba\u5b9a\u89f8\u767c\u5347\u52e2\u7684\u5177\u9ad4\u6d88\u606f\uff1b\u55ae\u65e5\u5347\u5e45\u5982\u6b64\u5de8\u5927\uff0c\u4ea6\u53ef\u80fd\u6db5\u84cb\u591a\u65bc\u4e00\u500b\u4ea4\u6613\u65e5\u7684\u8d70\u52e2\u3002\u79d1\u6280\u80a1\u5347\u5e45\u660e\u986f\u8dd1\u8d0f\u5927\u5e02\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u80c3\u7d0d\u56de\u5347\uff0c\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u9ad8\u589e\u9577\u7684AI\u53ca\u6676\u7247\u677f\u584a\u3002",
+      "summary_en": "US stocks rose broadly today, with the tech-heavy NASDAQ up 6.3% and the S&P 500 up 4.6%, one of the strongest single-day moves in a long time. No news headlines came with today's data, so we cannot name a specific cause; moves this large usually follow a major surprise on interest rates, inflation, or policy. The strength was led by semiconductors and AI hardware: nearly every name in our top candidate list, including MU, NVDA, INTC, and DELL, is trading above its 20-day average with a bullish MACD.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u6025\u5347\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u6f326.3%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u53474.6%\uff0c\u5c6c\u8fd1\u671f\u7f55\u898b\u7684\u55ae\u65e5\u5f37\u52e2\u8868\u73fe\u3002\u7531\u65bc\u4eca\u65e5\u6578\u64da\u672a\u9644\u5e36\u76f8\u95dc\u65b0\u805e\u6a19\u984c\uff0c\u66ab\u672a\u80fd\u78ba\u8a8d\u89f8\u767c\u5347\u5e02\u7684\u5177\u9ad4\u6d88\u606f\uff0c\u4f46\u5982\u6b64\u5927\u5e45\u5ea6\u7684\u5347\u5e45\uff0c\u901a\u5e38\u6e90\u65bc\u5229\u7387\u3001\u901a\u8139\u6216\u653f\u7b56\u65b9\u9762\u7684\u91cd\u5927\u610f\u5916\u3002\u5347\u52e2\u7531\u534a\u5c0e\u9ad4\u53caAI\u786c\u4ef6\u677f\u584a\u9818\u8ecd\uff0cMU\u3001NVDA\u3001INTC\u3001DELL\u7b49\u5019\u9078\u80a1\u4efd\u5e7e\u4e4e\u5168\u90e8\u4f01\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\uff0cMACD\u4ea6\u5448\u597d\u6de1\u4ea4\u53c9\u7684\u5229\u597d\u8a0a\u865f\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-On",
-      "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets such as tech and chip stocks, instead of safe havens like bonds or cash. You can often spot it when the tech-heavy NASDAQ rises more than the broader S&P 500, as it did today. For an active investor, a risk-on day is often a good time to put spare cash to work in the strongest candidates.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u8cc7\u91d1\u5f9e\u50b5\u5238\u6216\u73fe\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\uff0c\u8f49\u6295\u79d1\u6280\u80a1\u53ca\u6676\u7247\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u3001\u589e\u9577\u8f03\u5feb\u7684\u8cc7\u7522\u3002\u5e38\u898b\u7684\u8de1\u8c61\u662f\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6574\u9ad4\u6a19\u666e500\u6307\u6578\uff0c\u6b63\u5982\u4eca\u65e5\u7684\u60c5\u6cc1\u3002\u5c0d\u4e3b\u52d5\u578b\u6295\u8cc7\u8005\u800c\u8a00\uff0c\u9019\u985e\u65e5\u5b50\u5f80\u5f80\u662f\u5c07\u9592\u7f6e\u73fe\u91d1\u6295\u5165\u6700\u5f37\u52e2\u6a19\u7684\u7684\u597d\u6642\u6a5f\u3002"
+      "explanation_en": "A risk-on day is when investors feel confident and move money into riskier assets like growth and technology stocks, which pushes the major indexes up sharply. Today's 6.3% jump in the NASDAQ is a clear example. Our rule is to put idle cash to work on days like this, while still letting stop-losses protect us if the rally reverses.",
+      "explanation_zh": "\u6240\u8b02\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u5e02\u6cc1\uff0c\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u8cc7\u91d1\u6e67\u5165\u79d1\u6280\u80a1\u3001\u589e\u9577\u80a1\u7b49\u8f03\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u63a8\u52d5\u4e3b\u8981\u6307\u6578\u5927\u5e45\u4e0a\u63da\u3002\u4eca\u65e5\u7d0d\u6307\u6025\u53476.3%\uff0c\u6b63\u662f\u5178\u578b\u4f8b\u5b50\u3002\u6211\u5011\u7684\u7b56\u7565\u662f\u5728\u9019\u985e\u65e5\u5b50\u628a\u9592\u7f6e\u73fe\u91d1\u6295\u5165\u5e02\u5834\uff0c\u540c\u6642\u4fdd\u7559\u6b62\u8755\u6a5f\u5236\uff0c\u4ee5\u9632\u5347\u52e2\u9006\u8f49\u6642\u53d7\u640d\u3002"
     }
   }
 }
