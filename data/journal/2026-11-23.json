@@ -1,28 +1,22 @@
 {
   "date": "2026-11-23",
-  "briefing": "Markets rallied hard today: the NASDAQ rose 6.3% and the S&P 500 rose 4.6%, a clear risk-on signal. Our strategy notes say to put idle cash to work on strong up days, so we are using the $646 in cash to start positions in HPE and ASX, which fills two of our three open slots. All seven existing positions stay in place, and their automatic stop-loss and profit-target rules keep running.",
+  "briefing": "Markets jumped sharply today, with the NASDAQ up 6.6% and the S&P 500 up 4.9%. That is a strong risk-on day, so we are putting our remaining $646 of idle cash to work as our strategy notes recommend. We are buying NVIDIA, the only candidate where all four momentum signals line up, and holding all 7 existing positions so the automatic profit targets and stop-losses can do their job.",
   "daily_lesson": {
     "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier assets like growth and technology stocks, which pushes the major indexes up sharply. Today's 6.3% jump in the NASDAQ is a clear example. Our rule is to put idle cash to work on days like this, while still letting stop-losses protect us if the rally reverses.",
-    "explanation_zh": "所謂「風險偏好」（Risk-On）市況，是指投資者信心充足，資金湧入科技股、增長股等較高風險資產，推動主要指數大幅上揚。今日納指急升6.3%，正是典型例子。我們的策略是在這類日子把閒置現金投入市場，同時保留止蝕機制，以防升勢逆轉時受損。"
+    "explanation_en": "A risk-on day is when investors feel confident and move money out of safe assets and into riskier ones like growth and tech stocks, which pushes the major indexes sharply higher. Momentum strategies tend to work best on these days, so it is a good time to put idle cash to work. Volume confirmation still matters, because heavy trading volume suggests big institutions are buying and the move is less likely to be a one-day blip.",
+    "explanation_zh": "所謂「風險偏好」（Risk-On）市況，是指投資者信心回升，資金從避險資產流向成長股、科技股等較高風險的資產，帶動主要指數大幅上揚。動能策略在這類日子往往最為奏效，正是把閒置現金投入市場的好時機。不過成交量的確認依然重要：成交放量代表大型機構資金積極入市，升勢較不易只是曇花一現。"
   },
   "market_education": {
-    "summary_en": "US stocks rose broadly today, with the tech-heavy NASDAQ up 6.3% and the S&P 500 up 4.6%, one of the strongest single-day moves in a long time. No news headlines came with today's data, so we cannot name a specific cause; moves this large usually follow a major surprise on interest rates, inflation, or policy. The strength was led by semiconductors and AI hardware: nearly every name in our top candidate list, including MU, NVDA, INTC, and DELL, is trading above its 20-day average with a bullish MACD.",
-    "summary_zh": "美股今日全面急升，以科技股為主的納斯達克指數大漲6.3%，標普500指數亦升4.6%，屬近期罕見的單日強勢表現。由於今日數據未附帶相關新聞標題，暫未能確認觸發升市的具體消息，但如此大幅度的升幅，通常源於利率、通脹或政策方面的重大意外。升勢由半導體及AI硬件板塊領軍，MU、NVDA、INTC、DELL等候選股份幾乎全部企穩20日均線之上，MACD亦呈好淡交叉的利好訊號。",
+    "summary_en": "US stocks rallied broadly today, with the tech-heavy NASDAQ gaining 6.6% and the S&P 500 rising 4.9%. Semiconductor and AI hardware names led the move, and the screened list is full of chip and data-center names (NVDA, MU, INTC, DELL, HPE) showing fresh bullish MACD crossovers. No news headlines came with today's data, so we can't cite a specific trigger; a one-day move this large usually follows a major macro surprise or policy news and should be confirmed in the next few sessions.",
+    "summary_zh": "美股今日全面強彈，以科技股為主的納斯達克指數急升6.6%，標普500指數亦漲4.9%。半導體與AI硬體板塊領漲，候選名單中NVDA、MU、INTC、DELL、HPE等晶片及數據中心概念股紛紛出現MACD黃金交叉。由於今日數據未附相關新聞標題，暫無法引述具體催化因素；單日如此大的升幅，通常源於重大宏觀數據意外或政策消息，後市仍需數個交易日確認升勢能否延續。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "HPE",
+      "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "HPE shows every momentum signal at once (RSI 60.5, MACD crossover with a rising histogram, price about 6% above its SMA-20), and as an enterprise hardware name it adds less to the semiconductor exposure we already hold through OLED."
-    },
-    {
-      "action": "BUY",
-      "ticker": "ASX",
-      "conviction": "medium",
-      "reasoning": "ASX also shows every momentum signal (RSI 56.3, rising MACD, price above SMA-20), and its low share price lets us use whatever cash is left after HPE on this risk-on day."
+      "reasoning": "NVDA is the only candidate with all four confirmation signals today: RSI 63.4 in the bullish zone, MACD above its signal line, price well above SMA-20, and a volume surge above 1.5x the 20-day average, which points to institutional buying."
     }
   ],
   "outcomes": {
