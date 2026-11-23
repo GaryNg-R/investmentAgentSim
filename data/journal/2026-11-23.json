@@ -1,22 +1,28 @@
 {
   "date": "2026-11-23",
-  "briefing": "Markets jumped sharply today, with the NASDAQ up 6.6% and the S&P 500 up 4.9%. That is a strong risk-on day, so we are putting our remaining $646 of idle cash to work as our strategy notes recommend. We are buying NVIDIA, the only candidate where all four momentum signals line up, and holding all 7 existing positions so the automatic profit targets and stop-losses can do their job.",
+  "briefing": "It was a very strong day for stocks: the NASDAQ rose 6.5% and the S&P 500 rose 4.7%, led by chip and AI-hardware names. Following our playbook of putting spare cash to work on big up days, we are using the $646 in cash on ALAB and SMTC, the two top candidates where all four signals lined up. All seven existing positions stay as they are, and their automatic profit targets and stop-losses remain in place.",
   "daily_lesson": {
-    "term": "Risk-On",
-    "explanation_en": "A risk-on day is when investors feel confident and move money out of safe assets and into riskier ones like growth and tech stocks, which pushes the major indexes sharply higher. Momentum strategies tend to work best on these days, so it is a good time to put idle cash to work. Volume confirmation still matters, because heavy trading volume suggests big institutions are buying and the move is less likely to be a one-day blip.",
-    "explanation_zh": "所謂「風險偏好」（Risk-On）市況，是指投資者信心回升，資金從避險資產流向成長股、科技股等較高風險的資產，帶動主要指數大幅上揚。動能策略在這類日子往往最為奏效，正是把閒置現金投入市場的好時機。不過成交量的確認依然重要：成交放量代表大型機構資金積極入市，升勢較不易只是曇花一現。"
+    "term": "Risk-On Rally",
+    "explanation_en": "A risk-on rally is a day when investors feel confident and move money into riskier, faster-growing investments like tech and chip stocks, so most stocks rise together. Days like today, with the NASDAQ up 6.5%, are often a good time to put idle cash to work, but it still makes sense to choose stocks with several confirming signals rather than buying everything.",
+    "explanation_zh": "「風險偏好升浪」（Risk-On Rally）是指投資者信心高漲，將資金轉投科技股、半導體股等較高風險、高增長資產，令大市普遍齊升的情況。像今日納指急升6.5%這類日子，往往是動用閒置資金入市的好時機，但仍應挑選多項技術指標同時確認的股份，而非盲目追捧。"
   },
   "market_education": {
-    "summary_en": "US stocks rallied broadly today, with the tech-heavy NASDAQ gaining 6.6% and the S&P 500 rising 4.9%. Semiconductor and AI hardware names led the move, and the screened list is full of chip and data-center names (NVDA, MU, INTC, DELL, HPE) showing fresh bullish MACD crossovers. No news headlines came with today's data, so we can't cite a specific trigger; a one-day move this large usually follows a major macro surprise or policy news and should be confirmed in the next few sessions.",
-    "summary_zh": "美股今日全面強彈，以科技股為主的納斯達克指數急升6.6%，標普500指數亦漲4.9%。半導體與AI硬體板塊領漲，候選名單中NVDA、MU、INTC、DELL、HPE等晶片及數據中心概念股紛紛出現MACD黃金交叉。由於今日數據未附相關新聞標題，暫無法引述具體催化因素；單日如此大的升幅，通常源於重大宏觀數據意外或政策消息，後市仍需數個交易日確認升勢能否延續。",
+    "summary_en": "Major US indexes jumped sharply today, with the NASDAQ up 6.5% and the S&P 500 up 4.7%, a move that size usually reflects a big shift in investor mood across the whole market rather than news about one company. Semiconductor and AI-infrastructure stocks led the gains, with names like ALAB, SMTC, NVDA, MU and MRVL showing bullish crossovers and heavy trading volume, which suggests large investors were buying in. No news headlines came with today's data, so we can't name the specific trigger, but rallies this broad and this heavy usually come from macro news such as interest-rate expectations or economic data.",
+    "summary_zh": "美股今日全面急升，納斯達克指數大漲6.5%，標普500指數亦升4.7%。如此幅度的單日升勢，通常反映整體市場情緒出現明顯轉向，而非單一公司消息所致。半導體及AI基建股領漲，ALAB、SMTC、NVDA、MU、MRVL等多隻個股出現技術性黃金交叉並伴隨成交量顯著放大，顯示大型機構資金積極進場。由於今日未有相關新聞資料，暫無法確定具體觸發因素，但如此廣泛且量能充沛的升浪，一般與利率預期或經濟數據等宏觀因素有關。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "NVDA",
+      "ticker": "ALAB",
       "conviction": "high",
-      "reasoning": "NVDA is the only candidate with all four confirmation signals today: RSI 63.4 in the bullish zone, MACD above its signal line, price well above SMA-20, and a volume surge above 1.5x the 20-day average, which points to institutional buying."
+      "reasoning": "ALAB shows all four confirmation signals: a MACD bullish crossover with a rising histogram, RSI at 60 (bullish but not overbought), price well above its 20-day average, and a volume surge, on a strong risk-on day."
+    },
+    {
+      "action": "BUY",
+      "ticker": "SMTC",
+      "conviction": "medium",
+      "reasoning": "SMTC also shows all four confirmation signals with a healthy RSI of 57, and its lower share price lets the remaining cash be used more fully after ALAB."
     }
   ],
   "outcomes": {
