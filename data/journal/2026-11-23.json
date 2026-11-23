@@ -1,17 +1,24 @@
 {
   "date": "2026-11-23",
-  "briefing": "Stocks fell hard today: the NASDAQ dropped 5.3% and the S&P 500 dropped 3.7%. That is a clear risk-off day, and the screener returned no candidates. I made no trades and paused new buys. The $546 in cash stays on hand, and the automatic -7% stop-losses and +12% profit targets will handle exits on the seven open positions instead of panic-selling during a broad selloff.",
+  "briefing": "It was a very strong up day: the NASDAQ rose 6.7% and the S&P 500 rose 4.7%, and almost every screened stock flashed bullish signals. Our strategy notes say to put spare cash to work on strong up days, so I'm using the $646 of idle cash to buy TSM. I picked it over NVDA because NVDA's RSI (67.4) is close to overbought. I'm keeping all seven current holdings and letting the automatic profit targets and stop-losses manage them.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A risk-off day is when investors get nervous and sell riskier assets like tech and growth stocks, often moving money into safer places such as cash or bonds. On days like this, many disciplined traders stop opening new positions, because buying into a falling market can mean catching a 'falling knife'. Instead, they let pre-set stop-losses protect them from bigger losses.",
-    "explanation_zh": "「避險情緒」（Risk-Off）是指投資者轉趨審慎，紛紛拋售科技股、成長股等高風險資產，並將資金轉投現金或債券等較安全的資產。在這類交易日，不少紀律嚴明的交易者會暫停建立新倉，以免在跌市中「接飛刀」；他們會依靠預先設定的止蝕位，防止損失進一步擴大。"
+    "term": "Risk-On Rally",
+    "explanation_en": "A risk-on rally is a day when investors feel confident and move money into riskier, faster-growing stocks such as tech and semiconductors, pushing them up a lot. A broad rally on heavy volume like today's means many investors are buying at once, which is a stronger signal than a few stocks rising alone. Even so, it's wise to avoid stocks that already look overbought (RSI near or above 70), because sharp jumps often partly reverse.",
+    "explanation_zh": "「風險偏好上升」（Risk-On）是指投資者信心充足，將資金轉投科技股、半導體股等較高風險、增長較快的資產，帶動這些股份大幅上升。像今日這樣成交量大增的全面升市，代表大量投資者同時入市，比單一股份獨自上升更具參考價值。不過，仍應避免追入已經超買（RSI接近或高於70）的股份，因為急升之後往往會出現部分回吐。"
   },
   "market_education": {
-    "summary_en": "US stocks sold off sharply today, led by technology: the NASDAQ fell 5.3% and the S&P 500 fell 3.7%. The NASDAQ fell much more than the broader index, which suggests investors were selling growth and tech stocks first and moving toward safer assets. No news headlines were included in today's data feed, so I can't say for sure what caused the drop. Moves this large usually come from big-picture worries, such as interest rates, the economy or company valuations, rather than news about a single company.",
-    "summary_zh": "美股今日顯著下挫，科技股領跌，納斯達克指數重挫5.3%，標普500指數亦下跌3.7%。納指跌幅明顯大於大市，反映資金率先撤出成長股及科技股，轉向較為穩健的資產避險。由於今日數據未附上相關新聞標題，暫難確定觸發拋售的具體原因；不過如此大幅度的跌勢，通常源於利率、經濟前景或估值等宏觀憂慮，而非個別企業消息。",
+    "summary_en": "Stocks rose sharply across the board: the NASDAQ gained 6.7% and the S&P 500 gained 4.7%, with semiconductor and AI-infrastructure names like NVDA, TSM, DELL and INTC leading. No news headlines were provided for today, so this summary is based only on price and volume data. The heavy trading volume across nearly every candidate suggests big investors were buying broadly, not just a few stocks rising on their own news.",
+    "summary_zh": "今日美股全面急升，納指大漲6.7%，標普500指數亦升4.7%，領漲的是半導體及AI基建股，包括NVDA、TSM、DELL及INTC。由於今日未有相關新聞標題，以上分析只根據價格及成交量數據。幾乎所有候選股份的成交量都大增，反映大型投資者是全面入市買貨，而不只是個別股份因自身消息而上升。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "TSM",
+      "conviction": "high",
+      "reasoning": "TSM shows all four buy signals (MACD crossover, RSI 61.3 still below overbought, price above its 20-day average, heavy volume), and it is a quality large-cap way to ride today's broad chip rally."
+    }
+  ],
   "outcomes": {
     "total_value": 14986.44502401352,
     "cash": 645.8750281333923,
