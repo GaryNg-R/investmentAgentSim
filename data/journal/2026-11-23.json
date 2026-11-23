@@ -1,14 +1,14 @@
 {
   "date": "2026-11-23",
-  "briefing": "Markets rallied strongly today, with the NASDAQ up 7.0% and the S&P 500 up 5.1%, a clear risk-on signal. We have $646 in cash and 3 open slots, so we're following our playbook and putting the idle cash into the strongest candidates: NVDA first and CRWV second. All 7 current positions stay as they are, and their profit targets and stop-losses will handle exits.",
+  "briefing": "Markets jumped sharply, with the NASDAQ up 6.8% and the S&P 500 up 4.9%. A move this big is unusual, so the figures may cover more than one trading day. We hold all 7 existing positions and let their automatic profit targets and stop-losses work. We put our $646 of spare cash to work, NVDA first and then INTC, because both show every signal we look for, including heavy trading volume.",
   "daily_lesson": {
-    "term": "Risk-On Rally",
-    "explanation_en": "A risk-on rally happens when investors feel confident and move money out of safe assets into riskier ones like tech stocks, pushing broad indexes sharply higher. A rally is more trustworthy when many stocks rise on heavy trading volume, because that shows large investors are taking part. For a trader, it's often a good moment to put idle cash to work in the strongest stocks, while keeping stop-losses in place in case the move reverses.",
-    "explanation_zh": "所謂「風險偏好回升」（Risk-On），是指投資者信心轉強，將資金由避險資產轉投科技股等較高風險資產，帶動大市指數急升。若升勢由大量個股配合成交放大推動，可信度會更高，因為這顯示大型機構資金正積極參與。對交易者而言，這通常是把閒置現金投入最強勢股份的好時機，但仍應設好止蝕位，以防升勢逆轉。"
+    "term": "Risk-On",
+    "explanation_en": "'Risk-on' describes a day when investors feel confident and move money into growth assets like tech stocks instead of safe options like cash or bonds. You can tell it is happening when prices rise across many stocks at once, especially fast-growing ones. Risk-on days are good for adding positions, but very sharp jumps can reverse, so stop-losses still matter.",
+    "explanation_zh": "「風險偏好升溫」(Risk-On)是指投資者信心增強，將資金從現金、債券等避險資產轉投科技股等增長型資產。當大市普遍上升，尤其是高增長股份領漲時，就是典型的Risk-On格局。這類日子適合增持倉位，但急升過後亦可能出現回吐，因此止蝕機制仍不可或缺。"
   },
   "market_education": {
-    "summary_en": "US stocks rallied broadly today, with the NASDAQ up 7.0% and the S&P 500 up 5.1%, and tech and semiconductor stocks led the way. Strength was broad across AI-infrastructure and chip names such as NVDA, MU, MRVL, CRDO and DELL, and many showed volume surges, which suggests big institutional buyers were stepping in rather than a thin rally. No news headlines were provided for today, so we can't name a specific trigger, but this kind of broad, high-volume move usually reflects a shift in big-picture sentiment such as interest-rate expectations or AI spending outlooks.",
-    "summary_zh": "美股今日全面急升，納指大漲7.0%，標普500指數亦升5.1%，以科技及半導體板塊領漲。NVDA、MU、MRVL、CRDO、DELL等AI基建及晶片股普遍走強，不少個股更出現成交量急增，反映資金屬機構主導入市，而非淡市中的虛升。由於今日未有提供相關新聞標題，暫難確定具體催化因素，但如此廣泛且量價齊升的升勢，通常源於利率預期或AI資本開支前景等宏觀情緒轉變。",
+    "summary_en": "US stocks rallied broadly today: the NASDAQ rose 6.8% and the S&P 500 rose 4.9%, led by semiconductor and AI-infrastructure names such as NVDA, MU, DELL and MRVL, many of which broke above their 20-day averages. Heavy trading volume in leaders like NVDA, INTC and TSLA suggests large investors were buying, not just a thin bounce. No news headlines came with today's data, so we cannot name a specific cause; the explanation is based only on price and volume.",
+    "summary_zh": "美股今日全面強勢反彈，納指急升6.8%，標普500指數亦揚4.9%，半導體及AI基建股領漲，NVDA、MU、DELL、MRVL等多隻個股紛紛升穿20日均線。NVDA、INTC及TSLA等龍頭股成交量明顯放大，顯示有大型機構資金入市，並非單純的弱勢反彈。由於今日數據未附相關新聞標題，暫未能確定具體觸發因素，以上分析僅依據價格及成交量。",
     "sources": []
   },
   "trades": [
@@ -16,13 +16,13 @@
       "action": "BUY",
       "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "NVDA has a perfect 100 score with all four confirmation signals: a MACD bullish crossover, RSI of 66.6 (still under 70), price well above its 20-day average, and a volume surge, all on a strong risk-on day."
+      "reasoning": "NVDA shows all four signals the strategy asks for (MACD crossover, RSI 64.5 below 70, price well above its 20-day average, and a volume surge), so this looks like real buying from big investors on a strong up day."
     },
     {
       "action": "BUY",
-      "ticker": "CRWV",
+      "ticker": "INTC",
       "conviction": "medium",
-      "reasoning": "CRWV also scores 100 with all four signals confirmed, and its RSI of 58.6 leaves more room to rise before it gets overbought, so it is a good second pick if cash allows."
+      "reasoning": "INTC also has all four signals with a moderate RSI of 59, which makes it a good second pick if cash is left after NVDA; it is medium conviction because the portfolio already holds a lot of tech."
     }
   ],
   "outcomes": {
