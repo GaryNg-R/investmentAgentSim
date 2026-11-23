@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-11-23T17:00:49.935947+00:00",
+  "saved_at": "2026-11-23T18:00:48.734200+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
@@ -7,26 +7,20 @@
         "action": "BUY",
         "ticker": "NVDA",
         "conviction": "high",
-        "reasoning": "NVDA shows all four signals the strategy asks for (MACD crossover, RSI 64.5 below 70, price well above its 20-day average, and a volume surge), so this looks like real buying from big investors on a strong up day."
-      },
-      {
-        "action": "BUY",
-        "ticker": "INTC",
-        "conviction": "medium",
-        "reasoning": "INTC also has all four signals with a moderate RSI of 59, which makes it a good second pick if cash is left after NVDA; it is medium conviction because the portfolio already holds a lot of tech."
+        "reasoning": "NVDA is the only candidate showing all four confirmation signals at once: a MACD crossover, RSI at 62.2 (bullish but below overbought), price well above its 20-day average, and a volume surge, which together point to institutional buying."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets jumped sharply, with the NASDAQ up 6.8% and the S&P 500 up 4.9%. A move this big is unusual, so the figures may cover more than one trading day. We hold all 7 existing positions and let their automatic profit targets and stop-losses work. We put our $646 of spare cash to work, NVDA first and then INTC, because both show every signal we look for, including heavy trading volume.",
+    "briefing": "Stocks jumped today, with the NASDAQ up 6.7% and the S&P 500 up 4.8%. Moves this large in one day are rare, so the data may cover more than one session. Following our rule of using spare cash on strong up days, we are putting the available $645 into NVDA, the only candidate with every confirmation signal including above-average trading volume. All seven existing positions stay open, and their automatic stop-loss and profit-target sells remain in place.",
     "market_education": {
-      "summary_en": "US stocks rallied broadly today: the NASDAQ rose 6.8% and the S&P 500 rose 4.9%, led by semiconductor and AI-infrastructure names such as NVDA, MU, DELL and MRVL, many of which broke above their 20-day averages. Heavy trading volume in leaders like NVDA, INTC and TSLA suggests large investors were buying, not just a thin bounce. No news headlines came with today's data, so we cannot name a specific cause; the explanation is based only on price and volume.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u5f37\u52e2\u53cd\u5f48\uff0c\u7d0d\u6307\u6025\u53476.8%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u63da4.9%\uff0c\u534a\u5c0e\u9ad4\u53caAI\u57fa\u5efa\u80a1\u9818\u6f32\uff0cNVDA\u3001MU\u3001DELL\u3001MRVL\u7b49\u591a\u96bb\u500b\u80a1\u7d1b\u7d1b\u5347\u7a7f20\u65e5\u5747\u7dda\u3002NVDA\u3001INTC\u53caTSLA\u7b49\u9f8d\u982d\u80a1\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\uff0c\u986f\u793a\u6709\u5927\u578b\u6a5f\u69cb\u8cc7\u91d1\u5165\u5e02\uff0c\u4e26\u975e\u55ae\u7d14\u7684\u5f31\u52e2\u53cd\u5f48\u3002\u7531\u65bc\u4eca\u65e5\u6578\u64da\u672a\u9644\u76f8\u95dc\u65b0\u805e\u6a19\u984c\uff0c\u66ab\u672a\u80fd\u78ba\u5b9a\u5177\u9ad4\u89f8\u767c\u56e0\u7d20\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u4f9d\u64da\u50f9\u683c\u53ca\u6210\u4ea4\u91cf\u3002",
+      "summary_en": "US stocks rose sharply and broadly today: the NASDAQ gained 6.7% and the S&P 500 gained 4.8%, with semiconductor and AI hardware names such as NVDA, MU, DELL and MRVL leading. No news headlines were provided with today's data, so we can't name the specific cause, and a one-day move this big may reflect more than one trading session. Technology stocks rising more than the wider market suggests investors were willing to take on more risk and moved money back into higher-growth AI and chip stocks.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u6025\u5347\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u6f326.7%\uff0c\u6a19\u666e500\u6307\u6578\u53474.8%\uff0c\u534a\u5c0e\u9ad4\u53caAI\u786c\u4ef6\u80a1\u5982NVDA\u3001MU\u3001DELL\u53caMRVL\u9818\u6f32\u3002\u4eca\u65e5\u6578\u64da\u672a\u9644\u65b0\u805e\u6a19\u984c\uff0c\u56e0\u6b64\u7121\u6cd5\u78ba\u5b9a\u89f8\u767c\u5347\u52e2\u7684\u5177\u9ad4\u6d88\u606f\uff1b\u55ae\u65e5\u5347\u5e45\u5982\u6b64\u5de8\u5927\uff0c\u4ea6\u53ef\u80fd\u6db5\u84cb\u591a\u65bc\u4e00\u500b\u4ea4\u6613\u65e5\u7684\u8d70\u52e2\u3002\u79d1\u6280\u80a1\u5347\u5e45\u660e\u986f\u8dd1\u8d0f\u5927\u5e02\uff0c\u53cd\u6620\u6295\u8cc7\u8005\u98a8\u96aa\u80c3\u7d0d\u56de\u5347\uff0c\u8cc7\u91d1\u91cd\u65b0\u6d41\u5165\u9ad8\u589e\u9577\u7684AI\u53ca\u6676\u7247\u677f\u584a\u3002",
       "sources": []
     },
     "daily_lesson": {
       "term": "Risk-On",
-      "explanation_en": "'Risk-on' describes a day when investors feel confident and move money into growth assets like tech stocks instead of safe options like cash or bonds. You can tell it is happening when prices rise across many stocks at once, especially fast-growing ones. Risk-on days are good for adding positions, but very sharp jumps can reverse, so stop-losses still matter.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u5347\u6eab\u300d(Risk-On)\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u589e\u5f37\uff0c\u5c07\u8cc7\u91d1\u5f9e\u73fe\u91d1\u3001\u50b5\u5238\u7b49\u907f\u96aa\u8cc7\u7522\u8f49\u6295\u79d1\u6280\u80a1\u7b49\u589e\u9577\u578b\u8cc7\u7522\u3002\u7576\u5927\u5e02\u666e\u904d\u4e0a\u5347\uff0c\u5c24\u5176\u662f\u9ad8\u589e\u9577\u80a1\u4efd\u9818\u6f32\u6642\uff0c\u5c31\u662f\u5178\u578b\u7684Risk-On\u683c\u5c40\u3002\u9019\u985e\u65e5\u5b50\u9069\u5408\u589e\u6301\u5009\u4f4d\uff0c\u4f46\u6025\u5347\u904e\u5f8c\u4ea6\u53ef\u80fd\u51fa\u73fe\u56de\u5410\uff0c\u56e0\u6b64\u6b62\u8755\u6a5f\u5236\u4ecd\u4e0d\u53ef\u6216\u7f3a\u3002"
+      "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets such as tech and chip stocks, instead of safe havens like bonds or cash. You can often spot it when the tech-heavy NASDAQ rises more than the broader S&P 500, as it did today. For an active investor, a risk-on day is often a good time to put spare cash to work in the strongest candidates.",
+      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u8cc7\u91d1\u5f9e\u50b5\u5238\u6216\u73fe\u91d1\u7b49\u907f\u96aa\u8cc7\u7522\uff0c\u8f49\u6295\u79d1\u6280\u80a1\u53ca\u6676\u7247\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u3001\u589e\u9577\u8f03\u5feb\u7684\u8cc7\u7522\u3002\u5e38\u898b\u7684\u8de1\u8c61\u662f\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5347\u5e45\u8dd1\u8d0f\u6574\u9ad4\u6a19\u666e500\u6307\u6578\uff0c\u6b63\u5982\u4eca\u65e5\u7684\u60c5\u6cc1\u3002\u5c0d\u4e3b\u52d5\u578b\u6295\u8cc7\u8005\u800c\u8a00\uff0c\u9019\u985e\u65e5\u5b50\u5f80\u5f80\u662f\u5c07\u9592\u7f6e\u73fe\u91d1\u6295\u5165\u6700\u5f37\u52e2\u6a19\u7684\u7684\u597d\u6642\u6a5f\u3002"
     }
   }
 }

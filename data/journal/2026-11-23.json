@@ -1,14 +1,14 @@
 {
   "date": "2026-11-23",
-  "briefing": "Markets jumped sharply, with the NASDAQ up 6.8% and the S&P 500 up 4.9%. A move this big is unusual, so the figures may cover more than one trading day. We hold all 7 existing positions and let their automatic profit targets and stop-losses work. We put our $646 of spare cash to work, NVDA first and then INTC, because both show every signal we look for, including heavy trading volume.",
+  "briefing": "Stocks jumped today, with the NASDAQ up 6.7% and the S&P 500 up 4.8%. Moves this large in one day are rare, so the data may cover more than one session. Following our rule of using spare cash on strong up days, we are putting the available $645 into NVDA, the only candidate with every confirmation signal including above-average trading volume. All seven existing positions stay open, and their automatic stop-loss and profit-target sells remain in place.",
   "daily_lesson": {
     "term": "Risk-On",
-    "explanation_en": "'Risk-on' describes a day when investors feel confident and move money into growth assets like tech stocks instead of safe options like cash or bonds. You can tell it is happening when prices rise across many stocks at once, especially fast-growing ones. Risk-on days are good for adding positions, but very sharp jumps can reverse, so stop-losses still matter.",
-    "explanation_zh": "「風險偏好升溫」(Risk-On)是指投資者信心增強，將資金從現金、債券等避險資產轉投科技股等增長型資產。當大市普遍上升，尤其是高增長股份領漲時，就是典型的Risk-On格局。這類日子適合增持倉位，但急升過後亦可能出現回吐，因此止蝕機制仍不可或缺。"
+    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets such as tech and chip stocks, instead of safe havens like bonds or cash. You can often spot it when the tech-heavy NASDAQ rises more than the broader S&P 500, as it did today. For an active investor, a risk-on day is often a good time to put spare cash to work in the strongest candidates.",
+    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心充足，資金從債券或現金等避險資產，轉投科技股及晶片股等風險較高、增長較快的資產。常見的跡象是以科技股為主的納斯達克指數升幅跑贏整體標普500指數，正如今日的情況。對主動型投資者而言，這類日子往往是將閒置現金投入最強勢標的的好時機。"
   },
   "market_education": {
-    "summary_en": "US stocks rallied broadly today: the NASDAQ rose 6.8% and the S&P 500 rose 4.9%, led by semiconductor and AI-infrastructure names such as NVDA, MU, DELL and MRVL, many of which broke above their 20-day averages. Heavy trading volume in leaders like NVDA, INTC and TSLA suggests large investors were buying, not just a thin bounce. No news headlines came with today's data, so we cannot name a specific cause; the explanation is based only on price and volume.",
-    "summary_zh": "美股今日全面強勢反彈，納指急升6.8%，標普500指數亦揚4.9%，半導體及AI基建股領漲，NVDA、MU、DELL、MRVL等多隻個股紛紛升穿20日均線。NVDA、INTC及TSLA等龍頭股成交量明顯放大，顯示有大型機構資金入市，並非單純的弱勢反彈。由於今日數據未附相關新聞標題，暫未能確定具體觸發因素，以上分析僅依據價格及成交量。",
+    "summary_en": "US stocks rose sharply and broadly today: the NASDAQ gained 6.7% and the S&P 500 gained 4.8%, with semiconductor and AI hardware names such as NVDA, MU, DELL and MRVL leading. No news headlines were provided with today's data, so we can't name the specific cause, and a one-day move this big may reflect more than one trading session. Technology stocks rising more than the wider market suggests investors were willing to take on more risk and moved money back into higher-growth AI and chip stocks.",
+    "summary_zh": "美股今日全面急升，納斯達克指數大漲6.7%，標普500指數升4.8%，半導體及AI硬件股如NVDA、MU、DELL及MRVL領漲。今日數據未附新聞標題，因此無法確定觸發升勢的具體消息；單日升幅如此巨大，亦可能涵蓋多於一個交易日的走勢。科技股升幅明顯跑贏大市，反映投資者風險胃納回升，資金重新流入高增長的AI及晶片板塊。",
     "sources": []
   },
   "trades": [
@@ -16,13 +16,7 @@
       "action": "BUY",
       "ticker": "NVDA",
       "conviction": "high",
-      "reasoning": "NVDA shows all four signals the strategy asks for (MACD crossover, RSI 64.5 below 70, price well above its 20-day average, and a volume surge), so this looks like real buying from big investors on a strong up day."
-    },
-    {
-      "action": "BUY",
-      "ticker": "INTC",
-      "conviction": "medium",
-      "reasoning": "INTC also has all four signals with a moderate RSI of 59, which makes it a good second pick if cash is left after NVDA; it is medium conviction because the portfolio already holds a lot of tech."
+      "reasoning": "NVDA is the only candidate showing all four confirmation signals at once: a MACD crossover, RSI at 62.2 (bullish but below overbought), price well above its 20-day average, and a volume surge, which together point to institutional buying."
     }
   ],
   "outcomes": {
