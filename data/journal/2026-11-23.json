@@ -1,14 +1,14 @@
 {
   "date": "2026-11-23",
-  "briefing": "It was a very strong day for stocks: the NASDAQ rose 6.5% and the S&P 500 rose 4.7%, led by chip and AI-hardware names. Following our playbook of putting spare cash to work on big up days, we are using the $646 in cash on ALAB and SMTC, the two top candidates where all four signals lined up. All seven existing positions stay as they are, and their automatic profit targets and stop-losses remain in place.",
+  "briefing": "Markets rallied sharply today, with the NASDAQ up 6.5% and the S&P 500 up 4.7%, a clear risk-on day led by semiconductors and AI infrastructure stocks. Our lessons say to put cash to work on strong up days like this, so the idle $645 goes to the two top-scoring candidates, ALAB and SMTC, which both show every confirmation signal we look for. All seven existing positions stay open, and the automatic profit targets and stop-losses will manage the exits.",
   "daily_lesson": {
     "term": "Risk-On Rally",
-    "explanation_en": "A risk-on rally is a day when investors feel confident and move money into riskier, faster-growing investments like tech and chip stocks, so most stocks rise together. Days like today, with the NASDAQ up 6.5%, are often a good time to put idle cash to work, but it still makes sense to choose stocks with several confirming signals rather than buying everything.",
-    "explanation_zh": "「風險偏好升浪」（Risk-On Rally）是指投資者信心高漲，將資金轉投科技股、半導體股等較高風險、高增長資產，令大市普遍齊升的情況。像今日納指急升6.5%這類日子，往往是動用閒置資金入市的好時機，但仍應挑選多項技術指標同時確認的股份，而非盲目追捧。"
+    "explanation_en": "A risk-on rally is a day when investors feel confident and move money into riskier, faster-growing assets such as tech and chip stocks, so major indexes jump together. Today's 6.5% NASDAQ gain is a strong example. Active traders often use days like this to put idle cash to work, but they still pick stocks with several confirming signals instead of buying whatever is rising.",
+    "explanation_zh": "「風險偏好上升行情」（Risk-On Rally）是指投資者信心高漲，資金湧向科技股、半導體股等較高風險但增長較快的資產，帶動主要指數同步急升。今日納指大漲6.5%正是典型例子。積極型投資者往往會趁這類日子將閒置資金投入市場，但仍應挑選具備多重技術訊號確認的股份，而非盲目追捧所有上升中的股票。"
   },
   "market_education": {
-    "summary_en": "Major US indexes jumped sharply today, with the NASDAQ up 6.5% and the S&P 500 up 4.7%, a move that size usually reflects a big shift in investor mood across the whole market rather than news about one company. Semiconductor and AI-infrastructure stocks led the gains, with names like ALAB, SMTC, NVDA, MU and MRVL showing bullish crossovers and heavy trading volume, which suggests large investors were buying in. No news headlines came with today's data, so we can't name the specific trigger, but rallies this broad and this heavy usually come from macro news such as interest-rate expectations or economic data.",
-    "summary_zh": "美股今日全面急升，納斯達克指數大漲6.5%，標普500指數亦升4.7%。如此幅度的單日升勢，通常反映整體市場情緒出現明顯轉向，而非單一公司消息所致。半導體及AI基建股領漲，ALAB、SMTC、NVDA、MU、MRVL等多隻個股出現技術性黃金交叉並伴隨成交量顯著放大，顯示大型機構資金積極進場。由於今日未有相關新聞資料，暫無法確定具體觸發因素，但如此廣泛且量能充沛的升浪，一般與利率預期或經濟數據等宏觀因素有關。",
+    "summary_en": "US stocks rose broadly today, with the tech-heavy NASDAQ up 6.5% and the S&P 500 up 4.7%. Chip and AI-infrastructure names led the move: ALAB, SMTC, MTSI, TSEM, NVDA and MU all show bullish MACD crossovers and prices above their 20-day averages. Several also traded on unusually high volume, which suggests big institutions were buying. No news headlines came with today's data, so no specific news catalyst can be cited, and the explanation rests only on price and volume behaviour.",
+    "summary_zh": "美股今日全面急升，以科技股為主的納斯達克指數大漲6.5%，標普500指數亦升4.7%。半導體及AI基建股領漲，ALAB、SMTC、MTSI、TSEM、NVDA及MU等個股均出現MACD黃金交叉，股價亦企穩20日均線之上；其中多隻股份成交量明顯放大，反映大型機構資金積極入市。由於今日數據未附相關新聞標題，未能引述具體消息催化因素，以上分析僅基於價格及成交量表現。",
     "sources": []
   },
   "trades": [
@@ -16,13 +16,13 @@
       "action": "BUY",
       "ticker": "ALAB",
       "conviction": "high",
-      "reasoning": "ALAB shows all four confirmation signals: a MACD bullish crossover with a rising histogram, RSI at 60 (bullish but not overbought), price well above its 20-day average, and a volume surge, on a strong risk-on day."
+      "reasoning": "ALAB has a perfect score of 100 with all four confirmation signals: RSI 60.2 in the bullish zone, a bullish MACD crossover with a rising histogram, price above its SMA-20, and a volume surge that points to institutional buying."
     },
     {
       "action": "BUY",
       "ticker": "SMTC",
-      "conviction": "medium",
-      "reasoning": "SMTC also shows all four confirmation signals with a healthy RSI of 57, and its lower share price lets the remaining cash be used more fully after ALAB."
+      "conviction": "high",
+      "reasoning": "SMTC also scores 100 with full multi-signal confirmation (RSI 57.4, rising MACD histogram, price above SMA-20, volume surge), and its lower share price makes it a good use of the remaining cash if ALAB can't be filled."
     }
   ],
   "outcomes": {
