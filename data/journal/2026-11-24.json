@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-24",
+  "briefing": "Markets rallied sharply today, with the NASDAQ up 6.5% and the S&P 500 up 4.7%, which is a clear risk-on day. Our strategy memory says to put idle cash to work on strong days like this, so the roughly $646 in cash goes to the top-scoring candidates that show all four confirmation signals, SMTC first and then ALAB. All seven existing positions stay as they are, and their automatic profit targets and stop-losses keep working.",
+  "daily_lesson": {
+    "term": "Risk-On",
+    "explanation_en": "'Risk-on' describes a day or period when investors feel confident and move money into riskier assets like growth and tech stocks, pushing those prices up. Today's moves, with the NASDAQ up 6.5% and the S&P 500 up 4.7%, are a textbook risk-on day. A disciplined investor can use days like this to put spare cash to work in their strongest ideas, while still keeping stop-losses in place in case the mood reverses.",
+    "explanation_zh": "「風險偏好」（Risk-On）指投資者情緒樂觀，願意將資金投入科技股、增長股等較高風險資產，推高相關股價。今日納指急升6.5%、標普500升4.7%，正是典型的風險偏好日。有紀律的投資者會趁這類日子把閒置資金投入最看好的標的，但同時保留止蝕機制，以防市場情緒逆轉。"
+  },
+  "market_education": {
+    "summary_en": "Stocks surged broadly today, and the NASDAQ outpaced the S&P 500 because semiconductor and AI-infrastructure names led the rally, as shown by the many chip stocks (ALAB, SMTC, MTSI, NVDA, MU) at the top of the momentum screen. A move this large across the whole market usually means big investors are shifting toward risk at the same time, often because of a change in expectations about the economy or interest rates. No specific news headlines were provided today, so this explanation is based only on price and technical data rather than cited reports.",
+    "summary_zh": "今日美股全面急升，納指升幅明顯跑贏標普500，主要由半導體及AI基建股帶動，動能篩選榜前列幾乎清一色是晶片股，包括ALAB、SMTC、MTSI、NVDA及MU。如此大幅度的普漲，通常反映大型資金同步轉向風險資產，背後多與市場對經濟前景或利率走向的預期轉變有關。由於今日未有提供具體新聞標題，以上分析僅根據股價及技術數據作出，並無引用任何報道。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "SMTC",
+      "conviction": "high",
+      "reasoning": "Perfect 100 score with all four confirmation signals (bullish RSI 57.4, MACD crossover with rising histogram, price above SMA-20, volume surge), and its lower share price fits the available cash better."
+    },
+    {
+      "action": "BUY",
+      "ticker": "ALAB",
+      "conviction": "medium",
+      "reasoning": "Perfect 100 score with full multi-signal confirmation including a volume surge on a strong risk-on day, but limited cash may restrict sizing."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14986.44502401352,
+    "cash": 645.8750281333923,
+    "pnl_dollar": 4986.445024013519,
+    "pnl_pct": 49.86445024013519,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "NET",
+        "shares": 6.0,
+        "avg_cost": 276.9949951171875
+      }
+    ]
+  }
+}
