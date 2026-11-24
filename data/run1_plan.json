@@ -1,26 +1,19 @@
 {
-  "saved_at": "2026-11-24T15:00:49.008466+00:00",
-  "market_direction": "neutral",
+  "saved_at": "2026-11-24T16:00:36.071431+00:00",
+  "market_direction": "risk_off",
   "decisions": {
-    "trades": [
-      {
-        "action": "BUY",
-        "ticker": "BURL",
-        "conviction": "medium",
-        "reasoning": "BURL shows all four confirmation signals (MACD crossover, rising histogram, RSI 64.7 below overbought, price above SMA-20 with a volume surge), and as an off-price retailer it holds up better than tech on a day when NASDAQ is selling off."
-      }
-    ],
-    "skip_new_buys": false,
-    "briefing": "Tech stocks dipped today (NASDAQ -0.9%) while the broader S&P 500 was nearly flat (-0.2%), so the market is neutral rather than risk-off. We have $646 in cash and 3 open slots, so we're making one medium-sized buy in Burlington, which has every confirmation signal and isn't overheated. We're holding all seven existing positions and letting the automatic stop-loss and profit-target rules manage them.",
+    "trades": [],
+    "skip_new_buys": true,
+    "briefing": "Stocks fell broadly today, with the tech-heavy NASDAQ down 2.2% and the S&P 500 down 1.1%, so the screener returned no candidates. We are holding all 7 positions and adding nothing, keeping $645.88 in cash. The automatic stop-losses and profit targets will still protect the portfolio, which is up 49.9% overall.",
     "market_education": {
-      "summary_en": "Tech-heavy stocks fell more than the overall market today, with the NASDAQ down 0.9% and the S&P 500 down only 0.2%, which means investors moved money between sectors instead of leaving the market. Many of the screened stocks showing strength, like retailers (BURL, KSS, DKS, DLTR, ANF) and biotech names, are outside big tech, which points to money moving into consumer and healthcare stocks ahead of the holiday shopping season. No news headlines were provided today, so this explanation comes only from price and sector patterns and doesn't cite specific reports.",
-      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u80a1\u8dd1\u8f38\u5927\u5e02\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.9%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u50c5\u5fae\u8dcc0.2%\uff0c\u53cd\u6620\u8cc7\u91d1\u5728\u677f\u584a\u4e4b\u9593\u8f2a\u52d5\uff0c\u800c\u975e\u5168\u9762\u64a4\u96e2\u80a1\u5e02\u3002\u5f9e\u7be9\u9078\u7d50\u679c\u4f86\u770b\uff0c\u8d70\u52e2\u5f37\u52c1\u7684\u500b\u80a1\u591a\u5c6c\u79d1\u6280\u4ee5\u5916\u7684\u677f\u584a\uff0c\u4f8b\u5982\u96f6\u552e\u80a1\uff08BURL\u3001KSS\u3001DKS\u3001DLTR\u3001ANF\uff09\u53ca\u751f\u7269\u79d1\u6280\u80a1\uff0c\u986f\u793a\u8cc7\u91d1\u5728\u5e74\u672b\u8cfc\u7269\u65fa\u5b63\u524d\u8f49\u5411\u6d88\u8cbb\u53ca\u91ab\u7642\u677f\u584a\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u80a1\u50f9\u53ca\u677f\u584a\u8d70\u52e2\u4f5c\u51fa\uff0c\u4e26\u672a\u5f15\u7528\u5177\u9ad4\u5831\u9053\u3002",
+      "summary_en": "US stocks fell across the board today, and tech led the way down: the NASDAQ lost 2.2%, about twice the S&P 500's 1.1% drop. When tech falls faster than the broad market, it usually means investors are moving out of high-valuation growth stocks and into safer assets. No news headlines were supplied for today's session, so this summary describes the price action only and does not name a specific cause.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u7dda\u53d7\u58d3\uff0c\u79d1\u6280\u80a1\u8dcc\u5e45\u5c24\u70ba\u986f\u8457\uff1a\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u632b2.2%\uff0c\u8dcc\u5e45\u7d04\u70ba\u6a19\u666e500\u6307\u6578\uff08\u8dcc1.1%\uff09\u7684\u5169\u500d\u3002\u79d1\u6280\u80a1\u8dd1\u8f38\u5927\u5e02\uff0c\u901a\u5e38\u53cd\u6620\u8cc7\u91d1\u6b63\u64a4\u51fa\u9ad8\u4f30\u503c\u6210\u9577\u80a1\uff0c\u8f49\u6295\u8f03\u5177\u9632\u5b88\u6027\u7684\u8cc7\u7522\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u76f8\u95dc\u65b0\u805e\u8cc7\u6599\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u5c31\u76e4\u9762\u8d70\u52e2\u800c\u8ad6\uff0c\u672a\u80fd\u6307\u51fa\u5177\u9ad4\u89f8\u767c\u56e0\u7d20\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Sector Rotation",
-      "explanation_en": "Sector rotation is when investors move money from one part of the market to another, for example selling tech stocks and buying retail or healthcare stocks. That's why the NASDAQ can fall noticeably while the S&P 500 barely moves: money is changing places within the market, not leaving it. Watching where money flows can help you find stocks that are gaining strength even on a down day.",
-      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u67d0\u4e00\u677f\u584a\u8f49\u79fb\u81f3\u53e6\u4e00\u677f\u584a\uff0c\u4f8b\u5982\u6cbd\u552e\u79d1\u6280\u80a1\uff0c\u8f49\u800c\u8cb7\u5165\u96f6\u552e\u6216\u91ab\u7642\u80a1\u3002\u9019\u89e3\u91cb\u4e86\u70ba\u4f55\u7d0d\u65af\u9054\u514b\u6307\u6578\u660e\u986f\u4e0b\u8dcc\u6642\uff0c\u6a19\u666e500\u6307\u6578\u537b\u5e7e\u4e4e\u6301\u5e73\u2014\u2014\u8cc7\u91d1\u53ea\u662f\u5728\u5e02\u5834\u5167\u90e8\u63db\u4f4d\uff0c\u4e26\u975e\u64a4\u51fa\u80a1\u5e02\u3002\u7559\u610f\u8cc7\u91d1\u6d41\u5411\uff0c\u6709\u52a9\u6295\u8cc7\u8005\u5728\u5927\u5e02\u504f\u8edf\u7684\u65e5\u5b50\uff0c\u4ecd\u80fd\u627e\u51fa\u9006\u5e02\u8d70\u5f37\u7684\u80a1\u4efd\u3002"
+      "term": "Risk-Off",
+      "explanation_en": "Risk-off is when investors get nervous and sell riskier assets like growth and tech stocks, moving into safer places such as cash or bonds. Tech-heavy indexes like the NASDAQ usually fall harder than the overall market on these days. Pausing new buys during risk-off avoids buying into falling prices, while your existing protections such as stop-losses stay in place.",
+      "explanation_zh": "\u300c\u907f\u96aa\u60c5\u7dd2\u300d\uff08Risk-Off\uff09\u662f\u6307\u6295\u8cc7\u8005\u8f49\u8da8\u5be9\u614e\uff0c\u6cbd\u552e\u79d1\u6280\u80a1\u3001\u6210\u9577\u80a1\u7b49\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u8f49\u6295\u73fe\u91d1\u6216\u50b5\u5238\u7b49\u8f03\u5b89\u5168\u7684\u907f\u98a8\u6e2f\u3002\u5728\u9019\u985e\u4ea4\u6613\u65e5\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u8dcc\u5e45\u5f80\u5f80\u5927\u65bc\u5927\u5e02\u3002\u907f\u96aa\u60c5\u7dd2\u5347\u6eab\u6642\u66ab\u505c\u5efa\u5009\uff0c\u53ef\u907f\u514d\u5728\u8dcc\u5e02\u4e2d\u76f2\u76ee\u63a5\u8ca8\uff0c\u800c\u6b62\u8755\u7b49\u65e2\u6709\u98a8\u96aa\u7ba1\u7406\u6a5f\u5236\u5247\u7e7c\u7e8c\u767c\u63ee\u4fdd\u8b77\u4f5c\u7528\u3002"
     }
   }
 }
