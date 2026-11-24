@@ -1,32 +1,26 @@
 {
-  "saved_at": "2026-11-24T14:00:46.566751+00:00",
-  "market_direction": "risk_on",
+  "saved_at": "2026-11-24T15:00:49.008466+00:00",
+  "market_direction": "neutral",
   "decisions": {
     "trades": [
       {
         "action": "BUY",
-        "ticker": "SMTC",
-        "conviction": "high",
-        "reasoning": "Perfect 100 score with all four confirmation signals (bullish RSI 57.4, MACD crossover with rising histogram, price above SMA-20, volume surge), and its lower share price fits the available cash better."
-      },
-      {
-        "action": "BUY",
-        "ticker": "ALAB",
+        "ticker": "BURL",
         "conviction": "medium",
-        "reasoning": "Perfect 100 score with full multi-signal confirmation including a volume surge on a strong risk-on day, but limited cash may restrict sizing."
+        "reasoning": "BURL shows all four confirmation signals (MACD crossover, rising histogram, RSI 64.7 below overbought, price above SMA-20 with a volume surge), and as an off-price retailer it holds up better than tech on a day when NASDAQ is selling off."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets rallied sharply today, with the NASDAQ up 6.5% and the S&P 500 up 4.7%, which is a clear risk-on day. Our strategy memory says to put idle cash to work on strong days like this, so the roughly $646 in cash goes to the top-scoring candidates that show all four confirmation signals, SMTC first and then ALAB. All seven existing positions stay as they are, and their automatic profit targets and stop-losses keep working.",
+    "briefing": "Tech stocks dipped today (NASDAQ -0.9%) while the broader S&P 500 was nearly flat (-0.2%), so the market is neutral rather than risk-off. We have $646 in cash and 3 open slots, so we're making one medium-sized buy in Burlington, which has every confirmation signal and isn't overheated. We're holding all seven existing positions and letting the automatic stop-loss and profit-target rules manage them.",
     "market_education": {
-      "summary_en": "Stocks surged broadly today, and the NASDAQ outpaced the S&P 500 because semiconductor and AI-infrastructure names led the rally, as shown by the many chip stocks (ALAB, SMTC, MTSI, NVDA, MU) at the top of the momentum screen. A move this large across the whole market usually means big investors are shifting toward risk at the same time, often because of a change in expectations about the economy or interest rates. No specific news headlines were provided today, so this explanation is based only on price and technical data rather than cited reports.",
-      "summary_zh": "\u4eca\u65e5\u7f8e\u80a1\u5168\u9762\u6025\u5347\uff0c\u7d0d\u6307\u5347\u5e45\u660e\u986f\u8dd1\u8d0f\u6a19\u666e500\uff0c\u4e3b\u8981\u7531\u534a\u5c0e\u9ad4\u53caAI\u57fa\u5efa\u80a1\u5e36\u52d5\uff0c\u52d5\u80fd\u7be9\u9078\u699c\u524d\u5217\u5e7e\u4e4e\u6e05\u4e00\u8272\u662f\u6676\u7247\u80a1\uff0c\u5305\u62ecALAB\u3001SMTC\u3001MTSI\u3001NVDA\u53caMU\u3002\u5982\u6b64\u5927\u5e45\u5ea6\u7684\u666e\u6f32\uff0c\u901a\u5e38\u53cd\u6620\u5927\u578b\u8cc7\u91d1\u540c\u6b65\u8f49\u5411\u98a8\u96aa\u8cc7\u7522\uff0c\u80cc\u5f8c\u591a\u8207\u5e02\u5834\u5c0d\u7d93\u6fdf\u524d\u666f\u6216\u5229\u7387\u8d70\u5411\u7684\u9810\u671f\u8f49\u8b8a\u6709\u95dc\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u80a1\u50f9\u53ca\u6280\u8853\u6578\u64da\u4f5c\u51fa\uff0c\u4e26\u7121\u5f15\u7528\u4efb\u4f55\u5831\u9053\u3002",
+      "summary_en": "Tech-heavy stocks fell more than the overall market today, with the NASDAQ down 0.9% and the S&P 500 down only 0.2%, which means investors moved money between sectors instead of leaving the market. Many of the screened stocks showing strength, like retailers (BURL, KSS, DKS, DLTR, ANF) and biotech names, are outside big tech, which points to money moving into consumer and healthcare stocks ahead of the holiday shopping season. No news headlines were provided today, so this explanation comes only from price and sector patterns and doesn't cite specific reports.",
+      "summary_zh": "\u4eca\u65e5\u79d1\u6280\u80a1\u8dd1\u8f38\u5927\u5e02\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.9%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u50c5\u5fae\u8dcc0.2%\uff0c\u53cd\u6620\u8cc7\u91d1\u5728\u677f\u584a\u4e4b\u9593\u8f2a\u52d5\uff0c\u800c\u975e\u5168\u9762\u64a4\u96e2\u80a1\u5e02\u3002\u5f9e\u7be9\u9078\u7d50\u679c\u4f86\u770b\uff0c\u8d70\u52e2\u5f37\u52c1\u7684\u500b\u80a1\u591a\u5c6c\u79d1\u6280\u4ee5\u5916\u7684\u677f\u584a\uff0c\u4f8b\u5982\u96f6\u552e\u80a1\uff08BURL\u3001KSS\u3001DKS\u3001DLTR\u3001ANF\uff09\u53ca\u751f\u7269\u79d1\u6280\u80a1\uff0c\u986f\u793a\u8cc7\u91d1\u5728\u5e74\u672b\u8cfc\u7269\u65fa\u5b63\u524d\u8f49\u5411\u6d88\u8cbb\u53ca\u91ab\u7642\u677f\u584a\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u80a1\u50f9\u53ca\u677f\u584a\u8d70\u52e2\u4f5c\u51fa\uff0c\u4e26\u672a\u5f15\u7528\u5177\u9ad4\u5831\u9053\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On",
-      "explanation_en": "'Risk-on' describes a day or period when investors feel confident and move money into riskier assets like growth and tech stocks, pushing those prices up. Today's moves, with the NASDAQ up 6.5% and the S&P 500 up 4.7%, are a textbook risk-on day. A disciplined investor can use days like this to put spare cash to work in their strongest ideas, while still keeping stop-losses in place in case the mood reverses.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u6307\u6295\u8cc7\u8005\u60c5\u7dd2\u6a02\u89c0\uff0c\u9858\u610f\u5c07\u8cc7\u91d1\u6295\u5165\u79d1\u6280\u80a1\u3001\u589e\u9577\u80a1\u7b49\u8f03\u9ad8\u98a8\u96aa\u8cc7\u7522\uff0c\u63a8\u9ad8\u76f8\u95dc\u80a1\u50f9\u3002\u4eca\u65e5\u7d0d\u6307\u6025\u53476.5%\u3001\u6a19\u666e500\u53474.7%\uff0c\u6b63\u662f\u5178\u578b\u7684\u98a8\u96aa\u504f\u597d\u65e5\u3002\u6709\u7d00\u5f8b\u7684\u6295\u8cc7\u8005\u6703\u8d81\u9019\u985e\u65e5\u5b50\u628a\u9592\u7f6e\u8cc7\u91d1\u6295\u5165\u6700\u770b\u597d\u7684\u6a19\u7684\uff0c\u4f46\u540c\u6642\u4fdd\u7559\u6b62\u8755\u6a5f\u5236\uff0c\u4ee5\u9632\u5e02\u5834\u60c5\u7dd2\u9006\u8f49\u3002"
+      "term": "Sector Rotation",
+      "explanation_en": "Sector rotation is when investors move money from one part of the market to another, for example selling tech stocks and buying retail or healthcare stocks. That's why the NASDAQ can fall noticeably while the S&P 500 barely moves: money is changing places within the market, not leaving it. Watching where money flows can help you find stocks that are gaining strength even on a down day.",
+      "explanation_zh": "\u677f\u584a\u8f2a\u52d5\u662f\u6307\u6295\u8cc7\u8005\u5c07\u8cc7\u91d1\u5f9e\u67d0\u4e00\u677f\u584a\u8f49\u79fb\u81f3\u53e6\u4e00\u677f\u584a\uff0c\u4f8b\u5982\u6cbd\u552e\u79d1\u6280\u80a1\uff0c\u8f49\u800c\u8cb7\u5165\u96f6\u552e\u6216\u91ab\u7642\u80a1\u3002\u9019\u89e3\u91cb\u4e86\u70ba\u4f55\u7d0d\u65af\u9054\u514b\u6307\u6578\u660e\u986f\u4e0b\u8dcc\u6642\uff0c\u6a19\u666e500\u6307\u6578\u537b\u5e7e\u4e4e\u6301\u5e73\u2014\u2014\u8cc7\u91d1\u53ea\u662f\u5728\u5e02\u5834\u5167\u90e8\u63db\u4f4d\uff0c\u4e26\u975e\u64a4\u51fa\u80a1\u5e02\u3002\u7559\u610f\u8cc7\u91d1\u6d41\u5411\uff0c\u6709\u52a9\u6295\u8cc7\u8005\u5728\u5927\u5e02\u504f\u8edf\u7684\u65e5\u5b50\uff0c\u4ecd\u80fd\u627e\u51fa\u9006\u5e02\u8d70\u5f37\u7684\u80a1\u4efd\u3002"
     }
   }
 }

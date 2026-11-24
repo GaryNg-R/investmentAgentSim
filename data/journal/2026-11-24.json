@@ -1,28 +1,22 @@
 {
   "date": "2026-11-24",
-  "briefing": "Markets rallied sharply today, with the NASDAQ up 6.5% and the S&P 500 up 4.7%, which is a clear risk-on day. Our strategy memory says to put idle cash to work on strong days like this, so the roughly $646 in cash goes to the top-scoring candidates that show all four confirmation signals, SMTC first and then ALAB. All seven existing positions stay as they are, and their automatic profit targets and stop-losses keep working.",
+  "briefing": "Tech stocks dipped today (NASDAQ -0.9%) while the broader S&P 500 was nearly flat (-0.2%), so the market is neutral rather than risk-off. We have $646 in cash and 3 open slots, so we're making one medium-sized buy in Burlington, which has every confirmation signal and isn't overheated. We're holding all seven existing positions and letting the automatic stop-loss and profit-target rules manage them.",
   "daily_lesson": {
-    "term": "Risk-On",
-    "explanation_en": "'Risk-on' describes a day or period when investors feel confident and move money into riskier assets like growth and tech stocks, pushing those prices up. Today's moves, with the NASDAQ up 6.5% and the S&P 500 up 4.7%, are a textbook risk-on day. A disciplined investor can use days like this to put spare cash to work in their strongest ideas, while still keeping stop-losses in place in case the mood reverses.",
-    "explanation_zh": "「風險偏好」（Risk-On）指投資者情緒樂觀，願意將資金投入科技股、增長股等較高風險資產，推高相關股價。今日納指急升6.5%、標普500升4.7%，正是典型的風險偏好日。有紀律的投資者會趁這類日子把閒置資金投入最看好的標的，但同時保留止蝕機制，以防市場情緒逆轉。"
+    "term": "Sector Rotation",
+    "explanation_en": "Sector rotation is when investors move money from one part of the market to another, for example selling tech stocks and buying retail or healthcare stocks. That's why the NASDAQ can fall noticeably while the S&P 500 barely moves: money is changing places within the market, not leaving it. Watching where money flows can help you find stocks that are gaining strength even on a down day.",
+    "explanation_zh": "板塊輪動是指投資者將資金從某一板塊轉移至另一板塊，例如沽售科技股，轉而買入零售或醫療股。這解釋了為何納斯達克指數明顯下跌時，標普500指數卻幾乎持平——資金只是在市場內部換位，並非撤出股市。留意資金流向，有助投資者在大市偏軟的日子，仍能找出逆市走強的股份。"
   },
   "market_education": {
-    "summary_en": "Stocks surged broadly today, and the NASDAQ outpaced the S&P 500 because semiconductor and AI-infrastructure names led the rally, as shown by the many chip stocks (ALAB, SMTC, MTSI, NVDA, MU) at the top of the momentum screen. A move this large across the whole market usually means big investors are shifting toward risk at the same time, often because of a change in expectations about the economy or interest rates. No specific news headlines were provided today, so this explanation is based only on price and technical data rather than cited reports.",
-    "summary_zh": "今日美股全面急升，納指升幅明顯跑贏標普500，主要由半導體及AI基建股帶動，動能篩選榜前列幾乎清一色是晶片股，包括ALAB、SMTC、MTSI、NVDA及MU。如此大幅度的普漲，通常反映大型資金同步轉向風險資產，背後多與市場對經濟前景或利率走向的預期轉變有關。由於今日未有提供具體新聞標題，以上分析僅根據股價及技術數據作出，並無引用任何報道。",
+    "summary_en": "Tech-heavy stocks fell more than the overall market today, with the NASDAQ down 0.9% and the S&P 500 down only 0.2%, which means investors moved money between sectors instead of leaving the market. Many of the screened stocks showing strength, like retailers (BURL, KSS, DKS, DLTR, ANF) and biotech names, are outside big tech, which points to money moving into consumer and healthcare stocks ahead of the holiday shopping season. No news headlines were provided today, so this explanation comes only from price and sector patterns and doesn't cite specific reports.",
+    "summary_zh": "今日科技股跑輸大市，納斯達克指數下跌0.9%，標普500指數則僅微跌0.2%，反映資金在板塊之間輪動，而非全面撤離股市。從篩選結果來看，走勢強勁的個股多屬科技以外的板塊，例如零售股（BURL、KSS、DKS、DLTR、ANF）及生物科技股，顯示資金在年末購物旺季前轉向消費及醫療板塊。由於今日未有提供新聞標題，以上分析僅根據股價及板塊走勢作出，並未引用具體報道。",
     "sources": []
   },
   "trades": [
     {
       "action": "BUY",
-      "ticker": "SMTC",
-      "conviction": "high",
-      "reasoning": "Perfect 100 score with all four confirmation signals (bullish RSI 57.4, MACD crossover with rising histogram, price above SMA-20, volume surge), and its lower share price fits the available cash better."
-    },
-    {
-      "action": "BUY",
-      "ticker": "ALAB",
+      "ticker": "BURL",
       "conviction": "medium",
-      "reasoning": "Perfect 100 score with full multi-signal confirmation including a volume surge on a strong risk-on day, but limited cash may restrict sizing."
+      "reasoning": "BURL shows all four confirmation signals (MACD crossover, rising histogram, RSI 64.7 below overbought, price above SMA-20 with a volume surge), and as an off-price retailer it holds up better than tech on a day when NASDAQ is selling off."
     }
   ],
   "outcomes": {
