@@ -1,14 +1,14 @@
 {
   "date": "2026-11-25",
-  "briefing": "Markets slipped slightly today (NASDAQ -0.6%, S&P 500 -0.3%), a mild, neutral session with no clear risk-off signal. With $646 in idle cash and 3 open slots, we're making one medium-conviction buy in RH, which has all four momentum signals and room to run before it looks overbought. We're holding all existing positions and letting the automatic stop-losses and profit targets do their job.",
+  "briefing": "Markets dipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%. That is a neutral session, not a risk-off signal. With $645 in cash and three open slots, we're making one modest buy in RH, the strongest fully confirmed candidate, and keeping all seven current positions so their profit targets and stop-losses can work.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means you only buy when several different indicators agree, not just one. Today RH showed a bullish MACD crossover, healthy RSI momentum, a price above its 20-day average and unusually high trading volume all at once. When signals line up like this, a move is more likely to be real buying by big investors than a random one-day spike, which matters most on quiet, directionless days.",
-    "explanation_zh": "「多重訊號確認」是指只有在多項技術指標同時發出一致訊號時才入市，而非單憑一個指標下決定。今日RH同時出現MACD黃金交叉、RSI動能健康、股價企穩20日均線之上，以及成交量顯著放大。多項訊號互相印證，代表升勢較可能由大型機構資金推動，而非一時的偶然波動；在方向未明的淡靜市況下，這種確認尤其重要。"
+    "term": "Signal Confirmation",
+    "explanation_en": "Signal confirmation means waiting until several separate indicators all point the same way before buying, instead of acting on just one. Today RH showed four at once: healthy RSI momentum, a bullish MACD crossover, price above its 20-day average, and heavy trading volume. When signals agree like this, it is less likely that the move is a random blip.",
+    "explanation_zh": "「訊號確認」是指在入市前，先等待多個獨立指標同時指向相同方向，而非單憑一個訊號便貿然買入。今日RH同時出現四項訊號：RSI動能健康、MACD黃金交叉、股價企穩20日均線之上，以及成交量明顯放大。多項訊號互相印證時，升勢只屬偶然波動的機會便相對較低。"
   },
   "market_education": {
-    "summary_en": "US stocks edged lower today, with the tech-heavy NASDAQ falling 0.6% and the S&P 500 slipping 0.3%. No news headlines were provided for this session, so we can't name a specific cause, but moves this small usually reflect routine profit-taking and position adjustments rather than a change in market direction. Large-cap chip names like NVDA, MU and AMD are trading below their 20-day averages, which points to softness in semiconductors weighing on the NASDAQ more than on the broader index.",
-    "summary_zh": "美股今日小幅回落，以科技股為主的納斯達克指數下跌0.6%，標普500指數則微跌0.3%。由於本節未有提供新聞資料，暫難確定具體誘因，但如此溫和的跌幅，一般反映市場例行獲利回吐及倉位調整，而非趨勢逆轉。輝達（NVDA）、美光（MU）及超微（AMD）等大型晶片股均跌穿20日均線，顯示半導體板塊疲弱，對納指的拖累明顯大於大市。",
+    "summary_en": "US stocks eased modestly today. The NASDAQ fell 0.6% and the S&P 500 slipped 0.3%, which looks like light profit-taking rather than a broad sell-off. No specific headlines were provided for today's session, so this move is best read as normal back-and-forth trading, with the tech-heavy NASDAQ lagging slightly.",
+    "summary_zh": "美股今日小幅回軟，納斯達克指數下跌0.6%，標普500指數微跌0.3%，走勢較似輕微獲利回吐，而非全面拋售。由於今日未有具體新聞資料，此波動宜視為市場正常的整固，以科技股為主的納指表現略為遜色。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "RH",
       "conviction": "medium",
-      "reasoning": "RH has all four confirmation signals (MACD bullish crossover with a rising histogram, RSI 57.6 well below overbought, price above its 20-day average, and a volume surge), so it is the best use of the idle cash in an open slot."
+      "reasoning": "RH meets all four confirmation signals: RSI 57.6 in the bullish zone and well below overbought, a MACD crossover with a rising histogram, price above SMA-20, and a volume surge, so it fits the idle cash and an open slot."
     }
   ],
   "outcomes": {

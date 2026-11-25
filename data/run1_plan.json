@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-11-25T21:00:47.351060+00:00",
+  "saved_at": "2026-11-25T22:00:43.676857+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,20 +7,20 @@
         "action": "BUY",
         "ticker": "RH",
         "conviction": "medium",
-        "reasoning": "RH has all four confirmation signals (MACD bullish crossover with a rising histogram, RSI 57.6 well below overbought, price above its 20-day average, and a volume surge), so it is the best use of the idle cash in an open slot."
+        "reasoning": "RH meets all four confirmation signals: RSI 57.6 in the bullish zone and well below overbought, a MACD crossover with a rising histogram, price above SMA-20, and a volume surge, so it fits the idle cash and an open slot."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets slipped slightly today (NASDAQ -0.6%, S&P 500 -0.3%), a mild, neutral session with no clear risk-off signal. With $646 in idle cash and 3 open slots, we're making one medium-conviction buy in RH, which has all four momentum signals and room to run before it looks overbought. We're holding all existing positions and letting the automatic stop-losses and profit targets do their job.",
+    "briefing": "Markets dipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%. That is a neutral session, not a risk-off signal. With $645 in cash and three open slots, we're making one modest buy in RH, the strongest fully confirmed candidate, and keeping all seven current positions so their profit targets and stop-losses can work.",
     "market_education": {
-      "summary_en": "US stocks edged lower today, with the tech-heavy NASDAQ falling 0.6% and the S&P 500 slipping 0.3%. No news headlines were provided for this session, so we can't name a specific cause, but moves this small usually reflect routine profit-taking and position adjustments rather than a change in market direction. Large-cap chip names like NVDA, MU and AMD are trading below their 20-day averages, which points to softness in semiconductors weighing on the NASDAQ more than on the broader index.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5c0f\u5e45\u56de\u843d\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u5fae\u8dcc0.3%\u3002\u7531\u65bc\u672c\u7bc0\u672a\u6709\u63d0\u4f9b\u65b0\u805e\u8cc7\u6599\uff0c\u66ab\u96e3\u78ba\u5b9a\u5177\u9ad4\u8a98\u56e0\uff0c\u4f46\u5982\u6b64\u6eab\u548c\u7684\u8dcc\u5e45\uff0c\u4e00\u822c\u53cd\u6620\u5e02\u5834\u4f8b\u884c\u7372\u5229\u56de\u5410\u53ca\u5009\u4f4d\u8abf\u6574\uff0c\u800c\u975e\u8da8\u52e2\u9006\u8f49\u3002\u8f1d\u9054\uff08NVDA\uff09\u3001\u7f8e\u5149\uff08MU\uff09\u53ca\u8d85\u5fae\uff08AMD\uff09\u7b49\u5927\u578b\u6676\u7247\u80a1\u5747\u8dcc\u7a7f20\u65e5\u5747\u7dda\uff0c\u986f\u793a\u534a\u5c0e\u9ad4\u677f\u584a\u75b2\u5f31\uff0c\u5c0d\u7d0d\u6307\u7684\u62d6\u7d2f\u660e\u986f\u5927\u65bc\u5927\u5e02\u3002",
+      "summary_en": "US stocks eased modestly today. The NASDAQ fell 0.6% and the S&P 500 slipped 0.3%, which looks like light profit-taking rather than a broad sell-off. No specific headlines were provided for today's session, so this move is best read as normal back-and-forth trading, with the tech-heavy NASDAQ lagging slightly.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5c0f\u5e45\u56de\u8edf\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u6307\u6578\u5fae\u8dcc0.3%\uff0c\u8d70\u52e2\u8f03\u4f3c\u8f15\u5fae\u7372\u5229\u56de\u5410\uff0c\u800c\u975e\u5168\u9762\u62cb\u552e\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u5177\u9ad4\u65b0\u805e\u8cc7\u6599\uff0c\u6b64\u6ce2\u52d5\u5b9c\u8996\u70ba\u5e02\u5834\u6b63\u5e38\u7684\u6574\u56fa\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u6307\u8868\u73fe\u7565\u70ba\u905c\u8272\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Multi-Signal Confirmation",
-      "explanation_en": "Multi-signal confirmation means you only buy when several different indicators agree, not just one. Today RH showed a bullish MACD crossover, healthy RSI momentum, a price above its 20-day average and unusually high trading volume all at once. When signals line up like this, a move is more likely to be real buying by big investors than a random one-day spike, which matters most on quiet, directionless days.",
-      "explanation_zh": "\u300c\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u300d\u662f\u6307\u53ea\u6709\u5728\u591a\u9805\u6280\u8853\u6307\u6a19\u540c\u6642\u767c\u51fa\u4e00\u81f4\u8a0a\u865f\u6642\u624d\u5165\u5e02\uff0c\u800c\u975e\u55ae\u6191\u4e00\u500b\u6307\u6a19\u4e0b\u6c7a\u5b9a\u3002\u4eca\u65e5RH\u540c\u6642\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u52d5\u80fd\u5065\u5eb7\u3001\u80a1\u50f9\u4f01\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u986f\u8457\u653e\u5927\u3002\u591a\u9805\u8a0a\u865f\u4e92\u76f8\u5370\u8b49\uff0c\u4ee3\u8868\u5347\u52e2\u8f03\u53ef\u80fd\u7531\u5927\u578b\u6a5f\u69cb\u8cc7\u91d1\u63a8\u52d5\uff0c\u800c\u975e\u4e00\u6642\u7684\u5076\u7136\u6ce2\u52d5\uff1b\u5728\u65b9\u5411\u672a\u660e\u7684\u6de1\u975c\u5e02\u6cc1\u4e0b\uff0c\u9019\u7a2e\u78ba\u8a8d\u5c24\u5176\u91cd\u8981\u3002"
+      "term": "Signal Confirmation",
+      "explanation_en": "Signal confirmation means waiting until several separate indicators all point the same way before buying, instead of acting on just one. Today RH showed four at once: healthy RSI momentum, a bullish MACD crossover, price above its 20-day average, and heavy trading volume. When signals agree like this, it is less likely that the move is a random blip.",
+      "explanation_zh": "\u300c\u8a0a\u865f\u78ba\u8a8d\u300d\u662f\u6307\u5728\u5165\u5e02\u524d\uff0c\u5148\u7b49\u5f85\u591a\u500b\u7368\u7acb\u6307\u6a19\u540c\u6642\u6307\u5411\u76f8\u540c\u65b9\u5411\uff0c\u800c\u975e\u55ae\u6191\u4e00\u500b\u8a0a\u865f\u4fbf\u8cbf\u7136\u8cb7\u5165\u3002\u4eca\u65e5RH\u540c\u6642\u51fa\u73fe\u56db\u9805\u8a0a\u865f\uff1aRSI\u52d5\u80fd\u5065\u5eb7\u3001MACD\u9ec3\u91d1\u4ea4\u53c9\u3001\u80a1\u50f9\u4f01\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\u3002\u591a\u9805\u8a0a\u865f\u4e92\u76f8\u5370\u8b49\u6642\uff0c\u5347\u52e2\u53ea\u5c6c\u5076\u7136\u6ce2\u52d5\u7684\u6a5f\u6703\u4fbf\u76f8\u5c0d\u8f03\u4f4e\u3002"
     }
   }
 }
