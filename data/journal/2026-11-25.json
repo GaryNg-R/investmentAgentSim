@@ -1,17 +1,24 @@
 {
   "date": "2026-11-25",
-  "briefing": "Markets fell today: the NASDAQ dropped 1.0% and the S&P 500 slipped 0.4%, so the screener flagged the day as risk-off and returned no buy candidates. With no eligible tickers, I left the $645.88 in cash idle and kept all 7 existing positions. Their automatic stop-loss and profit-target orders stay in place. The portfolio is up 49.9% overall, so protecting gains on a weak day matters more than putting the spare cash to work.",
+  "briefing": "Stocks slipped modestly today, with the NASDAQ down 0.8% and the S&P 500 down 0.4%, a mild pullback rather than a risk-off signal. Cash is above the $500 threshold and 3 slots are open, so I'm putting the spare cash into one medium-conviction position in RH. It has strong technicals and a moderate RSI. All 7 existing positions stay as they are, and the automatic stop-losses and profit targets still apply.",
   "daily_lesson": {
-    "term": "Risk-Off",
-    "explanation_en": "A risk-off day is when investors get nervous and sell riskier assets like growth and tech stocks, often moving money into safer places. Riskier stocks tend to fall more on these days, which is why the NASDAQ dropped more than the S&P 500 today. Holding off on new purchases on risk-off days helps avoid buying just before prices fall further.",
-    "explanation_zh": "「避險模式」（Risk-Off）是指投資者情緒轉趨審慎，沽出科技股、增長股等較高風險的資產，資金轉投較穩陣的地方。在這類日子，高風險股份通常跌得較深，這正是今日納指跌幅大於標普500的原因。避險日暫停建立新倉，有助避免在股價進一步下跌前高位入市。"
+    "term": "Pullback",
+    "explanation_en": "A pullback is a small, short-lived drop in stock prices, usually under 5–10%, that happens while the bigger trend is still intact. Today's dip of less than 1% is a typical example: investors sell some winners to lock in profits, but nothing fundamental has changed. Many investors use pullbacks to add positions at slightly lower prices instead of panic-selling.",
+    "explanation_zh": "「回調」是指股價在整體趨勢未變的情況下出現短暫小幅下跌，跌幅通常不超過5%至10%。今日指數跌不足1%正是典型例子：投資者沽出部分強勢股鎖定利潤，但基本面並無轉變。不少投資者會趁回調以較低價格分批加倉，而非恐慌拋售。"
   },
   "market_education": {
-    "summary_en": "Technology stocks led the market lower today: the NASDAQ fell 1.0%, more than double the S&P 500's 0.4% decline, which points to selling in growth names rather than a broad sell-off. When the tech-heavy index underperforms like this, investors are often taking profits in high-flying stocks or growing cautious about expensive valuations. No specific news headlines were provided in today's data, so no particular catalyst can be cited for the move.",
-    "summary_zh": "今日科技股領跌大市，納斯達克指數下挫1.0%，跌幅是標普500指數（-0.4%）的兩倍以上，顯示沽壓主要集中在增長股，而非全面拋售。科技比重較高的指數明顯跑輸，往往反映投資者在高位獲利回吐，或對估值偏高的板塊轉趨審慎。由於今日數據未附相關新聞標題，暫時無法指出觸發是次調整的具體消息。",
+    "summary_en": "US stocks drifted lower today, and tech-heavy NASDAQ names lost more than the broader S&P 500. Large-cap semiconductor and AI names like NVDA, MU and AMD are still trading below their 20-day moving averages, which points to profit-taking in this year's leaders rather than broad selling. No news headlines were provided today, so this explanation rests only on price and technical data.",
+    "summary_zh": "美股今日小幅回落，以科技股為主的納指跌幅大於標普500。NVDA、MU、AMD等大型半導體及AI股仍在20日移動平均線之下，反映資金正從今年的強勢股獲利回吐，而非全面拋售。由於今日沒有提供新聞標題，以上分析只依據股價及技術數據。",
     "sources": []
   },
-  "trades": [],
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "RH",
+      "conviction": "medium",
+      "reasoning": "RH has a score of 95 with a fresh MACD crossover, a rising histogram and price above its 20-day average, and its RSI of 55.3 leaves the most room before it gets overbought, so it is the cleanest setup for the idle cash."
+    }
+  ],
   "outcomes": {
     "total_value": 14986.44502401352,
     "cash": 645.8750281333923,
