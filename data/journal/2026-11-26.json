@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "briefing": "Markets slipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%. That is a neutral day, not a risk-off one. Cash is above the $500 threshold and 3 slots are open, so I'm putting the spare cash into RH. It has the cleanest setup of the top candidates, and its RSI is lower than CDW's, which is close to overbought. All 7 existing positions stay as they are, and their stop-losses and profit targets will handle exits automatically.",
+  "briefing": "Markets dipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, which counts as a neutral day rather than a sell-off. The portfolio is up about 50% overall. We have $646 in cash and 3 open slots, so we are adding one medium-conviction position in RH, which passed all four of our buy checks. We are keeping all current holdings and letting the stop-losses and profit targets do their job.",
   "daily_lesson": {
-    "term": "Multi-Signal Confirmation",
-    "explanation_en": "Multi-signal confirmation means buying a stock only when several separate indicators agree, such as rising momentum, a healthy RSI, a price above its recent average, and heavier trading volume than usual. Any one signal on its own can be a false alarm, but when several line up together the move is more likely to be real and backed by big investors. Today RH passed all four checks, which is why it was chosen even though the overall market was flat.",
-    "explanation_zh": "「多重訊號確認」是指只在多項獨立指標同時發出正面訊號時才買入股票，例如動能向上、RSI處於健康水平、股價高於近期均線，以及成交量明顯高於平日。單一訊號容易出現假突破，但多項訊號同時成立時，升勢更可能是真實的，並有大型資金支持。今日RH四項條件全部符合，因此即使大市表現平淡，仍獲選為買入目標。"
+    "term": "Confirmation Signals",
+    "explanation_en": "Confirmation signals means waiting for several separate indicators to point the same way before you buy, instead of acting on just one. Today RH had four at once: a MACD crossover, a healthy RSI, a price above its 20-day average, and unusually high trading volume. When all of these line up, it suggests large investors are really buying, not that the price just jumped at random.",
+    "explanation_zh": "「多重訊號確認」是指在買入前，先等待多個獨立指標同時指向同一方向，而非單憑一個訊號便貿然入市。今日RH同時出現四個訊號：MACD黃金交叉、RSI處於健康區間、股價企穩20日均線之上，以及成交量明顯放大。當這些訊號同時出現，通常代表有大型投資者真正入場，而非股價隨機的短暫跳升。"
   },
   "market_education": {
-    "summary_en": "Stocks drifted a little lower today, and tech fell more than the broader market, with the NASDAQ down 0.6% and the S&P 500 down 0.3%. No news headlines came in with today's data, so no specific event can be named as the cause. Moves this small usually mean light, holiday-shortened trading and investors cashing in some recent gains, not a change in the market's direction.",
-    "summary_zh": "今日美股小幅回落，科技股跌幅較大盤為深，納斯達克指數下跌0.6%，標普500指數則微跌0.3%。由於今日未有相關新聞頭條，難以將走勢歸因於特定事件。如此輕微的波動，多反映假期前後交投淡靜及投資者對近期升幅作適度獲利回吐，並非市場趨勢逆轉的訊號。",
+    "summary_en": "Major indexes slipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, so tech stocks fell a bit more than the broader market. A drop this small looks like routine profit-taking and position adjustments, not a real shift in investor mood. No news headlines were provided today, so we can't link the move to a specific event.",
+    "summary_zh": "美股今日小幅回落，納斯達克指數下跌0.6%，標普500指數則微跌0.3%，科技股跌幅略大於大市。如此輕微的跌幅，看來只是一般的獲利回吐和倉位調整，並非市場情緒出現實質轉向。由於今日未有提供相關新聞標題，暫時無法將走勢歸因於特定事件。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "RH",
       "conviction": "medium",
-      "reasoning": "RH meets all four confirmation signals (MACD crossover, RSI 57.6 well below overbought, price above SMA-20, and a volume surge), which suggests big investors are buying and leaves room to rise."
+      "reasoning": "RH shows all four confirmation signals (MACD crossover, RSI 57.6 in the bullish range, price above SMA-20, and a volume surge), and its RSI leaves more room to rise than CDW at 68.2."
     }
   ],
   "outcomes": {
