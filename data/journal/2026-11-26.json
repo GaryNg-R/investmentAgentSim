@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "briefing": "Markets eased slightly in light holiday-week trading, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, so today is neutral rather than risk-off. The portfolio is up about 50% overall, so we are holding all seven positions and letting the automatic profit targets and stop-losses manage them. We are adding one medium-conviction position in RH, the only fully confirmed candidate that isn't near overbought, and keeping the other two slots for a stronger risk-on day.",
+  "briefing": "Markets slipped a little today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, so the day was neutral rather than risk-off. Cash is above the $500 threshold and 3 slots are open, so I'm making one medium-conviction buy in RH, which shows all four signals. All 7 existing positions stay as they are, and their stop-losses and profit targets will handle exits.",
   "daily_lesson": {
-    "term": "Low-Volume Holiday Trading",
-    "explanation_en": "Around holidays like Thanksgiving, many big investors are away, so fewer shares change hands. With less trading, prices can move on small orders, and those moves say less about where the market is really heading. That's why it makes sense to act cautiously on holiday days, for example by making one measured buy instead of filling every open slot at once.",
-    "explanation_zh": "每逢感恩節等假期，不少大型機構投資者休假，市場成交量隨之萎縮。成交稀疏時，少量買賣盤已足以推動股價，因此這段期間的升跌對大市真正走向的參考價值較低。投資者在假期市況宜審慎部署，例如只作單一適量買入，而非一次過填滿所有空倉位。"
+    "term": "Signal Confirmation",
+    "explanation_en": "Signal confirmation means you wait until several independent indicators agree before you act, instead of trusting just one. Today RH was picked because four signals pointed the same way at once: MACD crossover, a healthy RSI, price above its 20-day average, and unusually high trading volume. When several signals agree, the move is less likely to be a random blip and more likely to reflect real buying by big investors.",
+    "explanation_zh": "「訊號確認」是指等待多個互相獨立的技術指標同時指向同一方向才入市，而非單憑一個指標下決定。今日選擇RH，正是因為四個訊號同時出現：MACD黃金交叉、RSI處於健康水平、股價站上20日均線，以及成交量明顯放大。多重訊號共振時，股價走勢較不可能只是隨機波動，而更可能反映機構資金的真實買盤。"
   },
   "market_education": {
-    "summary_en": "Stocks drifted modestly lower, with tech-heavy NASDAQ names giving back a bit more than the broader S&P 500, which often happens when traders lock in gains. Trading around the US Thanksgiving holiday is usually thin, so small moves like these tend to reflect positioning and profit-taking rather than a change in the big picture. No news headlines came with today's data, so we cannot tie the move to a specific catalyst.",
-    "summary_zh": "美股今日小幅回軟，科技股比重較高的納指跌幅略大於標普500，反映部分資金趁高位獲利回吐。適逢美國感恩節假期前後，市場交投普遍淡靜，這類溫和波動多屬倉位調整及獲利了結，未必代表大市趨勢逆轉。由於今日未有相關新聞資料，暫時未能將走勢歸因於特定消息。",
+    "summary_en": "US stocks drifted slightly lower today, with the tech-heavy NASDAQ (-0.6%) falling more than the broader S&P 500 (-0.3%), which points to mild profit-taking in growth names rather than a broad sell-off. No headlines came with today's data, so we can't name a specific cause, and moves this small are often just normal day-to-day swings. Many individual stocks such as RH, CDW and AAPL still show bullish signals, so buyers are still active beneath the flat headline numbers.",
+    "summary_zh": "美股今日小幅回落，以科技股為主的納斯達克指數下跌0.6%，跌幅大於標普500指數的0.3%，反映資金在成長股上輕微獲利了結，而非全面拋售。由於今日數據未附帶相關新聞，無法確定具體觸發因素，而如此輕微的波動往往只是正常的日常起伏。值得留意的是，RH、CDW及蘋果等多隻個股仍呈現看漲訊號，顯示在指數表面平靜之下，買盤依然活躍。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "RH",
       "conviction": "medium",
-      "reasoning": "RH has all four confirmation signals (MACD crossover, RSI 57.6 with room below 70, price above SMA-20, volume surge), so it is a measured way to put idle cash above the $500 threshold to work in an open slot without chasing an overbought name like CDW at RSI 68."
+      "reasoning": "RH is the only candidate with all four signals lined up (MACD crossover, RSI 57.6 with room below overbought, price above SMA-20 and a volume surge), so it is the best use of the idle $645 in an open slot."
     }
   ],
   "outcomes": {
