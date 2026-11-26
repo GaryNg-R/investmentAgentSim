@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-26",
+  "briefing": "Markets dipped slightly today: the NASDAQ fell 0.6% and the S&P 500 fell 0.3%, which counts as a neutral day rather than a selloff. The portfolio is up 49.9%, and all seven positions stay in place with stop-losses and profit targets running automatically. We are putting the leftover cash into RH at medium conviction because it passes every confirmation check, and we are holding back on bigger buys until a clear risk-on day.",
+  "daily_lesson": {
+    "term": "Volume Confirmation",
+    "explanation_en": "Volume confirmation means checking that a stock's price move comes with unusually heavy trading, for example more than 1.5 times its normal daily volume. Heavy volume suggests that large investors such as funds are buying, so the move is more likely to last than a rise on thin trading. Today RH had this volume surge on top of its other bullish signals, which is why we picked it over similar stocks without it.",
+    "explanation_zh": "「成交量確認」是指股價變動時，成交量同時明顯放大，例如超過平日平均成交量的1.5倍。成交量放大顯示基金等大型資金正在積極入市，因此升勢較少量推升的走勢更具持續性。今日RH除其他利好訊號外，亦出現成交量急增，所以我們選擇RH，而非其他欠缺量能配合的同類股份。"
+  },
+  "market_education": {
+    "summary_en": "US stocks slipped modestly today. The NASDAQ fell 0.6% and the S&P 500 fell 0.3%, a pullback typical of quieter, low-volume trading around the Thanksgiving holiday. No news headlines came with today's data, so we cannot point to a specific cause; a move this small usually reflects normal profit-taking rather than a change in the trend.",
+    "summary_zh": "美股今日小幅回落，納斯達克指數下跌0.6%，標普500指數跌0.3%。感恩節假期前後交投通常較淡靜，今日走勢屬於這類常見的溫和調整。由於今日數據未附帶新聞標題，暫時無法指出具體催化因素；如此輕微的跌幅一般反映正常的獲利回吐，而非趨勢轉向。",
+    "sources": []
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "ticker": "RH",
+      "conviction": "medium",
+      "reasoning": "RH has all four confirmation signals (MACD crossover, RSI 57.6 with room below 70, price above SMA-20, and a volume surge), so it is the best use of the $645 of idle cash and one of the 3 open slots."
+    }
+  ],
+  "outcomes": {
+    "total_value": 14986.44502401352,
+    "cash": 645.8750281333923,
+    "pnl_dollar": 4986.445024013519,
+    "pnl_pct": 49.86445024013519,
+    "positions": [
+      {
+        "ticker": "QQQ",
+        "shares": 3.0,
+        "avg_cost": 656.2000122070312
+      },
+      {
+        "ticker": "EAT",
+        "shares": 13.0,
+        "avg_cost": 148.22999572753906
+      },
+      {
+        "ticker": "OLED",
+        "shares": 22.0,
+        "avg_cost": 93.55000305175781
+      },
+      {
+        "ticker": "WT",
+        "shares": 79.0,
+        "avg_cost": 19.59000015258789
+      },
+      {
+        "ticker": "ROAD",
+        "shares": 23.0,
+        "avg_cost": 113.6500015258789
+      },
+      {
+        "ticker": "INOD",
+        "shares": 23.0,
+        "avg_cost": 111.44999694824219
+      },
+      {
+        "ticker": "NET",
+        "shares": 6.0,
+        "avg_cost": 276.9949951171875
+      }
+    ]
+  }
+}
