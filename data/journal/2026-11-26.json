@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "briefing": "Markets dipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, which counts as a neutral day rather than a selloff. We have $645 in cash and 3 open slots, so we're putting the cash into one medium-conviction buy of RH, which shows every buy signal we look for. All seven current positions stay open, and their automatic stop-loss and profit-target levels remain in place.",
+  "briefing": "Markets drifted slightly lower today (NASDAQ -0.6%, S&P 500 -0.3%), a neutral session with no clear risk-off signal. We keep all seven positions and let the automatic stop-loss and profit-target rules manage them. We are making one medium-conviction buy in RH, which passes all four confirmation checks, and leaving the other two slots open for a stronger day.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking that a price move happened on higher-than-usual trading volume, which suggests big investors are behind it rather than a few random trades. Today RH's rise came with volume more than 1.5 times its 20-day average, and the other bullish signals agreed. That is why it was picked over candidates whose signals looked similar but had no volume surge.",
-    "explanation_zh": "「成交量確認」是指股價上升的同時，成交量亦明顯高於平日，顯示升勢背後有大型機構資金參與，而非零星買盤推動。今日RH的升幅伴隨成交量達20日平均的1.5倍以上，加上其他技術指標同樣向好，因此在一眾指標相近但欠缺量能配合的候選股中脫穎而出。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means buying only when several separate indicators agree, such as momentum (RSI), trend (MACD and price above its 20-day average), and trading volume. When all of them line up, the move is more likely backed by big investors and less likely to be random noise. We used this check today to pick RH over other candidates on a quiet market day.",
+    "explanation_zh": "多重訊號確認，是指只在多項獨立指標同時發出一致訊號時才入市，例如動能指標（RSI）、趨勢指標（MACD及股價企穩20日均線之上）以及成交量放大。當各項訊號同步出現，代表升勢較可能獲機構資金支持，而非短暫的隨機波動。今日大市表現平淡，我們正是憑此準則，從眾多候選股中選出RH。"
   },
   "market_education": {
-    "summary_en": "US stocks drifted slightly lower today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%. No news headlines were provided today, so no specific cause can be cited. A move this small is often normal profit-taking or lighter trading around a holiday rather than a change in direction, and many individual stocks still showed bullish signals.",
-    "summary_zh": "美股今日小幅回落，納斯達克指數跌0.6%，標普500指數跌0.3%。由於今日未有相關新聞資料，無法指出具體的觸發因素。如此輕微的波動多屬正常的獲利回吐或假期前後交投淡靜，未必代表趨勢逆轉；事實上，不少個股的技術指標仍然偏強。",
+    "summary_en": "US stocks eased modestly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, a pullback small enough to count as neutral rather than a sell-off. No news headlines were included in today's data, so we can't name a specific cause, and the move looks like ordinary consolidation after recent gains. Some individual names still held up well, with several stocks on our screen showing rising momentum on heavy volume despite the soft overall market.",
+    "summary_zh": "美股今日小幅回軟，那斯達克指數下跌0.6%，標普500指數下跌0.3%，跌幅溫和，屬中性整固格局，未見明顯避險拋售。由於今日數據並未附帶新聞頭條，未能確指單一觸發因素，走勢較似近期升浪後的正常整理。儘管大市偏軟，篩選名單中仍有多隻個股在成交放量下動能持續轉強，顯示資金仍在選擇性佈局。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "RH",
       "conviction": "medium",
-      "reasoning": "RH shows all four signals: RSI 57.6 in the bullish range, a MACD crossover with the histogram rising, price above its 20-day average and a volume surge, and its RSI is lower than CDW's 68.2, which is close to overbought."
+      "reasoning": "RH shows all four confirmation signals (RSI 57.6 with room to run, a bullish MACD crossover with a rising histogram, price above the SMA-20, and a volume surge), and it uses idle cash above the $500 threshold to fill one of three open slots."
     }
   ],
   "outcomes": {
