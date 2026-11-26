@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "briefing": "Markets slipped slightly (NASDAQ -0.6%, S&P 500 -0.3%), which is a neutral day rather than a risk-off one. Today, Nov 26, is Thanksgiving and US exchanges are closed, so these figures likely reflect Wednesday's close. The portfolio is up 49.9% overall, and all 7 holdings stay in place for their automatic profit targets and stop-losses to manage. Cash is above the $500 threshold, so I'm putting it into one medium-conviction position in RH, the candidate with full signal confirmation and RSI furthest from overbought. CDW was passed over because its RSI of 68.2 is close to overbought.",
+  "briefing": "Markets slipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%. That is a neutral day, not a risk-off one. Cash is above the $500 threshold and 3 slots are open, so I'm putting the spare cash into RH. It has the cleanest setup of the top candidates, and its RSI is lower than CDW's, which is close to overbought. All 7 existing positions stay as they are, and their stop-losses and profit targets will handle exits automatically.",
   "daily_lesson": {
-    "term": "Holiday Trading Volume",
-    "explanation_en": "Around major holidays like Thanksgiving, many traders and institutions take time off, so fewer shares change hands and US markets close entirely on the day itself. With fewer buyers and sellers, small orders can move prices more than usual, and index moves on these days often say less about the market's real direction. That's why a mild dip right before a holiday is usually treated as noise rather than a warning sign.",
-    "explanation_zh": "每逢感恩節等重要假期，不少交易員及機構投資者都會休假，市場成交因而明顯萎縮，美股更會在假期當日全日休市。由於買賣雙方減少，即使是小額買賣盤亦可能令股價出現較大波動，因此假期前後的指數表現往往未能真實反映大市方向。正因如此，假期前的輕微回調一般被視為市場雜音，而非警號。"
+    "term": "Multi-Signal Confirmation",
+    "explanation_en": "Multi-signal confirmation means buying a stock only when several separate indicators agree, such as rising momentum, a healthy RSI, a price above its recent average, and heavier trading volume than usual. Any one signal on its own can be a false alarm, but when several line up together the move is more likely to be real and backed by big investors. Today RH passed all four checks, which is why it was chosen even though the overall market was flat.",
+    "explanation_zh": "「多重訊號確認」是指只在多項獨立指標同時發出正面訊號時才買入股票，例如動能向上、RSI處於健康水平、股價高於近期均線，以及成交量明顯高於平日。單一訊號容易出現假突破，但多項訊號同時成立時，升勢更可能是真實的，並有大型資金支持。今日RH四項條件全部符合，因此即使大市表現平淡，仍獲選為買入目標。"
   },
   "market_education": {
-    "summary_en": "US stocks drifted modestly lower, with the tech-heavy NASDAQ down 0.6% and the S&P 500 down 0.3%, a move small enough to count as neutral. No news headlines came with today's data, so the decline can't be tied to a specific catalyst, but light, low-conviction trading is typical going into the Thanksgiving holiday as many participants step away. Under the surface, several mid-cap names such as RH, CDW and INIO still showed strong momentum with above-average volume, which suggests stock-specific buying even though the indexes were soft.",
-    "summary_zh": "美股窄幅偏軟，以科技股為主的納斯達克指數下跌0.6%，標普500指數則微跌0.3%，整體走勢屬中性。今日未有相關新聞資料，故難以將跌勢歸因於特定消息；不過臨近感恩節假期，不少投資者提早離場，市況淡靜、成交缺乏方向屬常見現象。值得留意的是，雖然大市偏弱，RH、CDW及INIO等中型股仍錄得強勁動能並伴隨成交放量，反映個股層面仍有資金承接。",
+    "summary_en": "Stocks drifted a little lower today, and tech fell more than the broader market, with the NASDAQ down 0.6% and the S&P 500 down 0.3%. No news headlines came in with today's data, so no specific event can be named as the cause. Moves this small usually mean light, holiday-shortened trading and investors cashing in some recent gains, not a change in the market's direction.",
+    "summary_zh": "今日美股小幅回落，科技股跌幅較大盤為深，納斯達克指數下跌0.6%，標普500指數則微跌0.3%。由於今日未有相關新聞頭條，難以將走勢歸因於特定事件。如此輕微的波動，多反映假期前後交投淡靜及投資者對近期升幅作適度獲利回吐，並非市場趨勢逆轉的訊號。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "RH",
       "conviction": "medium",
-      "reasoning": "RH shows all four confirmation signals (MACD crossover, rising histogram, price above SMA-20, volume surge) with RSI at 57.6, so it has room to run before it gets overbought, and it is the cleanest setup available for the $645 of idle cash and 3 open slots."
+      "reasoning": "RH meets all four confirmation signals (MACD crossover, RSI 57.6 well below overbought, price above SMA-20, and a volume surge), which suggests big investors are buying and leaves room to rise."
     }
   ],
   "outcomes": {
