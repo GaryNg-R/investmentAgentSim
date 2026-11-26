@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "briefing": "Markets slipped a little today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, so the day was neutral rather than risk-off. Cash is above the $500 threshold and 3 slots are open, so I'm making one medium-conviction buy in RH, which shows all four signals. All 7 existing positions stay as they are, and their stop-losses and profit targets will handle exits.",
+  "briefing": "Markets slipped a little today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%. That is a neutral pullback, not a risk-off signal. The portfolio is up about 50% overall, so all seven existing positions stay in place and their stop-losses and profit targets will handle exits. One medium-conviction buy of RH puts the $646 of idle cash to work in the screen's best fully confirmed setup, and two slots are left open for a stronger risk-on day.",
   "daily_lesson": {
-    "term": "Signal Confirmation",
-    "explanation_en": "Signal confirmation means you wait until several independent indicators agree before you act, instead of trusting just one. Today RH was picked because four signals pointed the same way at once: MACD crossover, a healthy RSI, price above its 20-day average, and unusually high trading volume. When several signals agree, the move is less likely to be a random blip and more likely to reflect real buying by big investors.",
-    "explanation_zh": "「訊號確認」是指等待多個互相獨立的技術指標同時指向同一方向才入市，而非單憑一個指標下決定。今日選擇RH，正是因為四個訊號同時出現：MACD黃金交叉、RSI處於健康水平、股價站上20日均線，以及成交量明顯放大。多重訊號共振時，股價走勢較不可能只是隨機波動，而更可能反映機構資金的真實買盤。"
+    "term": "Sector Rotation",
+    "explanation_en": "Sector rotation is when investors move money out of one group of stocks and into another, for example out of big tech and into consumer or industrial companies. That is why the overall index can dip slightly while some individual stocks keep rising strongly. Spotting rotation helps you find stocks with momentum even on a flat or slightly negative day.",
+    "explanation_zh": "板塊輪動是指投資者將資金從某一類股份轉移至另一類，例如由大型科技股流向消費或工業股。正因如此，大市指數即使輕微下跌，部分個股仍可逆市強勢上升。留意資金輪動的方向，有助投資者在大市平淡甚至偏弱的日子，仍能發掘具上升動能的股份。"
   },
   "market_education": {
-    "summary_en": "US stocks drifted slightly lower today, with the tech-heavy NASDAQ (-0.6%) falling more than the broader S&P 500 (-0.3%), which points to mild profit-taking in growth names rather than a broad sell-off. No headlines came with today's data, so we can't name a specific cause, and moves this small are often just normal day-to-day swings. Many individual stocks such as RH, CDW and AAPL still show bullish signals, so buyers are still active beneath the flat headline numbers.",
-    "summary_zh": "美股今日小幅回落，以科技股為主的納斯達克指數下跌0.6%，跌幅大於標普500指數的0.3%，反映資金在成長股上輕微獲利了結，而非全面拋售。由於今日數據未附帶相關新聞，無法確定具體觸發因素，而如此輕微的波動往往只是正常的日常起伏。值得留意的是，RH、CDW及蘋果等多隻個股仍呈現看漲訊號，顯示在指數表面平靜之下，買盤依然活躍。",
+    "summary_en": "US stocks drifted slightly lower today, with the tech-heavy NASDAQ (-0.6%) falling more than the broader S&P 500 (-0.3%), which points to mild profit-taking in growth names rather than broad selling. Large tech names like NVDA, AMZN and AMD are trading below their 20-day averages, while cyclical and consumer names such as RH, CDW and CAR show strong momentum, a sign that money is rotating between sectors and not leaving the market. No news headlines were provided in today's data, so this move is explained only by price and momentum patterns, not by any specific news event.",
+    "summary_zh": "美股今日小幅回落，以科技股為主的納斯達克指數下跌0.6%，跌幅大於標普500指數的0.3%，反映資金在成長股上溫和獲利了結，而非全面拋售。輝達、亞馬遜及AMD等大型科技股股價仍處於20日均線之下，反觀RH、CDW及CAR等週期及消費類股份則動能強勁，顯示資金正在板塊之間輪動，而非撤出市場。由於今日數據未附新聞標題，以上分析僅以價格及動能走勢為依據，並無引述具體消息。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "RH",
       "conviction": "medium",
-      "reasoning": "RH is the only candidate with all four signals lined up (MACD crossover, RSI 57.6 with room below overbought, price above SMA-20 and a volume surge), so it is the best use of the idle $645 in an open slot."
+      "reasoning": "RH shows all four confirmation signals (MACD crossover, RSI 57.6 well below overbought, price above SMA-20, and a volume surge), so it is the cleanest setup for the idle cash above the $500 threshold."
     }
   ],
   "outcomes": {
