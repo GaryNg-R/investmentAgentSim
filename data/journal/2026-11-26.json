@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "briefing": "Markets dipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, which counts as a neutral day rather than a sell-off. The portfolio is up about 50% overall. We have $646 in cash and 3 open slots, so we are adding one medium-conviction position in RH, which passed all four of our buy checks. We are keeping all current holdings and letting the stop-losses and profit targets do their job.",
+  "briefing": "Markets eased slightly in light holiday-week trading, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, so today is neutral rather than risk-off. The portfolio is up about 50% overall, so we are holding all seven positions and letting the automatic profit targets and stop-losses manage them. We are adding one medium-conviction position in RH, the only fully confirmed candidate that isn't near overbought, and keeping the other two slots for a stronger risk-on day.",
   "daily_lesson": {
-    "term": "Confirmation Signals",
-    "explanation_en": "Confirmation signals means waiting for several separate indicators to point the same way before you buy, instead of acting on just one. Today RH had four at once: a MACD crossover, a healthy RSI, a price above its 20-day average, and unusually high trading volume. When all of these line up, it suggests large investors are really buying, not that the price just jumped at random.",
-    "explanation_zh": "「多重訊號確認」是指在買入前，先等待多個獨立指標同時指向同一方向，而非單憑一個訊號便貿然入市。今日RH同時出現四個訊號：MACD黃金交叉、RSI處於健康區間、股價企穩20日均線之上，以及成交量明顯放大。當這些訊號同時出現，通常代表有大型投資者真正入場，而非股價隨機的短暫跳升。"
+    "term": "Low-Volume Holiday Trading",
+    "explanation_en": "Around holidays like Thanksgiving, many big investors are away, so fewer shares change hands. With less trading, prices can move on small orders, and those moves say less about where the market is really heading. That's why it makes sense to act cautiously on holiday days, for example by making one measured buy instead of filling every open slot at once.",
+    "explanation_zh": "每逢感恩節等假期，不少大型機構投資者休假，市場成交量隨之萎縮。成交稀疏時，少量買賣盤已足以推動股價，因此這段期間的升跌對大市真正走向的參考價值較低。投資者在假期市況宜審慎部署，例如只作單一適量買入，而非一次過填滿所有空倉位。"
   },
   "market_education": {
-    "summary_en": "Major indexes slipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, so tech stocks fell a bit more than the broader market. A drop this small looks like routine profit-taking and position adjustments, not a real shift in investor mood. No news headlines were provided today, so we can't link the move to a specific event.",
-    "summary_zh": "美股今日小幅回落，納斯達克指數下跌0.6%，標普500指數則微跌0.3%，科技股跌幅略大於大市。如此輕微的跌幅，看來只是一般的獲利回吐和倉位調整，並非市場情緒出現實質轉向。由於今日未有提供相關新聞標題，暫時無法將走勢歸因於特定事件。",
+    "summary_en": "Stocks drifted modestly lower, with tech-heavy NASDAQ names giving back a bit more than the broader S&P 500, which often happens when traders lock in gains. Trading around the US Thanksgiving holiday is usually thin, so small moves like these tend to reflect positioning and profit-taking rather than a change in the big picture. No news headlines came with today's data, so we cannot tie the move to a specific catalyst.",
+    "summary_zh": "美股今日小幅回軟，科技股比重較高的納指跌幅略大於標普500，反映部分資金趁高位獲利回吐。適逢美國感恩節假期前後，市場交投普遍淡靜，這類溫和波動多屬倉位調整及獲利了結，未必代表大市趨勢逆轉。由於今日未有相關新聞資料，暫時未能將走勢歸因於特定消息。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "RH",
       "conviction": "medium",
-      "reasoning": "RH shows all four confirmation signals (MACD crossover, RSI 57.6 in the bullish range, price above SMA-20, and a volume surge), and its RSI leaves more room to rise than CDW at 68.2."
+      "reasoning": "RH has all four confirmation signals (MACD crossover, RSI 57.6 with room below 70, price above SMA-20, volume surge), so it is a measured way to put idle cash above the $500 threshold to work in an open slot without chasing an overbought name like CDW at RSI 68."
     }
   ],
   "outcomes": {

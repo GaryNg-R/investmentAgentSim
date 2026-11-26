@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-11-26T19:00:46.064632+00:00",
+  "saved_at": "2026-11-26T20:00:48.682654+00:00",
   "market_direction": "neutral",
   "decisions": {
     "trades": [
@@ -7,20 +7,20 @@
         "action": "BUY",
         "ticker": "RH",
         "conviction": "medium",
-        "reasoning": "RH shows all four confirmation signals (MACD crossover, RSI 57.6 in the bullish range, price above SMA-20, and a volume surge), and its RSI leaves more room to rise than CDW at 68.2."
+        "reasoning": "RH has all four confirmation signals (MACD crossover, RSI 57.6 with room below 70, price above SMA-20, volume surge), so it is a measured way to put idle cash above the $500 threshold to work in an open slot without chasing an overbought name like CDW at RSI 68."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Markets dipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, which counts as a neutral day rather than a sell-off. The portfolio is up about 50% overall. We have $646 in cash and 3 open slots, so we are adding one medium-conviction position in RH, which passed all four of our buy checks. We are keeping all current holdings and letting the stop-losses and profit targets do their job.",
+    "briefing": "Markets eased slightly in light holiday-week trading, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, so today is neutral rather than risk-off. The portfolio is up about 50% overall, so we are holding all seven positions and letting the automatic profit targets and stop-losses manage them. We are adding one medium-conviction position in RH, the only fully confirmed candidate that isn't near overbought, and keeping the other two slots for a stronger risk-on day.",
     "market_education": {
-      "summary_en": "Major indexes slipped slightly today, with the NASDAQ down 0.6% and the S&P 500 down 0.3%, so tech stocks fell a bit more than the broader market. A drop this small looks like routine profit-taking and position adjustments, not a real shift in investor mood. No news headlines were provided today, so we can't link the move to a specific event.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5c0f\u5e45\u56de\u843d\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u4e0b\u8dcc0.6%\uff0c\u6a19\u666e500\u6307\u6578\u5247\u5fae\u8dcc0.3%\uff0c\u79d1\u6280\u80a1\u8dcc\u5e45\u7565\u5927\u65bc\u5927\u5e02\u3002\u5982\u6b64\u8f15\u5fae\u7684\u8dcc\u5e45\uff0c\u770b\u4f86\u53ea\u662f\u4e00\u822c\u7684\u7372\u5229\u56de\u5410\u548c\u5009\u4f4d\u8abf\u6574\uff0c\u4e26\u975e\u5e02\u5834\u60c5\u7dd2\u51fa\u73fe\u5be6\u8cea\u8f49\u5411\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u76f8\u95dc\u65b0\u805e\u6a19\u984c\uff0c\u66ab\u6642\u7121\u6cd5\u5c07\u8d70\u52e2\u6b78\u56e0\u65bc\u7279\u5b9a\u4e8b\u4ef6\u3002",
+      "summary_en": "Stocks drifted modestly lower, with tech-heavy NASDAQ names giving back a bit more than the broader S&P 500, which often happens when traders lock in gains. Trading around the US Thanksgiving holiday is usually thin, so small moves like these tend to reflect positioning and profit-taking rather than a change in the big picture. No news headlines came with today's data, so we cannot tie the move to a specific catalyst.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5c0f\u5e45\u56de\u8edf\uff0c\u79d1\u6280\u80a1\u6bd4\u91cd\u8f03\u9ad8\u7684\u7d0d\u6307\u8dcc\u5e45\u7565\u5927\u65bc\u6a19\u666e500\uff0c\u53cd\u6620\u90e8\u5206\u8cc7\u91d1\u8d81\u9ad8\u4f4d\u7372\u5229\u56de\u5410\u3002\u9069\u9022\u7f8e\u570b\u611f\u6069\u7bc0\u5047\u671f\u524d\u5f8c\uff0c\u5e02\u5834\u4ea4\u6295\u666e\u904d\u6de1\u975c\uff0c\u9019\u985e\u6eab\u548c\u6ce2\u52d5\u591a\u5c6c\u5009\u4f4d\u8abf\u6574\u53ca\u7372\u5229\u4e86\u7d50\uff0c\u672a\u5fc5\u4ee3\u8868\u5927\u5e02\u8da8\u52e2\u9006\u8f49\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u76f8\u95dc\u65b0\u805e\u8cc7\u6599\uff0c\u66ab\u6642\u672a\u80fd\u5c07\u8d70\u52e2\u6b78\u56e0\u65bc\u7279\u5b9a\u6d88\u606f\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Confirmation Signals",
-      "explanation_en": "Confirmation signals means waiting for several separate indicators to point the same way before you buy, instead of acting on just one. Today RH had four at once: a MACD crossover, a healthy RSI, a price above its 20-day average, and unusually high trading volume. When all of these line up, it suggests large investors are really buying, not that the price just jumped at random.",
-      "explanation_zh": "\u300c\u591a\u91cd\u8a0a\u865f\u78ba\u8a8d\u300d\u662f\u6307\u5728\u8cb7\u5165\u524d\uff0c\u5148\u7b49\u5f85\u591a\u500b\u7368\u7acb\u6307\u6a19\u540c\u6642\u6307\u5411\u540c\u4e00\u65b9\u5411\uff0c\u800c\u975e\u55ae\u6191\u4e00\u500b\u8a0a\u865f\u4fbf\u8cbf\u7136\u5165\u5e02\u3002\u4eca\u65e5RH\u540c\u6642\u51fa\u73fe\u56db\u500b\u8a0a\u865f\uff1aMACD\u9ec3\u91d1\u4ea4\u53c9\u3001RSI\u8655\u65bc\u5065\u5eb7\u5340\u9593\u3001\u80a1\u50f9\u4f01\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\uff0c\u4ee5\u53ca\u6210\u4ea4\u91cf\u660e\u986f\u653e\u5927\u3002\u7576\u9019\u4e9b\u8a0a\u865f\u540c\u6642\u51fa\u73fe\uff0c\u901a\u5e38\u4ee3\u8868\u6709\u5927\u578b\u6295\u8cc7\u8005\u771f\u6b63\u5165\u5834\uff0c\u800c\u975e\u80a1\u50f9\u96a8\u6a5f\u7684\u77ed\u66ab\u8df3\u5347\u3002"
+      "term": "Low-Volume Holiday Trading",
+      "explanation_en": "Around holidays like Thanksgiving, many big investors are away, so fewer shares change hands. With less trading, prices can move on small orders, and those moves say less about where the market is really heading. That's why it makes sense to act cautiously on holiday days, for example by making one measured buy instead of filling every open slot at once.",
+      "explanation_zh": "\u6bcf\u9022\u611f\u6069\u7bc0\u7b49\u5047\u671f\uff0c\u4e0d\u5c11\u5927\u578b\u6a5f\u69cb\u6295\u8cc7\u8005\u4f11\u5047\uff0c\u5e02\u5834\u6210\u4ea4\u91cf\u96a8\u4e4b\u840e\u7e2e\u3002\u6210\u4ea4\u7a00\u758f\u6642\uff0c\u5c11\u91cf\u8cb7\u8ce3\u76e4\u5df2\u8db3\u4ee5\u63a8\u52d5\u80a1\u50f9\uff0c\u56e0\u6b64\u9019\u6bb5\u671f\u9593\u7684\u5347\u8dcc\u5c0d\u5927\u5e02\u771f\u6b63\u8d70\u5411\u7684\u53c3\u8003\u50f9\u503c\u8f03\u4f4e\u3002\u6295\u8cc7\u8005\u5728\u5047\u671f\u5e02\u6cc1\u5b9c\u5be9\u614e\u90e8\u7f72\uff0c\u4f8b\u5982\u53ea\u4f5c\u55ae\u4e00\u9069\u91cf\u8cb7\u5165\uff0c\u800c\u975e\u4e00\u6b21\u904e\u586b\u6eff\u6240\u6709\u7a7a\u5009\u4f4d\u3002"
     }
   }
 }
