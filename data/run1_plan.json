@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-11-27T20:00:47.040999+00:00",
+  "saved_at": "2026-11-27T21:00:46.343866+00:00",
   "market_direction": "risk_on",
   "decisions": {
     "trades": [
@@ -7,26 +7,20 @@
         "action": "BUY",
         "ticker": "ANT",
         "conviction": "high",
-        "reasoning": "ANT is the only candidate with a score of 100 and all four confirmation signals: a bullish MACD crossover with a rising histogram, RSI at 61.5 (bullish but not overbought), price about 9.5% above its SMA-20, and a volume surge that points to institutional buying."
-      },
-      {
-        "action": "BUY",
-        "ticker": "COHR",
-        "conviction": "low",
-        "reasoning": "If any cash is left after ANT, COHR is a strong follow-up: its MACD is accelerating, RSI is a healthy 61.9 and price is about 10% above its SMA-20, though it lacks a volume surge."
+        "reasoning": "ANT is the only top candidate that meets all four confirmation signals: RSI 61.5 in the bullish zone, a rising MACD crossover, price well above its 20-day average, and a volume surge, which points to institutional buying on a strong risk-on day."
       }
     ],
     "skip_new_buys": false,
-    "briefing": "Stocks rose broadly today: the NASDAQ gained 2.3% and the S&P 500 gained 1.6%, led by technology. This is the kind of strong risk-on day our playbook says to act on, so we are putting our $646 of idle cash into ANT, the highest-scoring stock with full four-signal confirmation. All seven existing positions stay open, and their automatic profit targets and stop-losses remain in place.",
+    "briefing": "Stocks rallied broadly today, with the NASDAQ up 2.3% and the S&P 500 up 1.6%, a clear risk-on session. Following our rule of putting spare cash to work on strong up days, we are using the remaining ~$646 to start a position in ANT, the only candidate that meets all four of our confirmation signals. All seven existing positions stay open, with their automatic profit targets and stop-losses still in place.",
     "market_education": {
-      "summary_en": "US stocks rose broadly today: the NASDAQ climbed 2.3% and the S&P 500 1.6%, with growth and technology names leading. Many semiconductor and optical-networking stocks on our screener, such as COHR, AAOI, SNDK and MU, flashed bullish MACD crossovers together, which suggests money is flowing back into tech rather than a few isolated moves. No specific news headlines were provided today, so this explanation relies on price, momentum and volume data alone, not on any particular news catalyst.",
-      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u4e0a\u63da\uff0c\u7d0d\u65af\u9054\u514b\u6307\u6578\u6025\u53472.3%\uff0c\u6a19\u666e500\u6307\u6578\u4ea6\u4e0a\u6f321.6%\uff0c\u6210\u9577\u80a1\u53ca\u79d1\u6280\u80a1\u9818\u6f32\u3002\u89c0\u5bdf\u540d\u55ae\u4e2d\u591a\u96bb\u534a\u5c0e\u9ad4\u53ca\u5149\u901a\u8a0a\u80a1\uff0c\u5982COHR\u3001AAOI\u3001SNDK\u53caMU\uff0c\u540c\u6b65\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\uff0c\u986f\u793a\u8cc7\u91d1\u6b63\u91cd\u65b0\u6d41\u5165\u79d1\u6280\u677f\u584a\uff0c\u4e26\u975e\u500b\u5225\u80a1\u4efd\u7684\u96f6\u661f\u7570\u52d5\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u76f8\u95dc\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u80a1\u50f9\u3001\u52d5\u80fd\u53ca\u6210\u4ea4\u91cf\u6578\u64da\uff0c\u4e26\u672a\u6b78\u56e0\u65bc\u7279\u5b9a\u6d88\u606f\u3002",
+      "summary_en": "US stocks rose broadly today, and the tech-heavy NASDAQ (+2.3%) outpaced the S&P 500 (+1.6%), which shows investors were willing to take on more risk. The rally was wide: semiconductors, optical networking, miners and large-cap tech such as AMZN, TSLA and INTC all showed bullish MACD crossovers with prices above their 20-day averages. No specific news headlines were provided for today's session, so this explanation relies only on the price and momentum data rather than citing a particular catalyst.",
+      "summary_zh": "\u7f8e\u80a1\u4eca\u65e5\u5168\u9762\u8d70\u9ad8\uff0c\u4ee5\u79d1\u6280\u80a1\u70ba\u4e3b\u7684\u7d0d\u65af\u9054\u514b\u6307\u6578\u5927\u6f322.3%\uff0c\u8868\u73fe\u512a\u65bc\u6a19\u666e500\u6307\u6578\u76841.6%\uff0c\u53cd\u6620\u5e02\u5834\u98a8\u96aa\u80c3\u7d0d\u660e\u986f\u56de\u5347\u3002\u5347\u52e2\u904d\u53ca\u5404\u677f\u584a\uff0c\u534a\u5c0e\u9ad4\u3001\u5149\u901a\u8a0a\u3001\u7926\u696d\u80a1\u4ee5\u81f3\u4e9e\u99ac\u905c\u3001\u7279\u65af\u62c9\u3001\u82f1\u7279\u723e\u7b49\u5927\u578b\u79d1\u6280\u80a1\uff0c\u5747\u51fa\u73feMACD\u9ec3\u91d1\u4ea4\u53c9\uff0c\u80a1\u50f9\u4ea6\u4f01\u7a6920\u65e5\u5747\u7dda\u4e4b\u4e0a\u3002\u7531\u65bc\u4eca\u65e5\u672a\u6709\u63d0\u4f9b\u5177\u9ad4\u65b0\u805e\u6a19\u984c\uff0c\u4ee5\u4e0a\u5206\u6790\u50c5\u6839\u64da\u50f9\u683c\u53ca\u52d5\u80fd\u6578\u64da\uff0c\u4e26\u7121\u5f15\u8ff0\u7279\u5b9a\u6d88\u606f\u50ac\u5316\u56e0\u7d20\u3002",
       "sources": []
     },
     "daily_lesson": {
-      "term": "Risk-On",
-      "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, faster-growing assets like tech stocks, so growth-heavy indexes such as the NASDAQ outperform. Today's 2.3% NASDAQ jump is a clear example. Strong risk-on days are often a good time to put idle cash to work, but only in stocks whose own signals confirm the move.",
-      "explanation_zh": "\u300c\u98a8\u96aa\u504f\u597d\u300d\uff08Risk-On\uff09\u662f\u6307\u6295\u8cc7\u8005\u4fe1\u5fc3\u5145\u8db3\uff0c\u9858\u610f\u628a\u8cc7\u91d1\u6295\u5165\u79d1\u6280\u80a1\u7b49\u98a8\u96aa\u8f03\u9ad8\u3001\u589e\u9577\u8f03\u5feb\u7684\u8cc7\u7522\uff0c\u4ee4\u7d0d\u65af\u9054\u514b\u9019\u985e\u504f\u91cd\u6210\u9577\u80a1\u7684\u6307\u6578\u8868\u73fe\u8dd1\u8d0f\u5927\u5e02\u3002\u4eca\u65e5\u7d0d\u6307\u6025\u53472.3%\uff0c\u6b63\u662f\u5178\u578b\u4f8b\u5b50\u3002\u5728\u5f37\u52e2\u7684\u98a8\u96aa\u504f\u597d\u65e5\uff0c\u901a\u5e38\u9069\u5408\u628a\u9592\u7f6e\u73fe\u91d1\u6295\u5165\u5e02\u5834\uff0c\u4f46\u53ea\u61c9\u9078\u64c7\u672c\u8eab\u6280\u8853\u8a0a\u865f\u540c\u6a23\u78ba\u8a8d\u5347\u52e2\u7684\u80a1\u7968\u3002"
+      "term": "Volume Confirmation",
+      "explanation_en": "Volume confirmation means checking whether a price move comes with heavier-than-usual trading. When a stock rises on volume well above its average, as ANT did today at more than 1.5 times its 20-day average, it suggests large investors are behind the move, so it is more likely to last than a rise on light trading. That is why we used the volume surge to pick ANT over other candidates whose momentum signals looked similar.",
+      "explanation_zh": "\u6210\u4ea4\u91cf\u78ba\u8a8d\u662f\u6307\u89c0\u5bdf\u80a1\u50f9\u8b8a\u52d5\u6642\uff0c\u6210\u4ea4\u91cf\u662f\u5426\u660e\u986f\u9ad8\u65bc\u5e73\u65e5\u6c34\u5e73\u3002\u82e5\u80a1\u50f9\u5728\u653e\u91cf\u4e0b\u4e0a\u5347\uff0c\u4f8b\u5982ANT\u4eca\u65e5\u6210\u4ea4\u91cf\u8d85\u904e20\u65e5\u5e73\u5747\u76841.5\u500d\uff0c\u5f80\u5f80\u4ee3\u8868\u6709\u5927\u578b\u8cc7\u91d1\u53c3\u8207\uff0c\u5347\u52e2\u8f03\u91cf\u7e2e\u7684\u53cd\u5f48\u66f4\u5177\u6301\u7e8c\u6027\u3002\u6b63\u56e0\u5982\u6b64\uff0c\u6211\u5011\u4ee5\u6210\u4ea4\u91cf\u6025\u589e\u4f5c\u70ba\u95dc\u9375\u4f9d\u64da\uff0c\u5728\u52d5\u80fd\u8a0a\u865f\u76f8\u8fd1\u7684\u773e\u591a\u5019\u9078\u80a1\u4e2d\u9078\u64c7\u4e86ANT\u3002"
     }
   }
 }
