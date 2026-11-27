@@ -1,14 +1,14 @@
 {
   "date": "2026-11-27",
-  "briefing": "Stocks rallied broadly today, with the NASDAQ up 2.3% and the S&P 500 up 1.6%, a clear risk-on session. Following our rule of putting spare cash to work on strong up days, we are using the remaining ~$646 to start a position in ANT, the only candidate that meets all four of our confirmation signals. All seven existing positions stay open, with their automatic profit targets and stop-losses still in place.",
+  "briefing": "It was a strong risk-on day: the NASDAQ rose 2.3% and the S&P 500 rose 1.6%. Following our rule of putting idle cash to work on strong days, we're using the remaining $645 to open a new position in ANT, the best candidate with full signal confirmation. All seven existing positions stay in place so their profit targets and stop-losses can work as set.",
   "daily_lesson": {
-    "term": "Volume Confirmation",
-    "explanation_en": "Volume confirmation means checking whether a price move comes with heavier-than-usual trading. When a stock rises on volume well above its average, as ANT did today at more than 1.5 times its 20-day average, it suggests large investors are behind the move, so it is more likely to last than a rise on light trading. That is why we used the volume surge to pick ANT over other candidates whose momentum signals looked similar.",
-    "explanation_zh": "成交量確認是指觀察股價變動時，成交量是否明顯高於平日水平。若股價在放量下上升，例如ANT今日成交量超過20日平均的1.5倍，往往代表有大型資金參與，升勢較量縮的反彈更具持續性。正因如此，我們以成交量急增作為關鍵依據，在動能訊號相近的眾多候選股中選擇了ANT。"
+    "term": "Risk-On",
+    "explanation_en": "A risk-on day is when investors feel confident and move money into riskier, higher-growth assets such as tech stocks, which is why the NASDAQ often rises more than the broader market. For a disciplined investor, these days are a good time to deploy spare cash into the strongest setups, rather than buying on quiet days just to stay fully invested.",
+    "explanation_zh": "「風險偏好」（Risk-On）是指投資者信心充足，願意把資金投向較高風險、較高增長的資產，例如科技股，因此納指的升幅往往大於大市。對有紀律的投資者而言，這類日子正是動用閒置資金、買入最強勢標的之好時機，而不是在市況平淡時為了滿倉而勉強入市。"
   },
   "market_education": {
-    "summary_en": "US stocks rose broadly today, and the tech-heavy NASDAQ (+2.3%) outpaced the S&P 500 (+1.6%), which shows investors were willing to take on more risk. The rally was wide: semiconductors, optical networking, miners and large-cap tech such as AMZN, TSLA and INTC all showed bullish MACD crossovers with prices above their 20-day averages. No specific news headlines were provided for today's session, so this explanation relies only on the price and momentum data rather than citing a particular catalyst.",
-    "summary_zh": "美股今日全面走高，以科技股為主的納斯達克指數大漲2.3%，表現優於標普500指數的1.6%，反映市場風險胃納明顯回升。升勢遍及各板塊，半導體、光通訊、礦業股以至亞馬遜、特斯拉、英特爾等大型科技股，均出現MACD黃金交叉，股價亦企穩20日均線之上。由於今日未有提供具體新聞標題，以上分析僅根據價格及動能數據，並無引述特定消息催化因素。",
+    "summary_en": "US stocks rallied broadly, with the NASDAQ up 2.3% and the S&P 500 up 1.6%, and tech and growth names led the way. No news headlines came with today's data, so we can't name a specific catalyst, but the screen points to a broad rally: many names across semiconductors, optical networking, miners and large-cap tech showed new bullish MACD crossovers. When the NASDAQ outpaces the S&P 500 like this, investors are usually favoring higher-growth, higher-risk assets.",
+    "summary_zh": "美股今日全面走高，納指升2.3%，標普500指數漲1.6%，科技及成長股領漲。由於今日未有相關新聞標題，無法指明具體催化因素，但從篩選結果可見，半導體、光通訊、礦業以至大型科技股均同步出現MACD黃金交叉，顯示升勢相當廣泛。納指跑贏標普，反映資金明顯偏好高增長、高風險資產，市場情緒轉趨積極。",
     "sources": []
   },
   "trades": [
@@ -16,7 +16,7 @@
       "action": "BUY",
       "ticker": "ANT",
       "conviction": "high",
-      "reasoning": "ANT is the only top candidate that meets all four confirmation signals: RSI 61.5 in the bullish zone, a rising MACD crossover, price well above its 20-day average, and a volume surge, which points to institutional buying on a strong risk-on day."
+      "reasoning": "ANT is the only top-scored candidate (100) with all four confirmation signals: RSI 61.5 in the bullish zone, a MACD crossover with a rising histogram, price well above the SMA-20, and a volume surge that suggests institutional buying."
     }
   ],
   "outcomes": {
